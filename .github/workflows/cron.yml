@@ -1,0 +1,36 @@
+---
+  name: Archive snapshot
+  
+  on:
+    schedule:
+      - cron: "0 0 15 * *"
+    workflow_dispatch:
+  
+
+  jobs:
+    cron:
+      name: Cron
+
+      runs-on: ubuntu-latest
+
+      permissions:
+        contents: write
+
+      steps:
+        - name: Checkout repo
+          uses: actions/checkout@v2
+
+        - name: setup node
+          uses: actions/setup-node@v3
+          with:
+            node-version: 16
+            cache: "npm"
+          
+        - name: Install dependencies
+          run: npm install
+
+        - name: Run
+          run: node main.js
+
+        - name: Commit and push
+          uses: actions4git/add-commit-push@v1
