@@ -22,7 +22,7 @@ async function main() {
 
   const writePromises = data.map(async (record) => {
     core.info(`Processing record for ${record.initial_domain}`);
-    fs.writeFile(`./data/${record.initial_domain}.json`, JSON.stringify(record, null, 2));
+    return fs.writeFile(`./data/${record.initial_domain}.json`, JSON.stringify(record, null, 2));
   });
 
   await Promise.all(writePromises);
