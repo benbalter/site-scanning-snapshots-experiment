@@ -1,0 +1,16 @@
+{
+  "name": "site-scanning-snapshots-experiment",
+  "version": "1.0.0",
+  "description": "Testing how Git versions large datasets most efficiently",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "node-fetch": "^3.3.2"
+  }
+}
