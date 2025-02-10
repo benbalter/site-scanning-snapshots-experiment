@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:21:13.419Z",
+  "scan_date": "2025-02-09T04:17:47.395Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -39,31 +39,43 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOJ",
+    "subagency": "EOIR",
+    "siteplatform": "eRegistry"
+  },
+  "dap_version": "20241218 v8.5 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "code.jquery.com",
+    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "use.fontawesome.com"
+    "use.fontawesome.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://code.jquery.com/jquery-3.3.1.slim.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.googleapis.com/icon",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://use.fontawesome.com/releases/v5.14.0/css/all.css",
-    "https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.woff2"
+    "https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".ereg.eoir.justice.gov"
+    ".ereg.eoir.justice.gov",
+    ".justice.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.31655124308268234",
-  "largest_contentful_paint": "738.7000000029802",
+  "cumulative_layout_shift": "0.31720676391601565",
+  "largest_contentful_paint": "766",
   "required_links_url": [
     "foia",
     "privacy",

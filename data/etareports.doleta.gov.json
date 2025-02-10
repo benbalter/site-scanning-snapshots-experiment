@@ -9,10 +9,10 @@
   "domain": "etareports.doleta.gov",
   "base_domain": "doleta.gov",
   "top_level_domain": "gov",
-  "live": true,
+  "live": false,
   "filter": false,
-  "status_code": 200,
-  "media_type": "text/html",
+  "status_code": 500,
+  "media_type": "image/jpeg",
   "agency": "Department of Labor",
   "bureau": "Office of the Chief Information Officer",
   "branch": "Executive",
@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T05:58:23.126Z",
+  "scan_date": "2025-02-09T07:48:02.788Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,48 +31,32 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1,\"images\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
-  "login_provider": "login.gov",
-  "login": [
-    "\"password\"",
-    "type=\"password\""
-  ],
+  "login_provider": null,
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "www.etareports.doleta.gov"
-  ],
-  "third_party_service_urls": [
-    "https://www.etareports.doleta.gov/css/granteeLogin.css",
-    "https://www.etareports.doleta.gov/css/jquery-ui-1.11.2.custom/external/jquery/jquery.js",
-    "https://www.etareports.doleta.gov/css/jquery-ui-1.11.2.custom/jquery-ui.css",
-    "https://www.etareports.doleta.gov/css/jquery-ui-1.11.2.custom/jquery-ui.js",
-    "https://www.etareports.doleta.gov/images/DOL_logo.gif"
-  ],
-  "third_party_service_count": 1,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
-    ".doleta.gov",
     "etareports.doleta.gov"
   ],
-  "viewport_meta_tag": false,
+  "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1230",
-  "required_links_url": [
-    "privacy"
-  ],
-  "required_links_text": [
-    "accessibility"
-  ],
+  "largest_contentful_paint": "12217.40000000596",
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "DOL Grantee Reporting System - Login",
+  "title": "etareports.doleta.gov (750×600)",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -83,7 +67,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": null,
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -114,6 +98,6 @@
   "uswds_count": 0,
   "www_scan_status": "completed",
   "www_url": "https://www.etareports.doleta.gov",
-  "www_status_code": 200,
-  "www_title": "DOL Grantee Reporting System - Login"
+  "www_status_code": 500,
+  "www_title": "www.etareports.doleta.gov (750×600)"
 }

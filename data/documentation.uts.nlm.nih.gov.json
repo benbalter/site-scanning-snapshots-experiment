@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:26:11.948Z",
+  "scan_date": "2025-02-09T10:20:42.391Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -76,6 +76,7 @@
     "https://use.fontawesome.com/releases/v5.0.10/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2",
     "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nlm.nih.gov/home_assets/css/nlm_main.css",
@@ -86,11 +87,12 @@
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.004653420979817709",
-  "largest_contentful_paint": "531.6000000014901",
+  "largest_contentful_paint": "257.40000000596046",
   "required_links_url": [
     "usa.gov"
   ],

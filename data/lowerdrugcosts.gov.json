@@ -21,7 +21,7 @@
     "gov"
   ],
   "public": null,
-  "scan_date": "2025-02-07T06:55:40.639Z",
+  "scan_date": "2025-02-09T09:03:04.756Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -60,7 +60,9 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1c.akstat.io",
     "6282609.global.r2.siteimproveanalytics.io",
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "googleads.g.doubleclick.net",
@@ -82,13 +84,16 @@
     "zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1c.akstat.io/",
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://googleads.g.doubleclick.net/pagead/id",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://i.ytimg.com/vi_webp/NiqZ9U4DrO4/maxresdefault.webp",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
@@ -116,18 +121,19 @@
     "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
     "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/youtubei/v1/log_event",
     "https://yt3.ggpht.com/5IN40_1_QetV6mBf0DnL1gwGhUnMxs0hGPRfaRVebvr09iG0NlYQpRAtgZB7sAUbst3t5pjY=s68-c-k-c0x00ffffff-no-rj",
     "https://zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 20,
+  "third_party_service_count": 22,
   "cookie_domains": [
     ".hhs.gov",
     ".www.hhs.gov",
     "www.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.29574165283203124",
-  "largest_contentful_paint": "973.6000000014901",
+  "cumulative_layout_shift": "0.3060656902669271",
+  "largest_contentful_paint": "904",
   "required_links_url": [
     "about",
     "fear",

@@ -21,7 +21,7 @@
     "2020_eot"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:27:52.228Z",
+  "scan_date": "2025-02-09T07:07:10.808Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,6 +45,7 @@
   "third_party_service_domains": [
     "d12t4t5x3vyizu.cloudfront.net",
     "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "sessions.bugsnag.com",
     "www.googletagmanager.com"
   ],
@@ -67,19 +68,23 @@
     "https://d12t4t5x3vyizu.cloudfront.net/lucas.house.gov/uploads/2022/02/ian-hutchinson-P8rgDtEFn7s-unsplash-scaled.jpg",
     "https://d12t4t5x3vyizu.cloudfront.net/lucas.house.gov/uploads/2022/02/illo.png",
     "https://d12t4t5x3vyizu.cloudfront.net/lucas.house.gov/uploads/2022/02/issues-transparent.svg",
+    "https://d12t4t5x3vyizu.cloudfront.net/lucas.house.gov/uploads/2022/02/lucas-logo-01-01.svg",
+    "https://d12t4t5x3vyizu.cloudfront.net/lucas.house.gov/uploads/2022/02/modal.jpg",
     "https://d12t4t5x3vyizu.cloudfront.net/lucas.house.gov/uploads/2023/06/Screenshot-2023-06-20-at-2.56.20-PM.png",
     "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://sessions.bugsnag.com/",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".house.gov",
-    ".lucas.house.gov"
+    ".lucas.house.gov",
+    "lucas.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
+  "cumulative_layout_shift": "0.001396173095703125",
+  "largest_contentful_paint": "328.09999999403954",
   "required_links_url": [
     "privacy"
   ],

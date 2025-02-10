@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:42:28.116Z",
+  "scan_date": "2025-02-08T14:54:37.741Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -44,21 +44,34 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "auth.uspto.gov",
     "instana-eum-prod.uspto.gov"
   ],
   "third_party_service_urls": [
+    "https://auth.uspto.gov/api/v1/sessions/me",
     "https://instana-eum-prod.uspto.gov/eum/eum.min.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
-    ".fees.uspto.gov",
-    ".uspto.gov"
+    ".fees.uspto.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.39691666666666664",
-  "largest_contentful_paint": "2050.2000000476837",
-  "required_links_url": null,
-  "required_links_text": null,
+  "largest_contentful_paint": "2345.899999976158",
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "about us",
+    "accessibility",
+    "budget and performance",
+    "freedom of information act",
+    "privacy policy",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "USPTO - Fees Processing",

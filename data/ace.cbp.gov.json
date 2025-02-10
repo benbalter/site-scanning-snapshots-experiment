@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:40:53.251Z",
+  "scan_date": "2025-02-09T02:08:08.196Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,6 +46,7 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP",
   "third_party_service_domains": [
+    "cbptrade2.lightning.force.com",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
     "www.dhs.gov",
@@ -53,6 +54,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cbptrade2.lightning.force.com/_/ContentDomainCSPNoAuth",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/9SBY5-S82LF-G229R-DXV5L-H7WP9",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
@@ -62,14 +64,14 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cbp.gov",
     "ace.cbp.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.8197083000488281",
-  "largest_contentful_paint": "1806.3999999985099",
+  "largest_contentful_paint": "1408.699999988079",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

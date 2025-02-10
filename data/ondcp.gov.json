@@ -24,7 +24,7 @@
     "gov_man"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:34:18.753Z",
+  "scan_date": "2025-02-08T15:58:31.031Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,21 +46,26 @@
   "dap_version": "",
   "ga_tag_id": "G-5S5VLE733W",
   "third_party_service_domains": [
+    "bam.nr-data.net",
+    "js-agent.newrelic.com",
     "s3.amazonaws.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://bam.nr-data.net/1/NRJS-478cab472aef3db5069",
+    "https://bam.nr-data.net/events/1/NRJS-478cab472aef3db5069",
+    "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
     "https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".whitehouse.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "101.90000009536743",
+  "largest_contentful_paint": "103.59999999403954",
   "required_links_url": [
     "about",
     "privacy"

@@ -23,7 +23,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T11:58:31.757Z",
+  "scan_date": "2025-02-08T13:01:38.195Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,11 +49,9 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "analytics.foresee.com",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "gateway.foresee.com",
-    "static.foresee.com",
     "translate-pa.googleapis.com",
     "translate.google.com",
     "translate.googleapis.com",
@@ -63,20 +61,12 @@
     "www.treasurydirect.gov"
   ],
   "third_party_service_urls": [
-    "https://analytics.foresee.com/ingest/events",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
     "https://gateway.foresee.com/code/19.14.7-fs/fs.compress.js",
-    "https://gateway.foresee.com/code/19.14.7-fs/fs.invite.js",
-    "https://gateway.foresee.com/code/19.14.7-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.7-fs/fs.utils.js",
-    "https://gateway.foresee.com/code/19.14.7-fs/templates/trigger/classicdesktop/invite___html.js",
-    "https://gateway.foresee.com/code/19.14.7-fs/templates/trigger/classicdesktop/main.css",
     "https://gateway.foresee.com/sites/treasurydirect-gov/production/gateway.min.js",
-    "https://gateway.foresee.com/sites/treasurydirect-gov/production/trigger/sitelogo.gif",
-    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.png",
-    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.svg",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
     "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
@@ -87,14 +77,14 @@
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
     "https://www.treasurydirect.gov/TA_WS/securities/auctioned"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".treasuryauctions.gov",
     "treasuryauctions.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.020813863647460937",
-  "largest_contentful_paint": "641.9000000059605",
+  "cumulative_layout_shift": "0.01597821944173177",
+  "largest_contentful_paint": "771.1000000238419",
   "required_links_url": [
     "about",
     "foia",

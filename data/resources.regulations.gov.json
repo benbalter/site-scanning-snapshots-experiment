@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T03:34:26.656Z",
+  "scan_date": "2025-02-09T04:35:59.954Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,36 +36,53 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
     "agency": "GSA"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-25499422-7,G-JGTFN0MKWK",
   "third_party_service_domains": [
     "api.regulations.gov",
     "dap.digitalgov.gov",
+    "s3.amazonaws.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://api.regulations.gov/v4/agencies",
+    "https://api.regulations.gov/v4/aggregations/commentEndDate",
+    "https://api.regulations.gov/v4/aggregations/postedDate",
+    "https://api.regulations.gov/v4/docket-aggregations/eo13771Designation",
+    "https://api.regulations.gov/v4/docket-aggregations/major",
+    "https://api.regulations.gov/v4/docket-aggregations/priorityCategory",
+    "https://api.regulations.gov/v4/whats-trending",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://s3.amazonaws.com/prod-regulations-faq/banner.md",
+    "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
+    "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".regulations.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
-  "required_links_url": null,
-  "required_links_text": null,
+  "cumulative_layout_shift": "0.00045266666666666665",
+  "largest_contentful_paint": "1563.9000000059605",
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "Regulations.gov",

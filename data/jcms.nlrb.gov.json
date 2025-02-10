@@ -5,7 +5,7 @@
   "initial_base_domain": "nlrb.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/5e453ed8-e338-43bb-9075-4ed5b8a8caa4/oauth2/v2.0/authorize?client_id=d64e8b4d-f57e-4a73-9de2-d6a9c0aae72d&scope=openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fjcms.nlrb.gov&client-request-id=0194df6d-e179-706c-aec5-cf79258ec4a4&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=3.11.1&client_info=1&code_challenge=8LLoLNTnmgkxsJXj3PJp_wVRcIdG6SB5em5lykqqWO8&code_challenge_method=S256&nonce=0194df6d-e17b-7663-a36e-63c197bda32e&state=eyJpZCI6IjAxOTRkZjZkLWUxN2EtNzJlNS04OTY2LWMyOTA1OTViZDc1NSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D",
+  "url": "https://login.microsoftonline.com/5e453ed8-e338-43bb-9075-4ed5b8a8caa4/oauth2/v2.0/authorize?client_id=d64e8b4d-f57e-4a73-9de2-d6a9c0aae72d&scope=openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fjcms.nlrb.gov&client-request-id=0194e4ff-3263-7df6-8b52-5fc1ebaadbc2&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=3.11.1&client_info=1&code_challenge=9mEF0cdUR-R4ZmHuEqE24vFAsflyL3tn912V_3MZXCo&code_challenge_method=S256&nonce=0194e4ff-3264-7d67-a819-b3a6ad0b7c85&state=eyJpZCI6IjAxOTRlNGZmLTMyNjQtNzY0Yy1hMjU0LTZiMzc0NGM5NzIyYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,9 +21,9 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T08:01:55.299Z",
+  "scan_date": "2025-02-08T09:58:46.978Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -94,8 +94,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06264827604166667",
-  "largest_contentful_paint": "518.3999999985099",
+  "cumulative_layout_shift": "0.16202028124999998",
+  "largest_contentful_paint": "418.80000001192093",
   "required_links_url": [
     "privacy"
   ],

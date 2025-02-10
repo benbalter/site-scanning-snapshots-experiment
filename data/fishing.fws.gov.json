@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:31:23.332Z",
+  "scan_date": "2025-02-09T05:53:59.888Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -44,17 +44,26 @@
     "subagency": "USFWS"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-ykki6L7IxQpSvxq,G-CSLL4ZEK4L,G-C5T6C",
+  "ga_tag_id": "G-KERW0RESPC,G-ykki6L7IxQpSvxq,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c16.akstat.io",
+    "52-222-123-172_s-23-213-34-164_ts-1739080432-clienttons-s.akamaihd.net",
+    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "gtphxldimsufez5iilya-p5sk58-651e40a72-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
     "touchpoints.app.cloud.gov",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c16.akstat.io/",
+    "https://52-222-123-172_s-23-213-34-164_ts-1739080432-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -66,20 +75,22 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
+    "https://gtphxldimsufez5iilya-p5sk58-651e40a72-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/QPMY6-HX4DG-C5T6C-P2FE6-TUAP7",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1064.8999999985099",
+  "largest_contentful_paint": "904.7999999821186",
   "required_links_url": [
     "about",
     "foia",

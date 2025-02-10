@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T01:57:43.505Z",
+  "scan_date": "2025-02-09T02:29:26.546Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
@@ -40,17 +40,12 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "DOC",
-    "subagency": "CEN"
-  },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-VY5XG9XWGG,G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "G-VY5XG9XWGG",
   "third_party_service_domains": [
     "assets.adobedtm.com",
-    "dap.digitalgov.gov",
-    "smetrics.census.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -59,13 +54,9 @@
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/launch-ENdc1ca6bab15e46a5b880a2c3f9d462ab.min.js",
     "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement_Module_ActivityMap.min.js",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://smetrics.census.gov/b/ss/cebulehd",
-    "cebucensusglobalprod/1/JS-2.23.0-LEWM/s85223286622978",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".census.gov",
     ".ces.census.gov",
@@ -74,7 +65,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0021071666666666665",
-  "largest_contentful_paint": "5414.29999999702",
+  "largest_contentful_paint": "3739.9000000059605",
   "required_links_url": [
     "about",
     "foia",

@@ -25,9 +25,9 @@
     "2020_eot"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:17:30.204Z",
+  "scan_date": "2025-02-09T01:35:58.498Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -71,8 +71,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/gtm/js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -80,8 +79,8 @@
     "www.banknet.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.11497019661458333",
-  "largest_contentful_paint": "995.1999999955297",
+  "cumulative_layout_shift": "0.00586667578125",
+  "largest_contentful_paint": "972.3000000119209",
   "required_links_url": [
     "about",
     "foia",
@@ -136,7 +135,6 @@
     "usa-footer",
     "usa-header",
     "usa-intro",
-    "usa-js-loading",
     "usa-list",
     "usa-logo",
     "usa-nav-container",
@@ -145,12 +143,12 @@
     "usa-skipnav"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 30,
+  "uswds_usa_classes": 25,
   "uswds_string": 2,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 72,
+  "uswds_count": 67,
   "www_scan_status": "completed",
   "www_url": "https://www.banknet.gov/entrance/default.html",
   "www_status_code": 200,

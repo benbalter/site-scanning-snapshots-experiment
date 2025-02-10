@@ -5,7 +5,7 @@
   "initial_base_domain": "fema.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://careerpath.fema.gov/",
+  "url": "https://careerpath.fema.gov/#/",
   "domain": "careerpath.fema.gov",
   "base_domain": "fema.gov",
   "top_level_domain": "gov",
@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:05:29.391Z",
+  "scan_date": "2025-02-09T05:17:55.474Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -40,11 +40,17 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-GHG7XR2CMP",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHS",
+    "subagency": "FEMA",
+    "_": "1739078254084"
+  },
+  "dap_version": "20241218 v8.5 - GA4",
+  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
+    "dap.digitalgov.gov",
     "fema.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -52,9 +58,13 @@
     "www.dhs.gov",
     "www.fema.gov",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.w3schools.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fema.gov/sites/default/files/css/css_778_PpnH1cnOg-1AJEO6w6Ww_jSy7Q80VPlEwZcScbs.css",
     "https://fema.gov/sites/default/files/css/css_PgeCv88fPQxyQOotRjq5plSS8gl7nog97-hsgr3EAg0.css",
     "https://fema.gov/sites/default/files/css/css_mt1bojd1nZyjWOaR61Y7JMS_q9dXm9xecMEr4pLWPOo.css",
@@ -80,16 +90,18 @@
     "https://www.fema.gov/sites/default/files/css/css_oHJHuSFfJV7sGFxm5DuKHFG5hT9GWPYGJypoZ3AUThQ.css",
     "https://www.fema.gov/sites/default/files/css/css_zDN6TqcpoQeJ5inEPluM3n6IUhQjIB7oQXHDhR9eXhk.css",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.w3schools.com/w3css/4/w3.css"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".fema.gov",
     "careerpath.fema.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04360384452311198",
-  "largest_contentful_paint": "10388.60000000149",
+  "cumulative_layout_shift": "0.7078035816243489",
+  "largest_contentful_paint": "11891.5",
   "required_links_url": [
     "about",
     "fear",

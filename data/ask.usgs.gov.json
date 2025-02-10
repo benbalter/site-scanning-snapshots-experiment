@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:21:42.502Z",
+  "scan_date": "2025-02-08T14:31:48.344Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,10 +55,8 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-FH5X1PMV8C,UA-77708142-1,UA-108444827-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "cdn.app.cfigroup.com",
     "cdn.gov.cfigroup.com",
     "dap.digitalgov.gov",
-    "e.gov.cfigroup.com",
     "script.hotjar.com",
     "static.addtoany.com",
     "static.hotjar.com",
@@ -68,13 +66,10 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.app.cfigroup.com/webmon/s/UploadFile/2023/6/29/2560px-USGS_logo_green.png",
-    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/122.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/webmon.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://e.gov.cfigroup.com/wmon",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://script.hotjar.com/modules.cac992e2a5a02c5f5129.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.hotjar.com/c/hotjar-606685.js",
@@ -87,16 +82,15 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".usgs.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00015213887532552082",
-  "largest_contentful_paint": "1266.2999999523163",
+  "largest_contentful_paint": "613.1999999880791",
   "required_links_url": [
-    "about",
-    "privacy"
+    "about"
   ],
   "required_links_text": [
     "about us"

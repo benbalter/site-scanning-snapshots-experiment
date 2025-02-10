@@ -5,7 +5,7 @@
   "initial_base_domain": "usdoj.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://esp.usdoj.gov/icam/authenticationendpoint/login.do?RelayState=%2Fc&commonAuthCallerPath=%2Ficam%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=f14e5e66-66c5-4f43-a62e-37f453a7960a&relyingParty=portal2.esp.usdoj.gov&type=samlsso&sp=ESPonPROD&isSaaSApp=false&authenticators=PIVAuthenticator:LOCAL;PIVRegAuthenticator:LOCAL;BasicAuthenticator:LOCAL:LOCAL",
+  "url": "https://esp.usdoj.gov/icam/authenticationendpoint/login.do?RelayState=%2Fc&commonAuthCallerPath=%2Ficam%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=a7cc33e1-7a1c-41aa-9a0e-073980110c31&relyingParty=portal2.esp.usdoj.gov&type=samlsso&sp=ESPonPROD&isSaaSApp=false&authenticators=PIVAuthenticator:LOCAL;PIVRegAuthenticator:LOCAL;BasicAuthenticator:LOCAL:LOCAL",
   "domain": "esp.usdoj.gov",
   "base_domain": "usdoj.gov",
   "top_level_domain": "gov",
@@ -22,9 +22,9 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-06T12:57:13.446Z",
+  "scan_date": "2025-02-08T14:02:43.437Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -47,16 +47,22 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "ds-aksb-a.akamaihd.net"
+  ],
+  "third_party_service_urls": [
+    "https://ds-aksb-a.akamaihd.net/2/415013/b",
+    "https://ds-aksb-a.akamaihd.net/RRT",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".usdoj.gov",
     "esp.usdoj.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "635.9000000953674",
+  "largest_contentful_paint": "635.1000000238419",
   "required_links_url": null,
   "required_links_text": [
     "accessibility"

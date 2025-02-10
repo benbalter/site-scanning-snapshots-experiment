@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:12:31.603Z",
+  "scan_date": "2025-02-08T15:31:34.408Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,6 +46,7 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-PKW7RFP317,G-CSLL4ZEK4L,UA-39090997-1",
   "third_party_service_domains": [
+    "analytics.foresee.com",
     "cdn.jsdelivr.net",
     "code.jquery.com",
     "dap.digitalgov.gov",
@@ -57,6 +58,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.foresee.com/ingest/events",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js",
     "https://code.jquery.com/jquery-2.2.4.min.js",
@@ -69,12 +71,16 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.compress.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.utils.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/sites/newsinhealth/production/gateway.min.js",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/sampling/stagetestdomain.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/site/stagetestdomain.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0011/2616.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/24acd8edbd2b27b489b778a27aa5ffab.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
@@ -82,13 +88,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.004463183675130209",
-  "largest_contentful_paint": "236",
+  "largest_contentful_paint": "305.19999998807907",
   "required_links_url": [
     "about",
     "fear",

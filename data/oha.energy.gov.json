@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:22:20.585Z",
+  "scan_date": "2025-02-09T03:01:08.281Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -43,6 +43,9 @@
   "dap_version": "",
   "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND",
   "third_party_service_domains": [
+    "c.bing.com",
+    "c.clarity.ms",
+    "fonts.gstatic.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
     "s.clarity.ms",
@@ -55,6 +58,9 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://c.bing.com/c.gif",
+    "https://c.clarity.ms/c.gif",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v5-font-face.min.css",
@@ -70,17 +76,20 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".energy.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0012743600260416669",
-  "largest_contentful_paint": "784.2000000029802",
+  "largest_contentful_paint": "754.4000000059605",
   "required_links_url": [
     "about",
     "foia",

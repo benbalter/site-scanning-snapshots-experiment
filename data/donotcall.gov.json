@@ -27,7 +27,7 @@
     "gov_man"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:51:13.985Z",
+  "scan_date": "2025-02-08T17:32:06.413Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,22 +53,25 @@
   "ga_tag_id": "G-X2KH68RJRQ,UA-36365578-3,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "telemetry.consumersentinel.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://telemetry.consumersentinel.gov/api/contentsecuritypolicy",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".donotcall.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.11540000000000002",
-  "largest_contentful_paint": "283.20000000018626",
+  "largest_contentful_paint": "297.80000001192093",
   "required_links_url": [
     "privacy",
     "/es"

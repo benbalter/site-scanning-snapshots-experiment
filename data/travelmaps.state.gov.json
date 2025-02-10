@@ -22,9 +22,9 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T11:42:25.245Z",
+  "scan_date": "2025-02-08T12:42:35.006Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -158,7 +158,9 @@
     "https://js.arcgis.com/4.31/esri/views/2d/mapViewDeps.js",
     "https://js.arcgis.com/4.31/esri/views/2d/webglDeps.js",
     "https://js.arcgis.com/4.31/esri/views/MapView.js",
+    "https://js.arcgis.com/4.31/esri/webdoc/RangeInfo.js",
     "https://js.arcgis.com/4.31/esri/webmap/InitialViewProperties.js",
+    "https://js.arcgis.com/4.31/esri/webmap/background/ColorBackground.js",
     "https://js.arcgis.com/4.31/esri/widgets/Attribution/t9n/Attribution_en.json",
     "https://js.arcgis.com/4.31/esri/widgets/Home.js",
     "https://js.arcgis.com/4.31/esri/widgets/Home/HomeViewModel.js",
@@ -200,7 +202,9 @@
     "https://www.arcgis.com/sharing/rest/portals/self"
   ],
   "third_party_service_count": 10,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".state.gov"
+  ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
   "largest_contentful_paint": "0",

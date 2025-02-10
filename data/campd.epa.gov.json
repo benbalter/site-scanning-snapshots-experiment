@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:21:40.106Z",
+  "scan_date": "2025-02-09T05:41:25.944Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -65,10 +65,12 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".epa.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7910394792073567",
-  "largest_contentful_paint": "710",
+  "cumulative_layout_shift": "0.46961888057454426",
+  "largest_contentful_paint": "880.7999999821186",
   "required_links_url": [
     "about",
     "privacy"
@@ -123,8 +125,7 @@
     "usa-nav",
     "usa-nav-container",
     "usa-overlay",
-    "usa-search",
-    "usa-sr-only"
+    "usa-search"
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 45,

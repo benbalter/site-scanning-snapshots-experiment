@@ -5,7 +5,7 @@
   "initial_base_domain": "stateoig.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/595e2b2f-8279-4651-84a3-6e3609e6dd37/oauth2/authorize?response_type=code&client_id=545b73ab-cfec-453a-a27d-24d9b072fcd4&scope=openid&nonce=4b13438b-b349-47f5-b9f5-a2b124adae9c&redirect_uri=https%3a%2f%2fteamtec.stateoig.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fteamtec.stateoig.gov%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%22dae2c30a-cd26-4d17-9daf-4a85d3cca158%22%7d%23EndOfStateParam%23&client-request-id=dae2c30a-cd26-4d17-9daf-4a85d3cca158&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "url": "https://login.microsoftonline.com/595e2b2f-8279-4651-84a3-6e3609e6dd37/oauth2/authorize?response_type=code&client_id=545b73ab-cfec-453a-a27d-24d9b072fcd4&scope=openid&nonce=86ffb8fe-1fdc-45c5-bc19-a8eabe6a253d&redirect_uri=https%3a%2f%2fteamtec.stateoig.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fteamtec.stateoig.gov%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%220cb35cbc-8c8e-4869-ac90-d59e61528acf%22%7d%23EndOfStateParam%23&client-request-id=0cb35cbc-8c8e-4869-ac90-d59e61528acf&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,9 +21,9 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:31:49.024Z",
+  "scan_date": "2025-02-08T17:08:16.639Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -69,8 +69,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06113420833333334",
-  "largest_contentful_paint": "925.9000000000233",
+  "cumulative_layout_shift": "0.06113689062500001",
+  "largest_contentful_paint": "956.2000000178814",
   "required_links_url": [
     "privacy"
   ],
@@ -99,7 +99,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/595e2b2f-8279-4651-84a3-6e3609e6dd37/oauth2/authorize?response_type=code&client_id=545b73ab-cfec-453a-a27d-24d9b072fcd4&scope=openid&nonce=4ff48b99-1ab6-4953-a5a7-0c84438de79a&redirect_uri=https%3a%2f%2fteamtec.stateoig.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fteamtec.stateoig.gov%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%22dae2c30a-cd26-4d17-9daf-4a85d3cca158%22%7d%23EndOfStateParam%23&client-request-id=dae2c30a-cd26-4d17-9daf-4a85d3cca158&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "sitemap_xml_url": "https://login.microsoftonline.com/595e2b2f-8279-4651-84a3-6e3609e6dd37/oauth2/authorize?response_type=code&client_id=545b73ab-cfec-453a-a27d-24d9b072fcd4&scope=openid&nonce=be9019b6-4dd9-499a-a799-012d3180d55a&redirect_uri=https%3a%2f%2fteamtec.stateoig.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fteamtec.stateoig.gov%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%220cb35cbc-8c8e-4869-ac90-d59e61528acf%22%7d%23EndOfStateParam%23&client-request-id=0cb35cbc-8c8e-4869-ac90-d59e61528acf&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

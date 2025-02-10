@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:35:00.467Z",
+  "scan_date": "2025-02-08T13:38:35.246Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,10 +49,12 @@
     "https://nocapi.api.cert.eauth.usda.gov/iab/enterprise/cms/appMessage/login"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.9562320478922527",
-  "largest_contentful_paint": "1503.3000001907349",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "2352.2000000178814",
   "required_links_url": [
     "privacy",
     "usa.gov"

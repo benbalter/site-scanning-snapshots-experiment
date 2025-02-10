@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:13:12.117Z",
+  "scan_date": "2025-02-08T14:23:21.614Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,6 +48,7 @@
   "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30742211-1,UA-22995010-2,G-84WQK46NT6",
   "third_party_service_domains": [
     "app.enzuzo.com",
+    "basemaps.cartocdn.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -59,6 +60,12 @@
   "third_party_service_urls": [
     "https://app.enzuzo.com/api/public/v1/analytics/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://app.enzuzo.com/scripts/cookiebar/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/8389/5403.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/8389/5404.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/8389/5405.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/8390/5403.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/8390/5404.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/8390/5405.png",
     "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/ajax-loader.gif",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.min.css",
@@ -76,20 +83,19 @@
     "https://use.fontawesome.com/releases/v6.7.2/webfonts/fa-brands-400.woff2",
     "https://use.fontawesome.com/releases/v6.7.2/webfonts/fa-solid-900.woff2",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nl.usembassy.gov",
     ".usembassy.gov",
     "nl.usembassy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.026621540201822915",
-  "largest_contentful_paint": "140.20000004768372",
+  "cumulative_layout_shift": "0.026343200846354164",
+  "largest_contentful_paint": "225.60000002384186",
   "required_links_url": [
     "fear",
     "foia",

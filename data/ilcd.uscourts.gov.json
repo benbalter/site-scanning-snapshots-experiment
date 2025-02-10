@@ -21,7 +21,7 @@
     "uscourts"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:23:52.866Z",
+  "scan_date": "2025-02-08T13:26:19.533Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,23 +46,24 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
-    "cdnjs.cloudflare.com",
-    "code.jquery.com"
+    "code.jquery.com",
+    "speedcdnjs.com"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
-    "https://code.jquery.com/jquery-3.7.0.js"
+    "https://code.jquery.com/jquery-3.7.0.js",
+    "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
     ".ilcd.uscourts.gov",
+    ".uscourts.gov",
     ".www.ilcd.uscourts.gov",
     "www.ilcd.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.12212975260416667",
-  "largest_contentful_paint": "630.7000000476837",
+  "cumulative_layout_shift": "0.11305693359374999",
+  "largest_contentful_paint": "558.4000000059605",
   "required_links_url": [
     "privacy"
   ],

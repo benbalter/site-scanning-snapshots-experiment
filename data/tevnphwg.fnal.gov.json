@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:22:21.424Z",
+  "scan_date": "2025-02-09T05:41:55.699Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,10 +54,12 @@
     "https://www-d0.fnal.gov/mellon/login"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fnal.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.0016",
-  "largest_contentful_paint": "435.5",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "374.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

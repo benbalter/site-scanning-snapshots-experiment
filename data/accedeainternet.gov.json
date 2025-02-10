@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T00:35:31.773Z",
+  "scan_date": "2025-02-09T00:39:36.793Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,29 +47,33 @@
   "dap_version": "",
   "ga_tag_id": "G-Z1CS3FX9D8",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "s.go-mpulse.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2",
     "https://s.go-mpulse.net/boomerang/W4KZZ-62L2B-F8T22-A6AKJ-83T3X",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".getinternet.gov",
     ".www.getinternet.gov",
     "www.getinternet.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08960288997395834",
-  "largest_contentful_paint": "2342.7999999970198",
+  "cumulative_layout_shift": "0.002661966959635417",
+  "largest_contentful_paint": "2085.2999999821186",
   "required_links_url": [
     "about",
     "fear",
@@ -78,11 +82,8 @@
     "privacy"
   ],
   "required_links_text": [
-    "about us",
-    "accessibility",
     "foia",
     "inspector general",
-    "privacy policy",
     "español"
   ],
   "https_enforced": false,

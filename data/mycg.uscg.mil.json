@@ -23,7 +23,7 @@
     "mil-sites1"
   ],
   "public": true,
-  "scan_date": "2025-02-07T05:50:35.084Z",
+  "scan_date": "2025-02-09T07:37:18.541Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,8 +61,8 @@
     "https://fonts.googleapis.com/css",
     "https://media.defense.gov/2024/Nov/15/2003584539/1920/1080/0/241115-G-M0101-2001.JPG",
     "https://media.defense.gov/2025/Feb/05/2003638125/600/400/0/250205-G-M0101-1001.JPG",
+    "https://media.defense.gov/2025/Feb/07/2003643605/600/400/0/250207-G-M0101-1001.JPG",
     "https://media.defense.gov/2025/Jan/14/2003627856/1920/1080/0/241213-G-M0101-7001.JPG",
-    "https://media.defense.gov/2025/Jan/27/2003633000/600/400/0/250127-G-M0101-1001.JPG",
     "https://media.defense.gov/2025/Jan/27/2003633034/600/400/0/250127-G-M0101-2001.JPG",
     "https://media.defense.gov/2025/Jan/29/2003634921/600/400/0/250129-G-M0101-1001.JPG",
     "https://media.defense.gov/2025/Jan/30/2003635441/600/400/0/250130-G-M0101-1001.JPG",
@@ -77,11 +77,13 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".uscg.mil"
+    ".uscg.mil",
+    ".www.mycg.uscg.mil",
+    "www.mycg.uscg.mil"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.7735458898925782",
-  "largest_contentful_paint": "435.40000000596046",
+  "largest_contentful_paint": "418",
   "required_links_url": [
     "about",
     "fear",

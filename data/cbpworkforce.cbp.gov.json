@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:46:47.971Z",
+  "scan_date": "2025-02-08T11:37:22.401Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,6 +46,7 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
     "www.dhs.gov",
@@ -53,23 +54,23 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/396ZU-VB4FU-CN84M-SJY99-DTEDU",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cbp.gov",
     "cbpworkforce.cbp.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.5897144860839844",
-  "largest_contentful_paint": "2066.3999999910593",
+  "cumulative_layout_shift": "0.695756152750651",
+  "largest_contentful_paint": "1653.300000011921",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

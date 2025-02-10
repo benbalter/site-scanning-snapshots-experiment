@@ -5,7 +5,7 @@
   "initial_base_domain": "state.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://auth.staging.pmddtc.state.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=OAg68t1E_piUWtvIjG9H-LsEljJr3ocIhXAgsw-f9qk&code_challenge_method=S256&nonce=0awwfgflnhbInffFiSb1xkBYZePwFHoJZQdGJVpswYdHyScCqDu8jsHDob4cGZge&redirect_uri=https%3A%2F%2Fauth.staging.pmddtc.state.gov%2Fenduser%2Fcallback&response_type=code&state=YJDpj3sJ03ICsskPDu6VfMY3AGREcVjJSU2RgZcGrdq32kawNQqYWV4PrvceZW1B&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://auth.staging.pmddtc.state.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=HAg38f8nx6mW7ptQ1WTUDW8ateTdx-Qjjy3oCm2Xl5E&code_challenge_method=S256&nonce=oeqygLbVabHwQJc27l4rnDBYQTuauhOZ7gwRhbXoaAOXPhE0TDcc1cyR6HuNGlU6&redirect_uri=https%3A%2F%2Fauth.staging.pmddtc.state.gov%2Fenduser%2Fcallback&response_type=code&state=RIqwlYj3f7Jk7lPF8BjJHQhUWq5Du17bx10h929jUeVNqdSPMizAnfRy2o3naFS3&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "auth.staging.pmddtc.state.gov",
   "base_domain": "state.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:17:35.745Z",
+  "scan_date": "2025-02-08T15:35:47.802Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -44,7 +44,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-ue7lNIUpG",
   "third_party_service_domains": [
     "login.okta.com"
   ],
@@ -56,8 +56,8 @@
     "auth.staging.pmddtc.state.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.0330238927408855",
-  "largest_contentful_paint": "487",
+  "cumulative_layout_shift": "1.033027064860026",
+  "largest_contentful_paint": "639.7000000178814",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

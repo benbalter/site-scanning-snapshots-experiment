@@ -25,7 +25,7 @@
     "2020_eot"
   ],
   "public": true,
-  "scan_date": "2025-02-07T07:05:34.730Z",
+  "scan_date": "2025-02-09T09:16:21.073Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,10 +47,11 @@
     "agency": "USDA"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-3Y1EP04WVV,G-CSLL4ZEK4L,UA-27627304-1,UA-96909960-1,G-MKM7D79XFX,G-VYRH7BQ1FL",
+  "ga_tag_id": "G-3Y1EP04WVV,G-CSLL4ZEK4L,UA-27627304-1,UA-96909960-1,G-VYRH7BQ1FL,G-MKM7D79XFX",
   "third_party_service_domains": [
     "10612.global.siteimproveanalytics.io",
     "analytics.google.com",
+    "content.hotjar.io",
     "dap.digitalgov.gov",
     "gov1.qualtrics.com",
     "gov1.siteintercept.qualtrics.com",
@@ -65,6 +66,7 @@
   "third_party_service_urls": [
     "https://10612.global.siteimproveanalytics.io/image.aspx",
     "https://analytics.google.com/g/collect",
+    "https://content.hotjar.io/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php",
@@ -82,23 +84,24 @@
     "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
     "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/11f1c213b300bd2343e444b1b9adbf19b5fad3d2/img/wr-dialog-close-btn-black.png",
     "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://script.hotjar.com/modules.cac992e2a5a02c5f5129.js",
     "https://siteimproveanalytics.com/js/siteanalyze_10612.js",
     "https://static.hotjar.com/c/hotjar-863348.js",
     "https://us1.siteimprove.com/js/siteanalyze_63343.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://zn5sclcftrf3p3joj-usdafedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".farmers.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.08504720052083334",
-  "largest_contentful_paint": "700.1999999955297",
+  "largest_contentful_paint": "660.5999999940395",
   "required_links_url": [
     "foia",
     "privacy",

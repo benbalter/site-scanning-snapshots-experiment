@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:02:56.998Z",
+  "scan_date": "2025-02-08T16:34:00.086Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -38,28 +38,37 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "NASA",
+    "subagency": "GSFC",
+    "dclink": "true"
+  },
+  "dap_version": "20241218 v8.5 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "platform.twitter.com",
     "svs.gsfc.nasa.gov",
-    "syndication.twitter.com"
+    "syndication.twitter.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
     "https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/imergert_1080p.now.png",
-    "https://syndication.twitter.com/settings"
+    "https://syndication.twitter.com/settings",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.041716995849609376",
-  "largest_contentful_paint": "814.6000001430511",
+  "largest_contentful_paint": "741.4000000059605",
   "required_links_url": [
     "about",
     "privacy",

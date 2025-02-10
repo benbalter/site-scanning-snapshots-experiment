@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:12:11.043Z",
+  "scan_date": "2025-02-09T11:03:08.899Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,6 +47,7 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-VC43FDH1NQ,UA-94450-1",
   "third_party_service_domains": [
     "6018797.global.siteimproveanalytics.io",
+    "analytics.google.com",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "nicic.gov",
@@ -57,6 +58,7 @@
   ],
   "third_party_service_urls": [
     "https://6018797.global.siteimproveanalytics.io/image.aspx",
+    "https://analytics.google.com/g/collect",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/v4-shims.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2",
@@ -146,17 +148,18 @@
     "https://s3.amazonaws.com/static.nicic.gov/nicic.gov/files/s3fs_public/asset_injector/css/uswds_fixes-7b3c91fe877b674fa568a6e4d526b961.css",
     "https://siteimproveanalytics.com/js/siteanalyze_6018797.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nicic.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "705.8000000044703",
+  "cumulative_layout_shift": "0.00003516438802083333",
+  "largest_contentful_paint": "3697.7999999821186",
   "required_links_url": [
     "about",
     "privacy",
@@ -230,9 +233,9 @@
   "uswds_usa_classes": 95,
   "uswds_string": 36,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": null,
-  "uswds_version": 0,
-  "uswds_count": 211,
+  "uswds_semantic_version": "2.0.0",
+  "uswds_version": 100,
+  "uswds_count": 311,
   "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,

@@ -21,7 +21,7 @@
     "2020_eot"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:16:44.082Z",
+  "scan_date": "2025-02-09T06:56:23.043Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,7 +48,6 @@
     "bcp.crwdcntrl.net",
     "ce.lijit.com",
     "cm.g.doubleclick.net",
-    "cs.lkqd.net",
     "d.agkn.com",
     "eb2.3lift.com",
     "fei.pro-market.net",
@@ -68,6 +67,7 @@
     "stags.bluekai.com",
     "sync.1rx.io",
     "sync.bfmio.com",
+    "sync.inmobi.com",
     "sync.intentiq.com",
     "syndication.twitter.com",
     "tag.simpli.fi",
@@ -82,11 +82,10 @@
   "third_party_service_urls": [
     "https://aa.agkn.com/adscores/g.pixel",
     "https://ads.stickyadstv.com/user-registering",
-    "https://bcp.crwdcntrl.net/map/c=7625/tp=SIMP/tpid=A640581EBB984F32A6BACB458D8308BD",
-    "https://bcp.crwdcntrl.net/map/ct=y/c=7625/tp=SIMP/tpid=A640581EBB984F32A6BACB458D8308BD",
+    "https://bcp.crwdcntrl.net/map/c=7625/tp=SIMP/tpid=0C459E3D08854638A25615374B088606",
+    "https://bcp.crwdcntrl.net/map/ct=y/c=7625/tp=SIMP/tpid=0C459E3D08854638A25615374B088606",
     "https://ce.lijit.com/merge",
     "https://cm.g.doubleclick.net/pixel",
-    "https://cs.lkqd.net/cs",
     "https://d.agkn.com/pixel/10751/",
     "https://eb2.3lift.com/xuid",
     "https://fei.pro-market.net/engine",
@@ -107,8 +106,10 @@
     "https://s.ad.smaato.net/c/",
     "https://simplifi.partners.tremorhub.com/sync",
     "https://stags.bluekai.com/site/29931",
-    "https://sync.1rx.io/usersync/simplifi/5B0FA59D1DEA4A0E8B137BB878F574AF",
+    "https://sync.1rx.io/usersync/simplifi/1D754DEF2A9B48C0B23974764FFF12F9",
     "https://sync.bfmio.com/sync",
+    "https://sync.inmobi.com/setuid",
+    "https://sync.inmobi.com/sync",
     "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet",
     "https://syndication.twitter.com/settings",
     "https://tag.simpli.fi/sifitag/26bb4150-3b43-013a-c0dd-06a60fe5fe77",
@@ -146,11 +147,13 @@
   ],
   "third_party_service_count": 35,
   "cookie_domains": [
-    ".castro.house.gov"
+    ".castro.house.gov",
+    ".house.gov",
+    "castro.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00022759305826822916",
-  "largest_contentful_paint": "259.30000000447035",
+  "cumulative_layout_shift": "0.0002476319986979167",
+  "largest_contentful_paint": "197",
   "required_links_url": [
     "about",
     "privacy"

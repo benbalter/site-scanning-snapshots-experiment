@@ -26,7 +26,7 @@
     "usagov"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:04:38.446Z",
+  "scan_date": "2025-02-09T02:37:18.714Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,6 +52,7 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,G-9MDR73GM0K",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
@@ -64,6 +65,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
@@ -79,16 +81,17 @@
     "https://www.google.com/cse/static/style/look/v4/default.css",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".cisa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.40420613541666667",
-  "largest_contentful_paint": "764.8999999985099",
+  "cumulative_layout_shift": "0.3301515520833333",
+  "largest_contentful_paint": "3067.9000000059605",
   "required_links_url": [
     "about",
     "fear",

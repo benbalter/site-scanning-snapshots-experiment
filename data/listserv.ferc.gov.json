@@ -16,16 +16,16 @@
   "agency": "Federal Energy Regulatory Commission",
   "bureau": "Federal Energy Regulatory Commission",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": null,
   "source_list": [
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:12:03.969Z",
+  "scan_date": "2025-02-09T05:31:51.929Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "timeout",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -54,12 +54,10 @@
     "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4KLg.woff"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    ".ferc.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.10092905208333333",
-  "largest_contentful_paint": "7279.30000000447",
+  "cumulative_layout_shift": "0.1052578125",
+  "largest_contentful_paint": "7415.4000000059605",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

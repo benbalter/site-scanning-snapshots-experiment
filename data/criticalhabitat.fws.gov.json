@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:46:42.318Z",
+  "scan_date": "2025-02-08T16:12:26.785Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -66,10 +66,12 @@
     "https://www.fws.gov/scripts/js/Universal-Federated-Analytics.js"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fws.gov"
+  ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.026081411132812503",
-  "largest_contentful_paint": "786",
+  "largest_contentful_paint": "594.5999999940395",
   "required_links_url": [
     "about",
     "foia",

@@ -5,7 +5,7 @@
   "initial_base_domain": "fmcs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/a530232b-71f7-4dbc-9715-ec06ce869aa6/oauth2/authorize?client_id=00000007-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMAAAAL9UMpLTqRHvimcAHdgAjDG3W71eV8_d9nuPGGciHZ70_v4ra30Zz63nOkJJbXMFFgEAAAABAAAACS5yZWRpcmVjdCBodHRwczovL2NjbXMzLmNybTkuZHluYW1pY3MuY29tLw%26RedirectTo%3DMAAAAL9UMpLTqRHvimcAHdgAjDHUu8qOpTi0ZAUSw94LDH%252b2vo3tvdCx7%252fixdaxf%252fdN9aWh0dHBzOi8vY2NtczMuY3JtOS5keW5hbWljcy5jb20v%26RedirectToForMcas%3Dhttps%253a%252f%252fccms3.crm9.dynamics.com%252f&response_mode=form_post&nonce=638744986019113396.OGE1ODVjMTctZGQ1OC00Mzk0LWI5NDQtZTBkNThlMTZkZTQ0NDViNmY3MGQtZjlhNS00ZjU2LWE2N2QtODQxZjdlYWQ5ZDI5&redirect_uri=https%3A%2F%2Fbn1--namcrmlivesg101.crm9.dynamics.com%2F&max_age=86400&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=ID_NET472&x-client-ver=8.0.1.0",
+  "url": "https://login.microsoftonline.com/a530232b-71f7-4dbc-9715-ec06ce869aa6/oauth2/authorize?client_id=00000007-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMAAAAL9UMpLTqRHvimcAHdgAjDG3W71eV8_d9nuPGGciHZ70_v4ra30Zz63nOkJJbXMFFgEAAAABAAAACS5yZWRpcmVjdCBodHRwczovL2NjbXMzLmNybTkuZHluYW1pY3MuY29tLw%26RedirectTo%3DMAAAAL9UMpLTqRHvimcAHdgAjDHUu8qOpTi0ZAUSw94LDH%252b2vo3tvdCx7%252fixdaxf%252fdN9aWh0dHBzOi8vY2NtczMuY3JtOS5keW5hbWljcy5jb20v%26RedirectToForMcas%3Dhttps%253a%252f%252fccms3.crm9.dynamics.com%252f&response_mode=form_post&nonce=638746760098935247.YTY5MjBhMjUtODFiZC00NDUzLTk3YzgtNDdmOTQyOTZmMWIwZDA3ZmVjOGUtYmU4Yy00M2Q5LTk3NzAtMzQzNmZjMTZiNDIy&redirect_uri=https%3A%2F%2Fbn1--namcrmlivesg101.crm9.dynamics.com%2F&max_age=86400&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=ID_NET472&x-client-ver=8.0.1.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:16:45.373Z",
+  "scan_date": "2025-02-09T05:33:33.540Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -44,7 +44,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msauthimages.net",
+    "aadcdn.msftauthimages.net",
     "autologon.microsoftazuread-sso.com",
     "login.live.com"
   ],
@@ -59,8 +59,8 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_4ba7c391e6f3f547d8ce.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-ruhrnigm-aqp7r7jno01bmpefj-ywirui3upzffub00/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-ruhrnigm-aqp7r7jno01bmpefj-ywirui3upzffub00/logintenantbranding/0/illustration",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-ruhrnigm-aqp7r7jno01bmpefj-ywirui3upzffub00/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-ruhrnigm-aqp7r7jno01bmpefj-ywirui3upzffub00/logintenantbranding/0/illustration",
     "https://autologon.microsoftazuread-sso.com/a530232b-71f7-4dbc-9715-ec06ce869aa6/winauth/ssoprobe",
     "https://login.live.com/Me.htm"
   ],
@@ -70,8 +70,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2106599583333333",
-  "largest_contentful_paint": "994.7999999970198",
+  "cumulative_layout_shift": "0.08372147916666667",
+  "largest_contentful_paint": "817.2000000178814",
   "required_links_url": [
     "privacy"
   ],

@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T03:11:37.734Z",
+  "scan_date": "2025-02-09T04:05:35.212Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,6 +45,7 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
+    "csp.withgoogle.com",
     "d.clarity.ms",
     "fonts.gstatic.com",
     "ka-p.fontawesome.com",
@@ -60,6 +61,7 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://d.clarity.ms/collect",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
@@ -83,13 +85,13 @@
     "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".energy.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0001747596028645833",
-  "largest_contentful_paint": "1036.1000000014901",
+  "largest_contentful_paint": "1118",
   "required_links_url": [
     "about",
     "inspector",

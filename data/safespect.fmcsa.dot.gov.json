@@ -21,7 +21,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:11:22.707Z",
+  "scan_date": "2025-02-09T04:05:39.943Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -57,10 +57,12 @@
     "https://secure.login.gov/api/openid_connect/certs"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dot.gov"
+  ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "3753.10000000149",
+  "largest_contentful_paint": "0",
   "required_links_url": [
     "about",
     "fear",

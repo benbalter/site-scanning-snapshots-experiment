@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:47:35.042Z",
+  "scan_date": "2025-02-09T06:14:59.663Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -43,39 +43,44 @@
     "agency": "DoD"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-TL9FG10VP2,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-TL9FG10VP2,G-CSLL4ZEK4L,G-XTTKJD1ENC,UA-29536396-4",
   "third_party_service_domains": [
     "analytics.google.com",
     "dap.digitalgov.gov",
     "download.militaryonesource.mil",
     "fonts.gstatic.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://download.militaryonesource.mil/msep/logos/0EA6DA46-1BD6EE5A.jpeg",
-    "https://download.militaryonesource.mil/msep/logos/13FF9BE5-6C8D466E.jpeg",
-    "https://download.militaryonesource.mil/msep/logos/15573-345E6E1E.jpg",
+    "https://download.militaryonesource.mil/MOS/universalnav.min.js",
+    "https://download.militaryonesource.mil/msep/logos/117958BB-B81C080D.png",
+    "https://download.militaryonesource.mil/msep/logos/15629-6D576BBB.jpeg",
     "https://download.militaryonesource.mil/msep/logos/15679-F7806AAB.jpg",
-    "https://download.militaryonesource.mil/msep/logos/15E44380-C431BDD6.png",
-    "https://download.militaryonesource.mil/msep/logos/2614BC74-992CB461.png",
-    "https://download.militaryonesource.mil/msep/logos/5C005DFF-3E52746D.png",
+    "https://download.militaryonesource.mil/msep/logos/41194ECE-7A1C9FA5.png",
+    "https://download.militaryonesource.mil/msep/logos/85D24C2E-E77772A3.jpg",
+    "https://download.militaryonesource.mil/msep/logos/97D87B5E-E015A1D0.jpeg",
     "https://download.militaryonesource.mil/msep/logos/B1875DD0-840C2966.png",
-    "https://download.militaryonesource.mil/msep/logos/Valor%20Logo.jpg",
+    "https://download.militaryonesource.mil/msep/logos/D5F0A4B7-27366506.png",
+    "https://download.militaryonesource.mil/msep/logos/E54FA35D-173E681E.png",
     "https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".militaryonesource.mil",
     "msepjobs.pre.militaryonesource.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00060603125",
-  "largest_contentful_paint": "663.3999999985099",
+  "cumulative_layout_shift": "0.12006019791666667",
+  "largest_contentful_paint": "3460.5",
   "required_links_url": [
     "about"
   ],

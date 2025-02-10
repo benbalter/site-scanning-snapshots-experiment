@@ -16,13 +16,13 @@
   "agency": "Library of Congress",
   "bureau": "Copyright Royalty Board",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "gov",
     "2020_eot"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:20:29.093Z",
+  "scan_date": "2025-02-08T15:41:03.846Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,21 +45,24 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "assets.adobedtm.com",
-    "fonts.googleapis.com"
+    "fonts.googleapis.com",
+    "smon.loc.gov"
   ],
   "third_party_service_urls": [
     "http://fonts.googleapis.com/css",
     "https://assets.adobedtm.com/extensions/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement_Module_ActivityMap.min.js",
-    "https://assets.adobedtm.com/f94f5647937d/624e2240e90d/launch-0610ec681aff.min.js"
+    "https://assets.adobedtm.com/f94f5647937d/624e2240e90d/launch-0610ec681aff.min.js",
+    "https://smon.loc.gov/b/ss/locgovprod/1/JS-2.26.0-LDQM/s17421596917470"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
-    ".crb.gov"
+    ".crb.gov",
+    "www.crb.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.1904296875",
-  "largest_contentful_paint": "1552.2000000476837",
+  "largest_contentful_paint": "3428.7999999821186",
   "required_links_url": [
     "usa.gov"
   ],

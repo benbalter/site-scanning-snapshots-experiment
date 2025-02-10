@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:32:54.535Z",
+  "scan_date": "2025-02-09T05:56:15.833Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -43,8 +43,9 @@
     "agency": "DOD"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-29536396-4,G-CSLL4ZEK4L,G-8EM10LMVV2,UA-29536396-3,G-XTTKJD1ENC",
+  "ga_tag_id": "UA-29536396-4,G-CSLL4ZEK4L,G-8EM10LMVV2",
   "third_party_service_domains": [
+    "analytics.google.com",
     "dap.digitalgov.gov",
     "download.militaryonesource.mil",
     "fonts.googleapis.com",
@@ -56,6 +57,7 @@
     "www.militaryonesource.mil"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://download.militaryonesource.mil/MOS/universalnav.min.js",
@@ -68,7 +70,7 @@
     "https://tableau.awsicf-i2dev.com/javascripts/api/tableau.embedding.3.latest.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/j/collect",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.militaryonesource.mil/wp-content/themes/mos-core/assets/images/social/facebook-footer.svg",
@@ -76,14 +78,14 @@
     "https://www.militaryonesource.mil/wp-content/themes/mos-core/assets/images/social/pinterest-footer.svg",
     "https://www.militaryonesource.mil/wp-content/themes/mos-core/assets/images/social/youtube-footer.svg"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".militaryonesource.mil",
     "demographics.pre.militaryonesource.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03658292358398437",
-  "largest_contentful_paint": "692.3999999985099",
+  "cumulative_layout_shift": "0.035947656249999994",
+  "largest_contentful_paint": "923.7000000178814",
   "required_links_url": [
     "about",
     "privacy",

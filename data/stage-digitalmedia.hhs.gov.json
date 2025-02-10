@@ -22,7 +22,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:19:39.728Z",
+  "scan_date": "2025-02-09T06:58:36.439Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -62,6 +62,7 @@
   "ga_tag_id": "G-1MMNC0V353,UA-36351725-9,G-CSLL4ZEK4L,UA-28750072-9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "ds-aksb-a.akamaihd.net",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
@@ -69,6 +70,8 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://ds-aksb-a.akamaihd.net/2/372233/b",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
@@ -78,14 +81,14 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".hhs.gov",
     ".stage-digitalmedia.hhs.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00002895869954427083",
-  "largest_contentful_paint": "1395.3999999985099",
+  "largest_contentful_paint": "574.5",
   "required_links_url": [
     "about",
     "fear",

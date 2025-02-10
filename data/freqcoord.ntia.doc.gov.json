@@ -5,7 +5,7 @@
   "initial_base_domain": "doc.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/24fe316c-c6bc-4955-9cef-548af1573a94/oauth2/authorize?response_type=code&client_id=69c8b87e-3631-406e-9cc4-1e35446bb519&scope=openid&nonce=ba05b615-30c7-4c8d-828f-46613fd3b8b7&redirect_uri=https%3a%2f%2ffreqcoord-ntiasm.msappproxy.net%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2ffreqcoord-ntiasm.msappproxy.net%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%226f219d74-a311-48c4-b20d-b90a6ebc4c4f%22%7d%23EndOfStateParam%23&client-request-id=6f219d74-a311-48c4-b20d-b90a6ebc4c4f&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "url": "https://login.microsoftonline.com/24fe316c-c6bc-4955-9cef-548af1573a94/oauth2/authorize?response_type=code&client_id=69c8b87e-3631-406e-9cc4-1e35446bb519&scope=openid&nonce=483010d9-f309-4c73-8f38-e5ba368b00dd&redirect_uri=https%3a%2f%2ffreqcoord-ntiasm.msappproxy.net%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2ffreqcoord-ntiasm.msappproxy.net%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%2255e88a45-05d8-4f54-9af9-7ea661cac48c%22%7d%23EndOfStateParam%23&client-request-id=55e88a45-05d8-4f54-9af9-7ea661cac48c&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -23,9 +23,9 @@
     "oira"
   ],
   "public": false,
-  "scan_date": "2025-02-07T05:38:25.344Z",
+  "scan_date": "2025-02-09T07:21:59.807Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -71,8 +71,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.09417505208333334",
-  "largest_contentful_paint": "970.2000000029802",
+  "cumulative_layout_shift": "0.09417875",
+  "largest_contentful_paint": "878",
   "required_links_url": [
     "privacy"
   ],
@@ -101,7 +101,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/24fe316c-c6bc-4955-9cef-548af1573a94/oauth2/authorize?response_type=code&client_id=69c8b87e-3631-406e-9cc4-1e35446bb519&scope=openid&nonce=e486a9cb-d9d6-417e-a742-4e039575bd21&redirect_uri=https%3a%2f%2ffreqcoord-ntiasm.msappproxy.net%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2ffreqcoord-ntiasm.msappproxy.net%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%226f219d74-a311-48c4-b20d-b90a6ebc4c4f%22%7d%23EndOfStateParam%23&client-request-id=6f219d74-a311-48c4-b20d-b90a6ebc4c4f&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "sitemap_xml_url": "https://login.microsoftonline.com/24fe316c-c6bc-4955-9cef-548af1573a94/oauth2/authorize?response_type=code&client_id=69c8b87e-3631-406e-9cc4-1e35446bb519&scope=openid&nonce=aed1f055-07d6-48d2-85eb-52172b0bf8b4&redirect_uri=https%3a%2f%2ffreqcoord-ntiasm.msappproxy.net%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2ffreqcoord-ntiasm.msappproxy.net%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%2255e88a45-05d8-4f54-9af9-7ea661cac48c%22%7d%23EndOfStateParam%23&client-request-id=55e88a45-05d8-4f54-9af9-7ea661cac48c&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

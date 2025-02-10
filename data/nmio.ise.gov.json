@@ -25,7 +25,7 @@
     "mil-sites2"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:19:44.853Z",
+  "scan_date": "2025-02-09T09:42:45.362Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -62,16 +62,18 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
     ".ise.gov",
-    ".nmio.ise.gov"
+    ".nmio.ise.gov",
+    "nmio.ise.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.055913083333333335",
-  "largest_contentful_paint": "294.5",
+  "cumulative_layout_shift": "0.0011097135416666666",
+  "largest_contentful_paint": "243",
   "required_links_url": [
     "about",
     "fear",

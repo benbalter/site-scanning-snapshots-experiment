@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:39:34.814Z",
+  "scan_date": "2025-02-09T02:04:32.221Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -38,17 +38,13 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HHS",
-    "subagency": "NCI"
-  },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-Z1647JE1DF,G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "G-Z1647JE1DF",
   "third_party_service_domains": [
     "assets.adobedtm.com",
     "cptr.ccr.cancer.gov",
-    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "maps.googleapis.com",
@@ -58,7 +54,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/ee53b835867e/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
@@ -71,8 +66,6 @@
     "https://cptr.ccr.cancer.gov/wp-content/uploads/2023/12/cropped-Image-5_Milo-scWest-chip.png",
     "https://cptr.ccr.cancer.gov/wp-content/uploads/2023/12/cropped-M4_435Slide2-region-2_wJoyPlot_crop_Blog-1120x630-1.jpg",
     "https://cptr.ccr.cancer.gov/wp-content/uploads/2023/12/cropped-MSC_MK3949_SMI_Web_Feature-Image2_horizon-1.jpg",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/muli/v29/7Au-p_0qiz-afTf2LwLT4EYFOA.woff2",
     "https://fonts.gstatic.com/s/muli/v29/7Auwp_0qiz-afTLGLQjUwkQ.woff2",
@@ -90,18 +83,18 @@
     "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
     "https://maps.gstatic.com/maps-api-v3/embed/js/59/8/init_embed.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s8511511378599",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s48781135165272",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".cancer.gov",
     "spitr.ccr.cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.20540532975260414",
-  "largest_contentful_paint": "846.1000000014901",
+  "cumulative_layout_shift": "0.16854479166666664",
+  "largest_contentful_paint": "793.6999999880791",
   "required_links_url": [
     "foia",
     "usa.gov"

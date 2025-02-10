@@ -21,9 +21,9 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T01:15:53.601Z",
+  "scan_date": "2025-02-09T01:35:18.848Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -44,7 +44,7 @@
     "subagency": "catalog"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-0VS4QBSPD8,G-0KHCNR6KSZ,UA-17592594-3,UA-182127501-1,UA-114045448-3,UA-79277885-1,G-LLD83B48H0,G-22HXZL8GY4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-0KHCNR6KSZ,G-0VS4QBSPD8,UA-182127501-1,UA-114045448-3,UA-79277885-1,UA-17592594-3,G-LLD83B48H0,G-22HXZL8GY4",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "s3.amazonaws.com",
@@ -55,15 +55,14 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/39/7430/5743039/content/arcmedia/rediscovery/12362_2006_001_a.jpg",
+    "https://s3.amazonaws.com/NARAprodstorage/lz/stillpix/064-pr/64-PR-141-14.jpg",
     "https://script.crazyegg.com/pages/scripts/0034/3988.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -71,8 +70,8 @@
     ".catalog.archives.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.126657158203125",
-  "largest_contentful_paint": "2058.39999999851",
+  "cumulative_layout_shift": "0.12321138151041666",
+  "largest_contentful_paint": "1783.2999999821186",
   "required_links_url": [
     "foia",
     "privacy"

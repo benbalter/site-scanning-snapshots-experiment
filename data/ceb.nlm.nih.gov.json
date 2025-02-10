@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:25:38.509Z",
+  "scan_date": "2025-02-09T09:38:26.509Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -75,6 +75,7 @@
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://use.fontawesome.com/releases/v5.0.10/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nlm.nih.gov/core/nlm-notifyExternal/1.0/nlm-notifyExternal.min.js",
@@ -89,11 +90,12 @@
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.013655178955078126",
-  "largest_contentful_paint": "314.1000000014901",
+  "largest_contentful_paint": "340",
   "required_links_url": [
     "about",
     "usa.gov"

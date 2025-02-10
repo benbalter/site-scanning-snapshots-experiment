@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:16:17.049Z",
+  "scan_date": "2025-02-08T13:17:09.812Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":2}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -46,8 +46,6 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-ynjIwkF3mhU,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "684d0d47.akstat.io",
-    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -57,8 +55,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://684d0d47.akstat.io/",
-    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -75,13 +71,14 @@
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08375",
-  "largest_contentful_paint": "1240.2999999523163",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "648.5999999940395",
   "required_links_url": [
     "about",
     "foia",

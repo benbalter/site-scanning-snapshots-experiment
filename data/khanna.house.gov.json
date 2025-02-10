@@ -21,7 +21,7 @@
     "2020_eot"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:30:57.857Z",
+  "scan_date": "2025-02-09T07:11:04.981Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -43,10 +43,7 @@
   "dap_version": "",
   "ga_tag_id": "G-809QMSF5ND",
   "third_party_service_domains": [
-    "a.tile.openstreetmap.org",
     "api.hcaptcha.com",
-    "b.tile.openstreetmap.org",
-    "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -54,14 +51,11 @@
     "kml.house.gov",
     "maxst.icons8.com",
     "newassets.hcaptcha.com",
+    "services.arcgisonline.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://a.tile.openstreetmap.org/10/164/397.png",
-    "https://a.tile.openstreetmap.org/10/165/396.png",
     "https://api.hcaptcha.com/checksiteconfig",
-    "https://b.tile.openstreetmap.org/10/165/397.png",
-    "https://c.tile.openstreetmap.org/10/164/396.png",
     "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
@@ -70,16 +64,21 @@
     "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css",
     "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.woff2",
     "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
+    "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/10/396/164",
+    "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/10/396/165",
+    "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/10/397/164",
+    "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/10/397/165",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 10,
   "cookie_domains": [
+    ".house.gov",
     ".khanna.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.12146232389322917",
-  "largest_contentful_paint": "403.1000000014901",
+  "cumulative_layout_shift": "0.12182561979166667",
+  "largest_contentful_paint": "283",
   "required_links_url": [
     "about",
     "privacy"

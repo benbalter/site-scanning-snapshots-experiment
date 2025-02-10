@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:01:28.668Z",
+  "scan_date": "2025-02-09T03:54:09.361Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -44,19 +44,23 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "bam.nr-data.net",
+    "js-agent.newrelic.com",
     "www.nhtsa.gov"
   ],
   "third_party_service_urls": [
+    "https://bam.nr-data.net/1/7b0677c0e6",
+    "https://js-agent.newrelic.com/nr-974.min.js",
     "https://www.nhtsa.gov/themes/custom/nhtsa/images/DOT-logo.svg",
     "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-logo-small-viewport.svg"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     "cdan.dot.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.16205822916666668",
-  "largest_contentful_paint": "785.2999999970198",
+  "largest_contentful_paint": "578.2999999821186",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

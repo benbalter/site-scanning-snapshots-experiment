@@ -24,7 +24,7 @@
     "gov_man"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:53:51.344Z",
+  "scan_date": "2025-02-09T03:42:39.535Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -65,16 +65,19 @@
   "third_party_service_domains": [
     "6282609.global.r2.siteimproveanalytics.io",
     "dap.digitalgov.gov",
+    "gov1.siteintercept.qualtrics.com",
     "s.go-mpulse.net",
     "script.crazyegg.com",
     "search.usa.gov",
     "siteimproveanalytics.com",
     "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.youtube.com",
+    "zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://s.go-mpulse.net/boomerang/KXTEL-Y7J86-GB25A-JVVUG-FD68Q",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/www.hhs.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/site/www.hhs.gov.json",
@@ -88,17 +91,18 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".hhs.gov",
     ".www.hhs.gov",
     "www.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.29216145930989584",
-  "largest_contentful_paint": "1294.6999999955297",
+  "cumulative_layout_shift": "0.33341466011555987",
+  "largest_contentful_paint": "777.6999999880791",
   "required_links_url": [
     "about",
     "fear",

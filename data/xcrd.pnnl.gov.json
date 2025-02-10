@@ -5,7 +5,7 @@
   "initial_base_domain": "pnnl.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fxcrd.pnnl.gov%2F.auth%2Flogin%2Faad%2Fcallback&client_id=963188ff-5013-4c32-8f33-5acd534cf55f&scope=openid+profile+email&response_mode=form_post&nonce=4d57331728a947d492e2b1a0cb871337_20250206181107&state=redir%3D%252F",
+  "url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fxcrd.pnnl.gov%2F.auth%2Flogin%2Faad%2Fcallback&client_id=963188ff-5013-4c32-8f33-5acd534cf55f&scope=openid+profile+email&response_mode=form_post&nonce=b4fe1584f4494a0f89ee71c2c85a93d6_20250208184442&state=redir%3D%252F",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,9 +21,9 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:06:13.862Z",
+  "scan_date": "2025-02-09T02:39:49.948Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -44,7 +44,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msftauthimages.net",
+    "aadcdn.msauthimages.net",
     "login.live.com"
   ],
   "third_party_service_urls": [
@@ -55,7 +55,7 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_510f960da65b56e0607c.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_cc2c59f5ef2c09e14b08.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-j-j1n0gpbmujfyldmxdd-hndkqqrijywjjr5rtgnrk/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-j-j1n0gpbmujfyldmxdd-hndkqqrijywjjr5rtgnrk/logintenantbranding/0/bannerlogo",
     "https://login.live.com/Me.htm"
   ],
   "third_party_service_count": 3,
@@ -64,8 +64,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.23709337499999997",
-  "largest_contentful_paint": "485.3999999985099",
+  "cumulative_layout_shift": "0.19900041666666665",
+  "largest_contentful_paint": "725.3000000119209",
   "required_links_url": [
     "privacy"
   ],
@@ -87,14 +87,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fxcrd.pnnl.gov%2F.auth%2Flogin%2Faad%2Fcallback&client_id=963188ff-5013-4c32-8f33-5acd534cf55f&scope=openid+profile+email&response_mode=form_post&nonce=62fbabaf825142a29800fc82ce073b99_20250206181108&state=redir%3D%252Frobots.txt",
+  "robots_txt_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fxcrd.pnnl.gov%2F.auth%2Flogin%2Faad%2Fcallback&client_id=963188ff-5013-4c32-8f33-5acd534cf55f&scope=openid+profile+email&response_mode=form_post&nonce=da3440d61fbc4e0185b22b1100b561e5_20250208184443&state=redir%3D%252Frobots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fxcrd.pnnl.gov%2F.auth%2Flogin%2Faad%2Fcallback&client_id=963188ff-5013-4c32-8f33-5acd534cf55f&scope=openid+profile+email&response_mode=form_post&nonce=30575774fefd4855ad640765c86b907d_20250206181112&state=redir%3D%252Fsitemap.xml",
+  "sitemap_xml_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fxcrd.pnnl.gov%2F.auth%2Flogin%2Faad%2Fcallback&client_id=963188ff-5013-4c32-8f33-5acd534cf55f&scope=openid+profile+email&response_mode=form_post&nonce=938cb96232834aa1967939ef58fb2e57_20250208184448&state=redir%3D%252Fsitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

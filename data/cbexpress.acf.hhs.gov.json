@@ -24,9 +24,9 @@
     "2020_eot"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:00:47.164Z",
+  "scan_date": "2025-02-08T16:31:18.709Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "accessibility_violations": null,
-  "ipv6": false,
-  "hostname": null,
+  "ipv6": true,
+  "hostname": "cloudfront.net",
   "cms": null,
   "login_provider": null,
   "login": null,
@@ -48,12 +48,10 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".hhs.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "92.5",
+  "largest_contentful_paint": "43.70000001788139",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -98,8 +96,8 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_scan_status": "completed",
+  "www_url": "https://www.cbexpress.acf.hhs.gov",
+  "www_status_code": 200,
+  "www_title": "Children’s Bureau Express - Notice"
 }

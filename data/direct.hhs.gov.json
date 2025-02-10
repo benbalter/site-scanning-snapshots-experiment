@@ -21,16 +21,16 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:10:28.044Z",
+  "scan_date": "2025-02-09T06:46:41.050Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"user-control-name\":1,\"contrast\":2,\"images\":6,\"link-purpose\":1,\"lists\":2}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -71,8 +71,8 @@
     "direct.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.14859109375000001",
-  "largest_contentful_paint": "1129.7000000029802",
+  "cumulative_layout_shift": "0.12050153645833334",
+  "largest_contentful_paint": "633.1000000238419",
   "required_links_url": [
     "about",
     "privacy"

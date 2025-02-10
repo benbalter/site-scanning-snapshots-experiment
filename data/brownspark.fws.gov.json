@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:26:20.410Z",
+  "scan_date": "2025-02-09T05:47:52.812Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -46,8 +46,10 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c16.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -59,6 +61,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c16.akstat.io/",
     "https://a.tile.openstreetmap.org/11/402/768.png",
     "https://a.tile.openstreetmap.org/11/403/770.png",
     "https://a.tile.openstreetmap.org/11/404/769.png",
@@ -67,6 +70,7 @@
     "https://b.tile.openstreetmap.org/11/403/768.png",
     "https://b.tile.openstreetmap.org/11/404/770.png",
     "https://b.tile.openstreetmap.org/11/405/769.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/11/402/770.png",
     "https://c.tile.openstreetmap.org/11/403/769.png",
     "https://c.tile.openstreetmap.org/11/404/768.png",
@@ -88,16 +92,16 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "788.2999999970198",
+  "cumulative_layout_shift": "0.0005189794921875",
+  "largest_contentful_paint": "638.7000000178814",
   "required_links_url": [
     "about",
     "foia",

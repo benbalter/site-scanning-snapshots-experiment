@@ -22,7 +22,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:29:15.458Z",
+  "scan_date": "2025-02-09T05:50:20.095Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,6 +48,7 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "gds-files.nrelcloud.org",
@@ -55,7 +56,6 @@
     "invalid",
     "jnn-pa.googleapis.com",
     "play.google.com",
-    "s.clarity.ms",
     "www.clarity.ms",
     "www.google.com",
     "www.googletagmanager.com",
@@ -67,6 +67,7 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
@@ -77,11 +78,11 @@
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://play.google.com/log",
-    "https://s.clarity.ms/collect",
     "https://www.clarity.ms/s/0.7.66/clarity.js",
     "https://www.clarity.ms/tag/jqyludgwnn",
     "https://www.clarity.ms/tag/l1au7osq8u",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
@@ -102,7 +103,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.012891328938802083",
-  "largest_contentful_paint": "303.80000000447035",
+  "largest_contentful_paint": "307.30000001192093",
   "required_links_url": [
     "about",
     "/es"

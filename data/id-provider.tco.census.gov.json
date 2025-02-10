@@ -5,7 +5,7 @@
   "initial_base_domain": "census.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://id-provider.tco.census.gov/nidp/app/login?id=3&sid=2&option=credential&sid=2",
+  "url": "https://id-provider.tco.census.gov/nidp/app/login?id=106&sid=2&option=credential&sid=2",
   "domain": "id-provider.tco.census.gov",
   "base_domain": "census.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T01:59:00.156Z",
+  "scan_date": "2025-02-09T02:32:23.396Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,12 +52,13 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".census.gov",
     ".id-provider.tco.census.gov",
     "id-provider.tco.census.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.0002841001790364583",
-  "largest_contentful_paint": "845",
+  "cumulative_layout_shift": "0.0020473189290364582",
+  "largest_contentful_paint": "755.1999999880791",
   "required_links_url": [
     "about",
     "foia",

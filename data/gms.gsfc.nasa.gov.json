@@ -21,9 +21,9 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:54:33.605Z",
+  "scan_date": "2025-02-08T11:46:47.031Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -51,6 +51,7 @@
     "cdn.jsdelivr.net",
     "cdn.parsely.com",
     "dap.digitalgov.gov",
+    "gms.gsfc.nasa.gov",
     "p1.parsely.com",
     "www.googletagmanager.com",
     "www.youtube.com"
@@ -62,19 +63,20 @@
     "https://cdn.jsdelivr.net/npm/underscore@1.13.6/underscore-min.min.js",
     "https://cdn.parsely.com/keys/svs.gsfc.nasa.gov/p.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gms.gsfc.nasa.gov/favicon.ico",
     "https://p1.parsely.com/px/",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nasa.gov",
     "svs.gsfc.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00933891796875",
-  "largest_contentful_paint": "682.7999999970198",
+  "cumulative_layout_shift": "0.18610558463541665",
+  "largest_contentful_paint": "1555.0999999940395",
   "required_links_url": [
     "about",
     "privacy",

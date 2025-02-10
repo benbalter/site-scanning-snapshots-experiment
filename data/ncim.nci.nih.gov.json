@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-06T16:15:52.418Z",
+  "scan_date": "2025-02-08T18:02:56.276Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,6 +51,7 @@
     "assets.adobedtm.com",
     "cbiit.github.io",
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,16 +62,18 @@
     "https://cbiit.github.io/nci-softwaresolutions-elements/banners/government-shutdown.html",
     "https://cbiit.github.io/nci-softwaresolutions-elements/components/include-html.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nih.gov",
     "ncim.nci.nih.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "488.2000000476837",
+  "largest_contentful_paint": "473.30000001192093",
   "required_links_url": [
     "about",
     "usa.gov"

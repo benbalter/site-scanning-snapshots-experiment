@@ -21,18 +21,18 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:54:39.921Z",
+  "scan_date": "2025-02-08T15:09:05.490Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "too_many_redirects",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "too_many_redirects",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":4,\"language\":1}",
   "ipv6": false,
-  "hostname": null,
+  "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": null,
   "login": null,
@@ -60,8 +60,8 @@
     ".healthit.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08523094384765623",
-  "largest_contentful_paint": "1821.5999999046326",
+  "cumulative_layout_shift": "0.08523085400390625",
+  "largest_contentful_paint": "971.1999999880791",
   "required_links_url": [
     "privacy"
   ],

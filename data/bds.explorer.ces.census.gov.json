@@ -5,7 +5,7 @@
   "initial_base_domain": "census.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://bds.explorer.ces.census.gov/",
+  "url": "https://bds.explorer.ces.census.gov/?year=2022&xaxis-id=sector&xaxis-selected=31-33,44-45,54,72&group-id=fage&group-selected=010,065,070,075,150&group-group=2&measure-id=job_creation&chart-type=bar",
   "domain": "bds.explorer.ces.census.gov",
   "base_domain": "census.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:54:45.358Z",
+  "scan_date": "2025-02-09T02:25:30.956Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,19 +61,20 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://smetrics.census.gov/b/ss/cebulehd",
-    "cebucensusglobalprod/1/JS-2.23.0-LEWM/s86531195647678",
+    "cebucensusglobalprod/1/JS-2.23.0-LEWM/s42870183112781",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
     ".bds.explorer.ces.census.gov",
     ".census.gov",
+    ".ces.census.gov",
     ".explorer.ces.census.gov",
     "bds.explorer.ces.census.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07363468587239584",
-  "largest_contentful_paint": "666.8999999985099",
+  "cumulative_layout_shift": "0.4561011650390625",
+  "largest_contentful_paint": "686.7999999821186",
   "required_links_url": [
     "about",
     "foia",

@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:47:15.533Z",
+  "scan_date": "2025-02-08T17:27:22.628Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
-  "accessibility_violations": "{\"contrast\":3}",
+  "accessibility_violations": "{\"contrast\":2}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -46,10 +46,11 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "UA-129187964-4,G-X979JYMCES",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "cmp.osano.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -67,9 +68,12 @@
     "https://cdnjs.cloudflare.com/ajax/libs/tinysort/3.2.5/tinysort.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js",
     "https://cmp.osano.com/16CFuWSuPfE35eNP/b6016f64-0a5f-4eda-b228-6cd35db73fba/osano.js",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".fema.gov",
     ".get.nfipdirect.fema.gov",
@@ -78,7 +82,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "622.9000000953674",
+  "largest_contentful_paint": "564.7999999821186",
   "required_links_url": [
     "privacy"
   ],

@@ -23,9 +23,9 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:24:54.659Z",
+  "scan_date": "2025-02-08T14:34:39.051Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "timeout",
@@ -55,7 +55,7 @@
     "palinteractiontypedim": "1"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-WSXZWYQ3CZ,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-WSXZWYQ3CZ,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.google-analytics.com",
@@ -135,6 +135,7 @@
     "usa-header",
     "usa-icon",
     "usa-input",
+    "usa-js-loading",
     "usa-logo",
     "usa-media-block",
     "usa-menu-btn",

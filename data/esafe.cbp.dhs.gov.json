@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:28:21.485Z",
+  "scan_date": "2025-02-09T03:10:08.573Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"user-control-name\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -46,10 +46,9 @@
     "subagency": "CBP"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-35092456-4,G-CSLL4ZEK4L,G-W86NW,G-MDL9HPLPNJ,G-2EE5TQGH00,G-GHG7XR2CMP,UA-32318423-1",
+  "ga_tag_id": "UA-35092456-4,G-W86NW,G-CSLL4ZEK4L,G-MDL9HPLPNJ,G-GHG7XR2CMP,UA-32318423-1",
   "third_party_service_domains": [
     "c.go-mpulse.net",
-    "csp-report.force.com",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
     "www.dhs.gov",
@@ -58,7 +57,6 @@
   ],
   "third_party_service_urls": [
     "https://c.go-mpulse.net/api/config.json",
-    "https://csp-report.force.com/_/ContentDomainCSPNoAuth",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/6ACRL-C4FFK-4P8VG-W86NW-VUYQC",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
@@ -69,18 +67,18 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/a",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cbp.dhs.gov",
     ".dhs.gov",
     "esafe.cbp.dhs.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.3133835901692708",
-  "largest_contentful_paint": "1681.7999999970198",
+  "cumulative_layout_shift": "0.2046004108072917",
+  "largest_contentful_paint": "1554.199999988079",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

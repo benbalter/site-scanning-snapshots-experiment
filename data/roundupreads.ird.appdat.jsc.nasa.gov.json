@@ -21,7 +21,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T11:26:29.900Z",
+  "scan_date": "2025-02-08T12:22:55.244Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,7 +48,7 @@
     "sdor": "www.nasa.gov"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-ywng",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api.parsely.com",
     "assets.science.nasa.gov",
@@ -64,6 +64,7 @@
     "p1.parsely.com",
     "play.google.com",
     "plus.nasa.gov",
+    "science.nasa.gov",
     "static.doubleclick.net",
     "www.google.com",
     "www.googletagmanager.com",
@@ -74,16 +75,14 @@
   "third_party_service_urls": [
     "https://api.parsely.com/v2/profile",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/sistema-solar/2025/jason2large.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/fermi-bubbles-2160-0.png",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/v/viper_cdr_hero_08_lrg.jpeg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/50000/50385/ISS027-E-011058_lrg.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/itm/van_allen_probes_discov_new_rad_belt_cal.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_LEDA1313424_STScI-01JJADTMJ80R1R4W6KK563RW2C.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/supernovae/Hubble_SN2022aajn_potw2504a.jpg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/supernovae/Hubble_SN2022abvt_potw2505a.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/webb-stsci-01hggzdyh8ghhssnwzd71mf0xh-2k.png",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/Apollo-12-Earthrise-crop.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/lunar-eclipse-march-2025.jpg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/lunar-eclipse-march-2025-telescopic.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/february/Orion_credit_Preston%20Dyches_CC%20BY-NC%202.0.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/evergreen-images/Jan2025PlanetParade_skychart.jpg",
     "https://cdn.parsely.com/keys/nasa.gov/p.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
@@ -94,6 +93,7 @@
     "https://googleads.g.doubleclick.net/pagead/id",
     "https://i.ytimg.com/vi/I9FLyL68It0/maxresdefault.jpg",
     "https://images-assets.nasa.gov/image/ACD24-0108-010/ACD24-0108-010~large.jpg",
+    "https://images-assets.nasa.gov/image/AFRC2024-0101-43/AFRC2024-0101-43~large.jpg",
     "https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg",
     "https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
@@ -101,6 +101,8 @@
     "https://p1.parsely.com/px/",
     "https://play.google.com/log",
     "https://plus.nasa.gov/wp-json/nasaplus/v1/live",
+    "https://science.nasa.gov/wp-content/uploads/2023/01/istock-169992600-jpg.webp",
+    "https://science.nasa.gov/wp-content/uploads/2024/12/planetary-defenders-promotional-photo-1.jpg",
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
     "https://www.google.com/recaptcha/api.js",
@@ -118,14 +120,15 @@
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
     "https://yt3.ggpht.com/ytc/AIdro_mZm4AjJJK7KaImYoO0j_J5i39p8UarnoItT8KQ5dzSJlc=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 20,
+  "third_party_service_count": 21,
   "cookie_domains": [
     ".nasa.gov",
-    ".www.nasa.gov"
+    ".www.nasa.gov",
+    "www.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.28652500000000003",
-  "largest_contentful_paint": "342",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "207.69999998807907",
   "required_links_url": [
     "about",
     "fear",

@@ -22,7 +22,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:59:50.105Z",
+  "scan_date": "2025-02-09T10:42:28.294Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,7 +61,7 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-ivnXGIXuEqNtkY1,G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c12.akstat.io",
+    "17de4c14.akstat.io",
     "6282609.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
@@ -75,10 +75,11 @@
     "zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c12.akstat.io/",
+    "https://17de4c14.akstat.io/",
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://s.go-mpulse.net/boomerang/KXTEL-Y7J86-GB25A-JVVUG-FD68Q",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/www.hhs.gov.json",
@@ -99,12 +100,11 @@
   "third_party_service_count": 12,
   "cookie_domains": [
     ".hhs.gov",
-    ".www.hhs.gov",
-    "www.hhs.gov"
+    ".www.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3084663983968099",
-  "largest_contentful_paint": "1806.1999999955297",
+  "cumulative_layout_shift": "0.30981569026692707",
+  "largest_contentful_paint": "881.2000000178814",
   "required_links_url": [
     "about",
     "fear",

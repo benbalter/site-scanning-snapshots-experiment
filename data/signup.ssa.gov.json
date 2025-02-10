@@ -21,9 +21,9 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T11:17:14.515Z",
+  "scan_date": "2025-02-08T12:12:30.360Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -44,10 +44,11 @@
   "dap": true,
   "dap_parameters": "",
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-VSSTFV3FKR",
+  "ga_tag_id": "UA-25977386-2,G-CSLL4ZEK4L,G-VSSTFV3FKR",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "resources.digital-cloud-gov.medallia.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.ssa.gov"
   ],
@@ -55,6 +56,8 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/16864/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/16864/onsite/generic1738593822639.js",
+    "https://www.google-analytics.com/collect",
+    "https://www.google-analytics.com/plugins/ua/linkid.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.ssa.gov/favicon.ico",
@@ -99,7 +102,7 @@
     "https://www.ssa.gov/flexweb/rel_5_1_2/nls/en/localizedStrings.js",
     "https://www.ssa.gov/sites/g/files/npxnvu131/files/google_tag/default/google_tag.script.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".secure.ssa.gov",
     ".ssa.gov",
@@ -107,7 +110,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "400.8999999910593",
+  "largest_contentful_paint": "430.59999999403954",
   "required_links_url": [
     "privacy"
   ],

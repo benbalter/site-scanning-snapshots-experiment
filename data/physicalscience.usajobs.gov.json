@@ -22,9 +22,9 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:31:21.198Z",
+  "scan_date": "2025-02-09T05:56:22.046Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -48,32 +48,24 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
-    "static.foresee.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/invite___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/production/gateway.min.js",
-    "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/production/trigger/sitelogo.gif",
-    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.png",
-    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.svg",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".usajobs.gov",
     "physicalscience.usajobs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.039564639933268225",
-  "largest_contentful_paint": "276.29999999701977",
+  "cumulative_layout_shift": "0.03918551493326823",
+  "largest_contentful_paint": "249.2000000178814",
   "required_links_url": [
     "about",
     "fear",

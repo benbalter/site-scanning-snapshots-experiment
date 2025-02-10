@@ -5,7 +5,7 @@
   "initial_base_domain": "tva.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=180ea2b6-3a06-4a8c-b40e-5bff45f6b540&redirect_uri=https%3A%2F%2Fcustomeranalytics.tva.gov&response_mode=form_post&response_type=id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3D2ZtrrmfpfytrC42cF0RaKFbS3e_yqRGrW93mLvoFMS3AQoXoe2wJu7f4v4PmpMLnO-rnSYY1TZHaXQJNN60nhXu_BhKmkFUtoeMCJSZlZboUEILEmhP2-cqDtHD_pul8TU4_BiaiR2aEp3haEf8iArujWKvPtjyhykmRb4rNoc3qgHCPQuaPQthUT23CsLaT&nonce=638744962815851127.NThmMTg1MGMtMTU4ZS00ZDBjLTkyODktNTNmM2E4OWEwMjBkM2E1ZTM1MDMtOGEyZS00ZjcwLWE1MTktOTliY2NhNWNmZTZj&x-client-SKU=ID_NET451&x-client-ver=5.2.1.0",
+  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=180ea2b6-3a06-4a8c-b40e-5bff45f6b540&redirect_uri=https%3A%2F%2Fcustomeranalytics.tva.gov&response_mode=form_post&response_type=id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DR008TckF-t6cQ_yzwYFO1mFdzzo4KmLjYK9LvZDbI2oOpeUvWfNaemK-AZVtV-i2N1whcRYn26vCds6LIE6xMO5hBfNIH1iZuVHcgX7R4GOVETmVHDvLnIlKFoUsNIXGFfzTI2mNQyuZlVo7TisJXT7GabrdtUan1F-q32rxDTILRXv8OhbD5xnlDM-QuGLC&nonce=638746728250046726.ODIxOTY3ZjctMWI0Zi00N2MxLWFlMzMtNzkwM2UxYWYyYzkzZGY0YjBmMjAtOWYyMi00MDc2LTg2NjAtNDk4ZTc5ODlmMWJk&x-client-SKU=ID_NET451&x-client-ver=5.2.1.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,7 +21,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T03:38:10.682Z",
+  "scan_date": "2025-02-09T04:40:33.852Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -44,7 +44,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msauthimages.net",
+    "aadcdn.msftauthimages.net",
     "autologon.microsoftazuread-sso.com",
     "d2o9p5vky89u4e.cloudfront.net",
     "login.live.com"
@@ -60,9 +60,9 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_1cd84c14a6b01fcd8515.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_cc2c59f5ef2c09e14b08.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/customcss",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/illustration",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/customcss",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/illustration",
     "https://autologon.microsoftazuread-sso.com/270992cd-9003-4971-84de-d1640c0bffc5/winauth/ssoprobe",
     "https://d2o9p5vky89u4e.cloudfront.net/NzhkYzBhOWY1ZGRkLm8zbi5pbw%3D%3D/7md82z4j93949tfygamnok2m4/bWljcm9zb2Z0b25saW5lLmNvbQ%3D%3D/img.gif",
     "https://login.live.com/Me.htm"
@@ -73,8 +73,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.073580390625",
-  "largest_contentful_paint": "597",
+  "cumulative_layout_shift": "0.07357770833333334",
+  "largest_contentful_paint": "611.3000000119209",
   "required_links_url": [
     "privacy"
   ],

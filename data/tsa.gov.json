@@ -28,7 +28,7 @@
     "oira"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:13:19.554Z",
+  "scan_date": "2025-02-08T16:45:19.218Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,7 +37,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"user-control-name\":1,\"images\":2}",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"images\":2}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -52,7 +52,7 @@
     "yt": "true"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-6REB1EHNFR,UA-34936050-1,G-CSLL4ZEK4L,G-GHG7XR2CMP",
+  "ga_tag_id": "G-6REB1EHNFR,G-CSLL4ZEK4L,G-GHG7XR2CMP,UA-34936050-1",
   "third_party_service_domains": [
     "analytics.google.com",
     "cdnjs.cloudflare.com",
@@ -85,8 +85,8 @@
     ".tsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.30754244954427085",
-  "largest_contentful_paint": "758.6000000000931",
+  "cumulative_layout_shift": "0.3463772862548828",
+  "largest_contentful_paint": "452.80000001192093",
   "required_links_url": [
     "about",
     "fear",

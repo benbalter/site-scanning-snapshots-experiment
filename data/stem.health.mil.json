@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:10:56.866Z",
+  "scan_date": "2025-02-08T14:20:28.822Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,21 +47,23 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".health.mil",
     "stem.health.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.16778808333333334",
-  "largest_contentful_paint": "612.8000001907349",
+  "cumulative_layout_shift": "0.02350031966145833",
+  "largest_contentful_paint": "470.2999999821186",
   "required_links_url": [
     "about",
     "foia",

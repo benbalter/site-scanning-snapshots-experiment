@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-06T13:57:26.496Z",
+  "scan_date": "2025-02-08T15:13:05.097Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,6 +46,7 @@
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -55,15 +56,16 @@
     "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.3/umd/popper.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".healthit.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0000029531249999999998",
-  "largest_contentful_paint": "250.5",
+  "largest_contentful_paint": "257.10000002384186",
   "required_links_url": [
     "about",
     "privacy"

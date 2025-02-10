@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:20:11.819Z",
+  "scan_date": "2025-02-09T02:59:21.996Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -44,8 +44,9 @@
     "yt": "true"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-GV2VB8XRBH,UA-54439736-2,UA-54439736-1,UA-33523145-1,UA-20466645-3,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-GV2VB8XRBH,G-CSLL4ZEK4L,UA-54439736-2,UA-54439736-1,UA-33523145-1,UA-20466645-3",
   "third_party_service_domains": [
+    "cdn.mouseflow.com",
     "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
     "js-agent.newrelic.com",
@@ -54,6 +55,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.mouseflow.com/projects/7b540e59-4067-4ee2-b344-b56ac0d44801.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/c656a7b008",
@@ -65,14 +67,14 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".beta.consumerfinance.gov",
     ".consumerfinance.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "145.29999999701977",
+  "largest_contentful_paint": "158.5",
   "required_links_url": [
     "about",
     "fear",

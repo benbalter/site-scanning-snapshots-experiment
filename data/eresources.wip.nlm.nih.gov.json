@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:31:18.224Z",
+  "scan_date": "2025-02-09T10:33:31.568Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,7 +54,6 @@
     "code.jquery.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
-    "login-prod.nlm.nih.gov",
     "script.crazyegg.com",
     "www.googletagmanager.com"
   ],
@@ -94,7 +93,6 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://login-prod.nlm.nih.gov/cas/login",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/eresources.wip.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/eresources.wip.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
@@ -102,14 +100,15 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nih.gov",
+    ".nlm.nih.gov",
     "eresources.wip.nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.011102890096028646",
-  "largest_contentful_paint": "2122.89999999851",
+  "cumulative_layout_shift": "0.32910289009602867",
+  "largest_contentful_paint": "1884.9000000059605",
   "required_links_url": [
     "about",
     "usa.gov",

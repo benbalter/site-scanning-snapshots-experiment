@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-06T15:08:09.698Z",
+  "scan_date": "2025-02-08T16:40:26.585Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,7 +54,6 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "touchpoints.app.cloud.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -66,26 +65,39 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2",
+    "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".onrr.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.031257894856770836",
-  "largest_contentful_paint": "315.40000009536743",
+  "cumulative_layout_shift": "1.0906500901692708",
+  "largest_contentful_paint": "990.8000000119209",
   "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
     "usa.gov"
   ],
-  "required_links_text": null,
+  "required_links_text": [
+    "accessibility",
+    "no fear act",
+    "foia",
+    "freedom of information act",
+    "inspector general",
+    "privacy policy",
+    "vulnerability disclosure",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Office of Natural Resources Revenue | Office of Natural Resources Revenue",
+  "title": "Home | Office of Natural Resources Revenue",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -126,15 +138,16 @@
     "usa-icon",
     "usa-label",
     "usa-legend",
+    "usa-link",
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 25,
+  "uswds_usa_classes": 50,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 25,
+  "uswds_count": 50,
   "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,

@@ -21,9 +21,9 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:22:53.997Z",
+  "scan_date": "2025-02-08T14:32:14.180Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -49,10 +49,12 @@
     "https://ecosystems.usgs.gov/favicon.ico"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "34.5",
+  "largest_contentful_paint": "42.19999998807907",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -21,7 +21,7 @@
     "uscourts"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:29:02.131Z",
+  "scan_date": "2025-02-08T13:31:36.107Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":2}",
+  "accessibility_violations": "{\"contrast\":5}",
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -46,13 +46,13 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
-    "cdnjs.cloudflare.com",
-    "code.jquery.com"
+    "code.jquery.com",
+    "speedcdnjs.com"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
-    "https://code.jquery.com/jquery-3.7.0.js"
+    "https://code.jquery.com/jquery-3.7.0.js",
+    "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -62,8 +62,8 @@
     "www.azb.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.13879204427083333",
-  "largest_contentful_paint": "750.8000001907349",
+  "cumulative_layout_shift": "0.06125",
+  "largest_contentful_paint": "726.6000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -87,7 +87,7 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": true,
-  "robots_txt_url": "https://www.azb.uscourts.gov/robots.txt",
+  "robots_txt_url": "https://azb.uscourts.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
   "robots_txt_filesize": 2189,

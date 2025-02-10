@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:52:52.833Z",
+  "scan_date": "2025-02-09T10:35:00.990Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":11,\"images\":1,\"link-purpose\":4}",
+  "accessibility_violations": "{\"contrast\":7,\"images\":1,\"link-purpose\":4}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -77,6 +77,7 @@
     "https://status.earthdata.nasa.gov/api/v1/notifications",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -86,8 +87,8 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.15840306396484374",
-  "largest_contentful_paint": "1023.6000000014901",
+  "cumulative_layout_shift": "0.19727954923502602",
+  "largest_contentful_paint": "1665.699999988079",
   "required_links_url": [
     "about",
     "privacy"
@@ -113,7 +114,7 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=A6th7HB-3EBoO7iOCiCLlA&redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Foauth%2Fcallback&state=cu6ySVlwEnONSChvdjiNIu8PAxBb4F",
+  "robots_txt_url": "https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=A6th7HB-3EBoO7iOCiCLlA&redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Foauth%2Fcallback&state=dTIgsGf6YqKlQww1i8230vqLfsMcQf",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,

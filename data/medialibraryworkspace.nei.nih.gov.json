@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:56:20.196Z",
+  "scan_date": "2025-02-09T02:26:53.293Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -38,35 +38,19 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HHS",
-    "subagency": "NEI",
-    "sp": "keywords",
-    "sdor": "medialibrary.nei.nih.gov"
-  },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-ZMCN5ZWDM4,G-CSLL4ZEK4L,UA-1875828-9,G-BL9TT66Q2G",
-  "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
-  ],
-  "third_party_service_count": 3,
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00114141064453125",
-  "largest_contentful_paint": "849.0999999940395",
+  "cumulative_layout_shift": "0.027318012532552085",
+  "largest_contentful_paint": "1205.9000000059605",
   "required_links_url": [
     "usa.gov"
   ],

@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:54:20.066Z",
+  "scan_date": "2025-02-08T16:24:05.698Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -41,11 +41,12 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-KXL8L1LY7Z",
+  "ga_tag_id": "G-KXL8L1LY7Z,G-CnYLT",
   "third_party_service_domains": [
     "cdn.lbl.gov",
     "cdnjs.cloudflare.com",
     "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "listgrowth.ctctcdn.com",
     "p.typekit.net",
     "stackpath.bootstrapcdn.com",
@@ -64,6 +65,9 @@
     "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/zooming/2.1.1/zooming.min.js",
     "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://listgrowth.ctctcdn.com/v1/aa8d7e749ed4063abbe0518989932560.json",
     "https://p.typekit.net/p.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css",
@@ -73,12 +77,17 @@
     "https://static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js",
     "https://use.typekit.net/evi6dpc.css",
     "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api2/payload",
+    "https://www.google.com/recaptcha/api2/reload",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/I0bG74fWAenNf3Z5ncHSz-bd/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/I0bG74fWAenNf3Z5ncHSz-bd/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "https://www.gstatic.com/recaptcha/api2/info_2x.png",
+    "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
+    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".emp.lbl.gov",
     ".lbl.gov",
@@ -86,7 +95,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0016741128336588544",
-  "largest_contentful_paint": "254.70000004768372",
+  "largest_contentful_paint": "247.69999998807907",
   "required_links_url": [
     "about",
     "/es"

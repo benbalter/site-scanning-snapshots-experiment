@@ -23,7 +23,7 @@
     "mil-sites1"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:22:32.132Z",
+  "scan_date": "2025-02-09T03:01:03.688Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,6 +55,7 @@
     "fonts.gstatic.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -80,17 +81,18 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".tricare.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.1962156433105469",
-  "largest_contentful_paint": "279.5",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "425.2999999821186",
   "required_links_url": [
     "about",
     "foia",

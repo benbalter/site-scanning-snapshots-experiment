@@ -21,7 +21,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:33:16.786Z",
+  "scan_date": "2025-02-09T11:23:03.659Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -43,9 +43,13 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "cdn.jsdelivr.net",
+    "esm.run",
     "esm.sh"
   ],
   "third_party_service_urls": [
+    "https://cdn.jsdelivr.net/npm/localforage@1.9.0/src/localforage.js/+esm",
+    "https://esm.run/localforage@1.9.0/src/localforage.js",
     "https://esm.sh/@plotly/d3-sankey-circular@0.33.1/es2022/d3-sankey-circular.mjs",
     "https://esm.sh/@plotly/d3-sankey@0.7.2/es2022/d3-sankey.mjs",
     "https://esm.sh/@plotly/d3@3.8.2/es2022/d3.mjs",
@@ -294,6 +298,8 @@
     "https://esm.sh/is-string-blank@1.0.1/es2022/is-string-blank.mjs",
     "https://esm.sh/is-svg-path@%5E1.0.1",
     "https://esm.sh/is-svg-path@1.0.2/es2022/is-svg-path.mjs",
+    "https://esm.sh/jszip@3.10.1",
+    "https://esm.sh/jszip@3.10.1/es2022/jszip.mjs",
     "https://esm.sh/math-log2@%5E1.0.1",
     "https://esm.sh/math-log2@1.0.1/es2022/math-log2.mjs",
     "https://esm.sh/mouse-change@%5E1.4.0",
@@ -421,11 +427,11 @@
     "https://esm.sh/world-calendars@1.0.3/es2022/dist/main.mjs",
     "https://esm.sh/world-calendars@1.0.3/es2022/dist/plus.mjs"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "67",
+  "largest_contentful_paint": "68.69999998807907",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -23,7 +23,7 @@
     "mil-sites1"
   ],
   "public": true,
-  "scan_date": "2025-02-07T10:32:33.306Z",
+  "scan_date": "2025-02-08T11:21:06.433Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,6 +58,7 @@
     "translate-pa.googleapis.com",
     "translate.google.com",
     "translate.googleapis.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
@@ -78,18 +79,20 @@
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
     "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
     "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
+    ".cnic.navy.mil",
     ".navy.mil"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.05143241455078125",
-  "largest_contentful_paint": "710.7000000029802",
+  "largest_contentful_paint": "354.7999999821186",
   "required_links_url": [
     "about",
     "fear",

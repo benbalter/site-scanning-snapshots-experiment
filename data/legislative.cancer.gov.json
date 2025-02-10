@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:34:39.354Z",
+  "scan_date": "2025-02-09T01:58:55.439Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,6 +48,7 @@
   "third_party_service_domains": [
     "assets.adobedtm.com",
     "dap.digitalgov.gov",
+    "ds-aksb-a.akamaihd.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "metrics.cancer.gov",
@@ -63,11 +64,13 @@
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://ds-aksb-a.akamaihd.net/2/855684/b",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s81860314089728",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s41073709366082",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/sampling/www.cancer.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/site/www.cancer.gov.json",
     "https://script.crazyegg.com/pages/scripts/0076/4407.js",
@@ -77,14 +80,14 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://zn88jixcivzfb3vpp-nci.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cancer.gov",
     "www.cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.009581862467447917",
-  "largest_contentful_paint": "2172.89999999851",
+  "cumulative_layout_shift": "0.007750487467447916",
+  "largest_contentful_paint": "303",
   "required_links_url": [
     "about",
     "foia",

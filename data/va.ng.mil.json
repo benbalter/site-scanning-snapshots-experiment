@@ -24,7 +24,7 @@
     "mil-sites2"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:10:54.355Z",
+  "scan_date": "2025-02-09T10:59:52.560Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,7 +55,6 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -84,18 +83,19 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".ng.mil"
+    ".ng.mil",
+    ".va.ng.mil",
+    "va.ng.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.8319070882161457",
-  "largest_contentful_paint": "347",
+  "cumulative_layout_shift": "0.27592611328125",
+  "largest_contentful_paint": "301.59999999403954",
   "required_links_url": [
     "about",
     "fear",

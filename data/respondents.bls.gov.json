@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": false,
-  "scan_date": "2025-02-07T05:09:10.688Z",
+  "scan_date": "2025-02-09T06:43:40.769Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,25 +50,26 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "remote.captcha.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://remote.captcha.com/include.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".bls.gov",
     "respondents.bls.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00005208333333333334",
-  "largest_contentful_paint": "835.4000000059605",
+  "largest_contentful_paint": "705.9000000059605",
   "required_links_url": [
     "privacy"
   ],

@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:18:52.240Z",
+  "scan_date": "2025-02-09T02:57:10.234Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,16 +51,18 @@
   "third_party_service_urls": [
     "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://gov-bam.nr-data.net/1/NRBR-bd42b19e479c7120329",
+    "https://gov-bam.nr-data.net/events/1/NRBR-bd42b19e479c7120329",
     "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
     "https://www.datadoghq-browser-agent.com/datadog-rum-v5.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".cms.gov",
     "preview.qpp.cms.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1073.1000000014901",
+  "largest_contentful_paint": "1055.4000000059605",
   "required_links_url": [
     "about",
     "privacy"

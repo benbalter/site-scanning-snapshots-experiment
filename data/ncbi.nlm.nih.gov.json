@@ -24,7 +24,7 @@
     "2020_eot"
   ],
   "public": true,
-  "scan_date": "2025-02-06T16:13:15.955Z",
+  "scan_date": "2025-02-08T17:59:58.943Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,8 +53,10 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "script.crazyegg.com",
+    "siteintercept.qualtrics.com",
     "www.googletagmanager.com",
-    "www.ncbi.nlm.nih.gov"
+    "www.ncbi.nlm.nih.gov",
+    "zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -62,7 +64,12 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/ncbi.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/ncbi.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/24acd8edbd2b27b489b778a27aa5ffab.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg",
@@ -75,16 +82,17 @@
     "https://www.ncbi.nlm.nih.gov/portal/portal3rc.fcgi/4013172/img/218235",
     "https://www.ncbi.nlm.nih.gov/portal/portal3rc.fcgi/4013172/img/2375536",
     "https://www.ncbi.nlm.nih.gov/portal/portal3rc.fcgi/4054678/img/3418709",
-    "https://www.ncbi.nlm.nih.gov/stat"
+    "https://www.ncbi.nlm.nih.gov/stat",
+    "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".ncbi.nlm.nih.gov",
     ".nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "1.3007677583821615",
-  "largest_contentful_paint": "801.4000000000233",
+  "cumulative_layout_shift": "0.324048790201823",
+  "largest_contentful_paint": "814.0999999940395",
   "required_links_url": [
     "about",
     "privacy",

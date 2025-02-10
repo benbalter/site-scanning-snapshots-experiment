@@ -25,7 +25,7 @@
     "mil-sites1"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:26:37.715Z",
+  "scan_date": "2025-02-09T03:07:26.985Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,17 +58,20 @@
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".defense.gov"
+    ".defense.gov",
+    ".pclt.defense.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.000223463623046875",
-  "largest_contentful_paint": "444.70000000298023",
+  "largest_contentful_paint": "963.3000000119209",
   "required_links_url": [
     "about",
     "fear",

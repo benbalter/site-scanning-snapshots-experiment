@@ -23,7 +23,7 @@
     "2020_eot"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:13:32.532Z",
+  "scan_date": "2025-02-09T02:50:06.836Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"images\":1}",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -40,43 +40,35 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "pga4": "55622235",
-    "agency": "ED",
-    "subagency": "NCES",
-    "exts": "sps,sas,do,dct"
-  },
-  "dap_version": "20240712 v8.2 - GA4",
-  "ga_tag_id": "G-0EYJGC1REQ,G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
+    "api.ies.ed.gov",
     "fonts.googleapis.com",
-    "fonts.gstatic.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "ies.ed.gov"
   ],
   "third_party_service_urls": [
+    "https://api.ies.ed.gov/web/navigation/v1/footer",
+    "https://api.ies.ed.gov/web/navigation/v1/header",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.google-analytics.com/privacy-sandbox/register-conversion",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://ies.ed.gov/sites/default/files/assets/ies-header-footer-elements.js",
+    "https://ies.ed.gov/sites/default/files/assets/legacy-override-nces.css",
+    "https://ies.ed.gov/sites/default/files/site-structure/domain_icon/2024/10/LinkedIn-social-icon-white.svg",
+    "https://ies.ed.gov/sites/default/files/site-structure/domain_icon/2024/10/facebook-social-icon-white.svg",
+    "https://ies.ed.gov/sites/default/files/site-structure/domain_icon/2025/01/IES_NCES%20logo%20mark%201.svg",
+    "https://ies.ed.gov/sites/default/files/site-structure/domain_icon/2025/01/x-logo-white%203.svg"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
-    ".ed.gov",
     "nces.ed.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00014108089192708332",
-  "largest_contentful_paint": "877.2000000029802",
-  "required_links_url": [
-    "about",
-    "privacy"
-  ],
+  "cumulative_layout_shift": "0.12695175",
+  "largest_contentful_paint": "1244.9000000059605",
+  "required_links_url": null,
   "required_links_text": [
-    "about us",
     "español"
   ],
   "https_enforced": true,

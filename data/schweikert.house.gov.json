@@ -21,7 +21,7 @@
     "2020_eot"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:35:47.965Z",
+  "scan_date": "2025-02-09T07:17:15.908Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -44,15 +44,18 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "admin-schweikert.house.gov",
+    "csp.withgoogle.com",
     "fonts.googleapis.com",
     "iqconnect.house.gov",
     "p.typekit.net",
     "use.typekit.net",
     "www.google.com",
-    "www.gstatic.com"
+    "www.gstatic.com",
+    "www.jec.senate.gov"
   ],
   "third_party_service_urls": [
     "https://admin-schweikert.house.gov/wp-admin/admin-ajax.php",
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.googleapis.com/css",
     "https://iqconnect.house.gov/IQEXTRANET/WebResource.axd",
     "https://iqconnect.house.gov/iqextranet/css/eFormStyles.css",
@@ -69,16 +72,17 @@
     "https://use.typekit.net/af/4a8a65/000000000000000077359e9c/30/l",
     "https://use.typekit.net/xhr8hgv.css",
     "https://www.google.com/recaptcha/api.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
+    "https://www.jec.senate.gov/apology_objects/senatelogo.jpg"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".house.gov",
     "schweikert.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0066605048828125",
-  "largest_contentful_paint": "529",
+  "cumulative_layout_shift": "0.0975448388671875",
+  "largest_contentful_paint": "402.69999998807907",
   "required_links_url": [
     "about",
     "privacy"

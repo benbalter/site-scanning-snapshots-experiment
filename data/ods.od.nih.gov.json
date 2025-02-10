@@ -24,7 +24,7 @@
     "2020_eot"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:45:27.978Z",
+  "scan_date": "2025-02-09T11:34:45.930Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,6 +55,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -73,17 +74,18 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nih.gov",
     ".od.nih.gov",
     "ods.od.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07819385530598959",
-  "largest_contentful_paint": "502.90000000596046",
+  "cumulative_layout_shift": "0.059415355305989584",
+  "largest_contentful_paint": "936.9000000059605",
   "required_links_url": [
     "about",
     "espanol"

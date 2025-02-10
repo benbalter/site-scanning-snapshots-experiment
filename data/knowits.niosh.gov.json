@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:42:17.336Z",
+  "scan_date": "2025-02-09T10:18:42.591Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,25 +48,34 @@
   "third_party_service_domains": [
     "cdc.112.2o7.net",
     "eex-gateway.fr011.ttecfed.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "mtrics.cdc.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s06317956114112",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s74713288564650",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/gateway.min.js",
+    "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/trigger/cdc_logo.jpg",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://mtrics.cdc.gov/cdcgov/1.0.0/s.gif",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cdc.gov",
     ".www.cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.42604777355957035",
-  "largest_contentful_paint": "329.1000000014901",
+  "cumulative_layout_shift": "0.4131991372070313",
+  "largest_contentful_paint": "295.2000000178814",
   "required_links_url": [
     "about",
     "fear",

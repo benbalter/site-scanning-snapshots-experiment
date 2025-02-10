@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:38:30.105Z",
+  "scan_date": "2025-02-09T06:03:21.950Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -44,10 +44,13 @@
     "subagency": "USFWS"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L,G-RCRlwB252YWfj",
   "third_party_service_domains": [
+    "17de4c0d.akstat.io",
+    "17de4c19.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -69,12 +72,15 @@
     "yt3.ggpht.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c0d.akstat.io/",
+    "https://17de4c19.akstat.io/",
     "https://a.tile.openstreetmap.org/10/282/432.png",
     "https://a.tile.openstreetmap.org/10/283/434.png",
     "https://a.tile.openstreetmap.org/10/284/433.png",
     "https://b.tile.openstreetmap.org/10/282/433.png",
     "https://b.tile.openstreetmap.org/10/283/432.png",
     "https://b.tile.openstreetmap.org/10/284/434.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/10/282/434.png",
     "https://c.tile.openstreetmap.org/10/283/433.png",
     "https://c.tile.openstreetmap.org/10/284/432.png",
@@ -103,8 +109,9 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
     "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
     "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
@@ -114,14 +121,13 @@
     "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
     "https://yt3.ggpht.com/SK10QRupvwFwbZ2nluXK94xglpOh2IPdME_Dm_8cPNqBCHLiiumk7sO9Km9-kdmQ8i4ZBdC4=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 21,
+  "third_party_service_count": 24,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000007416381835937501",
-  "largest_contentful_paint": "778",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "982.5999999940395",
   "required_links_url": [
     "about",
     "foia",

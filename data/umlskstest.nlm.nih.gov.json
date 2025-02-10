@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T06:49:23.796Z",
+  "scan_date": "2025-02-09T08:55:11.882Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,29 +52,32 @@
     "dap.digitalgov.gov",
     "script.crazyegg.com",
     "siteintercept.qualtrics.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "zncmfdqcmzsyfyj94-nlmenterprise.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://cde.nlm.nih.gov/server/article/shutdownBanner",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/uts.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/uts.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
     "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://zncmfdqcmzsyfyj94-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0014451328125",
-  "largest_contentful_paint": "551",
+  "largest_contentful_paint": "515.1999999880791",
   "required_links_url": [
     "usa.gov"
   ],

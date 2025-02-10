@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T07:01:03.182Z",
+  "scan_date": "2025-02-09T09:10:40.794Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,6 +52,7 @@
     "dc.applicationinsights.us",
     "js.hcaptcha.com",
     "newassets.hcaptcha.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,17 +62,18 @@
     "https://dc.applicationinsights.us/v2/track",
     "https://js.hcaptcha.com/1/api.js",
     "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".acis.eoir.justice.gov",
     ".justice.gov",
     "acis.eoir.justice.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.14043515502929688",
-  "largest_contentful_paint": "983.6000000014901",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "0",
   "required_links_url": [
     "foia",
     "privacy",

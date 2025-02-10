@@ -16,7 +16,7 @@
   "agency": "Department of Transportation",
   "bureau": "National Highway Traffic Safety Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "gov",
     "dap",
@@ -26,11 +26,11 @@
     "gov_man"
   ],
   "public": true,
-  "scan_date": "2025-02-07T11:38:17.222Z",
+  "scan_date": "2025-02-08T12:43:18.427Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -49,7 +49,7 @@
     "subagency": "NHTSA"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-7HKD9QFL00,G-7F5PJWM0HE,UA-86423161-2,UA-18660041-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-7HKD9QFL00,G-7F5PJWM0HE,G-CSLL4ZEK4L,UA-86423161-2,UA-18660041-1",
   "third_party_service_domains": [
     "analytics.google.com",
     "dap.digitalgov.gov",
@@ -80,7 +80,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.018784720865885417",
-  "largest_contentful_paint": "342.3999999910593",
+  "largest_contentful_paint": "381.5",
   "required_links_url": [
     "about",
     "fear",
@@ -126,7 +126,7 @@
   "sitemap_xml_url": "https://www.trafficsafetymarketing.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 30403,
+  "sitemap_xml_filesize": 30412,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,

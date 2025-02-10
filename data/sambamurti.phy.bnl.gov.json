@@ -22,7 +22,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:31:19.369Z",
+  "scan_date": "2025-02-09T01:54:46.315Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,10 +50,12 @@
     "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".bnl.gov"
+  ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "387.40000000596046",
+  "largest_contentful_paint": "553.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,

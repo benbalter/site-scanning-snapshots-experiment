@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T09:57:11.623Z",
+  "scan_date": "2025-02-08T10:40:48.574Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,33 +45,39 @@
   "dap_version": "20241218 v8.5 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-Series",
   "third_party_service_domains": [
-    "17de4c19.akstat.io",
+    "17de4c1e.akstat.io",
+    "atlas.microsoft.com",
     "c.go-mpulse.net",
     "cdn.gov.cfigroup.com",
     "dap.digitalgov.gov",
+    "e.gov.cfigroup.com",
     "nrcgovsamediadev.blob.core.windows.net",
     "s2.go-mpulse.net",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c19.akstat.io/",
+    "https://17de4c1e.akstat.io/",
+    "https://atlas.microsoft.com/styles/glyphs/segoeui.ttf",
     "https://c.go-mpulse.net/api/config.json",
+    "https://cdn.gov.cfigroup.com/webmon/s/UploadFile/2023/2/28/US-NuclearRegulatoryCommission-Logo.png",
+    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/9de8b1c6db1117/117.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/9de8b1c6db1117/webmon.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://e.gov.cfigroup.com/wmon",
     "https://nrcgovsamediadev.blob.core.windows.net/dev/libraries/media/nrcweb/site/logo/logo.png",
     "https://s2.go-mpulse.net/boomerang/NY72W-PC7AC-AHREW-9TAVJ-VGMAW",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".nrc.gov",
     "www.nrc.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "241",
+  "largest_contentful_paint": "613.2999999821186",
   "required_links_url": [
     "about",
     "foia",

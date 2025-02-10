@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:12:06.027Z",
+  "scan_date": "2025-02-09T02:47:29.525Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -68,10 +68,12 @@
     "https://test.idp.idm.cms.gov/api/v1/sessions/me"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cms.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.021934423828125",
-  "largest_contentful_paint": "796.8000000044703",
+  "cumulative_layout_shift": "0.0020533125",
+  "largest_contentful_paint": "610.1999999880791",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:30:46.070Z",
+  "scan_date": "2025-02-09T09:59:35.122Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -43,18 +43,18 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "fedsso.hud.gov",
-    "sso.hud.gov"
+    "fedsso.hud.gov"
   ],
   "third_party_service_urls": [
-    "https://fedsso.hud.gov/affwebservices/public/saml2sso",
-    "https://sso.hud.gov/siteminderagent/ntlm/creds.ntc"
+    "https://fedsso.hud.gov/affwebservices/public/saml2sso"
   ],
-  "third_party_service_count": 2,
-  "cookie_domains": null,
+  "third_party_service_count": 1,
+  "cookie_domains": [
+    ".hud.gov"
+  ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "161.20000000298023",
+  "largest_contentful_paint": "154.40000000596046",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
