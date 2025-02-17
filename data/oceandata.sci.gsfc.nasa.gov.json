@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T17:44:22.618Z",
+  "scan_date": "2025-02-16T08:11:24.722Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":2,\"link-purpose\":2}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +48,7 @@
     "agency": "NASA",
     "subagency": "GSFC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-62340125-3,G-GPQT4GL86Z",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
@@ -83,7 +86,7 @@
     "https://oceancolor.gsfc.nasa.gov/css/navigation.css",
     "https://oceancolor.gsfc.nasa.gov/css/styles.css",
     "https://oceancolor.gsfc.nasa.gov/images/CoreTrustSeal-logo.jpg",
-    "https://oceancolor.gsfc.nasa.gov/images/header_images/774.jpg",
+    "https://oceancolor.gsfc.nasa.gov/images/header_images/758.jpg",
     "https://oceancolor.gsfc.nasa.gov/images/ob-logo-svg-2.svg",
     "https://oceancolor.gsfc.nasa.gov/images/wds_logo-1.png",
     "https://oceancolor.gsfc.nasa.gov/includes/nav_data.js",
@@ -105,7 +108,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.15330596748860678",
-  "largest_contentful_paint": "438.09999999403954",
+  "largest_contentful_paint": "372",
   "required_links_url": [
     "about",
     "foia",
@@ -160,7 +163,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

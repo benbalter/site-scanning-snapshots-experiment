@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-09T01:13:41.609Z",
+  "scan_date": "2025-02-15T11:22:08.919Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":5}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"contrast\":4}",
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -74,7 +76,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "371",
+  "largest_contentful_paint": "438.5",
   "required_links_url": [
     "about",
     "foia"
@@ -124,7 +126,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.ecowatch.noaa.gov",
   "www_status_code": 200,
   "www_title": "Home | National Marine Ecosystem Status"

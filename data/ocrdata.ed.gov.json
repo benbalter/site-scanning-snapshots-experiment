@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:28:48.305Z",
+  "scan_date": "2025-02-16T05:00:31.338Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":4,\"aria\":1}",
   "ipv6": true,
   "hostname": null,
@@ -44,35 +47,32 @@
   "dap_parameters": {
     "agency": "ED"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-8K2VJ69LX9",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-8K2VJ69LX9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/librebaskerville/v14/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxMaC82U.woff2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".ed.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0007884091796875",
-  "largest_contentful_paint": "676.5",
+  "largest_contentful_paint": "769.3999999761581",
   "required_links_url": [
     "about",
     "privacy",
@@ -126,7 +126,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

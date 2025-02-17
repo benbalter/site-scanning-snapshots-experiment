@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T08:33:43.781Z",
+  "scan_date": "2025-02-16T09:55:21.097Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":86}",
   "ipv6": true,
   "hostname": null,
@@ -56,7 +58,7 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
-    "https://js.intercomcdn.com/frame.f7e1f8e1.js",
+    "https://js.intercomcdn.com/frame.b2016f63.js",
     "https://js.intercomcdn.com/vendor.e163e343.js",
     "https://widget.intercom.io/widget/g0otm6kx",
     "https://www.googletagmanager.com/gtag/js"
@@ -67,7 +69,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0017011596679687498",
-  "largest_contentful_paint": "453.2999999821186",
+  "largest_contentful_paint": "386.1999999284744",
   "required_links_url": [
     "about"
   ],
@@ -114,7 +116,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

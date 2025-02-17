@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T17:00:23.369Z",
+  "scan_date": "2025-02-15T15:13:07.753Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
@@ -63,8 +66,8 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.02469231270345052",
-  "largest_contentful_paint": "1539.1000000238419",
+  "cumulative_layout_shift": "0.02458489375813802",
+  "largest_contentful_paint": "1414.5",
   "required_links_url": [
     "about",
     "foia",
@@ -131,7 +134,6 @@
   "uswds_semantic_version": "v2.12.1",
   "uswds_version": 100,
   "uswds_count": 155,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

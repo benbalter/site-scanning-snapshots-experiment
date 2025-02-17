@@ -5,7 +5,7 @@
   "initial_base_domain": "dhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://hsinpiv.dhs.gov/adfs/ls?SAMLRequest=fdA9b4MwEAbgPVL%2Bg%2BU92IaghBMgoWaJlC5J26GbAVMsgU19BvXnl9L0I1LV9e59pHsvRdl34QDF6FtzVq%2BjQk%2Fe%2Bs4gfG4yOjoDVqJGMLJXCL6CS3F%2FgjDgMDjrbWU7%2Btv8TySicl5bQ8nxkFFdN1xGahsnQu3qrYhFuRc82e%2Bipix5VMuIkiflcAYZnf2sEEd1NOil8fOIh%2FGGhxuePPAIQgFcPFNymGtoI%2F2iWu8HBMZa1GbQU1C3GLzYicm6QdYhJcXXSXfW4Ngrd1Fu0pV6PJ9%2BtGv0t%2Fz41jWDrKiQ5usVIenSHpb7XP6HS9lNYr26Dm7fn78DAAAAAAAAAA%3D%3D&RelayState=LRRK9YWWYh68dYP9eW5QwR_wUvb-PW8IkaCEC4buCF37Zvlcvlsouflf&client-request-id=b20d4dd8-c2df-4a1a-f808-0080002c003f&RedirectToIdentityProvider=AD+AUTHORITY",
+  "url": "https://hsinpiv.dhs.gov/adfs/ls?SAMLRequest=fdA9b4MwEAbgPVL%2Bg%2BU9YJzQ4BMgoWaJlC5Jm6GbA6ZYApv6DOrPL6XpR6Sq6937SPdeirJreQ%2FF4BtzVK%2BDQk%2FeutYgfG4yOjgDVqJGMLJTCL6EU%2FFwAB4w6J31trQt%2FW3%2BJxJROa%2BtoWS%2Fy6iu4pqJhEtVR0xsKsEul0REsahEJLfReptQclYOJ5DRyU8KcVB7g14aP40Yj1eMr6K7R7aGTQxcPFOym2poI%2F2sGu97hDBsUJtej0HVYPBix1BWNYYtUlJ8nXRvDQ6dciflRl2qp%2BPhR7taf8uPb10zGBYl0ny5ICSd28N8n8v%2FcGl4k1guroPb9%2BfvAAAAAAAAAA%3D%3D&RelayState=ouyrUBCczcysz-AYkS1ybta7W8ruj-YpadjmBhL75IZrA-VxCu_N0oZD&client-request-id=76807b99-66c8-4092-b409-00800104000b&RedirectToIdentityProvider=AD+AUTHORITY",
   "domain": "hsinpiv.dhs.gov",
   "base_domain": "dhs.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T03:21:10.393Z",
+  "scan_date": "2025-02-16T03:45:37.784Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -42,19 +44,29 @@
   ],
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".dhs.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.025734347737630205",
-  "largest_contentful_paint": "537.0999999940395",
+  "largest_contentful_paint": "674.1999999284744",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -99,7 +111,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

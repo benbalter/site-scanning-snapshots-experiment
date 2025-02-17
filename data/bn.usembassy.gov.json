@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T17:05:16.869Z",
+  "scan_date": "2025-02-16T07:55:37.811Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"link-purpose\":9}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -44,8 +47,8 @@
   "dap_parameters": {
     "agency": "DOS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30666747-2,UA-22995010-2,G-120YTE3T9T,G-APGkRMZA0yvZzBT",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30666747-2,UA-22995010-2,G-120YTE3T9T",
   "third_party_service_domains": [
     "app.enzuzo.com",
     "cdnjs.cloudflare.com",
@@ -103,16 +106,17 @@
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-v4compatibility.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
+    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player-cc.vflset/www-embed-player-cc.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css"
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css"
   ],
   "third_party_service_count": 21,
   "cookie_domains": [
@@ -121,7 +125,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00034555297851562503",
-  "largest_contentful_paint": "747.5999999940395",
+  "largest_contentful_paint": "264.39999997615814",
   "required_links_url": [
     "privacy"
   ],
@@ -173,7 +177,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,11 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-08T13:54:53.352Z",
+  "scan_date": "2025-02-15T15:07:22.954Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1}",
   "ipv6": false,
   "hostname": null,
@@ -46,7 +48,7 @@
   "ga_tag_id": "G-8YZZZ2PK95",
   "third_party_service_domains": [
     "10608.global.siteimproveanalytics.io",
-    "17de4c14.akstat.io",
+    "17de4c11.akstat.io",
     "c.go-mpulse.net",
     "content.govdelivery.com",
     "fonts.googleapis.com",
@@ -57,7 +59,7 @@
   ],
   "third_party_service_urls": [
     "https://10608.global.siteimproveanalytics.io/image.aspx",
-    "https://17de4c14.akstat.io/",
+    "https://17de4c11.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://content.govdelivery.com/attachments/fancy_images/USDANIFA/2016/01/717137/stayinform_original.png",
     "https://fonts.googleapis.com/css",
@@ -73,8 +75,8 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03706746105957032",
-  "largest_contentful_paint": "1013.5999999940395",
+  "cumulative_layout_shift": "0.03398882507324219",
+  "largest_contentful_paint": "625.2000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -148,7 +150,6 @@
   "uswds_semantic_version": "v2.14.0",
   "uswds_version": 100,
   "uswds_count": 276,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

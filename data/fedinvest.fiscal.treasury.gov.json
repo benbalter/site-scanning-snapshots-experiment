@@ -5,7 +5,7 @@
   "initial_base_domain": "treasury.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://caia.treasury.gov/as/authorization.oauth2?response_type=code&client_id=bd45b93f-6f85-45e0-baf3-53d68563c54f&scope=openid%20profile&state=ytc9OTrHHIssQi556c7xKRgMnYx6WEr54j0GBV3DpQE%3D&redirect_uri=https://fedinvest.fiscal.treasury.gov/GA-FD/login/oauth2/code&nonce=UBKBbiissN3bXcBaSXtzaVeCeSapMbiXzX_Fx1turx4&code_challenge=2yws11C1pMxWA1HKqHhctz9TPulsmpcfMUqTguDuk9o&code_challenge_method=S256",
+  "url": "https://caia.treasury.gov/as/authorization.oauth2?response_type=code&client_id=bd45b93f-6f85-45e0-baf3-53d68563c54f&scope=openid%20profile&state=kLvRdoFR7MchndZqw3m2cfrHdf46NyoKi45ZsXSWy2c%3D&redirect_uri=https://fedinvest.fiscal.treasury.gov/GA-FD/login/oauth2/code&nonce=tF2WfET1Y2xO5d0jKqUOoTSAvxhVUX7ti7uz4qaQzwc&code_challenge=X43xRzyMMFVS5cLkGPTd6vYYfnlLXGB0ptJVTw7t70A&code_challenge_method=S256",
   "domain": "caia.treasury.gov",
   "base_domain": "treasury.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:37:03.151Z",
+  "scan_date": "2025-02-15T14:17:29.123Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -53,7 +55,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.02185153662109375",
-  "largest_contentful_paint": "931",
+  "largest_contentful_paint": "877.6000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -113,7 +115,6 @@
   "uswds_semantic_version": "v2.4.0",
   "uswds_version": 100,
   "uswds_count": 165,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

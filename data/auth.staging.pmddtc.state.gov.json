@@ -5,7 +5,7 @@
   "initial_base_domain": "state.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://auth.staging.pmddtc.state.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=HAg38f8nx6mW7ptQ1WTUDW8ateTdx-Qjjy3oCm2Xl5E&code_challenge_method=S256&nonce=oeqygLbVabHwQJc27l4rnDBYQTuauhOZ7gwRhbXoaAOXPhE0TDcc1cyR6HuNGlU6&redirect_uri=https%3A%2F%2Fauth.staging.pmddtc.state.gov%2Fenduser%2Fcallback&response_type=code&state=RIqwlYj3f7Jk7lPF8BjJHQhUWq5Du17bx10h929jUeVNqdSPMizAnfRy2o3naFS3&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://auth.staging.pmddtc.state.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=UBS4Z-8coTucoEKkhTVHO75B2oc-eo-_pRfF5mFPsT8&code_challenge_method=S256&nonce=okpECnkzdRurvE2uQq8Rf5xQ8FikP529P6UrYUP42hAt6cHLNDozVdgMTScQGNlX&redirect_uri=https%3A%2F%2Fauth.staging.pmddtc.state.gov%2Fenduser%2Fcallback&response_type=code&state=IaV1gin7ooRKcz5pFIwSlAQLsXrlC0WMRvDbpAfPSoGHnCuE3KkQ97Z30BZ2bOik&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "auth.staging.pmddtc.state.gov",
   "base_domain": "state.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T15:35:47.802Z",
+  "scan_date": "2025-02-15T13:54:34.547Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -44,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-ue7lNIUpG",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "login.okta.com"
   ],
@@ -53,11 +56,12 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".state.gov",
     "auth.staging.pmddtc.state.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.033027064860026",
-  "largest_contentful_paint": "639.7000000178814",
+  "cumulative_layout_shift": "1.0330289550781253",
+  "largest_contentful_paint": "732.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -102,7 +106,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 55,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

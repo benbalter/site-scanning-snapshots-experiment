@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T11:46:47.031Z",
+  "scan_date": "2025-02-16T11:10:01.028Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,10 +31,11 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
-  "cms": null,
+  "cms": "WordPress",
   "login_provider": null,
   "login": null,
   "site_search": true,
@@ -45,15 +47,15 @@
     "yt": "true",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "cdn.parsely.com",
     "dap.digitalgov.gov",
-    "gms.gsfc.nasa.gov",
     "p1.parsely.com",
     "www.googletagmanager.com",
+    "www.nasa.gov",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
@@ -63,11 +65,19 @@
     "https://cdn.jsdelivr.net/npm/underscore@1.13.6/underscore-min.min.js",
     "https://cdn.parsely.com/keys/svs.gsfc.nasa.gov/p.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://gms.gsfc.nasa.gov/favicon.ico",
     "https://p1.parsely.com/px/",
     "https://www.googletagmanager.com/gtag/js",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-128x128.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-16x16.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-192x192.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-196x196.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-228x228.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-32x32.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-57x57.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-76x76.png",
+    "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-96x96.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -75,8 +85,8 @@
     "svs.gsfc.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.18610558463541665",
-  "largest_contentful_paint": "1555.0999999940395",
+  "cumulative_layout_shift": "0.18614069368489583",
+  "largest_contentful_paint": "1750.6000000238419",
   "required_links_url": [
     "about",
     "privacy",
@@ -127,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

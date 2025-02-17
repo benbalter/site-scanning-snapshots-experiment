@@ -24,10 +24,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:00:34.554Z",
+  "scan_date": "2025-02-16T07:55:17.179Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,6 +38,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":2}",
   "ipv6": false,
   "hostname": null,
@@ -51,7 +54,7 @@
     "pua": "UA-27627304-36",
     "UA-27610928-1": ""
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-QF2HWBCH8D,G-Q0X8VGBH3P,UA-27627304-3,UA-27610928-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "10616.global.siteimproveanalytics.io",
@@ -82,8 +85,8 @@
     ".www.rd.usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.27232656852213544",
-  "largest_contentful_paint": "902.7999999821186",
+  "cumulative_layout_shift": "0.2234194635416667",
+  "largest_contentful_paint": "653.1999999284744",
   "required_links_url": [
     "about",
     "fear",
@@ -170,7 +173,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 163,
-  "www_scan_status": "completed",
   "www_url": "https://www.rd.usda.gov",
   "www_status_code": 200,
   "www_title": "Rural Development"

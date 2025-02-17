@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:25:35.863Z",
+  "scan_date": "2025-02-16T03:33:22.096Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":11,\"contrast\":3}",
   "ipv6": false,
   "hostname": "awsglobalaccelerator.com",
@@ -57,18 +59,17 @@
     "https://hcaptcha.com/1/api.js",
     "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css",
     "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.woff2",
-    "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".democraticleader.house.gov",
-    ".house.gov"
+    ".democraticleader.house.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.08971911523437501",
-  "largest_contentful_paint": "342.59999999403954",
+  "largest_contentful_paint": "385.2000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -118,7 +119,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://democraticleader.house.gov",
   "www_status_code": 200,
   "www_title": "Democratic Leader Hakeem Jeffries | Office of the Democratic Leader"

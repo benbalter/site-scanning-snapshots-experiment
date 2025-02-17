@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T07:00:32.195Z",
+  "scan_date": "2025-02-15T14:47:05.739Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":3,\"contrast\":11,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -47,10 +50,11 @@
     "agency": "TREAS",
     "subagency": "FS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-C641SBQBBJ,UA-60737492-1",
   "third_party_service_domains": [
     "analytics.foresee.com",
+    "analytics.google.com",
     "api.usaspending.gov",
     "dap.digitalgov.gov",
     "gateway.foresee.com",
@@ -59,6 +63,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
+    "https://analytics.google.com/g/collect",
     "https://api.usaspending.gov/api/v2/references/glossary/",
     "https://api.usaspending.gov/api/v2/references/submission_periods/",
     "https://api.usaspending.gov/api/v2/spending/",
@@ -80,14 +85,14 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".usaspending.gov",
     "www.usaspending.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05724894205729167",
-  "largest_contentful_paint": "796.2999999821186",
+  "cumulative_layout_shift": "0.028624471028645834",
+  "largest_contentful_paint": "780.7999999523163",
   "required_links_url": [
     "about",
     "foia",
@@ -157,7 +162,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 65,
-  "www_scan_status": "completed",
   "www_url": "https://www.usaspending.gov",
   "www_status_code": 200,
   "www_title": "Government Spending Open Data | USAspending"

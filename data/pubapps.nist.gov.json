@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T10:38:42.698Z",
+  "scan_date": "2025-02-15T11:09:53.868Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -43,7 +45,7 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45je5240v895826815za200"
+    "gtm": "45je52d0v895826815za200"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-CSLL4ZEK4L",
@@ -65,13 +67,12 @@
   "third_party_service_urls": [
     "https://6017546.global.siteimproveanalytics.io/image.aspx",
     "https://arclight.vimeo.com/add/player-stats",
-    "https://arclight.vimeo.com/player-events/log/partial",
     "https://arclight.vimeo.com/player-events/log/play",
     "https://bam.nr-data.net/1/37b7ccb661",
     "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
-    "https://f.vimeocdn.com/p/4.39.69/css/player.css",
-    "https://f.vimeocdn.com/p/4.39.69/js/player.module.js",
-    "https://f.vimeocdn.com/p/4.39.69/js/vendor.module.js",
+    "https://f.vimeocdn.com/p/4.40.1/css/player.css",
+    "https://f.vimeocdn.com/p/4.40.1/js/player.module.js",
+    "https://f.vimeocdn.com/p/4.40.1/js/vendor.module.js",
     "https://i.vimeocdn.com/video/1960969114-43c4d34e2cd0233d821df04d6ed4313c2b38eca6d8a9291b7057f9896bd808d7-d",
     "https://js-agent.newrelic.com/nr-rum-1.281.0.min.js",
     "https://lensflare.vimeo.com/add/vimeo.play_video",
@@ -82,9 +83,9 @@
     "https://time.gov/web/scripts/dst-leap-dates.js",
     "https://time.gov/web/scripts/fullscreen_clock.js",
     "https://time.gov/web/scripts/jquery-2.1.1.min.js",
-    "https://vod-adaptive-ak.vimeocdn.com/exp=1739101115~acl=%2F3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7%2F%2A~hmac=d7d8c9eeda4c4e7eb063c5a4008b9429eaebc01d560274de7c23aeccaf806f77/3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7/v2/playlist/av/primary/prot/cXNyPTE/playlist.json",
-    "https://vod-adaptive-ak.vimeocdn.com/exp=1739101115~acl=%2F3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7%2F%2A~hmac=d7d8c9eeda4c4e7eb063c5a4008b9429eaebc01d560274de7c23aeccaf806f77/3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7/v2/range/prot/cmFuZ2U9OTU1LTIwNDQzNTY/avf/6576276f-2110-4342-bfb5-2b23aa53dc42.mp4",
-    "https://vod-adaptive-ak.vimeocdn.com/exp=1739101115~acl=%2F3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7%2F%2A~hmac=d7d8c9eeda4c4e7eb063c5a4008b9429eaebc01d560274de7c23aeccaf806f77/3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7/v2/range/prot/cmFuZ2U9OTU3LTIzOTkyMQ/avf/0f6084f7-5a30-4bb1-aec6-28f7474a7e8c.mp4",
+    "https://vod-adaptive-ak.vimeocdn.com/exp=1739621388~acl=%2F3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7%2F%2A~hmac=e6b7eba2c8ed782c95b31be4234fb2c67d4d484ca69d3046b37b9feaedcaaad6/3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7/v2/playlist/av/primary/prot/cXNyPTE/playlist.json",
+    "https://vod-adaptive-ak.vimeocdn.com/exp=1739621388~acl=%2F3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7%2F%2A~hmac=e6b7eba2c8ed782c95b31be4234fb2c67d4d484ca69d3046b37b9feaedcaaad6/3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7/v2/range/prot/cmFuZ2U9OTU1LTIwNDQzNTY/avf/6576276f-2110-4342-bfb5-2b23aa53dc42.mp4",
+    "https://vod-adaptive-ak.vimeocdn.com/exp=1739621388~acl=%2F3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7%2F%2A~hmac=e6b7eba2c8ed782c95b31be4234fb2c67d4d484ca69d3046b37b9feaedcaaad6/3c98f7fa-2ff7-4e53-a5d9-4f5bb8bfbaf7/v2/range/prot/cmFuZ2U9OTU3LTIzOTkyMQ/avf/0f6084f7-5a30-4bb1-aec6-28f7474a7e8c.mp4",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js"
@@ -96,7 +97,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.09018708801269532",
-  "largest_contentful_paint": "540.7000000178814",
+  "largest_contentful_paint": "525.7999999523163",
   "required_links_url": [
     "about",
     "fear",
@@ -167,7 +168,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 95,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

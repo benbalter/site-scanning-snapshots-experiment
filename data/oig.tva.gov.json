@@ -20,10 +20,11 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "gov_man"
+    "gov_man",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:40:51.437Z",
+  "scan_date": "2025-02-15T14:30:38.962Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":8}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "agency": "TVA",
     "subagency": "OIG"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-MB1T7EQNSN",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -72,7 +74,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "3179.4000000059605",
+  "largest_contentful_paint": "2364.399999976158",
   "required_links_url": [
     "about",
     "inspector"
@@ -149,7 +151,6 @@
   "uswds_semantic_version": "v3.4.1",
   "uswds_version": 100,
   "uswds_count": 218,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

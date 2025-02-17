@@ -18,10 +18,11 @@
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "gov_man"
+    "gov_man",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T09:48:36.282Z",
+  "scan_date": "2025-02-16T06:52:40.571Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1,\"link-purpose\":4,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -41,25 +43,25 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-7fQweSeLSJEsUMo,G-H69EPX,G-4vlTCrs5sX1Nksj,G-Bvj17oO8sdLik3F,G-0rGsszzYZirs3x,G-5s23OZ3gT0mAwf5",
+  "ga_tag_id": "G-5vM8snTCSwbgJaZ,G-whsMw08wz8UTE8T,G-MrjGrhZXU92JPwD,G-hMMDnIep1peWHh7,G-0v6lknM8fH2WMUj,G-7CfA6YFsKk8flB9,G-wVHn1rWoQsaj7UZ,G-ojCarIao,G-r0XKlwVjpsvMVKk,G-VrX2bOUOmKnkL88,G-IPb8kmPfsm1",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90eab42afd2b5ec2/1739008104408/mQOhLPKEWHNi6q_",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1136083506:1739006148:IF31iUuvMNCpchTKIWjkLGGgCfJeByqzn5I2GIkUozQ/90eab42afd2b5ec2/rfZ_G4I72PkttxNwv.a.NF9FdvpQ1wPeG9D4.eqdQEQ-1739008104-1.1.1.1-k_MaFjaGx2zJWlk6GlsWq_pJfBV.Ea7JOJKlcxiaTXy3cG.Z0cgvbMMx367EbAVj",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90eab42afd2b5ec2/1739008104407/e1dc380fa6f584ca1de2c5e24eca04fc37aa901706975faa002f3d26b0c0df08/YZpbHI-xI2zUOJ8",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/912b9d84e80f5ec2/1739688751116/a2dNOel5MOGwhWK",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/80214522:1739687070:5xt3e512-tJZ6csBo4FwdASvMnfJS5aZalorIvkGGaI/912b9d84e80f5ec2/2fmMrv75mmx_kd7Epaf3d5mEIikUliHI5Rpn41fCkZA-1739688750-1.1.1.1-etUXiMRDl6BslQ7xom_rk2unX5x2g7y_K5hTNhAOd.FWsXAuP.o_rSkFddMNhhh.",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/912b9d84e80f5ec2/1739688751116/de70fa914a35aa7bf8e9b968facbfa872895526ab676a7718858000ec53f3e53/lzmX7g7OKo6UdME",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
     "bensguide.gpo.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07663536987304688",
-  "largest_contentful_paint": "1322.5",
+  "cumulative_layout_shift": "0.11940927001953125",
+  "largest_contentful_paint": "1416.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,
@@ -104,7 +106,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

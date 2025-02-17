@@ -19,19 +19,22 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T16:34:54.401Z",
+  "scan_date": "2025-02-15T10:48:17.233Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":2,\"images\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Microsoft Sharepoint",
@@ -73,8 +76,8 @@
     "nems.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.02746030729166667",
-  "largest_contentful_paint": "2376.4000000059605",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "2618",
   "required_links_url": [
     "about",
     "foia",
@@ -129,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://nems.nih.gov/Pages/default.aspx",
   "www_status_code": 200,
   "www_title": "NEMS Home"

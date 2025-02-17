@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:04:59.257Z",
+  "scan_date": "2025-02-15T13:20:29.379Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -58,8 +60,8 @@
     "paltopicdim": "dimension5|5",
     "cto": "24"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-36351725-9,G-EBDC0ZCHG2,G-3YLR8EGLBW,G-CSLL4ZEK4L",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "UA-36351725-9,G-EBDC0ZCHG2,G-CSLL4ZEK4L,G-3YLR8EGLBW",
   "third_party_service_domains": [
     "6029428.global.siteimproveanalytics.io",
     "cdn.jsdelivr.net",
@@ -81,7 +83,9 @@
   "third_party_service_urls": [
     "https://6029428.global.siteimproveanalytics.io/image.aspx",
     "https://cdn.jsdelivr.net/npm/@uswds/uswds@3.4.1/dist/js/uswds.min.js",
+    "https://cdn.jsdelivr.net/npm/focus-trap@7.6.2/dist/focus-trap.umd.min.js",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
+    "https://cdn.jsdelivr.net/npm/tabbable@6.2.0/dist/index.umd.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/9.1.0/mmenu.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/9.1.0/mmenu.min.js",
@@ -99,15 +103,11 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/svgs/solid/external-link-alt.svg",
     "https://kit-uploads.fontawesome.com/b0a19b95e6/icons/samhsa-print-1.svg",
     "https://kit.fontawesome.com/b0a19b95e6.js",
-    "https://resources.digital-cloud-gov.medallia.com/md-form/website/1.18.3/main.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/36910/forms/767/formDataV2_1737651744621_en.json",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/36910/onsite/domains-configuration.json",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/36910/onsite/embed.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/36910/onsite/generic1738357058182.js",
     "https://script.crazyegg.com/pages/data-scripts/0083/6179/sampling/www.samhsa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0083/6179/site/www.samhsa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0083/6179.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -119,7 +119,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 16,
   "cookie_domains": [
@@ -128,7 +128,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.017745701212565104",
-  "largest_contentful_paint": "419.09999999403954",
+  "largest_contentful_paint": "886.4000000953674",
   "required_links_url": [
     "about",
     "fear",
@@ -191,12 +191,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 25,
-  "uswds_string": 58,
+  "uswds_string": 59,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": ".",
   "uswds_version": 100,
-  "uswds_count": 223,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 224,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

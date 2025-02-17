@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:46:39.300Z",
+  "scan_date": "2025-02-15T17:25:38.135Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":8,\"lists\":3}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -49,7 +52,7 @@
     "yt": "true",
     "exts": "tif,tiff,wav"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VKJZ7DT3PS,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "bam.nr-data.net",
@@ -76,15 +79,16 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
+    ".jpl.nasa.gov",
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "868.3000000119209",
+  "largest_contentful_paint": "954.1000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -133,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

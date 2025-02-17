@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T05:58:46.172Z",
+  "scan_date": "2025-02-15T11:56:15.610Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":10,\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "azure.com",
@@ -46,7 +49,7 @@
     "subagency": "NOAA",
     "pua": "UA-41067187-18"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-6QEKHC72LJ,UA-41067187-1,G-CSLL4ZEK4L,G-RtjTv4cIjfWGP8t",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -228,12 +231,11 @@
   ],
   "third_party_service_count": 15,
   "cookie_domains": [
-    ".noaa.gov",
-    ".thunderbay.noaa.gov"
+    ".noaa.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.5319220515950521",
-  "largest_contentful_paint": "421.7000000178814",
+  "largest_contentful_paint": "425",
   "required_links_url": [
     "about",
     "foia",
@@ -285,7 +287,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://thunderbay.noaa.gov",
   "www_status_code": 200,
   "www_title": "Thunder Bay National Marine Sanctuary"

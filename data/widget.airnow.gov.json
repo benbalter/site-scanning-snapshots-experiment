@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T01:02:29.568Z",
+  "scan_date": "2025-02-16T00:59:23.589Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":10,\"images\":2}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
     "airnowgovapi.com",
@@ -114,7 +116,7 @@
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/30.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/Weather_Degree_F.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_icon_fair_day.svg",
-    "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_icon_overcast_day.svg",
+    "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_icon_rain.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_mi.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_mph.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/wind-direction.png",
@@ -148,8 +150,8 @@
     "https://widget.airnow.gov/aq-dial-widget/images/dial_black_circle_bottom_smaller.svg",
     "https://widget.airnow.gov/aq-dial-widget/images/dial_black_circle_top_bigger.svg",
     "https://widget.airnow.gov/aq-dial-widget/images/dial_legend.svg",
+    "https://widget.airnow.gov/aq-dial-widget/images/dial_moderate.svg",
     "https://widget.airnow.gov/aq-dial-widget/images/dial_not_available.svg",
-    "https://widget.airnow.gov/aq-dial-widget/images/dial_unhealthy.svg",
     "https://widget.airnow.gov/aq-dial-widget/images/epa-logo.svg",
     "https://widget.airnow.gov/aq-dial-widget/js/airnow/base.js",
     "https://widget.airnow.gov/aq-dial-widget/js/airnow/geolocation.js",
@@ -186,7 +188,6 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -195,8 +196,8 @@
     ".airnow.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01880894978841146",
-  "largest_contentful_paint": "229",
+  "cumulative_layout_shift": "0.019114688313802086",
+  "largest_contentful_paint": "227.20000004768372",
   "required_links_url": [
     "about",
     "spanish",
@@ -204,7 +205,8 @@
   ],
   "required_links_text": [
     "accessibility",
-    "español"
+    "español",
+    "spanish"
   ],
   "https_enforced": true,
   "hsts": true,
@@ -248,7 +250,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

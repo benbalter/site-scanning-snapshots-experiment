@@ -23,7 +23,7 @@
     "omb_idea"
   ],
   "public": true,
-  "scan_date": "2025-02-09T11:23:44.316Z",
+  "scan_date": "2025-02-15T13:19:19.692Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +46,7 @@
     "agency": "DOE",
     "subagency": "sandia-national-laboratories"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6025768.global.siteimproveanalytics.io",
@@ -121,7 +122,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.18305837060546873",
-  "largest_contentful_paint": "492.09999999403954",
+  "largest_contentful_paint": "466.7999999523163",
   "required_links_url": [
     "about"
   ],
@@ -146,7 +147,7 @@
   "robots_txt_url": "https://dakota.sandia.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 13431,
+  "robots_txt_filesize": 13483,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [
     "https://anywhere.sandia.gov/wp-sitemap.xml",
@@ -321,6 +322,7 @@
     "https://www.sandia.gov/spe3/wp-sitemap.xml",
     "https://www.sandia.gov/spki/wp-sitemap.xml",
     "https://www.sandia.gov/srp-workshop/wp-sitemap.xml",
+    "https://www.sandia.gov/stai/wp-sitemap.xml",
     "https://www.sandia.gov/taos/wp-sitemap.xml",
     "https://www.sandia.gov/ucd-design-awards/wp-sitemap.xml",
     "https://www.sandia.gov/ucdcollaborate/wp-sitemap.xml",
@@ -356,7 +358,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

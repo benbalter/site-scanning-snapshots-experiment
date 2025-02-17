@@ -5,23 +5,24 @@
   "initial_base_domain": "llnl.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://lc.llnl.gov/my.policy",
+  "url": "https://lc.llnl.gov/lorenz",
   "domain": "lc.llnl.gov",
   "base_domain": "llnl.gov",
   "top_level_domain": "gov",
-  "live": true,
+  "live": false,
   "filter": false,
-  "status_code": 200,
+  "status_code": 404,
   "media_type": "text/html",
   "agency": "Department of Energy",
   "bureau": "Lawrence Livermore National Laboratory",
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T09:02:13.675Z",
+  "scan_date": "2025-02-16T10:12:11.566Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,14 +31,13 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"language\":1,\"images\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": [
-    "\"password\""
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
@@ -47,31 +47,33 @@
     "sdor": "fda.gov",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".llnl.gov",
     "lc.llnl.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "295.80000001192093",
+  "largest_contentful_paint": "182",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "lc.llnl.gov",
+  "title": "BIG-IP - Error Page",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -111,7 +113,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

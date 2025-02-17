@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T17:19:12.425Z",
+  "scan_date": "2025-02-15T16:06:13.331Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,8 +49,8 @@
     "ver": "true",
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-SfvktMbFx3h2n7g,G-R7fblJlASYZDIeG,G-bWgunlE,G-7F1O,G-7RZLOc3Gl,G-70r3gGoqXg09srI,G-g1ONWGDr,G-JdUvwgnqQYbUHS,G-7C73A0kIi,G-8BbbRh,G-rFVvmqWGkf8p5up,G-Q0paupebI9JU9lx,G-wehDS8wIerPrP4l,G-7qJZk4Dp0rhZf",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-Llov1DkY8voZjag,G-RlMEZdlr9mpg,G-bwLXrojqtQH4o5,G-OmwsR,G-p48axk,G-aiVeMN",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -58,13 +60,13 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90ed482ec89a8e66/1739035138614/T9BYuISJSvtK4g0",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/71523052:1739031223:b7hW0AEWzsblgqH8cS4a7IYh9JH0bbkgyAmU30TiDjY/90ed482ec89a8e66/GzKb2lKxTOa9FvY6f7pPpa0m6v56q5tK2NjdNmGeIJw-1739035138-1.1.1.1-TJz3WtvibHQBbPJWQm38E_6liq_kYtq82ghGJ.egYRZigElR6SJepX3nLM5r1I9p",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90ed482ec89a8e66/1739035138617/6f5c2d84e532e41f3e4cbc3d29b27ba099ab9ddc87d3ae84965eb6786653fdde/iKdpXfB1oqeNKoM",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/91268abc9c19ff13/1739635552992/loH0V7wBEanVsYk",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/175006790:1739633195:rcJGy0OhCmObXMPo_Fbpf62DQ24eIaChXx7yAkxtTMw/91268abc9c19ff13/aHORXjEEqUQGytAFnDcTHubOLeLA6dVZFBd78ag6GxM-1739635552-1.1.1.1-.Op4UYzrC6KsGnrybeJqZJ5GwZgHu3CergSsZHfGyXZHqV8QZbGq.58rduaPoFIv",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/91268abc9c19ff13/1739635552989/285dee034bf95b890335b474f6aa912a5c077b07b9ab6adcb858b11b12c8aec2/wDm2nrwkTz6hxeN",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
@@ -78,8 +80,8 @@
     ".va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.016284114908854164",
-  "largest_contentful_paint": "4237",
+  "cumulative_layout_shift": "0.47658540559895834",
+  "largest_contentful_paint": "897.2999999523163",
   "required_links_url": [
     "about",
     "fear",
@@ -142,7 +144,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 129,
-  "www_scan_status": "completed",
   "www_url": "https://department.va.gov/integrated-service-networks/visn-16",
   "www_status_code": 200,
   "www_title": "VISN 16 - Veterans Integrated Service Networks"

@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T08:19:51.988Z",
+  "scan_date": "2025-02-16T09:42:40.160Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":4,\"link-purpose\":10}",
   "ipv6": false,
   "hostname": null,
@@ -81,7 +84,6 @@
     "https://use.typekit.net/af/9cb78a/0000000000000000000118ad/27/l",
     "https://use.typekit.net/af/b825af/0000000000000000000118b1/27/l",
     "https://use.typekit.net/evi6dpc.css",
-    "https://www.facebook.com/platform/scribe_endpoint.php/",
     "https://www.facebook.com/x/oauth/status"
   ],
   "third_party_service_count": 8,
@@ -92,7 +94,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.000596085205078125",
-  "largest_contentful_paint": "614.5",
+  "largest_contentful_paint": "505.1999999284744",
   "required_links_url": [
     "about"
   ],
@@ -139,7 +141,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

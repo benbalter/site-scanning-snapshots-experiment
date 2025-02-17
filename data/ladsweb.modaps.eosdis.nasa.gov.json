@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T10:36:22.944Z",
+  "scan_date": "2025-02-15T16:58:51.554Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":7,\"images\":1,\"link-purpose\":4}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":9,\"images\":1,\"link-purpose\":4}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -46,7 +49,7 @@
     "subagency": "GSFC",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-62340125-3,G-RLWG0EH56X,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
@@ -85,12 +88,11 @@
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
-    ".nasa.gov",
-    "ladsweb.modaps.eosdis.nasa.gov"
+    ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.11247163338216146",
-  "largest_contentful_paint": "5629.9000000059605",
+  "cumulative_layout_shift": "0.10573201700846353",
+  "largest_contentful_paint": "865.8999999761581",
   "required_links_url": [
     "about",
     "privacy"
@@ -116,7 +118,7 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=A6th7HB-3EBoO7iOCiCLlA&redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Foauth%2Fcallback&state=aXJJuq9RxGsgYjvt4Tyf5fKcu84Ugu",
+  "robots_txt_url": "https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=A6th7HB-3EBoO7iOCiCLlA&redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Foauth%2Fcallback&state=02gcbi6orkOqE1rDaASMwpIyx1oUMg",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
@@ -141,7 +143,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,13 @@
   "source_list": [
     "dap",
     "2020_eot",
-    "mil-sites2"
+    "mil-sites2",
+    "dod_public",
+    "dotmil",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T06:17:55.154Z",
+  "scan_date": "2025-02-16T10:29:05.323Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -44,7 +48,7 @@
   "dap_parameters": {
     "agency": "DOD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-FQQKKCHYF7,UA-29536396-3,G-XTTKJD1ENC,UA-29536396-4",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -98,7 +102,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0127/1280/site/militaryonesource.mil.json",
     "https://script.crazyegg.com/pages/data-scripts/0127/1280/site/www.militaryonesource.mil.json",
     "https://script.crazyegg.com/pages/scripts/0127/1280.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googleoptimize.com/optimize.js",
@@ -111,8 +115,8 @@
     "www.militaryonesource.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.012635173828125",
-  "largest_contentful_paint": "964.1000000238419",
+  "cumulative_layout_shift": "0.02512868896484375",
+  "largest_contentful_paint": "1124.6999999284744",
   "required_links_url": [
     "about",
     "fear",
@@ -135,7 +139,7 @@
   "og_title": "Support for Military Personnel & Families | Military OneSource",
   "og_description": "Active duty military resource website, offering 24/7 support for service members, spouses, their family and survivors on taxes, moving, benefits, MWR and more.",
   "og_article_published": null,
-  "og_article_modified": "2025-02-04T23:42:07.000Z",
+  "og_article_modified": "2025-02-14T20:30:28.000Z",
   "og_image": "https://www.militaryonesource.mil/wp-content/uploads/2021/10/american-flag-full-g156853047.jpg",
   "og_type": "website",
   "og_url": "https://www.militaryonesource.mil/",
@@ -171,7 +175,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.militaryonesource.mil",
   "www_status_code": 200,
   "www_title": "Support for Military Personnel & Families | Military OneSource"

@@ -25,10 +25,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:52:11.042Z",
+  "scan_date": "2025-02-15T16:49:45.197Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,6 +39,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -51,7 +54,7 @@
     "subagency": "USPTO",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CD30TTEK1F,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -69,6 +72,7 @@
     "www.googletagmanager.com",
     "www.gstatic.com",
     "www.youtube.com",
+    "yt3.ggpht.com",
     "zn38hormqiggjilaq-uspto.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
@@ -99,29 +103,30 @@
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://play.google.com/log",
     "https://static.doubleclick.net/instream/ad_status.js",
-    "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
+    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://www.youtube.com/youtubei/v1/log_event",
+    "https://yt3.ggpht.com/ytc/AIdro_lFokYzNyRdmRDgbjJjGIUrKApnbc2-KLachIuNdxNj9g=s68-c-k-c0x00ffffff-no-rj",
     "https://zn38hormqiggjilaq-uspto.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 16,
+  "third_party_service_count": 17,
   "cookie_domains": [
     ".uspto.gov",
     "www.uspto.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7189850708007812",
-  "largest_contentful_paint": "204.69999998807907",
+  "cumulative_layout_shift": "0.71116055078125",
+  "largest_contentful_paint": "206.79999995231628",
   "required_links_url": [
     "about",
     "fear",
@@ -181,7 +186,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 60,
-  "www_scan_status": "completed",
   "www_url": "https://www.uspto.gov",
   "www_status_code": 200,
   "www_title": "United States Patent and Trademark Office"

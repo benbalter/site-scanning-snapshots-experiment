@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "oira"
+    "oira",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T10:54:11.969Z",
+  "scan_date": "2025-02-15T10:18:29.301Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":2,\"contrast\":2}",
   "ipv6": false,
   "hostname": null,
@@ -74,8 +77,8 @@
     ".navy.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0198519563776652",
-  "largest_contentful_paint": "341.5",
+  "cumulative_layout_shift": "0.01817588233693441",
+  "largest_contentful_paint": "1290.7000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -131,7 +134,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.jag.navy.mil",
   "www_status_code": 200,
   "www_title": "Home —"

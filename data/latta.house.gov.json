@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:09:09.896Z",
+  "scan_date": "2025-02-15T18:39:48.726Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -66,9 +70,11 @@
     "https://maps.google.com/maps-api-v3/api/js/59/8/map.js",
     "https://maps.google.com/maps-api-v3/api/js/59/8/marker.js",
     "https://maps.google.com/maps-api-v3/api/js/59/8/poly.js",
+    "https://maps.google.com/maps-api-v3/api/js/59/8/stats.js",
     "https://maps.google.com/maps-api-v3/api/js/59/8/util.js",
     "https://maps.google.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
+    "https://maps.googleapis.com/maps/gen_204",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
@@ -81,8 +87,8 @@
     "latta.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01772822538248698",
-  "largest_contentful_paint": "304",
+  "cumulative_layout_shift": "0.017736900512695313",
+  "largest_contentful_paint": "516.7000000476837",
   "required_links_url": [
     "privacy"
   ],
@@ -131,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.latta.house.gov",
   "www_status_code": 404,
   "www_title": "Not Found"

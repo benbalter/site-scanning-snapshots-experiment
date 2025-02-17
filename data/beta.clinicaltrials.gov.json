@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T02:34:21.669Z",
+  "scan_date": "2025-02-16T03:01:56.402Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "sitetopic": "NCBI Pinger 0.39.3",
     "siteplatform": "NCBI Pinger 0.39.3"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-DP2X732JSX,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "code.jquery.com",
@@ -54,6 +56,7 @@
     "iad1.qualtrics.com",
     "maps.googleapis.com",
     "siteintercept.qualtrics.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.ncbi.nlm.nih.gov",
     "zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com"
@@ -82,6 +85,7 @@
     "https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/11f1c213b300bd2343e444b1b9adbf19b5fad3d2/img/wr-dialog-close-btn-black.png",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.ncbi.nlm.nih.gov/core/alerts/alerts.js",
@@ -89,13 +93,13 @@
     "https://www.ncbi.nlm.nih.gov/stat",
     "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".clinicaltrials.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.19559634374999998",
-  "largest_contentful_paint": "1018.6999999880791",
+  "largest_contentful_paint": "1100.6999999284744",
   "required_links_url": [
     "about",
     "fear",
@@ -184,7 +188,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 136,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

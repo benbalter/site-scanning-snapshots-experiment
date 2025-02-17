@@ -18,10 +18,11 @@
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "gov_man"
+    "gov_man",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T03:03:16.833Z",
+  "scan_date": "2025-02-16T03:27:11.896Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": null,
@@ -50,9 +52,9 @@
   "third_party_service_urls": [
     "https://assets.adobedtm.com/f94f5647937d/53b92aa882be/b1086c19fe36/EX784e89a9b8f343cd97740cbe35969cbd-libraryCode_source.min.js",
     "https://assets.adobedtm.com/f94f5647937d/53b92aa882be/launch-7c3c843ec308.min.js",
-    "https://smon.congress.gov/b/ss/loclegislative/1/JS-2.5.0-LDQM/s58238254303708",
+    "https://smon.congress.gov/b/ss/loclegislative/1/JS-2.5.0-LDQM/s16571101027516",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -60,7 +62,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1572.6000000238419",
+  "largest_contentful_paint": "406.10000002384186",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -111,7 +113,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

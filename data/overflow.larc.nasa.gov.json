@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://overflow.larc.nasa.gov/?doing_wp_cron=1739081209.7395920753479003906250",
+  "url": "https://overflow.larc.nasa.gov/",
   "domain": "overflow.larc.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -20,10 +20,11 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-09T06:07:06.000Z",
+  "scan_date": "2025-02-15T17:05:21.081Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "agency": "NASA",
     "subagency": "LARC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -62,7 +64,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1908.0999999940395",
+  "largest_contentful_paint": "1246.3999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -91,7 +93,7 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://overflow.larc.nasa.gov/robots.txt?doing_wp_cron=1739081218.1485478878021240234375",
+  "robots_txt_url": "https://overflow.larc.nasa.gov/robots.txt",
   "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
@@ -116,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

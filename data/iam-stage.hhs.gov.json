@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T09:37:42.617Z",
+  "scan_date": "2025-02-16T07:35:44.774Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "execution_context_destroyed",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -53,8 +55,8 @@
     "postprod.ams.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "3546.5999999046326",
   "required_links_url": [
     "privacy"
   ],
@@ -104,7 +106,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

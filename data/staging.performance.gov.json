@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T11:28:31.778Z",
+  "scan_date": "2025-02-15T12:52:28.873Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -74,7 +77,7 @@
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0065824854329427085",
-  "largest_contentful_paint": "194.5",
+  "largest_contentful_paint": "215.90000009536743",
   "required_links_url": [
     "about",
     "fear",
@@ -98,7 +101,7 @@
   "og_title": "Track the U.S. government's goals",
   "og_description": "Data-driven progress updates from the teams responsible for U.S. strategy execution",
   "og_article_published": null,
-  "og_article_modified": "2025-02-05T21:45:54.000Z",
+  "og_article_modified": "2025-02-13T13:55:20.000Z",
   "og_image": "https://assets.performance.gov/images/media/pgov-social-media-preview.png",
   "og_type": "article",
   "og_url": "https://www.performance.gov/",
@@ -157,7 +160,6 @@
   "uswds_semantic_version": "2.12.1",
   "uswds_version": 100,
   "uswds_count": 227,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

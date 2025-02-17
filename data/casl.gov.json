@@ -21,10 +21,12 @@
     "gov",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T02:03:55.042Z",
+  "scan_date": "2025-02-16T02:38:15.127Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": false,
   "hostname": null,
@@ -52,7 +55,16 @@
     "6024880.global.siteimproveanalytics.io",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "siteimproveanalytics.com"
+    "googleads.g.doubleclick.net",
+    "i.ytimg.com",
+    "invalid",
+    "jnn-pa.googleapis.com",
+    "play.google.com",
+    "siteimproveanalytics.com",
+    "static.doubleclick.net",
+    "www.google.com",
+    "www.gstatic.com",
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://6024880.global.siteimproveanalytics.io/image.aspx",
@@ -60,16 +72,32 @@
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
     "https://fonts.gstatic.com/s/prompt/v10/-W_8XJnvUD7dzB2Cy_gIaWMuUZctdg.woff2",
     "https://fonts.gstatic.com/s/prompt/v10/-W__XJnvUD7dzB2KYNodREEjew.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://siteimproveanalytics.com/js/siteanalyze_6024880.js"
+    "https://googleads.g.doubleclick.net/pagead/id",
+    "https://i.ytimg.com/vi_webp/Epelitvg49w/default.webp",
+    "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+    "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+    "https://play.google.com/log",
+    "https://siteimproveanalytics.com/js/siteanalyze_6024880.js",
+    "https://static.doubleclick.net/instream/ad_status.js",
+    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+    "https://www.youtube.com/generate_204",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".casl.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00012875",
-  "largest_contentful_paint": "549.5",
+  "largest_contentful_paint": "461.90000009536743",
   "required_links_url": [
     "privacy"
   ],
@@ -118,7 +146,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.casl.gov",
   "www_status_code": 200,
   "www_title": "CASL | The Consortium For Advance Simulation Of Light Water Reactors"

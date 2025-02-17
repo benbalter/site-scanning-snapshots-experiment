@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T16:26:09.125Z",
+  "scan_date": "2025-02-15T12:35:56.857Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":5,\"images\":1}",
   "ipv6": false,
   "hostname": null,
@@ -44,17 +47,17 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-UBKFL,G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
-    "17de4c19.akstat.io",
-    "52-222-122-97_s-23-32-75-13_ts-1739031963-clienttons-s.akamaihd.net",
+    "17de4c17.akstat.io",
+    "52-222-122-97_s-23-32-75-13_ts-1739622950-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
     "cdn.plot.ly",
     "cdnjs.cloudflare.com",
     "code.jquery.com",
     "dap.digitalgov.gov",
-    "gtphuylimsuguz5hqwnq-pxe7js-cfc411380-clientnsv4-s.akamaihd.net",
+    "gtphuylimsuhgz5qrita-ppf3ag-338b87a93-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
     "script.crazyegg.com",
     "trial-eum-clientnsv4-s.akamaihd.net",
@@ -63,20 +66,20 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c19.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-13_ts-1739031963-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c17.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-13_ts-1739622950-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.plot.ly/plotly-latest.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/fixed-header-table/1.3.0/jquery.fixedheadertable.min.js",
     "https://code.jquery.com/jquery-2.2.4.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://gtphuylimsuguz5hqwnq-pxe7js-cfc411380-clientnsv4-s.akamaihd.net/eum/results.txt",
+    "https://gtphuylimsuhgz5qrita-ppf3ag-338b87a93-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/DE6LG-UBKFL-8AUWQ-XGTS4-XFT63",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/epa-bdcc.ornl.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/epa-bdcc.ornl.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
     "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.google-analytics.com/analytics.js",
@@ -91,8 +94,8 @@
     "epa-bdcc.ornl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6390199337972005",
-  "largest_contentful_paint": "1139.1000000238419",
+  "cumulative_layout_shift": "0.6277859865315755",
+  "largest_contentful_paint": "1102.6999999284744",
   "required_links_url": [
     "about",
     "foia",
@@ -149,7 +152,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

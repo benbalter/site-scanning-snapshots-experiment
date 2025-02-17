@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T10:06:04.489Z",
+  "scan_date": "2025-02-15T11:30:36.982Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -43,7 +45,7 @@
     "agency": "DOC",
     "subagency": "NOAA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6294131.global.r2.siteimproveanalytics.io",
@@ -75,7 +77,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.05610732080078125",
-  "largest_contentful_paint": "229.2999999821186",
+  "largest_contentful_paint": "232.30000007152557",
   "required_links_url": [
     "about",
     "foia",
@@ -133,7 +135,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 6,
-  "www_scan_status": "completed",
   "www_url": "https://gml.noaa.gov/obop/mlo",
   "www_status_code": 200,
   "www_title": "Mauna Loa Observatory - NOAA Global Monitoring Laboratory"

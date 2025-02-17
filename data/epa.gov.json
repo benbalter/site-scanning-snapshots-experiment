@@ -25,10 +25,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:54:51.430Z",
+  "scan_date": "2025-02-16T05:17:46.595Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,6 +39,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -49,7 +52,7 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -63,7 +66,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/www.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/www.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -75,7 +78,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.06986666666666666",
-  "largest_contentful_paint": "389.19999998807907",
+  "largest_contentful_paint": "353.8000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -101,7 +104,7 @@
   "og_title": "U.S. Environmental Protection Agency | US EPA",
   "og_description": "Website of the U.S. Environmental Protection Agency (EPA). EPA's mission is to protect human health and the environment.",
   "og_article_published": "2013-03-20T14:54:42.000Z",
-  "og_article_modified": "2025-02-07T00:00:00.000Z",
+  "og_article_modified": "2025-02-12T00:00:00.000Z",
   "og_image": "https://www.epa.gov/system/files/images/2022-03/epa-standard-twitter.jpg",
   "og_type": "Web Area Homepage",
   "og_url": "https://www.epa.gov/home",
@@ -120,7 +123,7 @@
   "sitemap_xml_url": "https://www.epa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 7069,
+  "sitemap_xml_filesize": 6920,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -151,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 85,
-  "www_scan_status": "completed",
   "www_url": "https://www.epa.gov",
   "www_status_code": 200,
   "www_title": "U.S. Environmental Protection Agency | US EPA"

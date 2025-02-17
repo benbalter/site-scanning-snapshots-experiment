@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T05:12:17.103Z",
+  "scan_date": "2025-02-16T05:44:13.371Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
-  "sitemap_xml_scan_status": "timeout",
+  "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -43,7 +45,7 @@
   "dap_version": "",
   "ga_tag_id": "UA-16888309-1,G-BGN1RLF2CV",
   "third_party_service_domains": [
-    "17de4c1c.akstat.io",
+    "17de4c10.akstat.io",
     "api.mapbox.com",
     "c.go-mpulse.net",
     "events.mapbox.com",
@@ -54,7 +56,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1c.akstat.io/",
+    "https://17de4c10.akstat.io/",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Pro%20Bold",
     "Arial%20Unicode%20MS%20Bold/0-255.pbf",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Pro%20Italic",
@@ -88,8 +90,8 @@
     ".fcc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
+  "cumulative_layout_shift": "0.07351672094726563",
+  "largest_contentful_paint": "1855.9000000953674",
   "required_links_url": [
     "about",
     "fear",
@@ -130,10 +132,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://c2h.fcc.gov/broadband-health-map.html",
+  "sitemap_xml_status_code": 200,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_pdf_count": null,
@@ -149,7 +151,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

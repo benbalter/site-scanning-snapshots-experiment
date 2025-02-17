@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T09:57:50.380Z",
+  "scan_date": "2025-02-16T10:58:25.504Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":3}",
   "ipv6": true,
   "hostname": null,
@@ -64,7 +66,6 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
     "https://secure.gravatar.com/avatar/64357924fc906eae42b8754339fbaa52.jpg",
     "https://status.earthdata.nasa.gov/api/v1/notifications",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -74,8 +75,8 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.16365032568359375",
-  "largest_contentful_paint": "944.0999999940395",
+  "cumulative_layout_shift": "0.166166119140625",
+  "largest_contentful_paint": "820.8999999761581",
   "required_links_url": [
     "about",
     "/es"
@@ -123,7 +124,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

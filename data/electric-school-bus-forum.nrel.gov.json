@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T10:28:39.466Z",
+  "scan_date": "2025-02-15T12:05:49.702Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45He5240v890100053za200"
+    "gtm": "45He52d0v890100053za200"
   },
   "dap_version": "",
   "ga_tag_id": "G-8PZ4ZDWX73,G-ZGF7BPFXD4,G-CSLL4ZEK4L",
@@ -101,7 +104,6 @@
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://yyz1.discourse-cdn.com/electricschoolbusforum/stylesheets/chat_a0b2ceb5b30fe116ec44a5c2155d615358d3cf87.css",
     "https://yyz1.discourse-cdn.com/electricschoolbusforum/stylesheets/chat_desktop_a0b2ceb5b30fe116ec44a5c2155d615358d3cf87.css",
     "https://yyz1.discourse-cdn.com/electricschoolbusforum/stylesheets/checklist_a0b2ceb5b30fe116ec44a5c2155d615358d3cf87.css",
@@ -137,7 +139,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "332.59999999403954",
+  "largest_contentful_paint": "326",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -182,7 +184,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

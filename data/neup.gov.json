@@ -19,10 +19,11 @@
   "404_test": null,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:04:36.613Z",
+  "scan_date": "2025-02-16T10:56:20.626Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +32,8 @@
   "robots_txt_scan_status": "connection_reset",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "connection_reset",
-  "accessibility_violations": "{\"contrast\":4}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": "WordPress",
@@ -46,25 +48,19 @@
   "dap_version": "",
   "ga_tag_id": "G-MXCH42ETC9,G-Z5YEBJ88Q7",
   "third_party_service_domains": [
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://fonts.gstatic.com/s/rubik/v28/iJWKBXyIfDnIV7nBrXyw023e.woff2",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".inl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0015988636067708333",
-  "largest_contentful_paint": "1909",
+  "cumulative_layout_shift": "0.03124494189453125",
+  "largest_contentful_paint": "311.39999997615814",
   "required_links_url": [
     "about"
   ],
@@ -78,9 +74,9 @@
   "description": null,
   "keywords": null,
   "og_title": "NEUP | Nuclear Energy University Program",
-  "og_description": "U.S. Department of Energy’s Nuclear Energy University Program Latest Announcements Amendment 1 for the Notice of Funding Opportunity for Infrastructure Revitalization The Office of Nuclear Energy released Amendment 001 for the Notice of Funding Opportunity (NOFO) for Infrastructure Revitalization. This amendment removes diverse team partnership evaluations and community benefit plans. Please review the amendment in […]",
+  "og_description": "U.S. Department of Energy’s Nuclear Energy University Program Latest Announcements View All Announcements Research Consolidated Innovative Nuclear Research (CINR) CINR Phase II Continuation Distinguished Early Career Program (DECP) Integrated Research Projects (IRP) Students Scholarships Scholarships are offered to undergraduate students attending two- and four-year institutions including community colleges and trade schools. Fellowships Fellowships are three- […]",
   "og_article_published": null,
-  "og_article_modified": "2025-02-04T20:42:54.000Z",
+  "og_article_modified": "2025-02-11T22:14:08.000Z",
   "og_image": "https://neup.inl.gov/content/uploads/14/2024/10/cinr_research.jpg",
   "og_type": "website",
   "og_url": "https://neup.inl.gov/",
@@ -114,7 +110,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://neup.inl.gov",
   "www_status_code": 200,
   "www_title": "NEUP | Nuclear Energy University Program - NEUP - Nuclear Energy University Program"

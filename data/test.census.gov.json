@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T02:27:16.383Z",
+  "scan_date": "2025-02-16T02:55:59.025Z",
   "primary_scan_status": "dns_resolution_error",
   "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "dns_resolution_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "dns_resolution_error",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -93,8 +95,7 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "completed",
   "www_url": "https://www.test.census.gov",
-  "www_status_code": 520,
-  "www_title": "www.test.census.gov | 520: Web server is returning an unknown error"
+  "www_status_code": 200,
+  "www_title": "Census.gov | U.S. Census Bureau Homepage"
 }

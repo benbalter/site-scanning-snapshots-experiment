@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:45:24.553Z",
+  "scan_date": "2025-02-15T10:51:10.100Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": null,
@@ -44,7 +46,7 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -68,14 +70,14 @@
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s79426193496246",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s52207383760101",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/sampling/dceg.cancer.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/site/dceg.cancer.gov.json",
     "https://script.crazyegg.com/pages/scripts/0076/4407.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -84,7 +86,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.14504635424804688",
-  "largest_contentful_paint": "411",
+  "largest_contentful_paint": "379.09999990463257",
   "required_links_url": [
     "about",
     "foia",
@@ -155,7 +157,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 50,
-  "www_scan_status": "completed",
   "www_url": "https://dceg.cancer.gov/research/who-we-study/cohorts/us-radiologic-technologists",
   "www_status_code": 200,
   "www_title": "U.S. Radiologic Technologists Cohort (USRT) - NCI"

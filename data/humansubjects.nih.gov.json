@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:50:26.507Z",
+  "scan_date": "2025-02-16T03:08:27.550Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"images\":3}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -45,6 +47,7 @@
   "third_party_service_domains": [
     "app-script.monsido.com",
     "cdn.jsdelivr.net",
+    "csp.withgoogle.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "github.com",
@@ -62,6 +65,7 @@
     "https://app-script.monsido.com/v2/monsido-script.js",
     "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css",
     "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2",
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
@@ -76,7 +80,7 @@
     "https://nihodoercomm.az1.qualtrics.com/jfe/static/dist/c/mp.5da03980e14a3a4845e7.min.js",
     "https://nihodoercomm.az1.qualtrics.com/jfe/static/dist/c/prototype.2cc9acb19bf1cf785b7a.min.js",
     "https://nihodoercomm.az1.qualtrics.com/jfe/static/dist/c/recaptchav3.f496694e9040a05e8aa9.min.js",
-    "https://nihodoercomm.az1.qualtrics.com/jfe/static/dist/jfe.470d357534991cd8b337.min.js",
+    "https://nihodoercomm.az1.qualtrics.com/jfe/static/dist/jfe.ad220b41d76494a2a66d.min.js",
     "https://nihodoercomm.az1.qualtrics.com/jfe/static/dist/jfeLib.fa2484b7040929bdf0ac.min.js",
     "https://nihodoercomm.az1.qualtrics.com/jfe/themes/base-css/basestylesv4/version-1647462893189-59f924/files/external-link-icon.woff",
     "https://nihodoercomm.az1.qualtrics.com/jfe/themes/skins/nihodoercomm/nihodo1/version-1649633717561-61f853/files/nunito-bold.ttf",
@@ -107,18 +111,18 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
     "https://zn4uqhoe5ahbyx3sj-nihodoercomm.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 15,
   "cookie_domains": [
     ".nih.gov",
     "grants.nih.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.009334920247395833",
-  "largest_contentful_paint": "617.6999999880791",
+  "largest_contentful_paint": "620.5",
   "required_links_url": [
     "about",
     "privacy",
@@ -173,7 +177,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

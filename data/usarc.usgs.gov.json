@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T14:52:23.636Z",
+  "scan_date": "2025-02-15T15:34:10.212Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":2}",
   "ipv6": true,
   "hostname": null,
@@ -52,7 +54,7 @@
     "optout": "false",
     "palinteractiontypedim": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-5XWN4S4WRW,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "code.jquery.com",
@@ -78,17 +80,17 @@
     "https://libguides-proc.springyaws.com/log.php",
     "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
-    "https://static-assets-us.libguides.com/web/css3.15.2/lg-public.min.css",
+    "https://static-assets-us.libguides.com/web/css3.15.3/lg-public.min.css",
     "https://static-assets-us.libguides.com/web/jquery/css/jquery-ui.min.css",
     "https://static-assets-us.libguides.com/web/jquery/js/1.12.4_jquery.min.js",
     "https://static-assets-us.libguides.com/web/js/sa.min.js",
-    "https://static-assets-us.libguides.com/web/js3.15.2/lg-public.min.js",
+    "https://static-assets-us.libguides.com/web/js3.15.3/lg-public.min.js",
     "https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick-theme.css",
     "https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick.css",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -97,7 +99,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "468.40000000596046",
+  "largest_contentful_paint": "343",
   "required_links_url": [
     "foia",
     "privacy"
@@ -151,7 +153,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

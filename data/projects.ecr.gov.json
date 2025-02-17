@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T04:07:02.590Z",
+  "scan_date": "2025-02-16T04:38:09.397Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +32,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -55,8 +58,8 @@
     "projects.ecr.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "109.2000000178814",
+  "cumulative_layout_shift": "0.0656375",
+  "largest_contentful_paint": "115.59999990463257",
   "required_links_url": [
     "foia",
     "privacy"
@@ -106,7 +109,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

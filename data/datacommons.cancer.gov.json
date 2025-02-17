@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T10:52:02.342Z",
+  "scan_date": "2025-02-16T02:30:23.185Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":2}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -44,7 +47,7 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ESHZYTJS50,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -56,7 +59,6 @@
     "img.youtube.com",
     "invalid",
     "jnn-pa.googleapis.com",
-    "metrics.cancer.gov",
     "play.google.com",
     "static.doubleclick.net",
     "use.fontawesome.com",
@@ -68,8 +70,10 @@
   ],
   "third_party_service_urls": [
     "https://assets.adobedtm.com//6a4249cd0a2c/9d422d6cad08/launch-7e4a83c1c1c3.min.js",
+    "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/ee53b835867e/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
-    "https://assets.adobedtm.com/6a4249cd0a2c/9d422d6cad08/25be3507c63e/RCe7c47238c4fa4fea840ccb85dbf35cd6-source.min.js",
+    "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
+    "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -85,7 +89,6 @@
     "https://img.youtube.com/vi/tk1nEX2gnqk/0.jpg",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s76941087931346",
     "https://play.google.com/log",
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://use.fontawesome.com/releases/v5.12.0/js/all.js",
@@ -96,20 +99,20 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/ytc/AIdro_lw8llrFT2LBiR5g9IovIOkCid3Tr4F7vYDWRA4dVBkj8U=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 18,
+  "third_party_service_count": 17,
   "cookie_domains": [
     ".cancer.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0846398896484375",
-  "largest_contentful_paint": "1376.4000000059605",
+  "largest_contentful_paint": "1295.2999999523163",
   "required_links_url": [
     "about",
     "foia",
@@ -163,7 +166,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

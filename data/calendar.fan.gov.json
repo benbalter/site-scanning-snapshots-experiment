@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T04:59:52.424Z",
+  "scan_date": "2025-02-16T05:43:12.852Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -61,10 +63,10 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://ad.doubleclick.net/activity;register_conversion=1;src=2507573;type=enter133;cat=Produ000;ord=1;num=8173752146276;npa=0;auiddc=759806335.1739077177;ps=1;pcor=1483821916;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe5240v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102081485~102123608~102308675~102482432~102539968~102558064~102587591~102605417;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
-    "https://ad.doubleclick.net/activity;register_conversion=1;src=2507573;type=googl003;cat=fl-wo000;ord=7512525432657;npa=0;auiddc=759806335.1739077177;ps=1;pcor=1140982151;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe5240v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102081485~102123608~102308675~102482432~102539968~102558064~102587591~102605417;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CIKrqq7ntYsDFcihjggdI0YMqg;src=2507573;type=enter133;cat=Produ000;ord=1;num=8173752146276;npa=0;auiddc=*;ps=1;pcor=1483821916;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe5240v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102081485~102123608~102308675~102482432~102539968~102558064~102587591~102605417;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CPK9qq7ntYsDFXXVrQAd6MQUZA;src=2507573;type=googl003;cat=fl-wo000;ord=7512525432657;npa=0;auiddc=*;ps=1;pcor=1140982151;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe5240v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102081485~102123608~102308675~102482432~102539968~102558064~102587591~102605417;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
+    "https://ad.doubleclick.net/activity;register_conversion=1;src=2507573;type=enter133;cat=Produ000;ord=1;num=5175301230828;npa=0;auiddc=426104778.1739684578;ps=1;pcor=1695468872;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102482433~102539968~102556565~102558064~102587591~102605417~102640599;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
+    "https://ad.doubleclick.net/activity;register_conversion=1;src=2507573;type=googl003;cat=fl-wo000;ord=6604186022721;npa=0;auiddc=426104778.1739684578;ps=1;pcor=1151447275;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102482433~102539968~102556565~102558064~102587591~102605417~102640599;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CImArI2-x4sDFRzqrQAdyJ4j-w;src=2507573;type=googl003;cat=fl-wo000;ord=6604186022721;npa=0;auiddc=*;ps=1;pcor=1151447275;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102482433~102539968~102556565~102558064~102587591~102605417~102640599;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CJPaq42-x4sDFduTjggdcGkkZw;src=2507573;type=enter133;cat=Produ000;ord=1;num=5175301230828;npa=0;auiddc=*;ps=1;pcor=1695468872;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=102067808~102482433~102539968~102556565~102558064~102587591~102605417~102640599;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fproducts%2Fcalendar%2F",
     "https://analytics.google.com/g/collect",
     "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.5oZHy0SiJxw.O/m=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-Hry6DG-RE4t9kNz_t6hiwmwXOmA/cb=gapi.loaded_0",
     "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.5oZHy0SiJxw.O/m=googleapis_proxy/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-Hry6DG-RE4t9kNz_t6hiwmwXOmA/cb=gapi.loaded_0",
@@ -114,7 +116,6 @@
     "https://www.google.com/pagead/1p-user-list/962181585/",
     "https://www.google.com/pagead/1p-user-list/963909563/",
     "https://www.google.com/pagead/1p-user-list/976316385/",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
@@ -131,8 +132,8 @@
     "workspace.google.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06506850614420573",
-  "largest_contentful_paint": "734",
+  "cumulative_layout_shift": "0.17627104553222658",
+  "largest_contentful_paint": "556",
   "required_links_url": [
     "about",
     "privacy",
@@ -184,7 +185,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

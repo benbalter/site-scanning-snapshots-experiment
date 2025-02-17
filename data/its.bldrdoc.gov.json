@@ -20,10 +20,11 @@
   "source_list": [
     "pulse",
     "2020_eot",
-    "gov_man"
+    "gov_man",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:08:25.934Z",
+  "scan_date": "2025-02-15T16:22:53.551Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -44,8 +46,8 @@
   "dap_parameters": {
     "agency": "GSA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-26050252-1,G-CSLL4ZEK4L,G-48B5WEZDBS,UA-48605964-4",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "UA-26050252-1,G-CSLL4ZEK4L,UA-48605964-4,G-48B5WEZDBS",
   "third_party_service_domains": [
     "code.jquery.com",
     "dap.digitalgov.gov",
@@ -66,8 +68,8 @@
     ".ntia.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.020872526692708334",
-  "largest_contentful_paint": "339.19999998807907",
+  "cumulative_layout_shift": "0.014751056640624998",
+  "largest_contentful_paint": "289.09999990463257",
   "required_links_url": [
     "about",
     "foia",
@@ -154,7 +156,6 @@
   "uswds_semantic_version": "v3.7.0",
   "uswds_version": 100,
   "uswds_count": 197,
-  "www_scan_status": "completed",
   "www_url": "https://its.ntia.gov",
   "www_status_code": 200,
   "www_title": "Institute for Telecommunication Sciences - ITS"

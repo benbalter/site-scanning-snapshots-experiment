@@ -20,10 +20,12 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T05:21:10.978Z",
+  "scan_date": "2025-02-16T06:10:37.356Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
   "dap_parameters": {
     "agency": "DHS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CC7YJFLBL8,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -57,7 +60,8 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -67,7 +71,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.17592232812500003",
-  "largest_contentful_paint": "723.5999999940395",
+  "largest_contentful_paint": "859.1999999284744",
   "required_links_url": [
     "about"
   ],
@@ -114,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.preptoolkit.fema.gov",
   "www_status_code": 200,
   "www_title": "Welcome - Preparedness Toolkit"

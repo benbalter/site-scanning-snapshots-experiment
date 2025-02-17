@@ -21,10 +21,12 @@
     "gov",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:14:17.748Z",
+  "scan_date": "2025-02-16T10:58:15.974Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +35,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"images\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"images\":2}",
   "ipv6": true,
   "hostname": null,
   "cms": "SilverStripe",
@@ -56,7 +59,6 @@
     "https://siteimproveanalytics.com/js/siteanalyze_8343.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
@@ -66,7 +68,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.01897813395182292",
-  "largest_contentful_paint": "4590.5",
+  "largest_contentful_paint": "3919",
   "required_links_url": [
     "about"
   ],
@@ -113,7 +115,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.nersc.gov",
   "www_status_code": 200,
   "www_title": "National Energy Research Scientific Computing Center"

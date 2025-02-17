@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:55:06.425Z",
+  "scan_date": "2025-02-15T18:43:25.235Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":6,\"link-purpose\":3}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":6}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "WordPress",
@@ -48,15 +52,14 @@
     "i.ytimg.com",
     "pbs.twimg.com",
     "s.w.org",
-    "scontent-lga3-1.xx.fbcdn.net",
-    "scontent-lga3-3.xx.fbcdn.net",
+    "scontent-bos5-1.xx.fbcdn.net",
     "video.twimg.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://admin-jasonsmith.house.gov/wp-admin/admin-ajax.php",
     "https://fonts.googleapis.com/css",
-    "https://i.ytimg.com/vi/rAv7-5jw81Y/sddefault.jpg",
+    "https://i.ytimg.com/vi/d8eUjtG6RjI/sddefault.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1879903406673797121/pu/img/eUmjO2nQRLKuW79v.jpg",
     "https://pbs.twimg.com/media/GhXB3AyXcAAo40c.jpg",
     "https://pbs.twimg.com/media/GhXn1G2WoAAM4MQ.jpg",
@@ -64,23 +67,22 @@
     "https://pbs.twimg.com/profile_images/1622283372008439809/XSg4-ieG_normal.jpg",
     "https://pbs.twimg.com/profile_images/1877085039948668928/f4AibqzY_normal.jpg",
     "https://pbs.twimg.com/profile_images/626470918844510208/euUPDXLw_normal.png",
-    "https://s.w.org/images/core/emoji/15.0.3/svg/1f1fa-1f1f8.svg",
     "https://s.w.org/images/core/emoji/15.0.3/svg/1f44d.svg",
     "https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg",
-    "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/476598870_590110083863359_6775414496033725927_n.jpg",
-    "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/476160528_1156892225806640_871345569461452478_n.jpg",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/476160528_1156892225806640_871345569461452478_n.jpg",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/478357580_1163464235149439_5916606288588710449_n.jpg",
     "https://video.twimg.com/ext_tw_video/1879903406673797121/pu/vid/avc1/1280x720/ZtEehfhgye26_AhV.mp4",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".house.gov",
     "jasonsmith.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0027093241373697917",
-  "largest_contentful_paint": "285.7999999821186",
+  "cumulative_layout_shift": "0.0016654715983072917",
+  "largest_contentful_paint": "362.10000002384186",
   "required_links_url": [
     "privacy"
   ],
@@ -129,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

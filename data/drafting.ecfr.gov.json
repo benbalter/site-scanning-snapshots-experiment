@@ -18,10 +18,11 @@
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T04:05:12.770Z",
+  "scan_date": "2025-02-16T04:43:04.238Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":1,\"user-control-name\":1,\"contrast\":25}",
   "ipv6": false,
   "hostname": "awsglobalaccelerator.com",
@@ -43,7 +45,7 @@
     "agency": "NARA",
     "subagency": "fedreg"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-K7SMYBYX81",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -68,8 +70,8 @@
     ".ecfr.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3848188198242188",
-  "largest_contentful_paint": "378.2999999821186",
+  "cumulative_layout_shift": "0.38412125634765626",
+  "largest_contentful_paint": "466.3000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -123,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.ecfr.gov",
   "www_status_code": 200,
   "www_title": "eCFR :: Home"

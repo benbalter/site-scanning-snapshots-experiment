@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:16:48.485Z",
+  "scan_date": "2025-02-16T07:28:29.937Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akadns.net",
@@ -58,7 +61,7 @@
     "paltopicdim": "dimension5|5",
     "cto": "24"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6282609.global.r2.siteimproveanalytics.io",
@@ -102,25 +105,25 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/akastage-www.hhs.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/site/akastage-www.hhs.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/7360.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6282609.js",
     "https://static.doubleclick.net/instream/ad_status.js",
-    "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
+    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://yt3.ggpht.com/5IN40_1_QetV6mBf0DnL1gwGhUnMxs0hGPRfaRVebvr09iG0NlYQpRAtgZB7sAUbst3t5pjY=s68-c-k-c0x00ffffff-no-rj",
     "https://zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
@@ -131,15 +134,14 @@
     "akastage-www.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.33341466011555987",
-  "largest_contentful_paint": "262.2999999821186",
+  "cumulative_layout_shift": "0.3104922851155599",
+  "largest_contentful_paint": "231",
   "required_links_url": [
     "about",
     "fear",
     "foia",
     "privacy",
-    "usa.gov",
-    "spanish"
+    "usa.gov"
   ],
   "required_links_text": [
     "accessibility",
@@ -148,8 +150,7 @@
     "inspector general",
     "privacy policy",
     "vulnerability disclosure",
-    "usa.gov",
-    "español"
+    "usa.gov"
   ],
   "https_enforced": true,
   "hsts": true,
@@ -159,7 +160,7 @@
   "og_title": "Department of Health & Human Services",
   "og_description": "U.S. Department of Health and Human Services protects the health and well-being of all people living in the United States and provides essential human services.",
   "og_article_published": "2023-07-18T19:30:00.000Z",
-  "og_article_modified": "2025-02-07T14:43:08.000Z",
+  "og_article_modified": "2025-02-13T19:33:05.000Z",
   "og_image": null,
   "og_type": "Landing Page",
   "og_url": "https://akastage-www.hhs.gov/index.html",
@@ -220,7 +221,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 155,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

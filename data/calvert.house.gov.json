@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:04:41.219Z",
+  "scan_date": "2025-02-15T18:32:47.012Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -62,7 +66,7 @@
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/CA-41/shape.kml",
-    "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://platform.twitter.com/widgets.js",
     "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/9/204/88",
     "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/9/204/89",
@@ -84,8 +88,8 @@
     ".house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.12021376444498698",
-  "largest_contentful_paint": "212",
+  "cumulative_layout_shift": "0.5041222970377603",
+  "largest_contentful_paint": "284.7000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -135,7 +139,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

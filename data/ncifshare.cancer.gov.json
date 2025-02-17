@@ -5,7 +5,7 @@
   "initial_base_domain": "cancer.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fncifshare%2ecancer%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fncifshare%2ecancer%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d2555dda8--c8e81ba7--50f2e6a8--07740b5e--466673da--608",
+  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fncifshare%2ecancer%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fncifshare%2ecancer%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d48a5cb9d--09bc0228--d590d659--5402cdff--c8d3d379--52a",
   "domain": "auth.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:26:35.175Z",
+  "scan_date": "2025-02-16T02:30:29.168Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -72,7 +74,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.003274302978515625",
-  "largest_contentful_paint": "812.2000000178814",
+  "largest_contentful_paint": "847.7999999523163",
   "required_links_url": null,
   "required_links_text": [
     "privacy policy",
@@ -120,7 +122,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

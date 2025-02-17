@@ -23,10 +23,12 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T02:36:42.985Z",
+  "scan_date": "2025-02-16T02:56:13.570Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,6 +37,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -49,7 +52,7 @@
   "dap_parameters": {
     "agency": "GSA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HE61P192WE,G-CSLL4ZEK4L,UA-127724030-1,G-1H7869L7WW",
   "third_party_service_domains": [
     "code.jquery.com",
@@ -64,6 +67,7 @@
     "https://code.jquery.com/jquery-3.5.1.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://portal.challenge.gov/api/banner",
     "https://portal.challenge.gov/api/challenges",
     "https://portal.challenge.gov/css/public.css",
     "https://portal.challenge.gov/js/client.js",
@@ -77,12 +81,12 @@
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-0fa57340-b686-46ad-9aaf-b775cc7ae5ae.jpg",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-1e70f5e0-1fa5-43b1-a3af-e4efff17e27a.png",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-257006d9-361b-4815-b145-e0fed081ccfc.jpg",
+    "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-47452c59-41a6-4f00-963b-8096c88a9c01.png",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-54977d81-2ebd-48dc-87e9-b4854c5be961.png",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-54c95143-0185-4620-8cc0-03fdf67db11f.PNG",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-6044ad73-b7ac-4b13-a551-cc54f3f01be9.png",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-6ac6ce4f-e06d-4d96-8584-6c4362f70084.jpg",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-8650cc4f-0b89-45f8-917c-81c56518be4a.jpg",
-    "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-888c3937-2109-488a-a6c8-e9013e9c4275.png",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-8a90a9c3-0ca4-46d5-8a90-8f0cb19bac2f.jpg",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-97c98506-0eeb-4ebf-a575-e2a17b242ae8.jpg",
     "https://s3.us-gov-west-1.amazonaws.com/cg-311eb1dc-2722-42cf-b88c-d34f11158fb2/challenges/original-a29ebea6-e943-41a0-996b-61422d0b1ea5.jpg",
@@ -108,8 +112,8 @@
     ".challenge.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.306312981648763",
-  "largest_contentful_paint": "345",
+  "cumulative_layout_shift": "0.2616",
+  "largest_contentful_paint": "507.2000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -158,6 +162,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-banner",
     "usa-button",
     "usa-container",
@@ -180,13 +185,12 @@
     "usa-tag"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 40,
+  "uswds_usa_classes": 45,
   "uswds_string": 24,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v2.14.0",
   "uswds_version": 100,
-  "uswds_count": 244,
-  "www_scan_status": "completed",
+  "uswds_count": 249,
   "www_url": "https://www.challenge.gov",
   "www_status_code": 200,
   "www_title": "Challenge.gov"

@@ -22,10 +22,12 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T06:41:02.934Z",
+  "scan_date": "2025-02-16T02:54:50.462Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +36,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -61,7 +64,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s69282819478583",
+    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s09718919895952",
     "https://cdn.jsdelivr.net/g/lodash@4(lodash.min.js+lodash.fp.min.js)",
     "https://script.crazyegg.com/pages/data-scripts/0020/5195/site/npin.cdc.gov.json",
     "https://script.crazyegg.com/pages/scripts/0020/5195.js",
@@ -89,7 +92,6 @@
     "https://www.cdc.gov/TemplatePackage/contrib/widgets/tp-widget-common.css",
     "https://www.cdc.gov/TemplatePackage/contrib/widgets/tp-widget-common.js",
     "https://www.cdc.gov/TemplatePackage/contrib/widgets/tp-widget-external-loader.js",
-    "https://www.cdc.gov/hiv/widgets/images/doingIt/doingIt_background_min.png",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -99,8 +101,8 @@
     ".cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.09386956803385417",
-  "largest_contentful_paint": "967.9000000059605",
+  "cumulative_layout_shift": "0.09381287418619792",
+  "largest_contentful_paint": "1222.3000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -168,7 +170,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 48,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

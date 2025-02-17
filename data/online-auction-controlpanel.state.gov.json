@@ -5,7 +5,7 @@
   "initial_base_domain": "state.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://state.okta.com/oauth2/default/v1/authorize?client_id=0oaa7nae12Y6f2U1H297&redirect_uri=https%3A%2F%2Fonline-auction-controlpanel.state.gov%2FAccount%2FSignInCallback&response_type=code&scope=openid%20profile%20email&state=OpenIdConnect.AuthenticationProperties%3DE9cG25jyHb6LlD4Xu_LvoLKD0EwsN4m0Psp8MjGvNKeI_l5SklRWYuDxBsxUv_9qY3cVRhgEuGtmJ_bJR0OfpOvfvj3Mda1UmybB1FdwekAUQG4ibJoEFjnRJxBkwc47DEESn7RXUlDa_ohCbwONMcwFHFEliHCnFj8HbHWbH_ZCFlK5DTwLj3Dwn0gPoW--pKdmIDjqUmHRSJu_ZtpKp1ZDa84cfjJXLR7XrKv6_cxGDMnCSkG5q7s586kWHwUrBGEJ5kWArKJ_PzixbzJQbX3Et0Dn2v2g14kIR4KZeLo&response_mode=form_post&nonce=638746303470099987.YjMzNTdmZjEtNmVlOC00ZGZlLTgyOTAtZWNlMDAyMjcyOGY1NjgwOWI0ODEtNWZiZS00NmM5LTliNDUtZjRhMjZmODRhOGMx&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0",
+  "url": "https://state.okta.com/oauth2/default/v1/authorize?client_id=0oaa7nae12Y6f2U1H297&redirect_uri=https%3A%2F%2Fonline-auction-controlpanel.state.gov%2FAccount%2FSignInCallback&response_type=code&scope=openid%20profile%20email&state=OpenIdConnect.AuthenticationProperties%3D7WprvG9N7GaqLPpFOjTdIFgl6t2EOnBwube1LKrqIFp8RcJBWxI4EWhvHPSIh8-ZpJLr_ORy3R68SdA_ZNyDk3iqi3p-XxpNniXvp3ogKIVRQ8lDxoUiDQoULoGlSUBCb8ZulZhY3dgy1r4A7jDYrp4MVHc_ScQ66aXHIpJRSSzYxkq3PsUeQLI3KnfcPI_DGmB9izzHWw4i1Q4U_LbJ2oq8AfwyOYKvgzLBkkWNFvMB6gk2C-c8Tcy1no7uEARW_dnOFtoYxb9_iPki0P5Q_kO1gDV90yDdBiO0BQCL7b8&response_mode=form_post&nonce=638752250328270435.NTFlNzJlZTktNjY5OC00OTQ3LWJjZWYtNjAwOTAxMmJjYjRkOWFmYzY5ODUtOGFlOS00ZWJmLTgwOTMtNzA4ZTE1Y2NjZWFm&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0",
   "domain": "state.okta.com",
   "base_domain": "okta.com",
   "top_level_domain": "com",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:52:34.737Z",
+  "scan_date": "2025-02-15T14:04:00.707Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": "azurewebsites.net",
@@ -51,9 +53,9 @@
   "third_party_service_urls": [
     "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js",
     "https://ok5static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
-    "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/css/okta-sign-in.min.css",
-    "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/img/ui/forms/checkbox-sign-in-widget.png",
-    "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/js/okta-sign-in.min.js",
+    "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/css/okta-sign-in.min.css",
+    "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/img/ui/forms/checkbox-sign-in-widget.png",
+    "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/js/okta-sign-in.min.js",
     "https://ok5static.oktacdn.com/assets/loginpage-render/okta-loginpage-render-0.1.13-g55f1335.js",
     "https://ok5static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css",
     "https://ok5static.oktacdn.com/assets/loginpage/font/assets/Aeonik-Regular.c672e6fbaa411f5719f3.woff2",
@@ -69,7 +71,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.11261948111979167",
-  "largest_contentful_paint": "1030.5999999940395",
+  "largest_contentful_paint": "774.4000000953674",
   "required_links_url": [
     "privacy"
   ],
@@ -118,7 +120,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

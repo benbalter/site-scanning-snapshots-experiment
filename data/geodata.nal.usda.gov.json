@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-08T13:50:02.367Z",
+  "scan_date": "2025-02-16T05:21:03.581Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":4,\"contrast\":1,\"lists\":16}",
   "ipv6": true,
   "hostname": null,
@@ -45,13 +48,15 @@
     "agency": "USDA",
     "subagency": "ARS-NAL"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-109309000-1,G-CSLL4ZEK4L,G-52F14785DC,UA-27627304-1,UA-28627214-1,G-VYRH7BQ1FL",
   "third_party_service_domains": [
     "analytics.google.com",
     "cdn.gov.cfigroup.com",
+    "cdnmon.cfigroup.com",
     "dap.digitalgov.gov",
     "dev.virtualearth.net",
+    "e.gov.cfigroup.com",
     "gis.apfo.usda.gov",
     "ltar.nal.usda.gov",
     "rmgsc.cr.usgs.gov",
@@ -61,9 +66,12 @@
   ],
   "third_party_service_urls": [
     "https://analytics.google.com/g/collect",
+    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/88a85f713b1128/128.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/88a85f713b1128/webmon.js",
+    "https://cdnmon.cfigroup.com/UploadFile/2023/1/18/USDA_logo.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dev.virtualearth.net/REST/v1/Imagery/Metadata/Aerial",
+    "https://e.gov.cfigroup.com/wmon",
     "https://gis.apfo.usda.gov/geoharvest/NAIP17/NGDA_NAIP_Current.jpg",
     "https://ltar.nal.usda.gov/geoserver/geoDB1/wms",
     "https://ltar.nal.usda.gov/geoserver/geoFile/wms",
@@ -74,15 +82,15 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nal.usda.gov/sites/default/files/sharedjs/nal_survey.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nal.usda.gov",
     ".usda.gov",
     "geodata.nal.usda.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.22656425488281245",
-  "largest_contentful_paint": "1664.4000000059605",
+  "cumulative_layout_shift": "0.22626792333984372",
+  "largest_contentful_paint": "1692.5",
   "required_links_url": [
     "foia",
     "privacy",
@@ -153,7 +161,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

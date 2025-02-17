@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "gov"
+    "gov",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:53:20.657Z",
+  "scan_date": "2025-02-16T08:46:42.819Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -43,10 +45,9 @@
     "agency": "DHS",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-X7LCTSTP70,G-5YY8Y4R5TC,G-GHG7XR2CMP,UA-32318423-1,G-CSLL4ZEK4L",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-X7LCTSTP70,G-5YY8Y4R5TC,G-GHG7XR2CMP,UA-32318423-1,G-CSLL4ZEK4L,G-sEvsLCZjMONFwKl",
   "third_party_service_domains": [
-    "17de4c16.akstat.io",
     "6025116.global.siteimproveanalytics.io",
     "analytics.google.com",
     "c.go-mpulse.net",
@@ -59,7 +60,6 @@
     "s.go-mpulse.net",
     "sc-static.net",
     "siteimproveanalytics.com",
-    "syndicatedsearch.goog",
     "tr.snapchat.com",
     "tr6.snapchat.com",
     "www.facebook.com",
@@ -69,7 +69,6 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c16.akstat.io/",
     "https://6025116.global.siteimproveanalytics.io/image.aspx",
     "https://analytics.google.com/g/collect",
     "https://c.go-mpulse.net/api/config.json",
@@ -84,7 +83,6 @@
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://sc-static.net/scevent.min.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6025116.js",
-    "https://syndicatedsearch.goog/afs/gen_204",
     "https://tr.snapchat.com/config/gov/360fb6d1-32d3-4dbc-8ccc-9906bde9bc98.js",
     "https://tr.snapchat.com/p",
     "https://tr6.snapchat.com/p",
@@ -102,18 +100,17 @@
     "https://www.google.com/pagead/1p-user-list/11505041621/",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 21,
+  "third_party_service_count": 19,
   "cookie_domains": [
     ".dhs.gov",
     "www.dhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.26260717529296873",
-  "largest_contentful_paint": "1032",
+  "cumulative_layout_shift": "0.2796027041015625",
+  "largest_contentful_paint": "751",
   "required_links_url": [
     "about",
     "foia",
@@ -193,7 +190,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 247,
-  "www_scan_status": "completed",
   "www_url": "https://www.dhs.gov/know2protect",
   "www_status_code": 200,
   "www_title": "Know2Protect | Homeland Security"

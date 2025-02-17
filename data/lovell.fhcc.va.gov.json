@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T03:32:57.811Z",
+  "scan_date": "2025-02-15T15:52:57.757Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -64,7 +66,6 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.entry.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/embed.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/generic1731941049831.js",
-    "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/onsiteData1734636652605.json",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/assets/content-build.css",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/arrow-right-white.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/design/icons/favicon.ico",
@@ -85,8 +86,8 @@
     "www.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.02347752604166667",
-  "largest_contentful_paint": "404.90000000596046",
+  "cumulative_layout_shift": "0.049999140625",
+  "largest_contentful_paint": "492.90000009536743",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -152,7 +153,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 26,
-  "www_scan_status": "completed",
   "www_url": "https://www.va.gov/lovell-federal-health-care-va",
   "www_status_code": 200,
   "www_title": "Lovell Federal Health Care - VA | Veterans Affairs"

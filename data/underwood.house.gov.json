@@ -18,10 +18,12 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:22:35.578Z",
+  "scan_date": "2025-02-16T08:13:47.974Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":4,\"contrast\":4}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -58,10 +61,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg",
-    "https://abs-0.twimg.com/emoji/v2/svg/1f381.svg",
-    "https://abs-0.twimg.com/emoji/v2/svg/1f384.svg",
-    "https://abs-0.twimg.com/emoji/v2/svg/1f49a.svg",
     "https://abs-0.twimg.com/emoji/v2/svg/27a1.svg",
     "https://abs-0.twimg.com/emoji/v2/svg/2b07.svg",
     "https://abs.twimg.com/sticky/animations/like.4.json",
@@ -74,20 +73,16 @@
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
-    "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1873423512313966593/pu/img/f9UtbX7q103Znmnu.jpg",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://pbs.twimg.com/ext_tw_video_thumb/1887987527937650688/pu/img/bpRuSFU4SgT91zO3.jpg",
     "https://pbs.twimg.com/media/Fybb0fpXwAIDSo-.jpg",
-    "https://pbs.twimg.com/media/Gfp2QOxWYAAQVmM",
-    "https://pbs.twimg.com/media/GfxpLpNWcAAYDqs",
     "https://pbs.twimg.com/media/GgO8fMXWUAAI9Dq",
-    "https://pbs.twimg.com/media/GgZqPzaXEAAyVaA",
-    "https://pbs.twimg.com/media/GgnxTrBX0AAm9HL",
     "https://pbs.twimg.com/media/Gh7Dn5zXYAAsF0m",
     "https://pbs.twimg.com/media/GhR6gHqXQAAcGaw",
     "https://pbs.twimg.com/media/GhYIRh3XMAA9RHw",
     "https://pbs.twimg.com/media/GhyEjj1WQAAj8iQ",
     "https://pbs.twimg.com/media/GiebtS6aMAA5Aow",
+    "https://pbs.twimg.com/media/GjmBlfpXcAA5cLk",
     "https://pbs.twimg.com/profile_images/1346602823258148865/4toABdEC_mini.jpg",
     "https://pbs.twimg.com/profile_images/1346602823258148865/4toABdEC_normal.jpg",
     "https://pbs.twimg.com/profile_images/1355124069092515842/hC7JdgT-_mini.jpg",
@@ -128,8 +123,8 @@
     ".underwood.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.09283285469563803",
-  "largest_contentful_paint": "517.6000000238419",
+  "cumulative_layout_shift": "0.08332688146972655",
+  "largest_contentful_paint": "283.3000000715256",
   "required_links_url": [
     "about",
     "privacy"
@@ -179,7 +174,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

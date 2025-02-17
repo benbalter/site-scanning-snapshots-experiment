@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:59:32.859Z",
+  "scan_date": "2025-02-15T15:53:12.802Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,8 +49,8 @@
     "ver": "true",
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-CksD6a3PL,G-b2indNK0TwnL91f,G-UmJdXYNb2Ah6yNH,G-PYQoyGgXVoAZv6w,G-nvtNP65",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-pKLNSLDagWPaBSw,G-glkDqHjYlL,G-dWPL3bbkkN8,G-dIupJJ5irCaMGPL,G-lqZqW,G-tvNDR0,G-1qQSBe,G-qqpDNu,G-tqiSt,G-KuBSWoBc,G-SBbqBS,G-fOD4qk,G-KuLO8AuQ,G-oqMwTTcag,G-Z0jTw7mzp4RwIdY,G-iSM5,G-M8ZaBn5wYHM,G-CqMX8xZgfT,G-tRcpDiq5T1o2OgJ,G-NesSB5,G-H2TvpgFSgmn7jP,G-5tVR,G-pWS1",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -59,18 +61,18 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90ec7b9048e55ed8/1739026757391/85Vjn5xRyeM-IXn",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/985858198:1739024042:OsjpnWXhC16wHag2cHWXv-FkBudIWCR14l5uyo7qzdE/90ec7b9048e55ed8/yM0MV2JPEzDVg3uSqGK8NbLjO74LVpCmMGEkkrIQwes-1739026757-1.1.1.1-SiDeBeKokO72A4G9a.Cw.ly_015.kPXoMY304Tv9tiQJHe9U.gyu1VpJUVVp9GPA",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90ec7b9048e55ed8/1739026757391/6e0a83351db0078dfd2c51fede9cb092ea650cc44668374b810105d81486a277/tCk9Q0TIrxJ4ccF",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/912677a02b8269d7/1739634770209/HZ5ceg0a5abImdd",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1036801240:1739633062:rLOp-h0DnHl1Bin_sdsyit9uyPY8F2CwqgwgwpP5n90/912677a02b8269d7/JE8YZpMOgO7uZjSp.beDP5.6.ZRwFY2f4OAMgh7jZAM-1739634769-1.1.1.1-cZ2m61H.jRC.qUL6eeQYDDKdm.rodNM0VRk53idQYzg5fq6nzJmt5RpWsUwGGYox",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/912677a02b8269d7/1739634770201/b5f7d75e56875c36af42ad2f049ec25c214d3f1456a933d24453eee9a2c2e7ff/e1Vj86epdhh2Lrx",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://news.va.gov/wp-content/uploads/sites/3/2024/11/Paige_vp1.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2024/11/Veggies_vp1.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2024/12/Nurse-and-patient.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2025/01/Britney_vp1.jpg",
+    "https://news.va.gov/wp-content/uploads/sites/3/2025/02/Three-people_vp1.jpg",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
     "https://scripts.withcabin.com/hello.js",
@@ -83,8 +85,8 @@
     ".va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.018856743815104167",
-  "largest_contentful_paint": "1031.300000011921",
+  "cumulative_layout_shift": "0.016715300944010417",
+  "largest_contentful_paint": "3835",
   "required_links_url": [
     "about",
     "fear",
@@ -147,7 +149,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 129,
-  "www_scan_status": "completed",
   "www_url": "https://department.va.gov/integrated-service-networks/visn-17",
   "www_status_code": 200,
   "www_title": "VISN 17 - Veterans Integrated Service Networks"

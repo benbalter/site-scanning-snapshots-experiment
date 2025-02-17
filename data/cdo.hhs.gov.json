@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:36:14.127Z",
+  "scan_date": "2025-02-16T07:35:06.281Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -29,7 +31,8 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -58,8 +61,8 @@
     "cdo.hhs.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "1.2850034949137368",
-  "largest_contentful_paint": "1313.4000000059605",
+  "cumulative_layout_shift": "1.0474463439534507",
+  "largest_contentful_paint": "1516.0999999046326",
   "required_links_url": [
     "about"
   ],
@@ -94,10 +97,10 @@
   "robots_txt_sitemap_locations": [
     "https://datahhsgov.my.site.com/ocdo1/s/sitemap.xml"
   ],
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://ams.hhs.gov/oamfed/idp/samlv20?SAMLRequest=fZJbc6IwGIb%2FCpN7EFDQZtQO2PWwoqAc7HrjRIxAgQRJAO2vLz24092LZua7yHxv8n6HZ%2Fh4zTOhxiVLKBkBRZKBgElITwmJRsD3puIAPI6HDOWZWkCj4jHZ4kuFGRfah4TBz8wIVCWBFLGEQYJyzCAPoWusLKhKMixKymlIMyAYjOGSt1YTSliV49LFZZ2E2N9aIxBzXjDY6YQnKsUxkyJadzIaJQQIT61hQhD%2FKPKuQzn7q6MoP%2BNTJzkVnfeKarXtY%2FE0Agd1YrRnH6jExbPVk9H8H%2B%2Fpwy%2FRuu0KXQ37XZpe5C1%2BKJXmaGmRqz2%2F3C7GlBWZG5fUfulV83lVO8Z8ssgTda54pn9eiF3bvvWo52yx2vjUSlMTVdgfXM9uX7HF1%2FAPrtxmN0t15jXyBmsaCU2%2B2Hls2q0DzyBBlm%2BcTCf7Za9CxlVhg8JDTYZoEAeX5%2FPrxYgntuHiq7vGzjZe6quoma32OF0P0t3NrOVFL7Jfji41pgdmLld%2BPzWvzwf%2FtI6We18JxJmmWxWrf0fkmDSr2948uNdlT8Pbqs597m%2FaaTFW4QVhHBE%2BAqqsaqKsivLAU3TY1aGsSf3uwx4IztcyzYR8QvLT5o%2BfIgbnnueIju16QAjusLUC8IUW%2FHAvvzP188foDhIY33E4IY5aHFoapPwmMZRhdqZliKWQ5sPOd5vx1%2FVfoMdv&RelayState=%2Fsitemap.xml&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=qI9jF5JroBIBzE50ZU2IdV58%2FiplRm1GT4XMXJt1qlhosnrbvpDOfYWgFQIGRQ%2BaheCSf%2FBDCBDCNZNFp53Npmqww%2BgCRdmkQPtZQQDlq9GPm5yAv0YGZatyzf11EspZMD%2BI7EHqxOXrejQTHzZhZcja%2BJJuZrjSVcm%2FEl6FMZM%2B%2Ftz44EVoHjm1ytx1sWn6LaiWNQ5ROr51WYmV1Dui7OZLTr37pSEEsBhx6MdeWD9iduSlIacl4ls1N0ibeP%2Fke8mAQiHbf7nD%2FV1pnBL9ofFWvVruQcIZBvwy5naaSJdakdDFcX8o8QXtcek4JKslO40HciJxoU%2FLHPqEPwFqkg%3D%3D",
-  "sitemap_xml_status_code": 200,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_pdf_count": null,
@@ -131,7 +134,6 @@
   "uswds_semantic_version": "v2.7.0",
   "uswds_version": 100,
   "uswds_count": 190,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

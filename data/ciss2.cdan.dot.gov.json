@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-09T04:01:01.100Z",
+  "scan_date": "2025-02-16T04:27:59.591Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -72,8 +74,8 @@
     "https://www.google.com/recaptcha/enterprise/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -82,7 +84,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "227.69999998807907",
+  "largest_contentful_paint": "226.10000002384186",
   "required_links_url": [
     "privacy",
     "/es"
@@ -143,7 +145,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 75,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

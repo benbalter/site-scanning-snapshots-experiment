@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T16:06:39.813Z",
+  "scan_date": "2025-02-15T12:15:14.035Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "ver": "true",
     "exts": "doc,docx,xls,xlsx,xlsm,ppt,pptx,exe,zip,pdf,js,txt,csv,dxf,wmv,jpg,wma,mov,avi,mp3,mp4,csv"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -65,7 +67,7 @@
     "https://resources.research.gov/common/css/jquery.dataTables-1.13.6.min.css",
     "https://resources.research.gov/common/css/print.css",
     "https://resources.research.gov/common/fonts/fontawesome-webfont.woff",
-    "https://resources.research.gov/common/images/CyberHygieneGraphic.jpg",
+    "https://resources.research.gov/common/images/CyberSecurityBannerFeb2025A.png",
     "https://resources.research.gov/common/images/bodybg.png",
     "https://resources.research.gov/common/images/exclamation-circle.png",
     "https://resources.research.gov/common/images/exclamation-triangle.png",
@@ -86,7 +88,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/sampling/www.research.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/site/www.research.gov.json",
     "https://script.crazyegg.com/pages/scripts/0041/5508.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://wt.research.gov/dcsdnk61n1pdfnrido9thdr8t_7i2p/dcs.gif",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -96,8 +98,8 @@
     "www.research.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3863229166666666",
-  "largest_contentful_paint": "732.9000000059605",
+  "cumulative_layout_shift": "0.14135416666666667",
+  "largest_contentful_paint": "774.9000000953674",
   "required_links_url": [
     "about",
     "foia",
@@ -151,7 +153,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.research.gov/research-web",
   "www_status_code": 200,
   "www_title": "Research.gov - Homepage"

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T03:27:07.245Z",
+  "scan_date": "2025-02-16T12:00:47.168Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1,\"language\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -49,13 +51,13 @@
   "third_party_service_urls": [
     "https://identity.netlify.com/v1/netlify-identity-widget.js",
     "https://unpkg.com/decap-cms@%5E3.0.0/dist/decap-cms.js",
-    "https://unpkg.com/decap-cms@3.6.1/dist/decap-cms.js"
+    "https://unpkg.com/decap-cms@3.6.2/dist/decap-cms.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0149516015625",
-  "largest_contentful_paint": "1063.300000011921",
+  "largest_contentful_paint": "1122.2000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -100,7 +102,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

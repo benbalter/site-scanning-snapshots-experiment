@@ -16,67 +16,51 @@
   "agency": "General Services Administration",
   "bureau": "GSA, IDI, ECAS II",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:00:01.787Z",
+  "scan_date": "2025-02-16T07:09:59.064Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": [
-    "Create Account"
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "GSA",
-    "subagency": "FAS"
-  },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
-  "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
-  ],
-  "third_party_service_count": 3,
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
-    ".gsa.gov",
-    "curtisbay.webshop.gsa.gov"
+    ".gsa.gov"
   ],
-  "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08935660221354166",
-  "largest_contentful_paint": "5923.699999988079",
-  "required_links_url": [
-    "privacy"
-  ],
-  "required_links_text": [
-    "privacy policy"
-  ],
+  "viewport_meta_tag": false,
+  "cumulative_layout_shift": null,
+  "largest_contentful_paint": null,
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "GSA Store Portal",
-  "description": "enter your site description here",
-  "keywords": "enter your site keywords here",
+  "title": "",
+  "description": null,
+  "keywords": null,
   "og_title": null,
   "og_description": null,
   "og_article_published": null,
@@ -91,8 +75,8 @@
   "robots_txt_detected": true,
   "robots_txt_url": "https://curtisbay.webshop.gsa.gov/robots.txt",
   "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 26,
+  "robots_txt_media_type": "text/html",
+  "robots_txt_filesize": 947,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
@@ -114,7 +98,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

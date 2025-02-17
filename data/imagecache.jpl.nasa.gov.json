@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T09:10:34.945Z",
+  "scan_date": "2025-02-15T17:01:10.573Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -48,7 +50,7 @@
     "sdor": "false",
     "exts": "tif,tiff"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-I7DZv,G-3QQ5YP66VZ,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "d2pn8kiwq2w21t.cloudfront.net",
@@ -57,14 +59,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25730.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26495.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26518.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26526.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26527.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26539.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26561.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26562.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25530.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26426.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26427.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26428.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26457.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26458.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26459.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26519.2e16d0ba.fill-400x400-c50.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://script.crazyegg.com/pages/data-scripts/0105/9831/site/www.jpl.nasa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0105/9831.js",
@@ -76,8 +78,8 @@
     "www.jpl.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.002718833333333333",
-  "largest_contentful_paint": "1236.9000000059605",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "1291.6000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -126,7 +128,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

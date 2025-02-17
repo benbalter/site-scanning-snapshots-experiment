@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T09:21:23.529Z",
+  "scan_date": "2025-02-15T18:19:35.227Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -46,7 +48,7 @@
     "enhlink": "true",
     "yt": "false"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-HBYXWFP794",
   "third_party_service_domains": [
     "cdn.evgnet.com",
@@ -97,12 +99,11 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0010525821940104167",
-  "largest_contentful_paint": "249.90000000596046",
+  "largest_contentful_paint": "263.1999999284744",
   "required_links_url": [
     "about",
     "fear",
     "foia",
-    "inspector",
     "usa.gov"
   ],
   "required_links_text": [
@@ -177,13 +178,12 @@
     "usa-tooltip"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 115,
+  "uswds_usa_classes": 110,
   "uswds_string": 3,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 160,
-  "www_scan_status": "completed",
+  "uswds_count": 155,
   "www_url": "https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/federal-credentialing-services?gsaredirect=fedidcard",
   "www_status_code": 200,
   "www_title": "Federal credentialing services | GSA"

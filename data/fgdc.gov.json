@@ -16,26 +16,29 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "gov",
     "dap",
     "pulse",
     "omb_idea",
     "2020_eot",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T05:36:50.604Z",
+  "scan_date": "2025-02-16T06:20:15.724Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":40,\"link-purpose\":4}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,7 +60,7 @@
     "optout": "false",
     "palinteractiontypedim": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FH9G12ZTV6,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -114,7 +117,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -123,7 +126,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "2378",
+  "largest_contentful_paint": "2735.8000000715256",
   "required_links_url": [
     "privacy",
     "usa.gov"
@@ -173,7 +176,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.fgdc.gov",
   "www_status_code": 200,
   "www_title": "The Federal Geographic Data Committee — Federal Geographic Data Committee"

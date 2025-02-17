@@ -23,10 +23,12 @@
     "omb_idea",
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:53:21.052Z",
+  "scan_date": "2025-02-16T06:44:43.520Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,6 +37,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -47,8 +50,8 @@
   "dap_parameters": {
     "agency": "FTC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-Hero,G-M5WGVFE40B,G-CSLL4ZEK4L,UA-99814877-2,G-STBHW2F40C",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-M5WGVFE40B,G-CSLL4ZEK4L,G-Hero,UA-99814877-2,G-STBHW2F40C",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
@@ -74,6 +77,7 @@
     "https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -82,8 +86,8 @@
     ".ftc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.02850664990234375",
-  "largest_contentful_paint": "4262.5",
+  "cumulative_layout_shift": "0.046763055257161464",
+  "largest_contentful_paint": "3502.7999999523163",
   "required_links_url": [
     "about",
     "foia",
@@ -123,7 +127,7 @@
   "sitemap_xml_url": "https://consumer.ftc.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 1236206,
+  "sitemap_xml_filesize": 1237948,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -157,7 +161,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 165,
-  "www_scan_status": "completed",
   "www_url": "https://consumer.ftc.gov",
   "www_status_code": 200,
   "www_title": "Consumer Advice | Federal Trade Commission"

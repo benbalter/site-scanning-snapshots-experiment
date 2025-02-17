@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T01:40:23.856Z",
+  "scan_date": "2025-02-16T00:43:17.370Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "DoD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -63,7 +65,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.009241135742187498",
-  "largest_contentful_paint": "502.80000001192093",
+  "largest_contentful_paint": "442.2999999523163",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,
@@ -108,7 +110,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

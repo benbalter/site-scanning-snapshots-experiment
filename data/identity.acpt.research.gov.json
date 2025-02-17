@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:09:42.577Z",
+  "scan_date": "2025-02-15T13:08:14.640Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,32 +32,50 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "web.acpt.research.gov",
+    "wt.research.gov"
+  ],
+  "third_party_service_urls": [
+    "https://web.acpt.research.gov/semantic-content/footer",
+    "https://web.acpt.research.gov/semantic-content/header",
+    "https://wt.research.gov/dcsik27k7bxafpgub82cnza03_4p4c/dcs.gif"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
+    ".research.gov",
     "identity.acpt.research.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.013713867187500001",
-  "largest_contentful_paint": "3450.699999988079",
-  "required_links_url": null,
-  "required_links_text": null,
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "0",
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "NSF | Research.gov",
+  "title": "Research.gov - User Log In",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -66,7 +86,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": "en-US",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -95,7 +115,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

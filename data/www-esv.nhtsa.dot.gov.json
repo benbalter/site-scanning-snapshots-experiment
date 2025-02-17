@@ -19,10 +19,11 @@
   "404_test": null,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:24:23.682Z",
+  "scan_date": "2025-02-16T04:41:29.301Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
@@ -44,11 +46,10 @@
     "agency": "DOT",
     "subagency": "NHTSA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7HKD9QFL00,G-XBMX551X8B,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "accdn.lpsnmedia.net",
-    "bam.nr-data.net",
     "c2.ktxlytics.io",
     "clients1.google.com",
     "code.jquery.com",
@@ -57,12 +58,10 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "ib.adnxs.com",
-    "js-agent.newrelic.com",
     "lpcdn.lpsnmedia.net",
     "lptag.liveperson.net",
     "trackit.ktxlytics.io",
     "va-s.c.liveperson.net",
-    "va.v.liveperson.net",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
@@ -71,7 +70,6 @@
   "third_party_service_urls": [
     "https://accdn.lpsnmedia.net/api/account/10024689/configuration/le-campaigns/zones",
     "https://accdn.lpsnmedia.net/api/account/10024689/configuration/setting/accountproperties/",
-    "https://bam.nr-data.net/1/c1904f93fe",
     "https://c2.ktxlytics.io/com.snowplowanalytics.iglu/v1",
     "https://c2.ktxlytics.io/com.snowplowanalytics.snowplow/tp2",
     "https://clients1.google.com/generate_204",
@@ -84,7 +82,6 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lXYi128m0g.woff",
     "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
     "https://ib.adnxs.com/getuid",
-    "https://js-agent.newrelic.com/nr-1044.min.js",
     "https://lpcdn.lpsnmedia.net/le_secure_storage/3.32.3-release_1655932912/storage.secure.min.js",
     "https://lpcdn.lpsnmedia.net/le_unified_window/10.41.1-release_1638513975/desktopEmbedded.js",
     "https://lpcdn.lpsnmedia.net/le_unified_window/10.41.1-release_1638513975/surveylogicinstance.min.js",
@@ -95,7 +92,6 @@
     "https://va-s.c.liveperson.net/hc/10024689/",
     "https://va-s.c.liveperson.net/hc/s-10024689/",
     "https://va-s.c.liveperson.net/hcp/html/mTag.js",
-    "https://va.v.liveperson.net/api/js/10024689",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/ccm/collect",
     "https://www.google.com/cse/static/css/v2/clear.png",
@@ -106,16 +102,15 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 20,
+  "third_party_service_count": 17,
   "cookie_domains": [
-    ".nhtsa.gov",
-    "www.nhtsa.gov"
+    ".nhtsa.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.761337919189453",
-  "largest_contentful_paint": "881.3000000119209",
+  "largest_contentful_paint": "675.2000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -175,7 +170,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T10:34:25.949Z",
+  "scan_date": "2025-02-16T03:27:31.329Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "awsglobalaccelerator.com",
@@ -42,7 +45,7 @@
   "dap_parameters": {
     "agency": "NREL"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-D36B6EXMET,G-HFDNVE0DSC,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "c.bing.com",
@@ -74,10 +77,11 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-solid-900-12.woff2",
     "https://kit.fontawesome.com/064330cea8.js",
     "https://s.clarity.ms/collect",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/jqyludgwnn",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -85,7 +89,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.2707966186523437",
-  "largest_contentful_paint": "165.89999997615814",
+  "largest_contentful_paint": "168.80000007152557",
   "required_links_url": [
     "about"
   ],
@@ -134,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

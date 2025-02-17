@@ -5,7 +5,7 @@
   "initial_base_domain": "usda.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-01e069d8-39e4-45a4-b33f-09da5d3a99cb&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=ADX2WUP7GiLWThJKQsVsvXsitglZStp82t9L5k1LicgLGw6lGWQjmi7ok6ptnybeUQgBg89iNjUfBrK6WUGmuHpupr8UZmdsicSSohRIyDjePO0UjoqndsNRiPLNlY6w&TARGET=-SM-HTTPS:%2F%2Fwww.eauth.usda.gov%2Faffwebservices%2Fsecure%2Fsecureredirect%2FauthUrl%2Foption03%2Flogin%3FSAMLRequest%3DfJJdT8IwGIX-%2FytL7fTDpBg0jQUmUBCOB4YU3ptveQZOtnXtbpv-%2Fejo-%2BgJnLZ9j2nzzntBHldNWxm9F6u4cMAauezriSy40FCTCuZ4iiQSV4DMp2zzex5yUIvYE2rtMpVRX5Ibis4IrRaKEmcxTwh78MsiIsoom6UUeoO4wG4YwqlOxjRYpSPoRiGMXFeoUWrSYi1sEJEAwuJmkttt4KQukHoBqN0EDF6xwLqxZS-%2BEWduswjJ-%2B9sSste6Qeb7Xdd5wG1az2DBvZ06-%2BLwsO8gs10HkgH5jskrkfp8lRFTEmV2YH5REU0O7OY1u18urb7MXKGSBQoNX2uxX-%2Bz77I9fQ8S-%2B-%2Fr9n-%2Fz484q3Of99ZJyN3tKrPTELKnNF25q5dNSqaTnpodC2qnPdqZ7A-%2BSfbfC9hZOjikv86fV778w-%2FQYAAP-%2F-%2FAwA-%3D%26RelayState%3DReturnUrl-%3Dhttps-%253A-%252F-%252Fphisindsite.fsis.usda.gov-%252FFSISDashboard-%252Fdefault.aspx%26SMPORTALURL%3D8XoRVX8h2LRCO1ZXZmIJNxTdCa-%2B9ogbkURgE51-%2F5oBM7-%2BskoANXK5-%2F4qlBmMIytOJ6-%2BXJyppVzhCDmYfMp12mWeqbLm-%2FMOhfc786kdnWuZdj-%2Bc5Q0-%2BXcndC7RACIEz4D%26SAMLTRANSACTIONID%3Dbee1c7c2--59e9765a--5b856953--109f1c4d--411a3430--e39",
+  "url": "https://www.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-01e069d8-39e4-45a4-b33f-09da5d3a99cb&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=ADX2WUP7GiLWThJKQsVsvXsitglZStp82t9L5k1LicgLGw6lGWQjmi7ok6ptnybeUQgBg89iNjUfBrK6WUGmuHpupr8UZmdsicSSohRIyDjePO0UjoqndsNRiPLNlY6w&TARGET=-SM-HTTPS:%2F%2Fwww.eauth.usda.gov%2Faffwebservices%2Fsecure%2Fsecureredirect%2FauthUrl%2Foption03%2Flogin%3FSAMLRequest%3DfJJdT8IwGIX-%2FytL7fYJsNIwEJVESjASGF96YdnsHTbZ27m2Z-%2Fns7PoKayGXb95w-%2B57QTZHXV0JnRe7mGDwOonc-%2B6kkiPBykxraSKoUAqWQ1IdU43s-%2BcljbyANq3SKlcV-%2BSG5rWCI0GqhJHEW85S8h3wYjyHJ3QGPEneYBLGbxEnohmMGnAMfjYqSOK-%2FQotWkxFpYIaKBhUTNpLZbQXTnBpEbjrIgpsOQRgMvHMdvxJnbLEKy-%2FraU7LVukPp-%2B13UeMJvWM1gwb6cOPivLDrjlOogc0G8Mr0Tu91kiREWc2YX5QUk0NbSb0-%2Bh2vbz6NnuBQhYoNHilzX6177M-%2FMg0d-%2B-%2FL7mv3-%2F-%2FIizOvd5b52E3N2ukp-%2BGkD5l2cpdvWwyMp301PRYUDvt0c5kf5DsuxW2t2hyTHmZP61-%2B-%2F4XpNwAAAP-%2F-%2FAwA-%3D%26RelayState%3DReturnUrl-%3Dhttps-%253A-%252F-%252Fphisindsite.fsis.usda.gov-%252FFSISDashboard-%252Fdefault.aspx%26SMPORTALURL%3D8XoRVX8h2LRCO1ZXZmIJNxTdCa-%2B9ogbkURgE51-%2F5oBM7-%2BskoANXK5-%2F4qlBmMIytOJ6-%2BXJyppVzhCDmYfMp12mWeqbLm-%2FMOhfc786kdnWuZdj-%2Bc5Q0-%2BXcndC7RACIEz4D%26SAMLTRANSACTIONID%3Defc3f24f--731c405f--e8c0c0e7--0a482881--54a5a1c0--fcd",
   "domain": "www.eauth.usda.gov",
   "base_domain": "usda.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:53:16.937Z",
+  "scan_date": "2025-02-16T07:41:32.206Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -53,8 +55,8 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.9573763618164063",
-  "largest_contentful_paint": "3752.0999999940395",
+  "cumulative_layout_shift": "0.9564464955240887",
+  "largest_contentful_paint": "1863",
   "required_links_url": [
     "privacy",
     "usa.gov"
@@ -122,7 +124,6 @@
   "uswds_semantic_version": "v2.11.2",
   "uswds_version": 100,
   "uswds_count": 165,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

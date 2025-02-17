@@ -21,10 +21,12 @@
     "gov",
     "dap",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:17:08.322Z",
+  "scan_date": "2025-02-15T17:43:42.980Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":3,\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
     "agency": "EOP",
     "subagency": "NITRD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-YKPHJL4C37,G-CSLL4ZEK4L,UA-26939116-1",
   "third_party_service_domains": [
     "c.clarity.ms",
@@ -74,7 +77,7 @@
     "https://content.govdelivery.com/assets/widget/rss-4bd1539f37385414b69a84c4ddcc8ddfc25f1f00c774fb4a621bc3c3c4bffd6e.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://hosteduxprod.z13.web.core.windows.net/public-files/3.3.5/CssTheme.1.css",
+    "https://hosteduxprod.z13.web.core.windows.net/public-files/3.3.7/CssTheme.1.css",
     "https://maps.googleapis.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
     "https://platform.twitter.com/widgets.js",
@@ -83,7 +86,7 @@
     "https://ssl.google-analytics.com/ga.js",
     "https://syndication.twitter.com/settings",
     "https://ui.customsearch.ai/api/ux/rendering-js",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/723roztgcp",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
@@ -96,7 +99,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.5632875258789063",
-  "largest_contentful_paint": "1726.2000000178814",
+  "largest_contentful_paint": "1581.7999999523163",
   "required_links_url": [
     "about",
     "fear",
@@ -154,7 +157,6 @@
   "uswds_semantic_version": "v2.8.1",
   "uswds_version": 100,
   "uswds_count": 168,
-  "www_scan_status": "completed",
   "www_url": "https://www.nitrd.gov",
   "www_status_code": 200,
   "www_title": "The Networking and Information Technology Research and Development (NITRD) Program - The Networking and Information Technology Research and Development (NITRD) Program"

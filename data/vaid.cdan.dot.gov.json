@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:23:31.518Z",
+  "scan_date": "2025-02-16T04:31:39.464Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
     "secure.login.gov"
   ],
   "third_party_service_urls": [
-    "https://secure.login.gov/assets/application-48884e60.css",
+    "https://secure.login.gov/assets/application-66dadd8e.css",
     "https://secure.login.gov/assets/print-dbe18894.css",
     "https://secure.login.gov/assets/public-sans/PublicSans-Bold-c73ef2d4.woff2",
     "https://secure.login.gov/assets/public-sans/PublicSans-Regular-5f371c89.woff2",
@@ -105,7 +108,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T10:51:44.955Z",
+  "scan_date": "2025-02-15T16:20:56.252Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":152,\"link-purpose\":9}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":153,\"link-purpose\":8}",
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "NARA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1,UA-19713578-4,UA-193034320-1,G-P1JBWQT9NJ,G-JKGRF3JQ9V",
   "third_party_service_domains": [
     "c0.wp.com",
@@ -79,9 +82,10 @@
     "https://i0.wp.com/text-message.blogs.archives.gov/wp-content/uploads/sites/5/2018/06/blogs-official-nara-logo.jpg",
     "https://i0.wp.com/text-message.blogs.archives.gov/wp-content/uploads/sites/5/2025/01/1-1-scaled.jpg",
     "https://i0.wp.com/text-message.blogs.archives.gov/wp-content/uploads/sites/5/2025/01/Rasputin_and_The_Empress_1932_Poster.jpg",
+    "https://i0.wp.com/text-message.blogs.archives.gov/wp-content/uploads/sites/5/2025/02/image-1.gif",
     "https://js.hsforms.net/forms/embed/v2.js",
     "https://pixel.wp.com/g.gif",
-    "https://stats.wp.com/e-202506.js",
+    "https://stats.wp.com/e-202507.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -95,13 +99,15 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.029052187499999996",
-  "largest_contentful_paint": "410.90000000596046",
+  "largest_contentful_paint": "469",
   "required_links_url": [
     "about",
+    "foia",
     "privacy"
   ],
   "required_links_text": [
     "accessibility",
+    "foia",
     "privacy policy"
   ],
   "https_enforced": false,
@@ -148,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

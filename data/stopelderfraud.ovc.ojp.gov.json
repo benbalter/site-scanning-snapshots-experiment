@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-08T11:01:15.094Z",
+  "scan_date": "2025-02-15T12:25:54.014Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +43,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-WDHSCQF0QT,G-CSLL4ZEK4L,UA-122677529-1,UA-37581200-1,UA-37581200-4,G-YR3CF5H58V,G-SW5R7VGPKR",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -51,8 +52,6 @@
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "gateway.foresee.com",
     "www.google-analytics.com",
     "www.google.com",
@@ -60,17 +59,15 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/367b03f8-565f-4022-9eb8-231b4696c169",
+    "https://brain.foresee.com/state/ojp-main/ba671116-ddfd-4f6d-8645-c9053a1ea15e",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.feedback.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.mouseoff.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.survey.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.utils.js",
@@ -79,11 +76,8 @@
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/main.css",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/code/6.1.2-mp/mpathy-modern.js",
     "https://gateway.foresee.com/sites/ojp-main/production/gateway.min.js",
-    "https://gateway.foresee.com/sites/ojp-main/production/trigger/ovc_logo.jpg",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
@@ -93,13 +87,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.041823046875000006",
-  "largest_contentful_paint": "512",
+  "cumulative_layout_shift": "0.038011718750000006",
+  "largest_contentful_paint": "498.5",
   "required_links_url": [
     "about",
     "fear",
@@ -182,7 +176,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 91,
-  "www_scan_status": "completed",
   "www_url": "https://ovc.ojp.gov/program/stop-elder-fraud/providing-help-restoring-hope",
   "www_status_code": 200,
   "www_title": "National Elder Fraud Hotline | Office for Victims of Crime"

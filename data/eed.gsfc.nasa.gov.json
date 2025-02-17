@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T10:07:40.665Z",
+  "scan_date": "2025-02-16T10:44:24.337Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1,\"user-control-name\":3,\"link-purpose\":6,\"lists\":5}",
   "ipv6": true,
   "hostname": null,
@@ -43,7 +45,7 @@
     "agency": "NASA",
     "subagency": "GSFC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -66,7 +68,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.1325",
-  "largest_contentful_paint": "1764.9000000059605",
+  "largest_contentful_paint": "2049.4000000953674",
   "required_links_url": [
     "about",
     "foia",
@@ -86,7 +88,7 @@
   "og_description": "Building what has never been built before,to discover the unknown. At Goddard, the ETD supports missions, builds satellites and instruments, operates and controls spacecrafts and acquires and distributes data to the world-wide science community. The ETD’s data products are used to conduct research in Earth and space sciences that benefit the nation and the world. …",
   "og_article_published": null,
   "og_article_modified": "2024-12-30T14:51:30.000Z",
-  "og_image": "https://etd-staging.gsfc.nasa.gov/wp-content/uploads/2024/07/mars-earth-illustration.png",
+  "og_image": "https://etd.gsfc.nasa.gov/wp-content/uploads/2024/07/mars-earth-illustration.png",
   "og_type": "website",
   "og_url": "https://etd.gsfc.nasa.gov/",
   "canonical_link": "https://etd.gsfc.nasa.gov/",
@@ -119,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

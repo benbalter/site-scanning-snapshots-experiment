@@ -18,18 +18,22 @@
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "senate_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:15:19.662Z",
+  "scan_date": "2025-02-15T13:38:19.255Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
-  "robots_txt_scan_status": "unknown_error",
+  "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
@@ -65,13 +69,13 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
     "https://platform.twitter.com/widgets.js",
-    "https://player.vimeo.com/external/155039079.hd.mp4",
+    "https://player.vimeo.com/external/155039082.sd.mp4",
     "https://syndication.twitter.com/settings",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -80,11 +84,10 @@
     "www.cantwell.senate.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.007354134114583333",
-  "largest_contentful_paint": "1380.699999988079",
+  "cumulative_layout_shift": "0.007265787760416666",
+  "largest_contentful_paint": "1162.3999999761581",
   "required_links_url": [
-    "about",
-    "inspector"
+    "about"
   ],
   "required_links_text": null,
   "https_enforced": false,
@@ -103,10 +106,10 @@
   "language": "en",
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": null,
-  "robots_txt_url": null,
-  "robots_txt_status_code": null,
-  "robots_txt_media_type": null,
+  "robots_txt_detected": false,
+  "robots_txt_url": "https://www.cantwell.senate.gov/robots.txt",
+  "robots_txt_status_code": 410,
+  "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
@@ -129,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.cantwell.senate.gov",
   "www_status_code": 200,
   "www_title": "Home | U.S. Senator Maria Cantwell of Washington"

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:20:40.931Z",
+  "scan_date": "2025-02-15T11:12:34.687Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -43,8 +45,8 @@
     "agency": "DOC",
     "subagency": "CPO"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-69P3KT57C3,G-CSLL4ZEK4L,G-287344532",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-69P3KT57C3,G-287344532,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -67,8 +69,8 @@
     ".climate.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0103046396484375",
-  "largest_contentful_paint": "7351.799999982119",
+  "cumulative_layout_shift": "0.05864125984700521",
+  "largest_contentful_paint": "931.5",
   "required_links_url": [
     "about",
     "fear",
@@ -152,11 +154,10 @@
   "uswds_banner_heres_how": false,
   "uswds_usa_classes": 35,
   "uswds_string": 1,
-  "uswds_string_in_css": 20,
+  "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 90,
-  "www_scan_status": "completed",
+  "uswds_count": 70,
   "www_url": "https://www.climate.gov",
   "www_status_code": 200,
   "www_title": "Climate.gov Home"

@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T03:57:28.220Z",
+  "scan_date": "2025-02-16T04:34:13.171Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,22 +32,24 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": true,
-  "search_dot_gov": true,
+  "site_search": false,
+  "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
     "agency": "DOT"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-18660041-1,G-VW1SFWJKBB,G-NQ5ZN114SB",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "ops.fhwa.dot.gov",
     "www.fhwa.dot.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
@@ -53,31 +57,42 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://ops.fhwa.dot.gov/images/ops_images/21century.gif",
+    "https://ops.fhwa.dot.gov/images/ops_images/21century_bkgd-tall.gif",
+    "https://ops.fhwa.dot.gov/images/ops_images/dotfhwa2.gif",
+    "https://ops.fhwa.dot.gov/images/ops_images/feedback.gif",
+    "https://ops.fhwa.dot.gov/images/ops_images/fhwahome.gif",
+    "https://ops.fhwa.dot.gov/images/ops_images/fhwatag.gif",
+    "https://ops.fhwa.dot.gov/images/ops_images/header-5pics.jpg",
+    "https://ops.fhwa.dot.gov/images/ops_images/ops-red-banner.gif",
+    "https://ops.fhwa.dot.gov/images/ops_images/road-background2.jpg",
+    "https://ops.fhwa.dot.gov/images/ops_images/skiplink.gif",
+    "https://ops.fhwa.dot.gov/opser.css",
+    "https://ops.fhwa.dot.gov/opsernn4.css",
+    "https://ops.fhwa.dot.gov/opserprint.css",
     "https://www.fhwa.dot.gov/includes/fhwaload.js",
     "https://www.fhwa.dot.gov/js/dot_analytics_2.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".dot.gov",
-    "ops-dr.fhwa.dot.gov"
+    ".dot.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "497.10000002384186",
+  "largest_contentful_paint": "328.39999997615814",
   "required_links_url": [
-    "about",
     "privacy"
   ],
   "required_links_text": [
-    "about us",
     "privacy policy"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "FHWA Operations",
+  "title": "FHWA Operations Error",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -117,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

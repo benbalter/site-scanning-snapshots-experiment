@@ -1,5 +1,5 @@
 {
-  "name": "worldwind.arc.nasa.gov",
+  "name": null,
   "initial_url": "https://data.worldwind.arc.nasa.gov",
   "initial_domain": "data.worldwind.arc.nasa.gov",
   "initial_base_domain": "nasa.gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T09:48:38.594Z",
+  "scan_date": "2025-02-16T10:46:01.866Z",
   "primary_scan_status": "timeout",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -40,14 +42,12 @@
   "search_dot_gov": null,
   "dap": null,
   "dap_parameters": null,
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap_version": null,
+  "ga_tag_id": null,
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": null,
   "cumulative_layout_shift": null,
   "largest_contentful_paint": null,
@@ -55,8 +55,8 @@
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "NASA WorldWind",
-  "description": "NASA WorldWind Software Development Kits (SDKs) for geo-spatial 3D virtual\n        globe visualization via OpenGL/WebGL on Android, Java and JavaScript/HTML5 platforms.",
+  "title": null,
+  "description": null,
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -95,7 +95,6 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

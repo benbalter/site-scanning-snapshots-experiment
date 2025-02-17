@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:03:34.674Z",
+  "scan_date": "2025-02-16T07:50:16.629Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,8 +32,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":4}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -44,7 +46,7 @@
     "agency": "USDA",
     "subagency": "ARS-NAL"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-2YCFLHC3NC,G-ER98FFN75C,UA-28627214-1,UA-27627304-1,G-CSLL4ZEK4L,G-VYRH7BQ1FL",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -56,18 +58,16 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".nal.usda.gov",
     ".usda.gov",
     "search.nal.usda.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.5641566504875023",
-  "largest_contentful_paint": "2629.399999976158",
+  "largest_contentful_paint": "2609.100000023842",
   "required_links_url": [
     "foia",
     "privacy",
@@ -124,7 +124,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

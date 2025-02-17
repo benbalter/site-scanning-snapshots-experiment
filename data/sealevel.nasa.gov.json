@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:27:50.127Z",
+  "scan_date": "2025-02-15T17:26:19.905Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1,\"language\":1,\"lists\":4}",
   "ipv6": true,
   "hostname": null,
@@ -50,7 +53,7 @@
     "yt": "true",
     "exts": "tif,tiff,wav"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FR8YSS27LL,G-Q9CWC0NSLC,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "bam.nr-data.net",
@@ -85,11 +88,11 @@
     "https://script.crazyegg.com/pages/data-scripts/0013/2090/sampling/sealevel.nasa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0013/2090/site/sealevel.nasa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0013/2090.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -97,7 +100,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.5194791666666667",
-  "largest_contentful_paint": "1831.0999999940395",
+  "largest_contentful_paint": "1572.1000000238419",
   "required_links_url": [
     "about",
     "privacy"
@@ -115,7 +118,7 @@
   "og_description": "Visit NASA's portal for an in-depth look at the science behind sea level change.",
   "og_article_published": null,
   "og_article_modified": null,
-  "og_image": "https://sealevel.nasa.gov#<ActiveStorage::Attached::One:0x00007fe5ccbce2d8>",
+  "og_image": "https://sealevel.nasa.gov#<ActiveStorage::Attached::One:0x00007f5435cda2e0>",
   "og_type": null,
   "og_url": "https://sealevel.nasa.gov/",
   "canonical_link": null,
@@ -151,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

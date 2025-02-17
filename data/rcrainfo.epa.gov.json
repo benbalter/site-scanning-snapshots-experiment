@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T13:22:47.510Z",
+  "scan_date": "2025-02-16T05:24:07.707Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -56,11 +59,12 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".epa.gov",
     "rcrainfo.epa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.09468176977539063",
-  "largest_contentful_paint": "475.69999998807907",
+  "cumulative_layout_shift": "0.09450160546875",
+  "largest_contentful_paint": "458.39999997615814",
   "required_links_url": [
     "foia",
     "privacy"
@@ -110,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.rcrainfo.epa.gov/rcrainfoprod/action/secured/login",
   "www_status_code": 200,
   "www_title": "RCRAInfo Sign In"

@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:17:26.568Z",
+  "scan_date": "2025-02-15T16:04:58.562Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -46,43 +49,42 @@
   "dap_parameters": {
     "agency": "DOI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "aws-volunteer-staticdata.s3.amazonaws.com",
+    "cdn.recreation.gov",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "npgallery.nps.gov",
     "www.flickr.com",
-    "www.fws.gov",
+    "www.fs.usda.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com",
-    "www.nps.gov",
-    "www.recreation.gov"
+    "www.nps.gov"
   ],
   "third_party_service_urls": [
     "https://aws-volunteer-staticdata.s3.amazonaws.com/touchpoints_survey_v2.js",
+    "https://cdn.recreation.gov/public/2019/03/06/23/38/233245_2f384cf4-1f12-4df0-8a39-2c44ab4a6c99_1440.jpg",
+    "https://cdn.recreation.gov/public/images/68250.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
-    "https://npgallery.nps.gov/GetAsset/368EFA61-1DD8-B71B-0B1B6E9599A30E9E/proxyhires",
-    "https://www.flickr.com/photos/coronadonf/50548036387/",
-    "https://www.fws.gov/sites/default/files/styles/banner_image_xl/public/banner_images/2021-11/Desert%20NWR%20Corn%20Creek%20Visitor%20Center%20-%20Architectural%20Photographer%20Michael%20Tessler%20-%206.jpg",
+    "https://www.flickr.com/photos/indianadunes/53681123455/",
+    "https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprd3834996.jpg",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.nps.gov/common/uploads/grid_builder/nisi/crop16_9/25E02787-AC85-F296-89989B8C74690B84.jpg",
-    "https://www.nps.gov/cuis/planyourvisit/images/SeaCampRangerStation_960x405.jpg",
-    "https://www.recreation.gov/camping/campgrounds/232728"
+    "https://www.nps.gov/common/uploads/grid_builder/internationalcooperation/crop16_9/FB370BEE-DB64-3CE6-D1627D3F8DF758F6.jpg",
+    "https://www.nps.gov/common/uploads/grid_builder/yell/crop16_9/A0BC315A-F7D2-4B35-47A7D757D3732A02.jpg"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".volunteer.gov",
     "www.volunteer.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.12354632161458334",
-  "largest_contentful_paint": "1650.0999999940395",
+  "largest_contentful_paint": "1814.3000000715256",
   "required_links_url": [
     "about",
     "privacy",
@@ -135,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.volunteer.gov/s",
   "www_status_code": 200,
   "www_title": "Home"

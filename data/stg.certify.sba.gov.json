@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:09:44.505Z",
+  "scan_date": "2025-02-15T13:28:57.278Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -46,11 +49,12 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".sba.gov",
     "stg.certify.sba.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.16238771606445312",
-  "largest_contentful_paint": "1374.9000000059605",
+  "cumulative_layout_shift": "0.051565052856445304",
+  "largest_contentful_paint": "1078.2000000476837",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -132,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 93,
-  "www_scan_status": "completed",
   "www_url": "https://www.stg.certify.sba.gov",
   "www_status_code": 502,
   "www_title": "ERROR: The request could not be satisfied"

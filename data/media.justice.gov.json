@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:52:39.292Z",
+  "scan_date": "2025-02-16T08:51:13.413Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -44,7 +46,7 @@
     "sp": "find",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "8906.global.siteimproveanalytics.io",
@@ -52,6 +54,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "img.youtube.com",
     "media.justice.gov",
     "search.justice.gov",
     "siteimproveanalytics.com",
@@ -67,6 +70,8 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/sourceserifpro/v17/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSyqxKcsdrM.woff2",
+    "https://img.youtube.com/vi/Ca7_Hdq53iY/mqdefault.jpg",
+    "https://img.youtube.com/vi/J7HjBIsfzaw/mqdefault.jpg",
     "https://media.justice.gov/images/documentation_in.gif",
     "https://media.justice.gov/images/release_in.gif",
     "https://media.justice.gov/images/request_in.gif",
@@ -78,15 +83,15 @@
     "https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".justice.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.42708171736653644",
-  "largest_contentful_paint": "220.90000000596046",
+  "cumulative_layout_shift": "0.24173411971028647",
+  "largest_contentful_paint": "485.10000002384186",
   "required_links_url": [
     "about",
     "privacy",
@@ -111,7 +116,7 @@
   "og_description": null,
   "og_article_published": null,
   "og_article_modified": null,
-  "og_image": null,
+  "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--default.png",
   "og_type": null,
   "og_url": null,
   "canonical_link": "https://www.justice.gov/news/videos",
@@ -157,12 +162,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 60,
-  "uswds_string": 33,
+  "uswds_string": 36,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 173,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 176,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

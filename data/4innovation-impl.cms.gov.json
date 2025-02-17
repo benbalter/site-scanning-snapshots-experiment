@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-09T02:38:06.005Z",
+  "scan_date": "2025-02-16T03:15:48.945Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -45,7 +48,7 @@
     "agency": "DHHS",
     "subagency": "CMS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "4innovation-impl-api.cms.gov",
@@ -83,8 +86,8 @@
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01765022257486979",
-  "largest_contentful_paint": "2314.9000000059605",
+  "cumulative_layout_shift": "0.12734136840820315",
+  "largest_contentful_paint": "2235.2999999523163",
   "required_links_url": [
     "privacy"
   ],
@@ -133,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

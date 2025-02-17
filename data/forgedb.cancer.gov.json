@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T01:55:28.994Z",
+  "scan_date": "2025-02-16T02:27:36.752Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -43,7 +46,7 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-SLRTWNCE23,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -67,8 +70,8 @@
     ".cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000017705810546875",
-  "largest_contentful_paint": "119.69999998807907",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "125",
   "required_links_url": [
     "about",
     "foia",
@@ -122,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

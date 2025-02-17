@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://urs.earthdata.nasa.gov/oauth/authorize?client_id=G2DC6Z_BawUkTkiRBI1NiA&redirect_uri=https%3A%2F%2Fsealevel.uat.earthdata.nasa.gov%2Fauth%2Furs%2Fcallback&response_type=code&state=11132000bb43005d8d9462a8a9f785da509ab6f1af2ff4f4",
+  "url": "https://urs.earthdata.nasa.gov/oauth/authorize?client_id=G2DC6Z_BawUkTkiRBI1NiA&redirect_uri=https%3A%2F%2Fsealevel.uat.earthdata.nasa.gov%2Fauth%2Furs%2Fcallback&response_type=code&state=76769487540db15b928e6cfc975d902622e40b29ca2f3175",
   "domain": "urs.earthdata.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T09:47:16.412Z",
+  "scan_date": "2025-02-15T17:25:39.311Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "connection_reset",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":2,\"link-purpose\":2}",
   "ipv6": false,
   "hostname": null,
@@ -47,7 +49,7 @@
     "subagency": "GSFC",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-T0WYSFJPBT,G-M3PE7MJ3XR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
@@ -95,7 +97,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.010849583333333333",
-  "largest_contentful_paint": "446.5",
+  "largest_contentful_paint": "462.3000000715256",
   "required_links_url": [
     "about",
     "privacy"
@@ -146,7 +148,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

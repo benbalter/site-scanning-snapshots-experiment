@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:17:35.461Z",
+  "scan_date": "2025-02-15T17:25:07.219Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":7}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -46,7 +49,7 @@
     "subagency": "GSFC",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-90841195-3,G-H3QHE4DLQZ",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -66,8 +69,8 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06775290755208334",
-  "largest_contentful_paint": "577.0999999940395",
+  "cumulative_layout_shift": "0.061776204427083335",
+  "largest_contentful_paint": "509.3000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -123,7 +126,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

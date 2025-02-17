@@ -24,10 +24,12 @@
     "omb_idea",
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T06:20:21.948Z",
+  "scan_date": "2025-02-16T10:26:11.965Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,6 +38,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": false,
   "hostname": null,
@@ -49,7 +52,7 @@
     "agency": "MSPB",
     "pua": "ua-33523145-2"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ZHYNZ606HG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -65,8 +68,8 @@
     ".mspb.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.005347886759440104",
-  "largest_contentful_paint": "237.10000002384186",
+  "cumulative_layout_shift": "0.005797271525065104",
+  "largest_contentful_paint": "247.29999995231628",
   "required_links_url": [
     "about",
     "fear",
@@ -120,6 +123,7 @@
     "usa-accordion",
     "usa-accordion-button",
     "usa-accordion-content",
+    "usa-alert",
     "usa-banner",
     "usa-banner-button",
     "usa-banner-button-text",
@@ -187,7 +191,6 @@
   "uswds_semantic_version": "v1.6.8",
   "uswds_version": 100,
   "uswds_count": 192,
-  "www_scan_status": "completed",
   "www_url": "https://www.mspb.gov",
   "www_status_code": 200,
   "www_title": "U.S. Merit Systems Protection Board"

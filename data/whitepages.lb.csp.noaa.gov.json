@@ -5,7 +5,7 @@
   "initial_base_domain": "noaa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online#login&goto=https%3A%2F%2Fsso.noaa.gov%3A443%2Fopenam%2Foauth2%2Frealms%2Froot%2Frealms%2Fnoaa-online%2Fauthorize%3Fscope%3Dopenid%26response_type%3Did_token%26realm%3Dnoaa-online%26redirect_uri%3Dhttps%3A%2F%2Fwhitepages.noaa.gov%3A443%2Fwhitepages%2FsunwCDSSORedirectURI%26nonce%3DYO2AE7RUH5k7GaK1bSPed-DOC3k%26client_id%3DwhitepagesAgent%26agent_realm%3D%2Fnoaa-online%26response_mode%3Dform_post",
+  "url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online&goto=https%3A%2F%2Fsso.noaa.gov%3A443%2Fopenam%2Foauth2%2Frealms%2Froot%2Frealms%2Fnoaa-online%2Fauthorize%3Fscope%3Dopenid%26response_type%3Did_token%26realm%3Dnoaa-online%26redirect_uri%3Dhttps%3A%2F%2Fwhitepages.noaa.gov%3A443%2Fwhitepages%2FsunwCDSSORedirectURI%26nonce%3DuoWVTRRvAwhVNWym6cBr9TNofFg%26client_id%3DwhitepagesAgent%26agent_realm%3D%2Fnoaa-online%26response_mode%3Dform_post#/",
   "domain": "sso.noaa.gov",
   "base_domain": "noaa.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T10:46:00.914Z",
+  "scan_date": "2025-02-15T12:05:13.695Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"language\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -42,15 +44,22 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "accounts.noaa.gov",
+    "fonts.bunny.net"
+  ],
+  "third_party_service_urls": [
+    "https://accounts.noaa.gov/openidm/info/uiconfig",
+    "https://fonts.bunny.net/css2",
+    "https://fonts.bunny.net/open-sans/files/open-sans-latin-400-normal.woff2"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0718851953125",
-  "largest_contentful_paint": "2032.199999988079",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "1412.8999999761581",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,
@@ -66,9 +75,9 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en-US",
+  "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": false,
   "robots_txt_url": "https://whitepages.lb.csp.noaa.gov/robots.txt",
   "robots_txt_status_code": 404,
@@ -95,7 +104,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

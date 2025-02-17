@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:46:46.672Z",
+  "scan_date": "2025-02-16T05:16:04.236Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -49,8 +52,8 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-2SEC4V3SK9,UA-151427246-1,UA-32633028-1,G-CSLL4ZEK4L,G-SJY6XV3W7W",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-151427246-1,UA-32633028-1,G-SJY6XV3W7W",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "script.crazyegg.com",
@@ -63,7 +66,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/encromerr.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/encromerr.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -77,7 +80,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0032252216796874998",
-  "largest_contentful_paint": "532.4000000059605",
+  "largest_contentful_paint": "428.1999999284744",
   "required_links_url": [
     "about",
     "privacy"
@@ -106,10 +109,10 @@
   "robots_txt_url": "https://encromerr.epa.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 91,
+  "robots_txt_filesize": 82,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [
-    "https://cdxpscs02.cdxazure.epa.gov/sitemap.xml"
+    "https://encromerr.epa.gov/sitemap.xml"
   ],
   "sitemap_xml_detected": true,
   "sitemap_xml_url": "https://encromerr.epa.gov/sitemap.xml",
@@ -130,7 +133,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

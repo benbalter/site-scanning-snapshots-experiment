@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T04:50:19.591Z",
+  "scan_date": "2025-02-16T05:46:35.412Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"aria\":2,\"contrast\":3}",
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -44,13 +47,13 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c14.akstat.io",
+    "17de4c19.akstat.io",
     "c.go-mpulse.net",
     "maps.googleapis.com",
     "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c14.akstat.io/",
+    "https://17de4c19.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://maps.googleapis.com/maps-api-v3/api/js/59/8/main.js",
     "https://maps.googleapis.com/maps/api/js",
@@ -62,8 +65,8 @@
     ".faa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.009875812500000001",
-  "largest_contentful_paint": "1349.300000011921",
+  "cumulative_layout_shift": "0.06328340625000001",
+  "largest_contentful_paint": "1430.5",
   "required_links_url": [
     "foia",
     "privacy",
@@ -118,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

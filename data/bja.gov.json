@@ -20,10 +20,11 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T00:44:58.134Z",
+  "scan_date": "2025-02-16T02:12:49.286Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -44,7 +46,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-PBYSD1LVK5,G-CSLL4ZEK4L,UA-37774784-1,UA-122677529-4,G-SCJZMMH0QG",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -53,6 +55,8 @@
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "gateway.foresee.com",
     "public.govdelivery.com",
     "www.google-analytics.com",
@@ -61,24 +65,31 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/7630aa8f-b2a6-42c3-8c55-bfceb758d038",
+    "https://brain.foresee.com/state/ojp-main/66240f59-4789-4f9f-96d2-b8ed286555a9",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.feedback.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.invite.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.survey.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.utils.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/badge___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/epilogue___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/main.css",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/code/6.1.2-mp/mpathy-modern.js",
     "https://gateway.foresee.com/sites/ojp-main/production/gateway.min.js",
+    "https://gateway.foresee.com/sites/ojp-main/production/trigger/bja_logo.png",
     "https://public.govdelivery.com/accounts/USDOJOJP_COMMS/signup/29486/form",
     "https://public.govdelivery.com/assets/SignupOverlay.js",
     "https://www.google-analytics.com/analytics.js",
@@ -88,16 +99,15 @@
     "https://www.google.com/cse/static/images/1x/en/branding.png",
     "https://www.google.com/cse/static/style/look/v4/default.css",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "484.90000000596046",
+  "largest_contentful_paint": "479.6999999284744",
   "required_links_url": [
     "about",
     "foia",
@@ -176,7 +186,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 105,
-  "www_scan_status": "completed",
   "www_url": "https://bja.ojp.gov",
   "www_status_code": 200,
   "www_title": "Home | Bureau of Justice Assistance"

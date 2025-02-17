@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:01:04.445Z",
+  "scan_date": "2025-02-15T18:28:35.146Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":4,\"frames-iframes\":3,\"link-purpose\":4}",
   "ipv6": true,
   "hostname": null,
@@ -43,7 +45,7 @@
     "agency": "HHS",
     "subagency": "NIH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -53,6 +55,7 @@
     "fonts.gstatic.com",
     "nhlbi.122.2o7.net",
     "script.crazyegg.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,21 +66,22 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
-    "https://nhlbi.122.2o7.net/b/ss/nhlbiglobal/1/JS-2.25.0-LDQM/s64226752412588",
+    "https://nhlbi.122.2o7.net/b/ss/nhlbiglobal/1/JS-2.25.0-LDQM/s89369755857880",
     "https://script.crazyegg.com/pages/data-scripts/0098/3175/sampling/www.nhlbi.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0098/3175/site/www.nhlbi.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0098/3175.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nhlbi.nih.gov",
     ".nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.13280532405598958",
-  "largest_contentful_paint": "1073.9000000059605",
+  "cumulative_layout_shift": "0.13333498103841146",
+  "largest_contentful_paint": "1308.2000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -140,7 +144,6 @@
   "uswds_semantic_version": "v3.1.0",
   "uswds_version": 100,
   "uswds_count": 162,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

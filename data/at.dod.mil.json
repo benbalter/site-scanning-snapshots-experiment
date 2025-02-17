@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-09T03:29:08.741Z",
+  "scan_date": "2025-02-16T03:52:07.423Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -65,9 +68,7 @@
     "https://media.defense.gov/2022/Dec/07/2003127960/990/382/0/210122-F-PM645-6377.JPG",
     "https://media.defense.gov/2022/Dec/08/2003127951/990/382/0/221202-N-QM413-1009.JPG",
     "https://media.defense.gov/2022/Oct/31/2003106301/990/382/0/221020-N-AT895-0110.JPG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -79,7 +80,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.000133248779296875",
-  "largest_contentful_paint": "247.7999999821186",
+  "largest_contentful_paint": "235.60000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -137,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

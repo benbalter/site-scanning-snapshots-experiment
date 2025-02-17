@@ -22,10 +22,12 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:08:24.089Z",
+  "scan_date": "2025-02-16T07:50:59.072Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -47,26 +50,24 @@
     "agency": "USDA",
     "subagency": "ARS-NAL"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-QVKVRX8Q6Y,G-CSLL4ZEK4L,G-ER98FFN75C",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com",
-    "www.nal.usda.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.nal.usda.gov/csp-collector/index.php"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0010359324137369794",
-  "largest_contentful_paint": "2326.800000011921",
+  "largest_contentful_paint": "1795.6000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -126,7 +127,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 56,
-  "www_scan_status": "completed",
   "www_url": "https://www.ree.usda.gov",
   "www_status_code": 200,
   "www_title": "Welcome | USDA REE"

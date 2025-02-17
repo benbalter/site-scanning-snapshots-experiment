@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T04:48:17.716Z",
+  "scan_date": "2025-02-16T02:00:01.366Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":3}",
   "ipv6": true,
   "hostname": null,
@@ -51,8 +53,8 @@
     "odin.tradoc.army.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.416527938313802",
-  "largest_contentful_paint": "5341.9000000059605",
+  "cumulative_layout_shift": "0.12022595100911458",
+  "largest_contentful_paint": "5452.299999952316",
   "required_links_url": [
     "fear",
     "foia",
@@ -106,7 +108,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

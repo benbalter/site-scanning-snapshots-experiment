@@ -20,10 +20,11 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "oira"
+    "oira",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-09T10:58:26.350Z",
+  "scan_date": "2025-02-15T10:23:30.525Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":6}",
   "ipv6": false,
   "hostname": null,
@@ -44,27 +46,27 @@
   "dap_parameters": {
     "agency": "NCUA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-EZT0GVNQ3Q,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "d.clarity.ms",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "s.clarity.ms",
     "www.clarity.ms",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://s.clarity.ms/collect",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/kx3439in3l",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -74,7 +76,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.04283838802083333",
-  "largest_contentful_paint": "778.3000000119209",
+  "largest_contentful_paint": "1192.1000000238419",
   "required_links_url": [
     "about",
     "fear",
@@ -137,7 +139,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

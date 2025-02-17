@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:28:58.792Z",
+  "scan_date": "2025-02-15T16:42:20.604Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -59,16 +61,16 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
     "challenge-portal-dev.app.cloud.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01824609403483073",
-  "largest_contentful_paint": "271.5",
+  "cumulative_layout_shift": "0.000620240478515625",
+  "largest_contentful_paint": "330.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,
@@ -120,7 +122,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 80,
-  "www_scan_status": "completed",
   "www_url": "https://www.challenge-portal-dev.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

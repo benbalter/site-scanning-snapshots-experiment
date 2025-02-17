@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T10:06:47.744Z",
+  "scan_date": "2025-02-16T06:43:46.641Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +36,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":1,\"frames-iframes\":1,\"images\":5,\"keyboard-access\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"frames-iframes\":1,\"images\":3,\"keyboard-access\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -48,9 +51,9 @@
   "dap": true,
   "dap_parameters": {
     "agency": "GSA",
-    "_": "1739095593847"
+    "_": "1739688211542"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api-c72.niceincontact.com",
@@ -103,8 +106,8 @@
     "www.fsd.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00187321484375",
-  "largest_contentful_paint": "1674",
+  "cumulative_layout_shift": "0.028539881510416667",
+  "largest_contentful_paint": "1939.3000000715256",
   "required_links_url": [
     "about",
     "privacy",
@@ -169,7 +172,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 1167,
-  "www_scan_status": "completed",
   "www_url": "https://www.fsd.gov/gsafsd_sp",
   "www_status_code": 200,
   "www_title": "GSAFSD Service Portal Landing - GSA Federal Service Desk Service Portal"

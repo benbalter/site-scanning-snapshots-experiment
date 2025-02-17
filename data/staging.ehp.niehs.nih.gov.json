@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:06:21.064Z",
+  "scan_date": "2025-02-15T10:59:54.449Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"auto-updating\":1}",
   "ipv6": true,
   "hostname": null,
@@ -41,27 +44,28 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-Zlgpl6k,G-MwgXed7fEu4YEwV,G-eSOK,G-i724W,G-dMAfiPW,G-PQ1DfWFqm6ylWRY",
+  "ga_tag_id": "G-CXYB7SCr7DtHiKr,G-PxvozF3,G-AqZcu,G-iKbcOgZ2KoC,G-ZvRd4mYXngggZT5,G-3EkpGm,G-resBXX",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "static.cloudflareinsights.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90f203f3fae1ef34/1739084772708/b7YnduWLyjkongY",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1417861166:1739081435:KJQvc_jvb-FzysvfzpDR-kgVAPorGIb0S2NBWGnzj6Q/90f203f3fae1ef34/N0zuBW34.yI_.gy8qLjWgVhm5_q4jlIrsfkbe1jcrqA-1739084772-1.1.1.1-pPChuWeJjzSpycOB_Ayn6NnSKSB5gI7e.lH_8pBIO7lqcJPCLQVt6blRKPPDJUXf",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90f203f3fae1ef34/1739084772704/71e0a943a1ce9b502550d08018d24977f8abb40f31b4a9145f8a56ef29f2157d/Jq0Ime7WWOgHc3c",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/9124ca502c2aef38/1739617185552/Ru9ekq9AlxSSxPB",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1392794926:1739615124:kpaYLhQrVGN_FKs4xMvc-GD_HkmF1EGR6ETZtGHQUlo/9124ca502c2aef38/HEhtiOud2KwMhv8QpBspfMCLjNmNG2uDMpCFz7vqaMo-1739617185-1.1.1.1-QOltiD653B3MmtrqxrRsiL5WxtrbE8BdPBeFxmBKRD3L6pEJjNRJDMoIZi9AfLEm",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/9124ca502c2aef38/1739617185553/e44e038ae6cd2c0d44b3716042132de14fdad3ee4c7d9124aaa3bfa13ece9d26/uGL-YHrKKiGhNRw",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js",
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".ehp.niehs.nih.gov"
+    ".ehp.niehs.nih.gov",
+    ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04426490401204427",
-  "largest_contentful_paint": "123.18999999761581",
+  "cumulative_layout_shift": "0.0008993710937499999",
+  "largest_contentful_paint": "1046.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -91,7 +95,7 @@
   ],
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://staging.ehp.niehs.nih.gov/sitemap.xml",
-  "sitemap_xml_status_code": 410,
+  "sitemap_xml_status_code": 403,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
@@ -108,7 +112,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

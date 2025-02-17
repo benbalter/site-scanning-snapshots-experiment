@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-09T02:34:02.651Z",
+  "scan_date": "2025-02-16T02:53:01.993Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":5}",
   "ipv6": true,
   "hostname": null,
@@ -43,7 +46,7 @@
     "agency": "DOC",
     "subagency": "CEN"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VY5XG9XWGG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -60,7 +63,7 @@
     "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement_Module_ActivityMap.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://smetrics.census.gov/b/ss/cebulehd",
-    "cebucensusglobalprod/1/JS-2.23.0-LEWM/s4906112844888",
+    "cebucensusglobalprod/1/JS-2.23.0-LEWM/s09875436913865",
     "https://www.census.gov/main/css/all_header_styles.css",
     "https://www.census.gov/main/css/font-awesome-4.7.0/css/font-awesome.min.css",
     "https://www.census.gov/main/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
@@ -84,7 +87,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1129.0999999940395",
+  "largest_contentful_paint": "882.3000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -145,7 +148,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 58,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

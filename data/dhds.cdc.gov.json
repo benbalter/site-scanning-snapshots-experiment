@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T17:28:07.362Z",
+  "scan_date": "2025-02-15T16:34:53.913Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -51,24 +54,26 @@
     "cdc.112.2o7.net",
     "js.arcgis.com",
     "www.cdc.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s16408471680797",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s16522582786256",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s71393612927737",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s75623826772524",
     "https://js.arcgis.com/3.20/dijit/themes/tundra/tundra.css",
     "https://js.arcgis.com/3.20/esri/css/esri.css",
     "https://www.cdc.gov/TemplatePackage/contrib/libs/qrcodejs/latest/qrcode.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".cdc.gov",
     "dhds.cdc.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.05669999999999999",
-  "largest_contentful_paint": "464.5",
+  "largest_contentful_paint": "618.8999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -123,7 +128,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

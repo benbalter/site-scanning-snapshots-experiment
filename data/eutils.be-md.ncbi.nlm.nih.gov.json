@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T02:17:32.897Z",
+  "scan_date": "2025-02-15T09:48:41.347Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":4,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "sitetopic": "NCBI Pinger 0.39.3",
     "siteplatform": "NCBI Pinger 0.39.3"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-DP2X732JSX,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -57,10 +59,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/css/3411343/3882866.css",
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/css/3852956/3985586/3808861/4121862/3974050/3917732/251717/4216701/14534/45193/4113719/3849091/3984811/3751656/4033350/3840896/3577051/3852958/4008682/4207974/4206132/4062871/12930/3964959/3854974/36029/4128070/9685/3549676/3609192/3609193/3609213/3395586.css",
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/img/2375536",
@@ -79,8 +78,8 @@
     ".nlm.nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.24957927099609373",
-  "largest_contentful_paint": "1209.699999988079",
+  "cumulative_layout_shift": "0.3245251707763672",
+  "largest_contentful_paint": "1292.6000000238419",
   "required_links_url": [
     "about",
     "privacy",
@@ -155,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 68,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

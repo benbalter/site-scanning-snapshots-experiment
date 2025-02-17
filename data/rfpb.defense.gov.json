@@ -21,10 +21,13 @@
     "dap",
     "pulse",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T03:21:53.813Z",
+  "scan_date": "2025-02-16T03:33:19.261Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":8}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -54,6 +58,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,16 +68,18 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".defense.gov",
+    ".rfpb.defense.gov",
     "rfpb.defense.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08321866544596355",
-  "largest_contentful_paint": "322.7999999821186",
+  "cumulative_layout_shift": "0.000133248779296875",
+  "largest_contentful_paint": "500.39999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -131,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

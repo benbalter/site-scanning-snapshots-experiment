@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T07:19:36.250Z",
+  "scan_date": "2025-02-16T08:12:09.247Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,7 +50,7 @@
     "sp": "find",
     "yt": "false"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-NXFQE2CGMF,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -71,7 +74,6 @@
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/WebResponsiveDialogModule.js",
     "https://maps.googleapis.com/maps-api-v3/api/js/59/8/common.js",
     "https://maps.googleapis.com/maps-api-v3/api/js/59/8/controls.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/59/8/log.js",
     "https://maps.googleapis.com/maps-api-v3/api/js/59/8/main.js",
     "https://maps.googleapis.com/maps-api-v3/api/js/59/8/map.js",
     "https://maps.googleapis.com/maps-api-v3/api/js/59/8/marker.js",
@@ -80,7 +82,6 @@
     "https://maps.googleapis.com/maps-api-v3/api/js/59/8/util.js",
     "https://maps.googleapis.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
-    "https://maps.googleapis.com/maps_api_js_slo/log",
     "https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png",
     "https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3.png",
     "https://www.googletagmanager.com/gtag/js",
@@ -94,7 +95,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "2066.2000000178814",
+  "largest_contentful_paint": "2138.399999976158",
   "required_links_url": [
     "about",
     "fear",
@@ -152,7 +153,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.connector.hrsa.gov",
   "www_status_code": 502,
   "www_title": "McAfee Web Gateway - Error"

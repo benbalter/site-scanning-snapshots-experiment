@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://paw.larc.nasa.gov/?doing_wp_cron=1739082289.5013580322265625000000",
+  "url": "https://paw.larc.nasa.gov/",
   "domain": "paw.larc.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -20,10 +20,11 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-09T06:24:58.677Z",
+  "scan_date": "2025-02-15T17:16:37.106Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":34}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "agency": "NASA",
     "subagency": "LARC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -62,7 +64,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1586.7999999821186",
+  "largest_contentful_paint": "1189.2999999523163",
   "required_links_url": [
     "about",
     "fear",
@@ -116,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

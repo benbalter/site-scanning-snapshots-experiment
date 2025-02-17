@@ -22,10 +22,12 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T07:39:21.594Z",
+  "scan_date": "2025-02-16T08:30:51.077Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":27,\"link-purpose\":7}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
   "dap_parameters": {
     "agency": "DOE"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-EH4MCGYZ1H,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -62,8 +65,6 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/roboto/v47/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
     "https://fonts.gstatic.com/s/rubik/v28/iJWKBXyIfDnIV7nBrXyw023e.woff2",
     "https://maps.googleapis.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
@@ -76,8 +77,8 @@
     ".inl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.3162305496753057",
-  "largest_contentful_paint": "1164.7999999821186",
+  "cumulative_layout_shift": "0.004303884765625",
+  "largest_contentful_paint": "1180.5",
   "required_links_url": [
     "about",
     "privacy"
@@ -131,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://inl.gov",
   "www_status_code": 200,
   "www_title": "Home - Idaho National Laboratory"

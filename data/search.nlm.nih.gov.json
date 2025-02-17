@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:43:26.995Z",
+  "scan_date": "2025-02-15T10:54:50.577Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":4}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"aria\":4,\"contrast\":2}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -45,7 +47,7 @@
     "sp": "query",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.cms.gov",
@@ -57,6 +59,7 @@
     "script.crazyegg.com",
     "siteintercept.qualtrics.com",
     "use.fontawesome.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nlm.nih.gov",
     "zn57pfzwwkw4fmsup-nlmenterprise.siteintercept.qualtrics.com"
@@ -81,7 +84,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/vsearch.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/vsearch.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
@@ -89,6 +92,7 @@
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://use.fontawesome.com/releases/v5.0.10/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nlm.nih.gov/core/nlm-autocomplete/1.1/nlm-autocomplete.css",
@@ -105,14 +109,14 @@
     "https://www.nlm.nih.gov/scripts/nlm_autocomplete.js",
     "https://zn57pfzwwkw4fmsup-nlmenterprise.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".nih.gov",
     ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.20320575435384114",
-  "largest_contentful_paint": "1780.199999988079",
+  "cumulative_layout_shift": "0.17099999999999999",
+  "largest_contentful_paint": "1797.1000000238419",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -178,7 +182,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 140,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

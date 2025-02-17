@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "gov"
+    "gov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T15:21:07.255Z",
+  "scan_date": "2025-02-16T01:05:33.721Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":4,\"contrast\":1,\"images\":3}",
   "ipv6": false,
   "hostname": null,
@@ -47,7 +50,6 @@
     "kit.fontawesome.com",
     "maxcdn.bootstrapcdn.com",
     "use.fontawesome.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -58,17 +60,16 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://use.fontawesome.com/releases/v5.10.0/js/v4-shims.js",
     "https://use.fontawesome.com/releases/v6.4.2/js/all.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".americorpsoig.gov",
     "www.americorpsoig.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0009527257893880207",
-  "largest_contentful_paint": "1177.7999999821186",
+  "largest_contentful_paint": "7296.599999904633",
   "required_links_url": [
     "about",
     "foia",
@@ -107,7 +108,7 @@
   "sitemap_xml_url": "https://www.americorpsoig.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 180853,
+  "sitemap_xml_filesize": 137958,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -145,7 +146,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 144,
-  "www_scan_status": "completed",
   "www_url": "https://www.americorpsoig.gov",
   "www_status_code": 200,
   "www_title": "Home | AmeriCorps"

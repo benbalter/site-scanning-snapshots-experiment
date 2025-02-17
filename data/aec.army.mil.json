@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "gov_man"
+    "gov_man",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T01:34:33.363Z",
+  "scan_date": "2025-02-16T01:57:52.050Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1,\"user-control-name\":1,\"contrast\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -69,11 +72,13 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".army.mil"
+    ".aec.army.mil",
+    ".army.mil",
+    "aec.army.mil"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.491918916015625",
-  "largest_contentful_paint": "194",
+  "largest_contentful_paint": "350.60000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -133,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

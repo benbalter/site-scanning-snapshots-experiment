@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:05:50.725Z",
+  "scan_date": "2025-02-16T07:14:51.315Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -38,9 +40,11 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "GSA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-39076408-1,G-YF8VSCD172",
   "third_party_service_domains": [
     "kit.fontawesome.com",
@@ -65,7 +69,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -73,8 +77,8 @@
     "disposal.gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.5186731431070963",
-  "largest_contentful_paint": "1746.0999999940395",
+  "cumulative_layout_shift": "3.1835963621826173",
+  "largest_contentful_paint": "2088.2000000476837",
   "required_links_url": [
     "usa.gov"
   ],
@@ -145,7 +149,6 @@
   "uswds_semantic_version": "v2.13.2",
   "uswds_version": 100,
   "uswds_count": 175,
-  "www_scan_status": "completed",
   "www_url": "https://disposal.gsa.gov/s",
   "www_status_code": 200,
   "www_title": "U.S. GSA Real Property Disposition"

@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T09:00:36.888Z",
+  "scan_date": "2025-02-16T10:07:38.647Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -45,7 +48,7 @@
     "sdor": "fda.gov",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.llnl.gov",
@@ -62,9 +65,6 @@
     "https://analytics.llnl.gov/plugins/HeatmapSessionRecording/configs.php",
     "https://contenthub.llnl.gov/articles/791",
     "https://contenthub.llnl.gov/articles/791/3/0/none/all/0",
-    "https://contenthub.llnl.gov/sites/contenthub/files/styles/scaled_3_2_ratio_at_350x233/public/2022-07/combat-wound-recovery.jpg",
-    "https://contenthub.llnl.gov/sites/contenthub/files/styles/scaled_3_2_ratio_at_350x233/public/2022-07/tackling-covid-19.jpg",
-    "https://contenthub.llnl.gov/sites/contenthub/files/styles/scaled_3_2_ratio_at_350x233/public/news/2021-02/sos_875x500px.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://osc.llnl.gov/ping/",
@@ -83,7 +83,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "245.30000001192093",
+  "largest_contentful_paint": "373.5",
   "required_links_url": [
     "about",
     "privacy"
@@ -133,7 +133,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

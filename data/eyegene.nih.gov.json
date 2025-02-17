@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T10:45:14.320Z",
+  "scan_date": "2025-02-15T09:51:31.354Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"images\":4,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -40,48 +43,40 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HHS"
-  },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-80483366-1,G-CSLL4ZEK4L,G-9G5LJT8SZ1,G-Q6TXDL7BM8,G-4RN4XYZMC0",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "dap.digitalgov.gov",
     "fonts.googleapis.com",
-    "fonts.gstatic.com",
-    "use.fontawesome.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff",
-    "https://use.fontawesome.com/releases/v5.1.0/js/all.js",
-    "https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://fonts.googleapis.com/css2",
+    "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.9081481131998699",
-  "largest_contentful_paint": "2251.800000011921",
+  "cumulative_layout_shift": "0.10996899348958333",
+  "largest_contentful_paint": "1428.7999999523163",
   "required_links_url": [
-    "about"
+    "about",
+    "foia",
+    "privacy"
   ],
   "required_links_text": [
+    "accessibility",
+    "foia",
+    "privacy policy",
     "vulnerability disclosure"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "eyeGENE Home | eyeGENE",
+  "title": "Home | eyeGENE",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -91,10 +86,10 @@
   "og_image": null,
   "og_type": null,
   "og_url": null,
-  "canonical_link": "https://eyegene.nih.gov/node/1",
+  "canonical_link": "https://eyegene.nih.gov/home-0",
   "language": "en",
   "language_link": "",
-  "main_element_present": true,
+  "main_element_present": false,
   "robots_txt_detected": true,
   "robots_txt_url": "https://eyegene.nih.gov/robots.txt",
   "robots_txt_status_code": 200,
@@ -121,7 +116,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

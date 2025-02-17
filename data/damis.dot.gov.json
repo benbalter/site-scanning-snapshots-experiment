@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:49:49.943Z",
+  "scan_date": "2025-02-16T04:24:47.497Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"language\":1,\"images\":1}",
   "ipv6": false,
   "hostname": null,
@@ -46,11 +48,12 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".dot.gov",
     "damis.dot.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "424",
+  "largest_contentful_paint": "411.60000002384186",
   "required_links_url": [
     "privacy"
   ],
@@ -77,14 +80,14 @@
   "robots_txt_url": "https://damis.dot.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 6340,
+  "robots_txt_filesize": 6474,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,
   "sitemap_xml_url": "https://damis.dot.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": 6342,
+  "sitemap_xml_filesize": 6476,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -99,7 +102,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.damis.dot.gov/login/default.aspx",
   "www_status_code": 200,
   "www_title": "Drug & Alcohol Testing Management Information System"

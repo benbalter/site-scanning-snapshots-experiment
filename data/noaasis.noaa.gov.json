@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T10:03:43.003Z",
+  "scan_date": "2025-02-15T11:34:33.373Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -45,7 +48,7 @@
     "agency": "DOC",
     "subagency": "NOAA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-XPT18F9ZSM,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6294131.global.r2.siteimproveanalytics.io",
@@ -53,6 +56,7 @@
     "dap.digitalgov.gov",
     "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -65,15 +69,16 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/img/usa-icons/unfold_more.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/3e599a35.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "903.0999999940395",
+  "cumulative_layout_shift": "0.016738125",
+  "largest_contentful_paint": "914.3999999761581",
   "required_links_url": [
     "about",
     "foia",
@@ -140,7 +145,6 @@
   "uswds_semantic_version": "v3.3.0",
   "uswds_version": 100,
   "uswds_count": 188,
-  "www_scan_status": "completed",
   "www_url": "https://www.noaasis.noaa.gov",
   "www_status_code": 200,
   "www_title": "NOAASIS"

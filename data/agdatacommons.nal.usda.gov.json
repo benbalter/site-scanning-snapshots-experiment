@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:44:45.025Z",
+  "scan_date": "2025-02-15T15:03:17.760Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -56,18 +59,19 @@
     "https://jsprodlogin.figstatic.com/setControlCookie",
     "https://s3-eu-west-1.amazonaws.com/876az-branding-figshare/usda/background.jpg",
     "https://s3-eu-west-1.amazonaws.com/876az-branding-figshare/usda/logo_header_new.png",
-    "https://websitev3-p-eu.figstatic.com/assets-v3/462189df02228471a047ea5a2c2e743b5e5fe309/client.50689019.js",
-    "https://websitev3-p-eu.figstatic.com/assets-v3/462189df02228471a047ea5a2c2e743b5e5fe309/static/js/pages-portal-browse.9d65a2a0.chunk.js",
-    "https://websitev3-p-eu.figstatic.com/assets-v3/462189df02228471a047ea5a2c2e743b5e5fe309/static/js/vendor.99cc8cf1.chunk.js"
+    "https://websitev3-p-eu.figstatic.com/assets-v3/c9c76ef4341f7200758f1e92a588412d98274411/client.2b90a0a9.js",
+    "https://websitev3-p-eu.figstatic.com/assets-v3/c9c76ef4341f7200758f1e92a588412d98274411/static/js/pages-portal-browse.9d65a2a0.chunk.js",
+    "https://websitev3-p-eu.figstatic.com/assets-v3/c9c76ef4341f7200758f1e92a588412d98274411/static/js/vendor.7b6ea737.chunk.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".nal.usda.gov",
     ".usda.gov",
     "agdatacommons.nal.usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.26279309895833336",
-  "largest_contentful_paint": "823.9000000059605",
+  "cumulative_layout_shift": "0.5750743489583334",
+  "largest_contentful_paint": "1069.8000000715256",
   "required_links_url": [
     "foia",
     "privacy",
@@ -123,7 +127,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

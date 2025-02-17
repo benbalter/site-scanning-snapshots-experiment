@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:29:12.415Z",
+  "scan_date": "2025-02-15T11:39:55.639Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -223,7 +225,7 @@
     "https://hubcdn.arcgis.com/opendata-ui/assets/stencil-components/locales/arcgis-privacy.i18n.en.json",
     "https://hubcdn.arcgis.com/opendata-ui/assets/stencil-components/locales/arcgis-shareable-card.i18n.en.json",
     "https://translate.google.com/translate_a/element.js",
-    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
+    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.zbNBVWZ1T-s.O/am=AAg/d=1/exm=el_conf/ed=1/rs=AN8SPfrWA32OlelMufgC7-ko7d4AWUtUKw/m=el_main",
     "https://www.arcgis.com/sharing/rest/community/groups/e930299e3cde48a2a56e303fe61daa26",
     "https://www.arcgis.com/sharing/rest/content/items/0860ddaed06d42cd9b35c69766dccf67",
     "https://www.arcgis.com/sharing/rest/content/items/44b920e666014c78b1d9fae071d5e7cb/resources/Charleston%20Heat%20Map.PNG",
@@ -234,7 +236,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
+    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=gAE/d=0/rs=AN8SPfoGXBOIjDP5u9X-Fj08BKzEvbDeLg/m=el_main_css",
     "https://www.noaa.gov/media/image_download/3df6cdf2-0901-4700-a016-77b395838ee8"
   ],
   "third_party_service_count": 11,
@@ -243,7 +245,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.3525431656901042",
-  "largest_contentful_paint": "2339.899999976158",
+  "largest_contentful_paint": "2251.100000023842",
   "required_links_url": [
     "about",
     "foia",
@@ -298,7 +300,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

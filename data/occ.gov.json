@@ -25,10 +25,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T16:23:40.258Z",
+  "scan_date": "2025-02-15T12:24:39.991Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,6 +39,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -49,7 +52,7 @@
   "dap_parameters": {
     "agency": "OCC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-008DHEJFE8",
   "third_party_service_domains": [
     "50215.global.siteimproveanalytics.io",
@@ -71,7 +74,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0012/5812/sampling/occ.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0012/5812/site/occ.gov.json",
     "https://script.crazyegg.com/pages/scripts/0012/5812.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteimproveanalytics.com/js/siteanalyze_50215.js",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
@@ -86,7 +89,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.017023144531250003",
-  "largest_contentful_paint": "753.5999999940395",
+  "largest_contentful_paint": "741.1999999284744",
   "required_links_url": [
     "about",
     "fear",
@@ -168,7 +171,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 137,
-  "www_scan_status": "completed",
   "www_url": "https://www.occ.gov",
   "www_status_code": 200,
   "www_title": "Office of the Comptroller of the Currency (OCC)"

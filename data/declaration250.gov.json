@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T09:49:13.772Z",
+  "scan_date": "2025-02-16T03:32:20.169Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -43,7 +46,7 @@
   "dap_parameters": {
     "agency": "NARA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-0KHCNR6KSZ,G-6SDYN0YWGW,G-CSLL4ZEK4L,UA-182127501-1",
   "third_party_service_domains": [
     "cdn-images.mailchimp.com",
@@ -76,8 +79,8 @@
     ".declaration250.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "820.4000000059605",
+  "cumulative_layout_shift": "0.05625",
+  "largest_contentful_paint": "777.3999999761581",
   "required_links_url": [
     "about",
     "foia",
@@ -118,7 +121,7 @@
   "sitemap_xml_url": "https://www.declaration250.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 2742,
+  "sitemap_xml_filesize": 2554,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -143,7 +146,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 92,
-  "www_scan_status": "completed",
   "www_url": "https://www.declaration250.gov",
   "www_status_code": 200,
   "www_title": "Declaration250 | National Archives"

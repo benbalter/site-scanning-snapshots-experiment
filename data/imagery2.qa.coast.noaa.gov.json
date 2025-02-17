@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-08T10:13:15.558Z",
+  "scan_date": "2025-02-15T11:27:07.031Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": false,
   "hostname": null,
@@ -71,8 +74,8 @@
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0168846513671875",
-  "largest_contentful_paint": "625.6000000238419",
+  "cumulative_layout_shift": "0.04297923193359375",
+  "largest_contentful_paint": "579.6999999284744",
   "required_links_url": [
     "about",
     "privacy",
@@ -111,8 +114,8 @@
   "sitemap_xml_url": "https://imagery2.qa.coast.noaa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 64611,
-  "sitemap_xml_count": 507,
+  "sitemap_xml_filesize": 56780,
+  "sitemap_xml_count": 454,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
@@ -126,7 +129,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

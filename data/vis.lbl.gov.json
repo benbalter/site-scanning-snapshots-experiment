@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T08:38:00.511Z",
+  "scan_date": "2025-02-16T10:12:28.822Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "ssl_version_cipher_mismatch",
   "accessibility_violations": "{\"contrast\":14,\"language\":1,\"images\":3,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -85,8 +88,8 @@
     ".lbl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0150690224609375",
-  "largest_contentful_paint": "277.5",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "276.60000002384186",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -131,7 +134,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "ssl_version_cipher_mismatch",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

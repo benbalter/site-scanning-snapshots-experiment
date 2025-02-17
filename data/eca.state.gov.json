@@ -22,10 +22,12 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T12:22:59.008Z",
+  "scan_date": "2025-02-15T14:03:51.033Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"frames-iframes\":1,\"images\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -48,7 +51,7 @@
     "subagency": "ECA",
     "siteplatform": "ECA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-35799186-1,G-4RV2887B1L",
   "third_party_service_domains": [
     "analytics.google.com",
@@ -80,7 +83,7 @@
     "https://script.crazyegg.com/pages/scripts/0041/8523.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
-    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
+    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.zbNBVWZ1T-s.O/am=AAg/d=1/exm=el_conf/ed=1/rs=AN8SPfrWA32OlelMufgC7-ko7d4AWUtUKw/m=el_main",
     "https://translate.googleapis.com/translate_static/img/te_ctrl3.gif",
     "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/",
     "https://www.facebook.com/tr/",
@@ -90,10 +93,10 @@
     "https://www.google.com/images/cleardot.gif",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
+    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=gAE/d=0/rs=AN8SPfoGXBOIjDP5u9X-Fj08BKzEvbDeLg/m=el_main_css",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 16,
   "cookie_domains": [
@@ -101,8 +104,8 @@
     ".state.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.039461564208984376",
-  "largest_contentful_paint": "5627.4000000059605",
+  "cumulative_layout_shift": "0.029122064208984375",
+  "largest_contentful_paint": "3590.3000000715256",
   "required_links_url": [
     "about",
     "foia"
@@ -137,7 +140,7 @@
   "sitemap_xml_url": "https://eca.state.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 368370,
+  "sitemap_xml_filesize": 366062,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -152,7 +155,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T12:00:54.563Z",
+  "scan_date": "2025-02-15T17:00:50.950Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":37,\"frames-iframes\":1,\"images\":9,\"link-purpose\":3}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
     "subagency": "GSFC",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -61,9 +64,9 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://docs.google.com/static/spreadsheets2/client/css/3649960816-v3-ritz_chart_css_ltr.css",
-    "https://docs.google.com/static/spreadsheets2/client/js/232837651-ChartsExportJ2cl_j2cl_core.js",
+    "https://docs.google.com/static/spreadsheets2/client/js/1789436965-ChartsExportJ2cl_j2cl_core.js",
     "https://docs.google.com/static/spreadsheets2/client/js/741026208-ChartsCombinedJ2clBootstrap_bootstrap_core.js",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153900/alaskasnow_amo_20250126_front.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153933/tasmaniafires_amo_20250212_front.jpg",
     "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-55650-8/MediaObjects/41467_2024_55650_Fig1_HTML.png",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -72,8 +75,8 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1036",
+  "cumulative_layout_shift": "0.005541114583333334",
+  "largest_contentful_paint": "6321.900000095367",
   "required_links_url": [
     "about",
     "privacy"
@@ -124,7 +127,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

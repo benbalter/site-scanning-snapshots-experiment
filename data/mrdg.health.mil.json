@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-08T16:07:30.556Z",
+  "scan_date": "2025-02-16T07:20:04.884Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -48,7 +51,7 @@
     "dclink": "true"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-b9IsiQQ7kNvgEr",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -61,6 +64,7 @@
     "static.xx.fbcdn.net",
     "syndication.twitter.com",
     "www.facebook.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -94,12 +98,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://static.xx.fbcdn.net/rsrc.php/v4/y9/r/Kx-TvKAqmfX.js",
     "https://static.xx.fbcdn.net/rsrc.php/v4/yB/r/0bWEtGbW7yi.js",
+    "https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/-TQjj4cEPtX.js",
     "https://static.xx.fbcdn.net/rsrc.php/v4/yF/r/p55HfXW__mM.js",
     "https://static.xx.fbcdn.net/rsrc.php/v4/yH/r/ieeHDjcGsIR.js",
-    "https://static.xx.fbcdn.net/rsrc.php/v4/yV/r/7qUMqLqVHNu.js",
-    "https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/eK0bnzmYG5g.js",
+    "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/7YL7GCbNJyZ.js",
+    "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/YPKmBqejVR6.js",
     "https://static.xx.fbcdn.net/rsrc.php/v4iEpO4/yJ/l/en_US/nAYPeoAfUtY.js",
     "https://static.xx.fbcdn.net/rsrc.php/v4iLl54/y7/l/en_US/nJ1XUz8j1Ol.js",
     "https://static.xx.fbcdn.net/rsrc.php/v5/y9/l/0",
@@ -108,15 +112,18 @@
     "https://syndication.twitter.com/settings",
     "https://www.facebook.com/platform/plugin/page/logging/",
     "https://www.facebook.com/platform/plugin/tab/renderer/",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".health.mil"
+    ".health.mil",
+    ".mrdg.health.mil",
+    "mrdg.health.mil"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0005866038411458333",
-  "largest_contentful_paint": "431.80000001192093",
+  "largest_contentful_paint": "361.39999997615814",
   "required_links_url": [
     "about",
     "foia",
@@ -174,7 +181,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

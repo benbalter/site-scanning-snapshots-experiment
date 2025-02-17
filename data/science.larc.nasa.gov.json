@@ -20,10 +20,11 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:09:08.135Z",
+  "scan_date": "2025-02-15T17:30:27.095Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "agency": "NASA",
     "subagency": "LARC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
@@ -74,13 +76,12 @@
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
-    ".larc.nasa.gov",
     ".nasa.gov",
     "science.larc.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.002644921875",
-  "largest_contentful_paint": "4572.799999982119",
+  "largest_contentful_paint": "3706.100000023842",
   "required_links_url": [
     "about",
     "fear",
@@ -110,7 +111,7 @@
   "language_link": "",
   "main_element_present": true,
   "robots_txt_detected": true,
-  "robots_txt_url": "https://science.larc.nasa.gov/robots.txt?doing_wp_cron=1739092141.7885088920593261718750",
+  "robots_txt_url": "https://science.larc.nasa.gov/robots.txt?doing_wp_cron=1739640620.9814519882202148437500",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
   "robots_txt_filesize": 122,
@@ -166,7 +167,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 58,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

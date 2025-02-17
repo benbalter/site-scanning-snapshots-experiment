@@ -23,10 +23,11 @@
     "omb_idea",
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-09T01:37:28.222Z",
+  "scan_date": "2025-02-16T04:04:08.222Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -48,8 +50,8 @@
     "agency": "DOC",
     "subagency": "NTIA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-H50FXLW992,G-55V70TEFYT,G-CSLL4ZEK4L",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-H50FXLW992,G-CSLL4ZEK4L,G-55V70TEFYT",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "kit.fontawesome.com",
@@ -60,12 +62,13 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://kit.fontawesome.com/6d2637ae52.js",
+    "https://kit.fontawesome.com/9d57af9057.js",
     "https://use.fontawesome.com/releases/v5.13.1/css/all.css",
     "https://use.fontawesome.com/releases/v5.13.1/js/all.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
@@ -73,8 +76,8 @@
     ".ntia.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.26207621919759116",
-  "largest_contentful_paint": "323.90000000596046",
+  "cumulative_layout_shift": "0.22958333333333333",
+  "largest_contentful_paint": "929.1999999284744",
   "required_links_url": [
     "about",
     "privacy",
@@ -114,7 +117,7 @@
   "sitemap_xml_url": "https://www.ntia.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 1244044,
+  "sitemap_xml_filesize": 1244018,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -137,12 +140,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 70,
-  "uswds_string": 35,
+  "uswds_string": 36,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 145,
-  "www_scan_status": "completed",
+  "uswds_count": 146,
   "www_url": "https://www.ntia.doc.gov",
   "www_status_code": 200,
   "www_title": "Home Page | National Telecommunications and Information Administration"

@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "2020_eot",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:39:02.932Z",
+  "scan_date": "2025-02-16T10:29:24.700Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -49,7 +52,7 @@
     "sp": "query",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4,G-CSLL4ZEK4L,UA-77373749-2",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -67,10 +70,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/medlineplus.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/plugins/ua/linkid.js",
@@ -88,8 +88,8 @@
     "medlineplus.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0011712677815755208",
-  "largest_contentful_paint": "97.40000000596046",
+  "cumulative_layout_shift": "0.0004711925862630209",
+  "largest_contentful_paint": "107.20000004768372",
   "required_links_url": [
     "about",
     "foia",
@@ -150,7 +150,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 69,
-  "www_scan_status": "completed",
   "www_url": "https://www.medlineplus.gov",
   "www_status_code": 200,
   "www_title": "MedlinePlus - Health Information from the National Library of Medicine"

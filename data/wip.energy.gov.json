@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T04:05:35.212Z",
+  "scan_date": "2025-02-16T05:12:49.483Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": null,
@@ -45,25 +47,18 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "csp.withgoogle.com",
-    "d.clarity.ms",
-    "fonts.gstatic.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
+    "s.clarity.ms",
     "ssl.google-analytics.com",
     "use.fontawesome.com",
     "www.clarity.ms",
     "www.google-analytics.com",
-    "www.google.com",
-    "www.googletagmanager.com",
-    "www.gstatic.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
-    "https://d.clarity.ms/collect",
-    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v5-font-face.min.css",
@@ -71,27 +66,23 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-brands-400-0.woff2",
     "https://kit.fontawesome.com/24bc2d8eeb.js",
     "https://kit.fontawesome.com/24bc2d8eeb/82662355/kit-upload.css",
+    "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google.com/recaptcha/api.js",
-    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".energy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0001747596028645833",
-  "largest_contentful_paint": "1118",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "1059.3999999761581",
   "required_links_url": [
     "about",
     "inspector",
@@ -166,7 +157,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 121,
-  "www_scan_status": "completed",
   "www_url": "https://www.energy.gov/scep/office-state-and-community-energy-programs",
   "www_status_code": 200,
   "www_title": "Office of State and Community Energy Programs | Department of Energy"

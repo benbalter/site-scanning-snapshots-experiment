@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T05:51:34.638Z",
+  "scan_date": "2025-02-16T06:37:53.199Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "timeout",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -43,12 +46,13 @@
   "dap_parameters": {
     "agency": "FTC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-GWC5V51YNF",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "dc.services.visualstudio.com",
     "eex-gateway.fr011.ttecfed.com",
+    "js.monitor.azure.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -66,17 +70,18 @@
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/ftc-gov/staging/gateway.min.js",
+    "https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".ftc.gov",
     "reportfraud.ftc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07059671126302083",
-  "largest_contentful_paint": "1046.5999999940395",
+  "cumulative_layout_shift": "0.05340323181152343",
+  "largest_contentful_paint": "1046.5",
   "required_links_url": [
     "privacy"
   ],
@@ -111,7 +116,7 @@
   "sitemap_xml_url": "https://reportfraud.ftc.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "unknown",
-  "sitemap_xml_filesize": 5415,
+  "sitemap_xml_filesize": 5398,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -126,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://reportfraud.ftc.gov",
   "www_status_code": 200,
   "www_title": "ReportFraud.ftc.gov"

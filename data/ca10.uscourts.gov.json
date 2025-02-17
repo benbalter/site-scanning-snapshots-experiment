@@ -18,10 +18,11 @@
   "branch": "Judicial",
   "404_test": true,
   "source_list": [
-    "uscourts"
+    "uscourts",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T14:58:06.335Z",
+  "scan_date": "2025-02-15T18:07:55.103Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":4,\"images\":6}",
   "ipv6": false,
   "hostname": null,
@@ -51,6 +53,7 @@
     "b.tile.openstreetmap.org",
     "c.tile.openstreetmap.org",
     "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
     "code.jquery.com",
     "files.alive5.com",
     "fonts.googleapis.com",
@@ -61,16 +64,24 @@
   "third_party_service_urls": [
     "https://a.tile.openstreetmap.org/17/27309/49740.png",
     "https://a.tile.openstreetmap.org/17/27310/49739.png",
+    "https://alive5.com/css/chat.bundle.css",
     "https://alive5.com/css/widget.bundle.css",
     "https://alive5.com/icons.html",
+    "https://alive5.com/img/loader.gif",
     "https://alive5.com/js/a5app.js",
+    "https://alive5.com/js/chat.bundle.js",
     "https://alive5.com/js/widget-min.js",
+    "https://api-v2.alive5.com/1.0/thread/get-threads-byId",
     "https://api-v2.alive5.com/1.0/widget-code/get-by-widget-id",
     "https://b.tile.openstreetmap.org/17/27310/49740.png",
     "https://c.tile.openstreetmap.org/17/27309/49739.png",
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/chocolat/1.0.4/js/chocolat.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.2/socket.io.js",
     "https://code.jquery.com/jquery-3.7.0.js",
+    "https://files.alive5.com/images/widgets/upload/ashfaqtest-wicon1544204526155.png",
     "https://files.alive5.com/images/widgets/upload/design1-1627410274493.png",
+    "https://files.alive5.com/images/widgets/upload/tenthcircuitcoa-wicon1661541904931.png",
     "https://fonts.googleapis.com/css",
     "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js",
     "https://www.google-analytics.com/analytics.js",
@@ -78,15 +89,15 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".ca10.uscourts.gov",
     ".uscourts.gov",
     "ca10.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.029147135416666668",
-  "largest_contentful_paint": "481.7999999821186",
+  "cumulative_layout_shift": "0.6836393229166667",
+  "largest_contentful_paint": "480.2000000476837",
   "required_links_url": [
     "privacy"
   ],
@@ -135,7 +146,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.ca10.uscourts.gov",
   "www_status_code": 200,
   "www_title": "Tenth Circuit | The United States Court of Appeals"

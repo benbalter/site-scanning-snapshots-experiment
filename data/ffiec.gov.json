@@ -23,10 +23,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T05:30:14.100Z",
+  "scan_date": "2025-02-16T01:53:44.958Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,6 +37,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":9,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,17 +49,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-TT6etZgb9,G-r81WpPXD,G-hG1btCmDIy,G-JwMMyjG94Dyo2GI",
+  "ga_tag_id": "G-KFkdAO9Z3qNKq,G-HFKlVCNRZqKPWTn,G-OCBdDUXqpPTCnBo,G-LlnYeLN3DC9UBnB,G-GWJkhknOltkFq,G-ICGvOBXB",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90f1771c1d242f31/1739079003771/Kz3C2YBlq-LrZn0",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/363339539:1739077962:NuVJ_jEtuvm7BYmfItJ_uy32BB3Ie3fPxXoFbVdfHng/90f1771c1d242f31/8Mk4gIDAs2aT0Olsd7OoN9KGUSmS575XfIM9hrJneHM-1739079003-1.1.1.1-QwzxT_Ez_UFL98hTwy3P6mTfLSY5BLljVNef0XVS2VWW3NxRrobcjJGfQoh5b3vU",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90f1771c1d242f31/1739079003772/dc83c2e5613ae907ee4a100f2556f1d790a8206ebca83fecbd0120717ee66a9b/quybsiz5XQ1yTuu",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/9129e79aafe8ef63/1739670814114/ohjVFOQrY-DWLPT",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1839340854:1739669200:ShFn6984Gf4EzLptFHDQo9Wfo5rF3JOF2BEjagY374A/9129e79aafe8ef63/hKH9XJD1OuMJuNnpiQC9YrIid8F2.BL_pzc0lJUPG2M-1739670813-1.1.1.1-z9yPQRppBco2geCMqs0X7ucUBpAayk1KVknjM8Xvh_PsUK62LWoh031fI3Qwy4d3",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/9129e79aafe8ef63/1739670814112/c357593c1110902d38e81428beff2af3105528270ef87e6e53b7c3e2323f3f5f/kHcnYfD3Z602bWt",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -65,7 +68,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.006061048461914064",
-  "largest_contentful_paint": "87.35999998450279",
+  "largest_contentful_paint": "95.90000009536743",
   "required_links_url": [
     "about",
     "foia",
@@ -117,7 +120,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.ffiec.gov",
   "www_status_code": 403,
   "www_title": "Just a moment..."

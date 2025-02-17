@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T08:09:31.476Z",
+  "scan_date": "2025-02-16T09:38:47.857Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":4,\"language\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -51,7 +54,7 @@
   ],
   "third_party_service_urls": [
     "https://edge.quantserve.com/quant.js",
-    "https://pixel.quantserve.com/pixel;r=639048046;rf=0;a=p-cbQmBHFpf2Ukg;url=https%3A%2F%2Fenews.lbl.gov%2F;ns=0;ce=1;qjs=1;qv=53b98956-20250121164344;ref=;dst=0;et=1739088564713;tzo=0;ogl=;ses=62c20553-af89-4272-ac29-1ed8311ca302;d=lbl.gov;uht=2;fpan=0;fpa=P0-1291287409-1739088562651;pbc=;gdpr=0;mdl=",
+    "https://pixel.quantserve.com/pixel;r=345623678;rf=0;a=p-cbQmBHFpf2Ukg;url=https%3A%2F%2Fenews.lbl.gov%2F;ns=0;ce=1;qjs=1;qv=53b98956-20250121164344;ref=;dst=0;et=1739698721112;tzo=0;ogl=;ses=0801629b-3873-4b98-9c22-a3aa279ca5eb;d=lbl.gov;uht=2;fpan=0;fpa=P0-2109404074-1739698718996;pbc=;gdpr=0;mdl=",
     "https://rules.quantcount.com/rules-p-cbQmBHFpf2Ukg.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
@@ -66,7 +69,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "157.7000000178814",
+  "largest_contentful_paint": "146.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -111,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

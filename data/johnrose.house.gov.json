@@ -18,10 +18,12 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:08:47.931Z",
+  "scan_date": "2025-02-15T18:41:06.340Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":3,\"contrast\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -65,13 +68,10 @@
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/TN-6/shape.kml",
-    "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1881353098473443328/pu/img/aAvfKM40ZgXtu94E.jpg",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://pbs.twimg.com/ext_tw_video_thumb/1882481584772657152/pu/img/AhrRBx3mOqKZLKFU.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1887312934172295168/pu/img/gnoWCTkkmN1YWkP5.jpg",
     "https://pbs.twimg.com/media/Gh3hp4xWUAIo2z5",
-    "https://pbs.twimg.com/media/GhS3ut3W0AAdpX3",
-    "https://pbs.twimg.com/media/Ghbi1C8WwAASv69",
     "https://pbs.twimg.com/media/GhwItjZXkAAaWNw",
     "https://pbs.twimg.com/media/GhwOcWHW0AAUpSG",
     "https://pbs.twimg.com/media/GhwOcWJWAAExp7z",
@@ -82,6 +82,13 @@
     "https://pbs.twimg.com/media/GiVg-JIXAAAxdUx",
     "https://pbs.twimg.com/media/Gifd5-ZXIAAKeEy",
     "https://pbs.twimg.com/media/Gifd5-ZXYAAus1H",
+    "https://pbs.twimg.com/media/GjXX-qcXgAAKAGq",
+    "https://pbs.twimg.com/media/GjXX453WEAAy5MT",
+    "https://pbs.twimg.com/media/GjXX457XMAATPLh",
+    "https://pbs.twimg.com/media/GjhCcVqWMAArWGr",
+    "https://pbs.twimg.com/media/GjrRrDuXEAAIx3m",
+    "https://pbs.twimg.com/media/GjsA6RUW8AAqse_",
+    "https://pbs.twimg.com/media/GjsA6RUXYAAJE9i",
     "https://pbs.twimg.com/profile_images/1703773173395673088/vOoF6YKk_mini.jpg",
     "https://pbs.twimg.com/profile_images/1703773173395673088/vOoF6YKk_normal.jpg",
     "https://pbs.twimg.com/profile_images/1737214958742409216/0-9w4u3D_mini.jpg",
@@ -116,8 +123,7 @@
     "https://syndication.twitter.com/i/jot",
     "https://syndication.twitter.com/settings",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -125,8 +131,8 @@
     ".johnrose.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.09419822916666666",
-  "largest_contentful_paint": "231.09999999403954",
+  "cumulative_layout_shift": "0.09431438541666666",
+  "largest_contentful_paint": "359.59999990463257",
   "required_links_url": [
     "about",
     "privacy"
@@ -176,7 +182,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

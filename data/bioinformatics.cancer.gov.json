@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T01:46:41.865Z",
+  "scan_date": "2025-02-16T11:26:39.389Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":3,\"link-purpose\":4}",
   "ipv6": true,
   "hostname": null,
@@ -43,7 +45,7 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-J4K7FDBJKS,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -59,7 +61,7 @@
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s46695597660042",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s37698096797336",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -70,7 +72,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "847.4000000059605",
+  "largest_contentful_paint": "835.2999999523163",
   "required_links_url": [
     "foia",
     "usa.gov"
@@ -123,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

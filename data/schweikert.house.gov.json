@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:17:15.908Z",
+  "scan_date": "2025-02-15T18:42:45.713Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -41,21 +45,18 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-2025",
   "third_party_service_domains": [
     "admin-schweikert.house.gov",
-    "csp.withgoogle.com",
     "fonts.googleapis.com",
     "iqconnect.house.gov",
     "p.typekit.net",
     "use.typekit.net",
     "www.google.com",
-    "www.gstatic.com",
-    "www.jec.senate.gov"
+    "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://admin-schweikert.house.gov/wp-admin/admin-ajax.php",
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.googleapis.com/css",
     "https://iqconnect.house.gov/IQEXTRANET/WebResource.axd",
     "https://iqconnect.house.gov/iqextranet/css/eFormStyles.css",
@@ -72,17 +73,16 @@
     "https://use.typekit.net/af/4a8a65/000000000000000077359e9c/30/l",
     "https://use.typekit.net/xhr8hgv.css",
     "https://www.google.com/recaptcha/api.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.jec.senate.gov/apology_objects/senatelogo.jpg"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".house.gov",
     "schweikert.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0975448388671875",
-  "largest_contentful_paint": "402.69999998807907",
+  "cumulative_layout_shift": "0.09608515893554687",
+  "largest_contentful_paint": "485.7999999523163",
   "required_links_url": [
     "about",
     "privacy"
@@ -134,7 +134,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

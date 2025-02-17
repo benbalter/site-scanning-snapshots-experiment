@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-09T02:42:33.251Z",
+  "scan_date": "2025-02-16T03:14:16.566Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":2}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -42,8 +45,8 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-2SEC4V3SK9,UA-32633028-2,G-X6JSLPJCWP,G-CSLL4ZEK4L,UA-32633028-1",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-2,G-X6JSLPJCWP,UA-32633028-1",
   "third_party_service_domains": [
     "38950.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
@@ -77,7 +80,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/mywaterway-prod.app.cloud.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/mywaterway-prod.app.cloud.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteimproveanalytics.com/js/siteanalyze_38950.js",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
     "https://use.fontawesome.com/releases/v5.7.0/css/all.css",
@@ -96,7 +99,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.7835263583170572",
-  "largest_contentful_paint": "915.5",
+  "largest_contentful_paint": "825.3000000715256",
   "required_links_url": [
     "about",
     "foia",
@@ -163,7 +166,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 49,
-  "www_scan_status": "completed",
   "www_url": "https://www.mywaterway-prod.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

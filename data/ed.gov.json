@@ -25,10 +25,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:20:10.279Z",
+  "scan_date": "2025-02-16T04:46:42.649Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,7 +39,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"user-control-name\":1,\"images\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -52,7 +55,7 @@
     "cto": "6",
     "subagency": "OCO"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-TTBYENS3X0,G-kmvjb,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -69,7 +72,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0004711925862630209",
-  "largest_contentful_paint": "547.8000000119209",
+  "largest_contentful_paint": "539.7999999523163",
   "required_links_url": [
     "about",
     "fear",
@@ -116,7 +119,7 @@
   "sitemap_xml_url": "https://www.ed.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 1426799,
+  "sitemap_xml_filesize": 1462975,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -150,7 +153,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 116,
-  "www_scan_status": "completed",
   "www_url": "https://www.ed.gov",
   "www_status_code": 200,
   "www_title": "Home | U.S. Department of Education"

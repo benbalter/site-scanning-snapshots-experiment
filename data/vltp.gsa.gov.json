@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-08T16:05:56.817Z",
+  "scan_date": "2025-02-16T07:21:55.029Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1}",
   "ipv6": false,
   "hostname": null,
@@ -52,11 +55,12 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".gsa.gov",
     "vltp.gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05446251216634115",
-  "largest_contentful_paint": "524.4000000059605",
+  "cumulative_layout_shift": "0.05398033508300781",
+  "largest_contentful_paint": "664.6000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -120,7 +124,6 @@
   "uswds_semantic_version": "v2.13.1",
   "uswds_version": 100,
   "uswds_count": 186,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

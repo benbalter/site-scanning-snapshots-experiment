@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:22:08.322Z",
+  "scan_date": "2025-02-15T16:01:17.760Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,8 +49,8 @@
     "ver": "true",
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-iTFQk,G-6YZ3QzVyMj,G-Ko6cW,G-vva6w,G-ugGCO61QBtOoeP7,G-utXTYGtwSIOve2y",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -70,13 +72,12 @@
     "yt3.ggpht.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90ec9caabd0b2f2a/1739028113358/lT02kU5SsMx7wY-",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1571859486:1739024256:wy_svw564_MfOEDNj_HZv69Lhe5pc0oI674UQM8ChPM/90ec9caabd0b2f2a/MZzL3iJviec92t7IqAyKGzEJSdVzifPr4SvnOXJgFnk-1739028113-1.1.1.1-Trk_KeTcwfRy2jOKPJTYu9HvfPLTtCl6WNElW_JVXy19OWhYtEFZIkJ3qyWSIG1r",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90ec9caabd0b2f2a/1739028113357/5ac86936a3ae875a8b12e920d9f77c9ad3b3c2ab699496f3af13c0a7d5fe5d32/RMAU4XkeRN8udKv",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/912683762d095ec6/1739635255022/IEvT0AkE0WLQPnt",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1536159927:1739633181:ZNQSv4VymJ64T9vtzE7yj7oy61U3_QnIYuma7vPCC4s/912683762d095ec6/DYKr7_KxI55_cHOfK2oHY0AruXq_2v3Kzj9lXlliqWA-1739635254-1.1.1.1-ApskZ3k_x2mRPNwmpO4zTAkmHJVFpNUQEp1fQ.dvBmemys04feCfjPodGus52noK",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
@@ -96,15 +97,15 @@
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js",
-    "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
+    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://www.youtube.com/youtubei/v1/log_event",
     "https://yt3.ggpht.com/UB5DFBq3JsXEcZtQ6llWCFpQQAwzrcPr-8ZRHKd-gdIxl3EwwizSQPgv1iqVBDT_q_NtiKvndA=s68-c-k-c0x00ffffff-no-rj"
   ],
@@ -113,8 +114,8 @@
     ".va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.013345078125000001",
-  "largest_contentful_paint": "974.8000000119209",
+  "cumulative_layout_shift": "0.4737180922851563",
+  "largest_contentful_paint": "797.7000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -177,7 +178,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 129,
-  "www_scan_status": "completed",
   "www_url": "https://department.va.gov/integrated-service-networks/visn-19",
   "www_status_code": 200,
   "www_title": "VISN 19 - Veterans Integrated Service Networks"

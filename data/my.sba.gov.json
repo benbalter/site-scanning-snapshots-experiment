@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T12:59:35.063Z",
+  "scan_date": "2025-02-15T15:26:41.482Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -38,24 +41,28 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "SBA",
+    "id": "_fed_an_ua_tag"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ZLDZFYMNJN",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
-    ".sba.gov",
     "my.sba.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.3618068201904297",
-  "largest_contentful_paint": "1809.9000000059605",
+  "cumulative_layout_shift": "0.3302980311279297",
+  "largest_contentful_paint": "1873.7000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -82,7 +89,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.sba.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oausa1ti3BjyB2GG0j6&redirect_uri=https%3A%2F%2Fmy.sba.gov%2Fservices%2Fauthcallback%2FOkta&scope=openid+email+profile&state=CAAAAZTlso4mMDAwMDAwMDAwMDAwMDAwAAAA_OfCKtt2rQ3MJBb9EQDhpF7i5UQ7ZCfk89dX50H67HHKqAkVYAL6GS6Q_YcM-TQQqZD5SwXYO0Lwx3gAod9of53GDbF5Dd0jVUvpD00Sbo-OavQN3DAdFBIvBmht2iSACwd4IaR_n9IiHcC6Zp3CyNVrZNmAEqo3qXHe87kwVVeuP3-GhCTGvGVMJC9gN3Oe-8eFTIOqqJpuCKnHedxDBBqOLhvlAlXRuR4qKVe1tP3_JlVT_VeGMB1ZcRWmhc29WvVbka4Auy41ErdB_OQlSjXASN22fEjJTpjnQxyp19zXJRCSWh1OpET8mmaVHQHJHw%3D%3D&code_challenge=s-QxtCsw6yMzs0-z9iNyzuwM3eC-GqiEl7OqcDPoTGU&code_challenge_method=S256",
+  "sitemap_xml_url": "https://login.sba.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oausa1ti3BjyB2GG0j6&redirect_uri=https%3A%2F%2Fmy.sba.gov%2Fservices%2Fauthcallback%2FOkta&scope=openid+email+profile&state=CAAAAZUKRcA6MDAwMDAwMDAwMDAwMDAwAAAA_F_l2jotp4xKQ8dbb6AWX0Uv3MWgTFhupllthyUXKqcMnMaLtRnUTm3YGxKCHsQRZ9NCIPcObA4daXSBjksU3TqFErGEjGGKRFBUb-fL27UMzA8jkjSoscMlbp_jNOcuYgutGBRJEFraOG08-rK8LaOaVF6psjtamJcCdOL-gOcvSP00pX26VJHpW-kCmpavmWaSvK-XpzCia0BBuPqbMxmk-yjFYMYkOI2eAa2DxZHMESnDBS28z3QguxeyvY83R1vsqym9p5O2C6zbbQNgtSZRWdFsqY7wDwYlrI1sYb-QJa_WoOXE1b_WVEEQ-_GdAg%3D%3D&code_challenge=LPL6ZOcpv_y9UNuZP5PQqxRK5EnfIzmH8tPGywBUNf0&code_challenge_method=S256",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
@@ -103,7 +110,6 @@
   "uswds_semantic_version": "v2.13.2",
   "uswds_version": 100,
   "uswds_count": 140,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

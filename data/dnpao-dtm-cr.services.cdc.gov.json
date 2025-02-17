@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:44:39.012Z",
+  "scan_date": "2025-02-16T02:45:05.478Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -46,8 +49,8 @@
     "cdc.112.2o7.net"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s52856272804128",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s58759452597893"
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s08071537159231",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s0933999103395"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -55,8 +58,8 @@
     "dnpao-dtm-cr.services.cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.19335199877929687",
-  "largest_contentful_paint": "492.59999999403954",
+  "cumulative_layout_shift": "0.2699043933105469",
+  "largest_contentful_paint": "165.10000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -111,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

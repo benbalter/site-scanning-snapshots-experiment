@@ -20,10 +20,12 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T08:04:49.677Z",
+  "scan_date": "2025-02-16T09:29:46.914Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"frames-iframes\":1,\"images\":6,\"link-purpose\":3}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -43,17 +46,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-tADbOe4VJNWqstX,G-v2pILFwuteST0Tf,G-1AM3rTeWvDEdeY5,G-sgN9se",
+  "ga_tag_id": "G-CwIeijwLhC4Ta3l,G-J1nmGkG5GmGcGps,G-NHeCvfGYIssWTUF,G-eN9IvJ4FNnm1Tqn,G-gY2enMJnAz,G-iU2PF5yVUCrj0tG",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90f259a14afdef20/1739088282020/YWiiYW0I-m4gnU1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1097528456:1739085296:30VTjcztCwvsiM4-WTVKII7uFlcEAL_93f0IMebJ6sI/90f259a14afdef20/WJiYSOy9K4OokYTkwi4eDb3zdxCW9p9xnq3so6bELJM-1739088281-1.1.1.1-fKxsvTym9ocUGAFNa5wYw1B1FOPawfuhhG6srUL7_0MHrp9uoQt5Ons_WFn56tC3",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90f259a14afdef20/1739088282027/d30f03cb91801b6938ad218687923733eb955dd21f0de8a9e84e700d203f2a89/eNw82HZEZdmt6EB",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/912c83af1b86ff1a/1739698178644/6pfD6XTDFlvz6hN",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/2115574678:1739694279:if0L6hYJZ-CNwZC_v7QK8x_Yc60kPVuagUiNtoGncDo/912c83af1b86ff1a/TZTFNaWARrJuTEYDzNMCzZN57rjKDfw1HMhNNG1yoEY-1739698178-1.1.1.1-B8340HR2FcRCRcNrYZB1q9igSj00lquvaOBUYw2U8PS8OwuaQYklOcf_0i.qmZKF",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/912c83af1b86ff1a/1739698178651/1f42d3056c7494469df440011321f376ced2c8f5c8873ec155ddf5dbf1d1aa4d/SCPyckyIS_OMZtV",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -63,7 +66,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.04422601497395833",
-  "largest_contentful_paint": "104.09500002861023",
+  "largest_contentful_paint": "92.20499992370605",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,
@@ -108,7 +111,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

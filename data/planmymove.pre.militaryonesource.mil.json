@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T06:12:29.792Z",
+  "scan_date": "2025-02-16T10:27:59.413Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -44,7 +46,7 @@
   "dap_parameters": {
     "agency": "DOD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-Q5K35890X7,UA-29536396-1,G-XTTKJD1ENC,UA-29536396-4",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -77,7 +79,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.03541523437499999",
-  "largest_contentful_paint": "476.90000000596046",
+  "largest_contentful_paint": "551.6000000238419",
   "required_links_url": [
     "about",
     "fear",
@@ -136,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

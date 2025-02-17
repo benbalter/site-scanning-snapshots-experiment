@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-08T12:15:46.523Z",
+  "scan_date": "2025-02-15T11:25:12.174Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -50,7 +53,7 @@
     "dclink": "true",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-Q35254E0C3,G-CSLL4ZEK4L,UA-44924221-7",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -70,15 +73,15 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.02359636897786458",
-  "largest_contentful_paint": "751.1999999880791",
+  "cumulative_layout_shift": "0.0983570047200521",
+  "largest_contentful_paint": "997.2999999523163",
   "required_links_url": [
     "foia",
     "privacy",
@@ -136,7 +139,6 @@
   "uswds_semantic_version": "v3.10.0",
   "uswds_version": 100,
   "uswds_count": 172,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

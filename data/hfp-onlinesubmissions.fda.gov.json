@@ -5,7 +5,7 @@
   "initial_base_domain": "fda.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://hfp-onlinesubmissions.fda.gov/farmonline/#/login",
+  "url": "https://hfp-onlinesubmissions.fda.gov/",
   "domain": "hfp-onlinesubmissions.fda.gov",
   "base_domain": "fda.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T05:09:43.574Z",
+  "scan_date": "2025-02-16T05:55:19.676Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":2,\"images\":2}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"language\":1,\"images\":4}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -38,42 +41,22 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HHS",
-    "subagency": "FDA"
-  },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-EQDFRP3JEX,G-CSLL4ZEK4L",
-  "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "fonts.gstatic.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
-  ],
-  "third_party_service_count": 4,
-  "cookie_domains": [
-    ".fda.gov"
-  ],
-  "viewport_meta_tag": true,
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
+  "cookie_domains": null,
+  "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.04561049739583333",
-  "largest_contentful_paint": "641.7000000178814",
-  "required_links_url": [
-    "about"
-  ],
-  "required_links_text": [
-    "privacy policy",
-    "vulnerability disclosure"
-  ],
+  "largest_contentful_paint": "649.1000000238419",
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Online Submission",
+  "title": "Oracle HTTP Server 12c",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -84,7 +67,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": null,
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -113,7 +96,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

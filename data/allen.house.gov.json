@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:02:23.712Z",
+  "scan_date": "2025-02-15T18:27:54.899Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":4,\"lists\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -60,18 +64,16 @@
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://maps.googleapis.com/maps/api/staticmap",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.instagram.com/accounts/login/",
     "https://www.instagram.com/embed.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
     ".allen.house.gov",
-    ".house.gov",
-    "allen.house.gov"
+    ".house.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0006798763020833333",
-  "largest_contentful_paint": "296.90000000596046",
+  "largest_contentful_paint": "243.10000002384186",
   "required_links_url": [
     "about"
   ],
@@ -118,7 +120,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://allen.house.gov",
   "www_status_code": 200,
   "www_title": "U.S. Representative Rick W. Allen"

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T03:51:05.322Z",
+  "scan_date": "2025-02-16T04:33:48.697Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":8,\"link-purpose\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "DOT"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-CSLL4ZEK4L,G-NQ5ZN114SB,G-326294125,G-5VLYKQRXY5,G-0623JYSC1Q",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -76,7 +78,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0005457173665364583",
-  "largest_contentful_paint": "572.2999999821186",
+  "largest_contentful_paint": "311.89999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -150,7 +152,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

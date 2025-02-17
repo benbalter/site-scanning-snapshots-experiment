@@ -18,18 +18,22 @@
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "senate_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:23:30.546Z",
+  "scan_date": "2025-02-15T13:44:22.392Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
@@ -65,7 +69,7 @@
     "https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tLR8a8zI.woff2",
     "https://s.webtrends.com/js/advancedLinkTracking.js",
     "https://s.webtrends.com/js/webtrends.min.js",
-    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s07055018517196",
+    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s68592502681152",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
     "https://statse.webtrendslive.com/dcs222wps1pr86ebcnbhyb7np_5f3y/wtid.js",
@@ -79,7 +83,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00133875",
-  "largest_contentful_paint": "263.80000001192093",
+  "largest_contentful_paint": "588.5999999046326",
   "required_links_url": [
     "about"
   ],
@@ -126,7 +130,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.fischer.senate.gov/public",
   "www_status_code": 200,
   "www_title": "United States Senator Deb Fischer for Nebraska"

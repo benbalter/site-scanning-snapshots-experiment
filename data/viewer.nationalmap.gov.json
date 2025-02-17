@@ -1,5 +1,5 @@
 {
-  "name": "viewer.nationalmap.gov",
+  "name": null,
   "initial_url": "https://viewer.nationalmap.gov",
   "initial_domain": "viewer.nationalmap.gov",
   "initial_base_domain": "nationalmap.gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T10:37:29.725Z",
+  "scan_date": "2025-02-15T09:51:47.541Z",
   "primary_scan_status": "ssl_version_cipher_mismatch",
   "accessibility_scan_status": "ssl_version_cipher_mismatch",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "ssl_version_cipher_mismatch",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "ssl_version_cipher_mismatch",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -40,14 +42,12 @@
   "search_dot_gov": null,
   "dap": null,
   "dap_parameters": null,
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap_version": null,
+  "ga_tag_id": null,
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": [
-    ".nationalmap.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": null,
   "cumulative_layout_shift": null,
   "largest_contentful_paint": null,
@@ -55,7 +55,7 @@
   "required_links_text": null,
   "https_enforced": false,
   "hsts": true,
-  "title": "ERROR: The request could not be satisfied",
+  "title": null,
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -95,7 +95,6 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

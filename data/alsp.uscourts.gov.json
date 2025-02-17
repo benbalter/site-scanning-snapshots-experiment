@@ -18,10 +18,11 @@
   "branch": "Judicial",
   "404_test": true,
   "source_list": [
-    "uscourts"
+    "uscourts",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:28:17.139Z",
+  "scan_date": "2025-02-15T14:47:15.170Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":1,\"language\":1,\"images\":1}",
   "ipv6": false,
   "hostname": null,
@@ -49,12 +51,10 @@
     "http://fonts.googleapis.com/css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".uscourts.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.0182105",
-  "largest_contentful_paint": "836.0999999940395",
+  "largest_contentful_paint": "931.1999999284744",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,
@@ -99,7 +99,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.alsp.uscourts.gov",
   "www_status_code": 200,
   "www_title": "Southern District of Alabama | United States Probation Office"

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T10:07:37.478Z",
+  "scan_date": "2025-02-15T15:34:23.429Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -52,7 +54,7 @@
     "optout": "false",
     "palinteractiontypedim": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FH5X1PMV8C,UA-77708142-1,UA-108444827-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.gov.cfigroup.com",
@@ -81,8 +83,8 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/Warrick_-_Shoreline_Seasonality_-_cover.png",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/Wave-run-up-Madeira-Beach.gif",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/buckisland1curt_storlazziusgs.jpg",
+    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/A_seafloor_massive_sulfide_at_Escanaba_Trough.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/Coral-reef-aerial.gif",
-    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/IMG_3963.jpeg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/Wick-BLM.png",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/info_block/public/media/images/IMG_2525.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/info_block/public/media/images/SFBayBathySurvey.jpg",
@@ -90,7 +92,7 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/HeinMnNodule.png",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/UNADJUSTEDNONRAW_thumb_cc.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://script.hotjar.com/modules.cac992e2a5a02c5f5129.js",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.hotjar.com/c/hotjar-606685.js",
@@ -102,7 +104,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -110,7 +112,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.002301359375",
-  "largest_contentful_paint": "909",
+  "largest_contentful_paint": "956.8999999761581",
   "required_links_url": [
     "about",
     "foia",
@@ -184,12 +186,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 80,
-  "uswds_string": 4,
+  "uswds_string": 5,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.9.0",
   "uswds_version": 100,
-  "uswds_count": 264,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 265,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

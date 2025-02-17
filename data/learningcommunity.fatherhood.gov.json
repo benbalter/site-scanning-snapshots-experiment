@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:55:10.119Z",
+  "scan_date": "2025-02-15T18:17:26.600Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -87,8 +90,8 @@
     "https://pro.fontawesome.com/releases/v5.10.0/css/all.css",
     "https://ssl.google-analytics.com/ga.js",
     "https://static.zdassets.com/ekr/asset_composer.js",
-    "https://static.zdassets.com/web_widget/classic/latest/web-widget-locales/classic/en-us-json-f235946.js",
-    "https://static.zdassets.com/web_widget/classic/latest/web-widget-main-f235946.js",
+    "https://static.zdassets.com/web_widget/classic/latest/web-widget-locales/classic/en-us-json-d3286dc.js",
+    "https://static.zdassets.com/web_widget/classic/latest/web-widget-main-d3286dc.js",
     "https://www.goentrepid.com/Content/fonts/glyphicons-halflings-regular.woff",
     "https://www.goentrepid.com/Content/images/loading.gif",
     "https://www.goentrepid.com/Content/images/logoWhite.png",
@@ -101,8 +104,7 @@
     "https://www.goentrepid.com/themes/Dark%20Teal/images/cover-image.jpg",
     "https://www.goentrepid.com/themes/Dark%20Teal/styles/site.css",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 14,
   "cookie_domains": [
@@ -111,7 +113,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.041378100585937494",
-  "largest_contentful_paint": "801.7999999821186",
+  "largest_contentful_paint": "876.7999999523163",
   "required_links_url": [
     "about",
     "privacy"
@@ -163,7 +165,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

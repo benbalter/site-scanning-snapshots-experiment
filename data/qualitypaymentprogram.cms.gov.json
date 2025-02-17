@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T15:48:03.251Z",
+  "scan_date": "2025-02-16T03:25:32.997Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":2}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -43,7 +45,7 @@
     "agency": "DHHS",
     "subagency": "CMS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
@@ -57,7 +59,6 @@
     "tags.tiqcdn.com",
     "tealium-tags.cms.gov",
     "www.datadoghq-browser-agent.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "zn24cu8foukd58l0c-qppexperience.gov1.siteintercept.qualtrics.com"
   ],
@@ -71,14 +72,12 @@
     "https://gov-bam.nr-data.net/1/NRBR-bd42b19e479c7120329",
     "https://gov-bam.nr-data.net/events/1/NRBR-bd42b19e479c7120329",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
-    "https://js-agent.newrelic.com/nr-spa-compressor-1.281.0.min.js",
-    "https://js-agent.newrelic.com/nr-spa-recorder-1.281.0.min.js",
     "https://qpp-cm-prod-content.s3.amazonaws.com/s3fs/2021-05/Register.png",
     "https://qpp-cm-prod-content.s3.amazonaws.com/s3fs/2021-05/visual_Apply%20%281%29.png",
     "https://qpp-cm-prod-content.s3.amazonaws.com/s3fs/2021-05/visual_CollectData%20%281%29.png",
@@ -89,18 +88,17 @@
     "https://tealium-tags.cms.gov/cms-qpp/prod/utag.js",
     "https://tealium-tags.cms.gov/cms-qpp/prod/utag.sync.js",
     "https://www.datadoghq-browser-agent.com/datadog-rum-v5.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://zn24cu8foukd58l0c-qppexperience.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".cms.gov",
     "qpp.cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.207220444498698",
-  "largest_contentful_paint": "983",
+  "cumulative_layout_shift": "0.8199096360677084",
+  "largest_contentful_paint": "1358.8999999761581",
   "required_links_url": [
     "about",
     "privacy"
@@ -154,7 +152,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://qpp.cms.gov",
   "www_status_code": 200,
   "www_title": "Quality Payment Program (QPP)"

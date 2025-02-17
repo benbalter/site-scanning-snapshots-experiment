@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T16:04:28.991Z",
+  "scan_date": "2025-02-15T17:43:48.423Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1,\"images\":1,\"link-purpose\":2}",
   "ipv6": false,
   "hostname": null,
@@ -45,7 +48,7 @@
     "agency": "DOC",
     "subagency": "NOAA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CFS0F9LQ0T,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -65,8 +68,8 @@
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.164580390625",
-  "largest_contentful_paint": "2097.7999999821186",
+  "cumulative_layout_shift": "0.10150196484374999",
+  "largest_contentful_paint": "1159.8999999761581",
   "required_links_url": [
     "privacy"
   ],
@@ -100,7 +103,7 @@
   "sitemap_xml_url": "https://floats.pmel.noaa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 15487,
+  "sitemap_xml_filesize": 15486,
   "sitemap_xml_count": 87,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -115,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

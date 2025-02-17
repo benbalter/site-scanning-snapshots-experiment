@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T06:04:23.065Z",
+  "scan_date": "2025-02-15T17:15:12.020Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":4}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -47,7 +49,7 @@
     "enhlink": "true",
     "sdor": "www.nasa.gov"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api.parsely.com",
@@ -66,14 +68,13 @@
   ],
   "third_party_service_urls": [
     "https://api.parsely.com/v2/profile",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/sistema-solar/2025/jason2large.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/v/viper_cdr_hero_08_lrg.jpeg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/50000/50385/ISS027-E-011058_lrg.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/itm/van_allen_probes_discov_new_rad_belt_cal.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_LEDA1313424_STScI-01JJADTMJ80R1R4W6KK563RW2C.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/supernovae/Hubble_SN2022abvt_potw2505a.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/webb-stsci-01hggzdyh8ghhssnwzd71mf0xh-2k.png",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/lunar-eclipse-march-2025-telescopic.jpg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2025/FjordPhyto-Project.jpg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/Afternoon_of_Science_Building_Rockets_Jan2025_IMG_7580-Carolyn_Y_Ng.jpeg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/workshop-Anne_Holland.png",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-observer/2025/2025-winter/2025-dscovr/DSCOVR-Photo.jpg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_TarantulaNebula_potw2506a.jpg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04450_opgs_edr_ncam_NLB_792547619EDR_F1130894NCAM00353M_.JPG",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01JKDQABVK79V1BBDZ8KHSDTJ9-1K.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/february/Orion_credit_Preston%20Dyches_CC%20BY-NC%202.0.jpg",
     "https://cdn.parsely.com/keys/nasa.gov/p.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -81,29 +82,28 @@
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/nasa-gov/production/gateway.min.js",
     "https://images-assets.nasa.gov/image/ACD24-0108-010/ACD24-0108-010~large.jpg",
-    "https://images-assets.nasa.gov/image/AFRC2024-0101-43/AFRC2024-0101-43~large.jpg",
     "https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg",
     "https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg",
+    "https://images-assets.nasa.gov/image/iss072e147843/iss072e147843~large.jpg",
     "https://p1.parsely.com/px/",
     "https://plus.nasa.gov/wp-json/nasaplus/v1/live",
-    "https://science.nasa.gov/wp-content/uploads/2023/01/istock-169992600-jpg.webp",
-    "https://science.nasa.gov/wp-content/uploads/2024/12/planetary-defenders-promotional-photo-1.jpg",
+    "https://science.nasa.gov/wp-content/uploads/2023/06/perseids-radiant-credit-preston-dyches-cc-by-nc-2-0.jpg",
+    "https://science.nasa.gov/wp-content/uploads/2024/05/full-moon-snowshoe-hike-nps-photo.jpg",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
     ".nasa.gov",
-    ".www.nasa.gov",
-    "www.nasa.gov"
+    ".www.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "239.10000002384186",
+  "largest_contentful_paint": "205.10000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -174,7 +174,6 @@
   "uswds_semantic_version": "v2.13.3",
   "uswds_version": 100,
   "uswds_count": 231,
-  "www_scan_status": "completed",
   "www_url": "https://www.nasa.gov/marshall/marshall-space-flight-center-exhibits",
   "www_status_code": 200,
   "www_title": "Marshall Space Flight Center Exhibits - NASA"

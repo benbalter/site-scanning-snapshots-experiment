@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:24:30.272Z",
+  "scan_date": "2025-02-15T15:23:16.248Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":16,\"lists\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "DOS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RH13VY8T2N,G-3424,G-CSLL4ZEK4L,UA-30742211-1,UA-22995010-2,G-9L9PH9G8RZ",
   "third_party_service_domains": [
     "app.enzuzo.com",
@@ -91,8 +94,8 @@
     ".usembassy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0072513264160156245",
-  "largest_contentful_paint": "234.2000000178814",
+  "cumulative_layout_shift": "0.01948954256184896",
+  "largest_contentful_paint": "285.89999997615814",
   "required_links_url": [
     "privacy"
   ],
@@ -144,7 +147,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

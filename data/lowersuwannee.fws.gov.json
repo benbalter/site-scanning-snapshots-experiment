@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:18:48.063Z",
+  "scan_date": "2025-02-16T06:46:01.810Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +31,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -43,10 +45,10 @@
     "agency": "DOI",
     "subagency": "USFWS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c10.akstat.io",
+    "17de4c1b.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
     "c.go-mpulse.net",
@@ -61,7 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c10.akstat.io/",
+    "https://17de4c1b.akstat.io/",
     "https://a.tile.openstreetmap.org/10/274/425.png",
     "https://a.tile.openstreetmap.org/10/275/424.png",
     "https://a.tile.openstreetmap.org/10/276/423.png",
@@ -96,8 +98,8 @@
     ".fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0000014832763671875",
-  "largest_contentful_paint": "648.9000000059605",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "817",
   "required_links_url": [
     "about",
     "foia",
@@ -115,10 +117,10 @@
   "https_enforced": true,
   "hsts": true,
   "title": "Lower Suwannee National Wildlife Refuge | U.S. Fish & Wildlife Service",
-  "description": "The Lower Suwannee National Wildlife Refuge is unlike other Refuges in that it was not established for the protection of a specific species, but in order to protect the high water quality of the historic Suwannee River. The flow of the Suwannee feeds the estuarine waters of the Gulf of Mexico, habitat for the Gulf sturgeon and feeding grounds for resident and migratory shorebirds, wading birds and waterfowl.",
+  "description": "The Lower Suwannee National Wildlife Refuge is unlike other Refuges in that it was not established for the protection of a specific species, but in order to protect the high water quality of the historic Suwannee River. The flow of the Suwannee feeds the estuarine waters of the Gulf of America, habitat for the Gulf sturgeon and feeding grounds for resident and migratory shorebirds, wading birds and waterfowl.",
   "keywords": null,
   "og_title": "Lower Suwannee National Wildlife Refuge",
-  "og_description": "The Lower Suwannee National Wildlife Refuge is unlike other Refuges in that it was not established for the protection of a specific species, but in order to protect the high water quality of the historic Suwannee River. The flow of the Suwannee feeds the estuarine waters of the Gulf of Mexico, habitat for the Gulf sturgeon and feeding grounds for resident and migratory shorebirds, wading birds and waterfowl.",
+  "og_description": "The Lower Suwannee National Wildlife Refuge is unlike other Refuges in that it was not established for the protection of a specific species, but in order to protect the high water quality of the historic Suwannee River. The flow of the Suwannee feeds the estuarine waters of the Gulf of America, habitat for the Gulf sturgeon and feeding grounds for resident and migratory shorebirds, wading birds and waterfowl.",
   "og_article_published": null,
   "og_article_modified": null,
   "og_image": "https://www.fws.gov/sites/default/files/styles/facebook_1200x630/public/banner_images/2021-08/Alligato-ghost-reflection-Lower-Suwannee-NWR-Larry-A-Woodward.jpg?h=ea0c355c&itok=4K1ZT6Cv",
@@ -169,7 +171,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 75,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

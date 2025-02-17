@@ -5,7 +5,7 @@
   "initial_base_domain": "hhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d525ce063--d69b3b6b--375f5f5c--01f2a302--6cdf2c38--eb9",
+  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d13b7056e--25559b01--48cb3da2--2cc2a398--a024f47a--867",
   "domain": "auth.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:27:40.520Z",
+  "scan_date": "2025-02-16T07:36:04.359Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -72,7 +74,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.003274302978515625",
-  "largest_contentful_paint": "651.3000000119209",
+  "largest_contentful_paint": "724.2999999523163",
   "required_links_url": null,
   "required_links_text": [
     "privacy policy",
@@ -102,7 +104,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252Fsitemap-%252Exml%26wreply%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d22aca811--fe18b0fa--bcd45679--7faa2620--161b4bdd--d0b",
+  "sitemap_xml_url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252Fsitemap-%252Exml%26wreply%3dhttps-%3a-%2f-%2fomhaportal%2ehhs%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3dbc6b50f8--0faa7b05--e9d2dcae--fc47a835--74bb1de5--ed8",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
@@ -120,7 +122,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

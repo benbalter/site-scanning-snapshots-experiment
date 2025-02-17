@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T13:01:29.613Z",
+  "scan_date": "2025-02-15T12:13:41.862Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -43,7 +46,7 @@
   "dap_parameters": {
     "agency": "NSF"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RQ14MP9WB1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -53,14 +56,14 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/116/3c99c0f5-9226-4246-a1a3-fa65f76bf883",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/116/3ee4e8c0-ccf7-4e99-8af9-09ee0447164e",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/117/02ce0279-e635-44b1-ac7c-c4c4d3050ffb",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/117/8b6aa263-14c6-4b8a-a988-4f19f0620e44",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/119/221fef10-8d2b-4f47-ae09-156bbfd2e2b6",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/119/8bbbf20f-3257-4325-a8f6-66eff86ef5f7",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/120/dace1b4b-9906-4360-8113-1e90bf29e72b",
-    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/120/e03ab073-86d6-4903-a757-2b7e147547cb",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/121/48f22e92-f467-48c6-8324-15654ee8d10f",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/121/cbf89c0e-c56d-464c-b10f-c544397a8e43",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/122/5f54ee0a-aba2-4331-a63a-ccfdbd8e043b",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/122/6f5172fa-8f6d-4145-b44f-c7388d050eb6",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/123/384859cb-692e-4836-8cfb-d675768d09b9",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/123/56a48c6e-d631-4963-bbdc-c4909eadd858",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/124/21ee2896-fbaf-4bbf-b327-8ec5a1a29373",
+    "https://paesmem-prod-public.s3.amazonaws.com/homepageFeature/124/a80b25b0-d218-4cb1-a14b-2f11bf8e5a87",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
@@ -70,7 +73,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.40974410441080733",
-  "largest_contentful_paint": "273.30000001192093",
+  "largest_contentful_paint": "310.3000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -127,7 +130,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://paesmem.nsf.gov",
   "www_status_code": 200,
   "www_title": "Home | Presidential Awards for Excellence in Science, Mathematics and Engineering Mentoring"

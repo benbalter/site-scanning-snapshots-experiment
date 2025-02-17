@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T15:59:58.169Z",
+  "scan_date": "2025-02-15T10:40:44.789Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -44,10 +46,10 @@
     "subagency": "NIH",
     "sp": "keys"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-N6PJ6MZT1P,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0d.akstat.io",
+    "17de4c0f.akstat.io",
     "c.bing.com",
     "c.clarity.ms",
     "c.go-mpulse.net",
@@ -59,14 +61,14 @@
     "www.opm.gov"
   ],
   "third_party_service_urls": [
-    "https://17de4c0d.akstat.io/",
+    "https://17de4c0f.akstat.io/",
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.clarity.ms/collect",
     "https://s.go-mpulse.net/boomerang/VR74Q-4VLAP-3PKCK-VKP82-CZ47F",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/lvkaxye80l",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
@@ -77,8 +79,8 @@
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.15095318668619792",
-  "largest_contentful_paint": "361.7999999821186",
+  "cumulative_layout_shift": "0.15195790087890626",
+  "largest_contentful_paint": "430.39999997615814",
   "required_links_url": [
     "about",
     "privacy",
@@ -135,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

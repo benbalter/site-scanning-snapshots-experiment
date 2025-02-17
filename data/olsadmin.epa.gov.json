@@ -5,7 +5,7 @@
   "initial_base_domain": "epa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://wamssoprd.epa.gov/oam/server/obrareq.cgi?encquery%3DLy9bQZ2vrXWrhx21V0S%2BprA2EyfbaW5Nzp3jVafsixfe9b1dIjHtkJwgJcZ%2F9srl3klsBx%2BWt06Wu1A0S7GbFrxx6xhpvi%2Bml1uy1VIv12ZyhaYkurI02YKANcxgY%2Fm4fWt3deg3ajKA7nAWXS7q8JHWfJjqE78XSnd7fw8otMZZ9Gwzzgs8mPXCDmL3vJbh8JfaxCBSLdE1fI%2F5rFAdfDZgCCEbTUJ2DOJx89mg5b5S7Rss%2FBxCqeiQ5mrZZS5xLPI8gXQc7CqYpubjLms2Asmcfsukzh1vEkpqMXSnbyw%3D%20agentid%3DWebgateEPADomain%20ver%3D1%20crmethod%3D2%26cksum%3D7e3950ecbebc637fcc4145d482197a37a60cd556",
+  "url": "https://wamssoprd.epa.gov/oam/server/obrareq.cgi?encquery%3DxEfl8BvLqEbvE90hZYX%2BqTRf%2B5z0%2F6OGHFj%2B4j44Z0PmkquhMhTfnzLPQYYZNcrmItZ28%2Fmj%2FaDLnTar%2B4xbHsw3vRvrm%2Bzxy7VzWuVoMEkCLzgaK%2B%2FCzRUvXZV%2FAGvIP3ftiO%2F6W%2F4IGrWP95qU2r8iHtnA9KG%2BA3nF1yxrFAD2UjbUl6xzyuhOdKUWCaGepT0B9%2BKIfi7fJKMS0aAQ48tn2p80tFtdFDdikOVgKYAa0Bt0os8N1TWLqdFdnxom1syx%2BODuwyzL0zuQmu%2FBo5Sf6hv2yhzpk5Cm7SsEjZk%3D%20agentid%3DWebgateEPADomain%20ver%3D1%20crmethod%3D2%26cksum%3D415117b4bb7e319ffeddf7a53dde08968ad80176",
   "domain": "wamssoprd.epa.gov",
   "base_domain": "epa.gov",
   "top_level_domain": "gov",
@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:52:50.726Z",
+  "scan_date": "2025-02-16T03:31:57.280Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "connection_reset",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -55,7 +57,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/wamssoprd.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/wamssoprd.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
@@ -69,7 +71,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1194.2999999821186",
+  "largest_contentful_paint": "2368",
   "required_links_url": [
     "privacy"
   ],
@@ -123,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

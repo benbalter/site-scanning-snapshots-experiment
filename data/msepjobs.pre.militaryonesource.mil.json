@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-09T06:14:59.663Z",
+  "scan_date": "2025-02-16T10:25:04.033Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -42,45 +44,39 @@
   "dap_parameters": {
     "agency": "DoD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-TL9FG10VP2,G-CSLL4ZEK4L,G-XTTKJD1ENC,UA-29536396-4",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-TL9FG10VP2,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "analytics.google.com",
     "dap.digitalgov.gov",
     "download.militaryonesource.mil",
     "fonts.gstatic.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://download.militaryonesource.mil/MOS/universalnav.min.js",
-    "https://download.militaryonesource.mil/msep/logos/117958BB-B81C080D.png",
-    "https://download.militaryonesource.mil/msep/logos/15629-6D576BBB.jpeg",
-    "https://download.militaryonesource.mil/msep/logos/15679-F7806AAB.jpg",
-    "https://download.militaryonesource.mil/msep/logos/41194ECE-7A1C9FA5.png",
-    "https://download.militaryonesource.mil/msep/logos/85D24C2E-E77772A3.jpg",
-    "https://download.militaryonesource.mil/msep/logos/97D87B5E-E015A1D0.jpeg",
+    "https://download.militaryonesource.mil/msep/logos/15340-7B08AB7C.jpg",
+    "https://download.militaryonesource.mil/msep/logos/15494-0FB166E6.jpg",
+    "https://download.militaryonesource.mil/msep/logos/15547-7B03A382.jpg",
+    "https://download.militaryonesource.mil/msep/logos/28D33E60-781007C7.jpg",
+    "https://download.militaryonesource.mil/msep/logos/4DF0439F-8E41726D.jpg",
     "https://download.militaryonesource.mil/msep/logos/B1875DD0-840C2966.png",
-    "https://download.militaryonesource.mil/msep/logos/D5F0A4B7-27366506.png",
-    "https://download.militaryonesource.mil/msep/logos/E54FA35D-173E681E.png",
+    "https://download.militaryonesource.mil/msep/logos/EFB7AF24-19802F3B.jpg",
+    "https://download.militaryonesource.mil/msep/logos/Valor%20Logo.jpg",
+    "https://download.militaryonesource.mil/msep/logos/conserlogo.jpeg",
     "https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/a",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".militaryonesource.mil",
     "msepjobs.pre.militaryonesource.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.12006019791666667",
-  "largest_contentful_paint": "3460.5",
+  "cumulative_layout_shift": "0.00060603125",
+  "largest_contentful_paint": "1055.8000000715256",
   "required_links_url": [
     "about"
   ],
@@ -129,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

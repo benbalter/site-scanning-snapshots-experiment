@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T07:37:05.111Z",
+  "scan_date": "2025-02-15T11:01:13.133Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -41,7 +44,7 @@
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": "",
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -59,10 +62,12 @@
     "https://www.usa.gov/themes/custom/usagov/images/Logo_USAGov.png"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.3665713040364584",
-  "largest_contentful_paint": "119",
+  "cumulative_layout_shift": "0.3635972154947917",
+  "largest_contentful_paint": "129.80000007152557",
   "required_links_url": [
     "usa.gov"
   ],
@@ -89,11 +94,9 @@
   "robots_txt_url": "https://taraskalab.nhlbi.nih.gov/robots.txt",
   "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 125,
+  "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
-  "robots_txt_sitemap_locations": [
-    "https://taraskalab.nhlbi.nih.gov/wp-sitemap.xml"
-  ],
+  "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://taraskalab.nhlbi.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 404,
@@ -113,7 +116,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 1,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

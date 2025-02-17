@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Ffed%2Fiwa%2F%3FfedData%3DP3R5cGU9c29jaWFsJlNBTUxSZXF1ZXN0PWZaSmRTOE13RkliJTJmU3NoOW02NGZzd3RkWVd3SUJSVlI4Y0s3SkQxMWhUYXBPY25VZjIlMmZhaVNES2JnJTJmbjVYbWZuRlFveG1IaU8lMmIlMmJPJTJiZ0hlUEtBanpXRkwlMmJ6WXFaUUZTWmlJcVpMcUo4blZ5RlcyNlBJdktNbE1aU0pCNW5sTHlEQlo3bzdjMGpSTktHa1FQalVZbnRBdWpKQzJpSkkyUzhtbVY4cVRreVNaZUYlMmJzWFNnNkIwMnZobHVUUnVRazVZeUtVaUFmaHRUcE9vbzIxUUJHJTJmbWhNVFhmY09Fc0dlZWdYSUppJTJiSFhyRzVlSXBvS05rYmpURHp2TlhjQ095UmF6RUNjcWY0NCUyYjcyaG9kcVhKMlh1TmM0Z2VxN0hscEtQc1pCSTElMmJlNEhKNnNzWVpaUVphVjR1aVBVY3Zod1NHenJNaXJXZkZiOE1PJTJmM1ZzTzJRJTJmaXM1NmRCVTdvJTJicnFmS083QUdnTzl5YklmNUpyWTBkeFFYa1ZyNVpKdUdPM3JQNFczdzJEZWQ5YkVBNjJOTkNBRWxaWDdPOW5xTDhBJlJlbGF5U3RhdGU9ZWJhZTVjNmItMWRlZC00ZGZhLWI0ZjctOWVjNTM4NjI0Zjg5JmNsaWVudC1yZXF1ZXN0LWlkPWNlZGJlNzI1LTc1YzItNDA1NS1mNDE2LTAxODAwNTAwMDBmNSZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLm5hc2EuZ292JTJGYWZmd2Vic2VydmljZXMlMkZwdWJsaWMlMkZzYW1sMnNzbyZTQU1MVFJBTlNBQ1RJT05JRD1hZTNmZjk1Ni05YjkxNWUwZS0zYTgxZGE3Zi0xMTY5MDkxMi00YjVjMGNjNS1kYw%3D%3D",
+  "url": "https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Ffed%2Fiwa%2F%3FfedData%3DP3R5cGU9c29jaWFsJlNBTUxSZXF1ZXN0PWZaTFJTc013RklaZkplUyUyYlRkcXQxWVd1TURhRWdvcW9lT0ZkbXA2NlFKdlVubVRUdHpkdFJSQmx0NGZ6OCUyZjFmVGdxVWZUZUluWGRIOHdqdkh0Q1I2ckNsdW9rNGh3UldWeXJhMVBJNldtJTJieU5LcHp5S09zWHJYcEduak5tNXlTRnhoUlc3T2xhY3dwcVJBOVZBYWROQzZNZUpwRlBJMlMlMmZEbEpSTElSV1Jxdk12NUt5U0Z3dEpGdVRoNmRHMUF3SmtPSnVKUGVxT01nbTloSWxQR2JQVEhadG1lb0VjYVRWb0JzOEhXbkZadUtwNGlXa3IwMUNCUFBqMFpZaVJxRmtUMmdjRW84N2U1dVJhZ20xTElrdk1FQmxHNDFOSlI4OUoxQk1UJTJmQjVmUXdXbWVWN1doWnpJcmpFcjBja2hnNlQ0cTBuQlMlMmZEVnY4MTdGcGtmMG91dEdqSzlpQ0tvdmxSdmNCVUIwZWJKRCUyZkpEZDI3T1VGNVNSTzVrbTRZenV2JTJmaGJmZFowOTcwZVFEclkwMElBU1ZoYnM3MmNvdndBJTNkJlJlbGF5U3RhdGU9Y2M5MTMwNDItMmRiMi00ZjlhLTlmODgtZTQ1MjBmOWUyOWNkJmNsaWVudC1yZXF1ZXN0LWlkPWMzOWQ3NzA5LTY1ODktNGUwNi0xMTk2LTAxODAwNTAwMDBiYSZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLm5hc2EuZ292JTJGYWZmd2Vic2VydmljZXMlMkZwdWJsaWMlMkZzYW1sMnNzbyZTQU1MVFJBTlNBQ1RJT05JRD1lM2M2YjM2Ny1hZDJmZjk0MS0xZGU1N2ZmZi0yYTU1ZTBiOC0zODczOWYwZC04NmY%3D",
   "domain": "auth.launchpad.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:08:17.723Z",
+  "scan_date": "2025-02-16T11:20:00.832Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -58,7 +60,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1003",
+  "largest_contentful_paint": "1121.1000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -108,7 +110,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

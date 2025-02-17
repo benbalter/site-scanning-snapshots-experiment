@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-08T11:39:44.768Z",
+  "scan_date": "2025-02-15T10:03:27.158Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -53,7 +56,6 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -69,16 +71,17 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
-    ".navy.mil"
+    ".navy.mil",
+    ".p2p.navy.mil",
+    "p2p.navy.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08559181388346353",
-  "largest_contentful_paint": "358.09999999403954",
+  "cumulative_layout_shift": "0.06441780753580728",
+  "largest_contentful_paint": "538.5",
   "required_links_url": [
     "about",
     "fear",
@@ -135,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

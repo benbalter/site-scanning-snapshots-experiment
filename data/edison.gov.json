@@ -20,10 +20,11 @@
   "source_list": [
     "gov",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:22:50.857Z",
+  "scan_date": "2025-02-16T05:06:52.415Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":1}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45je5240v895826815za200"
+    "gtm": "45je52d0v895826815za200"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-CSLL4ZEK4L",
@@ -69,8 +71,8 @@
     ".www.nist.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.014936943888346354",
-  "largest_contentful_paint": "740.0999999940395",
+  "cumulative_layout_shift": "0.003515840535481771",
+  "largest_contentful_paint": "667.7000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -94,7 +96,7 @@
   "og_description": "iEdison: an interagency online reporting system for recipients of federal funding agreements to report subject inventions to the federal funding agency and complete other reporting as required by the Bayh-Dole Act and its implementing regulations",
   "og_article_published": "2021-07-08T16:53:00.000Z",
   "og_article_modified": "2024-11-15T01:02:00.000Z",
-  "og_image": null,
+  "og_image": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
   "og_type": "Article",
   "og_url": "https://www.nist.gov/iedison",
   "canonical_link": "https://www.nist.gov/iedison",
@@ -142,7 +144,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 100,
-  "www_scan_status": "completed",
   "www_url": "https://www.nist.gov/iedison",
   "www_status_code": 200,
   "www_title": "iEdison | NIST"

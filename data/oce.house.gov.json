@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:38:10.441Z",
+  "scan_date": "2025-02-15T18:40:45.665Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":4}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -58,7 +62,7 @@
     "https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tLR8a8zI.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kit.fontawesome.com/e02478940c.js",
-    "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 7,
@@ -66,8 +70,8 @@
     ".house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.21499706591796874",
-  "largest_contentful_paint": "309",
+  "cumulative_layout_shift": "0.21604214453124998",
+  "largest_contentful_paint": "350.2999999523163",
   "required_links_url": [
     "about",
     "privacy"
@@ -86,8 +90,8 @@
   "og_article_modified": null,
   "og_image": "https://oce.house.gov/profiles/evo/assets/images/Seal_of_the_United_States_House_of_Representatives.png",
   "og_type": "website",
-  "og_url": "https://oce.house.gov/home",
-  "canonical_link": "https://oce.house.gov/",
+  "og_url": "http://oce.house.gov/home",
+  "canonical_link": "http://oce.house.gov/",
   "language": "en",
   "language_link": "",
   "main_element_present": true,
@@ -117,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

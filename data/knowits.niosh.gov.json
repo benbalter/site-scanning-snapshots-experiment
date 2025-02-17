@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-09T10:18:42.591Z",
+  "scan_date": "2025-02-15T17:46:10.226Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,9 +30,10 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
-  "hostname": null,
+  "hostname": "edgekey.net",
   "cms": null,
   "login_provider": null,
   "login": null,
@@ -48,34 +49,25 @@
   "third_party_service_domains": [
     "cdc.112.2o7.net",
     "eex-gateway.fr011.ttecfed.com",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "mtrics.cdc.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s74713288564650",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s77359654694578",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/gateway.min.js",
-    "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/trigger/cdc_logo.jpg",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://mtrics.cdc.gov/cdcgov/1.0.0/s.gif",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cdc.gov",
     ".www.cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.4131991372070313",
-  "largest_contentful_paint": "295.2000000178814",
+  "cumulative_layout_shift": "0.3708527586669922",
+  "largest_contentful_paint": "331.39999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -134,7 +126,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 23,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

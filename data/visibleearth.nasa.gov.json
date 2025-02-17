@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:26:18.995Z",
+  "scan_date": "2025-02-15T09:44:30.809Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"link-purpose\":12,\"lists\":15}",
   "ipv6": true,
   "hostname": null,
@@ -47,7 +50,7 @@
     "yt": "true",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-NPXDYY3RPL,G-CSLL4ZEK4L,UA-24009030-1",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -69,18 +72,18 @@
     "https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153867/sadoisland_oli_20240422_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153874/searles_oli_20240815_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153877/searles_tmo_20240211_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153885/chicagowinter_oli_20250124_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153889/victoriafires_amo_20250128_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153896/lacounty_ndvi_20240831_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153900/alaskasnow_amo_20250126_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153903/iss071e130772_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153893/ranchopalos_aria_20241017_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153906/zavaritskogo_oli_20240912_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153910/dustheight_epc_2019_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153914/ausflood_mrg_20250204_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153917/lanina_sen6_20250113_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153923/iss072e000265_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153926/superbowl_oli_20250202_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153929/fires_patagonia_oli2_20250209_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153933/tasmaniafires_amo_20250212_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153936/valentines_oli2_20250127_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153945/himalayasnow_oli2_20250120_th.jpg",
     "https://fonts.googleapis.com/css",
     "https://p1.parsely.com/px/",
     "https://ssl.google-analytics.com/__utm.gif",
@@ -88,7 +91,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -96,8 +99,8 @@
     ".visibleearth.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.4218793385823567",
-  "largest_contentful_paint": "738.9000000059605",
+  "cumulative_layout_shift": "0.4886192636718749",
+  "largest_contentful_paint": "885.9000000953674",
   "required_links_url": [
     "about",
     "privacy"
@@ -133,8 +136,8 @@
   "sitemap_xml_url": "https://visibleearth.nasa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 18843,
-  "sitemap_xml_count": 86,
+  "sitemap_xml_filesize": 42665,
+  "sitemap_xml_count": 187,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
@@ -148,7 +151,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.visibleearth.nasa.gov",
   "www_status_code": 200,
   "www_title": "NASA Visible Earth - Home"

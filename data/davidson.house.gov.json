@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:06:49.952Z",
+  "scan_date": "2025-02-15T18:37:35.395Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":8}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -41,7 +45,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-YZsS4wfRVDyze",
+  "ga_tag_id": "G-CfVY4Ych5",
   "third_party_service_domains": [
     "apps.elfsight.com",
     "cdnjs.cloudflare.com",
@@ -65,6 +69,7 @@
     "https://code.jquery.com/jquery-3.5.1.min.js",
     "https://code.jquery.com/jquery-migrate-3.5.2.min.js",
     "https://core.service.elfsight.com/p/boot/",
+    "https://external-lax3-2.xx.fbcdn.net/emg1/v/t13/15527549460894020116",
     "https://external-lax3-2.xx.fbcdn.net/emg1/v/t13/9589113969788931102",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
@@ -74,7 +79,6 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/oswald/v53/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2",
-    "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/474740859_1142193917283372_3685907264345834742_n.jpg",
     "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/475284659_1145045376998226_7924842362062788585_n.jpg",
     "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/475890783_1147866000049497_3782389916928337560_n.jpg",
     "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/475897642_1151287256374038_4217627068256448996_n.jpg",
@@ -82,6 +86,7 @@
     "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/469926236_1111910420311722_222139321676463480_n.jpg",
     "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/475852850_1149333939902703_7945899719638690485_n.jpg",
     "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/476148909_1151038129732284_6436177349099594704_n.jpg",
+    "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/476386081_1153945429441554_243119990995608968_n.jpg",
     "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/476819622_1152013506301413_4895052460080659356_n.jpg",
     "https://static.elfsight.com/apps/facebook-feed/assets/img/reaction-angry.png",
     "https://static.elfsight.com/apps/facebook-feed/assets/img/reaction-haha.png",
@@ -99,12 +104,11 @@
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
-    ".house.gov",
     "davidson.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.10981725",
-  "largest_contentful_paint": "308.5",
+  "cumulative_layout_shift": "0.1100387109375",
+  "largest_contentful_paint": "494.10000002384186",
   "required_links_url": [
     "about",
     "privacy"
@@ -154,7 +158,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

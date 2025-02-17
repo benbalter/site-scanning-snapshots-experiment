@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "oira"
+    "oira",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T03:28:45.497Z",
+  "scan_date": "2025-02-16T03:50:22.915Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -43,10 +45,11 @@
   "dap_parameters": {
     "agency": "DHS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-X0BCH35KDE,G-CSLL4ZEK4L,UA-59211794-1,UA-45154815-1",
   "third_party_service_domains": [
     "ad.doubleclick.net",
+    "adservice.google.com",
     "bat.bing.com",
     "connect.facebook.net",
     "dap.digitalgov.gov",
@@ -59,7 +62,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://ad.doubleclick.net/activity;register_conversion=1;src=9599029;type=ues-rmkt;cat=uespa0;ord=1;num=8940439827404;npa=0;auiddc=1440720517.1739071711;ps=1;pcor=2025713255;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe5240v9190662416z8854897352za201zb9131934939;gcd=13l3l3l3l1l1;dma=0;tag_exp=102067808~102081485~102123608~102308675~102482432~102539968~102558064~102587591~102605417;epver=2;~oref=https%3A%2F%2Ftsaenrollmentbyidemia.tsa.dhs.gov%2F",
+    "https://ad.doubleclick.net/activity;register_conversion=1;src=9599029;type=ues-rmkt;cat=uespa0;ord=1;num=3812668474860;npa=0;auiddc=1597691841.1739677807;ps=1;pcor=1193239823;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9190662416z8854897352za201zb9131934939;gcd=13l3l3l3l1l1;dma=0;tag_exp=102067808~102482432~102539968~102558064~102587591~102605417~102640600;epver=2;~oref=https%3A%2F%2Ftsaenrollmentbyidemia.tsa.dhs.gov%2F",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CPbOqvGkx4sDFfCbjggdRlQVNQ;src=9599029;type=ues-rmkt;cat=uespa0;ord=1;num=3812668474860;npa=0;auiddc=*;ps=1;pcor=1193239823;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9190662416z8854897352za201zb9131934939;gcd=13l3l3l3l1l1;dma=0;tag_exp=102067808~102482432~102539968~102558064~102587591~102605417~102640600;epver=2;~oref=https%3A%2F%2Ftsaenrollmentbyidemia.tsa.dhs.gov%2F",
     "https://bat.bing.com/action/0",
     "https://bat.bing.com/bat.js",
     "https://bat.bing.com/p/action/26329195.js",
@@ -80,15 +84,15 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".dhs.gov",
     ".tsaenrollmentbyidemia.tsa.dhs.gov",
     "tsaenrollmentbyidemia.tsa.dhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3713318094889323",
-  "largest_contentful_paint": "704.1999999880791",
+  "cumulative_layout_shift": "0.3797202936604817",
+  "largest_contentful_paint": "688.7999999523163",
   "required_links_url": [
     "about",
     "foia",
@@ -140,7 +144,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

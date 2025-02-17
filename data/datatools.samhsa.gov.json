@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:42:31.666Z",
+  "scan_date": "2025-02-15T13:09:15.176Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -58,14 +61,13 @@
     "paltopicdim": "dimension5|5",
     "cto": "24"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-36351725-9,G-EBDC0ZCHG2,G-CSLL4ZEK4L,G-3YLR8EGLBW",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "analytics.google.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
-    "prod.smassets.net",
     "resources.digital-cloud-gov.medallia.com",
     "script.crazyegg.com",
     "unpkg.com",
@@ -81,13 +83,12 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://prod.smassets.net/assets/responseweb/responseweb/1.0.0/assets/images/website/x.png",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/36910/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/36910/onsite/generic1738357058182.js",
     "https://script.crazyegg.com/pages/data-scripts/0083/6179/sampling/datatools.samhsa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0083/6179/site/datatools.samhsa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0083/6179.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
     "https://unpkg.com/web-vitals@4.2.4/dist/web-vitals.iife.js",
     "https://widget.surveymonkey.com/collect/website/js/cookie.js",
@@ -99,16 +100,16 @@
     "https://www.samhsa.gov/data/api/codebooks",
     "https://www.samhsa.gov/data/entity/menu/tools-get-help-menu/tree",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".samhsa.gov",
     "datatools.samhsa.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.0996733290608724",
-  "largest_contentful_paint": "1137.7999999821186",
+  "largest_contentful_paint": "975",
   "required_links_url": [
     "about",
     "fear",
@@ -173,7 +174,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 30,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

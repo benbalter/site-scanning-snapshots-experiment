@@ -5,7 +5,7 @@
   "initial_base_domain": "currencyreader.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.currencyreader.gov/testcrimsloc.onmicrosoft.com/b2c_1_frontendapp_signupandsignin/oauth2/v2.0/authorize?client_id=731fba7f-a273-4e28-a521-ae1b16dba0c9&scope=https%3A%2F%2FTestCrimsLoc.onmicrosoft.com%2Fapi-loc%2Floc.read%20https%3A%2F%2FTestCrimsLoc.onmicrosoft.com%2Fapi-loc%2Floc.write%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fcurrencyreader.gov&client-request-id=1871c5b1-2895-45a0-9c49-28e0f0464308&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.28.1&client_info=1&code_challenge=qHN7pWODPyxiZ7mwyttslMiHWixhGgMewHrXVKwm7Nk&code_challenge_method=S256&nonce=0d655476-fee5-4cfb-aa07-e071ed894fb3&state=eyJpZCI6IjZlMmJhMjU0LWM5MTQtNGExMS04MmY1LTk2OGU1MTUzZDMwYSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D",
+  "url": "https://login.currencyreader.gov/testcrimsloc.onmicrosoft.com/b2c_1_frontendapp_signupandsignin/oauth2/v2.0/authorize?client_id=731fba7f-a273-4e28-a521-ae1b16dba0c9&scope=https%3A%2F%2FTestCrimsLoc.onmicrosoft.com%2Fapi-loc%2Floc.read%20https%3A%2F%2FTestCrimsLoc.onmicrosoft.com%2Fapi-loc%2Floc.write%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fcurrencyreader.gov&client-request-id=01ed6bf7-187c-460b-bac2-883a0d1117db&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.28.1&client_info=1&code_challenge=XguujcPusKfaCCH16RNjiyAQcf4lQOG8KZE9NiNVU1s&code_challenge_method=S256&nonce=37e6ae68-f29a-465d-83c9-c12d64f9a93f&state=eyJpZCI6ImNlODVmN2U5LTg3NzYtNDczZi1iZmU5LTEwMDdjZjEyN2MzZCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D",
   "domain": "login.currencyreader.gov",
   "base_domain": "currencyreader.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,7 @@
     "gov"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:33:41.908Z",
+  "scan_date": "2025-02-16T03:35:34.871Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -47,30 +48,34 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "ajax.aspnetcdn.com",
     "currencyreader.gov",
     "loclogintemplate.blob.core.windows.net"
   ],
   "third_party_service_urls": [
+    "https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.5/css/bootstrap.min.css",
     "https://currencyreader.gov/main.daaf79f71bfac43b.js",
     "https://currencyreader.gov/polyfills.d3c731088a6a03bc.js",
     "https://currencyreader.gov/runtime.bfbe70318f49889e.js",
     "https://currencyreader.gov/scripts.97d7dabc2ded2a50.js",
     "https://currencyreader.gov/styles.98a3fee11b6816a4.css",
-    "https://loclogintemplate.blob.core.windows.net/root/templates/AzureBlue/unified.html"
+    "https://loclogintemplate.blob.core.windows.net/root/templates/AzureBlue/unified.html",
+    "https://loclogintemplate.blob.core.windows.net/root/templates/src/backgrounds/1-1.png",
+    "https://loclogintemplate.blob.core.windows.net/root/templates/src/fonts/segoeui.WOFF",
+    "https://loclogintemplate.blob.core.windows.net/root/templates/src/fonts/segoeui_bold.WOFF"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
-    ".login.currencyreader.gov",
-    "login.currencyreader.gov"
+    ".login.currencyreader.gov"
   ],
-  "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "60.5",
+  "viewport_meta_tag": true,
+  "cumulative_layout_shift": "0.06311903076171875",
+  "largest_contentful_paint": "1732.2000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,
   "hsts": null,
-  "title": "Loading...",
+  "title": "Sign up or sign in",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -110,7 +115,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

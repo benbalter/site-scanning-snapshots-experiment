@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:26:35.482Z",
+  "scan_date": "2025-02-16T06:47:58.552Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": null,
@@ -43,10 +45,10 @@
     "agency": "DOI",
     "subagency": "USFWS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0e.akstat.io",
+    "17de4c1e.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
     "c.go-mpulse.net",
@@ -61,7 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0e.akstat.io/",
+    "https://17de4c1e.akstat.io/",
     "https://a.tile.openstreetmap.org/18/72193/105182.png",
     "https://a.tile.openstreetmap.org/18/72194/105184.png",
     "https://a.tile.openstreetmap.org/18/72195/105183.png",
@@ -96,7 +98,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.037144648437500004",
-  "largest_contentful_paint": "496.90000000596046",
+  "largest_contentful_paint": "450.59999990463257",
   "required_links_url": [
     "about",
     "foia",
@@ -168,7 +170,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 75,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

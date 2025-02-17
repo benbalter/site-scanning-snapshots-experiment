@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T10:55:49.982Z",
+  "scan_date": "2025-02-15T10:27:57.913Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-SRE7ZT09KK,G-CSLL4ZEK4L,UA-122677529-1,UA-39306617-1,G-4L14JQG420",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -51,6 +53,8 @@
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "gateway.foresee.com",
     "www.google-analytics.com",
     "www.google.com",
@@ -58,23 +62,30 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/dcf0cc31-fa61-44b9-8982-6f3398c9f567",
+    "https://brain.foresee.com/state/ojp-main/b21e207c-c15b-4f6b-abb2-d65933b71985",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.feedback.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.invite.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.survey.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.utils.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/badge___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/epilogue___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/main.css",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/code/6.1.2-mp/mpathy-modern.js",
     "https://gateway.foresee.com/sites/ojp-main/production/gateway.min.js",
+    "https://gateway.foresee.com/sites/ojp-main/production/trigger/OJJDP_logo_white.png",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
@@ -84,13 +95,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.013162499999999999",
-  "largest_contentful_paint": "601.5",
+  "largest_contentful_paint": "568.8000000715256",
   "required_links_url": [
     "about",
     "foia",
@@ -170,7 +181,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 107,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-08T12:18:29.596Z",
+  "scan_date": "2025-02-15T13:48:12.859Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "azurefd.net",
@@ -58,8 +60,8 @@
     "alumni.ilea.state.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.00001442138671875",
-  "largest_contentful_paint": "0",
+  "cumulative_layout_shift": "0.0000365341796875",
+  "largest_contentful_paint": "435.10000002384186",
   "required_links_url": [
     "privacy"
   ],
@@ -108,7 +110,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

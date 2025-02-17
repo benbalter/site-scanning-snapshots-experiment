@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T13:24:13.840Z",
+  "scan_date": "2025-02-15T13:47:26.912Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":7,\"language\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,13 +49,14 @@
     "subagency": "NIH",
     "pua": "UA-39200248-1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-39200248-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "stackpath.bootstrapcdn.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -62,16 +66,17 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nih.gov",
     "videocast.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0004711925862630209",
-  "largest_contentful_paint": "480.60000002384186",
+  "cumulative_layout_shift": "0.32237119258626307",
+  "largest_contentful_paint": "3221.100000023842",
   "required_links_url": [
     "about",
     "privacy"
@@ -127,7 +132,6 @@
   "uswds_semantic_version": "v3.11.0",
   "uswds_version": 100,
   "uswds_count": 169,
-  "www_scan_status": "completed",
   "www_url": "https://www.videocast.nih.gov",
   "www_status_code": 200,
   "www_title": "NIH VideoCast"

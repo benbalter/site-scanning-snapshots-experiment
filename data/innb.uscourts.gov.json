@@ -18,10 +18,11 @@
   "branch": "Judicial",
   "404_test": true,
   "source_list": [
-    "uscourts"
+    "uscourts",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:37:51.162Z",
+  "scan_date": "2025-02-15T14:52:29.153Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -57,12 +59,13 @@
   "third_party_service_count": 3,
   "cookie_domains": [
     ".innb.uscourts.gov",
+    ".uscourts.gov",
     ".www.innb.uscourts.gov",
     "www.innb.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06125",
-  "largest_contentful_paint": "772.5",
+  "cumulative_layout_shift": "0.21510693359375",
+  "largest_contentful_paint": "700.2999999523163",
   "required_links_url": [
     "privacy"
   ],
@@ -111,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.innb.uscourts.gov",
   "www_status_code": 200,
   "www_title": "Northern District of Indiana | United States Bankruptcy Court"

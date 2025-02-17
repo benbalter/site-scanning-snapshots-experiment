@@ -20,10 +20,12 @@
   "source_list": [
     "gov",
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T10:46:00.838Z",
+  "scan_date": "2025-02-15T18:12:43.478Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":3}",
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "ARPA-H"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ZZCBF1Q3P0,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "arclight.vimeo.com",
@@ -70,9 +73,9 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
-    "https://f.vimeocdn.com/p/4.39.69/css/player.css",
-    "https://f.vimeocdn.com/p/4.39.69/js/player.module.js",
-    "https://f.vimeocdn.com/p/4.39.69/js/vendor.module.js",
+    "https://f.vimeocdn.com/p/4.40.1/css/player.css",
+    "https://f.vimeocdn.com/p/4.40.1/js/player.module.js",
+    "https://f.vimeocdn.com/p/4.40.1/js/vendor.module.js",
     "https://fonts.googleapis.com/css2",
     "https://forms-na1.hsforms.com/embed/v3/counters.gif",
     "https://forms.hsforms.com/embed/v3/form/24054381/7dba62f5-90a3-4945-a9c1-3f58914f139d/json",
@@ -90,8 +93,8 @@
     ".arpa-h.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00086092529296875",
-  "largest_contentful_paint": "548.5999999940395",
+  "cumulative_layout_shift": "0.03592784228515625",
+  "largest_contentful_paint": "520.4000000953674",
   "required_links_url": [
     "about",
     "fear",
@@ -195,7 +198,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 133,
-  "www_scan_status": "completed",
   "www_url": "https://www.arpa-h.gov",
   "www_status_code": 404,
   "www_title": "Web Site Not Found"

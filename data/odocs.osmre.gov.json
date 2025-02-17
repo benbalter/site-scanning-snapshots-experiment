@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:58:35.676Z",
+  "scan_date": "2025-02-15T12:47:28.470Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -46,7 +49,7 @@
     "subagency": "OSMRE",
     "siteplatform": "ODOCS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -64,7 +67,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.27100683158365885",
-  "largest_contentful_paint": "404.2000000178814",
+  "largest_contentful_paint": "353",
   "required_links_url": [
     "about",
     "foia",
@@ -133,7 +136,6 @@
   "uswds_semantic_version": "v3.10.0",
   "uswds_version": 100,
   "uswds_count": 267,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

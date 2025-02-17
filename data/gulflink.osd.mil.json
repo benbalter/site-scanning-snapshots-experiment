@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T11:23:08.375Z",
+  "scan_date": "2025-02-15T12:46:13.184Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -29,7 +31,8 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"images\":1,\"language\":1}",
   "ipv6": false,
   "hostname": null,
@@ -43,7 +46,7 @@
     "agency": "DOD",
     "subagency": "MHS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-42641570-9,G-YWWW4PE59G,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -64,8 +67,8 @@
     "gulflink.osd.mil"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.009456100423177084",
-  "largest_contentful_paint": "382",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "387",
   "required_links_url": [
     "about",
     "fear",
@@ -105,13 +108,13 @@
   "robots_txt_sitemap_locations": [
     "https://gulflink.health.mil/sitemap.xml"
   ],
-  "sitemap_xml_detected": true,
-  "sitemap_xml_url": "https://gulflink.osd.mil/sitemap.xml",
-  "sitemap_xml_status_code": 200,
-  "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 901825,
-  "sitemap_xml_count": 4749,
-  "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
+  "sitemap_xml_filesize": null,
+  "sitemap_xml_count": null,
+  "sitemap_xml_pdf_count": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -124,7 +127,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.gulflink.osd.mil",
   "www_status_code": 200,
   "www_title": "GulfLINK Home"

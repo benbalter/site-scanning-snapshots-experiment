@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T12:19:40.815Z",
+  "scan_date": "2025-02-15T12:05:01.612Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -50,7 +53,7 @@
     "yt": "true",
     "exts": "aac,arc,arj,asf,asx,bin,flv,gif,gzip,hqx,jar,mp2,msp,phps,qt,qutm,mxd,ram,sea,sit,tar,torrent,tsv,wav,wpd,xml,z"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VN544RJZYW,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -63,7 +66,7 @@
     "https://fonts.googleapis.com/css",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -72,7 +75,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "173.09999999403954",
+  "largest_contentful_paint": "179.80000007152557",
   "required_links_url": [
     "about",
     "privacy"
@@ -98,14 +101,14 @@
   "language_link": "",
   "main_element_present": true,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online&spEntityID=tmp.fisheries.noaa.gov&service=cac-meta-tree&goto=https://sso.noaa.gov:443/openam/saml2/continue/metaAlias/noaa-online/idp?secondVisitUrl%3D/openam/SSORedirect/metaAlias/noaa-online/idp?ReqID%253Da2693jc3j2395i5i47b57344d7ce7ec&AMAuthCookie=",
+  "robots_txt_url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online&spEntityID=tmp.fisheries.noaa.gov&service=cac-meta-tree&goto=https://sso.noaa.gov:443/openam/saml2/continue/metaAlias/noaa-online/idp?secondVisitUrl%3D/openam/SSORedirect/metaAlias/noaa-online/idp?ReqID%253Dagg17fbbi1e832c1cj4j052fbj38c8&AMAuthCookie=",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online&spEntityID=tmp.fisheries.noaa.gov&service=cac-meta-tree&goto=https://sso.noaa.gov:443/openam/saml2/continue/metaAlias/noaa-online/idp?secondVisitUrl%3D/openam/SSORedirect/metaAlias/noaa-online/idp?ReqID%253Da569ih8di45dg375df80h35eb23256&AMAuthCookie=",
+  "sitemap_xml_url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online&spEntityID=tmp.fisheries.noaa.gov&service=cac-meta-tree&goto=https://sso.noaa.gov:443/openam/saml2/continue/metaAlias/noaa-online/idp?secondVisitUrl%3D/openam/SSORedirect/metaAlias/noaa-online/idp?ReqID%253Da32i513i92ia58bb7dh61ica3bdje3&AMAuthCookie=",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
@@ -123,7 +126,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

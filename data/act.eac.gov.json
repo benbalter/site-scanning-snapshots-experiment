@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T09:52:34.146Z",
+  "scan_date": "2025-02-16T04:37:43.952Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -46,12 +49,12 @@
     "web-assets.appian-cdn-gov.com"
   ],
   "third_party_service_urls": [
-    "https://web-assets.appian-cdn-gov.com/YWUtMjQuMy42NzAuMA/portal/css/banner.css",
-    "https://web-assets.appian-cdn-gov.com/YWUtMjQuMy42NzAuMA/portal/css/fonts/open-sans.css",
-    "https://web-assets.appian-cdn-gov.com/YWUtMjQuMy42NzAuMA/portal/css/fonts/opensans-bold-appian.woff2",
-    "https://web-assets.appian-cdn-gov.com/YWUtMjQuMy42NzAuMA/portal/css/fonts/opensans-regular-appian.woff2",
-    "https://web-assets.appian-cdn-gov.com/YWUtMjQuMy42NzAuMA/portal/css/login.css",
-    "https://web-assets.appian-cdn-gov.com/YWUtMjQuMy42NzAuMA/portal/css/standard_styles_static.css"
+    "https://web-assets.appian-cdn-gov.com/YWUtMjQuNC40MTAuMA/portal/css/banner.css",
+    "https://web-assets.appian-cdn-gov.com/YWUtMjQuNC40MTAuMA/portal/css/fonts/open-sans.css",
+    "https://web-assets.appian-cdn-gov.com/YWUtMjQuNC40MTAuMA/portal/css/fonts/opensans-bold-appian.woff2",
+    "https://web-assets.appian-cdn-gov.com/YWUtMjQuNC40MTAuMA/portal/css/fonts/opensans-regular-appian.woff2",
+    "https://web-assets.appian-cdn-gov.com/YWUtMjQuNC40MTAuMA/portal/css/login.css",
+    "https://web-assets.appian-cdn-gov.com/YWUtMjQuNC40MTAuMA/portal/css/standard_styles_static.css"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -59,7 +62,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.008210416666666668",
-  "largest_contentful_paint": "478.40000000596046",
+  "largest_contentful_paint": "384.7000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -104,7 +107,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

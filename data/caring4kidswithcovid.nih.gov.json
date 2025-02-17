@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:35:26.452Z",
+  "scan_date": "2025-02-16T11:44:41.111Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "azurefd.net",
@@ -44,7 +47,7 @@
     "agency": "HHS",
     "sdor": "nih.gov"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-logo,G-photo,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -72,11 +75,11 @@
     "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff2",
     "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff2",
     "https://kit.fontawesome.com/b829e221a5.js",
-    "https://nhlbi.122.2o7.net/b/ss/nhlbiglobal/1/JS-2.25.0-LDQM/s73968697467673",
+    "https://nhlbi.122.2o7.net/b/ss/nhlbiglobal/1/JS-2.25.0-LDQM/s3747935233974",
     "https://script.crazyegg.com/pages/data-scripts/0098/3175/sampling/caring4kidswithcovid.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0098/3175/site/caring4kidswithcovid.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0098/3175.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 9,
@@ -85,8 +88,8 @@
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7047973906249999",
-  "largest_contentful_paint": "336.40000000596046",
+  "cumulative_layout_shift": "0.703809890625",
+  "largest_contentful_paint": "335.89999997615814",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -137,7 +140,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://www.caring4kidswithcovid.nih.gov",
   "www_status_code": 200,
   "www_title": "CARING for Children with COVID - Home"

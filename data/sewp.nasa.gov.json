@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T14:11:53.234Z",
+  "scan_date": "2025-02-15T17:29:39.588Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -57,11 +60,12 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
+    ".nasa.gov",
     "sewp.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.17406139583333333",
-  "largest_contentful_paint": "694.0999999940395",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "1057.6999999284744",
   "required_links_url": [
     "about",
     "privacy"
@@ -73,7 +77,7 @@
   "https_enforced": true,
   "hsts": true,
   "title": "NASA SEWP Home",
-  "description": "The official NASA SEWP V (www1-1-pz)\n WWW resource.",
+  "description": "The official NASA SEWP V (www1-2-pz)\n WWW resource.",
   "keywords": "procurement, sewp, hardware, computers, purchase, order, software, peripherals, gwac, contract",
   "og_title": null,
   "og_description": null,
@@ -112,7 +116,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.sewp.nasa.gov",
   "www_status_code": 200,
   "www_title": "NASA SEWP Home"

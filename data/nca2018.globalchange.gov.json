@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T00:41:46.310Z",
+  "scan_date": "2025-02-16T06:55:38.400Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -46,7 +49,6 @@
     "ajax.googleapis.com",
     "api.mapbox.com",
     "connect.facebook.net",
-    "prod.smassets.net",
     "widget.surveymonkey.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
@@ -56,8 +58,6 @@
     "https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js",
     "https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css",
     "https://connect.facebook.net/en_US/sdk.js",
-    "https://prod.smassets.net/assets/responseweb/responseweb/1.0.0/assets/images/website/sm-logo-white-145x30.png",
-    "https://prod.smassets.net/assets/responseweb/responseweb/1.0.0/assets/images/website/x.png",
     "https://widget.surveymonkey.com/collect/website/js/cookie.js",
     "https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgdyWJ5rAg_2BlWg_2FfJevAllF97OoadVnYvu8YhU1Ag_2FrOeR.js",
     "https://www.google-analytics.com/analytics.js",
@@ -65,14 +65,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".globalchange.gov",
-    "nca2018.globalchange.gov"
+    ".globalchange.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000645734375",
-  "largest_contentful_paint": "570.3000000119209",
+  "cumulative_layout_shift": "0.062266828125",
+  "largest_contentful_paint": "559.7000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -122,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

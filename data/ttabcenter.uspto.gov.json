@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T15:00:50.459Z",
+  "scan_date": "2025-02-15T15:46:56.943Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"lists\":4}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -44,7 +47,7 @@
     "subagency": "USPTO",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-WEEVRM25X9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "components.uspto.gov",
@@ -62,15 +65,15 @@
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://znawvpgwyoyywpasu-uspto.gov1.siteintercept.qualtrics.com/SIE/"
   ],
   "third_party_service_count": 6,
@@ -79,8 +82,8 @@
     "ttabcenter.uspto.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.017196223510742188",
-  "largest_contentful_paint": "1421.800000011921",
+  "cumulative_layout_shift": "0.017572004760742187",
+  "largest_contentful_paint": "1252.7000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -139,7 +142,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

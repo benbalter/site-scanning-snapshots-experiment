@@ -5,7 +5,7 @@
   "initial_base_domain": "hhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fintune.microsoft.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3DMsfs9xkLkD4aX2XEjsMKrBAEbNrIzUbTpYYZL2fG-Ls8pG7Q7HOzOTRinzPN2URjtfKS8bAhP1fb_I6IX0eocE6-0ilCnsTdbTJ1F3Cp69QYQcSAD78DaLWBsH6AawQke2n2YTrrQO1pksFv7SVQRXKqS4H0ywiTUK41fCZ243rKo_EKY1n7LrGs87xbVX6blElsfaY0n5HlKf3RPZqfaPp08qRoedqRomg6IlIHqjEgckEDpVH02yoPZ15MUQYK3geZF1HhO4wDbDuwwnZS7iD244hRN2jZTO-jXbNXcuXjbmMaJ7C8alxaEHBjhjLzngqHwXLNRF81f6RW3uXVhIDRN-iyXLEc_MYA0NEfP084mEZly4bxprYCgg6hk1L0-6oLtuw9NeMuGe8442Kcxm7Q7Q1035dJRjzFF5JmP-NgD1Gf9n0X1mI5eDboFXDk&response_mode=form_post&nonce=638746991965223007.YWE4OWE5MjEtNzU2Zi00NGQ4LWJmYjktOThhNmY1OGUyNmE4NTgyM2I5ZDItYTIwYi00NDY3LTkwNjEtNzE0MGUzODdiYjg1&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=b0cc5efb-6c29-45fa-8c7e-231d985f81b4&x-client-SKU=ID_NET472&x-client-ver=7.5.0.0",
+  "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fintune.microsoft.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3DIxj-JdLCEkMTWXPoycm4fNCpPFu5nvddiWj69NK_ai0H_ba5KxYuamSuF6qk0uvOlV3vENJ-1zb0V8e7aGFlqiP0qgrD0skHUXlFSrAk7DrOWcM9ON5fgVZP2qzIe8rVz7F2r7o_IjwdIEzA6FP82HXq-cZoPbD5535uTRsloBF3wmN5ZM_LzaHKRJ8bQoxOFsL9m0qKN1k9PbDy6NCPrWjCrcUXy1oKsXofTKKmFf_EieG0hnYntKdkONFiXNCyXXGoVFPWZ1BaaWbRdubgPlYvnr2rQR6txo4JjleFdqhrYDpknEobVGyPBUzPDwNCpNIIserWb8fI-oXxAGyn-2Ax1vnVFmDUqdfG6fqR5B6Y1dRPlMvM3L0BPR-RA_IGpwTnfGee0Ji_G6vuazI9VShH_8XKHyI46W8xwdof7pz0dQVwjdjlNagG6NjO438PBptYfXpp7wT8-auGBnyfdA&response_mode=form_post&nonce=638752885190949178.NzM4YmFiM2QtOTY4My00NzBhLTkwNWMtMjE4YjMyNDE3NzI2ODdlMzg0NzUtNTYwMC00MjIyLWE1MTQtNjBjNWM1MjU4MTQ4&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=bad497da-ff5e-4270-9235-aa1cacc42136&x-client-SKU=ID_NET472&x-client-ver=7.5.0.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T12:00:12.030Z",
+  "scan_date": "2025-02-16T07:42:16.257Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "microsoft.com",
@@ -41,7 +43,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-Ls8pG7Q7HOzOTRi",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
     "intune.microsoft.com",
@@ -49,14 +51,14 @@
   ],
   "third_party_service_urls": [
     "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
-    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_v20ia-gahguvu2fgvxamhg2.js",
+    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_58kdvbzctdjk48yetaekng2.js",
     "https://aadcdn.msauth.net/shared/1.0/content/images/applogos/17_51e2d36bb3f20fbd95d946074449cd54.png",
     "https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/signin-github_4f133e101999f0f9f726427324505c7b.svg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_n7VKwtWYm2mBLcIKAZfQlw2.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_510f960da65b56e0607c.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_cc2c59f5ef2c09e14b08.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_iO_VLhbr8gXvmCnvbzDI7A2.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
     "https://intune.microsoft.com/",
     "https://intune.microsoft.com/signin/idpRedirect.js/",
@@ -68,8 +70,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.10542591145833334",
-  "largest_contentful_paint": "486.7999999821186",
+  "cumulative_layout_shift": "0.10542884114583334",
+  "largest_contentful_paint": "437",
   "required_links_url": [
     "privacy"
   ],
@@ -116,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

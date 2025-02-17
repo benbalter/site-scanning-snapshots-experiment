@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:10:48.369Z",
+  "scan_date": "2025-02-15T16:03:46.403Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,7 +50,7 @@
     "ver": "true",
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-129451891-1,G-4SK42M9X78",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -92,8 +95,8 @@
     "telehealth.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.27946175443522137",
-  "largest_contentful_paint": "1184.5",
+  "cumulative_layout_shift": "0.2510270467122396",
+  "largest_contentful_paint": "1153.3999999761581",
   "required_links_url": [
     "fear",
     "foia",
@@ -169,10 +172,9 @@
   "uswds_usa_classes": 55,
   "uswds_string": 4,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": null,
-  "uswds_version": 0,
-  "uswds_count": 139,
-  "www_scan_status": "completed",
+  "uswds_semantic_version": "2.13.1",
+  "uswds_version": 100,
+  "uswds_count": 239,
   "www_url": "https://telehealth.va.gov",
   "www_status_code": 200,
   "www_title": "VA Telehealth Services | Telehealth VA"

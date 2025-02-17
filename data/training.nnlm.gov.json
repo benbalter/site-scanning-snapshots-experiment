@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T13:16:15.899Z",
+  "scan_date": "2025-02-15T17:46:12.569Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,6 +50,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
+    "fonts.gstatic.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
     "www.gstatic.com",
@@ -54,6 +58,7 @@
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v5-font-face.min.css",
@@ -63,18 +68,19 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-solid-900-12.woff2",
     "https://kit.fontawesome.com/64fb4c3b24.js",
     "https://kit.fontawesome.com/64fb4c3b24/90939167/kit-upload.css",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
     "https://www.recaptcha.net/recaptcha/api.js",
     "https://www.recaptcha.net/recaptcha/api2/webworker.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     "training.nnlm.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "520",
+  "largest_contentful_paint": "415.60000002384186",
   "required_links_url": [
     "privacy"
   ],
@@ -123,7 +129,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

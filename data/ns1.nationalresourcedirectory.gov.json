@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T11:12:35.925Z",
+  "scan_date": "2025-02-15T18:51:06.136Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":23,\"user-control-name\":1,\"images\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"aria\":17,\"user-control-name\":1,\"images\":10}",
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -44,7 +46,7 @@
     "subagency": "WCP",
     "pua": "ua-33523145-2"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-3MZFK5DZJP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.google.com",
@@ -83,13 +85,13 @@
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-brands-400.woff2",
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-regular-400.woff2",
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-solid-900.woff2",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/j9mt6z6ah2",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
   "third_party_service_count": 16,
   "cookie_domains": [
@@ -97,7 +99,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.6303298616536458",
-  "largest_contentful_paint": "352.80000001192093",
+  "largest_contentful_paint": "345.3000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -152,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

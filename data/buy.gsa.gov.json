@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T01:56:10.212Z",
+  "scan_date": "2025-02-16T07:08:59.956Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,7 +50,7 @@
     "enhlink": "true",
     "yt": "false"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HBYXWFP794,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.evgnet.com",
@@ -89,7 +92,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0078/9933/sampling/buy.gsa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0078/9933/site/buy.gsa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0078/9933.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
@@ -103,8 +106,8 @@
     "buy.gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6141582552083333",
-  "largest_contentful_paint": "768.8000000119209",
+  "cumulative_layout_shift": "0.4905407096354167",
+  "largest_contentful_paint": "1129.2999999523163",
   "required_links_url": [
     "about",
     "fear",
@@ -193,7 +196,6 @@
   "uswds_semantic_version": "v3.8.2",
   "uswds_version": 100,
   "uswds_count": 215,
-  "www_scan_status": "completed",
   "www_url": "https://buy.gsa.gov",
   "www_status_code": 200,
   "www_title": "Home | BUY.GSA.GOV"

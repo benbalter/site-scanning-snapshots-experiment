@@ -5,7 +5,7 @@
   "initial_base_domain": "usda.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.cert.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-c2a90858-a978-45c9-8edf-930617479a6d&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-W59m8sID98oIiqEI4915q%2Bemb9pbVLQx7IALV%2FrlPJ1E5xc8nd5V8de9zyzDE%2B5KXrEcwwhf%2F9UOioMwrtEsH6XvJ4TMFGa5C4CclP2WXh9hCkH8fS%2B41GmllOHcMK3y&TARGET=-SM-https:%2F%2Feper.cert.sc.egov.usda.gov%2FePER%2Fspring%2FAppHomeFlow",
+  "url": "https://www.cert.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-c2a90858-a978-45c9-8edf-930617479a6d&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-mMQkUfV2KOTrBT2PmQdpyGTLej1dff%2BSZhKYNaVZ5iffJGkox2e%2FN0Ssdhz54dEw5eHh6NbYQVFqJBI3N8y9VYd5riiux03CB4zHGsKSz5Jw0OvB6iaEGB%2BZ88LIw5X%2B&TARGET=-SM-https:%2F%2Feper.cert.sc.egov.usda.gov%2FePER%2Fspring%2FAppHomeFlow",
   "domain": "www.cert.eauth.usda.gov",
   "base_domain": "usda.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:38:35.246Z",
+  "scan_date": "2025-02-15T15:07:11.416Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -53,8 +55,8 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "2352.2000000178814",
+  "cumulative_layout_shift": "0.9564464955240887",
+  "largest_contentful_paint": "1427.5",
   "required_links_url": [
     "privacy",
     "usa.gov"
@@ -122,7 +124,6 @@
   "uswds_semantic_version": "v2.11.2",
   "uswds_version": 100,
   "uswds_count": 165,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

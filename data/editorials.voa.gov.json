@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:18:59.871Z",
+  "scan_date": "2025-02-15T16:05:12.823Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":6,\"link-purpose\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"contrast\":4,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -61,18 +64,18 @@
   ],
   "third_party_service_urls": [
     "https://bbg.sc.omtrdc.net/b/ss/bbgprod",
-    "bbgentityvoa/1/JS-2.23.0/s12034227796910",
+    "bbgentityvoa/1/JS-2.23.0/s78575310393252",
     "https://connect.facebook.net/en_US/fbevents.js",
-    "https://gdb.voanews.com/038989f3-0e37-49d4-8c0a-153b3c9c75e7_cx0_cy12_cw0_w144_r1.jpg",
-    "https://gdb.voanews.com/17f595bc-a05a-4e48-af66-9acd5a5b61b5_cx0_cy8_cw0_w144_r1.jpg",
-    "https://gdb.voanews.com/20c6f09c-b0f2-4d1a-9d41-e9914738a91d_w144_r1.jpg",
-    "https://gdb.voanews.com/237f54a5-d7c2-4abf-9c84-33e8f27b0829_cx0_cy9_cw0_w144_r1.jpg",
-    "https://gdb.voanews.com/36580456-1e41-4a08-be11-3cb8c851ab21_w144_r1.jpg",
-    "https://gdb.voanews.com/8612c316-067a-4cfb-87cc-f37af7b009a9_tv_w144_r1.jpg",
-    "https://gdb.voanews.com/8ff87462-3a91-44f0-b048-af3207f888e8_cx0_cy10_cw0_w408_r1.jpg",
+    "https://gdb.voanews.com/50c1d977-0dca-4b4a-ab11-bfd3a362275a_cx0_cy2_cw0_w144_r1.jpg",
+    "https://gdb.voanews.com/7f4e0039-808e-459c-9bbd-921148bfbadf_w144_r1.jpg",
+    "https://gdb.voanews.com/8d44d7b4-9003-4d71-abb6-0edde71193d7_cx0_cy10_cw0_w144_r1.jpg",
+    "https://gdb.voanews.com/9c36b40a-fca1-4276-ddb3-08dd4a81f35f_cx0_cy2_cw0_w144_r1.jpg",
+    "https://gdb.voanews.com/a4912d69-8c86-46cd-ba7a-951545991fff_cx0_cy10_cw0_w408_r1.jpg",
+    "https://gdb.voanews.com/ef2413ca-2135-48d0-950a-d2b06a4a77e6_cx0_cy10_cw0_w144_r1.jpg",
+    "https://gdb.voanews.com/f494740c-2a86-4750-f723-08dd4a817620_tv_w144_r1.jpg",
     "https://mab.chartbeat.com/mab_strategy/headline_testing/get_strategy/",
     "https://ping.chartbeat.net/ping",
-    "https://pixel.quantserve.com/pixel;r=508150246;rf=0;a=p-BgErSP_RLcMf_;url=https%3A%2F%2Feditorials.voa.gov%2F;ns=0;ce=1;qjs=1;qv=53b98956-20250121164344;ref=;dst=0;et=1739027932061;tzo=0;ogl=type.article%2Ctitle.Editorials%20on%20Voice%20of%20America%2Cdescription.Editorials%20on%20Voice%20of%20America%2Cimage.https%3A%2F%2Feditorials%252Evoa%252Egov%2FContent%2Fresponsive%2FVOA%2Fimg%2Ftop_logo_news%252Epng%2Cimage%3Awidth.640%2Cimage%3Aheight.640%2Cimage%3Aalt.site%20logo%2Curl.https%3A%2F%2Feditorials%252Evoa%252Egov%2F%2Csite_name.Voice%20of%20America;ses=a0fd966f-3ca5-4d21-85e8-142148746871;d=voa.gov;uht=2;fpan=0;fpa=P0-2094026797-1739027928457;pbc=;gdpr=0;mdl=",
+    "https://pixel.quantserve.com/pixel;r=1924437021;rf=0;a=p-BgErSP_RLcMf_;url=https%3A%2F%2Feditorials.voa.gov%2F;ns=0;ce=1;qjs=1;qv=53b98956-20250121164344;ref=;dst=0;et=1739635505358;tzo=0;ogl=type.article%2Ctitle.Editorials%20on%20Voice%20of%20America%2Cdescription.Editorials%20on%20Voice%20of%20America%2Cimage.https%3A%2F%2Feditorials%252Evoa%252Egov%2FContent%2Fresponsive%2FVOA%2Fimg%2Ftop_logo_news%252Epng%2Cimage%3Awidth.640%2Cimage%3Aheight.640%2Cimage%3Aalt.site%20logo%2Curl.https%3A%2F%2Feditorials%252Evoa%252Egov%2F%2Csite_name.Voice%20of%20America;ses=15ea074b-e6ff-4f98-8fab-1db6a97216ec;d=voa.gov;uht=2;fpan=0;fpa=P0-1762334937-1739635502160;pbc=;gdpr=0;mdl=",
     "https://rules.quantcount.com/rules-p-BgErSP_RLcMf_.js",
     "https://sb.scorecardresearch.com/b",
     "https://sb.scorecardresearch.com/b2",
@@ -81,7 +84,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0110/3540/sampling/editorials.voa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0110/3540/site/editorials.voa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0110/3540.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://secure.quantserve.com/quant.js",
     "https://static.chartbeat.com/js/chartbeat_mab.js",
     "https://static.chartbeat.com/js/chartbeat_video.js",
@@ -96,7 +99,7 @@
     "https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 14,
   "cookie_domains": [
@@ -104,8 +107,8 @@
     "editorials.voa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0037212231445312503",
-  "largest_contentful_paint": "365.89999997615814",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "321",
   "required_links_url": [
     "about"
   ],
@@ -141,7 +144,7 @@
   "sitemap_xml_url": "https://editorials.voa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 694,
+  "sitemap_xml_filesize": 695,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -156,7 +159,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://editorials.voa.gov",
   "www_status_code": 200,
   "www_title": "Editorials on Voice of America"

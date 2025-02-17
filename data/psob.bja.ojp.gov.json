@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T11:03:33.175Z",
+  "scan_date": "2025-02-15T12:24:22.237Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -43,7 +45,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-33523145-1,UA-66328376-1,G-V4D50STTM4,G-PBYSD1LVK5,G-CSLL4ZEK4L,UA-37774784-1,UA-122677529-4,G-SCJZMMH0QG",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -53,8 +55,6 @@
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "gateway.foresee.com",
     "high.content.powerapps.us",
     "psob.bja.ojp.gov",
@@ -66,18 +66,16 @@
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
     "https://analytics.google.com/g/collect",
-    "https://brain.foresee.com/state/ojp-main/f9293028-50b7-4d17-869a-06aa576f62d8",
+    "https://brain.foresee.com/state/ojp-main/f038606e-cd99-4e0e-b99c-955ce1ebcb31",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/UniversalFederatedAnalyticsMin.js",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.feedback.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.mouseoff.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.survey.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.utils.js",
@@ -86,11 +84,8 @@
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/main.css",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/code/6.1.2-mp/mpathy-modern.js",
     "https://gateway.foresee.com/sites/ojp-main/production/gateway.min.js",
-    "https://gateway.foresee.com/sites/ojp-main/production/trigger/bja_logo.png",
     "https://high.content.powerapps.us/resource/powerappsportal/dist/app.bundle-dad47d7e41.js",
     "https://high.content.powerapps.us/resource/powerappsportal/dist/bootstrap.bundle-105a4995b8.js",
     "https://high.content.powerapps.us/resource/powerappsportal/dist/client-telemetry-wrapper.bundle-633e70f51b.js",
@@ -131,13 +126,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 16,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "430.80000001192093",
+  "cumulative_layout_shift": "0.003811328125",
+  "largest_contentful_paint": "428.60000002384186",
   "required_links_url": [
     "about",
     "foia",
@@ -218,7 +213,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 107,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

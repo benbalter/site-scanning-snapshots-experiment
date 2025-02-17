@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T10:52:17.784Z",
+  "scan_date": "2025-02-16T03:24:37.219Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -45,7 +48,7 @@
     "agency": "DHHS",
     "subagency": "CMS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
@@ -71,9 +74,9 @@
   "third_party_service_urls": [
     "https://adobe-ep.cms.gov/ee/v1/interact",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
-    "https://clientsdk.launchdarkly.us/sdk/evalx/675c6894b5279f07e2220f44/contexts/eyJraW5kIjoidXNlciIsImtleSI6InVzZXIta2V5LTM5OS4xMDkyMDMyNTQ5NTY2In0",
-    "https://clientsdk.launchdarkly.us/sdk/goals/675c6894b5279f07e2220f44",
-    "https://clientstream.launchdarkly.us/eval/675c6894b5279f07e2220f44/eyJraW5kIjoidXNlciIsImtleSI6InVzZXIta2V5LTM5OS4xMDkyMDMyNTQ5NTY2In0",
+    "https://clientsdk.launchdarkly.us/sdk/evalx/66e47f6c009fb30774041818/contexts/eyJraW5kIjoidXNlciIsImtleSI6InVzZXIta2V5LTY5Ljk0OTMzODEyNDg4NzY5In0",
+    "https://clientsdk.launchdarkly.us/sdk/goals/66e47f6c009fb30774041818",
+    "https://clientstream.launchdarkly.us/eval/66e47f6c009fb30774041818/eyJraW5kIjoidXNlciIsImtleSI6InVzZXIta2V5LTY5Ljk0OTMzODEyNDg4NzY5In0",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
@@ -93,11 +96,11 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/ytc/AIdro_mzqan0vWHz3tFF_UCrDS6kwQEQyJX0SUwIyPqrt_ut8lM=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 19,
@@ -105,8 +108,8 @@
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.10435426595052083",
-  "largest_contentful_paint": "899.5",
+  "cumulative_layout_shift": "0.10413629557291665",
+  "largest_contentful_paint": "1154.3999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -161,7 +164,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

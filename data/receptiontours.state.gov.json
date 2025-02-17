@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:46:13.367Z",
+  "scan_date": "2025-02-15T13:58:08.427Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -51,7 +53,6 @@
     "c.salesforce.com",
     "cdn.evgnet.com",
     "cdn.optimizely.com",
-    "csp-report.force.com",
     "geolocation.onetrust.com",
     "logx.optimizely.com",
     "wp.sfdcdigital.com",
@@ -89,14 +90,13 @@
     "https://a.sfdcstatic.com/shared/fonts/salesforce-sans/SalesforceSans-Regular.woff2",
     "https://a.sfdcstatic.com/shared/js/public/nunjucks-slim.min.js",
     "https://c.salesforce.com/c2/public/exp/c360/pal/bundle.eac8db148673d3d61ce7.js",
-    "https://c.salesforce.com/c2/public/exp/pbc/lwc/prod.pV_ROjLy.js",
-    "https://c.salesforce.com/c2/public/exp/pbc/server/css/style.835d7f4d807466ac1b89.css",
+    "https://c.salesforce.com/c2/public/exp/pbc/lwc/prod.DicFfqR8.js",
+    "https://c.salesforce.com/c2/public/exp/pbc/server/css/style.5dc6ae86d699efacd820.css",
     "https://c.salesforce.com/c2/public/exp/pbc/server/nunjucksFilters.d79b3344e3c0caf98204.js",
-    "https://c.salesforce.com/c2/public/exp/pbc/server/scripts.50f6d5fb7e521c5bd820.js",
-    "https://c.salesforce.com/c2/public/exp/pbc/server/templates.45dc07345872a1546dae.js",
+    "https://c.salesforce.com/c2/public/exp/pbc/server/scripts.bcd4e08f5ab7514553b8.js",
+    "https://c.salesforce.com/c2/public/exp/pbc/server/templates.3bb3fba22a83f73464ae.js",
     "https://cdn.evgnet.com/beacon/salesforce/sf_shared_prod/scripts/evergage.min.js",
     "https://cdn.optimizely.com/js/22444972181.js",
-    "https://csp-report.force.com/_/ContentDomainCSPNoAuth",
     "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
     "https://logx.optimizely.com/v1/events",
     "https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/12/php-login-free-trial-fg-2.png",
@@ -104,14 +104,14 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.salesforce.com/wbin/www-core/f/g"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".salesforce.com",
     "login.salesforce.com"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.00035000000000000005",
-  "largest_contentful_paint": "354.2000000178814",
+  "largest_contentful_paint": "341.1999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -158,7 +158,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

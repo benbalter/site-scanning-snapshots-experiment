@@ -18,10 +18,11 @@
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-09T11:53:46.530Z",
+  "scan_date": "2025-02-15T18:35:17.392Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -51,11 +53,12 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".house.gov",
     ".www.house.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0075748759765625",
-  "largest_contentful_paint": "280.80000001192093",
+  "largest_contentful_paint": "226.89999997615814",
   "required_links_url": [
     "privacy"
   ],
@@ -105,7 +108,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

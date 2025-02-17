@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:17:55.010Z",
+  "scan_date": "2025-02-15T15:59:54.290Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,8 +49,8 @@
     "ver": "true",
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-ATnrz2w73ZBz0ng,G-3MU4v81ESBPPaoM",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-rgVqsHfI89JGkS6,G-ldi4f9,G-mr5Xmdv4uhq3N,G-ZvgdgNrPvo6w",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,13 +62,13 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90ec96724dee2f6d/1739027858519/_PKcwYLc3gd4uF0",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/664139072:1739024302:xHeqIPoJEMJeUwJZ_ZY0f1yq-9PeRKxlK6_E7IJZdao/90ec96724dee2f6d/I2_hJfAwRU68oITakOEnz.RtuB_DsqfNhwIrgZk9wlQ-1739027858-1.1.1.1-zfMnbGdJgT3NV4hKQTMq1jLOiZpD4UzoKPJaVFFnB.UUyAhie2jOJqthSXr5NCbM",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90ec96724dee2f6d/1739027858519/ed2bf0f867e0de0f7c5e545a6bee94fe4840477e584379bde8c4f51af9e67a59/gQolVe9HNX9EHhp",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/91268185e8bafefd/1739635175633/crxFZfgO_29yXrR",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1556586241:1739633109:nrZEDKN-LqGKnyWWw_mHxFZTrqzHI-MSnuK5HYe-lmc/91268185e8bafefd/QXwhC7.iCpr99ebghmfWPoK77ev.ZXFEyO0dbdlBWuo-1739635175-1.1.1.1-d5KwRi89QMmX6uzRCq7.ExvjAIWVHNXa5EwMQWI7AYghow3nRN232um1R9YPUgv6",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/91268185e8bafefd/1739635175639/f60cd835af19e72e693e673e8ddcd0f37bd911537a50edddf42210597d01f2c2/wAoJlwCisUgr8WW",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://news.va.gov/wp-content/uploads/sites/3/2024/12/Aching-back_vp1.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2024/12/Twins_vp1.jpg",
@@ -85,8 +87,8 @@
     ".va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7494789029947919",
-  "largest_contentful_paint": "932.3000000119209",
+  "cumulative_layout_shift": "0.4364341604410808",
+  "largest_contentful_paint": "736.3000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -149,7 +151,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 129,
-  "www_scan_status": "completed",
   "www_url": "https://department.va.gov/integrated-service-networks/visn-07",
   "www_status_code": 200,
   "www_title": "VISN 07 - Veterans Integrated Service Networks"

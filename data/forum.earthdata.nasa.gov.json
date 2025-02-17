@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T11:43:01.882Z",
+  "scan_date": "2025-02-16T02:38:59.381Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":5,\"user-control-name\":1,\"contrast\":1,\"lists\":19,\"link-purpose\":3,\"form-names\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"aria\":5,\"user-control-name\":1,\"contrast\":1,\"lists\":13,\"link-purpose\":3,\"form-names\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -44,7 +47,7 @@
     "agency": "NASA",
     "subagency": "LARC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-62340125-3,G-YZP0T6YGD0,G-M3PE7MJ3XR",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -82,7 +85,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0013/2090/sampling/forum.earthdata.nasa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0013/2090/site/forum.earthdata.nasa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0013/2090.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://status.earthdata.nasa.gov/api/v1/notifications",
     "https://status.earthdata.nasa.gov/assets/banner_widget-938d460bea51146ecd99ed49370b578f126c206b2405b083ce7e74aa76bc2ef0.css",
     "https://status.earthdata.nasa.gov/assets/banner_widget.js",
@@ -101,7 +104,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.011677187215169272",
-  "largest_contentful_paint": "1759.199999988079",
+  "largest_contentful_paint": "1789.6999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -151,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

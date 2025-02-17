@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "omb_idea",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T12:11:52.881Z",
+  "scan_date": "2025-02-15T13:39:12.896Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -46,32 +49,24 @@
   "dap_version": "",
   "ga_tag_id": "G-W7JUM,G-CK446JT7HW,UA-119805192-1",
   "third_party_service_domains": [
-    "17de4c11.akstat.io",
-    "52-222-122-97_s-23-44-205-219_ts-1739016704-clienttons-s.akamaihd.net",
+    "17de4c10.akstat.io",
     "ajax.googleapis.com",
     "c.go-mpulse.net",
     "cdn.jsdelivr.net",
     "fonts.gstatic.com",
-    "gtphuyixftg2sz5hjiaa-p8pluw-070f8cd69-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c11.akstat.io/",
-    "https://52-222-122-97_s-23-44-205-219_ts-1739016704-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c10.akstat.io/",
     "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://gtphuyixftg2sz5hjiaa-p8pluw-070f8cd69-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/UDYNG-W7JUM-TGUHM-5D9WK-AGB9W",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/api.js",
@@ -79,17 +74,17 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".sec.gov",
     "omms.sec.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "2185.300000011921",
+  "largest_contentful_paint": "1209.2000000476837",
   "required_links_url": [
     "privacy"
   ],
@@ -136,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -23,10 +23,12 @@
     "omb_idea",
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T04:30:00.428Z",
+  "scan_date": "2025-02-16T04:54:41.672Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +37,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":2,\"images\":2,\"link-purpose\":3}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"aria\":3,\"images\":2}",
   "ipv6": true,
   "hostname": "qipservices.com",
   "cms": "Drupal",
@@ -48,13 +51,12 @@
     "agency": "ED",
     "subagency": "NCES"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-8LR1TG8QPD,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api.ies.ed.gov",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "ies.ed.gov",
     "static.addtoany.com",
     "www.googletagmanager.com"
@@ -66,10 +68,6 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/icon",
-    "https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
-    "https://fonts.gstatic.com/s/materialiconsoutlined/v109/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcel5euIg.woff2",
-    "https://fonts.gstatic.com/s/materialiconssharp/v109/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvRImcycg.woff2",
-    "https://fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ7QwOk1.woff2",
     "https://ies.ed.gov/sites/default/files/site-structure/domain_icon/2024/10/LinkedIn-social-icon-white.svg",
     "https://ies.ed.gov/sites/default/files/site-structure/domain_icon/2024/10/facebook-social-icon-white.svg",
     "https://ies.ed.gov/sites/default/files/site-structure/domain_icon/2025/01/IES_NCES%20logo%20mark%201.svg",
@@ -79,13 +77,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".ed.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.12813919270833335",
-  "largest_contentful_paint": "1193.199999988079",
+  "cumulative_layout_shift": "0.11530914062500001",
+  "largest_contentful_paint": "1549.4000000953674",
   "required_links_url": [
     "about"
   ],
@@ -136,7 +134,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://nces.ed.gov",
   "www_status_code": 200,
   "www_title": "National Center for Education Statistics (NCES) | IES"

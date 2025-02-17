@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T02:38:34.571Z",
+  "scan_date": "2025-02-16T02:58:02.743Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "azurefd.net",
@@ -42,10 +45,9 @@
   "dap_parameters": {
     "agency": "OPM"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-PSPGQZJ3ZL,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "abs-0.twimg.com",
     "abs.twimg.com",
     "dap.digitalgov.gov",
     "p.typekit.net",
@@ -56,20 +58,16 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg",
     "https://abs.twimg.com/sticky/animations/like.4.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://p.typekit.net/p.css",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1881407922837618688/pu/img/6h8djgVIbrVKfKBI.jpg",
     "https://pbs.twimg.com/media/GiGYlfGWcAA-Vkr",
     "https://pbs.twimg.com/media/GifoNG4WYAAUCTZ",
     "https://pbs.twimg.com/media/GifoNG5XIAAou7s",
     "https://pbs.twimg.com/profile_images/1790465854796132352/IQFGE9Bu_mini.jpg",
     "https://pbs.twimg.com/profile_images/1790465854796132352/IQFGE9Bu_normal.jpg",
-    "https://pbs.twimg.com/profile_images/1881368435453542400/NnD56DYV_normal.jpg",
     "https://pbs.twimg.com/profile_images/1885872721029963776/V6UVbEFt_normal.jpg",
-    "https://pbs.twimg.com/profile_images/1887136123735969792/Hpkvc2zJ_bigger.jpg",
     "https://platform.twitter.com/_next/static/H8u53u8SWsWwviLqzqhm-/_buildManifest.js",
     "https://platform.twitter.com/_next/static/H8u53u8SWsWwviLqzqhm-/_ssgManifest.js",
     "https://platform.twitter.com/_next/static/chunks/1362.42d432e02f7980bca032.js",
@@ -96,15 +94,16 @@
     "https://syndication.twitter.com/settings",
     "https://use.typekit.net/af/a19ad7/00000000000000003b9b4051/27/l",
     "https://use.typekit.net/vgn7vpt.css",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".chcoc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.21678936458333334",
-  "largest_contentful_paint": "679.3999999761581",
+  "cumulative_layout_shift": "0.21675269791666665",
+  "largest_contentful_paint": "934.6999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -169,7 +168,6 @@
   "uswds_semantic_version": "v2.13.1",
   "uswds_version": 100,
   "uswds_count": 265,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

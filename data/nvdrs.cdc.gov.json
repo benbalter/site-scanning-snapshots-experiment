@@ -5,7 +5,7 @@
   "initial_base_domain": "cdc.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.cdc.gov/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-ea7c0537-1b13-4a2d-9e88-3342476fcb71&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=SecureProxyServerAgent&TARGET=-SM-HTTPS%3a%2f%2ftrust%2ecdc%2egov%2faffwebservices%2fredirectjsp%2fredirect%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Ftrust%2ecdc%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d1d0c92bf--85191f63--0824d573--a4b0da53--a97c7704--ab",
+  "url": "https://auth.cdc.gov/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-ea7c0537-1b13-4a2d-9e88-3342476fcb71&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=SecureProxyServerAgent&TARGET=-SM-HTTPS%3a%2f%2ftrust%2ecdc%2egov%2faffwebservices%2fredirectjsp%2fredirect%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Ftrust%2ecdc%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d20f3c614--a2d72323--fb83e5de--67357c9d--788c0ee6--6e8",
   "domain": "auth.cdc.gov",
   "base_domain": "cdc.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:19:17.873Z",
+  "scan_date": "2025-02-15T16:35:05.683Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -54,19 +56,19 @@
     "cdc.112.2o7.net",
     "search.usa.gov",
     "stats.search.usa.gov",
-    "wipv-sams-iwb03.cdc.gov",
+    "wipv-sams-iwb04.cdc.gov",
     "www.google-analytics.com"
   ],
   "third_party_service_urls": [
     "https://apigw.cdc.gov/favicon.ico",
-    "https://cdc.112.2o7.net/b/ss/devcdc/1/H.21/s64508160607950",
+    "https://cdc.112.2o7.net/b/ss/devcdc/1/H.21/s79736611268069",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/assets/stats.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://stats.search.usa.gov/stats.gif",
-    "https://wipv-sams-iwb03.cdc.gov/DbRestAPI/api/MaintenanceStatus",
+    "https://wipv-sams-iwb04.cdc.gov/DbRestAPI/api/MaintenanceStatus",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect"
   ],
@@ -76,8 +78,8 @@
     ".cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05510143233235677",
-  "largest_contentful_paint": "1236.9000000059605",
+  "cumulative_layout_shift": "0.09851412019856771",
+  "largest_contentful_paint": "647.3999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -133,7 +135,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

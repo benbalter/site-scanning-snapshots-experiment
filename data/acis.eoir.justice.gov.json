@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:10:40.794Z",
+  "scan_date": "2025-02-16T08:49:11.248Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "ipv6": false,
   "hostname": null,
@@ -43,7 +46,7 @@
   "dap_parameters": {
     "agency": "DOJ"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api.hcaptcha.com",
@@ -52,7 +55,6 @@
     "dc.applicationinsights.us",
     "js.hcaptcha.com",
     "newassets.hcaptcha.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,19 +63,18 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dc.applicationinsights.us/v2/track",
     "https://js.hcaptcha.com/1/api.js",
-    "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
-    "https://www.google-analytics.com/g/collect",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".acis.eoir.justice.gov",
     ".justice.gov",
     "acis.eoir.justice.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
+  "cumulative_layout_shift": "0.14074015380859375",
+  "largest_contentful_paint": "1094",
   "required_links_url": [
     "foia",
     "privacy",
@@ -130,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

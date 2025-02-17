@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "gov"
+    "gov",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T10:25:11.533Z",
+  "scan_date": "2025-02-15T17:35:18.695Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -49,7 +51,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcvaxgov/1/JS-2.22.4-LDQM/s71305097363942",
+    "https://cdc.112.2o7.net/b/ss/cdcvaxgov/1/JS-2.22.4-LDQM/s75330866831857",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/152997a115db/88cb1f2f501f/RC0bb6b622134a437aa1b9a73cc3ce5e2c-source.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/152997a115db/88cb1f2f501f/RC91601926a87f434f9d8105dc722ffbcf-source.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/152997a115db/88cb1f2f501f/hostedLibFiles/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement.min.js",
@@ -66,7 +68,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "600.3000000119209",
+  "largest_contentful_paint": "609.9000000953674",
   "required_links_url": [
     "privacy"
   ],
@@ -117,7 +119,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.vaccines.gov/en",
   "www_status_code": 200,
   "www_title": "Find pharmacies near you"

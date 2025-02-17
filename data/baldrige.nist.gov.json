@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:40:05.767Z",
+  "scan_date": "2025-02-15T11:08:51.176Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":2}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -43,7 +45,7 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45je5240v895826815za200"
+    "gtm": "45je52d0v895826815za200"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-CSLL4ZEK4L",
@@ -67,8 +69,8 @@
     ".www.nist.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.20924182865397134",
-  "largest_contentful_paint": "546.1999999880791",
+  "cumulative_layout_shift": "0.18828809737141927",
+  "largest_contentful_paint": "513.5",
   "required_links_url": [
     "about",
     "fear",
@@ -91,8 +93,8 @@
   "og_title": "Baldrige Performance Excellence Program",
   "og_description": "The Baldrige Program is the nation's only public-private partnership dedicated to improving the performance, resilience, and long-term success of U.S. businesses and other organizations",
   "og_article_published": "2015-12-18T17:58:00.000Z",
-  "og_article_modified": "2025-01-28T17:17:00.000Z",
-  "og_image": null,
+  "og_article_modified": "2025-02-12T18:50:00.000Z",
+  "og_image": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
   "og_type": "Article",
   "og_url": "https://www.nist.gov/baldrige",
   "canonical_link": "https://www.nist.gov/baldrige",
@@ -141,7 +143,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 115,
-  "www_scan_status": "completed",
   "www_url": "https://www.nist.gov/baldrige",
   "www_status_code": 200,
   "www_title": "Baldrige Performance Excellence Program | NIST"

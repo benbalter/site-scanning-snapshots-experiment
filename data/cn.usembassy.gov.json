@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:55:16.812Z",
+  "scan_date": "2025-02-16T08:08:06.027Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +31,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":7,\"link-purpose\":3,\"lists\":3}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":7,\"link-purpose\":2,\"lists\":3}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "DOS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RH13VY8T2N,G-Pauline,G-Walker,G-ColemanHeadShot,G-Green,G-CSLL4ZEK4L,UA-30666747-1,UA-22995010-2,G-X0XE93QS3G",
   "third_party_service_domains": [
     "app.enzuzo.com",
@@ -79,7 +81,7 @@
     "https://share.america.gov/wp-content/uploads/sites/155/2025/01/rubio_state_clapin_hero-2194552726-2-300x129.jpg",
     "https://share.america.gov/wp-content/uploads/sites/155/2025/01/trump_inauguration_melania_5x3-2163963481-300x180.jpg",
     "https://share.america.gov/wp-content/uploads/sites/155/2025/01/vance_inauguration_5x3-2162474357-300x180.jpg",
-    "https://share.america.gov/wp-content/uploads/sites/155/2025/01/vance_inauguration_5x3-25020614756832-300x180.jpg",
+    "https://share.america.gov/wp-content/uploads/sites/155/2025/01/vance_inauguration_hero-25020614756832-300x129.jpg",
     "https://share.america.gov/wp-content/uploads/sites/155/2025/02/NFL-HERO-2-300x129.jpg",
     "https://use.fontawesome.com/releases/v6.4.2/css/all.css",
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-brands-400.woff2",
@@ -91,7 +93,8 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -100,8 +103,8 @@
     "china.usembassy-china.org.cn"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3169447247721354",
-  "largest_contentful_paint": "352.89999997615814",
+  "cumulative_layout_shift": "0.31685921785481774",
+  "largest_contentful_paint": "345.40000009536743",
   "required_links_url": [
     "fear",
     "foia",
@@ -122,7 +125,7 @@
   "og_title": "Homepage",
   "og_description": "The mission of the U.S. Embassy is to advance the interests of the United States, and to serve and protect U.S. citizens in China.",
   "og_article_published": null,
-  "og_article_modified": "2025-02-06T06:30:19.000Z",
+  "og_article_modified": "2025-02-14T06:04:01.000Z",
   "og_image": "https://china.usembassy-china.org.cn/wp-content/uploads/sites/23/2021/08/China-seal-en.jpg",
   "og_type": "website",
   "og_url": "https://china.usembassy-china.org.cn/",
@@ -175,7 +178,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 60,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

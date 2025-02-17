@@ -1,5 +1,5 @@
 {
-  "name": "ehbuat03t01.hrsa.gov",
+  "name": null,
   "initial_url": "https://ehbuat03t01.hrsa.gov",
   "initial_domain": "ehbuat03t01.hrsa.gov",
   "initial_base_domain": "hrsa.gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-09T07:21:15.823Z",
+  "scan_date": "2025-02-16T08:21:10.601Z",
   "primary_scan_status": "timeout",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "timeout",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -40,7 +42,7 @@
   "search_dot_gov": null,
   "dap": null,
   "dap_parameters": null,
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": null,
   "third_party_service_urls": null,
@@ -96,7 +98,6 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

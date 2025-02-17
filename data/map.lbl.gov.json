@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T08:39:58.891Z",
+  "scan_date": "2025-02-16T09:28:54.529Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -42,12 +45,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "UA-28019997-1,UA-19491314-1,G-9GFN757Q2T,G-M3XE3GHE12",
   "third_party_service_domains": [
     "code.ctpprojects.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "style.ctpprojects.com"
+    "google.com",
+    "googleads.g.doubleclick.net",
+    "style.ctpprojects.com",
+    "www.google-analytics.com",
+    "www.google.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://code.ctpprojects.com/anyre.min.js",
@@ -55,18 +63,26 @@
     "https://code.ctpprojects.com/loader.min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdMPmDaZRbrw.woff2",
+    "https://google.com/ccm/form-data/1031453926",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031453926/",
     "https://style.ctpprojects.com/anyre.base.css",
     "https://style.ctpprojects.com/client/lbl.embed.css",
     "https://style.ctpprojects.com/fontawesome/6.5.1-free/css/brands.min.css",
-    "https://style.ctpprojects.com/fontawesome/css/all.min.css"
+    "https://style.ctpprojects.com/fontawesome/css/all.min.css",
+    "https://style.ctpprojects.com/fontawesome/webfonts/fa-regular-400.woff2",
+    "https://style.ctpprojects.com/fontawesome/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.google.com/ccm/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".lbl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04913125000000001",
-  "largest_contentful_paint": "1923.800000011921",
+  "cumulative_layout_shift": "0.04913125",
+  "largest_contentful_paint": "1686.0999999046326",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -111,7 +127,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

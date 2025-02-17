@@ -5,7 +5,7 @@
   "initial_base_domain": "nga.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638746172740816665.ZWYyNjQ5MWQtYjVkZS00MzI1LTgzODEtNDg0Y2ZlYjhhOTg0NDhiMjMyYjMtMjY4Yi00Mjc3LWJiMWQtMmRmMjgwMDVlMWQ2&ui_locales=en-US&mkt=en-US&client-request-id=edc07f9d-d8f8-4fcf-a41c-4b7ad316c54a&state=iMDFhtUGGuvRAYxVFLS3UmGiY4qxbvvdBYzkVHdScvAeBoDRq5DE253xaCnqtgJKZ9orQlQt77_Gxc2EVuykN_n5rg631Bwdykxsu_kGyrk34lcs3Hppp0DnWiEGqhXoLWpcwAfpX7PSqN9Kw1QVo4mY-kKr0G8OYSOfpUxSbxoEwnMnQOU6sspBwckUFS3_MbCWcFoXUlTfjyXN95gq3ROANfLM3q9tCfF_B65eHcstUKb5wP747iypgRJaL0fTArLtLBT4UNuyfVLfU2XXyQ&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0",
+  "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638752382447753906.OTZjYTkzNWMtY2ExZS00MTRiLTk1ZGItNTM1ZTMxMjVkNDNjOTVlZThjMDctYjEzNi00YjVkLWI5Y2MtM2UwYjFjZTE1OWVk&ui_locales=en-US&mkt=en-US&client-request-id=c374c922-0c4a-46cf-85ba-1c5ef13bf426&state=LMSg5TWHduESzdAGl8sLfOa7DZpV-N_8cBO9oDIvVgKQ5M95tIDtRmiNXDH03vmrR7fBnYj7uHCp7GyauAFEffQH60oXGggqu3PV1KaRZZnQrHmqpQ4qRc3k-H2nQ_yHapQdhJa41mz1Hfz-ocmEyZhwhcY0LcVYzHmG_ex_irknZD53nrh2teTyyOGAhVhshkYYawwHQ58TS-IXOauoSaoMw7JAOdMITpORO_PKXCKRJepz2n7my7ZJ629krDeQWZ_hQQbvl_FztBkNlhwX9w&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:14:41.926Z",
+  "scan_date": "2025-02-15T17:44:13.068Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "microsoftonline.com",
@@ -67,8 +69,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.133500828125",
-  "largest_contentful_paint": "1381.5999999940395",
+  "cumulative_layout_shift": "0.06113689062500001",
+  "largest_contentful_paint": "1066.5",
   "required_links_url": [
     "privacy"
   ],
@@ -115,7 +117,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

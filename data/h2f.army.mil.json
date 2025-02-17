@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T15:28:29.322Z",
+  "scan_date": "2025-02-16T01:58:45.686Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"images\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -96,8 +99,8 @@
     ".army.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.055731113077799474",
-  "largest_contentful_paint": "745.4000000059605",
+  "cumulative_layout_shift": "0.05545194376627604",
+  "largest_contentful_paint": "724.8999999761581",
   "required_links_url": [
     "foia",
     "privacy",
@@ -154,7 +157,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T15:05:11.720Z",
+  "scan_date": "2025-02-15T10:51:17.702Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1,\"contrast\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -44,7 +47,7 @@
     "subagency": "NIH",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-QDN3RSJJ3H,G-R8B93RESE8,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -69,22 +72,21 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
     "https://lhcforms-static.nlm.nih.gov/lforms-versions/",
-    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.8.2/fhir/lformsFHIRAll.min.js",
-    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.8.2/webcomponent/assets/lib/zone.min.js",
-    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.8.2/webcomponent/lhc-forms.js",
-    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.8.2/webcomponent/styles.css",
+    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.10.2/fhir/lformsFHIRAll.min.js",
+    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.10.2/webcomponent/assets/lib/zone.min.js",
+    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.10.2/webcomponent/lhc-forms.js",
+    "https://lhcforms-static.nlm.nih.gov/lforms-versions/36.10.2/webcomponent/styles.css",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".nih.gov",
-    ".nlm.nih.gov"
+    ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.4064167708333334",
-  "largest_contentful_paint": "625.8000000119209",
+  "cumulative_layout_shift": "0.035682395833333325",
+  "largest_contentful_paint": "600.6000000238419",
   "required_links_url": [
     "usa.gov"
   ],
@@ -136,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

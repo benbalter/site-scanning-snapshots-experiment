@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T09:05:38.735Z",
+  "scan_date": "2025-02-16T05:27:59.557Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -58,7 +61,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/vsat.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/vsat.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.epa.gov/sites/all/themes/epa/css/fonts/merriweather-bold-webfont.woff2",
     "https://www.epa.gov/sites/all/themes/epa/css/fonts/sourcesanspro-bold-webfont.woff2",
     "https://www.epa.gov/sites/all/themes/epa/css/fonts/sourcesanspro-regular-webfont.woff2",
@@ -81,7 +84,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.02",
-  "largest_contentful_paint": "16631.30000001192",
+  "largest_contentful_paint": "2675.1999999284744",
   "required_links_url": [
     "about",
     "foia",
@@ -138,7 +141,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

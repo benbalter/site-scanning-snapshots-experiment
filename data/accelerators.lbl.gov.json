@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T16:56:46.476Z",
+  "scan_date": "2025-02-16T08:57:48.487Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -68,6 +70,7 @@
     "https://cdn.lbl.gov/stable/2/assets/icons/linkedin.svg",
     "https://cdn.lbl.gov/stable/2/assets/icons/menu.svg",
     "https://cdn.lbl.gov/stable/2/assets/icons/search.svg",
+    "https://cdn.lbl.gov/stable/2/assets/icons/threads.svg",
     "https://cdn.lbl.gov/stable/2/assets/icons/x.svg",
     "https://cdn.lbl.gov/stable/2/assets/icons/youtube.svg",
     "https://cdn.lbl.gov/stable/2/assets/img/doe-logo.svg",
@@ -93,7 +96,7 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -101,8 +104,8 @@
     "atap.lbl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.14164299055989582",
-  "largest_contentful_paint": "923.9000000059605",
+  "cumulative_layout_shift": "0.14163999576822917",
+  "largest_contentful_paint": "1033.1000000238419",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -147,7 +150,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.accelerators.lbl.gov",
   "www_status_code": 530,
   "www_title": "Error"

@@ -20,10 +20,11 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T11:30:36.051Z",
+  "scan_date": "2025-02-16T02:19:57.458Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"lists\":1}",
   "ipv6": true,
   "hostname": "cloud.gov",
@@ -44,7 +46,7 @@
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": "",
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-VSSTFV3FKR",
   "third_party_service_domains": [
     "bam.nr-data.net",
@@ -59,7 +61,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://js-agent.newrelic.com/nr-rum-1.281.0.min.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/embed.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/generic1738941690564.js",
+    "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/generic1739201758013.js",
     "https://s.go-mpulse.net/boomerang/LERZW-HECFS-R8H4E-23UQ7-ERMQB",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -71,7 +73,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0051804091796875",
-  "largest_contentful_paint": "241.5",
+  "largest_contentful_paint": "510.60000002384186",
   "required_links_url": [
     "about",
     "foia",
@@ -157,7 +159,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 132,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

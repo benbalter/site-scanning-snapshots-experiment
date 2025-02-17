@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T17:40:25.485Z",
+  "scan_date": "2025-02-15T17:04:31.565Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +48,7 @@
     "yt": "true",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KEN9L99MMC,G-CSLL4ZEK4L,UA-17823747-1",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -67,11 +69,11 @@
     "https://cdn.parsely.com/keys/earthobservatory.nasa.gov/p.js",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/2750/logo_square_Meatball_RGB.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153859/irandust_tmo_20250122_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153870/bajacafires_amo_20240123_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153889/victoriafires_amo_20250128_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153896/lacounty_ndvi_20240831_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153914/ausflood_mrg_20250204_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153929/fires_patagonia_oli2_20250209_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153933/tasmaniafires_amo_20250212_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153941/homereef_oli_20250202_th.jpg",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pa8FvOreefkkbIx.woff2",
     "https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pb0EPOreefkkbIx.woff2",
@@ -84,7 +86,7 @@
     "https://touchpoints.app.cloud.gov/touchpoints/876fdea6.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -92,8 +94,8 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0008490625",
-  "largest_contentful_paint": "949",
+  "cumulative_layout_shift": "0.000346125",
+  "largest_contentful_paint": "957.3000000715256",
   "required_links_url": [
     "about",
     "privacy"
@@ -154,7 +156,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 25,
-  "www_scan_status": "completed",
   "www_url": "https://www.naturalhazards.nasa.gov",
   "www_status_code": 200,
   "www_title": "NASA Earth Observatory - Home"

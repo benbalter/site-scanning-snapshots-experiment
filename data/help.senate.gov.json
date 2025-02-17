@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "senate_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:13:22.677Z",
+  "scan_date": "2025-02-15T13:38:43.947Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
-  "accessibility_violations": "{\"contrast\":2}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"contrast\":1}",
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -58,7 +62,7 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/jost/v18/92zatBhPNqw73oTd4jQmfxI.woff2",
     "https://fonts.gstatic.com/s/playfairdisplay/v37/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
-    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s05025465173237",
+    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s69395792597080",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 6,
@@ -68,7 +72,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "981",
+  "largest_contentful_paint": "908.5",
   "required_links_url": [
     "about",
     "privacy"
@@ -119,7 +123,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.help.senate.gov",
   "www_status_code": 200,
   "www_title": "Home | Senate Committee on Health, Education, Labor and Pensions"

@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T15:03:56.328Z",
+  "scan_date": "2025-02-15T15:48:18.901Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -59,7 +62,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.057627203125",
-  "largest_contentful_paint": "1091.2999999821186",
+  "largest_contentful_paint": "1574.2999999523163",
   "required_links_url": [
     "privacy"
   ],
@@ -152,7 +155,6 @@
   "uswds_semantic_version": "v1.6.13",
   "uswds_version": 100,
   "uswds_count": 160,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

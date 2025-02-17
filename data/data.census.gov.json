@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T02:31:24.104Z",
+  "scan_date": "2025-02-16T02:51:52.741Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -45,10 +48,10 @@
     "agency": "DOC",
     "subagency": "CEN"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VY5XG9XWGG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "17de4c1e.akstat.io",
     "assets.adobedtm.com",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
@@ -60,7 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://17de4c1e.akstat.io/",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC071e17725fad44a3bb14e8123456b9af-source.min.js",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC87bbffc6ff9e42928a26e90bc8ce59ba-source.min.js",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/launch-ENdc1ca6bab15e46a5b880a2c3f9d462ab.min.js",
@@ -70,7 +73,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://s.go-mpulse.net/boomerang/N5F9F-5SXNV-TJA4F-B6CEM-65LXH",
-    "https://smetrics.census.gov/b/ss/cebucedsciprod/1/JS-2.23.0-LEWM/s41990941356726",
+    "https://smetrics.census.gov/b/ss/cebucedsciprod/1/JS-2.23.0-LEWM/s01773521213014",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/a3f7f03f.js",
@@ -84,8 +87,8 @@
     ".data.census.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.041307649739583334",
-  "largest_contentful_paint": "736.2000000178814",
+  "cumulative_layout_shift": "0.03126731770833333",
+  "largest_contentful_paint": "634",
   "required_links_url": [
     "about",
     "foia",
@@ -153,7 +156,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

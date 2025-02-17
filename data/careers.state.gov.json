@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-08T11:09:25.450Z",
+  "scan_date": "2025-02-15T15:51:50.780Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -49,8 +52,8 @@
     "agency": "DOS",
     "siteplatform": "Careers"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-120142580-1,G-LW2KLK9Q3F,UA-21807698-1,G-H8YTPXTFNF,G-FVL998D36L,G-CSLL4ZEK4L,G-UuZ6zIAjRogsFRy,G-QmLz",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "UA-120142580-1,G-LW2KLK9Q3F,UA-21807698-1,G-H8YTPXTFNF,G-FVL998D36L,G-CSLL4ZEK4L,G-x0KkYUDuDr13byt,G-JP8YPFJyjiWLKoT",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "alb.reddit.com",
@@ -132,8 +135,8 @@
     "https://www.gsa.gov/themes/custom/cmpmigrationassets/assets//sites/gsa.gov/templates/styles/dist/img/icon-https.svg",
     "https://www.gsa.gov/themes/custom/cmpmigrationassets/assets//sites/gsa.gov/templates/styles/dist/img/us_flag_small.png",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
     "https://www.redditstatic.com/ads/conversions-config/v1/pixel/config/t2_dkse7zjs_telemetry",
     "https://www.redditstatic.com/ads/pixel.js"
   ],
@@ -142,8 +145,8 @@
     ".state.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05965515625",
-  "largest_contentful_paint": "593.3000000119209",
+  "cumulative_layout_shift": "0.05843875",
+  "largest_contentful_paint": "628.5",
   "required_links_url": [
     "about",
     "privacy"
@@ -198,7 +201,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 29,
-  "www_scan_status": "completed",
   "www_url": "https://careers.state.gov",
   "www_status_code": 200,
   "www_title": "Home - Careers"

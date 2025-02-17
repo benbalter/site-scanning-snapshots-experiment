@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T07:52:18.807Z",
+  "scan_date": "2025-02-16T08:44:25.278Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"images\":8}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -49,21 +51,13 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.lanl.gov/2297e1e1-d343-4320-a31d-a4c9081cad49.svg",
-    "https://cdn.lanl.gov/3c61bf3a-e534-4d53-a4be-368c4756906b.svg",
-    "https://cdn.lanl.gov/97c235d9-f2d5-40fa-8fde-8eefba2554ad.svg",
-    "https://cdn.lanl.gov/b76ec797-da23-4658-a936-e83aecf77901.svg",
-    "https://cdn.lanl.gov/optimized/lg/06939bfe-9f25-4c85-a735-a58ef4aeb854_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/127076e6-13c5-4577-8838-23dae71cae7b_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/13d1cb0b-0af2-4831-9d11-dbf4168be015_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/1fdfe6d5-1d2c-484b-aa98-3e8d9732de41_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/233d9d44-201e-4fd3-8bc6-f9113aaa32a5_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/6b77e7a7-170b-47b6-ac29-b34562ef4121_1024.webp",
+    "https://cdn.lanl.gov/optimized/lg/1c77622c-0d57-4e38-9fa0-205059afc1d1_1024.webp",
+    "https://cdn.lanl.gov/optimized/lg/7922fa09-0320-464b-868f-37897c66f38f_1024.webp",
     "https://cdn.lanl.gov/optimized/lg/9f80c1f2-b728-4fd5-a101-01957b760f26_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/afdf0227-68ba-4150-9622-6c6b5da45e18_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/c4ecbe02-5f36-4454-bb8d-f9150b765e0d_1024.webp",
-    "https://cdn.lanl.gov/optimized/lg/d86f7c78-8ab8-47c9-a6ca-6dd20d7e00e0_1024.webp",
     "https://cdn.lanl.gov/optimized/lg/e69c3895-d7b6-4378-aa28-b89ab779f5dd_1024.webp",
+    "https://cdn.lanl.gov/optimized/lg/e8fa0ca4-598b-4380-8929-a6ffb8a7764b_1024.webp",
+    "https://cdn.lanl.gov/optimized/lg/f1f5e295-66c1-4592-bf91-19df56e5c0d2_1024.webp",
+    "https://cdn.lanl.gov/optimized/lg/fab6872a-6847-4659-855b-2cd71b153b4d_1024.webp",
     "https://p.typekit.net/p.css",
     "https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/l",
     "https://use.typekit.net/af/ac1071/00000000000000003b9acafe/27/l",
@@ -77,10 +71,8 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.061651004882812506",
-  "largest_contentful_paint": "127.09999999403954",
-  "required_links_url": [
-    "about"
-  ],
+  "largest_contentful_paint": "162.60000002384186",
+  "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"
   ],
@@ -126,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

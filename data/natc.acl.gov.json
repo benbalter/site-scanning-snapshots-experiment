@@ -18,19 +18,22 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-09T00:40:00.707Z",
+  "scan_date": "2025-02-15T16:12:00.224Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"link-purpose\":1,\"form-names\":1}",
   "ipv6": true,
   "hostname": "azurefd.net",
   "cms": null,
@@ -49,6 +52,7 @@
     "clients1.google.com",
     "code.jquery.com",
     "cse.google.com",
+    "csp.withgoogle.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "pfs2.acl.gov",
@@ -71,6 +75,7 @@
     "https://code.jquery.com/ui/1.13.3/themes/smoothness/jquery-ui.css",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
@@ -86,16 +91,16 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".acl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03679228776041667",
-  "largest_contentful_paint": "993.5999999940395",
+  "cumulative_layout_shift": "0.008498825846354165",
+  "largest_contentful_paint": "471.6999999284744",
   "required_links_url": [
     "about",
     "fear",
@@ -155,7 +160,6 @@
   "uswds_semantic_version": "v2.12.2",
   "uswds_version": 100,
   "uswds_count": 140,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

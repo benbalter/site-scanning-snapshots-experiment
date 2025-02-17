@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-08T10:08:02.760Z",
+  "scan_date": "2025-02-16T07:06:12.064Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1,\"keyboard-access\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":6,\"link-purpose\":6}",
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -68,7 +70,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.468915953125",
-  "largest_contentful_paint": "1840.5",
+  "largest_contentful_paint": "1939.3999999761581",
   "required_links_url": [
     "inspector",
     "privacy"
@@ -121,7 +123,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-08T13:06:36.144Z",
+  "scan_date": "2025-02-15T13:23:51.582Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":42,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -43,7 +44,7 @@
     "agency": "DOE",
     "subagency": "sandia-national-laboratories"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6025768.global.siteimproveanalytics.io",
@@ -67,6 +68,7 @@
     "https://digitalops.sandia.gov/Mediasite/FileServer/MediasiteChannel/e3a8836aa80a4cfa8fc18dff50c886ad5f/p1f6341dsv19561aqk15h5rs5pjv2k.jpg",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/141695aef827430292d5fb4bfe5891a61d/fb09ab4f-b1f6-4126-b511-41accf110555.jpg",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/357a8e72430f4e45a0e7137b7b9212811d/67c0f0d8-60fa-48dc-b5d1-c081cf78ff2a.png",
+    "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/37042ba1cc9e4171ae796d805ddcb3d81d/720f66b7-bf9a-40a8-a6c6-5f495260cd66.jpg",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/511ac1b359b34f6598573b61821857b51d/46ee4709-08d7-4c7b-831d-decce392092e.png",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/69101b8984a84b289534e0ca809099e61d/b77c0395-564d-42ac-b0f7-f1523854b157.jpg",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/9bec70b0cd6048b28870b7365c67f2f61d/716eb69d-acec-4b4e-89c0-6e7a944c547a.jpg",
@@ -74,9 +76,8 @@
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/a0c80886e8154474bbb411ab4951cef71d/5deff610-6d58-4d79-ad35-caf7e7a14524.png",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/ac841195d4ca417789136c0e3ab6877d1d/04ca7300-08b5-41b5-82fb-72d22316bc19.jpg",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/c3adc94e1ca7402981b08acbefb8d5ac1d/d35d8bf3-1fa5-431b-9f55-21efae2decf8.png",
-    "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/d5000387624e4908b65f58bb4329ed821d/3ee66d96-f3f2-4acf-aeb7-f2cc3fbadab5.jpg",
+    "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/eb2dd092ad5f4e19afdd49297380583d1d/e4946cd5-db49-4753-ba43-2a6c36c3a4f9.jpg",
     "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/f69f2e8bb2fb4eee9efd6000f5f631aa1d/3df9bfd6-6190-4060-addd-9b7fc8018798.jpg",
-    "https://digitalops.sandia.gov/Mediasite/FileServer/Presentation/fac55dfc4f04434fa944405ac1ef105f1d/5452867f-99bd-4cbb-aad2-841cdf5cbb0c.jpg",
     "https://siteimproveanalytics.com/js/siteanalyze_6025768.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
@@ -88,8 +89,8 @@
     "www.sandia.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.31101670345052085",
-  "largest_contentful_paint": "1902.0999999940395",
+  "cumulative_layout_shift": "0.307407462755839",
+  "largest_contentful_paint": "1543.7999999523163",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,
@@ -134,7 +135,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

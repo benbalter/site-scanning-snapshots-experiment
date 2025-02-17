@@ -5,7 +5,7 @@
   "initial_base_domain": "pnl.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=ec75cdfb-b8da-4159-af51-7c47a94144e3&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%2285dabb84-a59f-4b34-b194-28e917bcb813%22%7d%23EndOfStateParam%23&client-request-id=85dabb84-a59f-4b34-b194-28e917bcb813&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=4b0e8d64-170f-4f5d-9b0d-2470091bd560&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%223d18c4dd-be1f-4002-90ea-e428d06690e5%22%7d%23EndOfStateParam%23&client-request-id=3d18c4dd-be1f-4002-90ea-e428d06690e5&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-08T12:49:31.228Z",
+  "scan_date": "2025-02-15T12:54:00.336Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -49,11 +51,11 @@
   ],
   "third_party_service_urls": [
     "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
-    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_v20ia-gahguvu2fgvxamhg2.js",
+    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_b6qmkv34zrtzwovprnovhw2.js",
     "https://aadcdn.msauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_n7VKwtWYm2mBLcIKAZfQlw2.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_510f960da65b56e0607c.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_cc2c59f5ef2c09e14b08.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_-8cgqRzfEOPEpYl9MSuPRw2.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
     "https://aadcdn.msauthimages.net/dbd5a2dd-j-j1n0gpbmujfyldmxdd-hndkqqrijywjjr5rtgnrk/logintenantbranding/0/bannerlogo",
     "https://login.live.com/Me.htm"
@@ -64,8 +66,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.24472004166666664",
-  "largest_contentful_paint": "650",
+  "cumulative_layout_shift": "0.2370868125",
+  "largest_contentful_paint": "531.6000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -94,7 +96,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=b09f62d7-be00-4559-92ae-ca0e7dbe5553&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%2285dabb84-a59f-4b34-b194-28e917bcb813%22%7d%23EndOfStateParam%23&client-request-id=85dabb84-a59f-4b34-b194-28e917bcb813&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "sitemap_xml_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=1f747847-05a2-4d39-b692-bdb871eddb18&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%223d18c4dd-be1f-4002-90ea-e428d06690e5%22%7d%23EndOfStateParam%23&client-request-id=3d18c4dd-be1f-4002-90ea-e428d06690e5&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
@@ -112,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null
