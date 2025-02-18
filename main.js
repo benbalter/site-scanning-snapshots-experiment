@@ -5,6 +5,9 @@ import { exit } from 'process';
 
 const url = 'https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot-all.json';
 
+// Remove these keys from the response to avoid too much "churn" in the data
+const ignoreKeys = ['scan_date', 'largest_contentful_paint', 'cumulative_layout_shift']
+
 async function main() {
   let data = [];
 
@@ -22,6 +25,12 @@ async function main() {
 
   const writePromises = data.map(async (record) => {
     core.info(`Processing record for ${record.initial_domain}`);
+
+    // Remove keys that we don't care about
+    ignoreKeys.forEach((key) => {
+      delete record[key];
+    });
+
     return fs.writeFile(`./data/${record.initial_domain}.json`, JSON.stringify(record, null, 2));
   });
 
