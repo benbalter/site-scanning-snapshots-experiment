@@ -20,10 +20,12 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T12:32:58.864Z",
+  "scan_date": "2025-02-15T13:01:07.869Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"user-control-name\":8,\"contrast\":20}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"user-control-name\":7,\"contrast\":22}",
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -62,7 +65,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.05881022135416667",
-  "largest_contentful_paint": "529.6000001430511",
+  "largest_contentful_paint": "507.60000002384186",
   "required_links_url": [
     "about",
     "privacy",
@@ -111,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

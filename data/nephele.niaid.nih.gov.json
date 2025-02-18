@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:13:49.861Z",
+  "scan_date": "2025-02-15T10:42:49.679Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":3,\"contrast\":15}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -45,7 +48,7 @@
     "agency": "HHS",
     "subagency": "NIH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-45855606-6,G-CSLL4ZEK4L,G-W96NHXF273,G-NK110SWJPL",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -67,7 +70,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0086/4098/sampling/nephele.niaid.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0086/4098/site/nephele.niaid.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0086/4098.js",
-    "https://script.crazyegg.com/pages/versioned/commontransformations-scripts/92beac22671261dfe9568f7e6e5e8fda.js",
+    "https://script.crazyegg.com/pages/versioned/commontransformations-scripts/f587b879d46549f1c1a9aa6f69c57871.js",
     "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
     "https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2",
     "https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2",
@@ -76,7 +79,7 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -85,7 +88,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0011865",
-  "largest_contentful_paint": "195.29999999701977",
+  "largest_contentful_paint": "195.89999997615814",
   "required_links_url": [
     "about",
     "foia",
@@ -140,7 +143,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:52:00.446Z",
+  "scan_date": "2025-02-15T09:54:16.387Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":4}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -73,17 +75,15 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".navalaviationnews.navy.mil",
-    ".navy.mil",
-    "navalaviationnews.navy.mil"
+    ".navy.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.017979791666666668",
-  "largest_contentful_paint": "264",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "208.29999995231628",
   "required_links_url": [
     "about",
     "fear",
@@ -141,7 +141,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

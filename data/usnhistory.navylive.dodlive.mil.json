@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:40:11.637Z",
+  "scan_date": "2025-02-16T04:00:51.681Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2,\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -74,7 +77,6 @@
     "https://media.defense.gov/2024/Aug/21/2003529957/1310/736/0/240821-N-CC105-001.JPG",
     "https://media.defense.gov/2024/Oct/23/2003569705/1310/736/0/241023-N-JF199-001.JPG",
     "https://media.defense.gov/2024/Sep/16/2003544948/1310/736/0/240916-N-WA001-007.JPG",
-    "https://media.defense.gov/2025/Jan/08/2003626042/860/780/0/250108-N-CS009-002.JPG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -92,15 +94,15 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
     ".dodlive.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.5367351628417969",
-  "largest_contentful_paint": "777.7000000029802",
+  "cumulative_layout_shift": "0.5416903002929687",
+  "largest_contentful_paint": "646.5",
   "required_links_url": [
     "about",
     "fear",
@@ -158,7 +160,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

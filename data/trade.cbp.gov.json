@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:19:49.589Z",
+  "scan_date": "2025-02-16T02:44:55.781Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -44,8 +46,8 @@
     "subagency": "CBP",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,G-V6DQTJJ2XE",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP,G-V6DQTJJ2XE",
   "third_party_service_domains": [
     "6034474.global.siteimproveanalytics.io",
     "clients1.google.com",
@@ -68,9 +70,9 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://siteimproveanalytics.com/js/siteanalyze_6034474.js",
-    "https://trade.cbp.gov/s/sfsites/auraFW/javascript/eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y/aura_prod.js",
-    "https://trade.cbp.gov/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221184_AgcTXn_6dZSShHXZ2PZsug%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/resources.js",
-    "https://trade.cbp.gov/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-9.320.2-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221184_AgcTXn_6dZSShHXZ2PZsug%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/app.js",
+    "https://trade.cbp.gov/s/sfsites/auraFW/javascript/Zm9LbDZETkxUclI3TmZfamRYSmpzUWg5TGxiTHU3MEQ5RnBMM0VzVXc1cmcxMS4zMjc2OC4w/aura_prod.js",
+    "https://trade.cbp.gov/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22Zm9LbDZETkxUclI3TmZfamRYSmpzUWg5TGxiTHU3MEQ5RnBMM0VzVXc1cmcxMS4zMjc2OC4w%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221232_i1u-juBSAcYeYnyHhRNT-Q%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/resources.js",
+    "https://trade.cbp.gov/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-11.32768.0-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221232_i1u-juBSAcYeYnyHhRNT-Q%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/app.js",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
@@ -80,7 +82,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -89,10 +91,11 @@
     "www.cbp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2404629042561849",
-  "largest_contentful_paint": "434.1000000014901",
+  "cumulative_layout_shift": "0.0012342375081380208",
+  "largest_contentful_paint": "399.8000000715256",
   "required_links_url": [
     "about",
+    "fear",
     "foia",
     "privacy",
     "usa.gov",
@@ -100,6 +103,7 @@
   ],
   "required_links_text": [
     "accessibility",
+    "no fear act",
     "foia",
     "freedom of information act",
     "inspector general",
@@ -180,12 +184,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 110,
-  "uswds_string": 12,
+  "uswds_string": 14,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 162,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 164,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

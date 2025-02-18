@@ -24,18 +24,21 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:37:23.065Z",
+  "scan_date": "2025-02-15T17:33:29.243Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -50,8 +53,8 @@
     "yt": "1",
     "pga4": "G-Y8BBTRX2M1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-Y8BBTRX2M1,G-CSLL4ZEK4L,G-YPB3FD0PQ9,UA-50123418-1",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-Y8BBTRX2M1,G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
     "analytics.twitter.com",
     "cdn.eo.va.gov",
@@ -62,7 +65,6 @@
     "static.ads-twitter.com",
     "t.co",
     "www.benefits.va.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.oit.va.gov",
     "www.youtube.com"
@@ -81,23 +83,21 @@
     "https://public.govdelivery.com/images/required.gif",
     "https://static.ads-twitter.com/uwt.js",
     "https://t.co/i/adsct",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.oit.va.gov/_media/img/uswds/arrow-right.svg",
     "https://www.oit.va.gov/_media/img/vcl-logo.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".va.gov",
     "benefits.va.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.0016393437500000002",
-  "largest_contentful_paint": "2125.5999999998603",
+  "largest_contentful_paint": "1162.3999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -141,7 +141,7 @@
   "sitemap_xml_url": "https://benefits.va.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": 92717,
+  "sitemap_xml_filesize": 92477,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 1,
   "uswds_favicon": 0,
@@ -158,7 +158,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 26,
-  "www_scan_status": "completed",
   "www_url": "https://benefits.va.gov/benefits",
   "www_status_code": 200,
   "www_title": "Veterans Benefits Administration Home"

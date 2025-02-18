@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:21:29.038Z",
+  "scan_date": "2025-02-16T11:43:07.539Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -51,14 +53,16 @@
     "enhlink": "true",
     "cto": "24"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-SM7vE0cxmsjdLsa,G-3YLR8EGLBW,G-CSLL4ZEK4L,G-52MSD7VSHB,UA-153723022-1,UA-35719021-1,G-87KNQ86HNX",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.syndication.twimg.com",
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
     "pbs.twimg.com",
     "platform.twitter.com",
+    "stats.g.doubleclick.net",
     "syndication.twitter.com",
     "unpkg.com",
     "www.google-analytics.com",
@@ -66,6 +70,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.syndication.twimg.com/tweet-result",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
@@ -83,6 +88,7 @@
     "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
     "https://platform.twitter.com/js/tweet.d7aeb21a88e025d2ea5f5431a103f586.js",
     "https://platform.twitter.com/widgets.js",
+    "https://stats.g.doubleclick.net/j/collect",
     "https://syndication.twitter.com/i/jot/embeds",
     "https://syndication.twitter.com/settings",
     "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
@@ -94,15 +100,15 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.5993457645670573",
-  "largest_contentful_paint": "1333.1000000014901",
+  "cumulative_layout_shift": "0.20668082421875",
+  "largest_contentful_paint": "1528.6000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -179,7 +185,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 128,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

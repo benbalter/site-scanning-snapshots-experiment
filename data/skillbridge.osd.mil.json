@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:02:40.843Z",
+  "scan_date": "2025-02-15T12:41:00.159Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": false,
   "hostname": null,
@@ -43,7 +46,7 @@
     "agency": "DOD",
     "subagency": "OSD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-QKYLGR9V34,UA-135370483-3",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
@@ -84,7 +87,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.09062117708333334",
-  "largest_contentful_paint": "282.19999980926514",
+  "largest_contentful_paint": "240.10000002384186",
   "required_links_url": [
     "privacy"
   ],
@@ -131,7 +134,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

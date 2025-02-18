@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:00:09.379Z",
+  "scan_date": "2025-02-15T09:30:45.941Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -45,10 +48,9 @@
   "dap_parameters": {
     "agency": "NINDS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-ORdU",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-GeNS7H43oEa3fQm,G-4pDx1jxaCibG7xz,G-csp5A61Pw4bFY",
   "third_party_service_domains": [
-    "csp.withgoogle.com",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "script.crazyegg.com",
@@ -58,7 +60,6 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
@@ -73,20 +74,19 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/I0bG74fWAenNf3Z5ncHSz-bd/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/I0bG74fWAenNf3Z5ncHSz-bd/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000263343017578125",
-  "largest_contentful_paint": "604.7000000476837",
+  "cumulative_layout_shift": "0.00035546077473958335",
+  "largest_contentful_paint": "494.7000000476837",
   "required_links_url": [
     "about",
     "privacy",
@@ -125,7 +125,7 @@
   "sitemap_xml_url": "https://braininitiative.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 13687,
+  "sitemap_xml_filesize": 13303,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -147,7 +147,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://www.braininitiative.nih.gov",
   "www_status_code": 200,
   "www_title": "Home | BRAIN Initiative"

@@ -16,25 +16,28 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "gov",
     "dap",
     "pulse",
     "omb_idea",
     "2020_eot",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:19:51.014Z",
+  "scan_date": "2025-02-16T06:20:15.724Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "not_found_scan_status": "unknown_error",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -57,21 +60,17 @@
     "optout": "false",
     "palinteractiontypedim": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FH9G12ZTV6,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "analytics.google.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "stats.g.doubleclick.net",
     "www.fgdc.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -80,7 +79,6 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
-    "https://stats.g.doubleclick.net/g/collect",
     "https://www.fgdc.gov/++theme++fgdctheme/css/animate.css",
     "https://www.fgdc.gov/++theme++fgdctheme/css/bootstrap.css",
     "https://www.fgdc.gov/++theme++fgdctheme/css/dark.css",
@@ -116,20 +114,19 @@
     "https://www.fgdc.gov/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey-ccdbbbcafe6eb9300388a9551a9f05b4.js",
     "https://www.fgdc.gov/portal_javascripts/Sunburst%20Theme/table_sorter-cachekey-f5f52501300fbcf09c2bfb0f98304690.js",
     "https://www.fgdc.gov/spinner.gif",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".fgdc.gov",
     "fgdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "2735.8000000715256",
   "required_links_url": [
     "privacy",
     "usa.gov"
@@ -179,7 +176,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.fgdc.gov",
   "www_status_code": 200,
   "www_title": "The Federal Geographic Data Committee — Federal Geographic Data Committee"

@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T11:10:36.109Z",
+  "scan_date": "2025-02-16T06:55:32.227Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -58,9 +60,9 @@
     "https://designsystem.digital.gov/assets/img/usa-icons/launch.svg",
     "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js",
     "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/css/okta-sign-in.min.css",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/img/ui/forms/checkbox-sign-in-widget.png",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/js/okta-sign-in.min.js",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/css/okta-sign-in.min.css",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/img/ui/forms/checkbox-sign-in-widget.png",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/js/okta-sign-in.min.js",
     "https://ok10static.oktacdn.com/assets/loginpage/css/custom-signin.a91af2abfd04662e499bd3e151150dbf.css",
     "https://ok10static.oktacdn.com/assets/loginpage/font/assets/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "https://ok10static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
@@ -71,8 +73,8 @@
     "nsobs.fasbilling.gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08338820922851563",
-  "largest_contentful_paint": "873.5",
+  "cumulative_layout_shift": "0.08338796630859376",
+  "largest_contentful_paint": "957.7000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -133,7 +135,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 85,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

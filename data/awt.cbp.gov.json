@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T00:54:10.606Z",
+  "scan_date": "2025-02-15T18:22:17.416Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,13 +35,14 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": true,
+  "site_search": false,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
@@ -48,36 +51,43 @@
     "pua": "0",
     "id": "_fed_an_ua_tag"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "17de4c14.akstat.io",
+    "17de4c18.akstat.io",
+    "52-222-122-97_s-23-44-205-160_ts-1739643728-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
+    "gtphuyixg6ulcz5q3nia-paf41n-9c1d707b2-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.dhs.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c14.akstat.io/",
+    "https://17de4c18.akstat.io/",
+    "https://52-222-122-97_s-23-44-205-160_ts-1739643728-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gtphuyixg6ulcz5q3nia-paf41n-9c1d707b2-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://s.go-mpulse.net/boomerang/CSDWH-NHS7K-2UES9-5P7KT-5QXKQ",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 11,
   "cookie_domains": [
-    ".cbp.gov",
-    "awt.cbp.gov"
+    ".cbp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.19912744140625",
-  "largest_contentful_paint": "1383.7000000029802",
+  "cumulative_layout_shift": "0.37288233561197914",
+  "largest_contentful_paint": "1135.3000000715256",
   "required_links_url": [
     "privacy"
   ],
@@ -127,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

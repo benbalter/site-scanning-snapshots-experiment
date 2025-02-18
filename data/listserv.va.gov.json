@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:45:18.548Z",
+  "scan_date": "2025-02-15T15:54:32.715Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -50,13 +52,10 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/header-logo.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".va.gov",
-    "www.va.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "352.5",
+  "cumulative_layout_shift": "0.02048234375",
+  "largest_contentful_paint": "339.89999997615814",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -101,7 +100,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.va.gov/listserv/listservdefault.html",
   "www_status_code": 200,
   "www_title": ""

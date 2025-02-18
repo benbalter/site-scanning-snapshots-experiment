@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:13:55.652Z",
+  "scan_date": "2025-02-15T15:23:08.923Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1,\"contrast\":3,\"lists\":2}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "DOS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30742211-4,UA-30742211-1,UA-22995010-2,G-9B4T0GRJP4",
   "third_party_service_domains": [
     "app.enzuzo.com",
@@ -89,11 +92,9 @@
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-brands-400.woff2",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-solid-900.woff2",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -102,8 +103,8 @@
     "mt.usembassy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3081387608235677",
-  "largest_contentful_paint": "301.69999980926514",
+  "cumulative_layout_shift": "0.42030001603190115",
+  "largest_contentful_paint": "289.09999990463257",
   "required_links_url": [
     "about",
     "fear",
@@ -178,7 +179,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 60,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

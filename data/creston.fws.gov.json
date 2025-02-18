@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:22:18.178Z",
+  "scan_date": "2025-02-16T06:39:37.529Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +31,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -43,10 +45,10 @@
     "agency": "DOI",
     "subagency": "USFWS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0d.akstat.io",
+    "17de4c1c.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
     "c.go-mpulse.net",
@@ -61,7 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0d.akstat.io/",
+    "https://17de4c1c.akstat.io/",
     "https://a.tile.openstreetmap.org/15/5996/11362.png",
     "https://a.tile.openstreetmap.org/15/5997/11364.png",
     "https://a.tile.openstreetmap.org/15/5998/11363.png",
@@ -89,7 +91,6 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 13,
@@ -98,7 +99,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "965.2999999970198",
+  "largest_contentful_paint": "762.7000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -170,7 +171,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 75,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

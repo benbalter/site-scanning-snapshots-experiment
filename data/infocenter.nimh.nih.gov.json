@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T12:21:29.372Z",
+  "scan_date": "2025-02-15T12:47:18.859Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +48,7 @@
     "agency": "HHS",
     "subagency": "NIH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-789PRR2QPB,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -75,8 +78,8 @@
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06283452685546875",
-  "largest_contentful_paint": "619.9000000953674",
+  "cumulative_layout_shift": "0.034897269734700524",
+  "largest_contentful_paint": "557.6000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -132,6 +135,7 @@
   "uswds_inpage_css": 1,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-banner",
     "usa-banner-inner",
     "usa-breadcrumb",
@@ -149,6 +153,7 @@
     "usa-nav",
     "usa-overlay",
     "usa-search",
+    "usa-site-alert",
     "usa-skipnav",
     "usa-social-links",
     "usa-sr-only"
@@ -160,7 +165,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 75,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

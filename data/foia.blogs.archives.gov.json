@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:18:08.144Z",
+  "scan_date": "2025-02-15T16:14:21.616Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":179}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":178}",
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "NARA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1,UA-19713578-4,UA-193034320-1,G-P1JBWQT9NJ,G-SJEHB2FY6R",
   "third_party_service_domains": [
     "c0.wp.com",
@@ -77,11 +80,11 @@
     "https://forms-na1.hsforms.com/embed/v3/counters.gif",
     "https://forms.hsforms.com/embed/v3/form/20973928/1799047f-0d20-4d4e-bfa0-89de343d31d7/json",
     "https://i0.wp.com/foia.blogs.archives.gov/wp-content/uploads/sites/2/2018/06/cropped-OGIS-logo-paring-400px.jpg",
-    "https://i0.wp.com/foia.blogs.archives.gov/wp-content/uploads/sites/2/2025/01/Frazier-Jenkins.jpg",
     "https://i0.wp.com/foia.blogs.archives.gov/wp-content/uploads/sites/2/2025/02/LoMonte-scaled.jpg",
+    "https://i0.wp.com/foia.blogs.archives.gov/wp-content/uploads/sites/2/2025/02/Ryan_Mulvey_Staff_Page_1x1-300x300-1.jpg",
     "https://js.hsforms.net/forms/embed/v2.js",
     "https://pixel.wp.com/g.gif",
-    "https://stats.wp.com/e-202506.js",
+    "https://stats.wp.com/e-202507.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -95,7 +98,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.031827796874999995",
-  "largest_contentful_paint": "446.3999999985099",
+  "largest_contentful_paint": "380.89999997615814",
   "required_links_url": [
     "about",
     "foia"
@@ -147,7 +150,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

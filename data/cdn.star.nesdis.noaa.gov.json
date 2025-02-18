@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:29:51.943Z",
+  "scan_date": "2025-02-15T11:23:00.551Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -43,7 +45,7 @@
     "agency": "DOC",
     "subagency": "NOAA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-G2DC4173X1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6294131.global.r2.siteimproveanalytics.io",
@@ -80,7 +82,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.0025831449788411456",
-  "largest_contentful_paint": "912.2999999970198",
+  "largest_contentful_paint": "871.7000000476837",
   "required_links_url": [
     "about",
     "privacy",
@@ -131,7 +133,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

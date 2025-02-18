@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:02:59.654Z",
+  "scan_date": "2025-02-15T10:39:35.734Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,7 +50,7 @@
     "sp": "query",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -290,7 +293,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/mhm.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/mhm.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/24acd8edbd2b27b489b778a27aa5ffab.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -300,8 +303,8 @@
     "mhm.nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.007318116536458334",
-  "largest_contentful_paint": "637.0999999046326",
+  "cumulative_layout_shift": "0.027184116536458337",
+  "largest_contentful_paint": "601",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -354,7 +357,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 47,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

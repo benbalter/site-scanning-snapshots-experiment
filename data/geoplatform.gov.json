@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:44:49.334Z",
+  "scan_date": "2025-02-16T06:54:48.460Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +36,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"contrast\":2,\"images\":6,\"link-purpose\":6}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -81,7 +84,7 @@
     "https://geoplatform.gov/assets/images/homepage-feature-icons/usa-map.webp",
     "https://geoplatform.gov/assets/images/logos/gp/full-light.svg",
     "https://geoplatform.gov/assets/images/theme/gp-backdrop.webp",
-    "https://geoplatform.gov/main.f81deea5ad8ff27c.js",
+    "https://geoplatform.gov/main.fd8d7f25bf411234.js",
     "https://geoplatform.gov/polyfills.483331a069474bfa.js",
     "https://geoplatform.gov/runtime.2eef977649ab65e5.js",
     "https://geoplatform.gov/scripts.94f011fb13606557.js",
@@ -102,7 +105,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0010236979166666665",
-  "largest_contentful_paint": "1259.2000000476837",
+  "largest_contentful_paint": "725.3999999761581",
   "required_links_url": [
     "about",
     "privacy"
@@ -152,7 +155,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.geoplatform.gov",
   "www_status_code": 200,
   "www_title": "GeoPlatform.gov | Making Federal Geospatial FAIR | GeoPlatform.gov"

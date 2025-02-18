@@ -18,10 +18,12 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:32:06.781Z",
+  "scan_date": "2025-02-15T18:43:14.677Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1,\"link-purpose\":9}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -49,7 +52,7 @@
     "p.typekit.net",
     "pbs.twimg.com",
     "s.w.org",
-    "scontent-ord5-1.xx.fbcdn.net",
+    "scontent-bos5-1.xx.fbcdn.net",
     "use.typekit.net"
   ],
   "third_party_service_urls": [
@@ -61,8 +64,9 @@
     "https://p.typekit.net/p.css",
     "https://pbs.twimg.com/profile_images/1399754594192920583/C_lXcydg_normal.jpg",
     "https://pbs.twimg.com/profile_images/1615826485566218254/-J1lmAV4_normal.jpg",
-    "https://s.w.org/images/core/emoji/15.0.3/svg/1f4e2.svg",
-    "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/243035214_423252209159771_5912071910750612991_n.jpg",
+    "https://s.w.org/images/core/emoji/15.0.3/svg/1f64f.svg",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/243035214_423252209159771_5912071910750612991_n.jpg",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/479835297_950341380546657_5551309169342296614_n.jpg",
     "https://use.typekit.net/nuf4sqp.css"
   ],
   "third_party_service_count": 8,
@@ -71,8 +75,8 @@
     "pressley.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0015513362630208334",
-  "largest_contentful_paint": "272.79999999701977",
+  "cumulative_layout_shift": "0.0015468362630208334",
+  "largest_contentful_paint": "246.30000007152557",
   "required_links_url": [
     "about"
   ],
@@ -121,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

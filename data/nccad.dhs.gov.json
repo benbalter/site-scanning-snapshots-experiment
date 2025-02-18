@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:28:34.932Z",
+  "scan_date": "2025-02-16T03:39:14.090Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -45,9 +48,9 @@
     "subagency": "CISA"
   },
   "dap_version": "20240624 v8 - GA4",
-  "ga_tag_id": "G-M0CB5DN9LV,G-GHG7XR2CMP,UA-32318423-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-M0CB5DN9LV,G-CSLL4ZEK4L,G-GHG7XR2CMP,UA-32318423-1",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "17de4c16.akstat.io",
     "c.go-mpulse.net",
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
@@ -58,7 +61,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://17de4c16.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js",
@@ -87,8 +90,8 @@
     "nccad.dhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.175997346883138",
-  "largest_contentful_paint": "1677.3999999985099",
+  "cumulative_layout_shift": "0.17956208162434895",
+  "largest_contentful_paint": "1189.9000000953674",
   "required_links_url": [
     "about",
     "fear",
@@ -151,7 +154,6 @@
   "uswds_semantic_version": "v3.7.1",
   "uswds_version": 100,
   "uswds_count": 219,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

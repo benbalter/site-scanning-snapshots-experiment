@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:48:03.262Z",
+  "scan_date": "2025-02-15T18:56:54.303Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,8 +50,8 @@
     "agency": "VA",
     "yt": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-KquHiRgaibiGPrZ,G-ffiY,G-KEiPVQlimiXFWG9",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -61,8 +64,13 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/912784fbbc87efb0/1739645803076/gTnekB1JqdhvNFc",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1422576674:1739644027:Aexe8_M7ti3zJz18PpTnTB71TWO7UCaOKPipEGXGCgg/912784fbbc87efb0/BYx8qusfJSUHf6W_xi_JPxjU8C9EeEPkWlcYJA0JGmI-1739645802-1.1.1.1-E2Ti2RMJx9ulM4l_iM9qpBAFLVlh_d8t8Zi6.JhF4TvSgh92sHGY_zvef6yz.Wkh",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/912784fbbc87efb0/1739645803082/4e8287bab9abc260d2c81fc0f827c2ffc350c24aa6987c2249ddfe6108b8507b/-QTZSBM-WijRyq-",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2",
@@ -70,12 +78,12 @@
     "https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpmJxAco.woff2",
     "https://fonts.gstatic.com/s/sourcesans3/v15/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
     "https://fonts.gstatic.com/s/sourceserif4/v8/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqnhtdDg.woff2",
-    "https://news.va.gov/wp-content/uploads/sites/3/2024/11/Women_vp1.jpg",
-    "https://news.va.gov/wp-content/uploads/sites/3/2024/12/Graphic_vp1.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2024/12/Veteran-on-bike.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2025/01/Keyboard-Locks_vp1.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2025/01/Rudisill-VANews.png",
     "https://news.va.gov/wp-content/uploads/sites/3/2025/01/Splash2025_imag1600x900_0107.png",
+    "https://news.va.gov/wp-content/uploads/sites/3/2025/02/VAMC-flags.jpg",
+    "https://news.va.gov/wp-content/uploads/sites/3/2025/02/secVA_021225.00_00_29_07.Still002.jpg",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
     "https://pro.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2",
@@ -85,7 +93,7 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -93,7 +101,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.027876753173828123",
-  "largest_contentful_paint": "1082.7000000476837",
+  "largest_contentful_paint": "899",
   "required_links_url": [
     "about",
     "fear",
@@ -186,7 +194,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 141,
-  "www_scan_status": "completed",
   "www_url": "https://department.va.gov",
   "www_status_code": 200,
   "www_title": "U.S. Department of Veterans Affairs"

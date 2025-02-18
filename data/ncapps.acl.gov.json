@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T00:33:37.338Z",
+  "scan_date": "2025-02-16T00:35:54.190Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "azurefd.net",
@@ -39,48 +42,23 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HHS",
-    "subagency": "ACL"
-  },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-39800338-2,G-CSLL4ZEK4L,G-0XE8KRSY7T",
-  "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "fonts.googleapis.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://fonts.googleapis.com/css",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js"
-  ],
-  "third_party_service_count": 4,
-  "cookie_domains": [
-    ".acl.gov"
-  ],
-  "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1212.5",
-  "required_links_url": [
-    "about",
-    "fear",
-    "usa.gov"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "freedom of information act",
-    "usa.gov"
-  ],
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
+  "cookie_domains": null,
+  "viewport_meta_tag": false,
+  "cumulative_layout_shift": "0.0381",
+  "largest_contentful_paint": "331.89999997615814",
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": false,
   "hsts": true,
-  "title": "NCAPPS Home",
-  "description": "N Capps",
+  "title": "Maintenance",
+  "description": null,
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -119,7 +97,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

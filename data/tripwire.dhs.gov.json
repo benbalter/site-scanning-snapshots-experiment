@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:44:13.306Z",
+  "scan_date": "2025-02-16T03:45:56.930Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -48,7 +51,7 @@
   "dap_version": "20240624 v8 - GA4",
   "ga_tag_id": "UA-44308701-2,G-ENTZWZZ7TM,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1f.akstat.io",
+    "17de4c0f.akstat.io",
     "c.go-mpulse.net",
     "fonts.googleapis.com",
     "s.go-mpulse.net",
@@ -56,7 +59,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1f.akstat.io/",
+    "https://17de4c0f.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://fonts.googleapis.com/css2",
     "https://s.go-mpulse.net/boomerang/FT92X-RBUKH-P8A6W-J43UW-YP7DR",
@@ -70,8 +73,8 @@
     "tripwire.dhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00048675000000000004",
-  "largest_contentful_paint": "1636.2999999970198",
+  "cumulative_layout_shift": "0.0006831212158203125",
+  "largest_contentful_paint": "1455.3999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -108,7 +111,7 @@
   "robots_txt_url": "https://tripwire.dhs.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 1706,
+  "robots_txt_filesize": 2027,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
@@ -136,7 +139,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 92,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

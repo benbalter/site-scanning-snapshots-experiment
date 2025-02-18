@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:55:41.704Z",
+  "scan_date": "2025-02-15T15:50:03.357Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -75,7 +77,6 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-02/DSC09308.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2021-07/Jerry%20L.%20Pettis%20Memorial%20Veterans%27%20Hospital.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -85,8 +86,8 @@
     "www.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.004946145833333334",
-  "largest_contentful_paint": "340.70000000298023",
+  "cumulative_layout_shift": "0.023002645833333335",
+  "largest_contentful_paint": "493.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -151,7 +152,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 25,
-  "www_scan_status": "completed",
   "www_url": "https://www.va.gov/loma-linda-health-care",
   "www_status_code": 200,
   "www_title": "VA Loma Linda Health Care | Veterans Affairs"

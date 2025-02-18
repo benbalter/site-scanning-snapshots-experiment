@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T14:09:03.034Z",
+  "scan_date": "2025-02-15T16:15:33.590Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -48,7 +51,7 @@
     "subagency": "WORKER.GOV",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-120638820-1,G-CSLL4ZEK4L,G-YVPBSJL278",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -72,9 +75,9 @@
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://script.crazyegg.com/pages/data-scripts/0074/6572/site/www.worker.gov.json",
@@ -83,7 +86,7 @@
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn42vbksdtn7ca1bu-usdol.gov1.siteintercept.qualtrics.com/SIE/"
   ],
   "third_party_service_count": 10,
@@ -93,7 +96,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.000646875",
-  "largest_contentful_paint": "1065.7000000476837",
+  "largest_contentful_paint": "1035.1000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -145,7 +148,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.worker.gov",
   "www_status_code": 503,
   "www_title": "Maintenance – Worker.gov"

@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:56:02.024Z",
+  "scan_date": "2025-02-16T02:51:40.177Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -53,7 +55,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s89779061310572",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s05167868673225",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/gateway.min.js",
@@ -62,11 +64,12 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".cdc.gov"
+    ".cdc.gov",
+    ".www.cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.17657315543619792",
-  "largest_contentful_paint": "720.3999999985099",
+  "cumulative_layout_shift": "0.1757854970703125",
+  "largest_contentful_paint": "511.60000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -122,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 28,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

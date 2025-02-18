@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T12:23:36.789Z",
+  "scan_date": "2025-02-15T13:47:26.912Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":7,\"language\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
     "subagency": "NIH",
     "pua": "UA-39200248-1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-39200248-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -72,8 +75,8 @@
     "videocast.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0004711925862630209",
-  "largest_contentful_paint": "2851.399999856949",
+  "cumulative_layout_shift": "0.32237119258626307",
+  "largest_contentful_paint": "3221.100000023842",
   "required_links_url": [
     "about",
     "privacy"
@@ -120,8 +123,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
-    "usa-banner",
-    "usa-js-loading"
+    "usa-banner"
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 20,
@@ -130,7 +132,6 @@
   "uswds_semantic_version": "v3.11.0",
   "uswds_version": 100,
   "uswds_count": 169,
-  "www_scan_status": "completed",
   "www_url": "https://www.videocast.nih.gov",
   "www_status_code": 200,
   "www_title": "NIH VideoCast"

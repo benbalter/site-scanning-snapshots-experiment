@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:30:46.070Z",
+  "scan_date": "2025-02-16T08:25:38.218Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -43,18 +46,18 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "fedsso.hud.gov",
-    "sso.hud.gov"
+    "fedsso.hud.gov"
   ],
   "third_party_service_urls": [
-    "https://fedsso.hud.gov/affwebservices/public/saml2sso",
-    "https://sso.hud.gov/siteminderagent/ntlm/creds.ntc"
+    "https://fedsso.hud.gov/affwebservices/public/saml2sso"
   ],
-  "third_party_service_count": 2,
-  "cookie_domains": null,
+  "third_party_service_count": 1,
+  "cookie_domains": [
+    ".hud.gov"
+  ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "161.20000000298023",
+  "largest_contentful_paint": "165.80000007152557",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -99,7 +102,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

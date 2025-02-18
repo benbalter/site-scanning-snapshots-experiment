@@ -25,10 +25,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T11:33:37.086Z",
+  "scan_date": "2025-02-15T14:15:56.477Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,6 +39,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":1}",
   "ipv6": false,
   "hostname": null,
@@ -49,7 +52,7 @@
   "dap_parameters": {
     "agency": "DOT"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-CSLL4ZEK4L,G-NQ5ZN114SB,UA-33523145-1,G-HF5V26MT25,G-0623JYSC1Q",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -95,8 +98,8 @@
     "www.transportation.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0010997747395833334",
-  "largest_contentful_paint": "445.40000000596046",
+  "cumulative_layout_shift": "0.0009914388020833334",
+  "largest_contentful_paint": "453.39999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -172,7 +175,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "completed",
   "www_url": "https://www.transportation.gov",
   "www_status_code": 200,
   "www_title": "Department of Transportation"

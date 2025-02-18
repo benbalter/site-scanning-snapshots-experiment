@@ -22,18 +22,21 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:17:30.204Z",
+  "scan_date": "2025-02-16T11:34:20.212Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -48,7 +51,7 @@
   "dap_parameters": {
     "agency": "OCC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-96449864-1,G-YLEP0XXM5D",
   "third_party_service_domains": [
     "50215.global.siteimproveanalytics.io",
@@ -66,13 +69,12 @@
     "https://script.crazyegg.com/pages/data-scripts/0012/5812/sampling/www.banknet.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0012/5812/site/www.banknet.gov.json",
     "https://script.crazyegg.com/pages/scripts/0012/5812.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteimproveanalytics.com/js/siteanalyze_50215.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/gtm/js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -80,8 +82,8 @@
     "www.banknet.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.11497019661458333",
-  "largest_contentful_paint": "995.1999999955297",
+  "cumulative_layout_shift": "0.18719480078125",
+  "largest_contentful_paint": "1857.8999999761581",
   "required_links_url": [
     "about",
     "foia",
@@ -151,7 +153,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 72,
-  "www_scan_status": "completed",
   "www_url": "https://www.banknet.gov/entrance/default.html",
   "www_status_code": 200,
   "www_title": "BankNet"

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T02:05:58.046Z",
+  "scan_date": "2025-02-16T03:12:37.827Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -89,7 +92,7 @@
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/uswds-2.6.0/img/icon-https.svg",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/uswds-2.6.0/img/us-flag-small.png",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/uswds-2.6.0/js/uswds.min.js",
-    "https://fdic.122.2o7.net/b/ss/fdicgovprod/1/JS-2.1.0/s81619881867519",
+    "https://fdic.122.2o7.net/b/ss/fdicgovprod/1/JS-2.1.0/s1350199682339",
     "https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://kit-free.fontawesome.com/releases/latest/css/free-v4-font-face.min.css",
     "https://kit-free.fontawesome.com/releases/latest/css/free-v4-shims.min.css",
@@ -131,8 +134,8 @@
     ".pfabankfindui-d.app.cloud.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7716472897542318",
-  "largest_contentful_paint": "170.39999999850988",
+  "cumulative_layout_shift": "0.7604437897542318",
+  "largest_contentful_paint": "226",
   "required_links_url": [
     "about",
     "fear",
@@ -212,10 +215,9 @@
   "uswds_usa_classes": 75,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": "v2.6.0",
-  "uswds_version": 100,
-  "uswds_count": 195,
-  "www_scan_status": "completed",
+  "uswds_semantic_version": null,
+  "uswds_version": 0,
+  "uswds_count": 95,
   "www_url": "https://www.pfabankfindui-d.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

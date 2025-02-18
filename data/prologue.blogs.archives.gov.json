@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:13:43.746Z",
+  "scan_date": "2025-02-15T16:09:03.635Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +35,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":131,\"link-purpose\":9}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":129,\"link-purpose\":9}",
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -45,7 +48,7 @@
   "dap_parameters": {
     "agency": "NARA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1,UA-19713578-4,UA-193034320-1,G-P1JBWQT9NJ,G-PQ0X4ESMQ6",
   "third_party_service_domains": [
     "c0.wp.com",
@@ -77,12 +80,12 @@
     "https://fonts.gstatic.com/s/karla/v31/qkB9XvYC6trAT55ZBi1ueQVIjQTD-JrIH2G7nytkHRyQ8p4wUje6bmMorHA.woff2",
     "https://forms-na1.hsforms.com/embed/v3/counters.gif",
     "https://forms.hsforms.com/embed/v3/form/20973928/4952e145-18a8-4185-b1de-03f7b39bda22/json",
+    "https://i0.wp.com/prologue.blogs.archives.gov/wp-content/uploads/sites/9/2017/11/40-1837a.jpg",
     "https://i0.wp.com/prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/05/cropped-NARA-logo-5-x-5-bw-e1527853230616-2.jpg",
     "https://i0.wp.com/prologue.blogs.archives.gov/wp-content/uploads/sites/9/2019/07/14-1374M-scaled.jpg",
-    "https://i0.wp.com/prologue.blogs.archives.gov/wp-content/uploads/sites/9/2024/10/Chinese-American-Calendar-1849-1951-5.jpg",
     "https://js.hsforms.net/forms/embed/v2.js",
     "https://pixel.wp.com/g.gif",
-    "https://stats.wp.com/e-202506.js",
+    "https://stats.wp.com/e-202507.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -96,7 +99,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0009412858072916666",
-  "largest_contentful_paint": "408.80000000447035",
+  "largest_contentful_paint": "337.2000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -149,7 +152,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

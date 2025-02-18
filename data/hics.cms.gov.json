@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://idm.cms.gov/oauth2/aus5lq331y4Snkpmj297/v1/authorize?client_id=0oa5lq1bziYHS4Wac297&redirect_uri=https%3A%2F%2Fhics.cms.gov%2Fapp%2FLogin.aspx&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3D7iF1pyNd2fGrqyWjcngBjl05w6GyPb9qUD49SGXaPy06tSJE8PcKTsxA4P2IGk2DRPRrhxB11LRQl_3TAsMoZu_FgCuPRSNxrusg6jP8IpqbodlCZTRZJTS07lUPMFGCH7jC5z804QEE8JtUiv5IcN6SW95ABfZ6MZAotiVXYrLdrdODgiEO_AyccQDUn47U_silf5jduR9Ye-4cCtqcXLcAUnL3fH-aiug2R1qTFqua_GCs&response_mode=form_post&nonce=638744914786251344.NWQ1NTRiMzAtNjlmNy00MWJlLWEzMTUtZDI1OTg2YmFmZDcyOWNhMDk0ODItNzcwNS00MTI1LTllYzMtMzcyMDVlZTQ1ODE3&x-client-SKU=ID_NET472&x-client-ver=6.18.0.0",
+  "url": "https://idm.cms.gov/oauth2/aus5lq331y4Snkpmj297/v1/authorize?client_id=0oa5lq1bziYHS4Wac297&redirect_uri=https%3A%2F%2Fhics.cms.gov%2Fapp%2FLogin.aspx&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DRDcIdbfE8GRqvUrPHmU-vXb6dBFpgRLIBrVmKd56W33gXF4WbiSVbVE-atb9BWOoOdHq8bdWFu_5jrVZwd8-Ujd4rQaWxYHbygwPBZAyuBMFGi19Bk4uJL3qKCcDQFWUhltTcr9BeR5vmx5CUy3SzuCcbeW_YJcR3i8qKbdiZ_HmW0LvevAZ443Gu8tP3qTt1wnoyGo83GcyB9rUX_IJKrGqPOM7zbix73euLZpoAnJ6R1GB&response_mode=form_post&nonce=638752404767264950.ZDM0MmRkMmUtZmZhNC00Njg0LTk0Y2ItM2VmYWE0M2RlOGQwZjI3NWYyMjAtZGZiNi00NWU2LTk5MDktYTg5NjVjZDU2NmY5&x-client-SKU=ID_NET472&x-client-ver=6.18.0.0",
   "domain": "idm.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:18:06.220Z",
+  "scan_date": "2025-02-15T18:21:28.155Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -49,12 +51,14 @@
     "ajax.googleapis.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "login.okta.com",
     "ok5static.oktacdn.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
+    "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js",
     "https://ok5static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
     "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.21.2/css/okta-sign-in.min.css",
     "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.21.2/font/okticon.woff",
@@ -65,14 +69,13 @@
     "https://ok5static.oktacdn.com/fs/bco/1/fs0phrlgheoImnRYq297",
     "https://ok5static.oktacdn.com/fs/bco/7/fs0jq9gt5nRMkIY2V297"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".cms.gov",
     "idm.cms.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1049",
+  "largest_contentful_paint": "1121.8999999761581",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -117,7 +120,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

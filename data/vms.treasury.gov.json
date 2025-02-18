@@ -5,7 +5,7 @@
   "initial_base_domain": "treasury.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://caia.treasury.gov/as/authorization.oauth2?client_id=84394fcf-d5f4-4586-a2b4-48191f70eb7b&redirect_uri=https%3A%2F%2Fvms.treasury.gov%2FSAFE%2Fsignin-oidc&response_type=code&scope=openid%20profile&code_challenge=2msJSC8Xc-Ml1u4p6w5cjvEyX9ggLj3OJ-BDurrm-wI&code_challenge_method=S256&response_mode=form_post&state=CfDJ8LO2RFecnR9IiPweB_rrftfMYt_9eMECqh3n9-0_6FKlAP2n0ZyMDdTbqz2UFS8aHRGVEEc6rGq3aRC6RzX3XHsyMkAXRQX73VxYfD-HzdTCAwzYZRudQ6hgaxJMNmweOLR1zBXcDGFRjxY0qKaDtgsE8duS62TttII8BotLccEcBc9Y83mgFpW10YlrwtzGvfzqNyQC334lwb1AiE7u4kKyvpA1KvwnpAUZqInYBCXvVAHotXU0GOjV3GkYQiCpsutyEfdl449-Ys4YKYypZdQ7JcXlTT_v-4x12jiv2OF0VxFaC6CjkBUX2LBe8_oqJp4KBhlnxre7qbvLW88hyaG_7bikOLfp4z9MvtrW2iIAyQHEhrV2HvvTeFCzit0n6od-pb837Hft3jz_L-DHBQOZVGLh05KIAgED_lDicz9abXtrY17LrDBiJkhO3KOcs3RUCZ0hXBHyC8jxAym5UjsqIFEKEsEL4PYW6eOsM6PM&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.10.0.0",
+  "url": "https://caia.treasury.gov/as/authorization.oauth2?client_id=84394fcf-d5f4-4586-a2b4-48191f70eb7b&redirect_uri=https%3A%2F%2Fvms.treasury.gov%2FSAFE%2Fsignin-oidc&response_type=code&scope=openid%20profile&code_challenge=J2be45sCcf-Hhbrs-yNS2bGzypqXMZItX0tcPw074vU&code_challenge_method=S256&response_mode=form_post&state=CfDJ8LO2RFecnR9IiPweB_rrftcenlgrZASTfRT0GcM2I2klNThFXxIRpWcwDzTCozpXXTiQHP9djRsuWx5KT4JI330IE8MOAqoWWc4T0l2f6rjVSAGxjbn1Bc4WSjH21n0DAOiYu284W7ALjII4JyCzYZTaPBmYH4vOkheEctKI0sxZcYfkOHxI_sICO55m6C9_D6Tgzc0hUtScVL60EJdmYsbbF4qgFjzMAVQpdTSWxgUq4oOepD6VMHyCGwXEF7v2fVMVeFTX7JaHQrIP82og-TPLSqL5EqxsmOmaMxUQXt7IFvrBYtGs9Lnb-0aHSnFgIrLC4ofgwXFz3RkyKbbEZchbxY2Nnf-BOP3ueBRWHwGchwXGC-XuF0y1yPZ2-53OXwwVfx9qp-NEngn_hjZhkmonnJsm7boEoUHYFamouY4bgLc6pAYIQ6xWeKNYa1gSXxZXoMGXVQVmpgrb8vTsoewyhugVB4r3uEKAwaBSOeo1&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.10.0.0",
   "domain": "caia.treasury.gov",
   "base_domain": "treasury.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:44:20.191Z",
+  "scan_date": "2025-02-15T14:11:40.639Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -50,8 +52,8 @@
     "caia.treasury.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.005617565511067708",
-  "largest_contentful_paint": "800.5",
+  "cumulative_layout_shift": "0.009232599853515624",
+  "largest_contentful_paint": "789.1999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -111,7 +113,6 @@
   "uswds_semantic_version": "v2.4.0",
   "uswds_version": 100,
   "uswds_count": 165,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

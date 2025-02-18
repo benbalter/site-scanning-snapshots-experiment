@@ -21,10 +21,12 @@
     "dap",
     "omb_idea",
     "gov_man",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-07T00:49:50.618Z",
+  "scan_date": "2025-02-16T00:45:54.984Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -56,26 +59,29 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://media.defense.gov/2025/Feb/05/2003637767/300/300/0/250201-F-US158-1054.JPG",
-    "https://media.defense.gov/2025/Feb/05/2003640764/300/300/0/250204-F-DX569-1077.JPG",
-    "https://media.defense.gov/2025/Feb/06/2003640776/300/300/0/250131-Z-BX441-1023.JPG",
-    "https://media.defense.gov/2025/Feb/06/2003640823/300/300/0/250127-F-LY429-1210.JPG",
-    "https://media.defense.gov/2025/Jan/31/2003640722/300/300/0/250128-F-PT849-1172.JPG",
+    "https://media.defense.gov/2025/Feb/07/2003646655/300/300/0/250205-F-FG548-1006.JPG",
+    "https://media.defense.gov/2025/Feb/12/2003646175/300/300/0/250210-F-BN045-8214.JPG",
+    "https://media.defense.gov/2025/Feb/12/2003647524/300/300/0/250211-F-BN045-5634.JPG",
+    "https://media.defense.gov/2025/Feb/14/2003647174/300/300/0/250205-F-BN045-9418.JPG",
+    "https://media.defense.gov/2025/Feb/14/2003647522/300/300/0/250212-F-KO637-1064.JPG",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".af.mil"
+    ".af.mil",
+    ".ww3.safaq.hq.af.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.050009385945638016",
-  "largest_contentful_paint": "303.8999999985099",
+  "cumulative_layout_shift": "0.025633548583984377",
+  "largest_contentful_paint": "223.30000007152557",
   "required_links_url": [
     "about",
     "foia",
@@ -130,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

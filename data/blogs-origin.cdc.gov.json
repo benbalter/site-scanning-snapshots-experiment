@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:21:12.590Z",
+  "scan_date": "2025-02-16T02:46:04.170Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -66,7 +68,7 @@
     "https://blogs.cdc.gov/wp-includes/js/thickbox/thickbox.css",
     "https://blogs.cdc.gov/wp-includes/js/thickbox/thickbox.js",
     "https://blogs.cdc.gov/wp-includes/js/wp-emoji-release.min.js",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s08100005855963",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s02993289489450",
     "https://mtrics.cdc.gov/cdcgov/1.0.0/s.gif",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RC15421f99835542dbba4143c0e739ad68-source.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RCa21d699436cc47c59cf9fab91094b33e-source.min.js",
@@ -88,7 +90,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.09820429760742187",
-  "largest_contentful_paint": "961",
+  "largest_contentful_paint": "1062.8000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -149,7 +151,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:33:31.519Z",
+  "scan_date": "2025-02-15T18:43:58.644Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -41,7 +45,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-RD8XCHNZ70,UA-19800217-1",
+  "ga_tag_id": "G-RD8XCHNZ70,UA-19800217-1,G-CoCYzhy0mFsMwK0",
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -71,7 +75,7 @@
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5XpjLdSL17o.woff",
     "https://googleads.g.doubleclick.net/pagead/id",
-    "https://i.ytimg.com/vi/6-reyBinLCU/sddefault.jpg",
+    "https://i.ytimg.com/vi/1jswfMkrEv4/sddefault.jpg",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://ka-p.fontawesome.com/releases/v5.15.1/css/pro-v4-font-face.min.css",
@@ -95,11 +99,12 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/wasm/lib.wasm",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/iSCdKZzK0j1LTILOq0PazpqP_Yr8QbaYzOvusGFGlu-DoNwC04gNb1_hbwr9yShFmeRg4DIn0A=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 19,
@@ -108,8 +113,8 @@
     ".oversight.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0012408777262369794",
-  "largest_contentful_paint": "452",
+  "cumulative_layout_shift": "0.178005754679362",
+  "largest_contentful_paint": "458.10000002384186",
   "required_links_url": [
     "about"
   ],
@@ -159,7 +164,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

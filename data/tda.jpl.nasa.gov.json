@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T08:22:35.417Z",
+  "scan_date": "2025-02-16T11:57:40.574Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":86,\"images\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":88,\"images\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -69,12 +71,10 @@
     "https://www.google.com/cse/static/style/look/v4/default.css"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.059428370768229176",
-  "largest_contentful_paint": "290.3999999985099",
+  "largest_contentful_paint": "287.5",
   "required_links_url": [
     "about"
   ],
@@ -121,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

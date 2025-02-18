@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:11:18.218Z",
+  "scan_date": "2025-02-16T05:07:44.175Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":10,\"language\":1,\"images\":26,\"link-purpose\":6}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -53,12 +56,10 @@
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    ".energy.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.028502906249999998",
-  "largest_contentful_paint": "6809.80000000447",
+  "cumulative_layout_shift": "0.028782000000000002",
+  "largest_contentful_paint": "5717",
   "required_links_url": [
     "about",
     "fear",
@@ -118,7 +119,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://id.energy.gov",
   "www_status_code": 200,
   "www_title": "DOE ID - Home Page"

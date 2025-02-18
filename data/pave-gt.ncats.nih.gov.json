@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T09:09:36.103Z",
+  "scan_date": "2025-02-15T17:51:31.024Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":11}",
   "ipv6": false,
   "hostname": null,
@@ -43,8 +46,8 @@
   "dap_parameters": {
     "agency": "HHS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-5948ZXXJQ3,G-CSLL4ZEK4L,G-c9Dtkgb,G-HrOI0VIrkOEh4ue",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-5948ZXXJQ3,G-CSLL4ZEK4L,G-b0AYdlGUrl0JI0r,G-PkprzofPTRpqQRa,G-DFzvMSbNs4t1h2I,G-C2F3,G-5GGc5Cyz6Feh0kW,G-7WnYDmisBF7fM47",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -67,16 +70,16 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.007868802083333334",
-  "largest_contentful_paint": "1480.3999999985099",
+  "cumulative_layout_shift": "0.009445874837239585",
+  "largest_contentful_paint": "1364.8000000715256",
   "required_links_url": [
     "foia"
   ],
@@ -128,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

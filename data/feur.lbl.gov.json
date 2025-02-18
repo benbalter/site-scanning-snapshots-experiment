@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:51:38.243Z",
+  "scan_date": "2025-02-16T09:42:23.636Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":4,\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -41,7 +43,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-KXL8L1LY7Z,G-OAZAJz1P2RQ8jFb",
+  "ga_tag_id": "G-KXL8L1LY7Z,G-b9BsGsKOT868mOt",
   "third_party_service_domains": [
     "cdn.lbl.gov",
     "cdnjs.cloudflare.com",
@@ -84,8 +86,8 @@
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -94,8 +96,8 @@
     "emp.lbl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.22281933911132812",
-  "largest_contentful_paint": "293.40000000596046",
+  "cumulative_layout_shift": "0.006527542236328125",
+  "largest_contentful_paint": "256.5",
   "required_links_url": [
     "about"
   ],
@@ -144,7 +146,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

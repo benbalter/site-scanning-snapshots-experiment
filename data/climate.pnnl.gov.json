@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:28:21.764Z",
+  "scan_date": "2025-02-15T12:55:03.360Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":2,\"contrast\":307,\"link-purpose\":8,\"form-names\":2}",
   "ipv6": true,
   "hostname": null,
@@ -54,8 +56,8 @@
     ".pnnl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.074",
-  "largest_contentful_paint": "212.20000000018626",
+  "cumulative_layout_shift": "0.07494944539388021",
+  "largest_contentful_paint": "199.30000007152557",
   "required_links_url": [
     "privacy"
   ],
@@ -104,7 +106,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

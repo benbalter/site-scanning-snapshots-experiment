@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T02:05:56.651Z",
+  "scan_date": "2025-02-16T03:11:42.194Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -45,7 +48,7 @@
     "agency": "GSA",
     "subagency": "TTS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -70,8 +73,8 @@
     ".touchpoints.app.cloud.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.023342753133138022",
-  "largest_contentful_paint": "149.39999999850988",
+  "cumulative_layout_shift": "0.0008837900390625",
+  "largest_contentful_paint": "170.30000007152557",
   "required_links_url": [
     "about"
   ],
@@ -91,7 +94,7 @@
   "og_type": "website",
   "og_url": "https://touchpoints.app.cloud.gov/",
   "canonical_link": null,
-  "language": "en-US",
+  "language": "en",
   "language_link": "",
   "main_element_present": true,
   "robots_txt_detected": true,
@@ -134,7 +137,6 @@
   "uswds_semantic_version": "v3.11.0",
   "uswds_version": 100,
   "uswds_count": 171,
-  "www_scan_status": "completed",
   "www_url": "https://www.touchpoints.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

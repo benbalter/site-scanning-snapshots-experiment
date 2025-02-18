@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites2"
+    "mil-sites2",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-07T10:44:15.036Z",
+  "scan_date": "2025-02-15T09:54:25.099Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "unknown_error",
   "accessibility_violations": "{\"link-purpose\":12}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -90,18 +93,17 @@
     "https://media.defense.gov/2024/Oct/03/2003558429/600/400/0/241002-N-YA098-1003.JPG",
     "https://media.defense.gov/2025/Jan/10/2003626467/1300/700/0/251001-N-YA098-1003.JPG",
     "https://media.defense.gov/2025/Jan/13/2003626879/1300/700/0/250110-N-N0114-1001.JPG",
-    "https://media.defense.gov/2025/Jan/17/2003629779/1300/700/0/250116-N-N0114-1002.PNG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
-    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
+    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.zbNBVWZ1T-s.O/am=AAg/d=1/exm=el_conf/ed=1/rs=AN8SPfrWA32OlelMufgC7-ko7d4AWUtUKw/m=el_main",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
+    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=gAE/d=0/rs=AN8SPfoGXBOIjDP5u9X-Fj08BKzEvbDeLg/m=el_main_css",
     "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
     "https://www.navy.mil//Portals/1/CNO/NAVPLAN2024/CNO_NAVPLAN_2024_cover.png"
@@ -111,8 +113,8 @@
     ".navy.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.16122158593750002",
-  "largest_contentful_paint": "742.5",
+  "cumulative_layout_shift": "0.16186636865234377",
+  "largest_contentful_paint": "583",
   "required_links_url": [
     "foia",
     "privacy",
@@ -167,7 +169,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "unknown_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:22:35.926Z",
+  "scan_date": "2025-02-15T13:45:18.607Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -42,7 +44,7 @@
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": "",
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-VSSTFV3FKR",
   "third_party_service_domains": [
     "bam.nr-data.net",
@@ -59,7 +61,7 @@
     "https://js-agent.newrelic.com/nr-rum-1.281.0.min.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/forms/494/formDataV2_1717595006664_en.json",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/embed.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/generic1738704109003.js",
+    "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/generic1739201758013.js",
     "https://s.go-mpulse.net/boomerang/LERZW-HECFS-R8H4E-23UQ7-ERMQB",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -70,8 +72,8 @@
     ".www.ssa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.004529165364583334",
-  "largest_contentful_paint": "684.7999999523163",
+  "cumulative_layout_shift": "0.003628541666666667",
+  "largest_contentful_paint": "418.2000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -157,7 +159,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 137,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

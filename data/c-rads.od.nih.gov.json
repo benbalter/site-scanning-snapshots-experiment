@@ -9,9 +9,9 @@
   "domain": "c-rads.od.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
-  "live": false,
+  "live": true,
   "filter": false,
-  "status_code": 403,
+  "status_code": 200,
   "media_type": "text/html",
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:25:19.250Z",
+  "scan_date": "2025-02-16T11:43:55.116Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"language\":1,\"images\":4,\"auto-updating\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -40,26 +43,38 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS",
+    "subagency": "NIH"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nih.gov",
     ".od.nih.gov",
     "c-rads.od.nih.gov"
   ],
-  "viewport_meta_tag": true,
+  "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "80",
+  "largest_contentful_paint": "280.5",
   "required_links_url": null,
-  "required_links_text": null,
+  "required_links_text": [
+    "vulnerability disclosure"
+  ],
   "https_enforced": true,
   "hsts": false,
-  "title": "Attention Required! | Cloudflare",
+  "title": "C-RADS Commercial Rates Application",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -70,7 +85,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en-US",
+  "language": null,
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -99,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

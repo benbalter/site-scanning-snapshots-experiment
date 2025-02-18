@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:48:29.439Z",
+  "scan_date": "2025-02-16T11:09:48.033Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
     "yt": "true",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-LiHT,UA-80144504-2,G-YV9H088WKK,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -81,10 +84,11 @@
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/5/12/8",
     "https://unpkg.com/esri-leaflet@1.0.5/dist/esri-leaflet.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -92,7 +96,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.027994742024739585",
-  "largest_contentful_paint": "4793.200000047684",
+  "largest_contentful_paint": "4706.600000023842",
   "required_links_url": [
     "about",
     "privacy"
@@ -142,7 +146,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

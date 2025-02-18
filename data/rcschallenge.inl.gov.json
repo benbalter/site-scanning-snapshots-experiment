@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:28:22.725Z",
+  "scan_date": "2025-02-16T08:39:07.807Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":7}",
   "ipv6": true,
   "hostname": null,
@@ -41,7 +43,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "UA-137776080-1,G-PKPDFVG0TC,G-ivViOLGKipqPZ,G-SGO6VzFqVA8ZhEF",
+  "ga_tag_id": "UA-137776080-1,G-PKPDFVG0TC,G-JAuSpzXNYDiYulF,G-x5RZ2rAktX8e8I3",
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -70,17 +72,18 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
     ".inl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.016881621093750004",
-  "largest_contentful_paint": "373.40000000596046",
+  "cumulative_layout_shift": "0.017100776123046876",
+  "largest_contentful_paint": "352.5",
   "required_links_url": [
     "about",
     "privacy"
@@ -132,7 +135,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

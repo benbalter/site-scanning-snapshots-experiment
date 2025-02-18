@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:53:55.541Z",
+  "scan_date": "2025-02-16T02:47:28.200Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -40,10 +43,13 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-86V8ZR35GR",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS",
+    "amp;subagency": "CDC"
+  },
+  "dap_version": "20240925 v8.3 - GA4",
+  "ga_tag_id": "G-86V8ZR35GR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdc.112.2o7.net",
     "cdnjs.cloudflare.com",
@@ -54,7 +60,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s591003263485",
+    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s04213608516363",
     "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
@@ -76,8 +82,8 @@
     "findtbresources.cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.23640304447428384",
-  "largest_contentful_paint": "2660.4000000953674",
+  "cumulative_layout_shift": "0.2382454141031901",
+  "largest_contentful_paint": "1028.1999999284744",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -144,7 +150,6 @@
   "uswds_semantic_version": "v3.7.0",
   "uswds_version": 100,
   "uswds_count": 186,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:41:15.380Z",
+  "scan_date": "2025-02-15T12:05:18.150Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
     "agency": "HHS",
     "subagency": "NIH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-CDJYMSXEL5",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -69,8 +72,8 @@
     "history.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03776435717773437",
-  "largest_contentful_paint": "2275.39999999851",
+  "cumulative_layout_shift": "0.010785768636067708",
+  "largest_contentful_paint": "4178.399999976158",
   "required_links_url": [
     "about"
   ],
@@ -140,7 +143,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 126,
-  "www_scan_status": "completed",
   "www_url": "https://www.history.nih.gov",
   "www_status_code": 200,
   "www_title": "Moved"

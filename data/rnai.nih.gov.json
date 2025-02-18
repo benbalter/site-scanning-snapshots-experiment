@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:13:13.875Z",
+  "scan_date": "2025-02-15T10:55:12.981Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"frames-iframes\":1,\"images\":5}",
   "ipv6": false,
   "hostname": null,
@@ -43,7 +45,7 @@
     "agency": "HHS",
     "subagency": "NIH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-DOr3ZsVGi61w,G-ZZQ8H5G8ZX",
   "third_party_service_domains": [
     "c.bing.com",
@@ -91,21 +93,21 @@
     "https://play.google.com/log",
     "https://s.clarity.ms/collect",
     "https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://static.hotjar.com/c/hotjar-3086545.js",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/ku0m8m6kx8",
     "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/ytc/AIdro_kGVnaVqmKGYhL7rKbLb1nztLdEabt5G-DOr3ZsVGi61w=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 22,
@@ -113,8 +115,8 @@
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.050785290690104165",
-  "largest_contentful_paint": "1446.5",
+  "cumulative_layout_shift": "0.0008881536458333332",
+  "largest_contentful_paint": "1127.8999999761581",
   "required_links_url": [
     "about",
     "foia",
@@ -177,7 +179,6 @@
   "uswds_semantic_version": "v3.3.0",
   "uswds_version": 100,
   "uswds_count": 199,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:25:05.505Z",
+  "scan_date": "2025-02-16T01:48:00.990Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -86,7 +89,6 @@
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
     "https://www.lomediagroup.com/wp-content/uploads/2023/09/next-arrow.svg",
     "https://www.lomediagroup.com/wp-content/uploads/2023/09/prev-arrow.svg"
   ],
@@ -95,8 +97,8 @@
     ".army.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06753196223958334",
-  "largest_contentful_paint": "369.80000000447035",
+  "cumulative_layout_shift": "0.009678979166666666",
+  "largest_contentful_paint": "347.1999999284744",
   "required_links_url": [
     "about",
     "fear",
@@ -154,7 +156,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "completed",
   "www_url": "https://cyber.army.mil",
   "www_status_code": 200,
   "www_title": "Army Cyber Institute (ACI) Home"

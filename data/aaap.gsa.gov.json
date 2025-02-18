@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:44:53.309Z",
+  "scan_date": "2025-02-16T07:08:55.596Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -64,7 +66,7 @@
     "https://ka-f.fontawesome.com/releases/v6.7.2/css/free.min.css",
     "https://ka-f.fontawesome.com/releases/v6.7.2/webfonts/free-fa-brands-400.woff2",
     "https://kit.fontawesome.com/1c4d495b59.js",
-    "https://lop.gsa.gov/jslibrary/1698336665252/sfdc/VFRemote.js",
+    "https://lop.gsa.gov/jslibrary/1739271841254/sfdc/VFRemote.js",
     "https://lop.gsa.gov/resource/1349104066000/showpopup",
     "https://lop.gsa.gov/resource/1349104066000/showpopupcss",
     "https://lop.gsa.gov/resource/1648062440000/modaljquery",
@@ -83,8 +85,8 @@
     "leasing.gsa.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "1.45060011714681",
-  "largest_contentful_paint": "1378.800000011921",
+  "cumulative_layout_shift": "1.8551897818603513",
+  "largest_contentful_paint": "1273.1000000238419",
   "required_links_url": [
     "usa.gov"
   ],
@@ -157,7 +159,6 @@
   "uswds_semantic_version": "v2.13.2",
   "uswds_version": 100,
   "uswds_count": 176,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

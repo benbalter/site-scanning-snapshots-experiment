@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:31:25.443Z",
+  "scan_date": "2025-02-16T04:28:34.123Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,10 +44,10 @@
   "dap_parameters": {
     "agency": "DOL"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-LTGX1LSENR,G-988WLCRHJJ,UA-175033420-4,G-8D6G2LK2BW,G-HZ8Y6WJF2K,G-CSLL4ZEK4L",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-HZ8Y6WJF2K,G-CSLL4ZEK4L,UA-175033420-4",
   "third_party_service_domains": [
-    "17de4c16.akstat.io",
+    "17de4c1e.akstat.io",
     "6313124.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
     "cdn.jsdelivr.net",
@@ -61,7 +63,7 @@
     "zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c16.akstat.io/",
+    "https://17de4c1e.akstat.io/",
     "https://6313124.global.r2.siteimproveanalytics.io/image.aspx",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
@@ -72,13 +74,19 @@
     "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6hPvhPQ.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://s.go-mpulse.net/boomerang/E68AF-EQ2CX-6PS4U-GPXGV-5A3RP",
     "https://script.crazyegg.com/pages/data-scripts/0074/6572/sampling/www.dol.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0074/6572/site/www.dol.gov.json",
     "https://script.crazyegg.com/pages/scripts/0074/6572.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6313124.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
@@ -91,8 +99,8 @@
     ".dol.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0005527122395833333",
-  "largest_contentful_paint": "1154.2999999970198",
+  "cumulative_layout_shift": "0.0004855052083333333",
+  "largest_contentful_paint": "801.6999999284744",
   "required_links_url": [
     "about",
     "foia",
@@ -116,7 +124,7 @@
   "description": null,
   "keywords": null,
   "og_title": "OLMS",
-  "og_description": ".box { width: 100%; height: 100%; padding: 10px; border: solid #d7d7d7 1.5px; margin: 10px; } p.padding{ padding-right:15px; } .iconbox { margin-right: 10px; margin-bottom: 10px; padding-bottom: 20px; } p.justify{ text-align: justify; } .rightborder{ border-right-style: solid; border-width: 2px; border-color: #d7d7d7; } a.mid-box:link, a.mid-box:visited { color: #004792; text-decoration: none; } a.mid-box:hover, a.mid-box:active { color: #6699CC; }  Online Public Disclosure Records File Labor-Management ReportsGo to the OLMS Electronic Forms System (EFS) to file your LM report.   View Persuader and Information-Supplying/Employer and Consultant ReportsFind reports concerning employers hiring third parties to surveil the employers' workers or persuade them concerning their union organizing rights. Search for Form LM-10 reports filed by employers and Form LM-20 and LM-21 reports filed by third-party labor relations consultants.View Union ReportsFind Form LM-1 Information Reports, Forms LM-2, LM-3, LM-4, and simplified Labor Organization Annual Financial Reports, and union constitutions and bylaws. Also, find Form LM-30 Labor Organization Officer and Employee Reports and Form LM-15/15A/16 trusteeship reports.View Collective Bargaining Agreements (CBA)Find CBAs received voluntarily from either an employer or a labor union (or their employees or agents), singly or jointly. , p.justify{ text-align: justify; } a.btn:link, a.btn:visited { background-color: white; color: #005A9C; box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2), 0 4px 12px 0 rgba(0,0,0,0.16); padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; } a.btn:hover, a.btn:active { background-color: #6699CC; color: white; } Labor-Management Partnership ProgramInterested in building or sustaining a labor-management partnership for your workplace?Find out how the Labor-Management Partnership Program provides industry specific examples of what can be achieved through collaboration and partnership!Learn moreTransit Worker ProtectionsFind information on mass transit workers' protections and rights.  Learn morePersuader Reporting  Tip LinePlease submit any information regarding the failure of an employer or labor relations consultant to file a persuader report. Learn moreReport Embezzlement of Union FundsIf you suspect embezzlement from a labor union, please contact OLMS. Learn more , .box2 { width: 90%; height: 100%; padding: 2px; margin: auto; padding: 0px; padding-top: 20px; } div.absolute { position: absolute; top: 150px; right: 0; width: 500px; height: 200px; } div.absolute2{ position: absolute; top: 250px; right: 0; width: 500px; height: 200px; } “In the public interest, it continues to be the responsibility of the Federal Government to protect employees’ rights to organize, choose their own representatives, bargain collectively, and otherwise engage in concerted activities for their mutual aid or protection.”Section 2(a) Labor-Management Reporting and Disclosure Act of 1959 , Read OLMS Director Jeffrey Freund's Blog Posts regarding OLMS Work and the Role of the Labor Movement in the Modern American Economy. , How to Contact OLMSHow to File a Complaint with OLMSHow to make a Freedom of Information Act (FOIA) Request , .image-left { align-items: center; }",
+  "og_description": ".box { width: 100%; height: 100%; padding: 10px; border: solid #d7d7d7 1.5px; margin: 10px; } p.padding{ padding-right:15px; } .iconbox { margin-right: 10px; margin-bottom: 10px; padding-bottom: 20px; } p.justify{ text-align: justify; } .rightborder{ border-right-style: solid; border-width: 2px; border-color: #d7d7d7; height: 300px; } a.mid-box:link, a.mid-box:visited { color: #004792; text-decoration: none; } a.mid-box:hover, a.mid-box:active { color: #6699CC; }  Online Public Disclosure Records File Labor-Management ReportsGo to the OLMS Electronic Forms System (EFS) to file your LM report.   View Persuader and Information-Supplying/Employer and Consultant ReportsFind reports concerning employers hiring third parties to supply information to them concerning the employers' workers or persuade them concerning their union organizing rights. Search for Form LM-10 reports filed by employers and Form LM-20 and LM-21 reports filed by a labor relations consultant.View Union ReportsFind Form LM-1 Information Reports, Forms LM-2, LM-3, LM-4, and simplified Labor Organization Annual Financial Reports, and union constitutions and bylaws. Also, find Form LM-30 Labor Organization Officer and Employee Reports and Form LM-15/15A/16 trusteeship reports.View Collective Bargaining Agreements (CBA)Find CBAs received voluntarily from either an employer or a labor union (or their employees or agents), singly or jointly. , p.justify{ text-align: justify; } a.btn:link, a.btn:visited { background-color: white; color: #005A9C; box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2), 0 4px 12px 0 rgba(0,0,0,0.16); padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; } a.btn:hover, a.btn:active { background-color: #6699CC; color: white; } Labor-Management Partnership ProgramInterested in building or sustaining a labor-management partnership for your workplace?Find out how the Labor-Management Partnership Program provides industry specific examples of what can be achieved through collaboration and partnership!Learn moreTransit Worker ProtectionsFind information on mass transit workers' protections and rights.  Learn morePersuader Reporting  Tip LinePlease submit any information regarding the failure of an employer or labor relations consultant to file a persuader report. Learn moreReport Embezzlement of Union FundsIf you suspect embezzlement from a labor union, please contact OLMS. Learn more , .box2 { width: 90%; height: 100%; padding: 2px; margin: auto; padding: 0px; padding-top: 20px; } div.absolute { position: absolute; top: 150px; right: 0; width: 500px; height: 200px; } div.absolute2{ position: absolute; top: 250px; right: 0; width: 500px; height: 200px; } “In the public interest, it continues to be the responsibility of the Federal Government to protect employees’ rights to organize, choose their own representatives, bargain collectively, and otherwise engage in concerted activities for their mutual aid or protection.”Section 2(a) Labor-Management Reporting and Disclosure Act of 1959 , Read OLMS Director Jeffrey Freund's Blog Posts regarding OLMS Work and the Role of the Labor Movement in the Modern American Economy. , How to Contact OLMSHow to File a Complaint with OLMSHow to make a Freedom of Information Act (FOIA) Request , .image-left { align-items: center; }",
   "og_article_published": null,
   "og_article_modified": null,
   "og_image": "https://www.dol.gov/sites/dolgov/files/OPA/twitter-cards/HomepageTwittercardOmbre.png",
@@ -165,7 +173,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 92,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

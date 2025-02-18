@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:19:48.027Z",
+  "scan_date": "2025-02-16T10:18:01.751Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -53,7 +55,7 @@
     "optout": "false",
     "palinteractiontypedim": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-8946,G-FH5X1PMV8C,UA-77708142-1,UA-108444827-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.app.cfigroup.com",
@@ -76,11 +78,11 @@
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/webmon.js",
     "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/20240501_091352.jpg",
+    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/Elwha-River-Landscapes-of-Recovery-banner-GIF_0.gif",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/HM3_JamesWebber_Shenandoah-River.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/Orson%20PA%20Riparian%20Assessment-31.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/Susquehanna.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/WI_streamgage_duck_creek_04072150.jpg",
-    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/2020_08_13_Przybyla-KellyKasia_USGS_01.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/DSC03974_1.JPG",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/Chiques_gage_pic.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/IMG-8946.jpg",
@@ -88,11 +90,11 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/info_block/public/media/images/David-Fisher_Michael-Brownley-QW-at-Choptank-Greensboro_HonMen.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/info_block/public/media/images/West%20Branch%20of%20the%20Susquehanna%20near%20Williamsport%20PA.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/media/images/Conowingo%20Dam%20January%202024-22.jpg",
-    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/media/images/images_large_ew4c00589_0003.jpeg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/Flow_to_Ches_Bay_TableThumb_SUSQ_nogrid-150.png",
+    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/NevadaLandscape_BobWick_BLM.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://e.gov.cfigroup.com/wmon",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.hotjar.com/c/hotjar-606685.js",
@@ -104,7 +106,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -112,7 +114,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.002301359375",
-  "largest_contentful_paint": "669.6000001430511",
+  "largest_contentful_paint": "976.5999999046326",
   "required_links_url": [
     "about",
     "foia",
@@ -186,12 +188,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 80,
-  "uswds_string": 4,
+  "uswds_string": 5,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.9.0",
   "uswds_version": 100,
-  "uswds_count": 264,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 265,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

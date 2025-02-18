@@ -18,10 +18,12 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:18:07.976Z",
+  "scan_date": "2025-02-15T18:40:57.639Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":3,\"images\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"aria\":3}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -43,23 +46,17 @@
   "dap_version": "",
   "ga_tag_id": "G-5HGJP1W7Q8,G-EJQCV2JBHT",
   "third_party_service_domains": [
-    "a.tile.openstreetmap.org",
     "api.hcaptcha.com",
-    "b.tile.openstreetmap.org",
-    "c.tile.openstreetmap.org",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kml.house.gov",
     "newassets.hcaptcha.com",
+    "services.arcgisonline.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://a.tile.openstreetmap.org/8/42/99.png",
     "https://api.hcaptcha.com/checksiteconfig",
-    "https://b.tile.openstreetmap.org/8/41/98.png",
-    "https://c.tile.openstreetmap.org/8/41/99.png",
-    "https://c.tile.openstreetmap.org/8/42/98.png",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lXYi128m0g.woff",
@@ -67,17 +64,22 @@
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/CA-9/shape.kml",
     "https://kml.house.gov/geocoder/geographies/address",
-    "https://newassets.hcaptcha.com/c/7e1303d8c1ca17eba040bd283c0bd341b743be0c7a2fc77956839e6191feb9e6/hsw.js",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
+    "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/8/98/41",
+    "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/8/98/42",
+    "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/8/99/41",
+    "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/8/99/42",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 8,
   "cookie_domains": [
-    ".harder.house.gov"
+    ".harder.house.gov",
+    ".house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.19500398958333334",
-  "largest_contentful_paint": "779.6000001430511",
+  "cumulative_layout_shift": "0.19583498046875",
+  "largest_contentful_paint": "460",
   "required_links_url": [
     "about",
     "privacy"
@@ -127,7 +129,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

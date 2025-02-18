@@ -5,7 +5,7 @@
   "initial_base_domain": "fnal.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://pingprod.fnal.gov/idp/SSO.saml2?SAMLRequest=hZLNbsIwEIRfJfI9JIRCwCKRAgEJibaItD30UlnOApYcO%2FU6afv2dYL6wwVOltYzu9%2BsPUdWyZpmjT2pPbw3gNb7rKRC2l8kpDGKaoYCqWIVILWcFtn9lkaDkNZGW821JP8s1x0MEYwVWhFvkyfkbRWupos8CsfDeJHFs9Ekn02mo3WW5aNlFOUr4r2AQadPiLM7E2IDG4WWKetKYTT2w8gP46fwjg5jGk1fiZe7DEIx27tO1tZIg6AW6uhwy8FBMTk46jYQZR0UxeOgg46It9QKoWt6DZ%2BfRZQ3xrjTF1UtBReWeGttOPRbTMiBSYSOdefiihZ%2BK9lP%2Bm5YU4EpwLSCw%2FN%2B%2B0fKS96iD3LmX%2FJWIKVWQa3R7gHrjoSk846e9lsx6Y0O8%2BC%2FeH5%2B%2BAeXcZPvtIvx1YWo2I0VdBVR%2BodeSq1hCoVbhQvn8D6WBph1ga1pgATpeeTl90q%2FAQ%3D%3D&RelayState=https%3A%2F%2Fcdcvs-el9-prod.fnal.gov%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=W7o1q3IZbbHMCjkz%2Fdg4J5pxP%2Bb%2BD5VzmwcGUVOwv1oVw9q4F%2FbBYgJQIhtVeaPyf8nhu9O2mYW8w1Ln%2F8m94hRWkJuvaey25LpA9WVXr8chJo4EMNR1dpMGbPv%2B4aa%2By63o%2Fqd2rLUtzRtzyCZJhYDeYYYBz%2B2eecjViLWeyyaukHleuROXJxWBwxYLRmZ%2F%2Bn%2Fbr2vA2Ch17Si0BMJjrbkUb5RTOYRwIJSB24Rt9y2PfraTm%2B3Nh7b2CV80MBr4sXhkK8mfEmPpv0Hyb26yOBwDJ7QP%2Fv5uny4Lxkd38L2w6VlYmfZwhW4CQ3Vd6uizCvSNAw9U9BCuZwvmmqSpmw%3D%3D",
+  "url": "https://pingprod.fnal.gov/idp/SSO.saml2?SAMLRequest=hZLLTsMwEEV%2FJfI%2BjyZ9WkmkkoBUqUDVAAs2yHKmrSXHDh6nwN%2FjpALKpl1ZGt87c%2B7YKbJGtnTZ2YPawnsHaL3PRiqkw0VGOqOoZiiQKtYAUstptbxf0ziIaGu01VxLcma57GCIYKzQinirMiNv88msLOJZMV%2BMFuNyMVneFNG0HE3jZFzMbqOEeC9g0Okz4uzOhNjBSqFlyrpSFE%2F8KPZH06doSpOEJpNX4pUug1DMDq6DtS3SMGyF2jvcOtgpJoO9PoaibsOqegx66Jh4hVYIfdNL%2BPwkorwzxp2%2BaFopuLDEu9OGw7DFjOyYROhZNy6uOMJvZfmTvh%2FWNWAqMEfB4Xm7%2FiPlNT%2BiD3Lh%2F%2BdtQEqtwlaj3QK2PQnJ056eDlsx%2BZUOaXguTk8P%2F%2BAyrsqNdjG%2B%2BhANu7KCviJqfzdIqTVMoXCrcOEc3kdhgFkX2JoOSJifRv7%2FXvk3&RelayState=https%3A%2F%2Fcdcvs-el9-prod.fnal.gov%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=FuWlMxDgYYYiYI818UnDXQlKyjlIlb%2F3cQx2yh9FfcKpkH7O%2Bb1KrIi6%2FME2W5yeZ%2F1VT0oN0vJvh%2FATI6%2FrnH%2FE%2BCpnsprutt2Cb55BTa0PgUbrOQWJW3uZdzwXz%2B458eaQI1I1pYBr0XfuyDYkN25W6X8mvvDzNk81pjkgCkwA0hGiRsOf1AYEuKr2oghb6PJV%2BJ2pOpvhQhv%2BJVkhn%2Fe579BANcr1e4eGonUxZAPWdlEZAAWTQ917UVMzZ10YIFnaq2Z0QpIbiVk%2F28cmzDU8aJG0JVa962QTo8Ab%2F8tiOq3HdPHgeWBYAypb4V9x34MvdUicLbnm42VgEJyw9A%3D%3D",
   "domain": "pingprod.fnal.gov",
   "base_domain": "fnal.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:17:35.657Z",
+  "scan_date": "2025-02-16T06:33:46.101Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"form-names\":1}",
   "ipv6": true,
   "hostname": null,
@@ -51,7 +53,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "637",
+  "largest_contentful_paint": "643.7000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,
@@ -96,7 +98,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

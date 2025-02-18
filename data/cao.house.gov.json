@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:18:23.607Z",
+  "scan_date": "2025-02-15T18:36:36.332Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":6}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -59,11 +63,12 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".cao.house.gov"
+    ".cao.house.gov",
+    ".house.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.06186535542805989",
-  "largest_contentful_paint": "385.8999999985099",
+  "largest_contentful_paint": "193.69999992847443",
   "required_links_url": [
     "about",
     "privacy"
@@ -113,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

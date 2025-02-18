@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:28:44.955Z",
+  "scan_date": "2025-02-15T15:27:17.944Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -47,7 +49,6 @@
     "fonts.googleapis.com",
     "geochat.usgs.gov",
     "ipinfo.io",
-    "sdk.amazonaws.com",
     "unpkg.com",
     "www.googletagmanager.com"
   ],
@@ -59,17 +60,16 @@
     "https://geochat.usgs.gov/lex-web-ui-loader.js",
     "https://geochat.usgs.gov/lex-web-ui.min.css",
     "https://ipinfo.io/",
-    "https://sdk.amazonaws.com/js/aws-sdk-2.903.0.min.js",
     "https://unpkg.com/vuetify@0.17.7/dist/vuetify.min.css",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".usgs.gov"
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "35.59999990463257",
+  "largest_contentful_paint": "30.199999928474426",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -114,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:04:00.266Z",
+  "scan_date": "2025-02-15T17:29:39.588Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -53,7 +56,7 @@
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js",
     "https://sewpprod.servicenowservices.com/api/global/agent_availability",
-    "https://www.sewp.nasa.gov/images/chatnow.png"
+    "https://www.sewp.nasa.gov/images/emailsewp.png"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -61,8 +64,8 @@
     "sewp.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.14980527604166666",
-  "largest_contentful_paint": "702.2000000476837",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "1057.6999999284744",
   "required_links_url": [
     "about",
     "privacy"
@@ -113,7 +116,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.sewp.nasa.gov",
   "www_status_code": 200,
   "www_title": "NASA SEWP Home"

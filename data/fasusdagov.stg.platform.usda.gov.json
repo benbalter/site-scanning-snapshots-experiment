@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:37:48.319Z",
+  "scan_date": "2025-02-15T15:00:27.960Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":6}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -42,7 +45,7 @@
   "dap_parameters": {
     "agency": "USDA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-3VJG9YNPPJ,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -59,8 +62,8 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.16519799922688805",
-  "largest_contentful_paint": "918.5",
+  "cumulative_layout_shift": "0.36784799922688804",
+  "largest_contentful_paint": "690.2000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -123,12 +126,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 30,
-  "uswds_string": 8,
+  "uswds_string": 7,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 58,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 57,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

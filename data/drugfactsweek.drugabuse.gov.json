@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:22:20.828Z",
+  "scan_date": "2025-02-15T18:14:50.763Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": true,
   "hostname": "awsglobalaccelerator.com",
@@ -43,7 +45,7 @@
     "agency": "HHS",
     "subagency": "NIH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-JB1KEF0Q84,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "app-script.monsido.com",
@@ -70,8 +72,7 @@
     "https://static.addtoany.com/menu/svg/icons/x.js",
     "https://tracking.monsido.com/",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -80,7 +81,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.028664374471028646",
-  "largest_contentful_paint": "511.70000000298023",
+  "largest_contentful_paint": "521.8999999761581",
   "required_links_url": [
     "about",
     "foia",
@@ -141,7 +142,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 64,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

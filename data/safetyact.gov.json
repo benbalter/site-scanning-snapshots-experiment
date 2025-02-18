@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:36:37.724Z",
+  "scan_date": "2025-02-15T13:06:33.930Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"form-names\":3,\"aria\":3,\"lists\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -46,10 +49,10 @@
   "dap_parameters": {
     "agency": "DHS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-58XH860MED,G-GHG7XR2CMP",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP,G-58XH860MED",
   "third_party_service_domains": [
-    "684d0d47.akstat.io",
+    "17de4c15.akstat.io",
     "az416426.vo.msecnd.net",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
@@ -61,7 +64,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://684d0d47.akstat.io/",
+    "https://17de4c15.akstat.io/",
     "https://az416426.vo.msecnd.net/scripts/a/ai.0.js",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -70,17 +73,17 @@
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/170.c9e6b9a6e9.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/243.37970f022e.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/448.462407f435.chunk.js",
-    "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/559.69ac38aa0b.chunk.js",
+    "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/469.bc70744318.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/573.676281aef2.chunk.js",
-    "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/811.78b4e2ed97.chunk.js",
+    "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/841.8a5182f1f0.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/867.0578a1c628.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/874.d64d28bc67.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/90.24327273f1.chunk.js",
-    "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/main.e9930a0a5c.chunk.js",
+    "https://gov.content.powerapps.us/resource/powerappsportal/controls/host/main.38f3cbbbdc.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/mf_shared/451.6012e266c2.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/mf_shared/465.b7a24572be.chunk.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/controls/mf_shared/753.68a8bfd654.chunk.js",
-    "https://gov.content.powerapps.us/resource/powerappsportal/controls/mf_shared/remoteEntry.29aa95dc3b.js",
+    "https://gov.content.powerapps.us/resource/powerappsportal/controls/mf_shared/remoteEntry.783570eb42.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/dist/app.bundle-dad47d7e41.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/dist/bootstrap.bundle-105a4995b8.js",
     "https://gov.content.powerapps.us/resource/powerappsportal/dist/client-telemetry-wrapper.bundle-633e70f51b.js",
@@ -103,6 +106,7 @@
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -112,8 +116,8 @@
     "www.safetyact.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03528758817545573",
-  "largest_contentful_paint": "2922.0999999046326",
+  "cumulative_layout_shift": "0.0034136436360677085",
+  "largest_contentful_paint": "1442.2000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -178,7 +182,6 @@
   "uswds_semantic_version": "v3.0.0",
   "uswds_version": 100,
   "uswds_count": 191,
-  "www_scan_status": "completed",
   "www_url": "https://www.safetyact.gov",
   "www_status_code": 200,
   "www_title": "Home | DHS SAFETY Act"

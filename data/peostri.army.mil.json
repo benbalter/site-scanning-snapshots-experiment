@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:18:05.895Z",
+  "scan_date": "2025-02-16T02:01:49.220Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"form-names\":1,\"aria\":1,\"contrast\":2}",
   "ipv6": false,
   "hostname": null,
@@ -73,11 +76,12 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".army.mil"
+    ".army.mil",
+    ".www.peostri.army.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0004046554768880209",
-  "largest_contentful_paint": "559.8000001907349",
+  "cumulative_layout_shift": "0.017041458862304685",
+  "largest_contentful_paint": "356.10000002384186",
   "required_links_url": [
     "fear",
     "foia",
@@ -132,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.peostri.army.mil",
   "www_status_code": 200,
   "www_title": "PEO STRI - Home"

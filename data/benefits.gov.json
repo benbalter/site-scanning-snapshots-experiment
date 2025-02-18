@@ -22,10 +22,11 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "oira"
+    "oira",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T10:48:05.397Z",
+  "scan_date": "2025-02-16T02:19:47.734Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -47,26 +49,23 @@
     "agency": "GSA",
     "subagency": "TTS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GXFTMLX26S,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "51567.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
-    "gov1.siteintercept.qualtrics.com",
     "script.crazyegg.com",
     "search.usa.gov",
     "siteimproveanalytics.com",
-    "www.googletagmanager.com",
-    "znbabnroqffo1d7xq-cemgsa.gov1.siteintercept.qualtrics.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://51567.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/sampling/www.usa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/site/www.usa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0007/9651.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -74,15 +73,16 @@
     "https://siteimproveanalytics.com/js/siteanalyze_51567.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://znbabnroqffo1d7xq-cemgsa.gov1.siteintercept.qualtrics.com/SIE/"
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".usa.gov"
+    ".usa.gov",
+    "www.usa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.010199688720703124",
-  "largest_contentful_paint": "205.1000000089407",
+  "cumulative_layout_shift": "0.06542704833984375",
+  "largest_contentful_paint": "176.70000004768372",
   "required_links_url": [
     "about",
     "foia",
@@ -168,7 +168,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 109,
-  "www_scan_status": "completed",
   "www_url": "https://www.usa.gov/benefit-finder?utm_source=usa_benefits-gov&utm_medium=redirect&utm_campaign=redirect_benefits-gov&modal=b-welcome-1899",
   "www_status_code": 200,
   "www_title": "Find government benefits and financial help | USAGov"

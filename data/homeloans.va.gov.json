@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:32:24.137Z",
+  "scan_date": "2025-02-15T15:52:53.015Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -44,8 +46,8 @@
     "yt": "1",
     "pga4": "G-Y8BBTRX2M1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-Y8BBTRX2M1,G-CSLL4ZEK4L,G-YPB3FD0PQ9,UA-50123418-1",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-Y8BBTRX2M1,G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
     "cdn.eo.va.gov",
     "content.govdelivery.com",
@@ -53,7 +55,6 @@
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "public.govdelivery.com",
     "www.benefits.va.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.oit.va.gov",
     "www.youtube.com"
@@ -71,23 +72,21 @@
     "https://public.govdelivery.com/images/required.gif",
     "https://www.benefits.va.gov/benefits/images/STOP_Harassment_v1_SMALLER.png",
     "https://www.benefits.va.gov/benefits/images/VBBP.jpg",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.oit.va.gov/_media/img/uswds/arrow-right.svg",
     "https://www.oit.va.gov/_media/img/vcl-logo.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".va.gov",
     "benefits.va.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.04677085416666667",
-  "largest_contentful_paint": "510.2999999523163",
+  "cumulative_layout_shift": "0.04261090625",
+  "largest_contentful_paint": "513",
   "required_links_url": [
     "about",
     "fear",
@@ -146,7 +145,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 26,
-  "www_scan_status": "completed",
   "www_url": "https://benefits.va.gov/homeloans",
   "www_status_code": 200,
   "www_title": "VA Home Loans Home"

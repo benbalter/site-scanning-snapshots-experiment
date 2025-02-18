@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:52:17.004Z",
+  "scan_date": "2025-02-15T13:12:17.072Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1,\"user-control-name\":1,\"images\":1}",
   "ipv6": false,
   "hostname": "cloudfront.net",
@@ -44,14 +46,13 @@
     "subagency": "RECREATION",
     "dapdev": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-X10C0SX7L7,G-9TNNMGP8WJ",
   "third_party_service_domains": [
     "app.launchdarkly.com",
     "applepay.cdn-apple.com",
     "clientstream.launchdarkly.com",
     "dap.digitalgov.gov",
-    "events.launchdarkly.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "global.localizecdn.com",
@@ -66,13 +67,12 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://app.launchdarkly.com/sdk/evalx/588a570044b03e0b32112cfc/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF8yNSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiIyNSIsInVyaSI6Ii8ifQ",
+    "https://app.launchdarkly.com/sdk/evalx/588a570044b03e0b32112cfc/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF84OSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiI4OSIsInVyaSI6Ii8ifQ",
     "https://app.launchdarkly.com/sdk/goals/588a570044b03e0b32112cfc",
     "https://applepay.cdn-apple.com/jsapi/v1/apple-pay-sdk.js",
-    "https://clientstream.launchdarkly.com/eval/588a570044b03e0b32112cfc/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF8yNSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiIyNSIsInVyaSI6Ii8ifQ",
+    "https://clientstream.launchdarkly.com/eval/588a570044b03e0b32112cfc/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF84OSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiI4OSIsInVyaSI6Ii8ifQ",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://events.launchdarkly.com/events/bulk/588a570044b03e0b32112cfc",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/icon",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
@@ -86,15 +86,11 @@
     "https://help.recreation.gov/710873f587148a906e1133f70cbb3534.iix",
     "https://help.recreation.gov/b57c8a3497a35e506fd8bba6f053af5e.iix",
     "https://recreationonestopprod.servicenowservices.com/api/g_ba2/content/homepage",
-    "https://resources.digital-cloud-gov.medallia.com/resources/dist/assets/css/invite-template-react-style-472308e9f0.css",
-    "https://resources.digital-cloud-gov.medallia.com/resources/dist/assets/js/invite-react-app-d8a939830c.js",
-    "https://resources.digital-cloud-gov.medallia.com/resources/form/FormBuilder/vendor/fonts-googleapis/css/open-sans-v14.css",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/forms/690/formDataV2_1738109356476_en.json",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/forms/695/invitationData1733247602179_en.json",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/domains-configuration.json",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/embed.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/generic1738593845254.js",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/generic1739149474327.js",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.dialogflow.com/common/messenger/webcomponentsjs/2.1.3/custom-elements-es5-adapter.js",
     "https://static.dialogflow.com/common/messenger/webcomponentsjs/2.1.3/webcomponents-loader.js",
     "https://static.hotjar.com/c/hotjar-2219619.js",
@@ -106,17 +102,17 @@
     "https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js",
     "https://www.gstatic.com/dialogflow-console/fast/messenger/messenger-internal.min.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 17,
+  "third_party_service_count": 16,
   "cookie_domains": [
     ".recreation.gov",
     "www.recreation.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00361897265625",
-  "largest_contentful_paint": "660",
+  "largest_contentful_paint": "680.1000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -175,7 +171,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

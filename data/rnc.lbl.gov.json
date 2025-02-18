@@ -1,5 +1,5 @@
 {
-  "name": "accounts.google.com",
+  "name": null,
   "initial_url": "https://rnc.lbl.gov",
   "initial_domain": "rnc.lbl.gov",
   "initial_base_domain": "lbl.gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T06:28:38.274Z",
+  "scan_date": "2025-02-16T09:41:40.468Z",
   "primary_scan_status": "dns_resolution_error",
   "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "dns_resolution_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "dns_resolution_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -40,15 +42,12 @@
   "search_dot_gov": null,
   "dap": null,
   "dap_parameters": null,
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap_version": null,
+  "ga_tag_id": null,
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": [
-    ".google.com",
-    "accounts.google.com"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": null,
   "cumulative_layout_shift": null,
   "largest_contentful_paint": null,
@@ -56,8 +55,8 @@
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Sign in - Google Accounts",
-  "description": "",
+  "title": null,
+  "description": null,
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -96,7 +95,6 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

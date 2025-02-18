@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:02:35.016Z",
+  "scan_date": "2025-02-16T04:15:04.002Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -50,15 +53,14 @@
   ],
   "third_party_service_urls": [
     "https://bam.nr-data.net/1/bd728cead2",
+    "https://bam.nr-data.net/resources/1/bd728cead2",
     "https://js-agent.newrelic.com/nr-1173.min.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    ".dol.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2768377315266927",
-  "largest_contentful_paint": "260.8999999985099",
+  "cumulative_layout_shift": "0.25636240600585936",
+  "largest_contentful_paint": "301.3000000715256",
   "required_links_url": [
     "about",
     "privacy"
@@ -117,7 +119,6 @@
   "uswds_semantic_version": "2.5.0",
   "uswds_version": 100,
   "uswds_count": 228,
-  "www_scan_status": "completed",
   "www_url": "https://www.efast.dol.gov",
   "www_status_code": 200,
   "www_title": "Welcome - EFAST2 Filing"

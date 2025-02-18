@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:59:33.508Z",
+  "scan_date": "2025-02-15T16:01:36.804Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -57,8 +59,8 @@
     "lgy.va.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.07300124218750001",
-  "largest_contentful_paint": "1908.5",
+  "cumulative_layout_shift": "0.04898077807617188",
+  "largest_contentful_paint": "3066.5999999046326",
   "required_links_url": [
     "privacy"
   ],
@@ -151,7 +153,6 @@
   "uswds_semantic_version": "v1.6.13",
   "uswds_version": 100,
   "uswds_count": 160,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

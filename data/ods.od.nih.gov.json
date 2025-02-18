@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:45:27.978Z",
+  "scan_date": "2025-02-15T10:48:19.349Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":40,\"contrast\":3,\"images\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -46,7 +49,7 @@
     "agency": "HHS",
     "subagency": "NIH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-EHVWYPN8JS,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
@@ -82,8 +85,8 @@
     "ods.od.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07819385530598959",
-  "largest_contentful_paint": "502.90000000596046",
+  "cumulative_layout_shift": "0.12279958968098958",
+  "largest_contentful_paint": "553.8000000715256",
   "required_links_url": [
     "about",
     "espanol"
@@ -136,8 +139,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
-  "www_url": "https://www.ods.od.nih.gov",
-  "www_status_code": 403,
-  "www_title": "Attention Required! | Cloudflare"
+  "www_url": "https://ods.od.nih.gov",
+  "www_status_code": 200,
+  "www_title": "Office of Dietary Supplements (ODS)"
 }

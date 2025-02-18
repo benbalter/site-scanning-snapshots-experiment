@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:25:13.073Z",
+  "scan_date": "2025-02-16T03:36:01.296Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -42,9 +44,9 @@
   "dap_parameters": {
     "agency": "DOJ",
     "subagency": "DEA",
-    "pua": "0"
+    "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-XDHPV7H9QR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6018802.global.siteimproveanalytics.io",
@@ -92,6 +94,7 @@
     "www.google.com",
     "www.googleadservices.com",
     "www.googletagmanager.com",
+    "www.youtube.com",
     "x.bidswitch.net"
   ],
   "third_party_service_urls": [
@@ -99,7 +102,7 @@
     "https://a.rfihub.com/cm",
     "https://aa.agkn.com/adscores/g.pixel",
     "https://acdn.adnxs.com/dmp/up/pixie.js",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=COvz4ITBsIsDFXKpjggdiVwJVQ;src=14431394;type=invmedia;cat=takeb0;ord=1543344183513.3755",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CIOV8cWhx4sDFRS_jggdw5c9Xw;src=14431394;type=invmedia;cat=takeb0;ord=7978833894717.867",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Offc%20Pro%20Bold",
     "Arial%20Unicode%20MS%20Bold/0-255.pbf",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Offc%20Pro%20Italic",
@@ -135,7 +138,7 @@
     "https://ct.pinterest.com/v3/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dpm.demdex.net/demconf.jpg",
-    "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=969470234185756057&redir=",
+    "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=1797288142360179424&redir=",
     "https://dsum-sec.casalemedia.com/rum",
     "https://events.mapbox.com/events/v2",
     "https://fonts.googleapis.com/css2",
@@ -183,15 +186,18 @@
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://x.bidswitch.net/sync"
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
+    "https://x.bidswitch.net/sync",
+    "https://x.bidswitch.net/ul_cb/sync"
   ],
-  "third_party_service_count": 46,
+  "third_party_service_count": 47,
   "cookie_domains": [
     ".dea.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "448.1000000014901",
+  "cumulative_layout_shift": null,
+  "largest_contentful_paint": null,
   "required_links_url": [
     "about",
     "foia",
@@ -230,10 +236,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://www.dea.gov/divisions/new-orleans",
-  "sitemap_xml_status_code": 200,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_pdf_count": null,
@@ -254,7 +260,6 @@
   "uswds_semantic_version": "v3.9.0",
   "uswds_version": 100,
   "uswds_count": 203,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

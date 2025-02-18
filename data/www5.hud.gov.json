@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:43:46.794Z",
+  "scan_date": "2025-02-16T08:25:46.355Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -62,7 +64,7 @@
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/24978/onsite/embed.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/24978/onsite/generic1738596269110.js",
+    "https://resources.digital-cloud-gov.medallia.com/wdcgov/24978/onsite/generic1739302449969.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
@@ -71,8 +73,8 @@
     "www.hud.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6524095756835937",
-  "largest_contentful_paint": "977",
+  "cumulative_layout_shift": "0.6549211401367188",
+  "largest_contentful_paint": "809.5999999046326",
   "required_links_url": [
     "about",
     "fear",
@@ -93,7 +95,7 @@
   "https_enforced": true,
   "hsts": true,
   "title": "Limited Denial of Participation, HUD Funding Disqualifications and Voluntary Abstentions list | HUD.gov / U.S. Department of Housing and Urban Development (HUD)",
-  "description": "HUD Limited Denial of Participation List Search using the standard web search box: on a PC:  ctrl+F on a Mac:  command+F Open a search box, enter the name you wish to verify and hit enter. If there are no matches, the name is not on the list.",
+  "description": "HUD Limited Denial of Participation ListSearch using the standard web search box:on a PC:  ctrl+Fon a Mac:  command+FOpen a search box, enter the name you wish to verify and hit enter. If there are no matches, the name is not on the list.",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -134,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

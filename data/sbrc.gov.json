@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "gov"
+    "gov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:04:34.688Z",
+  "scan_date": "2025-02-15T13:43:10.614Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":2,\"link-purpose\":2}",
   "ipv6": false,
   "hostname": null,
@@ -58,12 +61,10 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    "sbrc.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00006953906250000001",
-  "largest_contentful_paint": "4625.599999904633",
+  "largest_contentful_paint": "1195.2999999523163",
   "required_links_url": [
     "about"
   ],
@@ -112,7 +113,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

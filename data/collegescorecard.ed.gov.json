@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T14:21:51.269Z",
+  "scan_date": "2025-02-16T04:48:33.179Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -43,7 +46,7 @@
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": "",
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-48605964-2,G-CSLL4ZEK4L,G-19BFKPWV7B",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -66,7 +69,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0016033854166666666",
-  "largest_contentful_paint": "673.8999998569489",
+  "largest_contentful_paint": "619.1999999284744",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -111,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

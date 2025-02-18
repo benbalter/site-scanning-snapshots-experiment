@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:49:14.221Z",
+  "scan_date": "2025-02-15T11:21:42.234Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": false,
   "hostname": null,
@@ -67,8 +69,8 @@
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0168846513671875",
-  "largest_contentful_paint": "716.7000000029802",
+  "cumulative_layout_shift": "0.04486363330078125",
+  "largest_contentful_paint": "686.8000000715256",
   "required_links_url": [
     "about",
     "privacy",
@@ -120,7 +122,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://coast.noaa.gov",
   "www_status_code": 200,
   "www_title": "NOAA Office for Coastal Management"

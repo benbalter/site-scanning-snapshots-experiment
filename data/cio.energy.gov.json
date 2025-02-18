@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:46:31.270Z",
+  "scan_date": "2025-02-16T05:08:54.759Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -72,7 +74,7 @@
     "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
@@ -81,16 +83,16 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
     ".energy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0012743600260416669",
-  "largest_contentful_paint": "1147.699999999255",
+  "cumulative_layout_shift": "0.00167091845703125",
+  "largest_contentful_paint": "1049.5",
   "required_links_url": [
     "about",
     "inspector",
@@ -166,7 +168,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 121,
-  "www_scan_status": "completed",
   "www_url": "https://www.energy.gov/cio/office-chief-information-officer",
   "www_status_code": 200,
   "www_title": "Office of the Chief Information Officer | Department of Energy"

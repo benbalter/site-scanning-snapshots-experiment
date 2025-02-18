@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:38:58.191Z",
+  "scan_date": "2025-02-16T02:27:48.722Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -43,7 +46,7 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -70,8 +73,8 @@
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
     "https://media.us.vbrickrev.com/2ae453ff-daee-4d1f-81a8-364c8d2f7484/27f6d3c7-32b8-44ae-8a85-5f1d320916e9.jpg",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s42067628820461",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s45485727996486",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s07891188412171",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s09484571828643",
     "https://nci.rev.vbrick.com/authorization",
     "https://nci.rev.vbrick.com/bootstrap.js",
     "https://nci.rev.vbrick.com/downloads/videos/5abc4e40-093a-48d7-9543-59df31ae2bb1/instances/014b8cbf-dbc7-48ac-9798-6f5ea0324e29-720p-2962kbps.m3u8",
@@ -103,8 +106,8 @@
     "nccrdataplatform.ccdi.cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "507.10000014305115",
+  "cumulative_layout_shift": "0.00026627197265625003",
+  "largest_contentful_paint": "420",
   "required_links_url": [
     "about",
     "foia",
@@ -162,7 +165,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 5,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

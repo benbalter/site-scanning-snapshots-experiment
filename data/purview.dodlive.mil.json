@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:46:13.708Z",
+  "scan_date": "2025-02-16T03:52:12.914Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -64,17 +67,16 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".dodlive.mil",
-    ".purview.dodlive.mil",
-    "purview.dodlive.mil"
+    ".dodlive.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000133248779296875",
-  "largest_contentful_paint": "368.5",
+  "cumulative_layout_shift": "0.004439023681640625",
+  "largest_contentful_paint": "254.39999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -132,7 +134,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

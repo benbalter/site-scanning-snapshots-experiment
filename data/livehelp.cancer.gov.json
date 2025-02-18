@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:32:56.988Z",
+  "scan_date": "2025-02-16T02:27:43.798Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -46,27 +49,24 @@
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "nci.widget.cx.usg.oraclecloud.com",
     "www.rnengage.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
     "https://fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
-    "https://nci.widget.cx.usg.oraclecloud.com/ci/cache/yuiCombo/3.18.1/anim-base/anim-base-min.js&3.18.1/anim-scroll/anim-scroll-min.js",
-    "https://nci.widget.cx.usg.oraclecloud.com/ci/cache/yuiCombo/3.18.1/overlay/overlay-min.js",
     "https://www.rnengage.com/api/1/javascript/acs.js",
     "https://www.rnengage.com/api/1/r",
     "https://www.rnengage.com/api/e/ag202/e.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".cancer.gov",
     "livehelp.cancer.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "460.3999999985099",
+  "cumulative_layout_shift": "0.006772541666666667",
+  "largest_contentful_paint": "456.7000000476837",
   "required_links_url": [
     "privacy"
   ],
@@ -117,7 +117,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

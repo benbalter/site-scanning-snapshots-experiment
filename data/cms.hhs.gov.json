@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:08:42.122Z",
+  "scan_date": "2025-02-16T07:43:46.850Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
@@ -43,7 +45,7 @@
     "agency": "DHHS",
     "subagency": "CMS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
@@ -85,7 +87,7 @@
     "https://tealium-tags.cms.gov/cms-www/prod/utag.sync.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn4gdyqqnaoifyulj-cmsmacfedramp.gov1.siteintercept.qualtrics.com/SIE/",
     "https://zn77ecfujq2tt2srz-medicare.gov1.siteintercept.qualtrics.com/SIE/"
   ],
@@ -95,7 +97,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00006693750000000001",
-  "largest_contentful_paint": "471.2999999523163",
+  "largest_contentful_paint": "352.5",
   "required_links_url": [
     "about",
     "fear",
@@ -143,7 +145,7 @@
   "sitemap_xml_url": "https://www.cms.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 9800,
+  "sitemap_xml_filesize": 9651,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -158,7 +160,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://www.cms.gov",
   "www_status_code": 200,
   "www_title": "Home - Centers for Medicare & Medicaid Services | CMS"

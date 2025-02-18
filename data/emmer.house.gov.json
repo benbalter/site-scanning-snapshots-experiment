@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:27:22.276Z",
+  "scan_date": "2025-02-16T02:12:55.543Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -70,12 +74,11 @@
   "third_party_service_count": 6,
   "cookie_domains": [
     ".emmer.house.gov",
-    ".house.gov",
     "emmer.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0015491190185546874",
-  "largest_contentful_paint": "408.8999999985099",
+  "cumulative_layout_shift": "0.0015595647786458334",
+  "largest_contentful_paint": "348.6999999284744",
   "required_links_url": [
     "about",
     "privacy"
@@ -110,8 +113,8 @@
   "sitemap_xml_url": "https://emmer.house.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 161783,
-  "sitemap_xml_count": 1083,
+  "sitemap_xml_filesize": 161942,
+  "sitemap_xml_count": 1084,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
@@ -125,7 +128,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

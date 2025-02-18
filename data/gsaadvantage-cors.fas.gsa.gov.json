@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T10:58:28.497Z",
+  "scan_date": "2025-02-16T07:09:25.228Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "execution_context_destroyed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -51,15 +54,20 @@
     "https://gsa.okta.com/api/v1/sessions/me",
     "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.13.0/css/okta-sign-in.min.css",
     "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.13.0/css/okta-theme.css",
+    "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.13.0/font/montserrat-light-webfont.woff",
+    "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.13.0/font/montserrat-regular-webfont.woff",
+    "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.13.0/font/okticon.woff",
+    "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.13.0/img/ui/forms/checkbox-sign-in-widget.png",
     "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.13.0/js/okta-sign-in.min.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".gsa.gov",
     "gsaadvantage-cors.fas.gsa.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.00022530924479166668",
-  "largest_contentful_paint": "557.5",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "715.2000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -104,8 +112,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
-  "www_url": "https://gsaadvantage-cors.fas.gsa.gov/CORS/loginWidget?fromURI=https%3A%2F%2Fgsa.okta.com%2Fapp%2Fgeneralservicesadministration_cors_1%2Fexk2eemj2tcRjIJaz297%2Fsso%2Fsaml",
-  "www_status_code": 200,
-  "www_title": "Contracting Officer Review System"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

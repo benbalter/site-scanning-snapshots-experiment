@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T05:03:37.329Z",
+  "scan_date": "2025-02-16T07:36:33.008Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "ssl_version_cipher_mismatch",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "HHS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-F382W9R8G5,G-KY9YKCSQ7M,G-8FB9M0WYH8,G-V5KB6D5W2L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -52,7 +55,6 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -62,7 +64,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00013187434895833334",
-  "largest_contentful_paint": "114.39999999850988",
+  "largest_contentful_paint": "113.79999995231628",
   "required_links_url": [
     "about",
     "fear",
@@ -147,7 +149,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 135,
-  "www_scan_status": "ssl_version_cipher_mismatch",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

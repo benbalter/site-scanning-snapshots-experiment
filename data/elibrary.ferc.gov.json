@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:09:27.572Z",
+  "scan_date": "2025-02-16T06:18:36.113Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -45,7 +48,7 @@
   "dap_parameters": {
     "agency": "FERC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "browser-intake-ddog-gov.com",
@@ -69,7 +72,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.11059806677246095",
-  "largest_contentful_paint": "1104.6000000014901",
+  "largest_contentful_paint": "975.5999999046326",
   "required_links_url": null,
   "required_links_text": [
     "accessibility"
@@ -116,7 +119,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

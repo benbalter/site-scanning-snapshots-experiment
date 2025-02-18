@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://4innovation.cms.gov/landing",
+  "url": "https://4innovation.cms.gov/",
   "domain": "4innovation.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T02:03:44.887Z",
+  "scan_date": "2025-02-16T03:14:49.977Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"user-control-name\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -43,14 +46,13 @@
     "agency": "DHHS",
     "subagency": "CMS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "4innovation-api.cms.gov",
     "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
-    "idm.cms.gov",
     "ping.chartbeat.net",
     "static.chartbeat.com",
     "tags.tiqcdn.com",
@@ -65,7 +67,6 @@
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://idm.cms.gov/api/v1/sessions/me",
     "https://ping.chartbeat.net/ping",
     "https://static.chartbeat.com/js/chartbeat.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-innovations/prod/utag.2.js",
@@ -76,19 +77,15 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.024369825520833333",
-  "largest_contentful_paint": "2412.1999999955297",
-  "required_links_url": [
-    "privacy"
-  ],
-  "required_links_text": [
-    "accessibility"
-  ],
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "0",
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
   "title": "Innovation (4i)",
@@ -104,7 +101,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": true,
+  "main_element_present": false,
   "robots_txt_detected": true,
   "robots_txt_url": "https://4innovation.cms.gov/robots.txt",
   "robots_txt_status_code": 200,
@@ -131,7 +128,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

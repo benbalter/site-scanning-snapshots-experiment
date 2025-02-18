@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T07:30:33.174Z",
+  "scan_date": "2025-02-16T07:42:14.386Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": false,
   "hostname": null,
@@ -75,8 +78,8 @@
     "forms.iglb.oig.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.4104330383300781",
-  "largest_contentful_paint": "990.8999999985099",
+  "cumulative_layout_shift": "0.5019710788167316",
+  "largest_contentful_paint": "890.4000000953674",
   "required_links_url": [
     "about",
     "foia",
@@ -203,12 +206,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 70,
-  "uswds_string": 41,
+  "uswds_string": 42,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v1.6.8",
   "uswds_version": 100,
-  "uswds_count": 255,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 256,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

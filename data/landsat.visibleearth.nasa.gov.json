@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T07:47:53.995Z",
+  "scan_date": "2025-02-16T11:24:31.742Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":9,\"link-purpose\":9}",
   "ipv6": true,
   "hostname": null,
@@ -47,7 +50,7 @@
     "yt": "true",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-17823747-1",
   "third_party_service_domains": [
     "cse.google.com",
@@ -63,15 +66,15 @@
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153831/lafires_oli2_20250114_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153841/antarcticmelting_oli_20250101_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153845/s%C3%A1tt%C3%ADtla_oli_20241007_th.jpg",
-    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153867/sadoisland_oli_20240422_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153874/searles_oli_20240815_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153877/searles_tmo_20240211_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153885/chicagowinter_oli_20250124_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153896/lacounty_ndvi_20240831_th.jpg",
     "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153906/zavaritskogo_oli_20240912_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153926/superbowl_oli_20250202_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153929/fires_patagonia_oli2_20250209_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153936/valentines_oli2_20250127_th.jpg",
+    "https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153945/himalayasnow_oli2_20250120_th.jpg",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
     "https://www.google.com/coop/cse/brand",
@@ -81,7 +84,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/prose/brandjs.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -90,7 +93,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.0024810703125",
-  "largest_contentful_paint": "310.5",
+  "largest_contentful_paint": "324.7000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -141,7 +144,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

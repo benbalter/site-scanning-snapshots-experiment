@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T14:49:12.477Z",
+  "scan_date": "2025-02-15T17:52:53.132Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":2}",
   "ipv6": true,
   "hostname": null,
@@ -48,7 +51,7 @@
     "ver": "true",
     "exts": "doc,docx,xls,xlsx,xlsm,ppt,pptx,exe,zip,pdf,js,txt,csv,dxf,wmv,jpg,wma,mov,avi,mp3,mp4,csv"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-39112981-1,G-VC22EPG2Q5",
   "third_party_service_domains": [
     "8fjzqlcd23k3.statuspage.io",
@@ -56,10 +59,12 @@
     "code.jquery.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "openwater-themes.s3.amazonaws.com",
     "public.openwatercdn.com",
     "static.filestackapi.com",
     "themes.secure-platform.com",
+    "www.getopenwater.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.gstatic.com",
@@ -71,25 +76,30 @@
     "https://code.jquery.com/jquery-migrate-1.4.1.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://openwater-themes.s3.amazonaws.com/cmsproducts/openwater-2016/custom.css",
     "https://public.openwatercdn.com/5d1b6719-c893-42cf-be9e-2dafb7a9b6eb/ef708eca-b1cc-44f6-b6a1-f67ccb9b9a34.jpg",
     "https://static.filestackapi.com/filestack-js/3.27.0/filestack.min.js",
     "https://themes.secure-platform.com/nsfawards.secure-platform.com/images/footer-background.gif",
     "https://themes.secure-platform.com/nsfawards.secure-platform.com/images/sprite.png",
+    "https://www.getopenwater.com/wp-content/themes/OpenWater2018/images/OpenWater_favicon_32x32.png",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/I0bG74fWAenNf3Z5ncHSz-bd/recaptcha__en.js",
-    "https://www.recaptcha.net/recaptcha/api.js"
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
+    "https://www.recaptcha.net/recaptcha/api.js",
+    "https://www.recaptcha.net/recaptcha/api2/webworker.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 15,
   "cookie_domains": [
     ".nsf.gov",
     "honorary-awards.nsf.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1301.5999999046326",
+  "largest_contentful_paint": "712.7000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -147,7 +157,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

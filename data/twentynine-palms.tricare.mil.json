@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-07T06:13:35.484Z",
+  "scan_date": "2025-02-15T14:21:03.713Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":3}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -55,7 +58,6 @@
     "fonts.gstatic.com",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -76,24 +78,23 @@
     "https://media.defense.gov/2025/Feb/03/2003636698/400/400/0/250203-O-D0202-1002.PNG",
     "https://media.defense.gov/2025/Feb/06/2003638433/400/400/0/250206-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Feb/06/2003638652/400/400/0/250206-O-D0202-1003.PNG",
-    "https://media.defense.gov/2025/Jan/30/2003635210/400/400/0/250130-O-D0202-1001.PNG",
+    "https://media.defense.gov/2025/Feb/10/2003645773/680/385/0/250210-A-AB123-001.JPG",
+    "https://media.defense.gov/2025/Feb/11/2003645321/400/400/0/250211-O-D0202-1001.PNG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".tricare.mil",
-    ".twentynine-palms.tricare.mil"
+    ".tricare.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05739070605468749",
-  "largest_contentful_paint": "457.90000000596046",
+  "cumulative_layout_shift": "0.19282145581054688",
+  "largest_contentful_paint": "194.79999995231628",
   "required_links_url": [
     "about",
     "foia",
@@ -154,7 +155,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

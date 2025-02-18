@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T10:11:19.905Z",
+  "scan_date": "2025-02-15T12:20:31.627Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +32,8 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
-  "sitemap_xml_scan_status": "execution_context_destroyed",
+  "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -43,7 +46,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-N4N49,G-EZYEKJD6N6,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -58,7 +61,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/04696008-50b7-4378-8bfb-4902a2137ce4",
+    "https://brain.foresee.com/state/ojp-main/f6c1875a-c06d-4c9a-95fc-0974206202c3",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -89,7 +92,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "234.29999999701977",
+  "largest_contentful_paint": "178.30000007152557",
   "required_links_url": [
     "about",
     "foia",
@@ -128,13 +131,13 @@
   "robots_txt_sitemap_locations": [
     "https://nationalgangcenter.ojp.gov/sitemap.xml"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
-  "sitemap_xml_filesize": null,
-  "sitemap_xml_count": null,
-  "sitemap_xml_pdf_count": null,
+  "sitemap_xml_detected": true,
+  "sitemap_xml_url": "https://nationalgangcenter.ojp.gov/sitemap.xml",
+  "sitemap_xml_status_code": 200,
+  "sitemap_xml_media_type": "application/xml",
+  "sitemap_xml_filesize": 462953,
+  "sitemap_xml_count": 0,
+  "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -167,7 +170,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 90,
-  "www_scan_status": "completed",
   "www_url": "https://nationalgangcenter.ojp.gov",
   "www_status_code": 200,
   "www_title": "National Gang Center | National Gang Center"

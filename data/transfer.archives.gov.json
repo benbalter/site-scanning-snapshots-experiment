@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T05:26:15.962Z",
+  "scan_date": "2025-02-15T16:23:08.885Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "timeout",
   "accessibility_violations": "{\"language\":1,\"images\":14,\"link-purpose\":1,\"form-names\":1}",
   "ipv6": true,
   "hostname": null,
@@ -50,11 +53,12 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".archives.gov",
     "transfer.archives.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03206666666666667",
-  "largest_contentful_paint": "1248.4000000059605",
+  "cumulative_layout_shift": "0.8886625",
+  "largest_contentful_paint": "1339.3000000715256",
   "required_links_url": [
     "about",
     "foia",
@@ -109,7 +113,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "timeout",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

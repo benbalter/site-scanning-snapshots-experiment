@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "dotmil"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:36:56.979Z",
+  "scan_date": "2025-02-15T14:36:42.594Z",
   "primary_scan_status": "dns_resolution_error",
   "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "dns_resolution_error",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "dns_resolution_error",
+  "www_scan_status": "too_many_redirects",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -95,8 +98,7 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "completed",
-  "www_url": "https://www.unc.mil",
-  "www_status_code": 200,
-  "www_title": "United Nations Command"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

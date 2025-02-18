@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:10:18.755Z",
+  "scan_date": "2025-02-16T11:13:04.008Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":6,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -82,16 +85,17 @@
     "https://media.defense.gov/2024/Dec/19/2003616983/1310/736/0/241218-Z-SR689-1016.JPG",
     "https://media.defense.gov/2024/Dec/19/2003616984/115/75/0/241218-Z-HY271-1110.JPG",
     "https://media.defense.gov/2024/Nov/06/2003579849/1310/736/0/241020-Z-SR689-1004.JPG",
-    "https://media.defense.gov/2024/Nov/07/2003580390/740/740/0/241020-Z-SR689-1030.JPG",
     "https://media.defense.gov/2024/Nov/12/2003582318/1310/736/0/241111-Z-SR689-1009.JPG",
     "https://media.defense.gov/2024/Nov/22/2003593025/1310/736/0/241118-Z-SR689-1006.JPG",
     "https://media.defense.gov/2024/Nov/26/2003594317/1310/736/0/241106-Z-UF872-2055.JPG",
-    "https://media.defense.gov/2024/Nov/26/2003594677/115/75/0/240710-Z-HY271-1259.JPG",
     "https://media.defense.gov/2024/Oct/11/2003563947/1310/736/0/240810-Z-PB632-1010.JPG",
     "https://media.defense.gov/2024/Oct/15/2003564758/1310/736/0/240803-Z-KX552-1045.JPG",
     "https://media.defense.gov/2024/Oct/21/2003568332/1310/736/0/241019-Z-KX552-1064.JPG",
     "https://media.defense.gov/2024/Oct/28/2003572660/1310/736/0/241026-Z-CA180-1010.JPG",
     "https://media.defense.gov/2025/Feb/05/2003638128/740/740/0/250124-Z-HY271-1572.JPG",
+    "https://media.defense.gov/2025/Feb/07/2003643543/740/740/0/250125-Z-HY271-1039.JPG",
+    "https://media.defense.gov/2025/Feb/07/2003643685/1310/736/0/250206-Z-ZY202-1010.JPG",
+    "https://media.defense.gov/2025/Feb/07/2003643687/115/75/0/250202-Z-FC240-6011.JPG",
     "https://media.defense.gov/2025/Jan/06/2003625574/115/75/0/240223-F-EZ530-0084.JPG",
     "https://media.defense.gov/2025/Jan/27/2003633186/115/75/0/250124-Z-SR689-1028.JPG",
     "https://media.defense.gov/2025/Jan/29/2003634882/740/740/0/250124-Z-SR689-2000.JPG",
@@ -101,15 +105,16 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
+    ".ak.ng.mil",
     ".ng.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.022315877929687502",
-  "largest_contentful_paint": "385.1000000014901",
+  "cumulative_layout_shift": "0.0017955159505208334",
+  "largest_contentful_paint": "254.19999992847443",
   "required_links_url": [
     "about",
     "fear",
@@ -167,7 +172,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

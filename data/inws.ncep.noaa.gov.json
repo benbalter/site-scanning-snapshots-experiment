@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T16:10:37.380Z",
+  "scan_date": "2025-02-15T11:25:10.979Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1,\"language\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -44,35 +47,27 @@
   "dap_version": "",
   "ga_tag_id": "UA-113364343-1,G-U2EQG,G-7MYTT3KZW5",
   "third_party_service_domains": [
-    "17de4c1a.akstat.io",
-    "52-222-122-97_s-23-32-75-13_ts-1738858226-clienttons-s.akamaihd.net",
+    "17de4c0e.akstat.io",
     "c.go-mpulse.net",
-    "gtphuylim5cfgz5e33za-pfi3tn-156dcc864-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1a.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-13_ts-1738858226-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c0e.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuylim5cfgz5e33za-pfi3tn-156dcc864-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/PLSWG-U2EQG-QD8GX-X64RN-7A778",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.15598151041666666",
-  "largest_contentful_paint": "1198.8999998569489",
+  "largest_contentful_paint": "692.8999999761581",
   "required_links_url": [
     "foia",
     "privacy"
@@ -123,7 +118,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

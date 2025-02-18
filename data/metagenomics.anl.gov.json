@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:05:55.262Z",
+  "scan_date": "2025-02-16T01:28:36.970Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":3,\"language\":1,\"images\":9}",
   "ipv6": false,
   "hostname": null,
@@ -53,7 +55,6 @@
     "https://api-ui.mg-rast.org/server/MG-RAST",
     "https://api-ui.mg-rast.org/server/twitter",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/jsapi",
     "https://www.googletagmanager.com/gtag/js",
@@ -64,8 +65,8 @@
     ".mg-rast.org"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.046720703125",
-  "largest_contentful_paint": "439.30000000447035",
+  "cumulative_layout_shift": "0.107680703125",
+  "largest_contentful_paint": "496.09999990463257",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,
@@ -110,7 +111,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -5,7 +5,7 @@
   "initial_base_domain": "lbl.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://data-sandbox.ess-dive.lbl.gov/",
+  "url": "https://data-sandbox.ess-dive.lbl.gov/data",
   "domain": "data-sandbox.ess-dive.lbl.gov",
   "base_domain": "lbl.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:10:27.372Z",
+  "scan_date": "2025-02-16T09:16:12.557Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"page-titled\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -46,7 +49,11 @@
     "cdnjs.cloudflare.com",
     "cn-sandbox.test.dataone.org",
     "ess-dive.lbl.gov",
-    "maps.googleapis.com"
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "logproc-stage-ucsb-1.test.dataone.org",
+    "maps.googleapis.com",
+    "maps.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -55,16 +62,34 @@
     "https://cn-sandbox.test.dataone.org/portal/token",
     "https://ess-dive.lbl.gov/wp-content/uploads/sites/17/2017/09/LabLogoWhite_small.png",
     "https://ess-dive.lbl.gov/wp-content/uploads/sites/17/2017/09/doeLogoHoriz_small.png",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://logproc-stage-ucsb-1.test.dataone.org/metrics",
+    "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/common.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/controls.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/geometry.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/map.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/marker.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/onion.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/overlay.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/poly.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/util.js",
     "https://maps.googleapis.com/maps/api/js",
-    "https://maps.googleapis.com/maps/api/mapsjs/gen_204"
+    "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
+    "https://maps.googleapis.com/maps/vt",
+    "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+    "https://maps.gstatic.com/mapfiles/transparent.png",
+    "https://maps.gstatic.com/mapfiles/undo_poly.png"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 8,
   "cookie_domains": [
+    ".lbl.gov",
     "data-sandbox.ess-dive.lbl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "68.5",
+  "cumulative_layout_shift": "1.5235561810709635",
+  "largest_contentful_paint": "4953.399999976158",
   "required_links_url": [
     "about",
     "/es"
@@ -90,9 +115,11 @@
   "robots_txt_url": "https://data-sandbox.ess-dive.lbl.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 0,
+  "robots_txt_filesize": 163,
   "robots_txt_crawl_delay": null,
-  "robots_txt_sitemap_locations": null,
+  "robots_txt_sitemap_locations": [
+    "https://data.ess-dive.lbl.gov/catalog/sitemaps/sitemap_index.xml"
+  ],
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://data-sandbox.ess-dive.lbl.gov/catalog/sitemapssitemap.xml",
   "sitemap_xml_status_code": 404,
@@ -112,7 +139,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

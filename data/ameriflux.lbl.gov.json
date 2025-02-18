@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:06:40.172Z",
+  "scan_date": "2025-02-16T09:05:02.716Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":25,\"link-purpose\":2,\"lists\":4}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"contrast\":24,\"link-purpose\":2,\"lists\":4}",
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "WordPress",
@@ -76,8 +79,8 @@
     ".lbl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07087110424804688",
-  "largest_contentful_paint": "426.1000000014901",
+  "cumulative_layout_shift": "0.09267322900390625",
+  "largest_contentful_paint": "581.6999999284744",
   "required_links_url": [
     "about"
   ],
@@ -126,7 +129,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://ameriflux.lbl.gov",
   "www_status_code": 200,
   "www_title": "AmeriFlux: Measuring carbon, water and energy flux across the Americas."

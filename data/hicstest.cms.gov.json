@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://impl.idp.idm.cms.gov/oauth2/aus5j5y0s7vzr4Swl297/v1/authorize?client_id=0oa5j5twhkyjgkCfm297&redirect_uri=https%3A%2F%2Fhicsimpl1.cms.gov%2Fapp%2FLogin.aspx&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3D3OqSG1RYXGSP0SkaGvnSJD76SqqzDppylItGeZGHVngSuz6ARMsUip4hy167lv-tAjtYj6ELUyJe4m89Q0uSKPpIqqF0LKJ4InLc95u7Cn2oXZrxcLAuC5vgm2awJf484VSACn0xQ8eL3uquoRnRyeZWTF10o1hh78zagY_Lu_WHKpGInECP_6d8VNjJQEoZDHWeFkDKBdYeWY9LUN3m_-7iIFq9N6swN0SLfk89ZtCvnx7Ber8X12ON5h189q1zfpEV6g&response_mode=form_post&nonce=638744910589612052.MWRlYzIyYWEtNWRhMC00YjljLTk5MzctZGMzOTc1ZDQzM2M5ZTFkMzM1M2YtMjBiNC00MTU2LWFhNGEtNmUzNWU2N2ViODNj&x-client-SKU=ID_NET472&x-client-ver=6.18.0.0",
+  "url": "https://impl.idp.idm.cms.gov/oauth2/aus5j5y0s7vzr4Swl297/v1/authorize?client_id=0oa5j5twhkyjgkCfm297&redirect_uri=https%3A%2F%2Fhicsimpl1.cms.gov%2Fapp%2FLogin.aspx&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3Df9E2O1Wi9NcqjPzGHkyhxLJwOUB1MucGmRc1ZN43r53JoxXjMyN2Hc5rmyMUUQPu_N8-l7unmp_QButM_fce6Fndqi_LhsbazzYqeBgjrp6125mUI498ltI0KUmd4QlUOSq5qKickcAOB_Sc5OOgm6PV6JMvaRBUgBY9kVsxpEZ7ORPL4sKKq52xjyaiqgVeLMG503wOdUCKOsHs30M16ojUymfsGJehYRoq57RDLiByHaw5QN3GZLf383bppfVprhpYUg&response_mode=form_post&nonce=638752724459034324.M2UzYTA0ZDItMzlkMS00ZDgwLTk5MmQtMWNkNTg0ZDc4MTVjYTc3YTk1ZWUtZGM1ZS00YzMwLWE3NmYtM2ViNjczZjNkMzFl&x-client-SKU=ID_NET472&x-client-ver=6.18.0.0",
   "domain": "impl.idp.idm.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:11:08.509Z",
+  "scan_date": "2025-02-16T03:14:16.697Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -74,7 +76,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1545.3000000044703",
+  "largest_contentful_paint": "1915.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -119,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

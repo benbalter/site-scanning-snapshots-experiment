@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:56:12.439Z",
+  "scan_date": "2025-02-16T01:37:14.455Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":21,\"images\":1,\"form-names\":2}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -59,8 +62,8 @@
     ".anl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "871.1000000014901",
+  "cumulative_layout_shift": "0.2575241015625",
+  "largest_contentful_paint": "942.6000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -107,7 +110,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

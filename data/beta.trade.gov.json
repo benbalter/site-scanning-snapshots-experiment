@@ -20,10 +20,11 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T11:35:14.871Z",
+  "scan_date": "2025-02-15T14:10:44.537Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -44,7 +46,7 @@
   "dap_parameters": {
     "agency": "AGENCY"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-59RWD3R7JT,G-L884J52XQ5,G-CSLL4ZEK4L,UA-150944479-1,G-Q8YVD4PXL4,G-6D3N6M4S6H",
   "third_party_service_domains": [
     "51582.global.siteimproveanalytics.io",
@@ -107,7 +109,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dc.applicationinsights.us/v2/track",
     "https://fonts.googleapis.com/css",
-    "https://pbivisuals.powerbigov.us/ChicletSlicer1448559807354.1.6.3.62b8f271b9459236185e4429303ebf5c8d1d99be06126ffda036c0af672209e4.pbiviz.json",
+    "https://pbivisuals.powerbigov.us/ChicletSlicer1448559807354.2.2.1.0.1d167326d5f2b200629dd644b214c4e18ecab21559f4d29a27e2c309a6de6dce.pbiviz.json",
     "https://pbivisuals.powerbigov.us/approvedResources.json",
     "https://powerbi.trade.gov/api/pbi-admin/generate-token",
     "https://powerbi.trade.gov/css/app.de273e76.css",
@@ -122,7 +124,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0088/2128/sampling/www.trade.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0088/2128/site/www.trade.gov.json",
     "https://script.crazyegg.com/pages/scripts/0088/2128.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteimproveanalytics.com/js/siteanalyze_51582.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
@@ -168,8 +170,8 @@
     "www.trade.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.5469907257080078",
-  "largest_contentful_paint": "849.0999999940395",
+  "cumulative_layout_shift": "0.5674552439371745",
+  "largest_contentful_paint": "758.7000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -226,7 +228,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

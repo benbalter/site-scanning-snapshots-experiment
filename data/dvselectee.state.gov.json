@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:16:34.261Z",
+  "scan_date": "2025-02-15T13:53:27.094Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":14}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -48,7 +50,7 @@
     "exts": "pub",
     "siteplatform": "Classic"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-161656342-1,G-CSLL4ZEK4L,UA-21044428-4,G-622EK4HCCW,G-96M3HC7MH0,G-471CP6W9Z8",
   "third_party_service_domains": [
     "ago-item-storage.s3.amazonaws.com",
@@ -89,9 +91,9 @@
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/809407049/",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/LinkModule.js",
     "https://px.ads.linkedin.com/attribution_trigger",
@@ -115,14 +117,13 @@
     "https://www.googleadservices.com/pagead/conversion/11238285267/",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://www.gstatic.com/charts/loader.js",
     "https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js",
     "https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css",
-    "https://www.gstatic.com/recaptcha/releases/I0bG74fWAenNf3Z5ncHSz-bd/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.recaptcha.net/recaptcha/api.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn8btbr9qtqecsqsq-tsgfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
   "third_party_service_count": 21,
@@ -131,8 +132,8 @@
     "travel.state.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.18823258365885417",
-  "largest_contentful_paint": "5774.600000143051",
+  "cumulative_layout_shift": "0.048041009765624997",
+  "largest_contentful_paint": "614.5",
   "required_links_url": [
     "about",
     "fear",
@@ -190,7 +191,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-if-you-are-selected.html",
   "www_status_code": 200,
   "www_title": "If Selected"

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:13:39.073Z",
+  "scan_date": "2025-02-16T05:13:12.268Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1,\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -57,7 +60,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/coastalcondition.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/coastalcondition.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.epa.gov/themes/epa_theme/fonts/merriweather/Latin-Merriweather-Bold.woff2",
     "https://www.epa.gov/themes/epa_theme/fonts/source-sans-pro/sourcesanspro-bold-webfont.woff2",
     "https://www.epa.gov/themes/epa_theme/fonts/source-sans-pro/sourcesanspro-italic-webfont.woff2",
@@ -74,7 +77,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "417.3999999985099",
+  "largest_contentful_paint": "401.5",
   "required_links_url": [
     "about",
     "foia",
@@ -140,7 +143,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 60,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

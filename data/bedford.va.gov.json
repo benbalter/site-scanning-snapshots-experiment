@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:40:28.355Z",
+  "scan_date": "2025-02-15T15:45:48.286Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -62,6 +64,11 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/vendor.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.css",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.entry.js",
+    "https://resource.digital.voice.va.gov/resources/dist/assets/css/invite-template-react-style-472308e9f0.css",
+    "https://resource.digital.voice.va.gov/resources/dist/assets/js/invite-react-app-d8a939830c.js",
+    "https://resource.digital.voice.va.gov/resources/form/FormBuilder/vendor/fonts-googleapis/css/open-sans-v14.css",
+    "https://resource.digital.voice.va.gov/wdcvoice/2/forms/34/invitationData1734636651995_en.json",
+    "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/domains-configuration.json",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/embed.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/generic1731941049831.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/onsiteData1734636652605.json",
@@ -72,7 +79,7 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/icon-dot-gov.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/icon-https.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2021-01/Bedford_480x330.jpg",
-    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-01/3-5-0%281%29_0.jpg",
+    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-02/BHM%20Story%20%20%281%29.png",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2021-07/Bedford_480x330.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
     "https://www.googletagmanager.com/gtag/js",
@@ -85,7 +92,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.049999140625",
-  "largest_contentful_paint": "317.40000000596046",
+  "largest_contentful_paint": "300.7000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -151,7 +158,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 25,
-  "www_scan_status": "completed",
   "www_url": "https://www.va.gov/bedford-health-care",
   "www_status_code": 200,
   "www_title": "VA Bedford Health Care | Veterans Affairs"

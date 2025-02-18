@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:11:29.450Z",
+  "scan_date": "2025-02-16T00:58:54.808Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":1,\"images\":10}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -46,7 +49,7 @@
     "agency": "HHS",
     "subagency": "AHRQ"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ZM0X430Y5C,G-CSLL4ZEK4L,G-1NPT56LE7J",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -54,7 +57,6 @@
     "gateway.foresee.com",
     "stackpath.bootstrapcdn.com",
     "www.ahrq.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -67,17 +69,17 @@
     "https://www.ahrq.gov/resources/js/libs/jquery.simplemodal.js",
     "https://www.ahrq.gov/resources/js/plugins.js",
     "https://www.ahrq.gov/resources/js/script.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".ahrq.gov",
     "meps.ahrq.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "537.2999999970198",
+  "cumulative_layout_shift": "0.04166916910807292",
+  "largest_contentful_paint": "581.1999999284744",
   "required_links_url": [
     "about",
     "foia",
@@ -143,7 +145,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 96,
-  "www_scan_status": "completed",
   "www_url": "https://www.meps.ahrq.gov/mepsweb",
   "www_status_code": 200,
   "www_title": "Medical Expenditure Panel Survey Home"

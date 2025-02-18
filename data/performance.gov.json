@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:26:10.701Z",
+  "scan_date": "2025-02-15T12:45:28.737Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -47,7 +50,7 @@
     "agency": "GSA",
     "subagency": "OGP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-FK810MKDHB",
   "third_party_service_domains": [
     "assets.performance.gov",
@@ -81,7 +84,8 @@
     "https://snap.licdn.com/li.lms-analytics/insight.min.js",
     "https://syndication.twitter.com/settings",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -89,7 +93,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0065824854329427085",
-  "largest_contentful_paint": "383.29999999993015",
+  "largest_contentful_paint": "402.60000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -113,7 +117,7 @@
   "og_title": "Track the U.S. government's goals",
   "og_description": "Data-driven progress updates from the teams responsible for U.S. strategy execution",
   "og_article_published": null,
-  "og_article_modified": "2025-02-05T21:45:54.000Z",
+  "og_article_modified": "2025-02-10T14:02:01.000Z",
   "og_image": "https://assets.performance.gov/images/media/pgov-social-media-preview.png",
   "og_type": "article",
   "og_url": "https://www.performance.gov/",
@@ -172,7 +176,6 @@
   "uswds_semantic_version": "2.12.1",
   "uswds_version": 100,
   "uswds_count": 227,
-  "www_scan_status": "completed",
   "www_url": "https://www.performance.gov",
   "www_status_code": 200,
   "www_title": "Track the U.S. government's goals | Performance.gov"

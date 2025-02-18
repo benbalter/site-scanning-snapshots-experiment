@@ -20,10 +20,11 @@
   "source_list": [
     "dap",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T03:06:22.214Z",
+  "scan_date": "2025-02-16T04:39:13.436Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"link-purpose\":3}",
   "ipv6": false,
   "hostname": null,
@@ -44,7 +46,7 @@
   "dap_parameters": {
     "agency": "DOT"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-NQ5ZN114SB,G-VW1SFWJKBB,UA-33523145-1,G-0623JYSC1Q,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -64,10 +66,7 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-brands-400.woff2",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-solid-900.woff2",
@@ -81,8 +80,8 @@
     ".dot.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.018151640625",
-  "largest_contentful_paint": "535.8999999985099",
+  "cumulative_layout_shift": "0.018151640625000003",
+  "largest_contentful_paint": "1652.8999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -158,7 +157,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "completed",
   "www_url": "https://highways.dot.gov/safety",
   "www_status_code": 200,
   "www_title": "Safety | FHWA"

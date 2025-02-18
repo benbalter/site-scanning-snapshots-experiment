@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:35:14.857Z",
+  "scan_date": "2025-02-16T02:24:57.196Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -43,11 +45,12 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
     "dap.digitalgov.gov",
+    "ds-aksb-a.akamaihd.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "metrics.cancer.gov",
@@ -64,28 +67,30 @@
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://ds-aksb-a.akamaihd.net/2/855684/b",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s83678889243013",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s07360119445360",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/sampling/www.cancer.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/site/www.cancer.gov.json",
     "https://script.crazyegg.com/pages/scripts/0076/4407.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://zn88jixcivzfb3vpp-nci.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cancer.gov",
     "www.cancer.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.007012975260416667",
-  "largest_contentful_paint": "374.80000000074506",
+  "largest_contentful_paint": "300.10000002384186",
   "required_links_url": [
     "about",
     "foia",
@@ -159,7 +164,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 50,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T08:33:04.399Z",
+  "scan_date": "2025-02-15T10:49:23.754Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1,\"images\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"aria\":2}",
   "ipv6": true,
   "hostname": null,
   "cms": "Microsoft Sharepoint",
@@ -79,8 +81,8 @@
     "ors.od.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05299430729166667",
-  "largest_contentful_paint": "1378.3000000044703",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "1778.6000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -92,6 +94,7 @@
     "foia",
     "vulnerability disclosure",
     "usa.gov",
+    "espanol",
     "español"
   ],
   "https_enforced": true,
@@ -136,7 +139,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://ors.od.nih.gov/flu/Pages/default.aspx",
   "www_status_code": 200,
   "www_title": "Foil the Flu Flu Vaccination Information"

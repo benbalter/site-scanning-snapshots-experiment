@@ -5,7 +5,7 @@
   "initial_base_domain": "nrel.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=f13c5116-8126-8d15-f92c-8bd875186400&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638745186296587536.fd196e7c-fc44-4372-ab6a-00e5688eab20&state=DctBFoAgCABRrddxSFQEPA6ablt2_Vj82U0MIZzucBE9QbiqUMvKpXNTaZXv_eTOSybsSQRUpYANNkBcjVWXjYLR3yu9n6Uf",
+  "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=e1efe8fe-8ba7-fd38-eb1b-fe9b1d027aec&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638752178876731781.d523687f-2ebe-45fb-919f-cabee2a5bec5&state=DYtBEoAgCACxpueQiSH4HDG8duz7cdjd0yYA2IMtSFcIpFUVpiKq0qRGy_kw1aaykNwcb16GvfSFc5g7DTafnOI98vuN_AM",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T09:50:34.600Z",
+  "scan_date": "2025-02-15T12:04:52.351Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "connection_reset",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "connection_reset",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "connection_reset",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -60,13 +62,13 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
     "https://login.live.com/Me.htm",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.11/resources/images/0/sprite1.mouse.css",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.11/resources/images/0/sprite1.mouse.png",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.11/resources/styles/0/boot.worldwide.mouse.css",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.11/scripts/boot.worldwide.0.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.11/scripts/boot.worldwide.1.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.11/scripts/boot.worldwide.2.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.11/scripts/boot.worldwide.3.mouse.js"
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/resources/images/0/sprite1.mouse.css",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/resources/images/0/sprite1.mouse.png",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/resources/styles/0/boot.worldwide.mouse.css",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.0.mouse.js",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.1.mouse.js",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.2.mouse.js",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.3.mouse.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -74,8 +76,8 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07557591145833331",
-  "largest_contentful_paint": "540.3999999985099",
+  "cumulative_layout_shift": "0.07557884114583331",
+  "largest_contentful_paint": "546",
   "required_links_url": [
     "privacy"
   ],
@@ -122,7 +124,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

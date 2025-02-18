@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:12:53.148Z",
+  "scan_date": "2025-02-16T03:25:18.953Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -53,7 +55,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s87794026537062",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s18119763240965",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/gateway.min.js",
@@ -65,8 +67,8 @@
     ".cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08437050268554688",
-  "largest_contentful_paint": "291",
+  "cumulative_layout_shift": "0.05230668823242188",
+  "largest_contentful_paint": "366.39999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -129,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 33,
-  "www_scan_status": "completed",
   "www_url": "https://www.cdc.gov/covid/index.html",
   "www_status_code": 200,
   "www_title": "Coronavirus Disease 2019 (COVID-19) | COVID-19 | CDC"

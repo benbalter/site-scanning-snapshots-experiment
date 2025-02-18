@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://eds.larc.nasa.gov/?doing_wp_cron=1738920518.8915359973907470703125",
+  "url": "https://eds.larc.nasa.gov/?doing_wp_cron=1739703536.8968379497528076171875",
   "domain": "eds.larc.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -20,10 +20,11 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-07T09:29:01.801Z",
+  "scan_date": "2025-02-16T10:59:15.571Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"user-control-name\":25,\"contrast\":1,\"link-purpose\":999}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"user-control-name\":25,\"contrast\":1,\"link-purpose\":996}",
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -45,7 +47,7 @@
     "agency": "NASA",
     "subagency": "LARC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "auth.launchpad.nasa.gov",
@@ -88,8 +90,8 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
     "https://www.nasa.gov/favicon.ico"
   ],
   "third_party_service_count": 13,
@@ -98,7 +100,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.10005596044921874",
-  "largest_contentful_paint": "4389.60000000149",
+  "largest_contentful_paint": "4245.899999976158",
   "required_links_url": [
     "about",
     "fear",
@@ -127,13 +129,15 @@
   "language": "en-US",
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": false,
-  "robots_txt_url": "https://eds.larc.nasa.gov/robots.txt?doing_wp_cron=1738920530.8551549911499023437500",
-  "robots_txt_status_code": 404,
-  "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": null,
+  "robots_txt_detected": true,
+  "robots_txt_url": "https://eds.larc.nasa.gov/robots.txt?doing_wp_cron=1739703549.8848669528961181640625",
+  "robots_txt_status_code": 200,
+  "robots_txt_media_type": "text/plain",
+  "robots_txt_filesize": 118,
   "robots_txt_crawl_delay": null,
-  "robots_txt_sitemap_locations": null,
+  "robots_txt_sitemap_locations": [
+    "https://eds.larc.nasa.gov/wp-sitemap.xml"
+  ],
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://eds.larc.nasa.gov/wp-sitemap.xml",
   "sitemap_xml_status_code": 200,
@@ -166,7 +170,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 44,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

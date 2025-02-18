@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:11:26.737Z",
+  "scan_date": "2025-02-16T01:49:19.052Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -62,9 +65,9 @@
     "https://media.defense.gov/2023/Sep/19/2003304191/740/740/0/230919-D-FE010-002.JPG",
     "https://media.defense.gov/2023/Sep/27/2003309550/740/740/0/230919-D-FE011-003.JPG",
     "https://media.defense.gov/2024/Nov/07/2003580339/740/740/0/230919-D-FEREF-001.JPG",
-    "https://media.defense.gov/2025/Jan/21/2003630569/740/740/0/250116-D-FEMAR-002.JPG",
-    "https://media.defense.gov/2025/Jan/21/2003630570/740/740/0/250116-D-FEMLK-001.JPG",
-    "https://media.defense.gov/2025/Jan/21/2003630571/740/740/0/250116-D-FEMAR-001.JPG",
+    "https://media.defense.gov/2025/Feb/10/2003644588/740/740/0/250210-D-UG811-001.JPG",
+    "https://media.defense.gov/2025/Feb/10/2003644598/740/740/0/250206-A-QE286-001.JPG",
+    "https://media.defense.gov/2025/Feb/10/2003644629/740/740/0/250210-D-UG811-003.JPG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -76,8 +79,8 @@
     ".army.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07964828173828126",
-  "largest_contentful_paint": "463.2000000476837",
+  "cumulative_layout_shift": "0.08284396614583334",
+  "largest_contentful_paint": "493.8000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -135,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

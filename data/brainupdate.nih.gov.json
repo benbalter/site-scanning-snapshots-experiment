@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:19:42.116Z",
+  "scan_date": "2025-02-15T18:49:57.339Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "dns_resolution_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "dns_resolution_error",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -42,8 +44,8 @@
   "dap_parameters": {
     "agency": "NINDS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-vFGPxmtfqcSOW3a,G-dbpC4JAPWTq11ZL,G-YDGBypzPazANP6H,G-xRIujb7tN3Gu5h5,G-EWRvQplU49",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
@@ -70,16 +72,16 @@
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.006399263671875001",
-  "largest_contentful_paint": "590.0999999940395",
+  "cumulative_layout_shift": "0.006057263671875",
+  "largest_contentful_paint": "572.8000000715256",
   "required_links_url": [
     "about",
     "privacy",
@@ -141,7 +143,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://braininitiative.nih.gov/news-events/blog",
   "www_status_code": 200,
   "www_title": "The BRAIN Blog | BRAIN Initiative"

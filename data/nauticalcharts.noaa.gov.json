@@ -20,10 +20,12 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T10:50:25.282Z",
+  "scan_date": "2025-02-15T11:37:48.939Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"images\":2}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -45,6 +48,7 @@
   "dap_version": "",
   "ga_tag_id": "G-SM6YMQ7JH4",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -55,6 +59,7 @@
     "www.opm.gov"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/4673/logo_square_NOAA-logo(2).jpg",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1UjIfM0qh1d.woff",
@@ -67,13 +72,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.opm.gov/json/operatingstatus.json"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04757154907226563",
-  "largest_contentful_paint": "279.70000000298023",
+  "cumulative_layout_shift": "0.02816282649739583",
+  "largest_contentful_paint": "230.39999997615814",
   "required_links_url": [
     "about",
     "foia",
@@ -140,7 +145,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://www.nauticalcharts.noaa.gov",
   "www_status_code": 200,
   "www_title": "U.S. Office of Coast Survey"

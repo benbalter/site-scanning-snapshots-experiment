@@ -24,10 +24,12 @@
     "omb_idea",
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T05:41:16.094Z",
+  "scan_date": "2025-02-16T08:18:43.285Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,7 +38,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"images\":1,\"lists\":1,\"keyboard-access\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"lists\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -51,10 +54,10 @@
     "sp": "find",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-3XZT0J69SB,G-HLT1XV3JTH,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c14.akstat.io",
+    "17de4c1e.akstat.io",
     "c.go-mpulse.net",
     "connect.facebook.net",
     "dap.digitalgov.gov",
@@ -75,7 +78,7 @@
     "zn2aettvaedte4ylf-hrsagov.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c14.akstat.io/",
+    "https://17de4c1e.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://connect.facebook.net/en_US/fbevents.js",
     "https://connect.facebook.net/signals/config/419432118895682",
@@ -104,7 +107,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0020/5195/sampling/www.hrsa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0020/5195/site/www.hrsa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0020/5195.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://snap.licdn.com/li.lms-analytics/insight.min.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
@@ -119,7 +122,7 @@
     "https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js",
     "https://www.gstatic.com/dialogflow-console/fast/messenger-cx/messenger-internal.min.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn2aettvaedte4ylf-hrsagov.gov1.siteintercept.qualtrics.com/SIE/"
   ],
   "third_party_service_count": 19,
@@ -128,8 +131,8 @@
     ".www.hrsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.13836737430826826",
-  "largest_contentful_paint": "974.5",
+  "cumulative_layout_shift": "0.08291147526041666",
+  "largest_contentful_paint": "932.1000000238419",
   "required_links_url": [
     "about",
     "fear",
@@ -162,7 +165,7 @@
   "og_url": null,
   "canonical_link": "https://www.hrsa.gov/",
   "language": "en",
-  "language_link": "x-default,en,es",
+  "language_link": "x-default,en,es,en,es",
   "main_element_present": true,
   "robots_txt_detected": true,
   "robots_txt_url": "https://www.hrsa.gov/robots.txt",
@@ -177,8 +180,8 @@
   "sitemap_xml_url": "https://www.hrsa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 503733,
-  "sitemap_xml_count": 1427,
+  "sitemap_xml_filesize": 503037,
+  "sitemap_xml_count": 1425,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
@@ -214,7 +217,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 131,
-  "www_scan_status": "completed",
   "www_url": "https://www.hrsa.gov",
   "www_status_code": 200,
   "www_title": "Health Resources and Services Administration | HRSA"

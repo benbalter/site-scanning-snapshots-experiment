@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:50:47.562Z",
+  "scan_date": "2025-02-15T05:56:25.702Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": false,
   "hostname": null,
@@ -46,12 +48,13 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".health.mil",
     ".mobile.health.mil",
     "mobile.health.mil"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.017243606770833336",
-  "largest_contentful_paint": "772.4000000953674",
+  "largest_contentful_paint": "728.0999999046326",
   "required_links_url": [
     "about",
     "fear",
@@ -86,13 +89,11 @@
   "robots_txt_url": "https://mobile.health.mil/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 324,
+  "robots_txt_filesize": 215,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [
     "https://health.mil/sitemap/mhs-sitemap.xml",
-    "https://health.mil/sitemap/mobile-sitemap.xml",
-    "https://mobile/sitemap/mobile-sitemap.xml",
-    "https://www.health.mil/sitemap/mhs-sitemap.xml"
+    "https://health.mil/sitemap/mobile-sitemap.xml"
   ],
   "sitemap_xml_detected": null,
   "sitemap_xml_url": null,
@@ -113,7 +114,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

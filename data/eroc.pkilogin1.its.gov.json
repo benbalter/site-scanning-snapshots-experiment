@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:52:33.135Z",
+  "scan_date": "2025-02-16T08:35:27.555Z",
   "primary_scan_status": "invalid_ssl_cert",
   "accessibility_scan_status": "invalid_ssl_cert",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "invalid_ssl_cert",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "invalid_ssl_cert",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -93,7 +95,6 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:28:15.655Z",
+  "scan_date": "2025-02-16T05:42:29.619Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -44,14 +46,20 @@
   "dap_version": "",
   "ga_tag_id": "G-Avse",
   "third_party_service_domains": [
+    "analytics.audioeye.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "static.addtoany.com",
-    "use.fontawesome.com"
+    "use.fontawesome.com",
+    "wsmcdn.audioeye.com",
+    "wsv3cdn.audioeye.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.audioeye.com/air/v0/send",
     "https://fonts.googleapis.com/css",
+    "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+    "https://fonts.gstatic.com/s/schibstedgrotesk/v3/Jqz55SSPQuCQF3t8uOwiUL-taUTtap9GayojdSFO.woff2",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.addtoany.com/menu/svg/icons/a2a.js",
@@ -64,16 +72,30 @@
     "https://static.addtoany.com/menu/svg/icons/sms.js",
     "https://static.addtoany.com/menu/svg/icons/twitter.js",
     "https://use.fontawesome.com/releases/v5.13.1/js/all.js",
-    "https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js"
+    "https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js",
+    "https://wsmcdn.audioeye.com/aem.js",
+    "https://wsv3cdn.audioeye.com/bootstrap.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/m/audioeye-scanner-esm/v9.1.12/audioeye-scanner-esm.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/compliance.bundle.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/compliance.css",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/cookieStorage.bundle.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/fullCSS.bundle.css",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/launcher.bundle.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/site-menu.bundle.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/site-menu.css",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/smartrems.bundle.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/startup.bundle.js",
+    "https://wsv3cdn.audioeye.com/static-scripts/v2/1504ac296/tangoEngine.bundle.js",
+    "https://wsv3cdn.audioeye.com/v2/scripts/loader.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".fcc.gov",
     "www.fcc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "427.3999999985099",
+  "cumulative_layout_shift": "0.0010657499999999999",
+  "largest_contentful_paint": "360.5",
   "required_links_url": [
     "about",
     "fear",
@@ -135,7 +157,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

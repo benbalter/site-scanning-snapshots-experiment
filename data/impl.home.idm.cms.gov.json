@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T02:19:27.140Z",
+  "scan_date": "2025-02-16T03:15:00.851Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -46,7 +49,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-iIFszwRM0PHwmSt",
+  "ga_tag_id": "G-5jlEoCgIzEXEA9m",
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -79,8 +82,8 @@
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.047734766438802076",
-  "largest_contentful_paint": "4707.0999999940395",
+  "cumulative_layout_shift": "0.04761668701171874",
+  "largest_contentful_paint": "632.3999999761581",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -125,7 +128,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

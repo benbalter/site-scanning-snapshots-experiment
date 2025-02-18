@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T11:10:07.360Z",
+  "scan_date": "2025-02-16T07:02:52.999Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -54,9 +56,9 @@
     "https://op3static.oktacdn.com/assets/img/logos/okta-logo.1e146cad5713da744492be95eb0f7793.png",
     "https://op3static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
     "https://op3static.oktacdn.com/assets/js/mvc/sentry-wrapper/sentry-wrapper.pack.2e080a109dbfd00f748e7dab5f49a815.js",
-    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/css/okta-sign-in.min.css",
-    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/img/ui/forms/checkbox-sign-in-widget.png",
-    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/js/okta-sign-in.min.js",
+    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.1/css/okta-sign-in.min.css",
+    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.1/img/ui/forms/checkbox-sign-in-widget.png",
+    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.1/js/okta-sign-in.min.js",
     "https://op3static.oktacdn.com/assets/loginpage-render/okta-loginpage-render-0.1.13-g55f1335.js",
     "https://op3static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css",
     "https://op3static.oktacdn.com/assets/loginpage/font/assets/Aeonik-Regular.c672e6fbaa411f5719f3.woff2",
@@ -70,7 +72,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.08179385546875001",
-  "largest_contentful_paint": "696.2999999970198",
+  "largest_contentful_paint": "726.8999999761581",
   "required_links_url": [
     "privacy"
   ],
@@ -119,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

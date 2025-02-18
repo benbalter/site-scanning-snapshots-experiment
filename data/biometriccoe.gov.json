@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:20:29.213Z",
+  "scan_date": "2025-02-16T02:13:29.513Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":2,\"images\":10,\"link-purpose\":7}",
   "ipv6": true,
   "hostname": null,
@@ -42,17 +44,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-wqaPw0b3i6CBu7P,G-QSc7rkZH,G-DDATDNB0Aeuc,G-6WZIJUl,G-ehXW,G-D2JHYA8fz0NYr",
+  "ga_tag_id": "G-TvYxImOxKXtijGI,G-0do7Zeh17xihFo6,G-dsRrAY0bxr,G-gTZfIaOun1oTO2L,G-e1A2sOoS,G-OABmghrO,G-OhRvZK4,G-sKSBsFk",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90df8e83cbbfef67/1738891218748/iIWNQ7ndnBkfrwg",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/943550400:1738890852:FfuB0B8nObXP3XwCWBqAr2zqnnmlYq3JxncywtRJdQ8/90df8e83cbbfef67/iR3BRvcp9vZX1n1np_z5NEBllxqPPEtkD4ce4HQBERU-1738891218-1.1.1.1-A4JJBuQpgOIz85qgWVWc4dWArFSi.aNfxjr0cBc6hPY6m5d6lsU6lFETGdZ.MRCN",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90df8e83cbbfef67/1738891218756/7cbf110781baed293dbd4fb5f10a688249f5a6f533cf80990bba5d9316c51014/nEL7vo7ru7a0AlF",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/912a04878bc6ff03/1739671998870/ZwHUY_MOL5ZbvXK",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1988992017:1739669185:7lKWWiBH0XyTymqZwACoGmHHVhvTtA8CwwnihxbFXcY/912a04878bc6ff03/P00I3M.SS_LQ4R0DGYVkjOWmVHzCTRmQYc6jrwS9HMA-1739671998-1.1.1.1-3D9dnKjQ3hjwhNg_SwM.XckrhIq9G9RCF3FgTvlA2OdOSWi7kz2Dv.0jmqEF9VBv",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/912a04878bc6ff03/1739671998872/a2d0534f2d65e5ea29c20bab1fd6f9a06e88d3366419af0631bfeeb842678f40/kXMTstDZK1nRD_U",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -61,7 +63,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.040622681640625",
-  "largest_contentful_paint": "196.14000000059605",
+  "largest_contentful_paint": "127.85500001907349",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -106,7 +108,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.fbi.gov/about-us/cjis/fingerprints_biometrics/biometric-center-of-excellence",
   "www_status_code": 403,
   "www_title": "Just a moment..."

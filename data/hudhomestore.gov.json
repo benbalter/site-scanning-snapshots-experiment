@@ -5,7 +5,7 @@
   "initial_base_domain": "hudhomestore.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://www.hudhomestore.gov/",
+  "url": "https://www.hudhomestore.gov/app_offline",
   "domain": "www.hudhomestore.gov",
   "base_domain": "hudhomestore.gov",
   "top_level_domain": "gov",
@@ -20,10 +20,12 @@
   "source_list": [
     "gov",
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T05:35:51.937Z",
+  "scan_date": "2025-02-16T08:14:23.240Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,21 +34,20 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": [
-    ">Sign In<"
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
     "agency": "HUD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "",
   "ga_tag_id": "G-BX2TT48KFG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdngeneral.rcqatol.com",
@@ -54,6 +55,7 @@
     "fonts.gstatic.com",
     "maps.googleapis.com",
     "res.cloudinary.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -62,7 +64,6 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/mulish/v10/1Ptvg83HX_SGhgqk3wot.woff2",
     "https://maps.googleapis.com/maps/api/js",
-    "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
     "https://res.cloudinary.com/yardi/image/upload/q_auto",
     "f_auto",
     "c_limit",
@@ -83,30 +84,22 @@
     "f_auto",
     "c_limit",
     "w_992/hhs/themes/hudhomestore/images/hud-logo.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".hudhomestore.gov",
     "www.hudhomestore.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.007490443522135417",
-  "largest_contentful_paint": "325.6000000014901",
-  "required_links_url": [
-    "about",
-    "privacy",
-    "usa.gov",
-    "espanol",
-    "/es"
-  ],
-  "required_links_text": [
-    "privacy policy",
-    "español"
-  ],
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "186.19999992847443",
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "HUD Homes for Sale | Search HUD Homes Listings | Bid on HUD Homes",
+  "title": "Under Maintenance",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -119,7 +112,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": true,
+  "main_element_present": false,
   "robots_txt_detected": true,
   "robots_txt_url": "https://www.hudhomestore.gov/robots.txt",
   "robots_txt_status_code": 200,
@@ -146,8 +139,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
-  "www_url": "https://www.hudhomestore.gov",
+  "www_url": "https://www.hudhomestore.gov/app_offline",
   "www_status_code": 200,
-  "www_title": "HUD Homes for Sale | Search HUD Homes Listings | Bid on HUD Homes"
+  "www_title": "Under Maintenance"
 }

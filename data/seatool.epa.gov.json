@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T06:39:46.765Z",
+  "scan_date": "2025-02-15T16:34:31.107Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":4}",
   "ipv6": true,
   "hostname": null,
@@ -43,8 +46,8 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-2SEC4V3SK9,UA-32633028-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "script.crazyegg.com",
@@ -57,7 +60,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/seatool.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/seatool.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.epa.gov/sites/all/libraries/standalone/css/core/style.css",
     "https://www.epa.gov/sites/all/themes/epa/css/fonts/merriweather-bold-webfont.woff2",
     "https://www.epa.gov/sites/all/themes/epa/css/fonts/merriweather-regular-webfont.woff2",
@@ -84,7 +87,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.4235986637369792",
-  "largest_contentful_paint": "346",
+  "largest_contentful_paint": "323",
   "required_links_url": [
     "about",
     "foia",
@@ -141,7 +144,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

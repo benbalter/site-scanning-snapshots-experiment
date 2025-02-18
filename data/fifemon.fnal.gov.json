@@ -5,7 +5,7 @@
   "initial_base_domain": "fnal.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://pingprod.fnal.gov/idp/SSO.saml2?SAMLRequest=fZHNboMwEIRfBfkebNz8NFZAosmhkdIGBdpDL5UDJlgyNvWatH37QkiV9NCcd%2Fab2dkF8Fo1LG5dpXfioxXgvK9aaWCnQYhaq5nhIIFpXgtgLmdp%2FLRh1CesscaZ3CjkxQDCOmn00mhoa2FTYY8yFy%2B7TYgq5xpgGJeyFLXRfqm58g%2FmiNNK7vdGCVf5AAb3XIqTbZohb9UFkZr3yAugkfrQeRYXgiwanKZbvw9Lkbdeheidl7wgs4Le8fk0uBeTcVCOZyXJcyKCeUGnnQygFWsNjmsXIkroZEToiMwyMmZkzibkDXnJ%2BbYHqYvO9nYR%2B0EE7DHLktFwwauwcErfCVC06BOyk7G9Kvg2lv%2B2iqL%2FOlzgK%2FDg0rDnjrReJUbJ%2FNuLlTKfSyu4EyEKEI6Glb8%2Fj34A&RelayState=ss%3Amem%3A7296be60b29ba87db5a7681c9f3c401a17428324f44b942ee18c05def2f68f80",
+  "url": "https://pingprod.fnal.gov/idp/SSO.saml2?SAMLRequest=fZFPb4JAEMW%2FCtm7%2FFmU6EZIqB5qYisR2kMvzQqjbLLs0p3Ftt%2B%2BIG1sD%2FU8b37vzZsl8ka2LO1srfbw1gFa56ORCtllEJPOKKY5CmSKN4DMlixPH7aMuj5rjba61JI4KSIYK7RaaYVdAyYHcxYlPO23MamtbZF53lEcodHKPSou3ZM%2Be3ktDgctwdYuovYGLvWyXV4QZ90HEYoPyCugFerUe1ZXgqhaL8937hCWEmezjsnrvILFgtOyon44n9KQBj4P5rMFnYZRBEHYyxA72Ci0XNmYUJ%2FOJj6dBFHhR4xSFtAX4mTft90JVfW2t4s4jCJk90WRTcYLnsHgJX0vIMlySMguxuZXwbex%2FKdVkvzX4dL7BR5dWvbYkzbrTEtRfjqplPp9ZYBbiElAvGRc%2Bfvz5As%3D&RelayState=ss%3Amem%3Af83b8264343426f8a3d1482461dee0d949476e2fef4ac805c5da353b861dd4e6",
   "domain": "pingprod.fnal.gov",
   "base_domain": "fnal.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:09:57.136Z",
+  "scan_date": "2025-02-16T06:22:19.548Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"form-names\":1}",
   "ipv6": true,
   "hostname": null,
@@ -50,7 +52,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "471.20000000298023",
+  "largest_contentful_paint": "526.6000000238419",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -95,7 +97,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

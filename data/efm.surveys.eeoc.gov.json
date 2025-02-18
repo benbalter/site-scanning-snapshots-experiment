@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites"
   ],
   "public": false,
-  "scan_date": "2025-02-06T14:25:09.356Z",
+  "scan_date": "2025-02-16T05:08:17.663Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"frames-iframes\":2,\"language\":1,\"form-names\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -70,11 +72,12 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
+    ".eeoc.gov",
     "efm.surveys.eeoc.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.001055960693359375",
-  "largest_contentful_paint": "629.4000000953674",
+  "cumulative_layout_shift": "0.0006841562499999999",
+  "largest_contentful_paint": "558",
   "required_links_url": [
     "about"
   ],
@@ -121,7 +124,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

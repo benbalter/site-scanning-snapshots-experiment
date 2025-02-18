@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:26:55.142Z",
+  "scan_date": "2025-02-16T06:41:10.379Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +31,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":3,\"contrast\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -43,22 +45,30 @@
     "agency": "DOI",
     "subagency": "USFWS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1f.akstat.io",
+    "52-222-122-97_s-23-32-75-29_ts-1739688061-clienttons-s.akamaihd.net",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "gtphuyixf3scsz5rrb6q-pa9gd0-62eefa4f3-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
     "services.arcgis.com",
     "touchpoints.app.cloud.gov",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1f.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-29_ts-1739688061-clienttons-s.akamaihd.net/eum/results.txt",
     "https://a.tile.openstreetmap.org/15/6281/11695.png",
     "https://a.tile.openstreetmap.org/15/6282/11694.png",
     "https://a.tile.openstreetmap.org/15/6283/11696.png",
@@ -67,6 +77,7 @@
     "https://b.tile.openstreetmap.org/15/6282/11695.png",
     "https://b.tile.openstreetmap.org/15/6283/11694.png",
     "https://b.tile.openstreetmap.org/15/6284/11696.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/15/6281/11694.png",
     "https://c.tile.openstreetmap.org/15/6282/11696.png",
     "https://c.tile.openstreetmap.org/15/6283/11695.png",
@@ -81,6 +92,7 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2",
+    "https://gtphuyixf3scsz5rrb6q-pa9gd0-62eefa4f3-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/QPMY6-HX4DG-C5T6C-P2FE6-TUAP7",
     "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/FWSApproved_Authoritative/FeatureServer/0/query",
     "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/FWSInterest_Simplified_Authoritative/FeatureServer/0/query",
@@ -88,16 +100,17 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 17,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "792.7999999970198",
+  "largest_contentful_paint": "808.6999999284744",
   "required_links_url": [
     "about",
     "foia",
@@ -169,7 +182,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 75,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

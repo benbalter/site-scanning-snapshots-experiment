@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T06:40:56.578Z",
+  "scan_date": "2025-02-16T10:07:06.888Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":14}",
   "ipv6": true,
   "hostname": null,
@@ -45,7 +48,7 @@
     "sdor": "fda.gov",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-3843414-4,G-P1Z5NF1DJZ",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -74,8 +77,7 @@
     "https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -83,8 +85,8 @@
     "cmip-publications.llnl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00018185652669270832",
-  "largest_contentful_paint": "819.1999999955297",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "695.6999999284744",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"
@@ -131,7 +133,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

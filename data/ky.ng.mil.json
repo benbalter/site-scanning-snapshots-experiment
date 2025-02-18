@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "mil-sites1"
+    "mil-sites1",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:00:22.394Z",
+  "scan_date": "2025-02-15T10:34:51.162Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -58,8 +61,8 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://media.defense.gov/2024/Dec/30/2003619584/115/75/0/241214-Z-QH451-1060.JPG",
-    "https://media.defense.gov/2025/Jan/03/2003623794/115/75/0/240919-Z-JU667-1129.JPG",
+    "https://media.defense.gov/2025/Feb/06/2003638572/115/75/0/240515-Z-WF264-1001.JPG",
+    "https://media.defense.gov/2025/Feb/07/2003643022/115/75/0/250124-Z-DO489-1003.JPG",
     "https://media.defense.gov/2025/Jan/06/2003624081/115/75/0/240517-Z-ZW877-1053.JPG",
     "https://media.defense.gov/2025/Jan/16/2003629600/115/75/0/250112-Z-OO829-1150.JPG",
     "https://media.defense.gov/2025/Jan/16/2003629600/1310/736/0/250112-Z-OO829-1150.JPG",
@@ -71,21 +74,19 @@
     "https://media.defense.gov/2025/Jan/17/2003630145/115/75/0/250108-Z-QL321-1001.JPG",
     "https://media.defense.gov/2025/Jan/21/2003630670/115/75/0/250106-Z-DO489-1894.JPG",
     "https://media.defense.gov/2025/Jan/21/2003630670/1310/736/0/250106-Z-DO489-1894.JPG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
     ".ng.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.8441921223958333",
-  "largest_contentful_paint": "330.5",
+  "cumulative_layout_shift": "0.7403822591145833",
+  "largest_contentful_paint": "171.19999992847443",
   "required_links_url": [
     "about",
     "foia",
@@ -141,7 +142,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

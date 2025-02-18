@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:45:31.010Z",
+  "scan_date": "2025-02-16T03:12:18.523Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":5}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "FDIC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -60,18 +62,15 @@
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://fdic.122.2o7.net/b/ss/fdicgovprod/1/JS-2.1.0/s51684920658563",
+    "https://fdic.122.2o7.net/b/ss/fdicgovprod/1/JS-2.1.0/s12842328568165",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11137896577/",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/SliderModule.js",
-    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/.blob/0d6982ac7481f3ca850a1b72fa5c3e56597a71cc_svg-close-btn-black-5.svg",
-    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/11f1c213b300bd2343e444b1b9adbf19b5fad3d2/img/svg-close-btn-black-5.svg",
-    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/svg-close-btn-black-5.svg",
     "https://s.go-mpulse.net/boomerang/CUQED-YPH6N-MJ9LJ-NAC89-WQR4D",
     "https://s3-us-gov-west-1.amazonaws.com/cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6/assets/includes/components/carousels/data-insight.json",
     "https://www.google.com/ccm/collect",
@@ -85,8 +84,8 @@
     ".www.fdic.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3061633675130208",
-  "largest_contentful_paint": "813.7999999523163",
+  "cumulative_layout_shift": "0.2945532522786458",
+  "largest_contentful_paint": "450.8000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -160,7 +159,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 60,
-  "www_scan_status": "completed",
   "www_url": "https://www.fdic-search-d.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

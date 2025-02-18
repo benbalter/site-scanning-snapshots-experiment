@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:24:02.371Z",
+  "scan_date": "2025-02-16T05:01:28.136Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -41,37 +44,31 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-WJK7JMDZWJ",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "code.jquery.com",
     "fonts.googleapis.com",
     "ka-p.fontawesome.com",
-    "kit.fontawesome.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "kit.fontawesome.com"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css",
     "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2",
     "https://code.jquery.com/jquery-2.2.0.min.js",
-    "https://code.jquery.com/jquery-3.6.0.min.js",
-    "https://code.jquery.com/jquery-migrate-3.4.0.min.js",
     "https://fonts.googleapis.com/css2",
     "https://ka-p.fontawesome.com/assets/97c3497ccc/35394577/kit.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
-    "https://kit.fontawesome.com/97c3497ccc.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://kit.fontawesome.com/97c3497ccc.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".ed.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.008286888020833334",
-  "largest_contentful_paint": "397.69999999552965",
+  "cumulative_layout_shift": "0.014213971354166667",
+  "largest_contentful_paint": "306.10000002384186",
   "required_links_url": [
     "about",
     "privacy",
@@ -122,7 +119,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

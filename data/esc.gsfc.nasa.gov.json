@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T10:09:21.235Z",
+  "scan_date": "2025-02-16T11:01:27.904Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
-  "accessibility_violations": "{\"link-purpose\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"user-control-name\":1,\"images\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -45,7 +48,7 @@
     "agency": "NASA",
     "subagency": "GSFC"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -63,8 +66,8 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.009537494222005208",
-  "largest_contentful_paint": "2034",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "0",
   "required_links_url": [
     "about",
     "privacy",
@@ -76,10 +79,10 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Health Check | ESC Public Site",
+  "title": "Home ESC | ESC Public Site",
   "description": "ESC Public Site",
   "keywords": "Exploration and Space Communications, ESC, space communications, space navigation,human exploration, robotic exploration, space exploration, relay satellites, ground stations",
-  "og_title": "Health Check",
+  "og_title": "Home ESC",
   "og_description": "ESC Public Site",
   "og_article_published": null,
   "og_article_modified": null,
@@ -116,7 +119,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:41:11.949Z",
+  "scan_date": "2025-02-15T18:23:09.673Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +31,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -43,13 +45,11 @@
     "agency": "DOI",
     "subagency": "USFWS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c15.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdn.knightlab.com",
     "cdnjs.cloudflare.com",
@@ -62,7 +62,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c15.akstat.io/",
     "https://a.tile.openstreetmap.org/4/2/4.png",
     "https://a.tile.openstreetmap.org/4/2/7.png",
     "https://a.tile.openstreetmap.org/4/3/6.png",
@@ -74,7 +73,6 @@
     "https://b.tile.openstreetmap.org/4/3/7.png",
     "https://b.tile.openstreetmap.org/4/4/6.png",
     "https://b.tile.openstreetmap.org/4/5/5.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/4/2/6.png",
     "https://c.tile.openstreetmap.org/4/3/5.png",
     "https://c.tile.openstreetmap.org/4/4/4.png",
@@ -87,10 +85,10 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map25975a4bd2bd4b50a28f5a9f017af5f4.png",
-    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map66bba5b195674f0d91bc30925356a3d6.png",
-    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map8b05308cb3eb4fc681623ee3fa3a2c45.png",
-    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_mapda322b0fc2b243409d8705e2e0bf5356.png",
+    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map2d4262dc23454d039a79ca464ad8809c.png",
+    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map48a317adea4c46fc9c624d34b01f860f.png",
+    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map5d7fcd6746dd4c8ba5f1d0526bd0db59.png",
+    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_mape9d7dca2826a4bf3af6f9a414ae9dd11.png",
     "https://ecos.fws.gov/arcgis/rest/services/tess/RangeMap/MapServer/",
     "https://ecos.fws.gov/arcgis/rest/services/tess/RangeMap/MapServer/export",
     "https://fonts.googleapis.com/css",
@@ -113,13 +111,14 @@
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.3407130859375",
-  "largest_contentful_paint": "1210",
+  "largest_contentful_paint": "1186",
   "required_links_url": [
     "about",
     "foia",
@@ -187,7 +186,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 50,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

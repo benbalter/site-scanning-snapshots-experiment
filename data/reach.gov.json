@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:53:08.978Z",
+  "scan_date": "2025-02-15T13:08:57.348Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "cloudfront.net",
@@ -45,11 +48,12 @@
     "agency": "VA",
     "pua": "ua-46839167-1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-N11VPVBMSC,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "connect.facebook.net",
     "dap.digitalgov.gov",
+    "insight.adsrvr.org",
     "js.adsrvr.org",
     "script.hotjar.com",
     "static.hotjar.com",
@@ -63,9 +67,10 @@
     "https://connect.facebook.net/signals/config/689161902234859",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://insight.adsrvr.org/track/realtimeconversion",
     "https://js.adsrvr.org/universal_pixel.1.1.0.js",
     "https://js.adsrvr.org/up_loader.1.1.0.js",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.hotjar.com/c/hotjar-3381301.js",
     "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/",
     "https://www.facebook.com/tr/",
@@ -78,13 +83,13 @@
     "https://www.va.gov/img/tiny-usa-flag.png",
     "https://www.va.gov/img/vcl-logo.png"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".reach.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.126225",
-  "largest_contentful_paint": "532.6999999955297",
+  "cumulative_layout_shift": "0.164517296875",
+  "largest_contentful_paint": "652",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -129,7 +134,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.reach.gov",
   "www_status_code": 200,
   "www_title": "Page not found | Don't Wait. Reach out."

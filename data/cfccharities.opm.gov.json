@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T14:13:09.805Z",
+  "scan_date": "2025-02-15T12:21:38.258Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -46,7 +49,7 @@
     "sitetopic": "CFC",
     "siteplatform": "CFCCharities"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-111945916-1,G-CSLL4ZEK4L,G-VM3G380133",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -81,11 +84,11 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/n5_jmaNRmL_kRcRuD7p7MlcVf7Wos4-jZkqnCF0rQDkHj_580_OJtsr9tcfKHbf2-LHL8SK8pA=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 14,
@@ -95,7 +98,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.20786597086588543",
-  "largest_contentful_paint": "6820.900000095367",
+  "largest_contentful_paint": "8145.600000023842",
   "required_links_url": [
     "about",
     "fear",
@@ -130,7 +133,7 @@
   "robots_txt_url": "https://cfccharities.opm.gov/app/",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": null,
+  "robots_txt_filesize": 3786,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
@@ -152,7 +155,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T04:23:46.976Z",
+  "scan_date": "2025-02-15T17:57:13.191Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":3}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -43,42 +46,30 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-KHPB5ST6ER,UA-213812340-1",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "kit.fontawesome.com",
-    "www.google-analytics.com",
     "www.google.com",
-    "www.googletagmanager.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://kit.fontawesome.com/9248854302.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
     "https://www.google.com/recaptcha/api.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".reporting.gov",
     "www.fairs.reporting.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.7344180610351563",
-  "largest_contentful_paint": "1581.2999999970198",
-  "required_links_url": [
-    "usa.gov"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "foia",
-    "privacy policy",
-    "usa.gov"
-  ],
+  "cumulative_layout_shift": "0.9201185221354167",
+  "largest_contentful_paint": "1591",
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "FAIRS - Federal Aviation Interactive Reporting System",
+  "title": "Login Template Title",
   "description": null,
   "keywords": "Government applications,Government open source,sharing applications,GSA Labs,GSA,Government Salesforce Community of Excellence,Community of Excellence,Salesforce BPA",
   "og_title": null,
@@ -110,34 +101,15 @@
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
-  "uswds_usa_class_list": [
-    "usa-accordion",
-    "usa-banner",
-    "usa-drop_text",
-    "usa-footer",
-    "usa-form-note",
-    "usa-grid",
-    "usa-header",
-    "usa-identifier",
-    "usa-link",
-    "usa-logo",
-    "usa-menu-btn",
-    "usa-nav",
-    "usa-navbar",
-    "usa-overlay",
-    "usa-skipnav",
-    "usa-social-link",
-    "usa-width-one-whole"
-  ],
-  "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 40,
+  "uswds_usa_class_list": null,
+  "uswds_banner_heres_how": false,
+  "uswds_usa_classes": 0,
   "uswds_string": 0,
-  "uswds_string_in_css": 20,
-  "uswds_semantic_version": "v2.13.2",
-  "uswds_version": 100,
-  "uswds_count": 160,
-  "www_scan_status": "completed",
+  "uswds_string_in_css": 0,
+  "uswds_semantic_version": null,
+  "uswds_version": 0,
+  "uswds_count": 0,
   "www_url": "https://www.fairs.reporting.gov/FAIRS/s/login/?ec=302&startURL=%2FFAIRS%2Fs%2F",
   "www_status_code": 200,
-  "www_title": "FAIRS - Federal Aviation Interactive Reporting System"
+  "www_title": "Login Template Title"
 }

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T16:08:43.246Z",
+  "scan_date": "2025-02-16T11:28:35.803Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -61,10 +63,6 @@
     "https://dev.visualwebsiteoptimizer.com/v.gif",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16447778284/",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/617821322/",
-    "https://media.nga.gov/iiif/34ab2f35-d59a-4928-937b-96fdfa3bc203/full/!",
-    "600/0/default.jpg",
-    "https://media.nga.gov/iiif/34ab2f35-d59a-4928-937b-96fdfa3bc203__640/full/!",
-    "600/0/default.jpg",
     "https://media.nga.gov/js/BrightcoveExperiences.js",
     "https://rum-collector-2.pingdom.net/img/beacon.gif",
     "https://rum-static.pingdom.net/pa-6144c0c97214f200110000ea.js",
@@ -86,7 +84,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "981.4000000953674",
+  "largest_contentful_paint": "1175.7999999523163",
   "required_links_url": [
     "about",
     "privacy"
@@ -115,8 +113,8 @@
   "robots_txt_url": "https://api.nga.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 171,
-  "robots_txt_crawl_delay": null,
+  "robots_txt_filesize": 170,
+  "robots_txt_crawl_delay": 10,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://api.nga.gov/sitemap.xml",
@@ -137,7 +135,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

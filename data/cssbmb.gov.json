@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:34:53.811Z",
+  "scan_date": "2025-02-16T03:34:41.187Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":1,\"link-purpose\":3}",
   "ipv6": true,
   "hostname": null,
@@ -44,8 +47,8 @@
     "agency": "USCCR",
     "subagency": "CSSBMB"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-5PyeCE46B7QRZOL",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
@@ -72,15 +75,15 @@
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://play.google.com/log",
     "https://static.doubleclick.net/instream/ad_status.js",
-    "https://www.google.com/js/th/2OLqLGNr0zHDpmEvPVsLweQktEaAqFW_L2mqSHTdR30.js",
+    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/ytc/AIdro_lCROJuJSQRYGpHe9nQPHAuPvhenMCRstDTykpU_G3zxrU=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 13,
@@ -89,8 +92,8 @@
     "cssbmb.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.002644621907552083",
-  "largest_contentful_paint": "253.70000000298023",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "293.10000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -156,7 +159,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 15,
-  "www_scan_status": "completed",
   "www_url": "https://cssbmb.gov",
   "www_status_code": 200,
   "www_title": "U.S. CSSBMB - The United States Commission on the Social Status of Black Men and Boys"

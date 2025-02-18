@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:05:52.542Z",
+  "scan_date": "2025-02-16T02:29:13.121Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":4,\"link-purpose\":1,\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -44,7 +47,7 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FCJVZGSR42,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -67,8 +70,8 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9a6VTYyWtZ3rI.woff",
     "https://metrics.cancer.gov/b/ss/ncicbiit-bioinformaticsinformationtech",
-    "ncienterprise/1/H.26.2/s06601759798967",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "ncienterprise/1/H.26.2/s07880232400614",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.hotjar.com/c/hotjar-1320198.js",
     "https://use.fontawesome.com/releases/v5.1.0/css/all.css",
     "https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff2",
@@ -81,7 +84,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.24475000162760416",
-  "largest_contentful_paint": "884.3000000044703",
+  "largest_contentful_paint": "829",
   "required_links_url": [
     "foia",
     "usa.gov"
@@ -135,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

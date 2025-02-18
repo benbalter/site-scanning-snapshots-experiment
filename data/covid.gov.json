@@ -20,10 +20,12 @@
   "source_list": [
     "gov",
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:11:48.884Z",
+  "scan_date": "2025-02-16T03:28:00.837Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -59,7 +62,7 @@
     "paltopicdim": "dimension5|5",
     "cto": "24"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-S9BDQRM1WW,G-3YLR8EGLBW,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "17de4c1e.akstat.io",
@@ -95,7 +98,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://znekjuzfqxlzxabxk-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
   "third_party_service_count": 11,
@@ -103,8 +106,8 @@
     ".covid.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.29832136287434896",
-  "largest_contentful_paint": "603.7999999970198",
+  "cumulative_layout_shift": "0.2442293719075521",
+  "largest_contentful_paint": "850.8000000715256",
   "required_links_url": [
     "about",
     "usa.gov",
@@ -179,7 +182,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 174,
-  "www_scan_status": "completed",
   "www_url": "https://www.covid.gov",
   "www_status_code": 200,
   "www_title": "Find COVID-19 guidance for your community | COVID.gov"

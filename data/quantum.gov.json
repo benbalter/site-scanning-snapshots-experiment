@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:48:09.345Z",
+  "scan_date": "2025-02-15T13:10:23.311Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,21 +33,22 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"images\":1,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": "WordPress",
   "login_provider": null,
   "login": null,
-  "site_search": true,
+  "site_search": false,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
     "agency": "EOP",
     "subagency": "NQCO"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-176865276-1,G-CSLL4ZEK4L,G-EYCYB93BZF",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "UA-176865276-1,G-EYCYB93BZF,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -66,7 +69,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "885.2999999970198",
+  "largest_contentful_paint": "883.1000000238419",
   "required_links_url": [
     "about",
     "fear",
@@ -125,7 +128,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 46,
-  "www_scan_status": "completed",
   "www_url": "https://www.quantum.gov",
   "www_status_code": 200,
   "www_title": "National Quantum Initiative"

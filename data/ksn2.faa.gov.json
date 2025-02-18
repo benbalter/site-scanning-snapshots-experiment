@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "oira"
+    "oira",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:06:39.432Z",
+  "scan_date": "2025-02-15T04:30:18.689Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -45,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-97rN9MJuySQ1oEM",
   "third_party_service_domains": [
     "cdn.myaccess.faa.gov",
     "ksn2.faa.gov",
@@ -70,10 +72,10 @@
     "https://ksn2.faa.gov/tacgw/welcome.cshtml",
     "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js",
     "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/css/okta-sign-in.min.css",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/font/montserrat-okta-light-webfont.woff",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/font/montserrat-okta-regular-webfont.woff",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/js/okta-sign-in.min.js",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/css/okta-sign-in.min.css",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/font/montserrat-okta-light-webfont.woff",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/font/montserrat-okta-regular-webfont.woff",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/js/okta-sign-in.min.js",
     "https://ok10static.oktacdn.com/assets/loginpage/css/custom-signin.a91af2abfd04662e499bd3e151150dbf.css",
     "https://ok10static.oktacdn.com/assets/loginpage/font/assets/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "https://ok10static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
@@ -87,8 +89,8 @@
     "myaccessxtl.faa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.0821210013020832",
-  "largest_contentful_paint": "994.2999999970198",
+  "cumulative_layout_shift": "1.0764497537434896",
+  "largest_contentful_paint": "1008.2000000476837",
   "required_links_url": [
     "privacy"
   ],
@@ -141,7 +143,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 84,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,11 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:29:35.710Z",
+  "scan_date": "2025-02-16T07:17:13.452Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akadns.net",
@@ -45,7 +47,7 @@
     "agency": "DHHS",
     "subagency": "CMS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ad.ipredictive.com",
@@ -76,21 +78,20 @@
   "third_party_service_urls": [
     "https://ad.ipredictive.com/d/track/event",
     "https://adobe-ep.healthcare.gov/ee/v1/interact",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CMHU79iTr4sDFW7prQAdwl0M_g;src=8966771;type=invmedia;cat=cms-u0;qty=1;cost=;ord=1738848560178",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CP619tiTr4sDFQCrjggdVwwX1g;src=8209133;type=2022;cat=2022-007;ord=787707451614.4878",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CLHe5Y7Tx4sDFayejggdpwElYg;src=8209133;type=2022;cat=2022-007;ord=3069085013391.1753",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=COeP3Y7Tx4sDFUi5jggd8L8UJA;src=8966771;type=invmedia;cat=cms-u0;qty=1;cost=;ord=1739690218874",
     "https://cdn.quantummetric.com/qscripts/quantum-healthcare.js",
     "https://cdn.resonate.com/analytics.js/v1/101188123/analytics-xp.min.js",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
-    "https://clientsdk.launchdarkly.us/sdk/evalx/5d51d81875bfda1de6a72969/contexts/eyJraW5kIjoidXNlciIsImtleSI6IjNjNmE1YzBlLTBlZmQtNDFiNi1iYjczLTk5MDY0OWQwMDZmNiIsImFub255bW91cyI6ZmFsc2UsIndlYkNvbnNlbnRzIjp0cnVlfQ",
+    "https://clientsdk.launchdarkly.us/sdk/evalx/5d51d81875bfda1de6a72969/contexts/eyJraW5kIjoidXNlciIsImtleSI6IjQ2ZWZlMjg2LTE2ZDgtNDhmNS1iMDY5LTQ4NTJiM2EyZjE5YiIsImFub255bW91cyI6ZmFsc2UsIndlYkNvbnNlbnRzIjp0cnVlfQ",
     "https://clientsdk.launchdarkly.us/sdk/goals/5d51d81875bfda1de6a72969",
-    "https://clientstream.launchdarkly.us/eval/5d51d81875bfda1de6a72969/eyJraW5kIjoidXNlciIsImtleSI6IjNjNmE1YzBlLTBlZmQtNDFiNi1iYjczLTk5MDY0OWQwMDZmNiIsImFub255bW91cyI6ZmFsc2UsIndlYkNvbnNlbnRzIjp0cnVlfQ",
+    "https://clientstream.launchdarkly.us/eval/5d51d81875bfda1de6a72969/eyJraW5kIjoidXNlciIsImtleSI6IjQ2ZWZlMjg2LTE2ZDgtNDhmNS1iMDY5LTQ4NTJiM2EyZjE5YiIsImFub255bW91cyI6ZmFsc2UsIndlYkNvbnNlbnRzIjp0cnVlfQ",
     "https://connect.facebook.net/en_US/fbevents.js",
     "https://connect.facebook.net/signals/config/404437807905270",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dsxp.reson8.com/v1/p",
     "https://events.launchdarkly.us/events/bulk/5d51d81875bfda1de6a72969",
     "https://gov-bam.nr-data.net/1/NRJS-dd7c06335c583caf555",
-    "https://gov-bam.nr-data.net/browser/blobs",
     "https://gov-bam.nr-data.net/events/1/NRJS-dd7c06335c583caf555",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
@@ -130,7 +131,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.012860291666666666",
-  "largest_contentful_paint": "856.5",
+  "largest_contentful_paint": "682.6000000238419",
   "required_links_url": [
     "about",
     "privacy",
@@ -184,7 +185,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

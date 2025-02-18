@@ -5,7 +5,7 @@
   "initial_base_domain": "usdoj.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://esp.usdoj.gov/icam/authenticationendpoint/login.do?RelayState=%2Fc&commonAuthCallerPath=%2Ficam%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=f14e5e66-66c5-4f43-a62e-37f453a7960a&relyingParty=portal2.esp.usdoj.gov&type=samlsso&sp=ESPonPROD&isSaaSApp=false&authenticators=PIVAuthenticator:LOCAL;PIVRegAuthenticator:LOCAL;BasicAuthenticator:LOCAL:LOCAL",
+  "url": "https://esp.usdoj.gov/icam/authenticationendpoint/login.do?RelayState=%2Fc&commonAuthCallerPath=%2Ficam%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=8cfb31a2-84d6-4569-8cd3-bea09c1a99fe&relyingParty=portal2.esp.usdoj.gov&type=samlsso&sp=ESPonPROD&isSaaSApp=false&authenticators=PIVAuthenticator:LOCAL;PIVRegAuthenticator:LOCAL;BasicAuthenticator:LOCAL:LOCAL",
   "domain": "esp.usdoj.gov",
   "base_domain": "usdoj.gov",
   "top_level_domain": "gov",
@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T12:57:13.446Z",
+  "scan_date": "2025-02-16T07:53:34.381Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -56,7 +59,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "635.9000000953674",
+  "largest_contentful_paint": "621.1000000238419",
   "required_links_url": null,
   "required_links_text": [
     "accessibility"
@@ -105,7 +108,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

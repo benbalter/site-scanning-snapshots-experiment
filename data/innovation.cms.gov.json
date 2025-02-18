@@ -20,10 +20,11 @@
   "source_list": [
     "pulse",
     "2020_eot",
-    "gov_man"
+    "gov_man",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:09:47.824Z",
+  "scan_date": "2025-02-15T16:40:27.672Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -45,7 +47,7 @@
     "agency": "DHHS",
     "subagency": "CMS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
@@ -86,7 +88,7 @@
     "https://tealium-tags.cms.gov/cms-www/prod/utag.sync.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn4gdyqqnaoifyulj-cmsmacfedramp.gov1.siteintercept.qualtrics.com/SIE/",
     "https://zn77ecfujq2tt2srz-medicare.gov1.siteintercept.qualtrics.com/SIE/"
   ],
@@ -96,7 +98,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.2483208821614583",
-  "largest_contentful_paint": "398.3999999985099",
+  "largest_contentful_paint": "503.89999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -157,7 +159,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "completed",
   "www_url": "https://www.cms.gov/priorities/innovation/overview",
   "www_status_code": 200,
   "www_title": "Overview | CMS"

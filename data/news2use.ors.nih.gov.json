@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T12:09:36.701Z",
+  "scan_date": "2025-02-15T10:48:24.637Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"form-names\":1,\"aria\":2,\"images\":1}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"form-names\":1,\"aria\":2}",
   "ipv6": true,
   "hostname": null,
   "cms": "Microsoft Sharepoint",
@@ -77,8 +80,8 @@
     "news2use.ors.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000023833333333333334",
-  "largest_contentful_paint": "1579.0999999046326",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "1110.2999999523163",
   "required_links_url": [
     "about",
     "foia",
@@ -133,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

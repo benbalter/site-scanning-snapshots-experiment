@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T14:35:55.835Z",
+  "scan_date": "2025-02-15T15:33:03.721Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -55,8 +58,8 @@
     "optout": "false",
     "palinteractiontypedim": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "UA-10113280-1,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-47RPZPWDT7,G-CSLL4ZEK4L",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "UA-10113280-1,G-47RPZPWDT7,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.google-analytics.com",
@@ -72,7 +75,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://www2.usgs.gov/scripts/analytics/usgs-analytics.js"
   ],
   "third_party_service_count": 5,
@@ -80,8 +83,8 @@
     ".usgs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.614262805908203",
-  "largest_contentful_paint": "267.59999990463257",
+  "cumulative_layout_shift": "0.23077388330078125",
+  "largest_contentful_paint": "359.90000009536743",
   "required_links_url": [
     "about",
     "fear",
@@ -131,6 +134,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-banner",
     "usa-button",
     "usa-footer",
@@ -156,7 +160,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 100,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

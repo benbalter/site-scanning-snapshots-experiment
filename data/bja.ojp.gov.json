@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T10:07:26.066Z",
+  "scan_date": "2025-02-15T12:17:09.335Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +48,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-PBYSD1LVK5,G-CSLL4ZEK4L,UA-37774784-1,UA-122677529-4,G-SCJZMMH0QG",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -64,7 +67,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/04696008-50b7-4378-8bfb-4902a2137ce4",
+    "https://brain.foresee.com/state/ojp-main/92465972-02c4-41c1-a07c-47a9e5714857",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -105,8 +108,8 @@
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "291.3999999910593",
+  "cumulative_layout_shift": "0.003811328125",
+  "largest_contentful_paint": "286.2000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -149,7 +152,7 @@
   "sitemap_xml_url": "https://bja.ojp.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 4099,
+  "sitemap_xml_filesize": 2167,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -187,7 +190,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 105,
-  "www_scan_status": "completed",
   "www_url": "https://www.bja.ojp.gov",
   "www_status_code": 200,
   "www_title": "Home | Bureau of Justice Assistance"

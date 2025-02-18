@@ -21,20 +21,23 @@
     "gov",
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:46:05.159Z",
+  "scan_date": "2025-02-16T04:03:42.946Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
   "login_provider": null,
@@ -61,7 +64,7 @@
     "paltopicdim": "dimension5|5",
     "cto": "24"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-36351725-9,G-EBDC0ZCHG2,G-CSLL4ZEK4L,G-3YLR8EGLBW",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -88,12 +91,11 @@
     "https://script.crazyegg.com/pages/scripts/0083/6179.js",
     "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
     "https://unpkg.com/web-vitals@4.2.4/dist/web-vitals.iife.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -101,8 +103,8 @@
     "findtreatment.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0022598107096354165",
-  "largest_contentful_paint": "937.4000000953674",
+  "cumulative_layout_shift": "0.014779169270833333",
+  "largest_contentful_paint": "470.89999997615814",
   "required_links_url": [
     "about",
     "fear",
@@ -164,7 +166,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.findtreatment.gov",
   "www_status_code": 200,
   "www_title": "Home - FindTreatment.gov"

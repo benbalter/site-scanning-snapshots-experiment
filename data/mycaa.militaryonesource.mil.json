@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:33:46.760Z",
+  "scan_date": "2025-02-16T10:27:57.823Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -43,7 +46,7 @@
     "agency": "DOD",
     "subagency": "McCAA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-43RVXRG654,G-CSLL4ZEK4L,G-XTTKJD1ENC,UA-29536396-4",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -70,7 +73,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.11871972151692708",
-  "largest_contentful_paint": "699",
+  "largest_contentful_paint": "701.2000000476837",
   "required_links_url": [
     "about"
   ],
@@ -119,7 +122,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

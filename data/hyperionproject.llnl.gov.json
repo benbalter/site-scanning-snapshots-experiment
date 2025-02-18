@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T06:50:26.631Z",
+  "scan_date": "2025-02-15T08:05:52.169Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":4}",
   "ipv6": false,
   "hostname": null,
@@ -45,7 +47,7 @@
     "amp;sdor": "fda.gov",
     "amp;dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.llnl.gov",
@@ -56,6 +58,7 @@
     "osc.llnl.gov",
     "stackpath.bootstrapcdn.com",
     "use.fontawesome.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -71,16 +74,17 @@
     "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js",
     "https://use.fontawesome.com/releases/v5.13.0/css/all.css",
     "https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".llnl.gov",
     "hpc.llnl.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.004589090576171875",
-  "largest_contentful_paint": "927",
+  "largest_contentful_paint": "4798",
   "required_links_url": [
     "about",
     "inspector",
@@ -132,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

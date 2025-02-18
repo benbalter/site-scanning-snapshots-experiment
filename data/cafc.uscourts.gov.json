@@ -22,10 +22,11 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "uscourts"
+    "uscourts",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:24:28.623Z",
+  "scan_date": "2025-02-15T14:51:00.451Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"link-purpose\":5}",
   "ipv6": false,
   "hostname": null,
@@ -46,7 +48,7 @@
   "dap_parameters": {
     "agency": "USCOURTS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RYJ0DPGC3X,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -85,8 +87,8 @@
     ".uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.038657399007161454",
-  "largest_contentful_paint": "323.7000000476837",
+  "cumulative_layout_shift": "0.03857625317382812",
+  "largest_contentful_paint": "271.3000000715256",
   "required_links_url": [
     "about"
   ],
@@ -135,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.cafc.uscourts.gov",
   "www_status_code": 200,
   "www_title": "U.S. Court of Appeals for the Federal Circuit"

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:28:05.123Z",
+  "scan_date": "2025-02-16T06:51:52.678Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +31,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":3}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -43,10 +45,10 @@
     "agency": "DOI",
     "subagency": "USFWS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C,G-JQD5BTHT4C",
   "third_party_service_domains": [
-    "17de4c12.akstat.io",
+    "17de4c18.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
     "c.go-mpulse.net",
@@ -58,10 +60,11 @@
     "s.go-mpulse.net",
     "services.arcgis.com",
     "touchpoints.app.cloud.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c12.akstat.io/",
+    "https://17de4c18.akstat.io/",
     "https://a.tile.openstreetmap.org/18/50258/93568.png",
     "https://a.tile.openstreetmap.org/18/50259/93567.png",
     "https://a.tile.openstreetmap.org/18/50260/93566.png",
@@ -92,15 +95,16 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0023163216145833335",
-  "largest_contentful_paint": "979.2000000029802",
+  "largest_contentful_paint": "788.7000000476837",
   "required_links_url": [
     "about",
     "foia",
@@ -172,7 +176,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 75,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

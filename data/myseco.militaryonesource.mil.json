@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:46:58.869Z",
+  "scan_date": "2025-02-16T10:23:45.111Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"images\":7}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -42,7 +45,7 @@
   "dap_parameters": {
     "agency": "DoD"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-M6XBSQNZDS,UA-29536396-2,G-XTTKJD1ENC,UA-29536396-4",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -70,7 +73,8 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -79,7 +83,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.036196567382812496",
-  "largest_contentful_paint": "1570",
+  "largest_contentful_paint": "1499.6000000238419",
   "required_links_url": [
     "about"
   ],
@@ -128,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

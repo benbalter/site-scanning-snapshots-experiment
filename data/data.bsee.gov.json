@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:32:38.968Z",
+  "scan_date": "2025-02-16T02:14:01.361Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +33,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"contrast\":2}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -55,8 +58,8 @@
     "www.data.bsee.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.047455815104166674",
-  "largest_contentful_paint": "1660",
+  "cumulative_layout_shift": "0.05307688802083334",
+  "largest_contentful_paint": "1121.0999999046326",
   "required_links_url": [
     "about",
     "fear",
@@ -99,7 +102,7 @@
   "sitemap_xml_url": "https://www.data.bsee.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": 26878,
+  "sitemap_xml_filesize": 27117,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
@@ -117,7 +120,6 @@
   "uswds_semantic_version": "v3.11.0",
   "uswds_version": 100,
   "uswds_count": 170,
-  "www_scan_status": "completed",
   "www_url": "https://www.data.bsee.gov",
   "www_status_code": 200,
   "www_title": "BSEE Data Center"

@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:40:30.783Z",
+  "scan_date": "2025-02-16T08:21:24.762Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -49,8 +52,8 @@
     "dashboard.ursula.identitysandbox.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.12888303076171875",
-  "largest_contentful_paint": "266.3999999985099",
+  "cumulative_layout_shift": "0.12901142635091145",
+  "largest_contentful_paint": "192.79999995231628",
   "required_links_url": [
     "fear",
     "foia",
@@ -126,7 +129,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 110,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:24:40.639Z",
+  "scan_date": "2025-02-16T11:47:58.738Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":11,\"link-purpose\":5}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"link-purpose\":5}",
   "ipv6": false,
   "hostname": null,
   "cms": "WordPress",
@@ -47,7 +50,7 @@
     "sp": "query",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-P1FPTH9PL4,G-CSLL4ZEK4L,UA-77373749-1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -88,12 +91,12 @@
     "https://s0.wp.com/wp-content/js/bilmur.min.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
-    "https://stats.wp.com/e-202506.js",
+    "https://stats.wp.com/e-202507.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
-    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
+    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.zbNBVWZ1T-s.O/am=AAg/d=1/exm=el_conf/ed=1/rs=AN8SPfrWA32OlelMufgC7-ko7d4AWUtUKw/m=el_main",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
+    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=gAE/d=0/rs=AN8SPfoGXBOIjDP5u9X-Fj08BKzEvbDeLg/m=el_main_css",
     "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
     "https://www.nlm.nih.gov/images/facebook_white.svg",
@@ -103,11 +106,12 @@
   "third_party_service_count": 15,
   "cookie_domains": [
     ".circulatingnow.nlm.nih.gov",
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.046750695556640624",
-  "largest_contentful_paint": "179.19999999552965",
+  "largest_contentful_paint": "211.79999995231628",
   "required_links_url": [
     "about",
     "privacy",
@@ -140,7 +144,7 @@
   "robots_txt_url": "https://circulatingnow.nlm.nih.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 184,
+  "robots_txt_filesize": 183,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [
     "https://circulatingnow.nlm.nih.gov/news-sitemap.xml",
@@ -165,7 +169,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://circulatingnow.nlm.nih.gov",
   "www_status_code": 200,
   "www_title": "Circulating Now from the NLM Historical Collections"

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:31:11.430Z",
+  "scan_date": "2025-02-15T16:07:30.551Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "NARA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-BE3ZTRWXKL,G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1,UA-56396821-1,UA-114045448-8,G-BJ7Q7XR6G9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -66,7 +69,6 @@
     "https://www.archives.gov/nara-banner/top-banner-na.css",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -78,7 +80,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.6339216145833333",
-  "largest_contentful_paint": "275.70000000298023",
+  "largest_contentful_paint": "307",
   "required_links_url": [
     "about",
     "foia",
@@ -107,10 +109,10 @@
   "language": "en",
   "language_link": "",
   "main_element_present": true,
-  "robots_txt_detected": true,
-  "robots_txt_url": "https://hoover.archives.gov/robots.txt",
+  "robots_txt_detected": false,
+  "robots_txt_url": "https://hoover.archives.gov/",
   "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/plain",
+  "robots_txt_media_type": "text/html",
   "robots_txt_filesize": 2027,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
@@ -118,7 +120,7 @@
   "sitemap_xml_url": "https://hoover.archives.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 72209,
+  "sitemap_xml_filesize": 72418,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -133,7 +135,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

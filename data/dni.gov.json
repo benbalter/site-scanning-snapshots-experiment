@@ -23,10 +23,12 @@
     "pulse",
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T03:59:23.045Z",
+  "scan_date": "2025-02-16T03:48:20.179Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,6 +37,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -48,10 +51,10 @@
     "agency": "DNI",
     "pua": "ua-33523145-2"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-24149679-1,G-EGQ58JRN5M",
   "third_party_service_domains": [
-    "17de4c11.akstat.io",
+    "17de4c10.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
@@ -59,7 +62,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c11.akstat.io/",
+    "https://17de4c10.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -74,8 +77,8 @@
     ".dni.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.09971835026041667",
-  "largest_contentful_paint": "453.5",
+  "cumulative_layout_shift": "0.18277173974609376",
+  "largest_contentful_paint": "434",
   "required_links_url": [
     "fear",
     "foia",
@@ -110,16 +113,18 @@
   "robots_txt_url": "https://www.dni.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 909,
+  "robots_txt_filesize": 950,
   "robots_txt_crawl_delay": null,
-  "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": false,
+  "robots_txt_sitemap_locations": [
+    "https://www.dni.gov/sitemap.xml"
+  ],
+  "sitemap_xml_detected": true,
   "sitemap_xml_url": "https://www.dni.gov/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": null,
-  "sitemap_xml_count": null,
-  "sitemap_xml_pdf_count": null,
+  "sitemap_xml_status_code": 200,
+  "sitemap_xml_media_type": "text/xml",
+  "sitemap_xml_filesize": 373303,
+  "sitemap_xml_count": 2516,
+  "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -132,7 +137,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.dni.gov",
   "www_status_code": 200,
   "www_title": "Home"

@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "uscourts"
+    "uscourts",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:26:11.335Z",
+  "scan_date": "2025-02-15T14:47:26.070Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":1,\"link-purpose\":3}",
   "ipv6": false,
   "hostname": null,
@@ -46,7 +48,7 @@
     "agency": "USCOURTS",
     "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-16114718-1,G-8R9BC2V5WL,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "alive5.com",
@@ -61,6 +63,7 @@
     "public.govdelivery.com",
     "search.usa.gov",
     "search.uscourts.gov",
+    "speedcdnjs.com",
     "www.browsealoud.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
@@ -78,7 +81,6 @@
     "https://api-v2.alive5.com/1.0/widget-code/get-by-widget-id",
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/chocolat/1.0.4/js/chocolat.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.2/socket.io.js",
     "https://code.jquery.com/jquery-3.7.0.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -93,6 +95,7 @@
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.uscourts.gov/assets/sayt_loader.js",
     "https://search.uscourts.gov/javascripts/remote.loader.js",
+    "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js",
     "https://www.browsealoud.com/modules/3.9.7/11.d8a85b43a32c051e694e.js",
     "https://www.browsealoud.com/modules/3.9.7/135.d8a85b43a32c051e694e.js",
     "https://www.browsealoud.com/modules/3.9.7/139.d8a85b43a32c051e694e.js",
@@ -108,12 +111,11 @@
     "https://www.browsealoud.com/version.json",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 16,
+  "third_party_service_count": 17,
   "cookie_domains": [
     ".cacb.uscourts.gov",
     ".uscourts.gov",
@@ -121,8 +123,8 @@
     "www.cacb.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.23724609375",
-  "largest_contentful_paint": "938.2999999523163",
+  "cumulative_layout_shift": "0.10164781249999999",
+  "largest_contentful_paint": "547",
   "required_links_url": [
     "about",
     "privacy",
@@ -160,7 +162,7 @@
   "sitemap_xml_url": "https://www.cacb.uscourts.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 1278594,
+  "sitemap_xml_filesize": 1280166,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -175,7 +177,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.cacb.uscourts.gov",
   "www_status_code": 200,
   "www_title": "Central District of California | United States Bankruptcy Court"

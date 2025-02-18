@@ -19,10 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "oira"
+    "oira",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:48:19.307Z",
+  "scan_date": "2025-02-16T03:10:38.529Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -46,10 +48,12 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cloud.gov"
+  ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "42.200000047683716",
+  "largest_contentful_paint": "33.299999952316284",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,
@@ -94,7 +98,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.fdic-wwwdev.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

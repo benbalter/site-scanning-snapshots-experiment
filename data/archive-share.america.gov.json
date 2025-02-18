@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:05:25.650Z",
+  "scan_date": "2025-02-16T01:04:26.264Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":8}",
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"contrast\":7}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -43,8 +46,8 @@
     "agency": "DOS",
     "siteplatform": "ShareAmerica"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-N6Y255Y5X2,UA-22995010-3",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-22995010-3,G-N6Y255Y5X2",
   "third_party_service_domains": [
     "app.enzuzo.com",
     "buttons-config.sharethis.com",
@@ -111,7 +114,7 @@
     "https://platform-cdn.sharethis.com/img/sharethis.svg",
     "https://platform-cdn.sharethis.com/img/twitter.svg",
     "https://platform.twitter.com/widgets.js",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.chartbeat.com/js/chartbeat_mab.js",
     "https://static.chartbeat.com/js/chartbeat_video.js",
     "https://static.hotjar.com/c/hotjar-149317.js",
@@ -132,7 +135,8 @@
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js"
+    "https://www.googletagmanager.com/td",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
   "third_party_service_count": 27,
   "cookie_domains": [
@@ -141,8 +145,8 @@
     "archive-share.america.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7873274791666668",
-  "largest_contentful_paint": "365.1000000014901",
+  "cumulative_layout_shift": "0.05328333333333333",
+  "largest_contentful_paint": "368.7000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -196,7 +200,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

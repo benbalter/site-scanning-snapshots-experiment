@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:11:37.491Z",
+  "scan_date": "2025-02-15T12:25:05.231Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +45,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-6X9R2YKRQJ,G-CSLL4ZEK4L,UA-122677529-1,UA-49393820-1,G-NJPHSR94TM",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -71,9 +74,9 @@
     "https://bjs.ojp.gov/themes/custom/ojp/ojp_patternlab/source/images/ojp/twitter.svg",
     "https://bjs.ojp.gov/themes/custom/ojp/ojp_patternlab/source/images/ojp/yt.svg",
     "https://bjs.ojp.gov/themes/custom/ojp/ojp_patternlab/source/images/uswds-alt/angle-arrow-up-black.svg",
-    "https://brain.foresee.com/state/ojp-main/1f9199dc-1269-4f48-8a60-cfb2ae19e83a",
+    "https://brain.foresee.com/state/ojp-main/9daf68b7-bf3f-4d85-87c4-24dee6c0c315",
     "https://charts.ojp.usdoj.gov/sidecar/scripts.js",
-    "https://charts.ojp.usdoj.gov/vizql/t/public/w/FJSP-Home/v/Home/bootstrapSession/sessions/D33A4DCA8E1D4230AB191D9E32AD0959-1:4",
+    "https://charts.ojp.usdoj.gov/vizql/t/public/w/FJSP-Home/v/Home/bootstrapSession/sessions/EAA60633861D464A8E331415697AF30C-1:3",
     "https://charts.ojp.usdoj.gov/vizql/t/public/w/FJSP-Home/v/Home/startSession/viewing",
     "https://charts.ojp.usdoj.gov/vizql/v_202422412131118/css/vqlweb.css",
     "https://charts.ojp.usdoj.gov/vizql/v_202422412131118/javascripts/PreBootstrap.min.js",
@@ -111,7 +114,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.8301237312825521",
-  "largest_contentful_paint": "731.6999999955297",
+  "largest_contentful_paint": "664.2999999523163",
   "required_links_url": [
     "about",
     "privacy",
@@ -186,7 +189,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 85,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

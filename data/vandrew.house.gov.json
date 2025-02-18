@@ -18,10 +18,12 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:32:53.698Z",
+  "scan_date": "2025-02-16T08:16:33.970Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -60,22 +63,22 @@
     "https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg",
     "https://abs-0.twimg.com/emoji/v2/svg/1f50a.svg",
     "https://abs-0.twimg.com/emoji/v2/svg/1f6a8.svg",
+    "https://abs-0.twimg.com/emoji/v2/svg/1f985.svg",
+    "https://abs-0.twimg.com/emoji/v2/svg/2b07.svg",
     "https://abs.twimg.com/sticky/animations/like.4.json",
     "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
     "https://connect.facebook.net/en_US/sdk.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://pbs.twimg.com/amplify_video_thumb/1880374579324968960/img/_RLHbD9YtlxUJgtL.jpg",
     "https://pbs.twimg.com/amplify_video_thumb/1882115931595284480/img/jGq3lCdL8pPPbEu1.jpg",
     "https://pbs.twimg.com/amplify_video_thumb/1882187720836939776/img/Voixk0ksGCKO-T8s.jpg",
     "https://pbs.twimg.com/amplify_video_thumb/1886849209741066240/img/P9cS4fLIjdu37ioP.jpg",
+    "https://pbs.twimg.com/amplify_video_thumb/1889742505505067008/img/ZQpUZuVDjm6Mi_G8.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1881856233205854208/pu/img/XpnGbR5x9BGxgvtV.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1882575033106661376/pu/img/qqxcq-jlocBAFxUa.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1884315530800115712/pu/img/cWSz3-roGSqH3No1.jpg",
     "https://pbs.twimg.com/media/Gh_J-D6W8AEOHIw",
-    "https://pbs.twimg.com/media/Ghv9t5kXsAAItWy",
-    "https://pbs.twimg.com/media/GhvrbcTWYAAxN01",
     "https://pbs.twimg.com/media/Gi38Kt-XwAA8Za7",
     "https://pbs.twimg.com/media/GiT8FJMXYAASw5e",
     "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_mini.jpg",
@@ -114,8 +117,8 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -125,7 +128,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00025265152994791666",
-  "largest_contentful_paint": "1129",
+  "largest_contentful_paint": "1164.5",
   "required_links_url": [
     "about",
     "privacy"
@@ -173,7 +176,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

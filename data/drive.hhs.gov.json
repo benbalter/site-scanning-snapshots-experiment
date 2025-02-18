@@ -16,24 +16,27 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Office of the Secretary",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:11:49.229Z",
+  "scan_date": "2025-02-15T16:25:21.298Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "dns_resolution_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"aria\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -60,7 +63,7 @@
     "paltopicdim": "dimension5|5",
     "cto": "24"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-36351725-9,G-XBYGPKV100,G-CSLL4ZEK4L,G-3YLR8EGLBW",
   "third_party_service_domains": [
     "analytics.google.com",
@@ -114,15 +117,15 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.w3schools.com/w3css/4/w3.css",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 17,
   "cookie_domains": [
     ".hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00628496875",
-  "largest_contentful_paint": "1615.8000001907349",
+  "cumulative_layout_shift": "0.00548621875",
+  "largest_contentful_paint": "1408",
   "required_links_url": [
     "about",
     "foia",
@@ -179,7 +182,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.drive.hhs.gov",
   "www_status_code": 200,
   "www_title": "Welcome to BARDA DRIVe"

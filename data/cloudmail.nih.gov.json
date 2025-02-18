@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=4d2a8354-72e6-c146-af7f-49397bec93b2&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638745134241437331.5c5ea7e5-c801-4d47-ae0d-854af5a82af4&state=Dcs7EoAwCABRouNxMCGAcB0mn9bS60vxttsCAGc6UmkZsIfdRImlCwkbM906dIUtxeGNUKYYxmoTXSW2hvfYUvK96vtF_QE",
+  "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=75403336-c4af-e8f1-2ae7-f654c5fa38c9&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638753036318266854.c8b258b4-a61b-48b5-92c0-796e78ff1716&state=Dcs7EoAgDADRoONxIoSQD8cBRlpLr2-Kt90mADjDEVKJgCm7CRdWJq-qLu1ePqv4bDiUJjafgr2ugtb1Md-bjDTFe-X3G_kH",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:23:49.744Z",
+  "scan_date": "2025-02-16T11:53:57.342Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "connection_reset",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "connection_reset",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -44,38 +46,30 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "login.live.com",
-    "r4.res.office365.com"
+    "login.live.com"
   ],
   "third_party_service_urls": [
     "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
-    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_v20ia-gahguvu2fgvxamhg2.js",
+    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_b6qmkv34zrtzwovprnovhw2.js",
     "https://aadcdn.msauth.net/shared/1.0/content/images/appbackgrounds/49-small_2055002f2daae2ed8f69f03944c0e5d9.jpg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/appbackgrounds/49_6ffe0a92d779c878835b40171ffc2e13.jpg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/applogos/53_7a3c80bf9694448bac31a9589d2e9e92.png",
     "https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_n7VKwtWYm2mBLcIKAZfQlw2.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_510f960da65b56e0607c.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_cc2c59f5ef2c09e14b08.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_-8cgqRzfEOPEpYl9MSuPRw2.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://login.live.com/Me.htm",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.12/resources/images/0/sprite1.mouse.css",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.12/resources/images/0/sprite1.mouse.png",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.12/resources/styles/0/boot.worldwide.mouse.css",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.12/scripts/boot.worldwide.0.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.12/scripts/boot.worldwide.1.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.12/scripts/boot.worldwide.2.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8422.12/scripts/boot.worldwide.3.mouse.js"
+    "https://login.live.com/Me.htm"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".login.microsoftonline.com",
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.07557884114583331",
-  "largest_contentful_paint": "607.7000000029802",
+  "largest_contentful_paint": "579.6999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -122,7 +116,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

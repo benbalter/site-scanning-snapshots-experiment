@@ -20,10 +20,13 @@
   "source_list": [
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T05:25:56.467Z",
+  "scan_date": "2025-02-15T18:33:23.258Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +35,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1,\"link-purpose\":5,\"lists\":5}",
+  "www_scan_status": "timeout",
+  "accessibility_violations": "{\"aria\":1,\"link-purpose\":8,\"lists\":5}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -62,7 +66,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.016156884765625",
-  "largest_contentful_paint": "730.6999999955297",
+  "largest_contentful_paint": "731.3999999761581",
   "required_links_url": [
     "about",
     "privacy"
@@ -112,7 +116,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "timeout",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

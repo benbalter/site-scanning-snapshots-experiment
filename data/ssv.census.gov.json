@@ -5,7 +5,7 @@
   "initial_base_domain": "census.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://respond.census.gov/ssv",
+  "url": "https://respond.census.gov/ssv/login",
   "domain": "respond.census.gov",
   "base_domain": "census.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:54:04.350Z",
+  "scan_date": "2025-02-15T02:19:29.642Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -30,36 +31,51 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\"",
+    "type=\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-7miW673U",
+  "ga_tag_id": "",
   "third_party_service_domains": [
+    "17de4c0d.akstat.io",
+    "52-222-122-97_s-23-32-75-29_ts-1739585959-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
+    "gtphuylimsuguz5p7gtq-pjrv17-f6739fb70-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "ssv.census.gov"
+    "ssv.census.gov",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net"
   ],
   "third_party_service_urls": [
+    "https://17de4c0d.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-29_ts-1739585959-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
+    "https://gtphuylimsuguz5p7gtq-pjrv17-f6739fb70-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/2RHWJ-MDWEM-2Q8VY-MNC3N-UGP9B",
-    "https://ssv.census.gov/favicon.ico"
+    "https://ssv.census.gov/favicon.ico",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".census.gov",
-    ".respond.census.gov"
+    ".respond.census.gov",
+    "respond.census.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0007959404296875",
-  "largest_contentful_paint": "474.3999999985099",
+  "cumulative_layout_shift": "0.0288345",
+  "largest_contentful_paint": "984.2999999523163",
   "required_links_url": [
     "about",
     "privacy"
@@ -69,7 +85,7 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Survey Closed For Maintenance",
+  "title": "Login | SSV",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -109,7 +125,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

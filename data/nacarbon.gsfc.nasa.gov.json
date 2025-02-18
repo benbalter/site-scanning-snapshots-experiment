@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:57:39.702Z",
+  "scan_date": "2025-02-15T18:11:33.690Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":29,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -43,6 +45,7 @@
   "dap_version": "",
   "ga_tag_id": "UA-15624782-1,G-QHS2QG0PVF",
   "third_party_service_domains": [
+    "cce-datasharing.gsfc.nasa.gov",
     "cce-signin.gsfc.nasa.gov",
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
@@ -52,6 +55,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cce-datasharing.gsfc.nasa.gov/programs/announcements/12/m/0/",
     "https://cce-signin.gsfc.nasa.gov/shared/assets/js/Util_Obj.js",
     "https://cdn.jsdelivr.net/leaflet.esri/1.0.0/esri-leaflet.js",
     "https://cdn.jsdelivr.net/leaflet/0.7.3/leaflet.js",
@@ -69,13 +73,13 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nacarbon.org"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0004249072265625",
-  "largest_contentful_paint": "1218",
+  "cumulative_layout_shift": "0.0004898832194010417",
+  "largest_contentful_paint": "840",
   "required_links_url": [
     "privacy"
   ],
@@ -125,7 +129,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

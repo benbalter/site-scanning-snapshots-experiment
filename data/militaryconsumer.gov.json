@@ -21,10 +21,12 @@
     "gov",
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T04:31:50.825Z",
+  "scan_date": "2025-02-16T10:24:33.593Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"images\":7,\"link-purpose\":6}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -46,8 +49,8 @@
     "agency": "FTC",
     "pua": "UA-99814877-4"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-B11ZPJRBRK,UA-99814877-4,G-CSLL4ZEK4L,G-7518E",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-7518E,G-B11ZPJRBRK,UA-99814877-4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -76,8 +79,8 @@
     ".militaryconsumer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.027258227783203123",
-  "largest_contentful_paint": "1919.9000000059605",
+  "cumulative_layout_shift": "0.02841227986653646",
+  "largest_contentful_paint": "1886.8000000715256",
   "required_links_url": [
     "about",
     "privacy"
@@ -113,7 +116,7 @@
   "sitemap_xml_url": "https://www.militaryconsumer.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 468981,
+  "sitemap_xml_filesize": 471451,
   "sitemap_xml_count": 0,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -128,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 22,
-  "www_scan_status": "completed",
   "www_url": "https://www.militaryconsumer.gov",
   "www_status_code": 200,
   "www_title": "Military Consumer |"

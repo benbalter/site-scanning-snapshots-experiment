@@ -22,18 +22,21 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:21:14.854Z",
+  "scan_date": "2025-02-16T06:42:42.063Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "connection_reset",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "http2_error",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "http2_error",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"link-purpose\":1,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -46,7 +49,7 @@
   "dap_parameters": {
     "agency": "DOE"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.aspnetcdn.com",
@@ -72,7 +75,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.07394394669596355",
-  "largest_contentful_paint": "269.3999999985099",
+  "largest_contentful_paint": "264.40000009536743",
   "required_links_url": [
     "usa.gov",
     "/es"
@@ -123,7 +126,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.fueleconomy.gov",
   "www_status_code": 200,
   "www_title": "Fuel Economy"

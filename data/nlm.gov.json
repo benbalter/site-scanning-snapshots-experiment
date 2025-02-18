@@ -20,10 +20,11 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:02:35.582Z",
+  "scan_date": "2025-02-15T11:09:16.789Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,7 +49,7 @@
     "sp": "query",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -85,7 +87,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/www.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/www.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
@@ -104,8 +106,8 @@
     ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.4456566634114583",
-  "largest_contentful_paint": "2091.10000000149",
+  "cumulative_layout_shift": "0.20598878906249998",
+  "largest_contentful_paint": "658",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -173,7 +175,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 151,
-  "www_scan_status": "completed",
   "www_url": "https://www.nlm.nih.gov",
   "www_status_code": 200,
   "www_title": "National Library of Medicine - National Institutes of Health"

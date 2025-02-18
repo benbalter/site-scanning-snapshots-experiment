@@ -18,10 +18,12 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:47:31.559Z",
+  "scan_date": "2025-02-15T18:28:56.295Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"lists\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -55,11 +58,10 @@
     "https://fonts.gstatic.com/s/librebaskerville/v14/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxMaC82U.woff2",
     "https://fonts.gstatic.com/s/librefranklin/v18/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2",
     "https://i.ytimg.com/vi/-u3-J-NV51M/0.jpg",
-    "https://i.ytimg.com/vi/3PYxpqViKtw/0.jpg",
-    "https://i.ytimg.com/vi/RRNdYFXQFTQ/0.jpg",
     "https://i.ytimg.com/vi/RWp37NlwFO8/0.jpg",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://i.ytimg.com/vi/SK2nNStx6UM/0.jpg",
+    "https://i.ytimg.com/vi/oM5ZIFCoXzk/0.jpg",
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -69,7 +71,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.9651506953125",
-  "largest_contentful_paint": "405.5",
+  "largest_contentful_paint": "286.10000002384186",
   "required_links_url": [
     "about",
     "privacy"
@@ -117,7 +119,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

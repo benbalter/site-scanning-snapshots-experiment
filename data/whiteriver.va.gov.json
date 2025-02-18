@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:41:01.923Z",
+  "scan_date": "2025-02-15T16:07:31.914Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -72,7 +74,7 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/icon-https.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2021-07/Burlington%20Lakeside%20VA%20Clinic.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2021-07/White%20River%20Junction%20VA%20Medical%20Center_0.jpg",
-    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-01/wayne6_0.png",
+    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-02/heart%20month_0.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2021-07/White%20River%20Junction%20VA%20Medical%20Center.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
     "https://www.googletagmanager.com/gtag/js",
@@ -80,11 +82,12 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".va.gov"
+    ".va.gov",
+    "www.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.023002645833333335",
-  "largest_contentful_paint": "505.5",
+  "cumulative_layout_shift": "0.049972854166666664",
+  "largest_contentful_paint": "309",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -149,7 +152,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 25,
-  "www_scan_status": "completed",
   "www_url": "https://www.va.gov/white-river-junction-health-care",
   "www_status_code": 200,
   "www_title": "VA White River Junction Health Care | Veterans Affairs"

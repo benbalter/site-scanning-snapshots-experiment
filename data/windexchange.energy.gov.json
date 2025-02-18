@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:13:10.242Z",
+  "scan_date": "2025-02-15T16:39:33.335Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":10,\"form-names\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -45,7 +48,7 @@
     "id": "G-CSLL4ZEK4L",
     "l": "tadaAnalyticsDataLayer",
     "cx": "c",
-    "gtm": "45He5240v890100053za200"
+    "gtm": "45He52d0v890100053za200"
   },
   "dap_version": "",
   "ga_tag_id": "UA-33523145-1,UA-24103967-1,UA-25109557-1,UA-5743150-1,G-8PZ4ZDWX73,G-VEJ5DJ7LND,G-GHLKJY785P,G-CSLL4ZEK4L,G-HSY7VPGCD6,G-K5VQRN9NT4",
@@ -71,7 +74,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0020/4864/site/windexchange.energy.gov.json",
     "https://script.crazyegg.com/pages/scripts/0020/4864.js",
     "https://widgets.nrel.gov/tada/analytics/analytics.js",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/l6ewn0yhyf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
@@ -84,8 +87,8 @@
     "windexchange.energy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.011806375406901042",
-  "largest_contentful_paint": "295.19999999552965",
+  "cumulative_layout_shift": "0.00797648291015625",
+  "largest_contentful_paint": "324.60000002384186",
   "required_links_url": [
     "about",
     "privacy"
@@ -133,7 +136,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

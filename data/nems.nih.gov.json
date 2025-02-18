@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:04:12.527Z",
+  "scan_date": "2025-02-15T10:48:17.233Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -73,8 +76,8 @@
     "nems.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.02746030729166667",
-  "largest_contentful_paint": "3136.0999999046326",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "2618",
   "required_links_url": [
     "about",
     "foia",
@@ -129,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://nems.nih.gov/Pages/default.aspx",
   "www_status_code": 200,
   "www_title": "NEMS Home"

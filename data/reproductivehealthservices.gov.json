@@ -19,10 +19,12 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T16:15:54.437Z",
+  "scan_date": "2025-02-15T18:04:14.121Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -58,16 +61,15 @@
     "https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png",
     "https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3.png",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
     ".reproductivehealthservices.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.014968489583333331",
-  "largest_contentful_paint": "425.70000000006985",
+  "cumulative_layout_shift": "0.013707194010416668",
+  "largest_contentful_paint": "506.09999990463257",
   "required_links_url": [
     "about",
     "fear",
@@ -126,7 +128,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.reproductivehealthservices.gov",
   "www_status_code": 200,
   "www_title": "Clinic Locator | HHS Office of Population Affairs"

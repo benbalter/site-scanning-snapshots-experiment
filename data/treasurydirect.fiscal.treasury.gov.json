@@ -5,7 +5,7 @@
   "initial_base_domain": "treasury.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://caia.treasury.gov/as/authorization.oauth2?response_type=code&client_id=5a7727ca-dce3-4904-9963-cf5b6ead815d&scope=address%20phone%20openid%20profile%20ial1%20email%20ial2&state=YKIGVjn_d1oB3gX2lMUqxuEr4JPeVjq5DSexMYQbcC4%3D&redirect_uri=https://treasurydirect.fiscal.treasury.gov/RS/login/oauth2/code/caia&code_challenge_method=S256&nonce=hh_cvGH2aGndHgBOwLRaJ9QuAZc0VtPVi_-oqqFJtQU&code_challenge=SuF0CeKxE-JF4HrnbYlZMEgfLednXzTaC0tCQIgrXD8",
+  "url": "https://caia.treasury.gov/as/authorization.oauth2?response_type=code&client_id=5a7727ca-dce3-4904-9963-cf5b6ead815d&scope=address%20phone%20openid%20profile%20ial1%20email%20ial2&state=mZc218gj7wh6LTlKDbdIPm0uU3AKkwE4-3A05SjjhVY%3D&redirect_uri=https://treasurydirect.fiscal.treasury.gov/RS/login/oauth2/code/caia&code_challenge_method=S256&nonce=p8onxo8M6aWxVb-f5oEfrDcxYrOWnDYXVA8DbDQrXIc&code_challenge=bq1oKLcXkmBgz692hegBPlUFIfcW4haCD7qhd7AULtk",
   "domain": "caia.treasury.gov",
   "base_domain": "treasury.gov",
   "top_level_domain": "gov",
@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:46:21.388Z",
+  "scan_date": "2025-02-15T14:13:42.775Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -50,8 +52,8 @@
     "caia.treasury.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.008365604166666665",
-  "largest_contentful_paint": "840.8000001907349",
+  "cumulative_layout_shift": "0.0054640104166666665",
+  "largest_contentful_paint": "784.1999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -87,8 +89,8 @@
   "sitemap_xml_url": "https://treasurydirect.fiscal.treasury.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 284910,
-  "sitemap_xml_count": 2286,
+  "sitemap_xml_filesize": 214875,
+  "sitemap_xml_count": 1857,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
@@ -111,7 +113,6 @@
   "uswds_semantic_version": "v2.4.0",
   "uswds_version": 100,
   "uswds_count": 165,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -22,10 +22,12 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "usagov"
+    "usagov",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T10:48:41.874Z",
+  "scan_date": "2025-02-15T11:29:51.642Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +36,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":5,\"lists\":38}",
+  "www_scan_status": "completed",
+  "accessibility_violations": "{\"contrast\":3,\"lists\":38}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -50,7 +53,7 @@
     "yt": "true",
     "exts": "aac,arc,arj,asf,asx,bin,flv,gif,gzip,hqx,jar,mp2,msp,phps,qt,qutm,mxd,ram,sea,sit,tar,torrent,tsv,wav,wpd,xml,z"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-93J4YEC73J,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6294131.global.r2.siteimproveanalytics.io",
@@ -95,9 +98,8 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -105,7 +107,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.20843532169596352",
-  "largest_contentful_paint": "375.09999999403954",
+  "largest_contentful_paint": "356",
   "required_links_url": [
     "about",
     "foia",
@@ -161,7 +163,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 10,
-  "www_scan_status": "completed",
   "www_url": "https://www.fisheries.noaa.gov",
   "www_status_code": 200,
   "www_title": "Welcome to NOAA | NOAA Fisheries"

@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:47:12.941Z",
+  "scan_date": "2025-02-15T16:00:05.461Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +48,7 @@
   "dap_parameters": {
     "agency": "VA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-1G19L53NYB",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -59,7 +62,6 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://resource.digital.voice.va.gov/wdcvoice/5/onsite/embed.js",
     "https://resource.digital.voice.va.gov/wdcvoice/5/onsite/generic1731941110981.js",
-    "https://resource.digital.voice.va.gov/wdcvoice/5/onsite/onsiteData1734636567776.json",
     "https://s3-us-gov-west-1.amazonaws.com/content.staging.va.gov/assets/content-build.css",
     "https://s3-us-gov-west-1.amazonaws.com/content.staging.va.gov/img/arrow-right-white.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.staging.va.gov/img/design/icons/favicon.ico",
@@ -82,12 +84,11 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".va.gov",
-    "staging.va.gov"
+    ".va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.022902604166666667",
-  "largest_contentful_paint": "206.40000000596046",
+  "cumulative_layout_shift": "0.049972854166666664",
+  "largest_contentful_paint": "145.20000004768372",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -151,7 +152,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 30,
-  "www_scan_status": "completed",
   "www_url": "https://staging.va.gov",
   "www_status_code": 200,
   "www_title": "VA.gov Home | Veterans Affairs"

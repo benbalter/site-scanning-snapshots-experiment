@@ -21,7 +21,7 @@
     "dap"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:04:55.733Z",
+  "scan_date": "2025-02-16T07:21:18.169Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2}",
   "ipv6": false,
   "hostname": null,
@@ -60,9 +61,9 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
-    "https://media.defense.gov/2025/Jan/22/2003631137/740/740/0/240930-A-EN187-1023.JPG",
-    "https://media.defense.gov/2025/Jan/22/2003631138/740/740/0/240930-A-EN187-5039.JPG",
-    "https://media.defense.gov/2025/Jan/22/2003631141/740/740/0/240912-A-A1902-1002.JPG",
+    "https://media.defense.gov/2025/Feb/13/2003646881/740/740/0/240912-A-A1902-1002.JPG",
+    "https://media.defense.gov/2025/Feb/13/2003646883/740/740/0/240930-A-EN187-1023.JPG",
+    "https://media.defense.gov/2025/Feb/13/2003646884/740/740/0/240930-A-EN187-5039.JPG",
     "https://media.defense.gov/2025/Jan/22/2003631246/1310/736/0/240930-A-EN187-1022.JPG",
     "https://media.defense.gov/2025/Jan/22/2003631249/1310/736/0/240930-A-EN187-5007.JPG",
     "https://media.defense.gov/2025/Jan/22/2003631256/1310/736/0/241001-A-EN187-6024.JPG",
@@ -73,17 +74,19 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
     ".health.mil",
-    ".wrairwest.health.mil"
+    ".wrairwest.health.mil",
+    "wrairwest.health.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.32648125",
-  "largest_contentful_paint": "428.90000009536743",
+  "cumulative_layout_shift": "1.0463589642740885",
+  "largest_contentful_paint": "260.1999999284744",
   "required_links_url": [
+    "about",
     "fear",
     "foia",
     "privacy",
@@ -137,7 +140,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

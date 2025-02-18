@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:46:08.342Z",
+  "scan_date": "2025-02-15T15:55:10.063Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -46,8 +49,8 @@
     "agency": "VA",
     "yt": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-a1d5uhs8WPkwWOW,G-zoIM",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-g1h5SZDrpNa3s1,G-k350hAeqw9MIxp5,G-xK4F1z3CEqz9zE7,G-WUHCFpUYt82jbBn,G-e2pdNyT0BZZ4WKh,G-dbdXvkNPcrR0,G-lZup5vUypv54rWI,G-sKpD2ibBKvrE90g",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -58,13 +61,13 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/90db955d48432f2b/1738849556272/S6GbDBqZd_MUWNF",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1763588304:1738847767:5J4eALPy0zt0tq1Xu_jmwetX8eA5CPNdE__SyvGegHc/90db955d48432f2b/OhSrGct.DpHzAJxmz_t81YRNNDwk.KgbeFsPDTjKwMA-1738849556-1.1.1.1-PImp4hAUIQQnuxypRUsFvHvPOrz8wa0fb08Fww3KiMrjuznCkcG.n6I6PfgpxC8f",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/90db955d48432f2b/1738849556272/18ccb734d31e1a6b48388320e23badb18f13fa753a2cbca436f7ba63dc99d358/RCINUpMMLZk0-ld",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/91267ac0f9a3fef3/1739634898290/SWpedImq5lN-KGr",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/115119054:1739633219:MNQYikWEEMZ7XSw6krw0iWw66eltCATvjfWb6s_9gXk/91267ac0f9a3fef3/RZka61he3FTPB794lay3LXw5h5r53pB07MdHfti2K8s-1739634898-1.1.1.1-sxeIH5n24gCauoE7dWzkJraJN9XyBRuTuQ90hP24uu2HNYMKmnNRQ0LbDEF.4RCd",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/91267ac0f9a3fef3/1739634898294/b70818da4c6650a7842790015777e2df0c7f8df896ce10626d3c08af7f07c677/AvE6PXkHSPAYs-e",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/g/8a57887573f2/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://department.va.gov/wp-content/plugins/va-corsair-basic/_media/img/seals/va-color-seal-black-text.png",
@@ -73,15 +76,15 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
     ".va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.022000549072265625",
-  "largest_contentful_paint": "422.5",
+  "cumulative_layout_shift": "0.6355779414876301",
+  "largest_contentful_paint": "442.09999990463257",
   "required_links_url": [
     "about",
     "fear",
@@ -147,7 +150,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 120,
-  "www_scan_status": "completed",
   "www_url": "https://discover.va.gov",
   "www_status_code": 200,
   "www_title": "DiscoverVA"

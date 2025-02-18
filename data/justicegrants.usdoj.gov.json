@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T13:04:23.626Z",
+  "scan_date": "2025-02-15T17:37:26.344Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":1}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-N4N49,G-VNHDFFFBW2,G-CSLL4ZEK4L,UA-122677529-1",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -70,7 +73,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/usdoj/ac4a7222-9529-42ec-aea8-c76edacf2398",
+    "https://brain.foresee.com/state/usdoj/ed74f8cd-7ea3-4699-84da-d0dbb6584839",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -108,12 +111,12 @@
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://yt3.ggpht.com/ytc/AIdro_ksqHFQjtnixc4UIk1JXA9TCbPpCXo2MwmNSX8LYHx_Zg=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 20,
@@ -121,8 +124,8 @@
     ".usdoj.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.003811328125",
-  "largest_contentful_paint": "254",
+  "cumulative_layout_shift": "0",
+  "largest_contentful_paint": "235.29999995231628",
   "required_links_url": [
     "about",
     "foia",
@@ -197,7 +200,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 90,
-  "www_scan_status": "completed",
   "www_url": "https://justicegrants.usdoj.gov",
   "www_status_code": 200,
   "www_title": "JustGrants Resources | U.S. Department of Justice"

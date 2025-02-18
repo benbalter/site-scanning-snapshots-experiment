@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-07T01:59:33.363Z",
+  "scan_date": "2025-02-16T03:09:25.984Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -44,12 +47,13 @@
     "agency": "DOC",
     "subagency": "CPO"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-69P3KT57C3,G-287344532,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -58,17 +62,18 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6hPvhPQ.woff2",
     "https://fonts.gstatic.com/s/sourcesans3/v15/nwpStKy2OAdR1K-IwhWudF-R3w8aZejf5Hc.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".climate.gov",
     ".content-drupal.climate.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.17794861645507812",
-  "largest_contentful_paint": "536.6000000014901",
+  "cumulative_layout_shift": "0.05864125984700521",
+  "largest_contentful_paint": "418.5",
   "required_links_url": [
     "about",
     "fear",
@@ -93,8 +98,8 @@
   "og_article_modified": null,
   "og_image": "https://www.climate.gov/modules/weblyzard/wl_search_cgov/img/logo.png",
   "og_type": "website",
-  "og_url": "http://content-drupal.climate.gov/",
-  "canonical_link": "http://content-drupal.climate.gov/",
+  "og_url": "https://content-drupal.climate.gov/",
+  "canonical_link": "https://content-drupal.climate.gov/",
   "language": "en",
   "language_link": "",
   "main_element_present": true,
@@ -102,7 +107,7 @@
   "robots_txt_url": "https://content-drupal.climate.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 2958,
+  "robots_txt_filesize": 3056,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,
@@ -156,7 +161,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 70,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

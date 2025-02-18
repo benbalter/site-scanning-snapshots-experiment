@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:32:08.901Z",
+  "scan_date": "2025-02-16T02:09:49.836Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":4,\"link-purpose\":3}",
   "ipv6": false,
   "hostname": null,
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "DOT"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-NQ5ZN114SB,G-TS9639848Y,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "code.jquery.com",
@@ -67,13 +70,8 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/PopOverModule.js",
     "https://unpkg.com/slide-element@2.3.1/dist/index.umd.js",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-brands-400.woff2",
@@ -109,7 +107,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0034473197021484374",
-  "largest_contentful_paint": "1270.300000000745",
+  "largest_contentful_paint": "1187.8999999761581",
   "required_links_url": [
     "about",
     "fear",
@@ -184,7 +182,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "completed",
   "www_url": "https://www.transtats.bts.gov",
   "www_status_code": 200,
   "www_title": "OST_R | BTS | Transtats Homepage"

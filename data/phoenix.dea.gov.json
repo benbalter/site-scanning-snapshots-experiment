@@ -18,18 +18,20 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:33:14.615Z",
+  "scan_date": "2025-02-16T03:42:48.041Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -42,9 +44,9 @@
   "dap_parameters": {
     "agency": "DOJ",
     "subagency": "DEA",
-    "pua": "0"
+    "yt": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-XDHPV7H9QR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6018802.global.siteimproveanalytics.io",
@@ -61,7 +63,6 @@
     "container.orionplatform.com",
     "contextual.media.net",
     "ct.pinterest.com",
-    "d.turn.com",
     "dap.digitalgov.gov",
     "dpm.demdex.net",
     "dsum-sec.casalemedia.com",
@@ -92,6 +93,7 @@
     "www.google.com",
     "www.googleadservices.com",
     "www.googletagmanager.com",
+    "www.youtube.com",
     "x.bidswitch.net"
   ],
   "third_party_service_urls": [
@@ -99,7 +101,7 @@
     "https://a.rfihub.com/cm",
     "https://aa.agkn.com/adscores/g.pixel",
     "https://acdn.adnxs.com/dmp/up/pixie.js",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CPq3-unCsIsDFdOpjggdVfsbhQ;src=14431394;type=invmedia;cat=takeb0;ord=5141911056622.759",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CPzDsZSjx4sDFeW_jggdWT8uGw;src=14431394;type=invmedia;cat=takeb0;ord=7863226722571.588",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Offc%20Pro%20Bold",
     "Arial%20Unicode%20MS%20Bold/0-255.pbf",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Offc%20Pro%20Italic",
@@ -137,10 +139,9 @@
     "https://ct.pinterest.com/static/ct/token_create.js",
     "https://ct.pinterest.com/user/",
     "https://ct.pinterest.com/v3/",
-    "https://d.turn.com/r/dd/id/L21rdC8xOTcxL2NpZC8xNzQ5ODczMjc1L3QvMg/url/https://i.liadm.com/s/53233",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dpm.demdex.net/demconf.jpg",
-    "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=1813050740647477785&redir=",
+    "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=2810035107577973671&redir=",
     "https://dsum-sec.casalemedia.com/rum",
     "https://events.mapbox.com/events/v2",
     "https://fonts.googleapis.com/css2",
@@ -149,7 +150,6 @@
     "https://fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ7QwOk1.woff2",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10991214798/",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16520138786/",
-    "https://i.liadm.com/s/53233",
     "https://i.liadm.com/s/56409",
     "https://i.liadm.com/s/90096",
     "https://ib.adnxs.com/pixie",
@@ -188,6 +188,8 @@
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://x.bidswitch.net/sync"
   ],
   "third_party_service_count": 46,
@@ -195,8 +197,8 @@
     ".dea.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "450",
+  "cumulative_layout_shift": "0.2853875",
+  "largest_contentful_paint": "431.59999990463257",
   "required_links_url": [
     "about",
     "foia",
@@ -259,7 +261,6 @@
   "uswds_semantic_version": "v3.9.0",
   "uswds_version": 100,
   "uswds_count": 203,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

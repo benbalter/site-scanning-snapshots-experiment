@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T07:23:56.235Z",
+  "scan_date": "2025-02-16T11:56:45.620Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":4,\"contrast\":1,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
@@ -44,7 +47,7 @@
     "subagency": "GSFC",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GF01QXRMZ4,G-M3PE7MJ3XR,G-CSLL4ZEK4L,UA-62340125-3",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
@@ -81,6 +84,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -91,8 +95,8 @@
     "status.uat.earthdata.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05918974324544271",
-  "largest_contentful_paint": "400.30000000447035",
+  "cumulative_layout_shift": "0.059132628662109374",
+  "largest_contentful_paint": "413.8000000715256",
   "required_links_url": [
     "about",
     "foia",
@@ -147,7 +151,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

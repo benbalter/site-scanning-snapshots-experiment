@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:43:14.518Z",
+  "scan_date": "2025-02-16T01:50:53.337Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":6,\"link-purpose\":15}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,7 +50,7 @@
   "dap_parameters": {
     "agency": "NARA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-2906,G-450x450,G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1,UA-19713578-4,UA-193034320-5,G-P1JBWQT9NJ,G-Z28RY31L3J",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -73,7 +76,7 @@
     "https://forms.hsforms.com/embed/v3/form/20973928/7d40b67b-43fd-412b-b355-6ca594e47edc/json",
     "https://js.hsforms.net/forms/embed/v2.js",
     "https://pixel.wp.com/g.gif",
-    "https://stats.wp.com/e-202506.js",
+    "https://stats.wp.com/e-202507.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -86,8 +89,8 @@
     "jfk.blogs.archives.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.43774809765625",
-  "largest_contentful_paint": "313.60000014305115",
+  "cumulative_layout_shift": "0.43935322167968743",
+  "largest_contentful_paint": "518.4000000953674",
   "required_links_url": [
     "about",
     "privacy"
@@ -139,7 +142,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

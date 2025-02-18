@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T07:51:39.336Z",
+  "scan_date": "2025-02-16T11:24:48.503Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"frames-iframes\":1,\"language\":1,\"form-names\":2}",
   "ipv6": true,
   "hostname": null,
@@ -47,15 +50,16 @@
     "dclink": "true",
     "cto": "1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "1.www.s81c.com",
     "crt-event-ingest.services.video.ibm.com",
     "dap.digitalgov.gov",
-    "r8847134-1-13125391-channel-wss-omega.ums.services.video.ibm.com",
+    "r35547924-1-13125391-channel-wss-omega.ums.services.video.ibm.com",
     "ustreamssl-a.akamaihd.net",
     "ustvstaticcdn1-a.akamaihd.net",
+    "ustvstaticcdn2-a.akamaihd.net",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -68,25 +72,25 @@
     "https://crt-event-ingest.services.video.ibm.com/time",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://r8847134-1-13125391-channel-wss-omega.ums.services.video.ibm.com/connectioncheck",
+    "https://r35547924-1-13125391-channel-wss-omega.ums.services.video.ibm.com/connectioncheck",
     "https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary-2/css/embed.css",
     "https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary-2/css/ui.css",
     "https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary-2/js/ustream-player.atlas-hlsjs.min.js",
     "https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary-2/js/ustream-player.atlas.min.js",
     "https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary-2/js/ustream-player.min.js",
     "https://ustvstaticcdn1-a.akamaihd.net/js/fake-define.js",
-    "https://ustvstaticcdn1-a.akamaihd.net/packed/ibm_fonts:17376395501.css",
-    "https://ustvstaticcdn1-a.akamaihd.net/packed/webpack/player_embed:17385764511.js",
+    "https://ustvstaticcdn2-a.akamaihd.net/packed/ibm_fonts:17387486251.css",
+    "https://ustvstaticcdn2-a.akamaihd.net/packed/webpack/player_embed:17387663981.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nasa.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "350",
+  "cumulative_layout_shift": "0.07280651578776043",
+  "largest_contentful_paint": "289.7999999523163",
   "required_links_url": [
     "about",
     "privacy"
@@ -137,7 +141,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

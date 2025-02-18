@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T13:26:28.141Z",
+  "scan_date": "2025-02-16T07:16:53.172Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":2,\"frames-iframes\":1,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
@@ -43,7 +45,7 @@
     "agency": "DOD",
     "subagency": "MRMC-USAMMDA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YT82FJTERG",
   "third_party_service_domains": [
     "d1ldvf68ux039x.cloudfront.net",
@@ -94,7 +96,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0504995361328125",
-  "largest_contentful_paint": "414.7999999523163",
+  "largest_contentful_paint": "431.3000000715256",
   "required_links_url": [
     "about",
     "foia",
@@ -147,7 +149,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

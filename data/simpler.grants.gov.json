@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T02:13:01.830Z",
+  "scan_date": "2025-02-16T07:02:20.469Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":3}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -57,7 +60,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.001008966796875",
-  "largest_contentful_paint": "448.70000000298023",
+  "largest_contentful_paint": "411.7000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -100,8 +103,8 @@
   "sitemap_xml_url": "https://simpler.grants.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 2323,
-  "sitemap_xml_count": 14,
+  "sitemap_xml_filesize": 2494,
+  "sitemap_xml_count": 15,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
@@ -136,7 +139,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 130,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

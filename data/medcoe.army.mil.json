@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "mil-sites2"
+    "mil-sites2",
+    "dod_public",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T14:08:18.164Z",
+  "scan_date": "2025-02-16T01:51:19.053Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"aria\":20,\"images\":1,\"link-purpose\":6,\"lists\":10}",
   "ipv6": true,
   "hostname": null,
@@ -63,6 +66,7 @@
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect"
   ],
   "third_party_service_count": 3,
@@ -71,7 +75,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0019196385498046874",
-  "largest_contentful_paint": "389.7999999523163",
+  "largest_contentful_paint": "376.2000000476837",
   "required_links_url": [
     "about",
     "fear",
@@ -150,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 3599,
-  "www_scan_status": "completed",
   "www_url": "https://www.medcoe.army.mil",
   "www_status_code": 403,
   "www_title": "Web App - Unavailable"

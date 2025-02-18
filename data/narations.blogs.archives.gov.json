@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:13:49.257Z",
+  "scan_date": "2025-02-16T01:48:47.916Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":124,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -44,7 +47,7 @@
   "dap_parameters": {
     "agency": "NARA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1,UA-19713578-4,UA-193034320-6,G-001550,G-P1JBWQT9NJ,G-JRESC4E16C",
   "third_party_service_domains": [
     "c0.wp.com",
@@ -53,7 +56,6 @@
     "fonts.gstatic.com",
     "forms-na1.hsforms.com",
     "forms.hsforms.com",
-    "forms.hubspot.com",
     "i0.wp.com",
     "js.hsforms.net",
     "pixel.wp.com",
@@ -81,13 +83,12 @@
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://forms-na1.hsforms.com/embed/v3/counters.gif",
     "https://forms.hsforms.com/embed/v3/form/20973928/d6b80636-6739-4855-a4bf-3b4fb1de2f5c/json",
-    "https://forms.hubspot.com/submissions-validation/v1/validate/20973928/d6b80636-6739-4855-a4bf-3b4fb1de2f5c",
     "https://i0.wp.com/narations.blogs.archives.gov/wp-content/uploads/sites/13/2018/05/black-new-2-e1526579659403.jpg",
     "https://i0.wp.com/narations.blogs.archives.gov/wp-content/uploads/sites/13/2020/08/PL-Explorer-home-1.png",
     "https://i0.wp.com/narations.blogs.archives.gov/wp-content/uploads/sites/13/2022/02/026-G-001550_43-0234M-scaled.jpg",
     "https://js.hsforms.net/forms/embed/v2.js",
     "https://pixel.wp.com/g.gif",
-    "https://stats.wp.com/e-202506.js",
+    "https://stats.wp.com/e-202507.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/enterprise.js",
@@ -95,18 +96,18 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".archives.gov",
     ".narations.blogs.archives.gov",
     "narations.blogs.archives.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "539.6999999955297",
+  "cumulative_layout_shift": "0.0782",
+  "largest_contentful_paint": "441.2000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -159,7 +160,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:09:34.181Z",
+  "scan_date": "2025-02-15T10:32:25.810Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "azurewebsites.net",
@@ -42,7 +44,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-SJHP2RNM8K,G-CSLL4ZEK4L,UA-122677529-2",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -51,8 +53,6 @@
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "gateway.foresee.com",
     "www.google-analytics.com",
     "www.google.com",
@@ -60,32 +60,24 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/5bb466a1-1490-4c0a-a636-7670ea760980",
+    "https://brain.foresee.com/state/ojp-main/cde74df9-a220-43c5-8b57-961d233e333a",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.feedback.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/fs.invite.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.survey.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.utils.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/badge___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/epilogue___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/main.css",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
-    "https://gateway.foresee.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/code/6.1.2-mp/mpathy-modern.js",
     "https://gateway.foresee.com/sites/ojp-main/production/gateway.min.js",
-    "https://gateway.foresee.com/sites/ojp-main/production/trigger/bja_logo.png",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
@@ -94,13 +86,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "216.39999999850988",
+  "largest_contentful_paint": "240.60000002384186",
   "required_links_url": [
     "about",
     "foia",
@@ -174,7 +166,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 92,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

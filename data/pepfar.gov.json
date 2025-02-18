@@ -20,10 +20,11 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:46:00.562Z",
+  "scan_date": "2025-02-15T15:20:26.340Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -44,7 +46,7 @@
   "dap_parameters": {
     "agency": "DOS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-N47R32EN4M,UA-107671946-1",
   "third_party_service_domains": [
     "6290244.global.r2.siteimproveanalytics.io",
@@ -74,7 +76,7 @@
     "https://app.enzuzo.com/api/public/v1/analytics/a52a2f8e-b60d-11ee-8234-135916cab208",
     "https://app.enzuzo.com/scripts/cookiebar/a52a2f8e-b60d-11ee-8234-135916cab208",
     "https://cdn-3.convertexperiments.com/js/10014524-10016139.js",
-    "https://code.jquery.com/jquery-3.3.1.min.js",
+    "https://code.jquery.com/jquery-3.7.1.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://findit.state.gov/assets/sayt_loader.js",
     "https://findit.state.gov/javascripts/remote.loader.js",
@@ -89,7 +91,7 @@
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/809407049/",
     "https://players.brightcove.net/videojs-pip/1/videojs-pip.css",
     "https://s.w.org/images/core/emoji/15.0.3/svg/2b50.svg",
-    "https://script.hotjar.com/modules.bcf765a6884e76e4baf2.js",
+    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6290244.js",
@@ -114,7 +116,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.024679682617187504",
-  "largest_contentful_paint": "291.79999999701977",
+  "largest_contentful_paint": "250.20000004768372",
   "required_links_url": [
     "about",
     "fear",
@@ -174,7 +176,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "completed",
   "www_url": "https://www.state.gov/pepfar",
   "www_status_code": 200,
   "www_title": "The United States President's Emergency Plan for AIDS Relief - United States Department of State %"

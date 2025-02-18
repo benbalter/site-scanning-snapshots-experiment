@@ -23,10 +23,12 @@
     "pulse",
     "2020_eot",
     "usagov",
-    "gov_man"
+    "gov_man",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T08:08:11.314Z",
+  "scan_date": "2025-02-15T10:23:13.254Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,6 +37,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":7,\"link-purpose\":4,\"lists\":1}",
   "ipv6": false,
   "hostname": null,
@@ -48,7 +51,7 @@
     "agency": "NCPC",
     "pua": "ua-33523145-2"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-11009435-1,G-HXNJREZFNR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api.ncpc.gov",
@@ -119,14 +122,13 @@
     "https://platform-api.sharethis.com/js/sharethis.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
-    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
+    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.zbNBVWZ1T-s.O/am=AAg/d=1/exm=el_conf/ed=1/rs=AN8SPfrWA32OlelMufgC7-ko7d4AWUtUKw/m=el_main",
     "https://translate.googleapis.com/translate_static/img/te_ctrl3.gif",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/images/cleardot.gif",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
-    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
+    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=gAE/d=0/rs=AN8SPfoGXBOIjDP5u9X-Fj08BKzEvbDeLg/m=el_main_css",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
   ],
   "third_party_service_count": 14,
@@ -135,7 +137,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.000016454915364583335",
-  "largest_contentful_paint": "588.5",
+  "largest_contentful_paint": "494",
   "required_links_url": [
     "about",
     "fear",
@@ -192,7 +194,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_scan_status": "completed",
   "www_url": "https://www.ncpc.gov",
   "www_status_code": 200,
   "www_title": "National Capital Planning Commission"

@@ -1,5 +1,5 @@
 {
-  "name": "ams.usda.gov",
+  "name": null,
   "initial_url": "https://ams.usda.gov",
   "initial_domain": "ams.usda.gov",
   "initial_base_domain": "usda.gov",
@@ -24,10 +24,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T12:47:18.549Z",
+  "scan_date": "2025-02-16T01:58:28.114Z",
   "primary_scan_status": "timeout",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
@@ -36,6 +38,7 @@
   "robots_txt_scan_status": "timeout",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -46,7 +49,7 @@
   "search_dot_gov": null,
   "dap": null,
   "dap_parameters": null,
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-4FZL5M3EFM,UA-29731601-5,G-CSLL4ZEK4L,UA-29731601-1,G-19QW1RVJWP",
   "third_party_service_domains": null,
   "third_party_service_urls": null,
@@ -102,7 +105,6 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_scan_status": "completed",
   "www_url": "https://www.ams.usda.gov",
   "www_status_code": 200,
   "www_title": "Home | Agricultural Marketing Service"

@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:17:57.788Z",
+  "scan_date": "2025-02-15T12:32:29.437Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -43,7 +45,7 @@
   "dap_parameters": {
     "agency": "OPM"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-1QQK83MZ36,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.aspnetcdn.com",
@@ -62,6 +64,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAXWGQyH.woff2",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -71,7 +74,7 @@
   ],
   "viewport_meta_tag": false,
   "cumulative_layout_shift": "0.0003574010416666667",
-  "largest_contentful_paint": "1090",
+  "largest_contentful_paint": "532.8000000715256",
   "required_links_url": [
     "about",
     "fear",
@@ -128,7 +131,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

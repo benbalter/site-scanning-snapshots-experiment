@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T02:51:10.828Z",
+  "scan_date": "2025-02-16T05:23:15.451Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -67,7 +69,7 @@
     "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
@@ -81,7 +83,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.00019264900716145833",
-  "largest_contentful_paint": "3154.6999999955297",
+  "largest_contentful_paint": "1518.7000000476837",
   "required_links_url": [
     "about",
     "inspector",
@@ -156,7 +158,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 121,
-  "www_scan_status": "completed",
   "www_url": "https://www.energy.gov/eere/solar/solar-energy-technologies-office",
   "www_status_code": 200,
   "www_title": "Solar Energy Technologies Office | Department of Energy"

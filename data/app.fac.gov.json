@@ -19,10 +19,12 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T03:42:20.048Z",
+  "scan_date": "2025-02-15T16:34:28.425Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloud.gov",
@@ -46,7 +49,7 @@
     "agency": "GSA",
     "subagency": "TTS,OROS"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cg-8e72011f-f010-4ab4-a1d6-7d3694f8fa78.s3-us-gov-west-1.amazonaws.com",
@@ -70,7 +73,8 @@
     "https://cg-8e72011f-f010-4ab4-a1d6-7d3694f8fa78.s3-us-gov-west-1.amazonaws.com/static/img/us_flag_small.37e6dc833aca.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -78,7 +82,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.26172169270833334",
-  "largest_contentful_paint": "317.3999999985099",
+  "largest_contentful_paint": "246",
   "required_links_url": [
     "about",
     "fear",
@@ -166,7 +170,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 125,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

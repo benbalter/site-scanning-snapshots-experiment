@@ -19,19 +19,21 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T04:33:40.143Z",
+  "scan_date": "2025-02-16T10:28:05.679Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":7}",
+  "www_scan_status": "completed",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -46,7 +48,7 @@
     "sp": "query",
     "enhlink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4,G-CSLL4ZEK4L,UA-77373749-1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
@@ -77,8 +79,8 @@
     "meshb.nlm.nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.05280808943684896",
-  "largest_contentful_paint": "322.19999999552965",
+  "cumulative_layout_shift": "0.002272412353515625",
+  "largest_contentful_paint": "1491.6000000238419",
   "required_links_url": [
     "usa.gov"
   ],
@@ -130,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://meshb.nlm.nih.gov",
   "www_status_code": 200,
   "www_title": "MeSH Browser"

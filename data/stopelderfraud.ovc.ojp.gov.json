@@ -21,7 +21,7 @@
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-07T10:16:05.352Z",
+  "scan_date": "2025-02-15T12:25:54.014Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,7 +43,7 @@
   "dap_parameters": {
     "agency": "OJP"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-WDHSCQF0QT,G-CSLL4ZEK4L,UA-122677529-1,UA-37581200-1,UA-37581200-4,G-YR3CF5H58V,G-SW5R7VGPKR",
   "third_party_service_domains": [
     "analytics.foresee.com",
@@ -58,7 +59,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/ca97b9bc-2b56-44f3-8593-7ad8f4dae6bc",
+    "https://brain.foresee.com/state/ojp-main/ba671116-ddfd-4f6d-8645-c9053a1ea15e",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -66,7 +67,9 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.feedback.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.mouseoff.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.survey.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.utils.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/badge___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/epilogue___html.js",
@@ -90,7 +93,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.038011718750000006",
-  "largest_contentful_paint": "533.7999999970198",
+  "largest_contentful_paint": "498.5",
   "required_links_url": [
     "about",
     "fear",
@@ -173,7 +176,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 91,
-  "www_scan_status": "completed",
   "www_url": "https://ovc.ojp.gov/program/stop-elder-fraud/providing-help-restoring-hope",
   "www_status_code": 200,
   "www_title": "National Elder Fraud Hotline | Office for Victims of Crime"

@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:56:31.600Z",
+  "scan_date": "2025-02-15T12:38:08.476Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -52,8 +55,8 @@
     "indexcat.nlm.nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.00013412109375000002",
-  "largest_contentful_paint": "845.3999998569489",
+  "cumulative_layout_shift": "0.03548024678548177",
+  "largest_contentful_paint": "1362",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -98,7 +101,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.indexcat.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=indexcat&v:sources=indexcat&sortby=ID",
   "www_status_code": 429,
   "www_title": "NLM HTTP throttler alert"

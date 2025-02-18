@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "senate_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:16:36.430Z",
+  "scan_date": "2025-02-15T13:39:21.485Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":7}",
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
@@ -47,6 +51,7 @@
     "code.jquery.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "i.ytimg.com",
     "s.webtrends.com",
     "senatesenatorpublicglobalprod.112.2o7.net",
     "ssl.google-analytics.com",
@@ -62,24 +67,25 @@
     "https://code.jquery.com/jquery-migrate-3.5.2.min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://i.ytimg.com/vi/KoHclcynkNI/hqdefault.jpg",
     "https://s.webtrends.com/js/advancedLinkTracking.js",
     "https://s.webtrends.com/js/webtrends.min.js",
-    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s55477805819680",
+    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s61922438444172",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
     "https://static.elfsight.com/platform/platform.js",
     "https://statse.webtrendslive.com/dcs222qi03xxgs0ypi12ca5l7_4y6o/wtid.js",
     "https://www.senate.gov/wt_sdc/webtrends.getcg.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".lgraham.senate.gov",
     ".senate.gov",
     "www.lgraham.senate.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01552734375",
-  "largest_contentful_paint": "740.1000000000931",
+  "cumulative_layout_shift": "0.000230712890625",
+  "largest_contentful_paint": "565.7000000476837",
   "required_links_url": [
     "about"
   ],
@@ -126,7 +132,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.lgraham.senate.gov/public",
   "www_status_code": 200,
   "www_title": "United States Senator Lindsey Graham"

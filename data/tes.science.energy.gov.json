@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T03:00:23.188Z",
+  "scan_date": "2025-02-16T05:07:46.020Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -43,7 +45,7 @@
   "dap_parameters": {
     "agency": "AGENCY"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6024880.global.siteimproveanalytics.io",
@@ -80,16 +82,16 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/PcIQSvk4Y5ANjYUx0f4froA1/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
     ".energy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.034595704142252603",
-  "largest_contentful_paint": "463.5",
+  "cumulative_layout_shift": "0.0340117588297526",
+  "largest_contentful_paint": "486",
   "required_links_url": [
     "/es"
   ],
@@ -102,7 +104,7 @@
   "og_title": "Home - Environmental System Science Program",
   "og_description": "                                 ",
   "og_article_published": null,
-  "og_article_modified": "2024-12-12T17:06:15.000Z",
+  "og_article_modified": "2025-02-07T18:58:34.000Z",
   "og_image": "https://ess.science.energy.gov/wp-content/uploads/2020/09/ESS-logo-blue.jpg",
   "og_type": "website",
   "og_url": "https://ess.science.energy.gov/",
@@ -136,7 +138,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

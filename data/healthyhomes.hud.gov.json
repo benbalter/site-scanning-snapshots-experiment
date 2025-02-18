@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:56:58.506Z",
+  "scan_date": "2025-02-16T08:27:16.358Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -43,9 +45,7 @@
   "dap_version": "20240925 v8.3 - GA4",
   "ga_tag_id": "G-490M4LMYM8,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "api.govdelivery.com",
     "cdn.gtranslate.net",
-    "content.govdelivery.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "public.govdelivery.com",
@@ -53,15 +53,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://api.govdelivery.com/api/v2/public/accounts/17624/signups/39259/impressions",
-    "https://api.govdelivery.com/api/v2/public/featured_contents/60798",
-    "https://api.govdelivery.com/api/v2/public/questions/113649",
-    "https://api.govdelivery.com/api/v2/public/questions/113650",
-    "https://api.govdelivery.com/api/v2/public/questions/25196",
     "https://cdn.gtranslate.net/flags/svg/en-us.svg",
     "https://cdn.gtranslate.net/widgets/latest/float.js",
-    "https://content.govdelivery.com/assets/SignupForm-9d015bfaa7fff2c35ad4d54767c04e057cd1066e8e3c67ecbb46064b5f78a03a.js",
-    "https://content.govdelivery.com/assets/signup_form-f6371d2d2a16ca90c52c6f09308a1e9df1e8f064a71cefd805f8443e8f6341b0.css",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/ibmplexserif/v19/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q1vjitOh.woff2",
     "https://fonts.gstatic.com/s/ibmplexserif/v19/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q1vjitOh.woff2",
@@ -72,20 +65,19 @@
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
     "https://public.govdelivery.com/accounts/USHUDHH/signup/39259/form",
-    "https://public.govdelivery.com/assets/Signup.js",
     "https://public.govdelivery.com/assets/SignupOverlay.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/24978/onsite/embed.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/24978/onsite/generic1738596269110.js",
+    "https://resources.digital-cloud-gov.medallia.com/wdcgov/24978/onsite/generic1739302449969.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".hud.gov",
     "www.hud.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01717571875",
-  "largest_contentful_paint": "947.3999999999069",
+  "cumulative_layout_shift": "0.01867084375",
+  "largest_contentful_paint": "751.6000000238419",
   "required_links_url": [
     "about",
     "fear",
@@ -107,7 +99,7 @@
   "https_enforced": true,
   "hsts": true,
   "title": "Office of Lead Hazard Control and Healthy Homes | HUD.gov / U.S. Department of Housing and Urban Development (HUD)",
-  "description": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-490M4LMYM8'); Office of Lead Hazard Control and Healthy Homes",
+  "description": "font-family:verdana,geneva,sans-serif; || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-490M4LMYM8');",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -148,7 +140,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

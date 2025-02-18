@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T11:04:39.258Z",
+  "scan_date": "2025-02-16T07:01:22.779Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +47,7 @@
     "enhlink": "true",
     "yt": "false"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-HBYXWFP794",
   "third_party_service_domains": [
     "cdn.evgnet.com",
@@ -90,12 +92,11 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.046677235839843755",
-  "largest_contentful_paint": "261.5",
+  "largest_contentful_paint": "264.7000000476837",
   "required_links_url": [
     "about",
     "fear",
     "foia",
-    "inspector",
     "usa.gov"
   ],
   "required_links_text": [
@@ -168,13 +169,12 @@
     "usa-tooltip"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 110,
+  "uswds_usa_classes": 105,
   "uswds_string": 3,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 153,
-  "www_scan_status": "dns_resolution_error",
+  "uswds_count": 148,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

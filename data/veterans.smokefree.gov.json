@@ -20,10 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-06T15:27:07.153Z",
+  "scan_date": "2025-02-15T15:44:10.710Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,6 +34,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -45,7 +48,7 @@
     "agency": "HHS",
     "subagency": "NCI"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-AuGwx1K6OdE0wCv,G-JY1WL9TDD1,G-VGCPPT89DY,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
@@ -90,24 +93,23 @@
     "https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s53365253969506",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s77612567909594",
     "https://nci.widget.custhelp.com/ci/ws/get/w/7/co/%5B%7B%22chat_login_page%22%3A%22%2Fapp%2Fchat%2Fchat_landing%22%2C%22container_element_id%22%3A%22footerLinkContainer%22%2C%22custom_fields%22%3A%22%7B%5C%2222%5C%22%3A%5C%2291%5C%22%7D%22%2C%22enable_availability_check%22%3A%22false%22%2C%22info_element_id%22%3A%22footerChatLinkInfo%22%2C%22instance_id%22%3A%22sccl_0%22%2C%22label_default%22%3A%22LiveHelp%22%2C%22link_element_id%22%3A%22footerChatLink%22%2C%22module%22%3A%22ConditionalChatLink%22%2C%22type%22%3A7%7D%5D/https_request/1",
     "https://nci.widget.custhelp.com/euf/rightnow/RightNow.Client.js",
     "https://sc-static.net/scevent.min.js",
     "https://script.crazyegg.com/pages/data-scripts/0068/1809/sampling/veterans.smokefree.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0068/1809/site/veterans.smokefree.gov.json",
     "https://script.crazyegg.com/pages/scripts/0068/1809.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/24acd8edbd2b27b489b778a27aa5ffab.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://tr.snapchat.com/config/gov/e9fa3aa4-4114-4130-808c-d7ef239035b1.js",
     "https://tr.snapchat.com/p",
     "https://tr6.snapchat.com/p",
     "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/",
     "https://www.facebook.com/tr/",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 15,
   "cookie_domains": [
@@ -115,7 +117,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0034532427978515626",
-  "largest_contentful_paint": "532.5",
+  "largest_contentful_paint": "567.2999999523163",
   "required_links_url": [
     "about",
     "foia",
@@ -173,7 +175,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://veterans.smokefree.gov",
   "www_status_code": 200,
   "www_title": "Home | Smokefree Veterans"

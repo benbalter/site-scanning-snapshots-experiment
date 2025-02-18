@@ -5,7 +5,7 @@
   "initial_base_domain": "orau.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://orau.okta.com/app/orau_dmzqliksenseproduction_1/exkbqnp451QTdJLxz4h7/sso/saml?SAMLRequest=fZFLb8IwEIT%2FSuR7Hg4mFItEQkWVqKjUB%2BqhF%2BQkW7BI7OC1EeLX1wmlgkuPO5pZ73yeoWibjs%2Bd3al3ODhAGywXOdkAhTSZUBFm4zoL2YjRsEwpC0VdZVCm6QOdJiT4BINSq5ykkZ%2BWiA6WCq1Q1ktJOg6TNEyyNWWcjTibRsnoiwQL%2F4hUwg7BnbUd8jjWRrhI762IKt3GousGZVO350Mj9wgKoTO6dlUf29AYTvvyoDo2pm%2Fr%2Bnl1OrPdJEbUcV%2BIBE%2FaVDC0ysm3aBD6614FojzCnzJHBNPve9QKXQvmA8xRVr5CDSdfwDusNbJ0Fi4Oqbb3FkqCU9so5APGnDijuBYokSvRAnJb8Y%2F5y4p7PNyfb3WlG1LMejcfaJmb%2FP9xcT2WFFdmv3Cigd1WH2fxzeLiMt3%2FbfED&RelayState=aa97559b-c592-4856-abfd-62530d3349c0&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=irnQ6mvEV48ZbnuMtIOH9ptbRouUcAxK6bX%2B4EmUxhUeQsrNh5MdFKkaRI%2B4N5c1iRdTNvyPoWNSfARkyDWJTsEgCDr6Ah6UZaNihL1heNdFXSrOtWO1XtC3LW%2FT9mmoQQBLjlPbuqXYsr%2BdZWblHVA%2BwcmBz4Hvp9hK87qGyHZ39nDeXvaqQrco2ksjHpJYNHJmbKSEZ2mIXibvD3Ne4LDsHOecHricAxY%2BvXyT31d6VceJe4M8jlvB5n7stczlhoODhGiC1LBlcXg904OeKoCC4UAdGU6IVSioEx11ZZCN5zmzLJ1vvINb2D0uhNrVDu6vQ7Jkqx%2BegrhgamIziw%3D%3D",
+  "url": "https://orau.okta.com/app/orau_dmzqliksenseproduction_1/exkbqnp451QTdJLxz4h7/sso/saml?SAMLRequest=fZFLb8IwEIT%2FSuR7Hs4DikWQUFElKiq1BfXQC3KSBSwSO3htFPHr64RSwaXHHc2sdz5PkTd1y%2BbWHOQnnCyg8ZaLnGzHoyhJooj6WbGr%2FLSAxH%2FaZW7MeFZOqjSOaUq8L9AolMxJHETEWyJaWEo0XBonRXHmR7FPsw2NWUJZMgmSUfJNvIV7RUhuhuTBmBZZGCrNbaCOhgelakLetoOyrZrLqRZHBInQalXZso9taQjdsTjJNs3ox6Z6XXWX9DAOEVXYNyLei9IlDLVysuM1Qn%2FeO0cUZ%2FhT5oig%2B33PSqJtQK9Bn0XpOlTQuQbOYYwWhTVwdQi5f7RQ4nVNLZENHHNitWSKo0AmeQPITMnW87cVc3yYO9%2BoUtVkNu3dbMCl7%2FL%2Fx%2FntWDK7MfuFEwzs9uo8De8Wz67T4%2BfOfgA%3D&RelayState=075a964a-787c-43c0-aaf4-36c66e0a771d&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=pURN%2FHxZOZfIJLnUvoGb9cutG1gzEtWAmmmZAXfCom4aAPsQDNbzRg5elYCGq4PV%2FXKHnUnHPOteB7ZYD1cQgJniqwP24sdMTP5oZR%2Fc90MeSJeK5hQHk8U2trffT6gMEfSJNmuK2iNv3R4RmUz582xUhKbbVM8BJ6%2FHdTlLCiCcmvYFdFTQEQg7hcZ2kJEOGH9oSoJpW4HpONJulX%2BU23%2FWOt3hmddyoU%2BhxF2erA1AWPhE4vbWy6Hb%2BMmI%2BDqTIm%2B22XbKfkRr%2FSXSrnkxFR8GF0NgH7DiutUvqH1UjmFYE6%2Fl%2F7XNHHCUFeiyB3zjX%2BFqoqn1d1PHJZ28ait%2Fjg%3D%3D",
   "domain": "orau.okta.com",
   "base_domain": "okta.com",
   "top_level_domain": "com",
@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-06T14:43:58.035Z",
+  "scan_date": "2025-02-15T12:31:47.963Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
@@ -44,7 +46,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-8Rd7qUYmiEacifa,G-PMIov,G-rJYSbgJFNcDDbTK,G-6MSN5WmS4TAuTKX",
+  "ga_tag_id": "G-mbIPU1GZXAS8tJs,G-gISAMG4qoYNV1kc",
   "third_party_service_domains": [
     "login.okta.com",
     "ok10static.oktacdn.com"
@@ -54,9 +56,9 @@
     "https://ok10static.oktacdn.com/assets/img/logos/default.6770228fb0dab49a1695ef440a5279bb.png",
     "https://ok10static.oktacdn.com/assets/img/logos/okta-logo.1e146cad5713da744492be95eb0f7793.png",
     "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/css/okta-sign-in.min.css",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/img/ui/forms/checkbox-sign-in-widget.png",
-    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.27.3/js/okta-sign-in.min.js",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/css/okta-sign-in.min.css",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/img/ui/forms/checkbox-sign-in-widget.png",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/js/okta-sign-in.min.js",
     "https://ok10static.oktacdn.com/assets/loginpage-render/okta-loginpage-render-0.1.13-g55f1335.js",
     "https://ok10static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css",
     "https://ok10static.oktacdn.com/assets/loginpage/font/assets/Aeonik-Regular.c672e6fbaa411f5719f3.woff2",
@@ -69,7 +71,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.05941026171875",
-  "largest_contentful_paint": "1258.2999999523163",
+  "largest_contentful_paint": "1150.1999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -118,7 +120,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

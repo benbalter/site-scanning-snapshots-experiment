@@ -18,10 +18,11 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-07T01:23:57.391Z",
+  "scan_date": "2025-02-16T05:03:53.801Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -67,7 +69,7 @@
     "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js",
-    "https://www.clarity.ms/s/0.7.66/clarity.js",
+    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
@@ -79,8 +81,8 @@
     ".energy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0012743600260416669",
-  "largest_contentful_paint": "893.5999999977648",
+  "cumulative_layout_shift": "0.00167091845703125",
+  "largest_contentful_paint": "2431.600000023842",
   "required_links_url": [
     "about",
     "inspector",
@@ -152,7 +154,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 80,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

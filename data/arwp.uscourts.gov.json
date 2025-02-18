@@ -18,10 +18,11 @@
   "branch": "Judicial",
   "404_test": true,
   "source_list": [
-    "uscourts"
+    "uscourts",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-06T12:31:40.818Z",
+  "scan_date": "2025-02-15T14:49:12.366Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +31,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -46,24 +48,23 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
-    "cdnjs.cloudflare.com",
-    "code.jquery.com"
+    "code.jquery.com",
+    "speedcdnjs.com"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
-    "https://code.jquery.com/jquery-3.7.0.js"
+    "https://code.jquery.com/jquery-3.7.0.js",
+    "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
     ".arwp.uscourts.gov",
-    ".uscourts.gov",
     ".www.arwp.uscourts.gov",
     "www.arwp.uscourts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7204686536458332",
-  "largest_contentful_paint": "878",
+  "cumulative_layout_shift": "0.7228644869791666",
+  "largest_contentful_paint": "912.3999999761581",
   "required_links_url": [
     "about",
     "usa.gov"
@@ -86,7 +87,7 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": true,
-  "robots_txt_url": "https://arwp.uscourts.gov/robots.txt",
+  "robots_txt_url": "https://www.arwp.uscourts.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
   "robots_txt_filesize": 2189,
@@ -111,7 +112,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.arwp.uscourts.gov",
   "www_status_code": 200,
   "www_title": "Welcome to Western District of Arkansas | Western District of Arkansas"

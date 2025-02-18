@@ -18,10 +18,12 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-06T15:16:44.857Z",
+  "scan_date": "2025-02-16T07:38:20.962Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +32,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": null,
@@ -59,7 +62,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.0005400743815104167",
-  "largest_contentful_paint": "375.2000000476837",
+  "largest_contentful_paint": "375.60000002384186",
   "required_links_url": [
     "about",
     "fear",
@@ -118,7 +121,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

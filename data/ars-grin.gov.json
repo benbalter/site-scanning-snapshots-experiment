@@ -22,10 +22,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:22:35.778Z",
+  "scan_date": "2025-02-15T18:14:33.333Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,6 +36,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"form-names\":1}",
   "ipv6": false,
   "hostname": null,
@@ -48,7 +51,7 @@
     "subagency": "ARS",
     "pua": "UA-97667880-1"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-PPRDm1rmTKyDQ,UA-97667880-1,G-209CHCF49V,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.aspnetcdn.com",
@@ -93,11 +96,11 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9c6dfc4a/www-player.css",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/kygKyXRsFuWm52QzUQBni4ttfGn7PtIT227UPtYi3KPhAFZ3HGMsmE_YkuFaDCPvF8z0T1ZUPg=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 18,
@@ -106,8 +109,8 @@
     "ars-grin.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000109033203125",
-  "largest_contentful_paint": "1085.2999999970198",
+  "cumulative_layout_shift": "0.00010809326171875",
+  "largest_contentful_paint": "1000.8000000715256",
   "required_links_url": [
     "about",
     "foia",
@@ -162,7 +165,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.ars-grin.gov",
   "www_status_code": 200,
   "www_title": "USDA-ARS Germplasm Resources Information Network (GRIN)"

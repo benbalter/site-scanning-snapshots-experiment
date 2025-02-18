@@ -18,10 +18,13 @@
   "branch": "Legislative",
   "404_test": true,
   "source_list": [
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "house_117th",
+    "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-06T15:54:44.272Z",
+  "scan_date": "2025-02-15T18:33:11.754Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,6 +33,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -66,7 +70,7 @@
   ],
   "viewport_meta_tag": true,
   "cumulative_layout_shift": "0.1837357529296875",
-  "largest_contentful_paint": "873.6000000000931",
+  "largest_contentful_paint": "321.7000000476837",
   "required_links_url": [
     "about",
     "privacy"
@@ -116,7 +120,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://frankel.house.gov",
   "www_status_code": 200,
   "www_title": "U.S. Representative Lois Frankel"

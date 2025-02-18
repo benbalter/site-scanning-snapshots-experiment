@@ -19,19 +19,22 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T07:30:33.739Z",
+  "scan_date": "2025-02-16T05:32:36.883Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "accessibility_violations": null,
+  "www_scan_status": "dns_resolution_error",
+  "accessibility_violations": "{\"keyboard-access\":5}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -43,7 +46,7 @@
   "dap_parameters": {
     "agency": "EPA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-2SEC4V3SK9,UA-32633028-1",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
@@ -68,7 +71,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/sor-scc-api.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/sor-scc-api.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/68b5c7e468420ead9bca1ff15ca9189c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -80,8 +83,8 @@
     "sor-scc-api.epa.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.24945817057291667",
-  "largest_contentful_paint": "5054.39999999851",
+  "cumulative_layout_shift": "0.25127392578124996",
+  "largest_contentful_paint": "252.39999997615814",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -126,7 +129,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

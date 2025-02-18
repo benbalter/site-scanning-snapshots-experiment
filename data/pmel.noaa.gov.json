@@ -21,10 +21,12 @@
     "dap",
     "pulse",
     "omb_idea",
-    "2020_eot"
+    "2020_eot",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T09:43:13.889Z",
+  "scan_date": "2025-02-15T11:40:50.984Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,6 +35,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"contrast\":9,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
@@ -46,7 +49,7 @@
     "agency": "DOC",
     "subagency": "NOAA"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-4LJPL4R0G4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
@@ -59,7 +62,6 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
@@ -67,8 +69,8 @@
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.20830361328125002",
-  "largest_contentful_paint": "997.1999999955297",
+  "cumulative_layout_shift": "0.003049891479492187",
+  "largest_contentful_paint": "983.6000000238419",
   "required_links_url": [
     "about",
     "privacy"
@@ -105,7 +107,7 @@
   "sitemap_xml_url": "https://pmel.noaa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 82751,
+  "sitemap_xml_filesize": 82756,
   "sitemap_xml_count": 459,
   "sitemap_xml_pdf_count": 0,
   "uswds_favicon": 0,
@@ -120,7 +122,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_scan_status": "completed",
   "www_url": "https://www.pmel.noaa.gov",
   "www_status_code": 200,
   "www_title": "NOAA Pacific Marine Environmental Laboratory (PMEL) |"

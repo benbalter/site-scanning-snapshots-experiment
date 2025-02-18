@@ -5,7 +5,7 @@
   "initial_base_domain": "nhtsa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://portal.nhtsa.gov/manufacturer/login",
+  "url": "https://portal.nhtsa.gov/",
   "domain": "portal.nhtsa.gov",
   "base_domain": "nhtsa.gov",
   "top_level_domain": "gov",
@@ -19,10 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T08:13:57.947Z",
+  "scan_date": "2025-02-16T11:32:01.781Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,6 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -46,41 +48,22 @@
   "third_party_service_domains": [
     "artemis-user-api.nhtsa.gov",
     "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "maxcdn.bootstrapcdn.com",
-    "ok1static.oktacdn.com",
-    "use.fontawesome.com",
-    "webcomponent.nhtsa.gov"
+    "use.fontawesome.com"
   ],
   "third_party_service_urls": [
     "https://artemis-user-api.nhtsa.gov/external-menu-config-info",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff",
     "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css",
-    "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/5.16.0/css/okta-sign-in.min.css",
-    "https://use.fontawesome.com/releases/v5.0.6/js/all.js",
-    "https://webcomponent.nhtsa.gov/custom-element.min.js",
-    "https://webcomponent.nhtsa.gov/document-register-element.js",
-    "https://webcomponent.nhtsa.gov/navfootersimple.js",
-    "https://webcomponent.nhtsa.gov/navheadsimple.js",
-    "https://webcomponent.nhtsa.gov/restyle.js"
+    "https://use.fontawesome.com/releases/v5.0.6/js/all.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 4,
   "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.13368989453125002",
-  "largest_contentful_paint": "3052.10000000149",
-  "required_links_url": [
-    "about",
-    "foia",
-    "privacy"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "foia",
-    "privacy policy",
-    "vulnerability disclosure"
-  ],
+  "cumulative_layout_shift": "0.0004711925862630209",
+  "largest_contentful_paint": "273.89999997615814",
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
   "title": "Enterprise Portals",
@@ -126,7 +109,6 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 100,
-  "www_scan_status": "dns_resolution_error",
   "www_url": null,
   "www_status_code": null,
   "www_title": null

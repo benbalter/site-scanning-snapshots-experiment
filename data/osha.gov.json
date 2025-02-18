@@ -25,10 +25,12 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "oira"
+    "oira",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-07T01:24:43.003Z",
+  "scan_date": "2025-02-15T12:45:36.419Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,6 +39,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
+  "www_scan_status": "completed",
   "accessibility_violations": "{\"lists\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -51,7 +54,7 @@
     "subagency": "OSHA",
     "pga4": "G-THXLXTHVBH"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-THXLXTHVBH,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
@@ -81,17 +84,16 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2",
     "https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
-    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.L_XilkJ75h8.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfqf2NKPtDcEZnd08vkoe7WkEnw-xA/m=el_main",
+    "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.zbNBVWZ1T-s.O/am=AAg/d=1/exm=el_conf/ed=1/rs=AN8SPfrWA32OlelMufgC7-ko7d4AWUtUKw/m=el_main",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
+    "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=gAE/d=0/rs=AN8SPfoGXBOIjDP5u9X-Fj08BKzEvbDeLg/m=el_main_css",
     "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
     "https://znem8vlxtk6ksms18-usdol.gov1.siteintercept.qualtrics.com/SIE/"
@@ -101,8 +103,8 @@
     ".osha.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.11485281420898438",
-  "largest_contentful_paint": "896.8000000044703",
+  "cumulative_layout_shift": "0.1144630652669271",
+  "largest_contentful_paint": "371.5",
   "required_links_url": [
     "about",
     "foia",
@@ -173,8 +175,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 100,
-  "www_scan_status": "completed",
   "www_url": "https://www.osha.gov",
   "www_status_code": 200,
-  "www_title": "Home | OSHA.gov | Occupational Safety and Health Administration"
+  "www_title": "Home | Occupational Safety and Health Administration"
 }
