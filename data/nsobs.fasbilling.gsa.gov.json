@@ -5,7 +5,7 @@
   "initial_base_domain": "gsa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://nsobs.fasbilling.gsa.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=z4wa1YM6fnYBznqBEzaFIaVYtDNO2BiEzvwKBg8loIY&code_challenge_method=S256&nonce=ntuhqj0E9kLg7M4EyqcBACaNiBcDeTKnfdzpzWWX96SOI0hJ76bNCwX08IhqbDdq&redirect_uri=https%3A%2F%2Fnsobs.fasbilling.gsa.gov%2Fenduser%2Fcallback&response_type=code&state=YHCB2nQxLoWX1DzjtSGQKdpws7N3RJzedIPpqHxEB3UyhV7YsOlcLTzWpbCL9znF&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://nsobs.fasbilling.gsa.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=rfYjoDXAdJxGmBIXgv-4K-nD5lIoYQl7Sj1Sijp0V3o&code_challenge_method=S256&nonce=0rRad6TAnhhy9NzqbfEXK6IUDLcKAz0j8qD0DG5aqX1OgOncGpuupIfThCfjM1kU&redirect_uri=https%3A%2F%2Fnsobs.fasbilling.gsa.gov%2Fenduser%2Fcallback&response_type=code&state=JHKED0FA3rMT9qAnZAbXnl3Z0n6D0NpeMxJBg1ORW845LX7W4d5zctLCrGLVOxPO&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "nsobs.fasbilling.gsa.gov",
   "base_domain": "gsa.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:15:53.039Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -72,12 +71,9 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".gsa.gov",
     "nsobs.fasbilling.gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08339107047526043",
-  "largest_contentful_paint": "770.3000000715256",
   "required_links_url": [
     "about",
     "fear",

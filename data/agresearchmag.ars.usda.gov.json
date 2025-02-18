@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T14:55:32.819Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -60,10 +59,10 @@
     "https://statse.webtrendslive.com/dcs222tv2yfuxz3h6ggd1zodi_4h8s/wtid.js"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3920410434570312",
-  "largest_contentful_paint": "586.5999999046326",
   "required_links_url": [
     "about",
     "privacy",

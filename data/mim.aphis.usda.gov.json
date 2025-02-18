@@ -20,11 +20,9 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T06:25:47.464Z",
   "primary_scan_status": "timeout",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
@@ -49,10 +47,10 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": null,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

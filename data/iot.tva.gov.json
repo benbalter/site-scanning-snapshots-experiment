@@ -5,7 +5,7 @@
   "initial_base_domain": "tva.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=44C6F4ADDE9D9FEB2A28CCF65D7D8CF9D0C0C33F807461CC%2DB9709C51BFF0B423CF3D7D78234FF174C8AAD5EBFEDB00D8B3ADFE326C2588BA&redirect%5Furi=https%3A%2F%2Ftvacloud%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=04c381a1%2Da0f6%2D7000%2De1e5%2D6f90f7917f5a",
+  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=37C36FF92BB86E1D88978FB4B1E95748621100225BD49720%2D3E6987B1B4747DCF0DBE54FFB6CE01E776BB7F01D18D26DF7EBCBFCA1F476A78&redirect%5Furi=https%3A%2F%2Ftvacloud%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=f07182a1%2D304f%2D7000%2De1e5%2D6ab716a2dc19",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T14:29:22.236Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,7 +45,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msftauthimages.net",
+    "aadcdn.msauthimages.net",
     "autologon.microsoftazuread-sso.com",
     "d2o9p5vky89u4e.cloudfront.net",
     "login.live.com"
@@ -62,9 +61,9 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_4ba7c391e6f3f547d8ce.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/customcss",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/illustration",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/customcss",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/illustration",
     "https://autologon.microsoftazuread-sso.com/270992cd-9003-4971-84de-d1640c0bffc5/winauth/ssoprobe",
     "https://d2o9p5vky89u4e.cloudfront.net/NzhkYzBhOWY1ZGRkLm8zbi5pbw%3D%3D/7md82z4j93949tfygamnok2m4/bWljcm9zb2Z0b25saW5lLmNvbQ%3D%3D/img.gif",
     "https://login.live.com/Me.htm"
@@ -75,8 +74,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.073580390625",
-  "largest_contentful_paint": "876.3000000715256",
   "required_links_url": [
     "privacy"
   ],
@@ -98,14 +95,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=461714B18EE348175CDB776A20814283B52112DA54EC06E2%2DD7299A9E8775C0D2DFE1783FFFF3FABDB9062239C84AC3AF184BA0D581818AFC&redirect%5Furi=https%3A%2F%2Ftvacloud%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=05c381a1%2D507c%2D7000%2De1e5%2D66d53f66bfae",
+  "robots_txt_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=9B58591DCFD97B45A00A110A1DBF8DF402831442621FBE1C%2DBD165F93C382A148E1372141961E0E6F08A44F89DC5D349547C2C26A21194D47&redirect%5Furi=https%3A%2F%2Ftvacloud%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=f07182a1%2Dc0dc%2D7000%2De1e5%2D6230bbb4b809",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=AF7D9159386FFDE54B7DAB64DC9CA100B754EF1695616410%2DB7799DDED1CAB29A2832C588FF2FEC72C88EB5F10AB1E1C3E725AEFD629B2D2A&redirect%5Furi=https%3A%2F%2Ftvacloud%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=06c381a1%2D7074%2D7000%2De1e5%2D60c3fc229dd8",
+  "sitemap_xml_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=C63EB3F606F0D16D62CEAE0B231A08789323781659937F54%2D9D1F71CC4F0B316A401B3FBA0EB79AC8A99381175D7611678E3D570081EA6C87&redirect%5Furi=https%3A%2F%2Ftvacloud%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=f17182a1%2D60e8%2D7000%2De1e5%2D6386c5f9f52c",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

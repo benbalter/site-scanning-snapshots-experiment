@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T10:45:40.885Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,7 +35,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":1,\"images\":1}",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -50,7 +49,7 @@
     "subagency": "NIH"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-PKW7RFP317,UA-39090997-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-PKW7RFP317,G-CSLL4ZEK4L,UA-39090997-1",
   "third_party_service_domains": [
     "connect.facebook.net",
     "dap.digitalgov.gov",
@@ -96,8 +95,6 @@
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.054702929361979166",
-  "largest_contentful_paint": "205.89999997615814",
   "required_links_url": [
     "about",
     "fear",

@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:14:33.937Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -52,12 +51,8 @@
     "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".llnl.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.011043656249999999",
-  "largest_contentful_paint": "273.90000009536743",
   "required_links_url": [
     "about"
   ],

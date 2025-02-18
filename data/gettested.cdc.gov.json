@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:46:25.738Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -56,10 +55,11 @@
     "fonts.gstatic.com",
     "script.crazyegg.com",
     "www.cdc.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s0828493769094",
+    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s63348830510784",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
@@ -72,16 +72,15 @@
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/f18d9767e0e5/launch-d83fc630cf32.min.js",
     "https://www.cdc.gov/JScript/metrics/google/Universal-Federated-Analytics-Min.js",
     "https://www.cdc.gov/JScript/metrics/topic_levels.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.018221843749999998",
-  "largest_contentful_paint": "1053.8999999761581",
   "required_links_url": [
     "about",
     "usa.gov",

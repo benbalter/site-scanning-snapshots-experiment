@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:57:09.178Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -50,12 +49,8 @@
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/2.11.2/css/uswds.min.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".fda.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01374337089029948",
-  "largest_contentful_paint": "3718.899999976158",
   "required_links_url": [
     "about"
   ],

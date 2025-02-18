@@ -24,9 +24,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:35:40.339Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -47,25 +46,25 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c19.akstat.io",
+    "17de4c14.akstat.io",
+    "17de4c1d.akstat.io",
     "c.go-mpulse.net",
     "s.go-mpulse.net",
     "use.fontawesome.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c19.akstat.io/",
+    "https://17de4c14.akstat.io/",
+    "https://17de4c1d.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://s.go-mpulse.net/boomerang/W924F-BRU7M-VQ6BQ-95LHS-68BDL",
     "https://use.fontawesome.com/releases/v5.4.1/css/all.css"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".faa.gov",
     "medxpress.faa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "383.1999999284744",
   "required_links_url": [
     "privacy"
   ],

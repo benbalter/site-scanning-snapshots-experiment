@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T10:46:11.107Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,10 +52,10 @@
     "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3345484345703125",
-  "largest_contentful_paint": "126.29999995231628",
   "required_links_url": [
     "usa.gov"
   ],

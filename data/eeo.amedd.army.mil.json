@@ -23,7 +23,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T01:54:21.432Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -57,17 +56,19 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".army.mil"
+    ".army.mil",
+    ".eeo.amedd.army.mil",
+    "eeo.amedd.army.mil"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "251.69999992847443",
   "required_links_url": [
     "fear",
     "foia",

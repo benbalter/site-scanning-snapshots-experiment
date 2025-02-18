@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T11:27:02.890Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":349,\"language\":1}",
+  "accessibility_violations": "{\"contrast\":3,\"language\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -64,6 +63,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nasa.gov/sites/default/themes/NASAPortal/images/NASA-background.jpg",
     "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg",
@@ -75,8 +75,6 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "394.5",
   "required_links_url": [
     "about",
     "fear",

@@ -28,7 +28,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T16:32:53.499Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -62,6 +61,7 @@
     "iad1.qualtrics.com",
     "maps.googleapis.com",
     "siteintercept.qualtrics.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.ncbi.nlm.nih.gov",
     "zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com"
@@ -90,20 +90,21 @@
     "https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/11f1c213b300bd2343e444b1b9adbf19b5fad3d2/img/wr-dialog-close-btn-black.png",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.ncbi.nlm.nih.gov/core/alerts/alerts.js",
     "https://www.ncbi.nlm.nih.gov/core/pinger/pinger.js",
     "https://www.ncbi.nlm.nih.gov/stat",
     "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".clinicaltrials.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
   "required_links_url": [
     "about",
     "fear",

@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T02:11:59.783Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,32 +48,24 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "bam.nr-data.net",
     "dap.digitalgov.gov",
-    "js-agent.newrelic.com",
     "remote.captcha.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://bam.nr-data.net/1/e28325a005",
-    "https://bam.nr-data.net/events/1/e28325a005",
-    "https://bam.nr-data.net/resources/1/e28325a005",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://js-agent.newrelic.com/nr-spa-1153.min.js",
     "https://remote.captcha.com/include.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".bls.gov",
     "idcfoews.bls.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0302696484375",
-  "largest_contentful_paint": "1174.6999999284744",
   "required_links_url": [
     "privacy"
   ],

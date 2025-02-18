@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:59:12.320Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,10 +52,10 @@
     "https://www.nflis.deadiversion.usdoj.gov/nflisdata/docs/nflis_synthopioids_map.jpg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usdoj.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.17955189404296876",
-  "largest_contentful_paint": "278.5",
   "required_links_url": [
     "about"
   ],

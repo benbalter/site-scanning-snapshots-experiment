@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:54:05.808Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,7 +46,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
-    "cdn.eo.va.gov",
     "dap.digitalgov.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "resource.digital.voice.va.gov",
@@ -55,7 +53,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.eo.va.gov/vendor/fa5/current/webfonts/fa-solid-900.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/bitter-bold.woff2",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/sourcesanspro-bold-webfont.woff2",
@@ -66,11 +63,6 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/vendor.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.css",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.entry.js",
-    "https://resource.digital.voice.va.gov/resources/dist/assets/css/invite-template-react-style-472308e9f0.css",
-    "https://resource.digital.voice.va.gov/resources/dist/assets/js/invite-react-app-d8a939830c.js",
-    "https://resource.digital.voice.va.gov/resources/form/FormBuilder/vendor/fonts-googleapis/css/open-sans-v14.css",
-    "https://resource.digital.voice.va.gov/wdcvoice/2/forms/19/invitationData1734636644800_en.json",
-    "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/domains-configuration.json",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/embed.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/generic1731941049831.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/onsiteData1734636652605.json",
@@ -84,17 +76,16 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-01/Man-eye-exam-VA-899312474_vp1-1200x717.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2021-06/LSCDVAMC_WadeParkCampus.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".va.gov",
     "www.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "474.40000009536743",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

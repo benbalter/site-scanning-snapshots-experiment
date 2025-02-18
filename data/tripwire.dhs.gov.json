@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T03:45:56.930Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,7 +50,7 @@
   "dap_version": "20240624 v8 - GA4",
   "ga_tag_id": "UA-44308701-2,G-ENTZWZZ7TM,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "17de4c19.akstat.io",
     "c.go-mpulse.net",
     "fonts.googleapis.com",
     "s.go-mpulse.net",
@@ -59,13 +58,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://17de4c19.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://fonts.googleapis.com/css2",
     "https://s.go-mpulse.net/boomerang/FT92X-RBUKH-P8A6W-J43UW-YP7DR",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -73,8 +73,6 @@
     "tripwire.dhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0006831212158203125",
-  "largest_contentful_paint": "1455.3999999761581",
   "required_links_url": [
     "about",
     "fear",

@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:27:31.329Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,18 +49,19 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
-    "s.clarity.ms",
     "www.clarity.ms",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
@@ -76,20 +76,16 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-regular-400-1.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-solid-900-12.woff2",
     "https://kit.fontawesome.com/064330cea8.js",
-    "https://s.clarity.ms/collect",
-    "https://www.clarity.ms/s/0.7.67/clarity.js",
+    "https://www.clarity.ms/s/0.7.68/clarity.js",
     "https://www.clarity.ms/tag/jqyludgwnn",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
     ".nrel.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2707966186523437",
-  "largest_contentful_paint": "168.80000007152557",
   "required_links_url": [
     "about"
   ],

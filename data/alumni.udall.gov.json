@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T14:36:42.448Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -63,7 +62,8 @@
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -72,8 +72,6 @@
     "alumni.udall.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "214.59999990463257",
   "required_links_url": [
     "about",
     "usa.gov"

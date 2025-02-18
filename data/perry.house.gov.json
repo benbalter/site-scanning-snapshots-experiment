@@ -24,9 +24,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:44:16.771Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1}",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -89,6 +88,7 @@
     "https://pbs.twimg.com/media/Gjmw6dQWoAACw7s",
     "https://pbs.twimg.com/media/GjnM-fbXUAAa4y2",
     "https://pbs.twimg.com/media/GjnuFk8WwAAasFj.jpg",
+    "https://pbs.twimg.com/media/GkAchqiXEAA1Ss1",
     "https://pbs.twimg.com/profile_images/1227942262618968064/cIoZBrWj_bigger.jpg",
     "https://pbs.twimg.com/profile_images/1485685964743847937/XwWjnh4f_mini.jpg",
     "https://pbs.twimg.com/profile_images/1642289348602150914/PiHxa9pP_mini.jpg",
@@ -133,8 +133,6 @@
     "perry.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.09692096565755208",
-  "largest_contentful_paint": "233.39999997615814",
   "required_links_url": [
     "about",
     "privacy"

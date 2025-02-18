@@ -5,7 +5,7 @@
   "initial_base_domain": "usda.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.cert.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-dbe5aed6-cc34-4e19-9c01-fb74e6544741&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-0XvbQIdPAdVQcE9Oo6W42L%2FlQ4UpQukHVPrpep9eYNRu7l0zLhPWXhSuba2DCpjDz4y5vaqsfj88qqJB8X3s4mkPS9gHdUux5A7fph79Zb1hMx2v88cX1rRwCpiY5tjg&TARGET=-SM-https:%2F%2Fguarloan--le.cert.sc.egov.usda.gov%2FGuarLoan%2Fspring%2FGUARLOANHome",
+  "url": "https://www.cert.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-dbe5aed6-cc34-4e19-9c01-fb74e6544741&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-hQq%2FvyVPD1GD558kN2lIrxfUfVT78TmFb0S%2B71lgdim3RS6Bl4qrmqNt82Fv7ctuF9pP0MN0Nk9mZqlMNYtG%2BTUjEB4iSUyk8sEUz%2BGKcZN8Ym9KM%2FinsuPvjjwgHWnJ&TARGET=-SM-https:%2F%2Fguarloan--le.cert.sc.egov.usda.gov%2FGuarLoan%2Fspring%2FGUARLOANHome",
   "domain": "www.cert.eauth.usda.gov",
   "base_domain": "usda.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:36:13.350Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,10 +49,10 @@
     "https://nocapi.api.cert.eauth.usda.gov/iab/enterprise/cms/appMessage/login"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "819.8999999761581",
   "required_links_url": [
     "privacy",
     "usa.gov"

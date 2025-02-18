@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:37:46.394Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,6 +60,7 @@
     "platform.twitter.com",
     "play.google.com",
     "static.doubleclick.net",
+    "static.xx.fbcdn.net",
     "syndication.twitter.com",
     "use.typekit.net",
     "ws.sharethis.com",
@@ -87,6 +87,8 @@
     "https://platform.twitter.com/widgets.js",
     "https://play.google.com/log",
     "https://static.doubleclick.net/instream/ad_status.js",
+    "https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/gWpQpSsEGQ-.png",
+    "https://static.xx.fbcdn.net/rsrc.php/v4iEpO4/yz/l/en_US/KjYXRo-zWSj.js",
     "https://syndication.twitter.com/settings",
     "https://use.typekit.net/af/33d41d/00000000000000007735a442/30/l",
     "https://use.typekit.net/af/3b7756/00000000000000007735b8fc/30/l",
@@ -100,7 +102,7 @@
     "https://ws.sharethis.com/images/2017/email_counter.png",
     "https://ws.sharethis.com/images/2017/twitter_counter.png",
     "https://ws.sharethis.com/secure/images/bubble_arrow.png",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
@@ -112,13 +114,12 @@
     "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://yt3.ggpht.com/ytc/AIdro_kfKVgtYco5bj3g26-u3n4Id7jdO6Khd5mR5TgdieE-R3Y=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 22,
+  "third_party_service_count": 23,
   "cookie_domains": [
-    ".house.gov"
+    ".house.gov",
+    "financialservices.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00030922159830729166",
-  "largest_contentful_paint": "290.5",
   "required_links_url": [
     "about"
   ],

@@ -16,14 +16,13 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "final_url_websites",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:57:33.569Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "timeout",
-  "accessibility_violations": "{\"contrast\":2,\"images\":1,\"link-purpose\":1}",
+  "accessibility_violations": "{\"images\":1,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -48,7 +47,7 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-ND298XG1VM,G-CSLL4ZEK4L,G-a2sfIPzPyMkAg",
+  "ga_tag_id": "G-ND298XG1VM,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "abs-0.twimg.com",
     "abs.twimg.com",
@@ -147,7 +146,8 @@
     "https://syndication.twitter.com/settings",
     "https://unpkg.com/aos@2.3.1/dist/aos.css",
     "https://unpkg.com/aos@2.3.1/dist/aos.js",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
+    "https://www.google.com/js/th/bMD8Mb9KjuwvUEjG2wKGW_SboZEAlyyu-JRM21Xvjg0.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
@@ -167,8 +167,6 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0023593583577473957",
-  "largest_contentful_paint": "1129",
   "required_links_url": [
     "about",
     "foia",

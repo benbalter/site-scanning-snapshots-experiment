@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:25:32.997Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,6 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
-    "browser-intake-ddog-gov.com",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
@@ -59,13 +57,12 @@
     "tags.tiqcdn.com",
     "tealium-tags.cms.gov",
     "www.datadoghq-browser-agent.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "zn24cu8foukd58l0c-qppexperience.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://adobe-ep.cms.gov/ee/v1/interact",
-    "https://browser-intake-ddog-gov.com/api/v2/replay",
-    "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -88,6 +85,7 @@
     "https://tealium-tags.cms.gov/cms-qpp/prod/utag.js",
     "https://tealium-tags.cms.gov/cms-qpp/prod/utag.sync.js",
     "https://www.datadoghq-browser-agent.com/datadog-rum-v5.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://zn24cu8foukd58l0c-qppexperience.gov1.siteintercept.qualtrics.com/SIE/"
   ],
@@ -97,8 +95,6 @@
     "qpp.cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.8199096360677084",
-  "largest_contentful_paint": "1358.8999999761581",
   "required_links_url": [
     "about",
     "privacy"

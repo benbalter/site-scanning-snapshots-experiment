@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T06:18:36.113Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,6 +57,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://browser-intake-ddog-gov.com/api/v2/replay",
     "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://use.fontawesome.com/releases/v5.8.1/css/all.css",
@@ -71,8 +71,6 @@
     "elibrary.ferc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.11059806677246095",
-  "largest_contentful_paint": "975.5999999046326",
   "required_links_url": null,
   "required_links_text": [
     "accessibility"

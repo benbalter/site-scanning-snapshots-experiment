@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T17:43:25.933Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -59,6 +58,8 @@
     "cdn.syndication.twimg.com",
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "pbs.twimg.com",
     "platform.twitter.com",
     "syndication.twitter.com",
@@ -71,8 +72,16 @@
     "https://cdn.syndication.twimg.com/tweet-result",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/gateway.min.js",
+    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/NICHD_FS_Invite_Horizontal.jpg",
+    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/nih_nichd_logo.jpg",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://pbs.twimg.com/media/BnnahRhIUAAlxFx",
     "https://pbs.twimg.com/profile_images/1370730463871037441/a0xZn4Qn_normal.jpg",
     "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
@@ -98,13 +107,11 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.0562953709716798",
-  "largest_contentful_paint": "694",
   "required_links_url": [
     "about",
     "foia",

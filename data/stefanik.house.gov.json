@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "2020_eot",
     "final_url_websites",
@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T08:10:24.817Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -106,11 +105,10 @@
   ],
   "third_party_service_count": 15,
   "cookie_domains": [
+    ".house.gov",
     "stefanik.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.15707013020833333",
-  "largest_contentful_paint": "267.5",
   "required_links_url": [
     "about",
     "privacy"

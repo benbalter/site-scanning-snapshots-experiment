@@ -25,9 +25,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:30:57.458Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -61,7 +60,7 @@
     "https://assets.adobedtm.com/f1bfa9f7170c81b1a9a9ecdcc6c5215ee0b03c84/satelliteLib-02fefb155130bc1a729a293495ffdefdf985a23c.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s06167377306070",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s38843713300998",
     "https://static.cancer.gov/webanalytics/WA_SS_PageLoad.js",
     "https://static.cancer.gov/webanalytics/WA_SS_post.js",
     "https://static.cancer.gov/webanalytics/WA_SS_pre.js",
@@ -74,8 +73,6 @@
     "supportorgs.cancer.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "539.6999999284744",
   "required_links_url": [
     "about",
     "foia",

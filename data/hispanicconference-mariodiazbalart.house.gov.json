@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:39:59.946Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -121,10 +120,10 @@
     "https://use.typekit.net/zaj6iye.css"
   ],
   "third_party_service_count": 13,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.39844253922526024",
-  "largest_contentful_paint": "3066",
   "required_links_url": [
     "about",
     "privacy",

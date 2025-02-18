@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T11:08:48.292Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -46,7 +45,7 @@
     "agency": "OJP"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-L5LX1Q3L12,UA-36811135-1,UA-122677529-2,G-0V898RJ15D,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-L5LX1Q3L12,UA-36811135-1,UA-122677529-2,G-CSLL4ZEK4L,G-0V898RJ15D",
   "third_party_service_domains": [
     "analytics.foresee.com",
     "brain.foresee.com",
@@ -62,7 +61,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/efeeff03-1e70-4685-b62f-dac5fc47add3",
+    "https://brain.foresee.com/state/ojp-main/6fd80225-4488-46e1-86f9-766e48c6385f",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -96,8 +95,6 @@
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.003811328125",
-  "largest_contentful_paint": "653.3999999761581",
   "required_links_url": [
     "about",
     "foia",

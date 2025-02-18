@@ -5,7 +5,7 @@
   "initial_base_domain": "faa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://myaccessxtl-dev.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa2kevqjjtz3gACq1d7&scope=openid%20profile%20email&state=RrRCEQI8MbXQnBLsWKqwzy6-CUq4mxp6hC3NteUlLzU%3D&redirect_uri=https://myaccessreg-stage.faa.gov/profile/login/oauth2/code/okta&nonce=VkCpe67eECWo4S9bbD8xNKoSA7JRBFwPctsZWEgpa1U",
+  "url": "https://myaccessxtl-dev.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa2kevqjjtz3gACq1d7&scope=openid%20profile%20email&state=NVmkXQF-3wkoCY00zBhQ9xKLdlxZeHZo7Pm7K6-DmB8%3D&redirect_uri=https://myaccessreg-stage.faa.gov/profile/login/oauth2/code/okta&nonce=aZUdtr0YOyph6iRrfw3MeRXzTTINQDIPhXXQ74HHVr4",
   "domain": "myaccessxtl-dev.faa.gov",
   "base_domain": "faa.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:35:23.514Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -81,11 +80,10 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".faa.gov",
     "myaccessxtl-dev.faa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.8314497537434896",
-  "largest_contentful_paint": "829.1000000238419",
   "required_links_url": [
     "privacy"
   ],

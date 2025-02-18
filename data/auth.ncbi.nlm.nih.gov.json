@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T11:43:34.870Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,10 +54,10 @@
     "https://www.ncbi.nlm.nih.gov/style-guide/static/django_uswds/uswds/img/angle-arrow-down-primary.svg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.004547367350260416",
-  "largest_contentful_paint": "253.89999997615814",
   "required_links_url": [
     "usa.gov"
   ],

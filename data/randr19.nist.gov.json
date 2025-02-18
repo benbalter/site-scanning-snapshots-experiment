@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:45:09.943Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,6 +53,7 @@
     "code.jquery.com",
     "dap.digitalgov.gov",
     "maxcdn.bootstrapcdn.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -66,16 +66,15 @@
     "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nist.gov",
     "randr19.nist.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0873078984375",
-  "largest_contentful_paint": "467.2000000476837",
   "required_links_url": [
     "foia",
     "privacy"

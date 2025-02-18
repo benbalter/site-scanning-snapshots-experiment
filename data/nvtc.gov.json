@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:16:13.224Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1}",
+  "accessibility_violations": "{\"contrast\":1,\"images\":3,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -44,21 +43,29 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
-  "cookie_domains": [
-    ".fbi.gov"
+  "ga_tag_id": "G-TkTDF65Tlq6IgrB,G-KgT4I1xLaHqZ6t7,G-y4Dnqtv8hMqfSiM,G-Lk7ZKk2ZT,G-noV3yTGuL4Ox7Ds,G-lTjx6OxnefJJtxL",
+  "third_party_service_domains": [
+    "challenges.cloudflare.com"
   ],
-  "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "79.10000002384186",
+  "third_party_service_urls": [
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9136d2895a6d8a73/1739806266080/WB_JMuhmzUnTysS",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/301294034:1739805190:D0iJAXm34GFWZBORmHoNUZ6XUy68l-MNYBFgOnjk4G0/9136d2895a6d8a73/xlA9nNHQ7beDtR6xcTdeJA6bySXa.TJe_nvWv3MYLM8-1739806265-1.1.1.1-vxiw4qHhjgUkroSj6m6WtA.J.ml9toO_0DCPh5vEYzmQjVmndTmVrv7UIq0.c1zo",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9136d2895a6d8a73/1739806266077/54de0888e49bb5b864e952f2375b0ef50b411912b0a9a93a751cd0a3f24fa604/a3n77C5doh8CldJ",
+    "https://challenges.cloudflare.com/turnstile/v0/g/0e3e6804b971/api.js"
+  ],
+  "third_party_service_count": 1,
+  "cookie_domains": [
+    ".fbi.gov",
+    "www.fbi.gov"
+  ],
+  "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "This site has determined a security issue with your request.",
+  "title": "Just a moment...",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -69,7 +76,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": "en-US",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -100,5 +107,5 @@
   "uswds_count": 0,
   "www_url": "https://www.fbi.gov/nvtc",
   "www_status_code": 403,
-  "www_title": "This site has determined a security issue with your request."
+  "www_title": "Just a moment..."
 }

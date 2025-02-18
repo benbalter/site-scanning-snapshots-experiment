@@ -5,7 +5,7 @@
   "initial_base_domain": "cancer.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/14b77578-9773-42d5-8507-251ca2dc2b06/oauth2/authorize?response_type=code&client_id=8533d044-b084-40f4-b1e3-705a82938aa2&redirect_uri=https%3a%2f%2fmynci-appmanager.cancer.gov%2foauth2%2facs&scope=openid&resource=https%3a%2f%2fgraph.microsoft.com&code_challenge=jDjubjCEbwRqapuNZaU6mVnLGrtKZ8elN7m1RZIblYY&code_challenge_method=S256",
+  "url": "https://login.microsoftonline.com/14b77578-9773-42d5-8507-251ca2dc2b06/oauth2/authorize?response_type=code&client_id=8533d044-b084-40f4-b1e3-705a82938aa2&redirect_uri=https%3a%2f%2fmynci-appmanager.cancer.gov%2foauth2%2facs&scope=openid&resource=https%3a%2f%2fgraph.microsoft.com&code_challenge=JbiRzEg2yP448jFxNH07YTn_WVQ3BcAmO76277LAWUo&code_challenge_method=S256",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:16:41.372Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -46,7 +45,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msauthimages.net",
+    "aadcdn.msftauthimages.net",
     "login.live.com"
   ],
   "third_party_service_urls": [
@@ -57,8 +56,8 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-f48yuzqkouwlbp11ejs1hwyfcpjfqxigh07epo4men0/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-f48yuzqkouwlbp11ejs1hwyfcpjfqxigh07epo4men0/logintenantbranding/0/illustration",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-f48yuzqkouwlbp11ejs1hwyfcpjfqxigh07epo4men0/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-f48yuzqkouwlbp11ejs1hwyfcpjfqxigh07epo4men0/logintenantbranding/0/illustration",
     "https://login.live.com/Me.htm"
   ],
   "third_party_service_count": 3,
@@ -67,8 +66,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.24472004166666664",
-  "largest_contentful_paint": "743.1999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -90,14 +87,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/14b77578-9773-42d5-8507-251ca2dc2b06/oauth2/authorize?response_type=code&client_id=8533d044-b084-40f4-b1e3-705a82938aa2&redirect_uri=https%3a%2f%2fmynci-appmanager.cancer.gov%2foauth2%2facs&scope=openid&resource=https%3a%2f%2fgraph.microsoft.com&code_challenge=XLVn5djOMJl6-em6tqndYr6OjXn8q4XgJP5y-pNFWXk&code_challenge_method=S256",
+  "robots_txt_url": "https://login.microsoftonline.com/14b77578-9773-42d5-8507-251ca2dc2b06/oauth2/authorize?response_type=code&client_id=8533d044-b084-40f4-b1e3-705a82938aa2&redirect_uri=https%3a%2f%2fmynci-appmanager.cancer.gov%2foauth2%2facs&scope=openid&resource=https%3a%2f%2fgraph.microsoft.com&code_challenge=vyczle59LP3ZpQTTSV1JXz1h0TrjOQeT_kgbmCkbzn4&code_challenge_method=S256",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/14b77578-9773-42d5-8507-251ca2dc2b06/oauth2/authorize?response_type=code&client_id=8533d044-b084-40f4-b1e3-705a82938aa2&redirect_uri=https%3a%2f%2fmynci-appmanager.cancer.gov%2foauth2%2facs&scope=openid&resource=https%3a%2f%2fgraph.microsoft.com&code_challenge=hTl2GW21xkDjLpfXKdfHgrYqbVFu7ATQbKlobqYxcPk&code_challenge_method=S256",
+  "sitemap_xml_url": "https://login.microsoftonline.com/14b77578-9773-42d5-8507-251ca2dc2b06/oauth2/authorize?response_type=code&client_id=8533d044-b084-40f4-b1e3-705a82938aa2&redirect_uri=https%3a%2f%2fmynci-appmanager.cancer.gov%2foauth2%2facs&scope=openid&resource=https%3a%2f%2fgraph.microsoft.com&code_challenge=G6Bm0jV96435peJCaEKi0m2lB9MwzWD8ftC0Zv_EYkc&code_challenge_method=S256",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

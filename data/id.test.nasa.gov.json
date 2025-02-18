@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.launchpad-test.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad-test.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9YmNkYjFmOTMtMDZiZC00MjdlLTlkZjgtY2I0MGE1M2VkZDI2JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT1FdWZkZTRCajBISTRKYk9FNmxMR1lzamhhQllRcUppS1hSVEk3S0pzcVdBJTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLnVhdC5uYXNhLmdvdi9sb2dpbi9vYXV0aDIvY29kZS9sYXVuY2hwYWQmbm9uY2U9RGEyZlV3WHBVeXVNaEV0NXI2eWVwOGI0SnczLVMyNURmWjFKOUl6RGIyayZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLXRlc3QubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D",
+  "url": "https://auth.launchpad-test.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad-test.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9YmNkYjFmOTMtMDZiZC00MjdlLTlkZjgtY2I0MGE1M2VkZDI2JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT1sU213Rm9zTVVSWFE0UzVrOXZnZTNreHFqNjNOc0kzX2tYTzlqcW91MFB3JTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLnVhdC5uYXNhLmdvdi9sb2dpbi9vYXV0aDIvY29kZS9sYXVuY2hwYWQmbm9uY2U9LXRtQkMwVmYwN2RXeGlZOGY4RHh6UFBTc29OU3ZUcFNQalNCN3c1VUNjRSZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLXRlc3QubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D",
   "domain": "auth.launchpad-test.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T11:19:26.522Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,10 +54,10 @@
     "https://launchpad-test.nasa.gov/icam/api/assets/icam-api-hsts.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1148.1999999284744",
   "required_links_url": [
     "privacy"
   ],
@@ -83,14 +82,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://auth.launchpad-test.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad-test.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9YmNkYjFmOTMtMDZiZC00MjdlLTlkZjgtY2I0MGE1M2VkZDI2JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT1yNUNZOEx6d043QkNGSzJROEcyODIwdGx4bjAzUkxTdmdPUE42WjVKVnFnJTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLnVhdC5uYXNhLmdvdi9sb2dpbi9vYXV0aDIvY29kZS9sYXVuY2hwYWQmbm9uY2U9bktkWElZQVZidFowVnoyX1JXTi14QUc4NEsyTGo3RkwzMlIwMk5KNzR4YyZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLXRlc3QubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D",
+  "robots_txt_url": "https://auth.launchpad-test.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad-test.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9YmNkYjFmOTMtMDZiZC00MjdlLTlkZjgtY2I0MGE1M2VkZDI2JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT1XZ3VIWWoweHVjWWVQb2FkNXRKSk5ZVmJ1dDlDVTJPZEpRR0VlNUdsVWNnJTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLnVhdC5uYXNhLmdvdi9sb2dpbi9vYXV0aDIvY29kZS9sYXVuY2hwYWQmbm9uY2U9MVZCZFpheUZlLVhXVTgzaHFuaW9GdUZVMkNpM3JZR2kwZjFkOGMwUmc1dyZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLXRlc3QubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://auth.launchpad-test.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad-test.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9YmNkYjFmOTMtMDZiZC00MjdlLTlkZjgtY2I0MGE1M2VkZDI2JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT1Da3hsWVVwSW9tNkFxR0NSRVNsbVhLZXNjTFRqWkk3eXNaTWVFQUV5dVpvJTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLnVhdC5uYXNhLmdvdi9sb2dpbi9vYXV0aDIvY29kZS9sYXVuY2hwYWQmbm9uY2U9WFdJdmZ2Nnh2dE00dzljUnplYk9adXc5Q0dGYWpycEp3Uy1LeVNaRWpwWSZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLXRlc3QubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D",
+  "sitemap_xml_url": "https://auth.launchpad-test.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad-test.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9YmNkYjFmOTMtMDZiZC00MjdlLTlkZjgtY2I0MGE1M2VkZDI2JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT02eXZvb2o0amVsRFJDMnlZS25nb2FIRHV0bG1jd0E5TFBFNlN4dU8yaVNZJTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLnVhdC5uYXNhLmdvdi9sb2dpbi9vYXV0aDIvY29kZS9sYXVuY2hwYWQmbm9uY2U9d210OTF3ODZSWVVPcUtBSy1mSGZoaDNPQlBveXRvWkg5TTBFWkI5VzctbyZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLXRlc3QubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

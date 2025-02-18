@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T06:04:17.038Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,11 +46,12 @@
   "dap_parameters": {
     "agency": "DHS",
     "subagency": "FEMA",
-    "_": "1739685834336"
+    "_": "1739854737183"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP",
+  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "fema.gov",
     "fonts.googleapis.com",
@@ -64,6 +64,7 @@
     "www.w3schools.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fema.gov/sites/default/files/css/css_778_PpnH1cnOg-1AJEO6w6Ww_jSy7Q80VPlEwZcScbs.css",
@@ -95,14 +96,12 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.w3schools.com/w3css/4/w3.css"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".fema.gov",
     "careerpath.fema.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.033971129679361986",
-  "largest_contentful_paint": "12820.400000095367",
   "required_links_url": [
     "about",
     "fear",

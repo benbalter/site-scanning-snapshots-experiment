@@ -28,7 +28,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T18:14:38.898Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -72,17 +71,19 @@
     "https://media.defense.gov/2022/Oct/20/2003099749/740/740/0/221017-D-BN624-0035.JPG",
     "https://media.defense.gov/2022/Oct/20/2003099752/740/740/0/221017-D-BN624-0120.JPG",
     "https://media.defense.gov/2024/Jul/03/2003497153/740/740/0/240126-D-PM193-1014.JPG",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".defense.gov"
+    ".defense.gov",
+    ".innovation.defense.gov",
+    "innovation.defense.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "242.10000002384186",
   "required_links_url": [
     "about",
     "fear",

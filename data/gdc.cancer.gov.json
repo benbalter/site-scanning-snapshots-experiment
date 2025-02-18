@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:26:26.094Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,7 +50,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-33523145-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "api.gdc.cancer.gov",
     "assets.adobedtm.com",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,8 +58,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://api.gdc.cancer.gov/projects",
-    "https://api.gdc.cancer.gov/v0/graphql/HumanBody",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/ee53b835867e/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
@@ -71,18 +67,16 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s0758431426310",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s39276157977723",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03512376534016927",
-  "largest_contentful_paint": "435.59999990463257",
   "required_links_url": [
     "about",
     "foia",

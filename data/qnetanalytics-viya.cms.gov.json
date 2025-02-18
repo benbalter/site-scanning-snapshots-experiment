@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:24:40.018Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -51,8 +50,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "login.okta.com",
-    "ok5static.oktacdn.com",
-    "qnetanalytics-viya.cms.gov"
+    "ok5static.oktacdn.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
@@ -67,17 +65,14 @@
     "https://ok5static.oktacdn.com/assets/loginpage/font/assets/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "https://ok5static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
     "https://ok5static.oktacdn.com/fs/bco/1/fs0phrlgheoImnRYq297",
-    "https://ok5static.oktacdn.com/fs/bco/7/fs0jq9gt5nRMkIY2V297",
-    "https://qnetanalytics-viya.cms.gov/favicon.ico"
+    "https://ok5static.oktacdn.com/fs/bco/7/fs0jq9gt5nRMkIY2V297"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".cms.gov",
     "idm.cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "587.6000000238419",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

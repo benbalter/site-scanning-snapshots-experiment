@@ -16,17 +16,16 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Administration for Community Living",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": null,
   "source_list": [
     "final_url_websites",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T00:39:19.547Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "dns_resolution_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -51,12 +50,8 @@
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".acl.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05979611718749999",
-  "largest_contentful_paint": "970.5",
   "required_links_url": [
     "about",
     "fear",

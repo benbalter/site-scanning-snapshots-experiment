@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:55:23.671Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,10 +51,10 @@
     "https://cfsan-pub-web-assets.s3.amazonaws.com/gov-fda-new-white.svg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fda.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "2507.9000000953674",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

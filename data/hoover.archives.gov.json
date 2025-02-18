@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T16:07:30.551Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -79,8 +78,6 @@
     "hoover.archives.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6339216145833333",
-  "largest_contentful_paint": "307",
   "required_links_url": [
     "about",
     "foia",
@@ -109,10 +106,10 @@
   "language": "en",
   "language_link": "",
   "main_element_present": true,
-  "robots_txt_detected": false,
-  "robots_txt_url": "https://hoover.archives.gov/",
+  "robots_txt_detected": true,
+  "robots_txt_url": "https://hoover.archives.gov/robots.txt",
   "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/html",
+  "robots_txt_media_type": "text/plain",
   "robots_txt_filesize": 2027,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,

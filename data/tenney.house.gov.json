@@ -22,9 +22,8 @@
     "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:46:23.615Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"aria\":5}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -62,7 +61,6 @@
   ],
   "third_party_service_urls": [
     "https://abs-0.twimg.com/emoji/v2/svg/1f6a8.svg",
-    "https://abs-0.twimg.com/emoji/v2/svg/1f9f5.svg",
     "https://abs-0.twimg.com/emoji/v2/svg/2b07.svg",
     "https://abs.twimg.com/sticky/animations/like.4.json",
     "https://api.hcaptcha.com/checksiteconfig",
@@ -74,7 +72,6 @@
     "https://kml.house.gov/current/NY-24/shape.kml",
     "https://kml.house.gov/geocoder/geographies/address",
     "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
-    "https://pbs.twimg.com/amplify_video_thumb/1889337003025526784/img/x7qrgCLDy4b1cjem.jpg",
     "https://pbs.twimg.com/media/GjmMcRbXgAAfQZn",
     "https://pbs.twimg.com/media/GjrdKKGWgAAO4lB",
     "https://pbs.twimg.com/media/GjrdKKIWQAARiGz",
@@ -86,10 +83,11 @@
     "https://pbs.twimg.com/media/Gjtxxy2XcAAwYyj",
     "https://pbs.twimg.com/media/GjxDvjFXcAAaCWF",
     "https://pbs.twimg.com/media/GjxRdNjXUAAouzu",
+    "https://pbs.twimg.com/media/GjxSYlgXoAAzi0T",
+    "https://pbs.twimg.com/media/GjxSxa-XEAALFlt",
     "https://pbs.twimg.com/profile_images/1109054115747979264/wpNqXKwU_mini.png",
     "https://pbs.twimg.com/profile_images/1505230652878331906/6mWJzscD_normal.jpg",
     "https://pbs.twimg.com/profile_images/1877085039948668928/f4AibqzY_bigger.jpg",
-    "https://pbs.twimg.com/profile_images/1886502029209526273/W3KV6EZJ_mini.jpg",
     "https://platform.twitter.com/_next/static/H8u53u8SWsWwviLqzqhm-/_buildManifest.js",
     "https://platform.twitter.com/_next/static/H8u53u8SWsWwviLqzqhm-/_ssgManifest.js",
     "https://platform.twitter.com/_next/static/chunks/1362.42d432e02f7980bca032.js",
@@ -122,8 +120,6 @@
     ".tenney.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.25465074226888024",
-  "largest_contentful_paint": "437.5",
   "required_links_url": [
     "about",
     "privacy"

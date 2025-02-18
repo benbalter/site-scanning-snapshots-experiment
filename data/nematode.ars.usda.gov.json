@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T06:49:11.712Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,20 +50,20 @@
   "ga_tag_id": "G-ND298XG1VM,G-CSLL4ZEK4L,G-P4TN05P5XP",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.nal.usda.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.nal.usda.gov/csp-collector/index.php"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.019480144856770833",
-  "largest_contentful_paint": "646.2000000476837",
   "required_links_url": [
     "foia",
     "privacy",

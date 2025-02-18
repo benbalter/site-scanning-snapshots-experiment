@@ -16,18 +16,17 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "National Wildfire Coordinating Group",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "pulse",
     "omb_idea",
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T12:16:57.160Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "timeout",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -91,12 +90,9 @@
   "third_party_service_count": 8,
   "cookie_domains": [
     ".maps.wildfire.gov",
-    ".wildfire.gov",
     "maps.wildfire.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000021152343750000002",
-  "largest_contentful_paint": "2255.399999976158",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

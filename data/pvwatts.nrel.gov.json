@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T12:04:34.590Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,13 +47,13 @@
     "agency": "NREL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-24106045-1,UA-47208523-1,G-D36B6EXMET,G-HFDNVE0DSC,G-5S1DJ7NPZ2,G-EF0F008JGW,G-CSLL4ZEK4L",
+  "ga_tag_id": "UA-24106045-1,UA-47208523-1,G-5S1DJ7NPZ2,G-EF0F008JGW,G-D36B6EXMET,G-HFDNVE0DSC,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "d.clarity.ms",
     "dap.digitalgov.gov",
     "platform.twitter.com",
+    "s.clarity.ms",
     "s7.addthis.com",
     "syndication.twitter.com",
     "www.clarity.ms",
@@ -64,11 +63,11 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://platform.twitter.com/js/button.856debeac157d9669cf51e73a08fbc93.js",
     "https://platform.twitter.com/widgets.js",
+    "https://s.clarity.ms/collect",
     "https://s7.addthis.com/js/300/addthis_widget.js",
     "https://syndication.twitter.com/i/jot/embeds",
     "https://syndication.twitter.com/settings",
@@ -87,8 +86,6 @@
     "pvwatts.nrel.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04881706380208333",
-  "largest_contentful_paint": "131.09999990463257",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure",

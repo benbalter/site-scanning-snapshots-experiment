@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T04:28:52.680Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,8 +44,9 @@
     "agency": "DOL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-P7V59WHBJK,G-HZ8Y6WJF2K,UA-175033420-4,G-CSLL4ZEK4L,G-CktPNXbVm",
+  "ga_tag_id": "G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-P7V59WHBJK,G-HZ8Y6WJF2K,UA-175033420-4,G-CSLL4ZEK4L,G-PbNei5qtaZqqUcp,G-K8C6JxnRydafSY2",
   "third_party_service_domains": [
+    "17de4c15.akstat.io",
     "6313124.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
     "cdn.jsdelivr.net",
@@ -72,6 +72,7 @@
     "zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c15.akstat.io/",
     "https://6313124.global.r2.siteimproveanalytics.io/image.aspx",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
@@ -84,13 +85,9 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://googleads.g.doubleclick.net/pagead/id",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://i.ytimg.com/vi/ErhHfFEDd5U/sd2.jpg",
     "https://i.ytimg.com/vi/Si7jcXkMeeI/sd2.jpg",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
@@ -106,7 +103,7 @@
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
@@ -120,14 +117,11 @@
     "https://yt3.ggpht.com/ytc/AIdro_kzW7E5QGt1Fd1-WHemmM0JqsEU-DrN2JPzQxZzjQW5M7o=s68-c-k-c0x00ffffff-no-rj",
     "https://zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 23,
+  "third_party_service_count": 24,
   "cookie_domains": [
-    ".dol.gov",
-    "www.dol.gov"
+    ".dol.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "808.5",
   "required_links_url": [
     "about",
     "privacy",

@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:32:13.591Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -48,6 +47,7 @@
   "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "pubweb.epa.gov",
     "script.crazyegg.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
@@ -55,6 +55,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://pubweb.epa.gov/favicon.ico",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/www.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/www.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
@@ -64,13 +65,11 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".epa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06986666666666666",
-  "largest_contentful_paint": "307.5",
   "required_links_url": [
     "about",
     "fear",

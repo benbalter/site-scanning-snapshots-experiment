@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T04:27:22.870Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,8 +44,10 @@
     "agency": "DOL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-QrFzJCp7idcK4Yu,G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-HZ8Y6WJF2K,G-CSLL4ZEK4L,UA-175033420-4",
+  "ga_tag_id": "G-QrFzJCp7idcK4Yu,G-8D6G2LK2BW,G-HZ8Y6WJF2K,G-LTGX1LSENR,G-988WLCRHJJ,G-CSLL4ZEK4L,UA-175033420-4",
   "third_party_service_domains": [
+    "17de4c1c.akstat.io",
+    "52-222-122-97_s-23-32-75-29_ts-1739850104-clienttons-s.akamaihd.net",
     "6313124.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
     "cdn.jsdelivr.net",
@@ -55,15 +56,20 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "gov1.siteintercept.qualtrics.com",
+    "gtphuylimsuguz5uaf4a-pihe43-00f0ab4fa-clientnsv4-s.akamaihd.net",
     "pixel.sitescout.com",
     "s.go-mpulse.net",
     "script.crazyegg.com",
     "siteimproveanalytics.com",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "znbfqg2i6uulbjjce-usdol.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1c.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-29_ts-1739850104-clienttons-s.akamaihd.net/eum/results.txt",
     "https://6313124.global.r2.siteimproveanalytics.io/image.aspx",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
@@ -82,6 +88,7 @@
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
+    "https://gtphuylimsuguz5uaf4a-pihe43-00f0ab4fa-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://pixel.sitescout.com/up/af6cdc6b839801cf",
     "https://s.go-mpulse.net/boomerang/E68AF-EQ2CX-6PS4U-GPXGV-5A3RP",
     "https://script.crazyegg.com/pages/data-scripts/0074/6572/sampling/www.dol.gov.json",
@@ -89,19 +96,19 @@
     "https://script.crazyegg.com/pages/scripts/0074/6572.js",
     "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6313124.js",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://znbfqg2i6uulbjjce-usdol.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 20,
   "cookie_domains": [
     ".dol.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.011660824055989583",
-  "largest_contentful_paint": "597",
   "required_links_url": [
     "about",
     "foia",

@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:59:39.967Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,6 +52,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7N8H8BHH84,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c11.akstat.io",
+    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "myplate-prod.azureedge.us",
@@ -62,6 +63,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c11.akstat.io/",
+    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -98,15 +101,12 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".myplate.gov",
-    ".www.myplate.gov",
     "www.myplate.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.10550287825520835",
-  "largest_contentful_paint": "922.1999999284744",
   "required_links_url": [
     "about",
     "foia",

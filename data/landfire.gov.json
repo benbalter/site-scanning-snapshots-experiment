@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "gov",
     "dap",
@@ -27,11 +27,10 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T18:46:03.082Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -87,8 +86,6 @@
     "landfire.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.4794557545572915",
-  "largest_contentful_paint": "462.60000002384186",
   "required_links_url": [
     "about"
   ],

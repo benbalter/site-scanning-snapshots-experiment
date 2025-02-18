@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:40:34.201Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -56,6 +55,7 @@
     "libguides-proc.springyaws.com",
     "netdna.bootstrapcdn.com",
     "static-assets-us.libguides.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -88,16 +88,15 @@
     "https://static-assets-us.libguides.com/web/js3.15.3/lg-public.min.js",
     "https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick-theme.css",
     "https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick.css",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".libguides.com",
     "jpl-nasa.libguides.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.029002604166666668",
-  "largest_contentful_paint": "468.6999999284744",
   "required_links_url": [
     "about",
     "privacy"

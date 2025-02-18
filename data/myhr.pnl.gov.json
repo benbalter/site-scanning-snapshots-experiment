@@ -5,7 +5,7 @@
   "initial_base_domain": "pnl.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=4b0e8d64-170f-4f5d-9b0d-2470091bd560&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%223d18c4dd-be1f-4002-90ea-e428d06690e5%22%7d%23EndOfStateParam%23&client-request-id=3d18c4dd-be1f-4002-90ea-e428d06690e5&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=bccca32b-44fa-4344-a03b-bcb6d118ad0b&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%220a4a6e32-93f0-4167-8ca5-90c90adf82cd%22%7d%23EndOfStateParam%23&client-request-id=0a4a6e32-93f0-4167-8ca5-90c90adf82cd&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:54:00.336Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -46,7 +45,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msauthimages.net",
+    "aadcdn.msftauthimages.net",
     "login.live.com"
   ],
   "third_party_service_urls": [
@@ -57,7 +56,7 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-j-j1n0gpbmujfyldmxdd-hndkqqrijywjjr5rtgnrk/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-j-j1n0gpbmujfyldmxdd-hndkqqrijywjjr5rtgnrk/logintenantbranding/0/bannerlogo",
     "https://login.live.com/Me.htm"
   ],
   "third_party_service_count": 3,
@@ -66,8 +65,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2370868125",
-  "largest_contentful_paint": "531.6000000238419",
   "required_links_url": [
     "privacy"
   ],
@@ -96,7 +93,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=1f747847-05a2-4d39-b692-bdb871eddb18&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%223d18c4dd-be1f-4002-90ea-e428d06690e5%22%7d%23EndOfStateParam%23&client-request-id=3d18c4dd-be1f-4002-90ea-e428d06690e5&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
+  "sitemap_xml_url": "https://login.microsoftonline.com/d6faa5f9-0ae2-4033-8c01-30048a38deeb/oauth2/authorize?response_type=code&client_id=65373e4b-1825-4c8a-a929-28c28e23925d&scope=openid&nonce=fd0588ee-a743-4b97-afcb-b961da6962a3&redirect_uri=https%3a%2f%2fmyhr.pnl.gov%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmyhr.pnl.gov%5c%2fsitemap.xml%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%220a4a6e32-93f0-4167-8ca5-90c90adf82cd%22%7d%23EndOfStateParam%23&client-request-id=0a4a6e32-93f0-4167-8ca5-90c90adf82cd&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

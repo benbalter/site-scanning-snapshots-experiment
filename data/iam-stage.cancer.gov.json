@@ -5,7 +5,7 @@
   "initial_base_domain": "cancer.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://iam-stage.cancer.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=ajrlNAXVtxJHGh1gD-bbN4dgZIpQ_naSowBjKQYUels&code_challenge_method=S256&nonce=pgWyHY5SYURZ94IjrSzN23ndAiqe4aTwpG3ZZcpAiHPcenPptljIRuOXlkpaiViU&redirect_uri=https%3A%2F%2Fiam-stage.cancer.gov%2Fenduser%2Fcallback&response_type=code&state=XhNqjCO6QFpgA8QlsvoXyxIV9sdxFB3lvcKWJQAF8dCNSTZbqIM568pcgT3winEC&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://iam-stage.cancer.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=J0LBR9VqI-LVO6GHmeGwYjys2uGY8ae_8owcE9XMeb8&code_challenge_method=S256&nonce=P8k6MSFb1r8xHWU51etSPWUY5Uyo89cnoe6fPSk1u234thryjXD1xdMKM8PBCzw8&redirect_uri=https%3A%2F%2Fiam-stage.cancer.gov%2Fenduser%2Fcallback&response_type=code&state=YgPTtfaXfiZyoxtRA4vwMaqslt9uqLdDab4RtVQZWXWZsCzQPrXQd9cy2D1ojWlq&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "iam-stage.cancer.gov",
   "base_domain": "cancer.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:28:19.332Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -72,11 +71,10 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".cancer.gov",
     "iam-stage.cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6896614341634114",
-  "largest_contentful_paint": "512.8000000715256",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"

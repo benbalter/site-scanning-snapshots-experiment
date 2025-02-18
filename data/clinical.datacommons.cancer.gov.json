@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:22:49.138Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -41,36 +40,24 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HHS",
-    "subagency": "NCI"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-RE4t9kNz,G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "G-RE4t9kNz",
   "third_party_service_domains": [
-    "accounts.google.com",
     "apis.google.com",
     "assets.adobedtm.com",
-    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "metrics.cancer.gov",
-    "raw.githubusercontent.com",
-    "www.googletagmanager.com",
-    "www.gstatic.com"
+    "raw.githubusercontent.com"
   ],
   "third_party_service_urls": [
-    "https://accounts.google.com/_/IdpIFrameHttp/cspreport/fine-allowlist",
-    "https://accounts.google.com/o/oauth2/iframerpc",
     "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.5oZHy0SiJxw.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-Hry6DG-RE4t9kNz_t6hiwmwXOmA/cb=gapi.loaded_0",
     "https://apis.google.com/js/api.js",
-    "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/ee53b835867e/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
@@ -82,21 +69,17 @@
     "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s0188104144422",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s08613373882235",
-    "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/bento/images/icons/svgs/globalSearchDelete.svg",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdpIFrameHttp.en_US.NvZQ9czvvdo.es5.O/am=DAY/d=1/rs=AOaEmlHX0oeuGafrZfkPrJ2HCnARLWkhdg/m=base"
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s93212818437665",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s94150048055675",
+    "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/bento/images/icons/svgs/globalSearchDelete.svg"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cancer.gov",
     ".clinical.datacommons.cancer.gov",
     "clinical.datacommons.cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.5590317109374999",
-  "largest_contentful_paint": "1007.2000000476837",
   "required_links_url": [
     "foia",
     "privacy",

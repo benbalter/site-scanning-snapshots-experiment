@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T04:29:17.507Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -87,8 +86,6 @@
     "myaccessxtl-dev.faa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.0781378670247395",
-  "largest_contentful_paint": "905.2999999523163",
   "required_links_url": [
     "privacy"
   ],
@@ -120,7 +117,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://angdevmyaccess.faa.gov/tacgw/login.cshtml",
+  "sitemap_xml_url": "https://myaccessxtl-dev.faa.gov/app/sharepoint_onpremise/sso/wsfed/passive?wa=wsignin1.0&wtrealm=urn%3Aokta%3Asharepoint%3Aexk8n41bldte1kFq91d7&wctx=https%3A%2F%2Fangdevmyaccess.faa.gov%2F",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

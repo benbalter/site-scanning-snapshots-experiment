@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:10:31.543Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"page-titled\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -45,7 +44,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msftauthimages.net",
+    "aadcdn.msauthimages.net",
     "autologon.microsoftazuread-sso.com",
     "login.live.com",
     "tableau.nsf.gov"
@@ -61,7 +60,7 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_4ba7c391e6f3f547d8ce.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-rnuuk1zimkzqcmhljfnjbvxm1wsdrgk2uhnvhqe0iom/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-rnuuk1zimkzqcmhljfnjbvxm1wsdrgk2uhnvhqe0iom/logintenantbranding/0/bannerlogo",
     "https://autologon.microsoftazuread-sso.com/4939bd94-3563-4244-904d-6e68ffc9b8cf/winauth/ssoprobe",
     "https://login.live.com/Me.htm",
     "https://tableau.nsf.gov/canvas-to-blob.min.js",
@@ -74,6 +73,7 @@
     "https://tableau.nsf.gov/content-exploration/search-microview/search-microview.min.js",
     "https://tableau.nsf.gov/content-exploration/search-microview/version.txt",
     "https://tableau.nsf.gov/core.min.js",
+    "https://tableau.nsf.gov/img/BentonSans-Book.woff",
     "https://tableau.nsf.gov/img/BentonSans-Book.woff2",
     "https://tableau.nsf.gov/img/tableau_sign_in_logo.svg",
     "https://tableau.nsf.gov/javascripts/api/tableau-2.9.1.min.js",
@@ -104,8 +104,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.43771364583333333",
-  "largest_contentful_paint": "632.2999999523163",
   "required_links_url": [
     "privacy"
   ],

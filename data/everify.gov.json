@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:30:20.506Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,7 +51,6 @@
   "ga_tag_id": "G-CRQA5,G-CSLL4ZEK4L,G-GHG7XR2CMP,G-1CEQ3MGGRC",
   "third_party_service_domains": [
     "10709.global.siteimproveanalytics.io",
-    "c.go-mpulse.net",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
@@ -69,13 +67,14 @@
   ],
   "third_party_service_urls": [
     "https://10709.global.siteimproveanalytics.io/image.aspx",
-    "https://c.go-mpulse.net/api/config.json",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php",
+    "https://gov1.siteintercept.qualtrics.com/WRQualtricsShared/Graphics/siteintercept/wr-dialog-close-btn-black.png",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
@@ -84,6 +83,7 @@
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/EmbeddedTargetModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/WebResponsiveDialogModule.js",
+    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
     "https://s.go-mpulse.net/boomerang/5DUWJ-SSLMG-CRQA5-GC7TQ-TRTZR",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://siteimproveanalytics.com/js/siteanalyze_10709.js",
@@ -100,13 +100,12 @@
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://znbju1slut2xcmuls-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 14,
   "cookie_domains": [
-    ".e-verify.gov"
+    ".e-verify.gov",
+    "www.e-verify.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.007880501302083334",
-  "largest_contentful_paint": "428.2999999523163",
   "required_links_url": [
     "about",
     "fear",

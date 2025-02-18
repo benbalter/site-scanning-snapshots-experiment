@@ -5,7 +5,7 @@
   "initial_base_domain": "dol.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/75a63054-7204-4e0c-9126-adab971d4aca/saml2?SAMLRequest=jVLLbtswEPwVgXc9yMgWRFgGXBtFDaSpEDs99EaRK4cARapcSmn%2FvrKsIOmhQW%2FkcnZnZocbFJ1hPd8N4dk%2Bws8BMES%2FOmOR314qMnjLnUCN3IoOkAfJT7uv95wlGe%2B9C046Q6IdIvignd07i0MH%2FgR%2B1BKeHu8r8hxCjzxN8VZLlDPJxY2pFWMvLtc7iQ4Ts7biOuKtwbiLtkmnpXfo2uCs0RYS6bq0WIn1XbbK44JleZxDJuOSsnUslGjKgqpcSJHOFkj02XkJs8OKtMIgkOh4qMjpYV%2ByMldN2Ygso9BQ2RaQN2rd3rVl3tKmnYBYC0Q9wlsr4gBHi0HYUBGWsVWcsZiuz1nOWcEpS8q8%2FEGietnNJ22VtpePF9ncQMi%2FnM91XH87necBo1bgHyb0%2F%2B3wO3ic9zeNJNvNbJ%2FPev37UD%2BWIl6TJNtXzolrSlqxZCG37mU54TWMTfqeaeHt%2BVX38VA7o%2BXvaGeMe9l7EGHyEvwAcyydCP8WQxM6V7SK2xnKB4s9SN1qUCTdLrR%2Ff97tHw%3D%3D&RelayState=4cc846b8977392109d32f04ad053af7f",
+  "url": "https://login.microsoftonline.com/75a63054-7204-4e0c-9126-adab971d4aca/saml2?SAMLRequest=jVLBjpswEP0V5DtgDGwaK0RKE1WNtN2iTdpDb4M9yVoCm3pMtv37EsJqt4euerPHb%2Ba9N88rgq4VvdwM4ck%2B4s8BKUS%2FutaSvL1UbPBWOiBD0kKHJIOSh82XeykSLnvvglOuZdGGCH0wzm6dpaFDf0B%2FMQq%2FPd5X7CmEnmSa0q2WaNcmZ3dJLVx6OF%2FvLNqNzMbCdcRrQ%2BvOxiadUd6ROwVnW2MxUa5LFyXc5bws4oXgRVwgV%2FEyE3cxaGiWi0wXoCCdLLDok%2FMKJ4cVO0FLyKL9rmKHh63GJueQKVhyrTggaAFFw%2FNFLnTTNHoEUg1E5oKvrUQD7i0FsKFigosy5iLOPhx5LotMlllSivwHi%2Bp5Nx%2BN1cae319kcwOR%2FHw81nH99XCcBlyMRv8wov9vh9%2FR07S%2FcSRbryb7ctLr34b6vhR4SZKtXzhHrjFpLZKZ3Lrn%2BUTXMFbpW6aZt5dX3ftd7VqjfkebtnXPW48QRi%2FBDzjF0kH4t5gsyaaK0fFpgsrBUo%2FKnAxqlq5n2r8%2F7%2FoP&RelayState=1381582d1bb79610335c0f2de54bcb7c",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T04:27:23.169Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -45,7 +44,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msftauthimages.net",
+    "aadcdn.msauthimages.net",
     "autologon.microsoftazuread-sso.com",
     "login.live.com",
     "service.dol.gov"
@@ -61,9 +60,9 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_4ba7c391e6f3f547d8ce.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-bbpcqksxzbpo5ohp3woxavbnbmj7myhm0nvfafhqfiu/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-bbpcqksxzbpo5ohp3woxavbnbmj7myhm0nvfafhqfiu/logintenantbranding/0/customcss",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-bbpcqksxzbpo5ohp3woxavbnbmj7myhm0nvfafhqfiu/logintenantbranding/0/illustration",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-bbpcqksxzbpo5ohp3woxavbnbmj7myhm0nvfafhqfiu/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-bbpcqksxzbpo5ohp3woxavbnbmj7myhm0nvfafhqfiu/logintenantbranding/0/customcss",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-bbpcqksxzbpo5ohp3woxavbnbmj7myhm0nvfafhqfiu/logintenantbranding/0/illustration",
     "https://autologon.microsoftazuread-sso.com/75a63054-7204-4e0c-9126-adab971d4aca/winauth/ssoprobe",
     "https://login.live.com/Me.htm",
     "https://service.dol.gov/ConditionalFocus.jsdbx",
@@ -94,8 +93,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.24356716145833332",
-  "largest_contentful_paint": "905.0999999046326",
   "required_links_url": [
     "privacy"
   ],
@@ -124,7 +121,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/75a63054-7204-4e0c-9126-adab971d4aca/saml2?SAMLRequest=jVLLbtswEPwVgXdJJKOHQ1gGXBtFDaSpEbs59LamKIcARapcSmn%2FvrKsIMmhQW7kcnZnZodLhNbwTqz78GQf1O9eYYj%2BtMaiuL5UpPdWOECNwkKrUAQpDuvvd4InVHTeBSedIdEaUfmgnd04i32r%2FEH5QUv18%2BGuIk8hdCjSFK%2B1pHYmObshtTB0cL7cSbQdmbWFy4jXBuPO2iatlt6ha4KzRluVSNemZQ7FDc2zuOQ0izNFZXzLeBFDDafbktUZSEgnCyT66rxUk8OKNGBQkWi3rcjhfnNqspw1C7poboDR%2BsQYZVlRLKCUjSxlPgJxD4h6UK%2BtiL3aWQxgQ0U45XlMecyKI80ELwWnCVvQXyTaz7v5om2t7fnjRZ6uIBTfjsd9vP9xOE4DBl0rfz%2BiP7fDR%2BVx2t84kqyWk30x6fVvQ%2F1YCrwkSVYvnCPXmHTNk5ncuuf5hJcwlulbppm3Exfdu%2B3eGS3%2FRmtj3PPGKwijl%2BB7NcXSQvi%2FGJawqaLruJmgorfYKakbrWqSrmba95939Q8%3D&RelayState=31c8c6b8977392109d32f04ad053af50",
+  "sitemap_xml_url": "https://login.microsoftonline.com/75a63054-7204-4e0c-9126-adab971d4aca/saml2?SAMLRequest=jVLLbtswEPwVgXc9rYdNWAZcG0UNpKkQuzn0tiJphwBFqlxKaf%2B%2BMq0gyaFBeCKXw52ZHa4ROpX1dDu4J%2F0gfg8CXfCnUxrp7aYmg9XUAEqkGjqB1DF63H6%2Fo1mU0N4aZ5hRJNgiCuuk0TujceiEPQo7SiZ%2BPtzV5Mm5Hmkc460WcaOiixljDWMPl%2BuZBPuJWWq4tnh9oMxF6qiTzBo0Z2e0klpEzHRxVUC5SIo8rLIkD3ORsHCVZmUIHNpVlfIcGMTeAgm%2BGsuEd1iTMygUJDjsa3K83zFYsrIqV%2B20oOVQVmm7LFjOijJnCV9OQGwAUY7i9SniIA4aHWhXkyzJijDJwnR5ShY0T2mxitLF4hcJmnk2X6TmUl8%2BHmR7AyH9djo1YfPjePINRsmFvZ%2FQn5vho7Do5ze1JJu1t0%2B9Xvs21I%2BlwEuSZPPCOXFNSfMsmsm1eZ53eA1jHb9lmnl7etV92DdGSfY32CplnndWgJu8ODsIH0sH7v9i0ij1FcnDs4fSQWMvmDxLwUm8mWnff97NPw%3D%3D&RelayState=8d91d82d1bb79610335c0f2de54bcb07",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

@@ -5,7 +5,7 @@
   "initial_base_domain": "hhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fintune.microsoft.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3DO_gzbAmSmAwkYGwcZfEP_Y3lmklL3FBvMwZeeKSk05Yv2YaWi6n5EMJd7p8DKG6XIk9aOzZcnx-CsQzi2cgyTskFhSPz1VtbIetITLXlEUDkty-1dJSmz8MBjakiBXxlUuisxIFv2CSRNP2FmvCQyBma13AEndyYu8pAgwolbxsoNQp0resdmpQk7o-9ufYjIldabP2kCArsKSQoQHo8z6VEuQpUvE63AlwkR8mv_fDSu1UGXnKUiGYDZMXiVVtAyLo_yd4uMPpJ8wGPg3c1yT2sB_Ax6ISNsVyEB8uXmCWX5oiDp81UhxCa5EzAu06Zeh_MMmA0gmcqwCctrBcyUCMnnT8ChRsAP2CczonaIidVSuQJE2_Zi79uxhp8qfMJzTRF_h2JgJH6Jq5kelmqdZ65A0mG1PBQ7gaIhpgiG_EDarPwu6r75zqneVJmQb2NyzMLWCtN7A1jHxl80QgHpw&response_mode=form_post&nonce=638752882648259857.M2NmZmUyODUtZTAxNS00OWZkLTgxYWItYzM5NDEyNDdhOTU1YjFiZGIzYTctMmY3MS00YzMwLWE2OTAtNDA5ZmU4NDEzZGRk&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=1c5d4a80-4803-48de-8b3f-0748274f2efb&x-client-SKU=ID_NET472&x-client-ver=7.5.0.0",
+  "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fintune.microsoft.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3DSWiAQncZo1_2CIlsQwbQkXoJ0WOUcZ1mQvqn5-dsQz1s7Fdogn2QUAYHTs5blcOnkssJcT3RR5rSz0sHNRD2MQ-5pd5T4HOZAeX6ifngSX_cUiLXz7qYbmtJAYgJUsLb8A3g17iMhGtvGx9hCyNE7U8JSCUGO3Xijfvb8Oe_wRirzk4bASxPKWf1oBwzRNO-kgIs_AkeycZPfzC44ol05e_fn_NrcX8zepXZIVrUN1QQg244-zcZSEiQ7P5Br1ePwk5HgtVVgTP6Uec4JwsgU7k2xkdnNDGFtpvfQTwhLt95siJYztRsaTAHGe-3J23zUYaNlxz4lX3-cB2Uvftbc-_ngwdvJxVxGdeyM5h0IY7TWUDCLB3fIiUAv88ZOQWB04O6FOHwqI3Ol1Gtap7l7Y4_DbOKG1IVjQbAveEDUzau334XzY7KrgqanB6QAcSow63o0jDBZuCVYCV6vfQvyA&response_mode=form_post&nonce=638754561329018937.Mzc3M2NlOGYtNDNmNi00M2I1LThiZTctZTAyY2YwODFkYmE1YjgzNmEzYTAtYzdmMi00NTg4LThhMTUtZDk0OWY3YWQwNmU4&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=808bfe39-2457-401a-b8aa-f517766a0d7a&x-client-SKU=ID_NET472&x-client-ver=7.5.0.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:37:55.158Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -51,12 +50,12 @@
   ],
   "third_party_service_urls": [
     "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
-    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_b6qmkv34zrtzwovprnovhw2.js",
+    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_58kdvbzctdjk48yetaekng2.js",
     "https://aadcdn.msauth.net/shared/1.0/content/images/applogos/17_51e2d36bb3f20fbd95d946074449cd54.png",
     "https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/signin-github_4f133e101999f0f9f726427324505c7b.svg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_-8cgqRzfEOPEpYl9MSuPRw2.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_iO_VLhbr8gXvmCnvbzDI7A2.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
@@ -70,8 +69,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.10542884114583334",
-  "largest_contentful_paint": "531",
   "required_links_url": [
     "privacy"
   ],

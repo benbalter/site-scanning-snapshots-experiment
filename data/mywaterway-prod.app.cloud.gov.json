@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T03:14:16.566Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,7 +45,7 @@
     "agency": "EPA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-2,G-X6JSLPJCWP,UA-32633028-1",
+  "ga_tag_id": "G-2SEC4V3SK9,UA-32633028-2,G-X6JSLPJCWP,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
     "38950.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
@@ -90,6 +89,7 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -98,8 +98,6 @@
     ".cloud.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7835263583170572",
-  "largest_contentful_paint": "825.3000000715256",
   "required_links_url": [
     "about",
     "foia",

@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:43:24.391Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,27 +49,30 @@
   "dap_version": "",
   "ga_tag_id": "G-PHFZ6MHHFJ",
   "third_party_service_domains": [
+    "faa.d2.sc.omtrdc.net",
     "ssl.google-analytics.com",
     "www.faa.gov",
+    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://faa.d2.sc.omtrdc.net/b/ss/faasandbox/1/JS-2.1.0/s47915288900780",
     "https://ssl.google-analytics.com/ga.js",
     "https://www.faa.gov/script/omniture/appMeasurement.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".faasafety.gov",
     "preprod.faasafety.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.03284540625000001",
-  "largest_contentful_paint": "461.8000000715256",
   "required_links_url": [
     "about",
     "inspector",

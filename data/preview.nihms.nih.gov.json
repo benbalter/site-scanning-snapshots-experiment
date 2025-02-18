@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T10:54:25.094Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,6 +53,7 @@
     "code.jquery.com",
     "dap.digitalgov.gov",
     "maxcdn.bootstrapcdn.com",
+    "siteintercept.qualtrics.com",
     "www.googletagmanager.com",
     "www.ncbi.nlm.nih.gov",
     "zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com"
@@ -62,6 +62,11 @@
     "https://code.jquery.com/jquery-3.5.0.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.ncbi.nlm.nih.gov/core/pinger/pinger.js",
@@ -70,14 +75,12 @@
     "https://www.ncbi.nlm.nih.gov/stat",
     "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov",
     "preview.nihms.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6425470172932943",
-  "largest_contentful_paint": "685.7000000476837",
   "required_links_url": [
     "about",
     "usa.gov"

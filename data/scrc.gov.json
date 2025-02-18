@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:40:57.395Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -44,7 +43,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-P0D0BHNFW9",
+  "ga_tag_id": "G-P0D0BHNFW9,G-uCF9Ocg0plDnmbf,G-VQDIaRHqvVQE55x,G-6fYBC5nB,G-KNLtCiTfXLezoIq",
   "third_party_service_domains": [
     "api.userway.org",
     "cdn.userway.org",
@@ -61,10 +60,10 @@
   ],
   "third_party_service_urls": [
     "https://api.userway.org/api/v1/tunings/vMf5X5AqWW",
-    "https://cdn.userway.org/remediation/2025-02-04-11-59-51/free/remediation-tool-free.js",
-    "https://cdn.userway.org/styles/2025-02-04-11-59-51/widget_base.css",
+    "https://cdn.userway.org/styles/2025-02-17-12-18-23/widget_base.css",
     "https://cdn.userway.org/widget.js",
-    "https://cdn.userway.org/widgetapp/2025-02-04-11-59-51/widget_app_base_1738670391868.js",
+    "https://cdn.userway.org/widgetapp/2025-02-17-12-18-23/remediation/remediation_1739794703874.js",
+    "https://cdn.userway.org/widgetapp/2025-02-17-12-18-23/widget_app_base_1739794703874.js",
     "https://cdn.userway.org/widgetapp/images/body_bl.svg",
     "https://cdn.userway.org/widgetapp/images/spin_bl.svg",
     "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js",
@@ -73,6 +72,7 @@
     "https://fonts.gstatic.com/s/lora/v35/0QIvMX1D_JOuMwr7I_FMl_E.woff2",
     "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6hPvhPQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://listgrowth.ctctcdn.com/v1/08da1e45631ee424273a3bccf90d344a.json",
@@ -82,10 +82,15 @@
     "https://unpkg.com/aos@2.3.1/dist/aos.css",
     "https://unpkg.com/aos@2.3.1/dist/aos.js",
     "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api2/payload",
+    "https://www.google.com/recaptcha/api2/reload",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
@@ -94,8 +99,6 @@
     ".scrc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.1089157903645832",
-  "largest_contentful_paint": "1371.5",
   "required_links_url": [
     "about"
   ],

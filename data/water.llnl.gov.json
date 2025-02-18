@@ -19,10 +19,10 @@
   "404_test": true,
   "source_list": [
     "dap",
+    "final_url_websites",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:19:01.845Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,7 +48,7 @@
     "dclink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-9KHjoqnptwsGf2d",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.llnl.gov",
     "dap.digitalgov.gov",
@@ -89,7 +89,7 @@
     "https://play.google.com/log",
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://static.doubleclick.net/instream/ad_status.js",
-    "https://www.google.com/js/th/bMD8Mb9KjuwvUEjG2wKGW_SboZEAlyyu-JRM21Xvjg0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
@@ -106,8 +106,6 @@
     "water.llnl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "218.39999997615814",
   "required_links_url": [
     "about",
     "privacy",

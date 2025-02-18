@@ -27,7 +27,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T04:11:02.133Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,7 +36,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "accessibility_violations": "{\"link-purpose\":4}",
+  "accessibility_violations": "{\"contrast\":2,\"link-purpose\":4}",
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -68,8 +67,6 @@
     "usadf.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "3490.2999999523163",
   "required_links_url": [
     "privacy",
     "usa.gov"

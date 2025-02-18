@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:25:21.995Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,7 +47,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1c.akstat.io",
+    "17de4c1f.akstat.io",
     "adobe-ep.insurekidsnow.gov",
     "c.go-mpulse.net",
     "cdn.jsdelivr.net",
@@ -67,7 +66,7 @@
     "zn3jlzqik1qozkye9-medicare.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1c.akstat.io/",
+    "https://17de4c1f.akstat.io/",
     "https://adobe-ep.insurekidsnow.gov/ee/v1/interact",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/bluebird/3.5.0/bluebird.min.js",
@@ -81,7 +80,10 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/716878638/",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://s.go-mpulse.net/boomerang/FPSG3-3TLMN-XGTZ8-7A8FL-WKKUZ",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
@@ -104,8 +106,6 @@
     ".insurekidsnow.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07512662760416666",
-  "largest_contentful_paint": "289.10000002384186",
   "required_links_url": [
     "about",
     "privacy"

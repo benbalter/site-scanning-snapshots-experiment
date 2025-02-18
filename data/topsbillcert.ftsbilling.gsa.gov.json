@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:21:01.259Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -48,12 +47,10 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "login.okta.com",
-    "o101443.ingest.sentry.io",
     "op3static.oktacdn.com"
   ],
   "third_party_service_urls": [
     "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js",
-    "https://o101443.ingest.sentry.io/api/4507506066849792/envelope/",
     "https://op3static.oktacdn.com/assets/img/logos/default.6770228fb0dab49a1695ef440a5279bb.png",
     "https://op3static.oktacdn.com/assets/img/logos/okta-logo.1e146cad5713da744492be95eb0f7793.png",
     "https://op3static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
@@ -68,13 +65,11 @@
     "https://op3static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
     "https://op3static.oktacdn.com/fs/bco/1/fs0ey845pyxK9t2NV1d7"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     "usda-nsobs-preview.oktapreview.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07966875000000001",
-  "largest_contentful_paint": "660.3999999761581",
   "required_links_url": [
     "privacy"
   ],

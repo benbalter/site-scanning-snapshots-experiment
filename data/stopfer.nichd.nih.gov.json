@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T11:02:32.956Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,10 +53,11 @@
     "cto": "24"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-SM7vE0cxmsjdLsa,G-3YLR8EGLBW,G-CSLL4ZEK4L,G-JMQ1bk54J4HugXj,G-52MSD7VSHB,UA-153723022-1,UA-35719021-1,G-87KNQ86HNX",
+  "ga_tag_id": "G-SM7vE0cxmsjdLsa,G-3YLR8EGLBW,G-CSLL4ZEK4L,G-52MSD7VSHB,UA-153723022-1,UA-35719021-1,G-87KNQ86HNX,G-xDQM4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
+    "fonts.googleapis.com",
     "fonts.gstatic.com",
     "googleads.g.doubleclick.net",
     "i.ytimg.com",
@@ -76,8 +76,16 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/gateway.min.js",
+    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/NICHD_FS_Invite_Horizontal.jpg",
+    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/nih_nichd_logo.jpg",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://googleads.g.doubleclick.net/pagead/id",
@@ -92,7 +100,7 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/plugins/ua/linkid.js",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
@@ -105,16 +113,13 @@
     "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
     "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
-    "https://www.youtube.com/youtubei/v1/log_event",
     "https://yt3.ggpht.com/ytc/AIdro_ny3B2_-UECBo50uzZnxidCE-oYldtHIpnf1VAS9Iny_N4=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 16,
+  "third_party_service_count": 17,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.0466089380289714",
-  "largest_contentful_paint": "1276.5",
   "required_links_url": [
     "about",
     "foia",

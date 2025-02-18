@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T06:54:22.340Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +34,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":7}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Microsoft Sharepoint",
   "login_provider": null,
@@ -51,6 +50,7 @@
   "third_party_service_domains": [
     "dmztheme19.inl.gov",
     "fonts.gstatic.com",
+    "inl.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -59,26 +59,35 @@
     "https://dmztheme19.inl.gov/Branding%20Assets/dmz.css",
     "https://dmztheme19.inl.gov/Branding%20Assets/dmz.js",
     "https://dmztheme19.inl.gov/Branding%20Assets/ga.js",
+    "https://dmztheme19.inl.gov/Branding%20Assets/images/Logo.png",
     "https://dmztheme19.inl.gov/Branding%20Assets/images/Search_Icon.png",
+    "https://dmztheme19.inl.gov/Branding%20Assets/images/social-sprite.png",
+    "https://dmztheme19.inl.gov/Branding%20Assets/images/titletest.jpg",
     "https://dmztheme19.inl.gov/Branding%20Assets/imgix.js",
     "https://dmztheme19.inl.gov/Branding%20Assets/jquery.js",
     "https://dmztheme19.inl.gov/Branding%20Assets/jquery.xdomainrequest.min.js",
     "https://fonts.gstatic.com/s/roboto/v15/2UX7WLTfW3W8TclTUvlFyQ.woff",
     "https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff",
+    "https://inl.gov/content/uploads/2023/04/departmentofenergy.png",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".inl.gov",
     "public.inl.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.256803375",
-  "largest_contentful_paint": "2245.2999999523163",
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "privacy"
+  ],
+  "required_links_text": [
+    "about us",
+    "accessibility",
+    "vulnerability disclosure"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "INL Portal - Home",
@@ -88,7 +97,7 @@
   "og_description": null,
   "og_article_published": null,
   "og_article_modified": null,
-  "og_image": null,
+  "og_image": "https://dmztheme19.inl.gov/Branding%20Assets/Images/INL Logo Blue.png",
   "og_type": null,
   "og_url": null,
   "canonical_link": null,

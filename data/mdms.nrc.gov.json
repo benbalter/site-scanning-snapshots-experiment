@@ -5,7 +5,7 @@
   "initial_base_domain": "nrc.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/e8d01475-c3b5-436a-a065-5def4c64f52e/oauth2/v2.0/authorize?client_id=19af5a03-2dde-47ed-b9e1-f9aa486f86d5&scope=openid%20profile%20email%20api%3A%2F%2FNRC-MDMS-Prod-Api%2Fall%20offline_access&redirect_uri=https%3A%2F%2Fmdms.nrc.gov%2Fauth&client-request-id=01950986-7db8-777a-8964-1e0e5f3e123f&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=3.23.0&client_info=1&code_challenge=N22sXirm-oReA6D4A9LznU0S8h3PI18Q6HWgi7r5oQM&code_challenge_method=S256&nonce=01950986-7db9-720a-a5f5-10e4394d123a&state=eyJpZCI6IjAxOTUwOTg2LTdkYjktNzIwMi04ODA3LWRlNTZhNWQ0YWJmYyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D",
+  "url": "https://login.microsoftonline.com/e8d01475-c3b5-436a-a065-5def4c64f52e/oauth2/v2.0/authorize?client_id=19af5a03-2dde-47ed-b9e1-f9aa486f86d5&scope=openid%20profile%20email%20api%3A%2F%2FNRC-MDMS-Prod-Api%2Fall%20offline_access&redirect_uri=https%3A%2F%2Fmdms.nrc.gov%2Fauth&client-request-id=01951485-8665-7662-aa6c-efba72d388ce&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=3.23.0&client_info=1&code_challenge=QCIdXE829hH-2y_AyTGpNFzhhHneyuFy1vw9wZOwpVY&code_challenge_method=S256&nonce=01951485-8666-7b71-af0f-c7ce6d83b61d&state=eyJpZCI6IjAxOTUxNDg1LTg2NjYtN2E1OS1hZDZjLTk3NzA5YmUzNTM4ZCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:12:51.174Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,7 +44,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msftauthimages.net",
+    "aadcdn.msauthimages.net",
     "login.live.com",
     "mdms.nrc.gov"
   ],
@@ -57,8 +56,8 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-bkceizftqt0hdsieakx7ojjabiwvsggynvgnyucp0fa/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-bkceizftqt0hdsieakx7ojjabiwvsggynvgnyucp0fa/logintenantbranding/0/illustration",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-bkceizftqt0hdsieakx7ojjabiwvsggynvgnyucp0fa/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-bkceizftqt0hdsieakx7ojjabiwvsggynvgnyucp0fa/logintenantbranding/0/illustration",
     "https://login.live.com/Me.htm",
     "https://mdms.nrc.gov/assets/config/app-config.json",
     "https://mdms.nrc.gov/chunk-4G7QDVXO.js",
@@ -91,8 +90,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07507047395833334",
-  "largest_contentful_paint": "681.8999999761581",
   "required_links_url": [
     "privacy"
   ],

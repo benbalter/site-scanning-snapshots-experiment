@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T15:50:26.469Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -42,40 +41,21 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "DOC",
-    "subagency": "USPTO",
-    "yt": "true"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-NVTXSCVJRT,G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "components.uspto.gov",
-    "dap.digitalgov.gov",
-    "instana-eum-prod.uspto.gov",
-    "itw-components.etc.uspto.gov",
-    "www.googletagmanager.com",
-    "www.youtube.com"
+    "instana-eum-prod.uspto.gov"
   ],
   "third_party_service_urls": [
-    "https://components.uspto.gov/js/Uni-Fed-Min.js",
-    "https://components.uspto.gov/js/ais/66-tdscm.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://instana-eum-prod.uspto.gov/eum/eum.min.js",
-    "https://itw-components.etc.uspto.gov/json/dynamic-trans-menu-2.0.0.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://instana-eum-prod.uspto.gov/eum/eum.min.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".uspto.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0019963533528645832",
-  "largest_contentful_paint": "696.2999999523163",
   "required_links_url": [
     "about",
     "fear",

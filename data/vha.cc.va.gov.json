@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:03:14.735Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,20 +45,24 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "hd.egain.com"
   ],
   "third_party_service_urls": [
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
+    "https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMR7eS2Ao.woff2",
     "https://hd.egain.com/console-iframe.html",
+    "https://hd.egain.com/egain-community.png",
     "https://hd.egain.com/images/consolebg.jpg"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".va.gov",
     "vha.cc.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

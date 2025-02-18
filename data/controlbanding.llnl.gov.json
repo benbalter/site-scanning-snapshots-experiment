@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:09:15.153Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -41,32 +40,38 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOE",
+    "subagency": "LLNL",
+    "sdor": "fda.gov",
+    "dclink": "true"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.llnl.gov",
     "dap.digitalgov.gov",
     "osc.llnl.gov",
-    "static.cloudflareinsights.com"
+    "static.cloudflareinsights.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://analytics.llnl.gov/matomo.js",
     "https://analytics.llnl.gov/matomo.php",
     "https://analytics.llnl.gov/plugins/HeatmapSessionRecording/configs.php",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://osc.llnl.gov/ping/",
-    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".llnl.gov",
     "controlbanding.llnl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.1476207578125",
-  "largest_contentful_paint": "259.1999999284744",
   "required_links_url": [
     "about",
     "privacy"

@@ -5,7 +5,7 @@
   "initial_base_domain": "fmcs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/a530232b-71f7-4dbc-9715-ec06ce869aa6/oauth2/authorize?client_id=00000007-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMAAAALz67DnrPBHvkz4AHdgE8r4qKY2DeGFnOpkqFRXSePTc6lisqlbJMQXvfIO1FMUszwEAAAABAAAACS5yZWRpcmVjdCBodHRwczovL2NjbXMzLmNybTkuZHluYW1pY3MuY29tLw%26RedirectTo%3DMAAAALz67DnrPBHvkz4AHdgE8r7N1tsDsOG65mRIikj7lGbMP6CZB3dvtKnMxSM%252bL1zqZ2h0dHBzOi8vY2NtczMuY3JtOS5keW5hbWljcy5jb20v%26RedirectToForMcas%3Dhttps%253a%252f%252fccms3.crm9.dynamics.com%252f&response_mode=form_post&nonce=638752837841039897.MjU3OWIxNWUtYzkxMy00MzY4LTk2MDAtNmQyM2FlOGI1NjNlOGMyZmY5NGQtYTgzYi00OTljLTkzNjktOGI0YWY1YmI2Yzhk&redirect_uri=https%3A%2F%2Fbn1--namcrmlivesg101.crm9.dynamics.com%2F&max_age=86400&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0",
+  "url": "https://login.microsoftonline.com/a530232b-71f7-4dbc-9715-ec06ce869aa6/oauth2/authorize?client_id=00000007-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMAAAALz67DnrPBHvkz4AHdgE8r4qKY2DeGFnOpkqFRXSePTc6lisqlbJMQXvfIO1FMUszwEAAAABAAAACS5yZWRpcmVjdCBodHRwczovL2NjbXMzLmNybTkuZHluYW1pY3MuY29tLw%26RedirectTo%3DMAAAALz67DnrPBHvkz4AHdgE8r7N1tsDsOG65mRIikj7lGbMP6CZB3dvtKnMxSM%252bL1zqZ2h0dHBzOi8vY2NtczMuY3JtOS5keW5hbWljcy5jb20v%26RedirectToForMcas%3Dhttps%253a%252f%252fccms3.crm9.dynamics.com%252f&response_mode=form_post&nonce=638754524952189929.OTM2ODMwNDAtYWEzYi00NjUyLThjNzgtY2ZkNjY1YjNjMTJkMjk4MGRjZmItYzgxZi00NTQyLWIzY2QtZDY0MWFiMzFjNjA0&redirect_uri=https%3A%2F%2Fbn1--namcrmlivesg101.crm9.dynamics.com%2F&max_age=86400&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T06:23:07.232Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -72,8 +71,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07965405208333334",
-  "largest_contentful_paint": "555.6000000238419",
   "required_links_url": [
     "privacy"
   ],

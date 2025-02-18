@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T02:19:29.642Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -48,34 +47,24 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c0d.akstat.io",
-    "52-222-122-97_s-23-32-75-29_ts-1739585959-clienttons-s.akamaihd.net",
+    "17de4c12.akstat.io",
     "c.go-mpulse.net",
-    "gtphuylimsuguz5p7gtq-pjrv17-f6739fb70-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "ssv.census.gov",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net"
+    "ssv.census.gov"
   ],
   "third_party_service_urls": [
-    "https://17de4c0d.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-29_ts-1739585959-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c12.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuylimsuguz5p7gtq-pjrv17-f6739fb70-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/2RHWJ-MDWEM-2Q8VY-MNC3N-UGP9B",
-    "https://ssv.census.gov/favicon.ico",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
+    "https://ssv.census.gov/favicon.ico"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".census.gov",
     ".respond.census.gov",
     "respond.census.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0288345",
-  "largest_contentful_paint": "984.2999999523163",
   "required_links_url": [
     "about",
     "privacy"

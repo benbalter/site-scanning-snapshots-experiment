@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T06:10:18.745Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,12 +47,10 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVQUwaEQbjA.woff",
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4iaVQUwaEQbjB_mQ.woff",
@@ -66,19 +63,17 @@
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x5OaVQUwaEQbjB_mQ.woff",
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x5caVQUwaEQbjB_mQ.woff"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".fema.gov",
     "pivot-beta.fema.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "FEMA PIVOT - Log In",
+  "title": "FEMA | PIVOT",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -91,7 +86,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": true,
+  "main_element_present": false,
   "robots_txt_detected": false,
   "robots_txt_url": "https://pivot-beta.fema.gov/robots.txt",
   "robots_txt_status_code": 503,

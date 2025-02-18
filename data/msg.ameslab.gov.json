@@ -16,17 +16,16 @@
   "agency": "Department of Energy",
   "bureau": "Ames Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": null,
   "source_list": [
     "pulse",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T00:49:52.182Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "timeout",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -55,8 +54,6 @@
     ".msg.chem.iastate.edu"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.026878631591796875",
-  "largest_contentful_paint": "236.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

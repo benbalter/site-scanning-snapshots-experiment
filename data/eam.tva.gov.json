@@ -5,7 +5,7 @@
   "initial_base_domain": "tva.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=code&client_id=5659922c-7515-4594-b640-b8bf3dd519ce&redirect_uri=https%3A%2F%2Fiap.tva.gov%2Faffwebservices%2Fpublic%2Foauthtokenconsumer&scope=openid&state=31fc7a40-e3a1a753-47b23246-5e012d28-8954ff4e-45",
+  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=code&client_id=5659922c-7515-4594-b640-b8bf3dd519ce&redirect_uri=https%3A%2F%2Fiap.tva.gov%2Faffwebservices%2Fpublic%2Foauthtokenconsumer&scope=openid&state=31f97252-14bbe05b-f15c88a4-57904848-53c402d1-3d",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T14:26:10.283Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -46,7 +45,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msauthimages.net",
+    "aadcdn.msftauthimages.net",
     "autologon.microsoftazuread-sso.com",
     "d2o9p5vky89u4e.cloudfront.net",
     "login.live.com"
@@ -62,9 +61,9 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_4ba7c391e6f3f547d8ce.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/customcss",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/illustration",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/customcss",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-6xwxaxlel12vrrsa49xse675snq7lnog54dm-kj0evk/logintenantbranding/0/illustration",
     "https://autologon.microsoftazuread-sso.com/270992cd-9003-4971-84de-d1640c0bffc5/winauth/ssoprobe",
     "https://d2o9p5vky89u4e.cloudfront.net/NzhkYzBhOWY1ZGRkLm8zbi5pbw%3D%3D/7md82z4j93949tfygamnok2m4/bWljcm9zb2Z0b25saW5lLmNvbQ%3D%3D/img.gif",
     "https://login.live.com/Me.htm"
@@ -75,8 +74,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06458689062500002",
-  "largest_contentful_paint": "675.5",
   "required_links_url": [
     "privacy"
   ],
@@ -98,14 +95,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=code&client_id=5659922c-7515-4594-b640-b8bf3dd519ce&redirect_uri=https%3A%2F%2Fiap.tva.gov%2Faffwebservices%2Fpublic%2Foauthtokenconsumer&scope=openid&state=1254ac91-e6bdbea6-96c2d75b-3350b148-2dde93ce-12",
+  "robots_txt_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=code&client_id=5659922c-7515-4594-b640-b8bf3dd519ce&redirect_uri=https%3A%2F%2Fiap.tva.gov%2Faffwebservices%2Fpublic%2Foauthtokenconsumer&scope=openid&state=1a43ee5a-bdba55ce-bd72f5da-6f7a6f22-28b6baad-ac",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=code&client_id=5659922c-7515-4594-b640-b8bf3dd519ce&redirect_uri=https%3A%2F%2Fiap.tva.gov%2Faffwebservices%2Fpublic%2Foauthtokenconsumer&scope=openid&state=22609f43-10c11c2d-fba794a9-f422402b-db8fd54c-6da",
+  "sitemap_xml_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=code&client_id=5659922c-7515-4594-b640-b8bf3dd519ce&redirect_uri=https%3A%2F%2Fiap.tva.gov%2Faffwebservices%2Fpublic%2Foauthtokenconsumer&scope=openid&state=1e0eaf35-edea801a-5517f024-25b9cb63-fda826b5-946",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

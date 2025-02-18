@@ -28,7 +28,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T10:28:22.113Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,21 +50,21 @@
     "agency": "NCUA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-F4QGXLHBXD,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-F4QGXLHBXD",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "d.clarity.ms",
     "dap.digitalgov.gov",
+    "s.clarity.ms",
     "www.clarity.ms",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://s.clarity.ms/collect",
     "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/l1re8fkku1",
     "https://www.googletagmanager.com/gtag/js"
@@ -75,8 +74,6 @@
     ".mycreditunion.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3242461219889323",
-  "largest_contentful_paint": "281.5",
   "required_links_url": [
     "about",
     "fear",

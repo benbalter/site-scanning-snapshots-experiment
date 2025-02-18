@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T12:25:56.063Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,7 @@
     "agency": "OJP"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-6X9R2YKRQJ,G-CSLL4ZEK4L,UA-122677529-1,UA-49393820-1,G-NJPHSR94TM",
+  "ga_tag_id": "G-6X9R2YKRQJ,UA-122677529-1,UA-49393820-1,G-CSLL4ZEK4L,G-NJPHSR94TM",
   "third_party_service_domains": [
     "analytics.foresee.com",
     "brain.foresee.com",
@@ -68,7 +67,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/90504fed-33a3-4731-82f8-3a1a29173438",
+    "https://brain.foresee.com/state/ojp-main/fb97e838-ecf7-482b-a905-9f84aaeefefb",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://connect.facebook.net/en_US/sdk.js",
@@ -97,6 +96,7 @@
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
     "https://www.google.com/cse/static/images/1x/en/branding.png",
     "https://www.google.com/cse/static/style/look/v4/default.css",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -105,8 +105,6 @@
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04122664086914062",
-  "largest_contentful_paint": "289.5",
   "required_links_url": [
     "about",
     "foia",

@@ -24,9 +24,8 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T16:28:24.401Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -50,12 +49,11 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".lanl.gov",
     ".periodic.lanl.gov",
     "periodic.lanl.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "379",
   "required_links_url": [
     "about"
   ],

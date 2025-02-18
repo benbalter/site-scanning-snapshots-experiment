@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T15:54:32.715Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,10 +51,11 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/header-logo.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".va.gov",
+    "www.va.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.02048234375",
-  "largest_contentful_paint": "339.89999997615814",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

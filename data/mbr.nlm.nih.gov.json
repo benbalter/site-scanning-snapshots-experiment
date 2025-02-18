@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T10:47:24.908Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
@@ -40,10 +39,14 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS",
+    "subagency": "NIH",
+    "enhlink": "true"
+  },
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-QDN3RSJJ3H,G-R8B93RESE8,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "partner.archive-it.org"
   ],
@@ -55,8 +58,6 @@
   "third_party_service_count": 1,
   "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.5637322621663411",
-  "largest_contentful_paint": "9691.899999976158",
   "required_links_url": [
     "about",
     "usa.gov"

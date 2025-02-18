@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:53:04.706Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,29 +48,34 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "accounts.qualtrics.com",
     "s.qualtrics.com",
     "siteintercept.qualtrics.com",
+    "sjc1.qualtrics.com",
     "www.google.com",
+    "www.googletagmanager.com",
     "www.gstatic.com",
     "zncydxfem8jrupnsj-qwebsite.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://accounts.qualtrics.com/app-versions/customer-hub-login-banner/27dcd484db8e91eddaa4/bundle.js",
+    "https://accounts.qualtrics.com/app-versions/customer-hub-login-banner/27dcd484db8e91eddaa4/main.css",
     "https://s.qualtrics.com/login/static/qualtrics-logo.png",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
+    "https://sjc1.qualtrics.com/csp-report",
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
+    "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
     "https://zncydxfem8jrupnsj-qwebsite.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".medicaid.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.030985823079427082",
-  "largest_contentful_paint": "1188.1000000238419",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

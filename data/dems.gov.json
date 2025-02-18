@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:36:04.165Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -72,10 +71,10 @@
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
-  "cookie_domains": null,
+  "cookie_domains": [
+    "www.dems.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000005770345052083334",
-  "largest_contentful_paint": "291.7000000476837",
   "required_links_url": [
     "privacy"
   ],

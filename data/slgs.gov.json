@@ -1,13 +1,13 @@
 {
-  "name": "treasurydirect.gov",
+  "name": "slgs.gov",
   "initial_url": "https://slgs.gov",
   "initial_domain": "slgs.gov",
   "initial_base_domain": "slgs.gov",
   "initial_top_level_domain": "gov",
-  "redirect": true,
-  "url": "https://www.treasurydirect.gov/government/slgs/",
-  "domain": "www.treasurydirect.gov",
-  "base_domain": "treasurydirect.gov",
+  "redirect": false,
+  "url": "https://slgs.gov/",
+  "domain": "slgs.gov",
+  "base_domain": "slgs.gov",
   "top_level_domain": "gov",
   "live": true,
   "filter": false,
@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:49:10.874Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -63,6 +62,7 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
     "https://gateway.foresee.com/code/19.14.7-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.14.7-fs/fs.utils.js",
@@ -78,12 +78,10 @@
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
-    ".treasurydirect.gov",
-    "www.treasurydirect.gov"
+    ".slgs.gov",
+    "slgs.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.0009043492431640625",
-  "largest_contentful_paint": "701.8999999761581",
   "required_links_url": [
     "about",
     "foia",

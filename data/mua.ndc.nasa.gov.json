@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T16:53:46.153Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -56,10 +55,10 @@
     "https://launchpad.nasa.gov/icam/api/assets/icam-api-hsts.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "790.8999999761581",
   "required_links_url": [
     "privacy"
   ],

@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T11:30:53.745Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -59,7 +58,8 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -67,8 +67,6 @@
     "hdpulse.nimhd.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.012914571207682291",
-  "largest_contentful_paint": "295.2000000476837",
   "required_links_url": [
     "about",
     "usa.gov"

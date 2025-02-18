@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:45:43.046Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,7 +51,7 @@
     "cto": "6"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,G-QY7WXHK8CT,G-3LRB05G9HS",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP,G-QY7WXHK8CT,G-3LRB05G9HS",
   "third_party_service_domains": [
     "10709.global.siteimproveanalytics.io",
     "c.go-mpulse.net",
@@ -90,7 +89,10 @@
     "https://d2n4zfio24poj1.cloudfront.net/feature-flags.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://service.force.com/embeddedservice/5.0/client/invite.esw.min.js",
     "https://service.force.com/embeddedservice/5.0/client/liveagent.esw.min.js",
@@ -104,9 +106,9 @@
     "https://service.force.com/embeddedservice/5.0/utils/common.min.js",
     "https://service.force.com/embeddedservice/5.0/utils/inert.min.js",
     "https://siteimproveanalytics.com/js/siteanalyze_10709.js",
-    "https://uscis.my.site.com/OAISChat/resource/1739677528347/ChatWrapperJS",
-    "https://uscis.my.site.com/OAISChat/resource/1739677528966/OAISChatOfflineSupportHours",
-    "https://uscis.my.site.com/OAISChat/resource/1739677528994/chatclient",
+    "https://uscis.my.site.com/OAISChat/resource/1739848031486/ChatWrapperJS",
+    "https://uscis.my.site.com/OAISChat/resource/1739848031802/OAISChatOfflineSupportHours",
+    "https://uscis.my.site.com/OAISChat/resource/1739848032225/chatclient",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
@@ -125,8 +127,6 @@
     ".uscis.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.019520806437174482",
-  "largest_contentful_paint": "960.8000000715256",
   "required_links_url": [
     "about",
     "fear",

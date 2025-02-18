@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T07:25:22.504Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -45,12 +44,14 @@
   "dap_version": "",
   "ga_tag_id": "G-WD0986RWM9",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.lanl.gov",
     "p.typekit.net",
     "use.typekit.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.lanl.gov/optimized/lg/27310578-d075-49c2-a31c-34b60d1b6c4c_1024.webp",
     "https://cdn.lanl.gov/optimized/lg/2c23fc00-63e9-4e40-b233-73afef4f702c_768.webp",
     "https://cdn.lanl.gov/optimized/lg/d83bd7dd-3369-4313-bebe-181932efae32_1024.webp",
@@ -61,13 +62,11 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".lanl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06636628450520834",
-  "largest_contentful_paint": "129.30000007152557",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"

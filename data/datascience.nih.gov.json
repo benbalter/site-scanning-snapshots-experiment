@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T11:49:06.056Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,17 +48,16 @@
     "subagency": "NIH"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-Y60CQSK2FH",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-Y60CQSK2FH,G-GuqERA1OGmkzAfz",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
     "cdnjs.cloudflare.com",
-    "csp.withgoogle.com",
-    "d.clarity.ms",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "listgrowth.ctctcdn.com",
+    "s.clarity.ms",
     "search.usa.gov",
     "static.cloudflareinsights.com",
     "static.ctctcdn.com",
@@ -75,8 +73,6 @@
     "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.8.0/css/uswds.css",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.8.0/js/uswds.min.js",
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
-    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -86,6 +82,7 @@
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://listgrowth.ctctcdn.com/v1/f76cb00b9c3e35805e02e3cc8353e5e5.json",
+    "https://s.clarity.ms/collect",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -93,7 +90,7 @@
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.css",
     "https://static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js",
-    "https://www.clarity.ms/s/0.7.67/clarity.js",
+    "https://www.clarity.ms/s/0.7.68/clarity.js",
     "https://www.clarity.ms/tag/pbhv4166y4",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
@@ -109,13 +106,11 @@
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 17,
+  "third_party_service_count": 16,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.23857368859863282",
-  "largest_contentful_paint": "666.1999999284744",
   "required_links_url": [
     "about",
     "fear",

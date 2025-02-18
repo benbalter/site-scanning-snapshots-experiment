@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:40:17.685Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -40,47 +39,28 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HHS",
-    "amp;subagency": "CDC"
-  },
-  "dap_version": "20240925 v8.3 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "cdc.112.2o7.net",
     "gis.cdc.gov",
-    "mtrics.cdc.gov",
-    "www.cdc.gov",
-    "www.googletagmanager.com"
+    "www.cdc.gov"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s06611003873718",
     "https://gis.cdc.gov/favicon.ico",
-    "https://mtrics.cdc.gov/cdcgov/1.0.0/s.gif",
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RC15421f99835542dbba4143c0e739ad68-source.min.js",
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RCa21d699436cc47c59cf9fab91094b33e-source.min.js",
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RCbd8606a877574b6ca3cc8856f9231a77-source.min.js",
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RCc1efb5aa5a46430eacc0ff788d943f1c-source.min.js",
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RCcedf2df1bb2745c881d09c562490071d-source.min.js",
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/RCe0586cad14254ba79b4e679cd9835cf4-source.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement_Module_ActivityMap.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/launch-04da70ea688d.min.js",
-    "https://www.cdc.gov/JScript/metrics/google/Universal-Federated-Analytics-Min.js",
     "https://www.cdc.gov/JScript/metrics/topic_levels.js",
     "https://www.cdc.gov/TemplatePackage/contrib/libs/dompurify/latest/purify.min.js",
-    "https://www.cdc.gov/config/banner.txt",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.cdc.gov/config/banner.txt"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 2,
   "cookie_domains": [
-    ".cdc.gov",
-    "www.atsdr.cdc.gov"
+    ".cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000780621337890625",
-  "largest_contentful_paint": "568.7999999523163",
   "required_links_url": [
     "about",
     "fear",

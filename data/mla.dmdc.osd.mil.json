@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:46:47.603Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -48,11 +47,10 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".osd.mil",
     "mla.dmdc.osd.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04563657653808594",
-  "largest_contentful_paint": "1348.1999999284744",
   "required_links_url": [
     "about",
     "fear",

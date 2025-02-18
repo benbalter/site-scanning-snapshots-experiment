@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T07:48:10.656Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -48,25 +47,21 @@
     "subagency": "ARS-NAL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-DRBJK1ZGZ6,G-CSLL4ZEK4L,G-ER98FFN75C",
+  "ga_tag_id": "G-DRBJK1ZGZ6,G-ER98FFN75C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com",
-    "www.nal.usda.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.nal.usda.gov/csp-collector/index.php"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01532201151529948",
-  "largest_contentful_paint": "622.2999999523163",
   "required_links_url": [
     "about",
     "foia",

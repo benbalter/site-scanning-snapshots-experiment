@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:28:43.972Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,8 +60,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1a.akstat.io",
-    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "gov1.siteintercept.qualtrics.com",
     "s.go-mpulse.net",
@@ -72,14 +69,9 @@
     "zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1a.akstat.io/",
-    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://s.go-mpulse.net/boomerang/KXTEL-Y7J86-GB25A-JVVUG-FD68Q",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/www.hhs.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/site/www.hhs.gov.json",
@@ -87,19 +79,18 @@
     "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".hhs.gov",
     ".www.hhs.gov",
     "www.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.007870176188151041",
-  "largest_contentful_paint": "1416.5",
   "required_links_url": [
     "about",
     "fear",

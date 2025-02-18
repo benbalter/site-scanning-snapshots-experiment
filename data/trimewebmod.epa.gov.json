@@ -23,9 +23,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:45:56.056Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -51,7 +50,7 @@
     "agency": "EPA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-140265622-1,G-2SEC4V3SK9,UA-32633028-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-140265622-1,UA-32633028-1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "script.crazyegg.com",
@@ -79,8 +78,6 @@
     "cdx.epa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000029827473958333335",
-  "largest_contentful_paint": "472.59999990463257",
   "required_links_url": [
     "about",
     "privacy"

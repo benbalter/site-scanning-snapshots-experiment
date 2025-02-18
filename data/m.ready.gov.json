@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:10:13.929Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,8 +46,9 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-29392722-1,G-GHG7XR2CMP,G-VZ5WM65HJE,G-CSLL4ZEK4L",
+  "ga_tag_id": "UA-29392722-1,G-VZ5WM65HJE,G-GHG7XR2CMP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "ct.pinterest.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -60,6 +60,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://ct.pinterest.com/v3/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -76,13 +77,11 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".ready.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.007716452636718751",
-  "largest_contentful_paint": "215.39999997615814",
   "required_links_url": [
     "about",
     "fear",

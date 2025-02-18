@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T11:40:28.149Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,11 +57,9 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FH5X1PMV8C,UA-77708142-1,UA-108444827-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "cdn.app.cfigroup.com",
     "cdn.gov.cfigroup.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
-    "e.gov.cfigroup.com",
     "script.hotjar.com",
     "static.addtoany.com",
     "static.hotjar.com",
@@ -72,12 +69,9 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.app.cfigroup.com/webmon/s/UploadFile/2023/6/29/2560px-USGS_logo_green.png",
-    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/122.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/webmon.js",
     "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://e.gov.cfigroup.com/wmon",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
@@ -91,13 +85,11 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".usgs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.001051359375",
-  "largest_contentful_paint": "358.90000009536743",
   "required_links_url": [
     "about",
     "foia",

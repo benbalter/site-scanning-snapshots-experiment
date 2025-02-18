@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:29:32.274Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,26 +44,22 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "benchmark.1e100cdn.net",
-    "benchmarks.cdn.compute-pipe.com",
-    "fastly.cedexis-test.com",
-    "p29.cedexis-test.com",
-    "performance.radar.cloudflare.com"
+    "d37vlkgj6jn9t1.cloudfront.net",
+    "performance.radar.cloudflare.com",
+    "serverless-benchmarks-rust.compute-pipe.com",
+    "uniquely-peaceful-hagfish.edgecompute.app"
   ],
   "third_party_service_urls": [
-    "https://benchmark.1e100cdn.net/r20-100KB.png",
-    "https://benchmarks.cdn.compute-pipe.com/r20-100KB.png",
-    "https://fastly.cedexis-test.com/img/20367/r20-100KB.png",
-    "https://p29.cedexis-test.com/img/r20-100KB.png",
-    "https://performance.radar.cloudflare.com/beacon.js"
+    "https://d37vlkgj6jn9t1.cloudfront.net/",
+    "https://performance.radar.cloudflare.com/beacon.js",
+    "https://serverless-benchmarks-rust.compute-pipe.com/",
+    "https://uniquely-peaceful-hagfish.edgecompute.app/"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "70.60000002384186",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

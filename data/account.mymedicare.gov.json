@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:26:19.489Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,6 +51,7 @@
     "cdn.quantummetric.com",
     "cdn1.adoberesources.net",
     "clientsdk.launchdarkly.us",
+    "events.launchdarkly.us",
     "flask.nextdoor.com",
     "frontend.medicare.gov",
     "googleads.g.doubleclick.net",
@@ -81,9 +81,11 @@
     "https://bat.bing.com/p/action/97143892.js",
     "https://cdn.quantummetric.com/qscripts/quantum-medicare.js",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
-    "https://clientsdk.launchdarkly.us/sdk/evalx/5fbc13ba576d160bafbf6869/users/eyJhbm9ueW1vdXMiOnRydWUsImtleSI6IjZjNDUxNDIwLWVjNTAtMTFlZi04MWVmLWRkMzRjN2M5N2ViNCJ9",
+    "https://clientsdk.launchdarkly.us/sdk/evalx/5fbc13ba576d160bafbf6869/users/eyJhbm9ueW1vdXMiOnRydWUsImtleSI6IjA3NDViZTkwLWVkY2ItMTFlZi1iZTQ1LWQxMDEzNWIxZjg0OSJ9",
     "https://clientsdk.launchdarkly.us/sdk/evalx/6019fd45b36e3a100c2d2416/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImRlZmF1bHQtdXNlciIsImN1c3RvbSI6eyJ1c2VUZXN0RmxhZ3MiOmZhbHNlfX0",
     "https://clientsdk.launchdarkly.us/sdk/goals/5fbc13ba576d160bafbf6869",
+    "https://events.launchdarkly.us/events/bulk/5fbc13ba576d160bafbf6869",
+    "https://events.launchdarkly.us/events/bulk/6019fd45b36e3a100c2d2416",
     "https://flask.nextdoor.com/pixel",
     "https://frontend.medicare.gov/asset-manifest.json",
     "https://frontend.medicare.gov/assets/Icon_Chat-f1ad62dd.svg",
@@ -124,7 +126,7 @@
     "https://tealium-collect.medicare.gov/cmsgov/main/2/i.gif",
     "https://tealium-tags.medicare.gov/medicare-www/prod/utag.js",
     "https://tealium-tags.medicare.gov/medicare-www/prod/utag.sync.js",
-    "https://tealium-visitor-service.medicare.gov/cmsgov/medicare-www/01950e4b2ed500191d768eb93c6405077002606f00590",
+    "https://tealium-visitor-service.medicare.gov/cmsgov/medicare-www/019517fc696700060ab97c0315c605077002606f00590",
     "https://www.google.com/ccm/collect",
     "https://www.google.com/pagead/1p-user-list/784518148/",
     "https://www.googletagmanager.com/gtag/js",
@@ -132,14 +134,12 @@
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn56jl522ec1a1wzf-medicare.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 25,
+  "third_party_service_count": 26,
   "cookie_domains": [
     ".medicare.gov",
     "www.medicare.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0083113173828125",
-  "largest_contentful_paint": "802.7999999523163",
   "required_links_url": [
     "about",
     "privacy"

@@ -5,7 +5,7 @@
   "initial_base_domain": "hhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://stgradsidp.acf.hhs.gov/idp/profile/SAML2/Redirect/SSO?execution=e3s1",
+  "url": "https://stgradsidp.acf.hhs.gov/idp/profile/SAML2/Redirect/SSO?execution=e2s1",
   "domain": "stgradsidp.acf.hhs.gov",
   "base_domain": "hhs.gov",
   "top_level_domain": "gov",
@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:33:30.536Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -50,12 +49,9 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".hhs.gov",
     "stgradsidp.acf.hhs.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "488.39999997615814",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"

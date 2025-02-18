@@ -5,13 +5,13 @@
   "initial_base_domain": "llnl.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://lc.llnl.gov/lorenz",
+  "url": "https://lc.llnl.gov/my.policy",
   "domain": "lc.llnl.gov",
   "base_domain": "llnl.gov",
   "top_level_domain": "gov",
-  "live": false,
+  "live": true,
   "filter": false,
-  "status_code": 404,
+  "status_code": 200,
   "media_type": "text/html",
   "agency": "Department of Energy",
   "bureau": "Lawrence Livermore National Laboratory",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:12:11.566Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,7 +36,9 @@
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
@@ -51,29 +52,25 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".llnl.gov",
     "lc.llnl.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "182",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "BIG-IP - Error Page",
+  "title": "lc.llnl.gov",
   "description": null,
   "keywords": null,
   "og_title": null,

@@ -27,7 +27,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T05:38:26.080Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,7 +53,9 @@
   "third_party_service_domains": [
     "10612.global.siteimproveanalytics.io",
     "analytics.google.com",
+    "content.hotjar.io",
     "dap.digitalgov.gov",
+    "gov1.qualtrics.com",
     "gov1.siteintercept.qualtrics.com",
     "script.hotjar.com",
     "siteimproveanalytics.com",
@@ -67,11 +68,24 @@
   "third_party_service_urls": [
     "https://10612.global.siteimproveanalytics.io/image.aspx",
     "https://analytics.google.com/g/collect",
+    "https://content.hotjar.io/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://gov1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php",
+    "https://gov1.siteintercept.qualtrics.com/WRQualtricsShared/Graphics/siteintercept/wr-dialog-close-btn-black.png",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/EmbeddedTargetModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/WebResponsiveDialogModule.js",
+    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
+    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/11f1c213b300bd2343e444b1b9adbf19b5fad3d2/img/wr-dialog-close-btn-black.png",
+    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://siteimproveanalytics.com/js/siteanalyze_10612.js",
     "https://static.hotjar.com/c/hotjar-863348.js",
@@ -82,13 +96,11 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://zn5sclcftrf3p3joj-usdafedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".farmers.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08504720052083334",
-  "largest_contentful_paint": "656.8999999761581",
   "required_links_url": [
     "foia",
     "privacy",

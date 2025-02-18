@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T09:20:30.309Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"frames-iframes\":1,\"images\":6,\"link-purpose\":3}",
+  "accessibility_violations": "{\"auto-updating\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": null,
@@ -43,27 +42,24 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-fQbDEAlxkrhSrbv,G-pWXZwCEZiRj29Kt",
+  "ga_tag_id": "G-SI8PbTall2OIZFt,G-TJFw9rZXUdELpDj,G-JVsHeL0jvyrdGPK,G-9XoUubxEaJANdIs",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/912c7609e80e30ac/1739697619750/9Vc05XJLz1c687z",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/716482607:1739694322:bPTmzyj1kUHrK1gEs9i-E4KBUpkN-zOsva7xJDqm8Co/912c7609e80e30ac/BPzk7S6eKI4K9CaGRktDvjz5tKlFGgBIlIE_Eao.KSs-1739697619-1.1.1.1-iAQNykqLnnWQpfAYGJo2LGWLmV49UWshD8iOlSBMLjGrg3aevNZZ3nExH76V5gaK",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/912c7609e80e30ac/1739697619745/e77e136da801ac17139ec4f9deb5183796ef7da9a6bbfc0f009f03ac31cd5cde/KgXS6J1dG3Vy7hk",
-    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/913d46efea42ff1a/1739873948362/3mUCiJ8xoZ9RIls",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/757919291:1739870098:7aEsisCliJNT4F3kSD5MgucPIT7X4fFQMkTDvBqoIX4/913d46efea42ff1a/E6ao0bMU_li8jNHhdI8kF8po.0jj_L_0E_FGD3Kjz04-1739873948-1.1.1.1-W_TY5_0oX6MqRXKdOKYNgcecTAwQW8YMe0W4d8cm1EaE2n6Tdcl.IVOyfJpDLHRZ",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/913d46efea42ff1a/1739873948363/bef5fcee1e625c39018a7cccef0b38e4db199dab6490c7becdd346ef72ea18b0/XnYI04duzEBlLpg",
+    "https://challenges.cloudflare.com/turnstile/v0/g/0e3e6804b971/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
     ".eta.lbl.gov",
-    ".lbl.gov",
-    "eta.lbl.gov"
+    ".lbl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04422601497395833",
-  "largest_contentful_paint": "85.6800000667572",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

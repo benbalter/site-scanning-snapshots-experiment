@@ -5,7 +5,7 @@
   "initial_base_domain": "nist.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://login.nist.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=ETvorLEtGv9tZn-ARxWa1UQIZHYJ2oRVwqD3uyfc_bY&code_challenge_method=S256&nonce=ggeqEFoQ9Y52DCD1vO9cV7Tnalq71Gn2BEw9SghsWTJ18I26QF9GSsnC4t5BB9Tk&redirect_uri=https%3A%2F%2Flogin.nist.gov%2Fenduser%2Fcallback&response_type=code&state=TqUEW9Zerus4sEa8QyDiLlI6AKbKUTuwEeVstY77hivzBIpabFH2KZPSji2KlPSY&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://login.nist.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=flRyS4kvtAB65d5Z9haCTjYnfmOnhV13Ui7Nd-UVyq4&code_challenge_method=S256&nonce=tlx8WTs9izSODL6pTNWLWb6q8lXkbpHL4DWyqiYNtvp2sGBUk1zNgqh1IF9kLzCW&redirect_uri=https%3A%2F%2Flogin.nist.gov%2Fenduser%2Fcallback&response_type=code&state=WJgObD9e4onv9ZhQbMCbjIEK1zzi5gUHdG9uUeLeeaXRwXYD8Ulv55wsFgZLnvcy&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "login.nist.gov",
   "base_domain": "nist.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:46:27.738Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -54,11 +53,10 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".nist.gov",
     "login.nist.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.47984244303385415",
-  "largest_contentful_paint": "592.7000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,

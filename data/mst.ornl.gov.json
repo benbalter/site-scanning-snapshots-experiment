@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:39:32.729Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -41,7 +40,11 @@
   "site_search": true,
   "search_dot_gov": null,
   "dap": true,
-  "dap_parameters": "",
+  "dap_parameters": {
+    "agency": "DOE",
+    "subagency": "OAK-RIDGE-NATIONAL-LABORATORY",
+    "dclink": "true"
+  },
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-pPcQQs6jQSfhU,G-TGYF36HYE6,G-CSLL4ZEK4L",
   "third_party_service_domains": [
@@ -89,8 +92,6 @@
     "www.ornl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.016301796875000003",
-  "largest_contentful_paint": "322.6999999284744",
   "required_links_url": [
     "privacy",
     "/es"

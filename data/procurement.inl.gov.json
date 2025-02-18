@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:30:03.089Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"contrast\":25,\"link-purpose\":3}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
   "login_provider": null,
@@ -71,8 +70,6 @@
     ".inl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.004450778198242187",
-  "largest_contentful_paint": "689.9000000953674",
   "required_links_url": [
     "about",
     "privacy"

@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:23:36.244Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -39,47 +38,30 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "DHHS",
-    "subagency": "CMS"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "adobe-ep.cms.gov",
-    "cdn1.adoberesources.net",
     "code.jquery.com",
-    "dap.digitalgov.gov",
-    "tags.tiqcdn.com",
     "tealium-tags.cms.gov",
     "unpkg.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.google-analytics.com"
   ],
   "third_party_service_urls": [
-    "https://adobe-ep.cms.gov/ee/v1/interact",
-    "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://code.jquery.com/jquery-3.2.1.slim.min.js",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.44.js",
-    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.6.js",
     "https://tealium-tags.cms.gov/cms-general/prod/utag.js",
     "https://tealium-tags.cms.gov/cms-general/prod/utag.sync.js",
     "https://unpkg.com/feather-icons",
     "https://unpkg.com/feather-icons@4.29.2",
     "https://unpkg.com/feather-icons@4.29.2/dist/feather.min.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.google-analytics.com/analytics.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00008559497070312501",
-  "largest_contentful_paint": "292.2999999523163",
   "required_links_url": [
     "about",
     "fear",

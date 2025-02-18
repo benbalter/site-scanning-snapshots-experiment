@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://idm.cms.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=Ik7P5JHVzZFmPPMfPt2sjt54tgl-Kcg8kP-d-Eh15Zw&code_challenge_method=S256&nonce=FQ8babHuM32tQq9DqIJHrQ8n4CTHnyrRSqGF0RpVfEgG27u8SdlRpjOoPjtH4iiR&redirect_uri=https%3A%2F%2Fidm.cms.gov%2Fenduser%2Fcallback&response_type=code&state=9XVO8dKIztGMzWlB54uO34rTf8X2bvtMA7Ol4UkJKGchUNSnqbzaSIruZas5l7WC&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://idm.cms.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=j2wtKy9hyhFYXrKnylrKQz_5AIYtc74ixK4zQBfyVf4&code_challenge_method=S256&nonce=l2f63C9PLWw5X3MRMl7L7T1tYwx2gtuUQrFdn2javZZdirGLwV0poGzjaLwGqVNb&redirect_uri=https%3A%2F%2Fidm.cms.gov%2Fenduser%2Fcallback&response_type=code&state=1CGuqgd0k3N94eDMyJgn8kM1WRcMPBnncJCzTH6pOMLicMAAWiwCNygFfCoUnaHs&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "idm.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T03:17:04.050Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -80,8 +79,6 @@
     "idm.cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "645.1999999284744",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

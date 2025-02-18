@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:37:19.898Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +34,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"link-purpose\":7}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Microsoft Sharepoint",
   "login_provider": null,
@@ -47,7 +46,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "UA-79949717-4,UA-81904109-1,G-8KV7SCF7CZ,G-EH4MCGYZ1H",
+  "ga_tag_id": "UA-79949717-4,UA-81904109-1",
   "third_party_service_domains": [
     "dmztheme19.inl.gov",
     "fonts.gstatic.com",
@@ -71,10 +70,7 @@
     "https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff",
     "https://inl.gov/content/uploads/2023/04/departmentofenergy.png",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.google-analytics.com/j/collect",
-    "https://www.google-analytics.com/privacy-sandbox/register-conversion",
-    "https://www.googletagmanager.com/gtag/js",
+    "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 5,
@@ -83,8 +79,6 @@
     "portal.inl.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "507.3000000715256",
   "required_links_url": [
     "about",
     "privacy"

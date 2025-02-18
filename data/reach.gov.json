@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:08:57.348Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,6 +51,7 @@
   "ga_tag_id": "G-N11VPVBMSC,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "connect.facebook.net",
+    "content.hotjar.io",
     "dap.digitalgov.gov",
     "insight.adsrvr.org",
     "js.adsrvr.org",
@@ -65,6 +65,7 @@
   "third_party_service_urls": [
     "https://connect.facebook.net/en_US/fbevents.js",
     "https://connect.facebook.net/signals/config/689161902234859",
+    "https://content.hotjar.io/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://insight.adsrvr.org/track/realtimeconversion",
@@ -83,13 +84,11 @@
     "https://www.va.gov/img/tiny-usa-flag.png",
     "https://www.va.gov/img/vcl-logo.png"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".reach.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.164517296875",
-  "largest_contentful_paint": "652",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

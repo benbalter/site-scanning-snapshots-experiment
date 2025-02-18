@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "National Agricultural Library",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": true,
   "source_list": [
     "gov",
     "dap",
@@ -27,11 +27,10 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T09:56:18.819Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -56,22 +55,22 @@
     "analytics.google.com",
     "dap.digitalgov.gov",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.nal.usda.gov"
   ],
   "third_party_service_urls": [
     "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.nal.usda.gov/csp-collector/index.php"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".lcacommons.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.004826054484049479",
-  "largest_contentful_paint": "1933.3999999761581",
   "required_links_url": [
     "about",
     "foia",

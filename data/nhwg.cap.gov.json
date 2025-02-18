@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:42:29.591Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +32,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
+  "www_scan_status": "execution_context_destroyed",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -75,8 +74,6 @@
     "nhwg.cap.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0014969487304687503",
-  "largest_contentful_paint": "770.3999999761581",
   "required_links_url": [
     "about",
     "inspector",
@@ -129,7 +126,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://fundingtoolkit.sji.gov",
-  "www_status_code": 200,
-  "www_title": "Home - SJI Funding Toolkit"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

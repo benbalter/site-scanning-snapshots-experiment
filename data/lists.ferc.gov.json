@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T06:20:51.359Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,10 +57,10 @@
     "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4KLg.woff"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ferc.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.10402697916666667",
-  "largest_contentful_paint": "7509.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:29:21.430Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -39,7 +38,7 @@
   "cms": "Drupal",
   "login_provider": null,
   "login": null,
-  "site_search": true,
+  "site_search": false,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
@@ -49,7 +48,6 @@
   "ga_tag_id": "G-CSLL4ZEK4L,UA-122677529-1,UA-49393820-1,G-NJPHSR94TM",
   "third_party_service_domains": [
     "browser-update.org",
-    "clients1.google.com",
     "connect.facebook.net",
     "content.govdelivery.com",
     "cse.google.com",
@@ -62,11 +60,9 @@
   ],
   "third_party_service_urls": [
     "https://browser-update.org/update.min.js",
-    "https://clients1.google.com/generate_204",
     "https://connect.facebook.net/en_US/sdk.js",
     "https://content.govdelivery.com/attachments/fancy_images/USDOJOJP_COMMS/2020/11/3911988/bjs-overlay-header-500x125-v02_original.png",
     "https://content.govdelivery.com/overlay/js/9569.js",
-    "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -76,18 +72,15 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
-    "https://www.google.com/cse/static/images/1x/en/branding.png",
     "https://www.google.com/cse/static/style/look/v4/default.css",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04122664086914062",
-  "largest_contentful_paint": "273.3000000715256",
   "required_links_url": [
     "about",
     "foia",

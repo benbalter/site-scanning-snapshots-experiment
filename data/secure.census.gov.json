@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:10:06.770Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,14 +45,10 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "ds-aksb-a.akamaihd.net",
-    "i34de7b00-ds-aksb-a.akamaihd.net",
     "www.census.gov"
   ],
   "third_party_service_urls": [
     "http://www.census.gov/main/javascript/jquery.latest.min.js",
-    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
-    "https://i34de7b00-ds-aksb-a.akamaihd.net/2/242334/b",
     "https://www.census.gov/main/css/all_header_styles.css",
     "https://www.census.gov/main/css/font-awesome-4.7.0/css/font-awesome.min.css",
     "https://www.census.gov/main/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
@@ -66,14 +61,12 @@
     "https://www.census.gov/main/uswds/uswds-2.12.0/js/uswds-init.min.js",
     "https://www.census.gov/main/uswds/uswds-2.12.0/js/uswds.min.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".census.gov",
     ".secure.census.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.00031734374999999997",
-  "largest_contentful_paint": "262.8000000715256",
   "required_links_url": [
     "about",
     "fear",

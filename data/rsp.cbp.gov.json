@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:48:55.966Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,25 +47,31 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c19.akstat.io",
+    "17de4c10.akstat.io",
+    "52-222-122-97_s-23-32-75-29_ts-1739851293-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
+    "gtphuylimsuguz5uayoq-p6sviw-d130ab89f-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "secure.login.gov"
+    "secure.login.gov",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c19.akstat.io/",
+    "https://17de4c10.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-29_ts-1739851293-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
+    "https://gtphuylimsuguz5uayoq-p6sviw-d130ab89f-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/ZHKQL-H7T39-J54Z9-6PRY9-ZNAQK",
     "https://secure.login.gov/.well-known/openid-configuration",
-    "https://secure.login.gov/api/openid_connect/certs"
+    "https://secure.login.gov/api/openid_connect/certs",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".cbp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1306.2000000476837",
   "required_links_url": [
     "about",
     "fear",

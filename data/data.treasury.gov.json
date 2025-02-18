@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:05:24.926Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,8 +47,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-QTKLZK8R7K,UA-19138737-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c18.akstat.io",
-    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -59,8 +56,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c18.akstat.io/",
-    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZWMf6hPvhPQ.woff2",
@@ -75,13 +70,12 @@
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 7,
   "cookie_domains": [
+    ".home.treasury.gov",
     ".treasury.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "238.89999997615814",
   "required_links_url": [
     "about",
     "fear",

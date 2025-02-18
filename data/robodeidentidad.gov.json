@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T18:45:22.315Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -65,7 +64,8 @@
     "https://home-c72.niceincontact.com/inContact/ChatClient/js/embed.min.js",
     "https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -73,8 +73,6 @@
     "www.robodeidentidad.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0087639638671875",
-  "largest_contentful_paint": "824",
   "required_links_url": [
     "privacy",
     "/es"

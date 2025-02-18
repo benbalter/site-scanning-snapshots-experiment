@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:44:22.880Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,6 +47,7 @@
   "dap_version": "",
   "ga_tag_id": "G-GHG7XR2CMP,UA-32318423-1",
   "third_party_service_domains": [
+    "17de4c14.akstat.io",
     "c.go-mpulse.net",
     "gov1.siteintercept.qualtrics.com",
     "s.go-mpulse.net",
@@ -57,9 +57,13 @@
     "zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c14.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
@@ -70,15 +74,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".dhs.gov",
     ".uat-my.uscis.dhs.gov",
     "uat-my.uscis.dhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00009494921875",
-  "largest_contentful_paint": "831.5",
   "required_links_url": [
     "about",
     "fear",

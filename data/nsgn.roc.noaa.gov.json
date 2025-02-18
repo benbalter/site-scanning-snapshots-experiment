@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T11:38:02.202Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"language\":1}",
+  "accessibility_violations": "{\"contrast\":1,\"language\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -52,8 +51,6 @@
     "nsgn.roc.noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1308.3999999761581",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -22,12 +22,11 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:53:50.136Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "execution_context_destroyed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
@@ -44,15 +43,19 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "locationservice.aprimo.com",
+    "state.aprimo.com"
+  ],
+  "third_party_service_urls": [
+    "https://locationservice.aprimo.com/api/GetUserLocation",
+    "https://state.aprimo.com/login/.well-known/openid-configuration"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".state.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,

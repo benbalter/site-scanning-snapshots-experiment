@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T05:22:07.293Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -95,6 +94,7 @@
     "https://js.arcgis.com/4.28/esri/views/2d/webglDeps.js",
     "https://js.arcgis.com/4.28/esri/views/MapView.js",
     "https://js.arcgis.com/4.28/esri/widgets/Attribution/t9n/Attribution_en.json",
+    "https://js.arcgis.com/4.28/esri/widgets/Popup.js",
     "https://js.arcgis.com/4.28/esri/widgets/Zoom/t9n/Zoom_en.json",
     "https://js.arcgis.com/4.28/init.js",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/lew.epa.gov.json",
@@ -141,8 +141,6 @@
     ".epa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "126.39999997615814",
   "required_links_url": [
     "about",
     "foia",

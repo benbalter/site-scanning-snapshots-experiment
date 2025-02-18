@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T11:50:14.870Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,8 +44,9 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-SX1ZWCHK30,G-CSLL4ZEK4L,UA-18186076-1",
+  "ga_tag_id": "G-SX1ZWCHK30,G-CSLL4ZEK4L,UA-18186076-1,G-wtmHob87MiQqNKH,G-PJQv7W6KZCzEoMm,G-pB06D3QFtwyg9n9",
   "third_party_service_domains": [
+    "content.hotjar.io",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "platform.twitter.com",
@@ -60,12 +60,14 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://content.hotjar.io/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://platform.twitter.com/widgets.js",
     "https://script.crazyegg.com/pages/scripts/0115/5200.js",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.hotjar.com/c/hotjar-3386112.js",
     "https://syndication.twitter.com/settings",
@@ -83,13 +85,11 @@
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03365462630208333",
-  "largest_contentful_paint": "635.2000000476837",
   "required_links_url": [
     "about",
     "privacy",

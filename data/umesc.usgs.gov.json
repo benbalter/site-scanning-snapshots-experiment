@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "dap",
     "pulse",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:12:12.503Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "timeout",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -53,10 +52,10 @@
     "https://umesc.usgs.gov/favicon.ico"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "39.199999928474426",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T17:04:02.322Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,10 +51,10 @@
     "https://images.prosams.nasa.gov/white-isotope-login.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.1362194872639974",
-  "largest_contentful_paint": "653.6000000238419",
   "required_links_url": [
     "about",
     "privacy"

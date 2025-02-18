@@ -5,7 +5,7 @@
   "initial_base_domain": "dhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://hsinpiv.dhs.gov/adfs/ls/?SAMLRequest=fZFNb4MwDIb%2FSuQ7EKBfiwpVt6papU5Fhe6wWwZpyQQJwwHt5y%2Bj7dZdaikHK6%2F92o%2Fni6%2B6Ir1oUWoVge9SIELlupDqFMEhWzszWMRz5HUVNGzZmVLtxWcn0BBbqJCdfyLoWsU0R4lM8VogMzlLly9bFriUNa02OtcVkCWiaI21etIKu1q0qWh7mYvDfhtBaUyDzPNyRBeNW5TonnTv%2FTh4aboDsrK2UnEzjHpVlyhVI%2FtfOS%2BO6FXoAVnrNhfDyBEceYUCyGYVAffDwMbog07yh2A68mdhHoaFf6TFtJw8WBEmHFH24q8MsRMbhYYrE0FAg7FDA8cfZ%2F6EhT6jdsmAvgFJLos%2BSnUGeI%2FK%2B1mE7DnLEifZpRmQ1%2BshrAAu2Nng3t7yvt%2BYXyFDbIEMYCxOS5XZR%2F25d9s2vqT%2Fjxt%2FAw%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=OYYLtVaoKOLjZA%2FJ5W1HjhS22pe1pWT9%2FpyUkllepmtEgpnkIGq5%2FiJBeEiJM0hnl7I%2Bh2RdpzDExiZRh8U9GaD1eiiGhEu9W5nSTQ97r7fy6MsmysLmEeWqlACPvf1Z72YlMUzYntBt2vlVdHNAlfpkLomUeoB7C7q2Qagk%2BxRiZdMueTHkbRF6yIz%2B5IGig3RZQ3zkEAxn2etmtWfqaQFGfEIgPkLNqtHujfkcW3Sne2IYk%2FmrjJUPaowWLZMTNSZxOqTbigCl8S5NN8FizFMRF0vG0q1pMuzctkOKssQuk9wJQy%2FK0swKxnV9H4yMTg2%2FAzxg8RHZsEq0yCfecQ%3D%3D&client-request-id=991b2d0d-5e3b-4413-7a06-008001080075&RedirectToIdentityProvider=AD+AUTHORITY",
+  "url": "https://hsinpiv.dhs.gov/adfs/ls/?SAMLRequest=fZHLbsIwEEV%2FxZp9Eie8LRJEi1CRqBqR0EV3xjFgFOw040T9%2FLoBWrph4YXlM3PHZ6azr3NJWlmjMjqG0KdApBamUPoQwzZfemOYJVPk5zKq2LyxR72Rn41ES1yhRnZ5iaGpNTMcFTLNzxKZFSybv65Z5FNW1cYaYUogc0RZWxf1bDQ2Z1lnsm6VkNvNOoajtRWyIBCIPlq%2FOKJ%2FMG3wkxBk2RuQhYtVmttu1Bt9RKUr1f7ivNhjUGIAZGlqIbuRY9jzEiWQ1SIGHvX2u0O4n4wnh6EYyj4dUC4GJ1qE9LTrOwhTjqha%2BVeG2MiVRsu1jSGi0cCjkReO8oiyaMJ61Kej4QeQ9PrRJ6UvAh9Z2V0gZC95nnrpW5YDeb8twgFw1c669Pre9%2BPG%2FCYZEiekE%2BN0OqvMHRpOg%2Fu2yfX6f7nJNw%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=hwys9LhT2WOa2cV4VzowycRRCW3GcByM%2Bxa%2FeBb1BfVWK6NQ7nX9u4wa3kqIZzef7ThKrcaAx9X7jX8uG%2FfzO0FekB%2FWGgIZLXx9Cuw%2BzotevXmtnJh2ML0%2FgFdJm3ffVUwnO7wnX1tiCZb2WamryhQzil6tjvujTobE5sKt0E%2BKx076p5FBgcYGIlRKrOzSug%2FxPDVkKCjCdueLz%2FjjdYYCaIgMYr8%2Bj8Elgf6nZYT5TBu87DrjpVJv3yaXsOtc%2ByJhql97HOtZ%2BVj3OSKynhuVAXFsRdEY1KhVqXvPnHdtI%2BeJE%2BfkI%2BVYyrb5bjhiGY3M8IB9TB%2Bu6w6R%2B8rGew%3D%3D&client-request-id=e1154f7f-f2ca-40c7-e108-0080004400ad&RedirectToIdentityProvider=AD+AUTHORITY",
   "domain": "hsinpiv.dhs.gov",
   "base_domain": "dhs.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:31:28.556Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,10 +50,10 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dhs.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "484.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

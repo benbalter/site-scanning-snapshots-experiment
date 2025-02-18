@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T01:58:06.386Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,10 +53,10 @@
     "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".army.mil"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00523455029296875",
-  "largest_contentful_paint": "467.89999997615814",
   "required_links_url": [
     "about"
   ],

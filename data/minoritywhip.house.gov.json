@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:41:57.859Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -72,10 +71,10 @@
     "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
   ],
   "third_party_service_count": 7,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00021891479492187503",
-  "largest_contentful_paint": "1356.3000000715256",
   "required_links_url": [
     "about",
     "privacy"

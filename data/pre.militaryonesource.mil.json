@@ -18,15 +18,15 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dap"
+    "dap",
+    "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:59:12.551Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
@@ -81,6 +81,7 @@
     "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.8.0/database.js",
     "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.8.0/recording-engine.js",
+    "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.8.0/rendering-engine.js",
     "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.8.0/rules-engine.js",
     "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.8.0/scoring-engine.js",
     "https://ucm-us.verint-cdn.com/files/modules/unified-websdk/2.8.0/visitor.js",
@@ -88,7 +89,6 @@
     "https://ucm-us.verint-cdn.com/files/sites/militaryonesource/draft/custom-style.css",
     "https://ucm-us.verint-cdn.com/files/sites/militaryonesource/draft/sdk.js",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googleoptimize.com/optimize.js",
     "https://www.googletagmanager.com/gtag/js",
@@ -101,8 +101,6 @@
     "pre.militaryonesource.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
   "required_links_url": [
     "about",
     "fear",

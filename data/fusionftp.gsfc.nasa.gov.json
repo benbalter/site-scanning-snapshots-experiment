@@ -19,12 +19,12 @@
   "404_test": true,
   "source_list": [
     "omb_idea",
+    "final_url_websites",
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T11:04:36.741Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "timeout",
@@ -92,8 +92,6 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
   "required_links_url": [
     "about",
     "privacy"

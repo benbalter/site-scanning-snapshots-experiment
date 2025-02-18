@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T04:26:13.238Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,7 +44,7 @@
     "agency": "DOL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-QrFzJCp7idcK4Yu,G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-WS70BY0SDJ,G-HZ8Y6WJF2K,UA-175033420-4,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-QrFzJCp7idcK4Yu,G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-WS70BY0SDJ,G-HZ8Y6WJF2K,G-CSLL4ZEK4L,UA-175033420-4",
   "third_party_service_domains": [
     "6313124.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
@@ -89,6 +88,7 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com/SIE/"
   ],
   "third_party_service_count": 13,
@@ -96,8 +96,6 @@
     ".dol.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0051669391276041665",
-  "largest_contentful_paint": "731.6000000238419",
   "required_links_url": [
     "about",
     "foia",

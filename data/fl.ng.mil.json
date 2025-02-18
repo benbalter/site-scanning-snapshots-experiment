@@ -23,7 +23,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T11:22:22.764Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,6 +54,7 @@
     "fonts.googleapis.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -79,17 +79,15 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".fl.ng.mil",
-    ".ng.mil",
-    "fl.ng.mil"
+    ".ng.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08243825553385417",
-  "largest_contentful_paint": "207.90000009536743",
   "required_links_url": [
     "about",
     "fear",

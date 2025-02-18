@@ -5,7 +5,7 @@
   "initial_base_domain": "hhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638752885518819277.ZjdlYzRmYmItMmQ3ZC00NWI0LThhOTYtMGQzN2ViNWRkMmI2ZjJjNmQ0NjAtMTYxNC00MjVlLWFkYWUtMzU3Y2Q4OWY2ODM4&ui_locales=en-US&mkt=en-US&client-request-id=d2446ca2-0742-428a-a58c-d35722e77508&state=CILkvyhSLQYixe7FPx7eNO0SWPCGI1dKi7jw3zQJ0XrDiy8pEB1I2_Tg17ZGc4-LzbcmzD97YPAoKhsQjA4nPwoK3pa5pZ6YhFijA-fgWNX3ySHJXRp_MbbM2JjSPMRHlEs_XeLqr9Ba-EDm7W7QBXb6BIJheip_UnOjpq_nNxAAf3sn0oV9qzUjw8xBw55BEli_IPWb7afqy2TGz5iNYXfbPW8pE00Gv4JyfYVqFpSx9WtoKln4qnj6QxxGpXhtGi3AjJ7e5aVOfQ7EoHPFhQ&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0",
+  "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638754563250035667.ZWU0ZmFmYzItNjgxNS00ZGU5LWI3MTQtZjAyZjM1NDRlMWQzMDY1MjE4NGUtNmU0YS00MTcyLWJkMTctYmU4ZmE4Njk3ZDRj&ui_locales=en-US&mkt=en-US&client-request-id=23071957-c3e8-44aa-abdb-32e1653ab920&state=tYRqxyY6LOjC5Ou_TE0w35euqEkXTL2puFOGJYXcbFDLO9DdZoM6mjiw42Rec5joBceeEYsuQEPeHLGTqO8QP5yYvpBHdWi-OYSUPBJSF373JT34_EDEDfaQJSkt0PElG1r1hfuJIAvZUPiTnK1nGWdDKAaJM772fUuQ8W1Vue4hmHb1QU7Dn8nHuTrCv8OY6QJq1jWOrEwDufsD_HMK__Cwl0yn0n2LipNjbIiSVQVAHs66Xbbe85CT8R5J4Xw4uEmmlswa-g8HQqOGFeeInA&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:42:44.320Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -50,13 +49,13 @@
   ],
   "third_party_service_urls": [
     "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
-    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_b6qmkv34zrtzwovprnovhw2.js",
+    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_58kdvbzctdjk48yetaekng2.js",
     "https://aadcdn.msauth.net/shared/1.0/content/images/backgrounds/2_11d9e3bcdfede9ce5ce5ace2d129f1c4.svg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/marching_ants_986f40b5a9dc7d39ef8396797f61b323.gif",
     "https://aadcdn.msauth.net/shared/1.0/content/images/marching_ants_white_8257b0707cbe1d0bd2661b80068676fe.gif",
     "https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg",
     "https://aadcdn.msauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_-8cgqRzfEOPEpYl9MSuPRw2.js",
+    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_iO_VLhbr8gXvmCnvbzDI7A2.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_4ba7c391e6f3f547d8ce.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
@@ -69,8 +68,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.133407484375",
-  "largest_contentful_paint": "1249.3000000715256",
   "required_links_url": [
     "privacy"
   ],

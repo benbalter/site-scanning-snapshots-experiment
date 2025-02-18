@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:36:34.963Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,27 +51,35 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c15.akstat.io",
+    "17de4c0e.akstat.io",
+    "52-222-123-172_s-23-32-75-13_ts-1739817944-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
+    "gtphxldimsufez5tqpma-p304yh-c9aeecca1-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c15.akstat.io/",
+    "https://17de4c0e.akstat.io/",
+    "https://52-222-123-172_s-23-32-75-13_ts-1739817944-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://gtphxldimsufez5tqpma-p304yh-c9aeecca1-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/F95X5-VEGEJ-4YE62-YEBQR-TNAYM",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cbp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.018961614583333335",
-  "largest_contentful_paint": "589.3999999761581",
   "required_links_url": [
     "about",
     "fear",

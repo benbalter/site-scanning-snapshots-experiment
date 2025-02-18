@@ -23,7 +23,6 @@
     "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:31:31.381Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,22 +45,18 @@
   "dap_version": "",
   "ga_tag_id": "G-943T056V59",
   "third_party_service_domains": [
-    "api.hcaptcha.com",
     "fonts.googleapis.com",
     "hcaptcha.com",
     "kml.house.gov",
-    "newassets.hcaptcha.com",
     "p.typekit.net",
     "services.arcgisonline.com",
     "use.typekit.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://api.hcaptcha.com/checksiteconfig",
     "https://fonts.googleapis.com/css2",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/AZ-5/shape.kml",
-    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://p.typekit.net/p.css",
     "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/10/410/193",
     "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/10/410/194",
@@ -77,16 +72,13 @@
     "https://use.typekit.net/igd7ghc.css",
     "https://use.typekit.net/zaj6iye.css",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".biggs.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.1758082744140625",
-  "largest_contentful_paint": "228.20000004768372",
   "required_links_url": [
     "about",
     "privacy"

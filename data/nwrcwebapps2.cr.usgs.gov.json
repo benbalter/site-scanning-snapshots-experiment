@@ -16,16 +16,15 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": true,
   "source_list": [
     "pulse"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:14:50.463Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -50,8 +49,6 @@
     ".usgs.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "421.7000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,

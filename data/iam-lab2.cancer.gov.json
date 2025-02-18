@@ -5,7 +5,7 @@
   "initial_base_domain": "cancer.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://iam-lab2.cancer.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=jRcS83qiVw848d5Rhu7HQKh9Yub8C7gmPiwe9dNPu4k&code_challenge_method=S256&nonce=33nOrsMzWIMDJvsJ14eoS2K4FvxKthyAAyKNGNY2YWe85xYqxRUZ7Jf5JeO1RJdt&redirect_uri=https%3A%2F%2Fiam-lab2.cancer.gov%2Fenduser%2Fcallback&response_type=code&state=tVovDGAcueyRl9fSg0iXTVoyJqkOrNuoL6aSgzHlbtqoF9KVrTN9hBYCQMDg8vd0&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://iam-lab2.cancer.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=jjxtvqhGw351cne3AOtXaSv9uGhx7F7k35b4iockBSI&code_challenge_method=S256&nonce=nfSphO71uU2gr26vjJuG7W1qCPsIfnh5T0Guu1nSajaur2bPIZrSYQkAYdUnblNi&redirect_uri=https%3A%2F%2Fiam-lab2.cancer.gov%2Fenduser%2Fcallback&response_type=code&state=D7Vu4QhINbELQpEHyWIUJLIIFOClspWTVvV4Z6uaSCL66KML1IK1M0yAH3alGVGp&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "iam-lab2.cancer.gov",
   "base_domain": "cancer.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:25:32.976Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -77,8 +76,6 @@
     "iam-lab2.cancer.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.8203529711914063",
-  "largest_contentful_paint": "746.1000000238419",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"

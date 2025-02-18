@@ -19,13 +19,11 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T11:33:20.877Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -91,8 +89,6 @@
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0009741199137369793",
-  "largest_contentful_paint": "578.2999999523163",
   "required_links_url": [
     "about",
     "fear",

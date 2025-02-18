@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T06:41:26.195Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -48,7 +47,7 @@
     "subagency": "ARS-NAL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-4D9QG5RNH8,G-ER98FFN75C,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-4D9QG5RNH8,G-CSLL4ZEK4L,G-ER98FFN75C",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.googletagmanager.com"
@@ -63,8 +62,6 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.008298736368815104",
-  "largest_contentful_paint": "628.6999999284744",
   "required_links_url": [
     "about",
     "foia",

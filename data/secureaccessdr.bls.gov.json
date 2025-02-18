@@ -5,7 +5,7 @@
   "initial_base_domain": "bls.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://secureaccessdr.bls.gov/+CSCOE+/logon.html#form_title_text",
+  "url": "https://secureaccessdr.bls.gov/+CSCOE+/logon.html?fcadbadd=1#form_title_text",
   "domain": "secureaccessdr.bls.gov",
   "base_domain": "bls.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:06:12.196Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,11 +47,10 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".bls.gov",
     "secureaccessdr.bls.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00015572916666666667",
-  "largest_contentful_paint": "475.3000000715256",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

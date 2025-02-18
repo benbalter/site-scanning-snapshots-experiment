@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T17:33:40.162Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -78,16 +77,14 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2020-09/North_Las_Vegas_VA-Medical_Center.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".va.gov"
+    ".va.gov",
+    "www.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.049972854166666664",
-  "largest_contentful_paint": "305.7999999523163",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

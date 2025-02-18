@@ -16,7 +16,7 @@
   "agency": "Department of Veterans Affairs",
   "bureau": "Office of Information and Technology, IT Operations and Services (ITOPS)",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": null,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T15:56:31.225Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -50,12 +49,9 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".va.gov",
     "gwsra02-vpn.vpn.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "245.39999997615814",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:37:02.499Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,23 +49,23 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "eastus-6.in.applicationinsights.azure.com",
     "js.monitor.azure.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://eastus-6.in.applicationinsights.azure.com/v2/track",
     "https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cdc.gov",
     "staging.reportstream.cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "0",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

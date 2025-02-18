@@ -5,7 +5,7 @@
   "initial_base_domain": "tva.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=id_token&client_id=0e4050a5-0aaf-4130-836f-e6563d9f3217&redirect_uri=https%3A%2F%2Fsafework.tva.gov%2F&state=36ade77e-cd45-4938-bc8f-c15311d960de&client-request-id=c32b9bfd-80d3-4e53-89e6-4a0440a97b26&x-client-SKU=Js&x-client-Ver=1.0.17&nonce=7af948ac-8447-4e5f-8bb6-9bf1321d0870",
+  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/authorize?response_type=id_token&client_id=0e4050a5-0aaf-4130-836f-e6563d9f3217&redirect_uri=https%3A%2F%2Fsafework.tva.gov%2F&state=b3fc72bd-b84a-46fa-8a3f-27f0a09c7716&client-request-id=a5e515d0-be3b-40ae-b99c-5b7184fbd6e3&x-client-SKU=Js&x-client-Ver=1.0.17&nonce=25f3743e-ef19-4539-bf8a-d489913d9706",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T18:00:52.839Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -86,8 +85,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.13798672916666666",
-  "largest_contentful_paint": "542.3999999761581",
   "required_links_url": [
     "privacy"
   ],

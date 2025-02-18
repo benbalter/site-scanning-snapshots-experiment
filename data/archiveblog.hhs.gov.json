@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:35:01.074Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,21 +44,21 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "benchmark.1e100cdn.net",
     "benchmarks.cdn.compute-pipe.com",
-    "cedexis-test.akamaized.net",
+    "essl-cdxs.edgekey.net",
     "fastly.cedexis-test.com",
-    "p29.cedexis-test.com",
+    "fastly.jsdelivr.net",
     "performance.radar.cloudflare.com",
+    "ptcfc.com",
     "testingcf.jsdelivr.net"
   ],
   "third_party_service_urls": [
-    "https://benchmark.1e100cdn.net/r20-100KB.png",
     "https://benchmarks.cdn.compute-pipe.com/r20-100KB.png",
-    "https://cedexis-test.akamaized.net/img/r20-100KB.png",
+    "https://essl-cdxs.edgekey.net/img/r20-100KB.png",
     "https://fastly.cedexis-test.com/img/20367/r20-100KB.png",
-    "https://p29.cedexis-test.com/img/r20-100KB.png",
+    "https://fastly.jsdelivr.net/gh/jimaek/testobjects@0.0.1/r20-100KB.png",
     "https://performance.radar.cloudflare.com/beacon.js",
+    "https://ptcfc.com/img/284/r20-100KB.png",
     "https://testingcf.jsdelivr.net/gh/jimaek/testobjects@0.0.1/r20-100KB.png"
   ],
   "third_party_service_count": 7,
@@ -67,8 +66,6 @@
     ".hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "52.200000047683716",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

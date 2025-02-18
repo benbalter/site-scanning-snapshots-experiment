@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T10:59:19.484Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,13 +47,19 @@
   "dap_version": "",
   "ga_tag_id": "G-DMSTVCMTM3,G-1L9X7VG78B,G-DDQQBGV0L0,G-LJBXMJ7FB9,UA-26862354-2",
   "third_party_service_domains": [
+    "m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us",
     "ocprodocprodnamgs.blob.core.usgovcloudapi.net",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us/livechatconnector/config/3c5ba7b1-02e5-40a0-b557-36edd7012632/cada0593-ab18-4059-9256-6d5f05cb8a91",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/scripts/LiveChatBootstrapper.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2public/styles/LiveChatWidgetFrame.css",
+    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/react-dom.production.min.js",
+    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/react.production.min.js",
+    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/webchat.js",
+    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/widget.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
@@ -62,14 +67,12 @@
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nih.gov",
     ".stg.nihlibrary.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "869",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

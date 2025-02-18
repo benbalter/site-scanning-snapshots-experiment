@@ -19,11 +19,9 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T09:05:22.080Z",
   "primary_scan_status": "timeout",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
@@ -52,8 +50,6 @@
     ".lbl.gov"
   ],
   "viewport_meta_tag": null,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -72,10 +68,10 @@
   "language": null,
   "language_link": null,
   "main_element_present": null,
-  "robots_txt_detected": false,
+  "robots_txt_detected": true,
   "robots_txt_url": "https://bcsb-web-2.als.lbl.gov/robots.txt",
-  "robots_txt_status_code": 522,
-  "robots_txt_media_type": "text/html",
+  "robots_txt_status_code": 200,
+  "robots_txt_media_type": "text/plain",
   "robots_txt_filesize": 117,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [

@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T17:39:11.780Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -73,10 +72,10 @@
     "https://sservi.directus.app/items/sservi_home"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07334796680092813",
-  "largest_contentful_paint": "1431.2000000476837",
   "required_links_url": [
     "about",
     "privacy"

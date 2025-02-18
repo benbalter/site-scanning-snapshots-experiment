@@ -5,7 +5,7 @@
   "initial_base_domain": "cfpb.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://login.extranet.cfpb.gov/fileintake/?SAMLRequest=jZNBj9owEIXv%2FRWW7wkhW0prkawoaFWkbZtCtofejJmwVh079UxY9t%2FXCaRC6gpxzPh53pvPk9n9sTbsAB61sxkfxwlnYJXbabvP%2BFP5EH3k9%2Fm7GcraNGLe0rNdw58WkNgcETyFawtnsa3Bb8AftIKn9WPGn4kaFKMRHMlLCxSrqtnGe3fgbBkuayupNxx0xu21jf9TjyptQFuSv4GzB%2BcV9BEyTr4NldUy43eT7VbefarCFxYSUR8g45U02J0jtrCySNJSxtMknURJGo0%2FlEkqJlPxfhxPp5NfnBXekVPOfNb2NHjrrXASNQora0BBSmzmXx9FGidiexKh%2BFKWRVR835Sc%2FRwAph3AgNSi6JFdb9WcfXl%2BBtwH9rc3kMMb8Px2krPRpdlg%2FS00Xy0LZ7R6ZXNj3MvCgyQYWAf6taTrcbqK3kVVLxVNBwUJLHG2Kbr%2BP1ppdKXBZ%2FxkzkeD%2FXmrYNc%2FcFgpCiOwhasb6TV2aOEoFZ1JiUvVwgQMa6gusN1M7apMCdW1DuVusV6c33WLAiqkLANdbJynE8w38%2BQD6Ddn%2B3d6%2BVPlfwE%3D",
+  "url": "https://login.extranet.cfpb.gov/fileintake/?SAMLRequest=jZNPj9owEMXv%2FRSR7%2FlDVhTWIllR0KpI2zaFbA97M2bCWnXs1DNh6bdfJ5AKqSvEMePneW9%2BnswejrUODuBQWZOxUZSwAIy0O2X2GXsuH8Mpe8g%2FzVDUuuHzll7NGv60gBTMEcGRv7awBtsa3AbcQUl4Xj9l7JWoQR7HcCQnDFAkq2Yb7e2BBUt%2FWRlBveGg03avTPSfOq6UBmVI%2FAYWPFonoY%2BQMXKtr6yWGbvfTiZy%2FNl%2FYCEQ1QEyVgmN3TFiCyuDJAxlLE3ScZik4WhaJilPp3w8iu4m9y8sKJwlK63%2Bosxp7tYZbgUq5EbUgJwk38y%2FPfE0Svj2JEL%2BtSyLsPixKVnwa%2BCXdvw8UYO8J3a9VXP2ZfmZbx%2FY3d5ADE%2FA8ttBzuJLs8H6u2%2B%2BWhZWK%2Fk3mGtt3xYOBMGA2sOvBV2P01XULqx6KW86KEhgiAWbouv%2FsxVaVQpcxk7mLB7sz0sFu%2F59%2FUaRHyFY2LoRTmGHFo5C0pkUv1QttMewhuoC283Ursokl11rX%2B4W6826XbcoIH3K0tPFxjo6wfwwTz6A%2FnC2f6eX%2F1T%2BDg%3D%3D",
   "domain": "login.extranet.cfpb.gov",
   "base_domain": "cfpb.gov",
   "top_level_domain": "gov",
@@ -23,9 +23,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:57:31.067Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -56,8 +55,6 @@
     "login.extranet.cfpb.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04042644384765625",
-  "largest_contentful_paint": "1291.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

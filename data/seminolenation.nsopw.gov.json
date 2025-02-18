@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T12:16:41.376Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,25 +51,22 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "ttsorsfiles.blob.core.windows.net",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://ttsorsfiles.blob.core.windows.net/offender/seal/SEMINOLENATION-T.jpg",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nsopw.gov",
     ".seminolenation.nsopw.gov",
     "seminolenation.nsopw.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "239.29999995231628",
   "required_links_url": [
     "privacy"
   ],

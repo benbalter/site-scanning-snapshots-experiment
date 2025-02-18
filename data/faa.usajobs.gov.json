@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:05:51.389Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,21 +51,15 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
-    "static.foresee.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/invite___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/production/gateway.min.js",
-    "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/production/trigger/sitelogo.gif",
-    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.png",
-    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.svg",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -76,8 +69,6 @@
     "faa.usajobs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.09938619201660157",
-  "largest_contentful_paint": "160",
   "required_links_url": [
     "about",
     "fear",

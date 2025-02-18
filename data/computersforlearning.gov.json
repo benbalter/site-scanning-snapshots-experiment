@@ -27,7 +27,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T03:30:39.168Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,12 +49,13 @@
     "agency": "GSA"
   },
   "dap_version": "",
-  "ga_tag_id": "G-J3TD5FT4WV,G-CSLL4ZEK4L,G-R7K9EQ36LY,G-QE6QCN7EG1",
+  "ga_tag_id": "G-J3TD5FT4WV,G-CSLL4ZEK4L,G-QE6QCN7EG1,G-R7K9EQ36LY",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.ppms.gov"
   ],
@@ -65,17 +65,16 @@
     "https://fonts.googleapis.com/css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.ppms.gov/gw/auth/ppms/api/v1/auth/getOktaUrl"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".computersforlearning.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04155323986816406",
-  "largest_contentful_paint": "1668.1999999284744",
   "required_links_url": [
     "about",
     "foia",

@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T10:12:31.721Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -93,7 +92,8 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -102,8 +102,6 @@
     "td.usembassy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.37853273925781245",
-  "largest_contentful_paint": "317.10000002384186",
   "required_links_url": [
     "fear",
     "foia",

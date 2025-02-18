@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:43:08.822Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,6 +48,7 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
+    "static.foresee.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -56,21 +56,25 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/invite___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/staging/gateway.min.js",
+    "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/staging/trigger/sitelogo.gif",
+    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.png",
+    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.svg",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".uat.usajobs.gov",
     ".usajobs.gov",
     "nist.uat.usajobs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.030805590983072915",
-  "largest_contentful_paint": "310.1999999284744",
   "required_links_url": [
     "about",
     "fear",

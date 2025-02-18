@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:55:38.437Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,6 +57,7 @@
     "ping.withcabin.com",
     "pro.fontawesome.com",
     "scripts.withcabin.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -74,15 +74,15 @@
     "https://pro.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2",
     "https://pro.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2",
     "https://scripts.withcabin.com/hello.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
+    ".digital.va.gov",
     ".va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2742713355712891",
-  "largest_contentful_paint": "1072.8999999761581",
   "required_links_url": [
     "about",
     "fear",

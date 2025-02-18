@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T17:54:49.806Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":7,\"images\":1}",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":6,\"images\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -47,7 +46,7 @@
     "agency": "PNNL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-37763551-5,UA-35875149-1,G-D20QK619Y0,G-5Y2BYGL910,G-MZ2QH4N37T,G-TQ72BH8CSS,G-CSLL4ZEK4L,G-4925",
+  "ga_tag_id": "UA-37763551-5,UA-35875149-1,G-D20QK619Y0,G-MZ2QH4N37T,G-CSLL4ZEK4L,G-TQ72BH8CSS,G-5Y2BYGL910,G-rCbhT6DQ1dEEc",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "analytics.jibecdn.com",
@@ -110,7 +109,7 @@
     "https://app.jibecdn.com/prod/search-bar/0.2.37/main.js",
     "https://app.jibecdn.com/prod/search-bar/0.2.37/polyfills.js",
     "https://app.jibecdn.com/prod/search-bar/0.2.37/scripts.js",
-    "https://app.launchdarkly.com/sdk/evalx/5b4dde4a4892e62d90d9f3ca/contexts/eyJhbm9ueW1vdXMiOnRydWUsImtpbmQiOiJ1c2VyIiwia2V5IjoiZWE0ZjYwOTAtZWJjNS0xMWVmLTgxYTYtOWZmMTYyNDYyYjg2In0",
+    "https://app.launchdarkly.com/sdk/evalx/5b4dde4a4892e62d90d9f3ca/contexts/eyJhbm9ueW1vdXMiOnRydWUsImtpbmQiOiJ1c2VyIiwia2V5IjoiYmM4MmExYTAtZWQ3Yy0xMWVmLTkwZjYtYzNhZGIzMTk4YjEzIn0",
     "https://app.launchdarkly.com/sdk/goals/5b4dde4a4892e62d90d9f3ca",
     "https://app.textrecruit.com/js/jobchat.js",
     "https://app.textrecruit.com/js/jobchatLoaderV2.js",
@@ -142,7 +141,7 @@
     "https://cdn13.icims.com/icims-translations/latest/locales/en-GB/jobchat.json",
     "https://cdn13.icims.com/icims-translations/latest/locales/en-US/acs.json",
     "https://cdn13.icims.com/icims-translations/latest/locales/en-US/jobchat.json",
-    "https://clientstream.launchdarkly.com/eval/5b4dde4a4892e62d90d9f3ca/eyJhbm9ueW1vdXMiOnRydWUsImtpbmQiOiJ1c2VyIiwia2V5IjoiZWE0ZjYwOTAtZWJjNS0xMWVmLTgxYTYtOWZmMTYyNDYyYjg2In0",
+    "https://clientstream.launchdarkly.com/eval/5b4dde4a4892e62d90d9f3ca/eyJhbm9ueW1vdXMiOnRydWUsImtpbmQiOiJ1c2VyIiwia2V5IjoiYmM4MmExYTAtZWQ3Yy0xMWVmLTkwZjYtYzNhZGIzMTk4YjEzIn0",
     "https://cms.jibecdn.com/prod/pnnl-careers/assets/LP-SKU-A1-IMG-BG-en-us-1622665596634.jpg",
     "https://cms.jibecdn.com/prod/pnnl/assets/FOOTER-LABEL-IMG_1-en-us-1620813179249.svg",
     "https://cms.jibecdn.com/prod/pnnl/assets/FOOTER-LABEL-IMG_2-en-us-1620813415221.svg",
@@ -188,7 +187,8 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
@@ -198,6 +198,7 @@
     "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
     "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
     "https://www.youtube.com/s/player/e7567ecf/www-player.css",
+    "https://www.youtube.com/youtubei/v1/log_event",
     "https://yt3.ggpht.com/IxwQpSDg6UUjS_W7ZjaRP5-fB98woLQpzFOap-lAlbfhfSSCJoHiXKK9pIlKRxSW-KJgh3-cuw=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 38,
@@ -206,8 +207,6 @@
     "careerstest.pnnl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03538531087239584",
-  "largest_contentful_paint": "466.60000002384186",
   "required_links_url": [
     "privacy"
   ],

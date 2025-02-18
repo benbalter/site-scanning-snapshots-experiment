@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T02:17:33.872Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,26 +53,22 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "remote.captcha.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://remote.captcha.com/include.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".bls.gov",
     "joltsdata.bls.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00005208333333333334",
-  "largest_contentful_paint": "1301.6000000238419",
   "required_links_url": [
     "privacy"
   ],

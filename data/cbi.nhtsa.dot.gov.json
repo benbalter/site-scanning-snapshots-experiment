@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T04:31:58.704Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,7 +44,8 @@
   "dap_version": "",
   "ga_tag_id": "G-EHCY7",
   "third_party_service_domains": [
-    "17de4c1e.akstat.io",
+    "17de4c13.akstat.io",
+    "17de4c17.akstat.io",
     "artemis-user-api.nhtsa.gov",
     "c.go-mpulse.net",
     "cbi.nhtsa.dot.gov",
@@ -56,7 +56,8 @@
     "use.fontawesome.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1e.akstat.io/",
+    "https://17de4c13.akstat.io/",
+    "https://17de4c17.akstat.io/",
     "https://artemis-user-api.nhtsa.gov/external-menu-config-info",
     "https://c.go-mpulse.net/api/config.json",
     "https://cbi.nhtsa.dot.gov/Latin-Merriweather-Bold.df0181f132a2b97d.woff2",
@@ -83,11 +84,9 @@
     "https://s.go-mpulse.net/boomerang/QVH5M-4JR2D-JERSW-FGTJG-EHCY7",
     "https://use.fontawesome.com/releases/v5.0.6/js/all.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0004711925862630209",
-  "largest_contentful_paint": "236.10000002384186",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -132,9 +131,9 @@
   "uswds_usa_classes": 20,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": "v3.8.0",
-  "uswds_version": 100,
-  "uswds_count": 200,
+  "uswds_semantic_version": null,
+  "uswds_version": 0,
+  "uswds_count": 100,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

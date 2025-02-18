@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T03:02:14.169Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,8 +45,9 @@
     "subagency": "CEN"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-VY5XG9XWGG",
+  "ga_tag_id": "G-VY5XG9XWGG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c0f.akstat.io",
     "assets.adobedtm.com",
     "c.go-mpulse.net",
     "census.gov",
@@ -59,6 +59,7 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c0f.akstat.io/",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC071e17725fad44a3bb14e8123456b9af-source.min.js",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC87bbffc6ff9e42928a26e90bc8ce59ba-source.min.js",
     "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.min.js",
@@ -74,20 +75,18 @@
     "https://census.gov/ratingtool/js/ratingtool.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/8DCFX-TQ8VD-TWDGB-7ETWJ-HY5CJ",
-    "https://smetrics.census.gov/b/ss/cebucensusglobalprod/1/JS-2.23.0-LEWM/s13333600143371",
+    "https://smetrics.census.gov/b/ss/cebucensusglobalprod/1/JS-2.23.0-LEWM/s68618348745121",
     "https://www.google.com/jsapi",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/charts/loader.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".census.gov",
     ".www.census.gov",
     "www.census.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.1361437189127604",
-  "largest_contentful_paint": "969.9000000953674",
   "required_links_url": [
     "about",
     "fear",

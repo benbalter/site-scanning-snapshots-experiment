@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:19:37.517Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -57,7 +56,9 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
     "https://www.ic3.gov/assets/css/uswds.min.css",
     "https://www.ic3.gov/assets/fonts/merriweather/Latin-Merriweather-Bold.woff2",
     "https://www.ic3.gov/assets/fonts/merriweather/Latin-Merriweather-Regular.woff2",
@@ -85,8 +86,6 @@
     "bec.ic3.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0018743326822916663",
-  "largest_contentful_paint": "633.5",
   "required_links_url": [
     "about",
     "privacy"
@@ -143,7 +142,6 @@
     "usa-hint",
     "usa-icon",
     "usa-input",
-    "usa-js-loading",
     "usa-label",
     "usa-legend",
     "usa-list",

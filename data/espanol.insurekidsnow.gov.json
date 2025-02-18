@@ -25,9 +25,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:37:37.849Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"lists\":13}",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -114,8 +113,6 @@
     ".insurekidsnow.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0444863125",
-  "largest_contentful_paint": "1962.2000000476837",
   "required_links_url": [
     "about",
     "privacy",

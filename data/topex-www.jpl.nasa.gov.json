@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T09:43:33.036Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,14 +51,18 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VKJZ7DT3PS,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "bam.nr-data.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "js-agent.newrelic.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://bam.nr-data.net/1/3f776c1fa0",
+    "https://bam.nr-data.net/events/1/3f776c1fa0",
     "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/ajax-loader.gif",
     "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/fonts/slick.woff",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -68,19 +71,17 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu0SC55K5gw.woff2",
+    "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1810.1000000238419",
   "required_links_url": [
     "privacy"
   ],

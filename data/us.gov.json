@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:29:38.932Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -62,6 +61,7 @@
     "https://51567.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/sampling/www.usa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/site/www.usa.gov.json",
@@ -78,11 +78,10 @@
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
-    ".usa.gov"
+    ".usa.gov",
+    "www.usa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04358520263671875",
-  "largest_contentful_paint": "206.79999995231628",
   "required_links_url": [
     "about",
     "foia",

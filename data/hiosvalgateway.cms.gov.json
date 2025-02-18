@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:17:00.128Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,15 +44,19 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "ds-aksb-a.akamaihd.net"
+  ],
+  "third_party_service_urls": [
+    "https://ds-aksb-a.akamaihd.net/2/492788/b",
+    "https://ds-aksb-a.akamaihd.net/RRT",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".cms.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.07758513313802083",
-  "largest_contentful_paint": "210.79999995231628",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

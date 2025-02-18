@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:22:01.773Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"page-titled\":1}",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -50,6 +49,7 @@
   ],
   "third_party_service_urls": [
     "https://m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us/livechatconnector/config/3c5ba7b1-02e5-40a0-b557-36edd7012632/cada0593-ab18-4059-9256-6d5f05cb8a91",
+    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/WebChatControl/scripts/locale/1033.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/scripts/LiveChatBootstrapper.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2public/styles/LiveChatWidgetFrame.css",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/react-dom.production.min.js",
@@ -63,8 +63,6 @@
     "onesearch.nihlibrary.ors.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05276846435546875",
-  "largest_contentful_paint": "1160.1000000238419",
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"

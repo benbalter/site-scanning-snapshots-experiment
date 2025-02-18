@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:45:54.011Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,12 +60,20 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/ftc-gov/production/gateway.min.js",
+    "https://eex-gateway.fr011.ttecfed.com/sites/ftc-gov/production/trigger/FTC_Banner_H.png",
+    "https://eex-gateway.fr011.ttecfed.com/sites/ftc-gov/production/trigger/sitelogo.png",
     "https://extend.vimeocdn.com/ga/98318866.js",
+    "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/cormorant/v21/H4clBXOCl9bbnla_nHIq75u9qKS-aw.woff2",
     "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -83,8 +90,6 @@
     ".ftc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03716191910807292",
-  "largest_contentful_paint": "2615.899999976158",
   "required_links_url": [
     "about",
     "fear",

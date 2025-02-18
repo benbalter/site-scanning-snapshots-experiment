@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T06:01:06.551Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,28 +44,20 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c1a.akstat.io",
-    "52-222-122-97_s-23-32-75-13_ts-1739685658-clienttons-s.akamaihd.net",
+    "17de4c11.akstat.io",
     "c.go-mpulse.net",
-    "gtphuyixf3scsz5rp4na-p30c7v-6152b96a9-clientnsv4-s.akamaihd.net",
-    "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net"
+    "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c1a.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-13_ts-1739685658-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c11.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuyixf3scsz5rp4na-p30c7v-6152b96a9-clientnsv4-s.akamaihd.net/eum/results.txt",
-    "https://s.go-mpulse.net/boomerang/QFE67-NMH9B-3B7U7-5S55V-PWFZB",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
+    "https://s.go-mpulse.net/boomerang/QFE67-NMH9B-3B7U7-5S55V-PWFZB"
   ],
-  "third_party_service_count": 7,
-  "cookie_domains": null,
+  "third_party_service_count": 3,
+  "cookie_domains": [
+    ".fda.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.13072626953125",
-  "largest_contentful_paint": "2327.3000000715256",
   "required_links_url": [
     "about",
     "/es"

@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T01:59:52.660Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,11 +46,11 @@
   "third_party_service_domains": [
     "analytics.dvidshub.net",
     "c.clarity.ms",
-    "d.clarity.ms",
     "d1ldvf68ux039x.cloudfront.net",
     "d34w7g4gy10iej.cloudfront.net",
     "dap.digitalgov.gov",
     "maxcdn.bootstrapcdn.com",
+    "s.clarity.ms",
     "siteassets.dvidshub.net",
     "www.clarity.ms",
     "www.dvidshub.net",
@@ -62,7 +61,6 @@
   "third_party_service_urls": [
     "https://analytics.dvidshub.net/loaded",
     "https://c.clarity.ms/c.gif",
-    "https://d.clarity.ms/collect",
     "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2101/779734/800x450_q95.jpg",
     "https://d34w7g4gy10iej.cloudfront.net/video/2101/DOD_108130519/DOD_108130519-1024x576-1769k-hls.m3u8",
     "https://d34w7g4gy10iej.cloudfront.net/video/2101/DOD_108130519/DOD_108130519-1024x576-1769k-hls0.ts",
@@ -70,6 +68,7 @@
     "https://d34w7g4gy10iej.cloudfront.net/video/2101/DOD_108130519/DOD_108130519-240.bif",
     "https://dap.digitalgov.gov/Universal-Federated-AnalyticsMin.js",
     "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css",
+    "https://s.clarity.ms/collect",
     "https://siteassets.dvidshub.net/css/video.css",
     "https://siteassets.dvidshub.net/js/DVIDSVideoAnalytics.min.js",
     "https://siteassets.dvidshub.net/js/jquery.min.js",
@@ -77,7 +76,7 @@
     "https://siteassets.dvidshub.net/libs/video-js/7.12.4/video.min.js",
     "https://siteassets.dvidshub.net/libs/videojs-thumbnails/videojs.thumbnails.css",
     "https://siteassets.dvidshub.net/libs/videojs-thumbnails/videojs.thumbnails.js",
-    "https://www.clarity.ms/s/0.7.67/clarity.js",
+    "https://www.clarity.ms/s/0.7.68/clarity.js",
     "https://www.clarity.ms/tag/hqi4697kvm",
     "https://www.dvidshub.net/video/779734.m3u8",
     "https://www.dvidshub.net/video/closedcaption",
@@ -94,8 +93,6 @@
     ".army.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.7026432706705729",
-  "largest_contentful_paint": "823.6000000238419",
   "required_links_url": [
     "about",
     "privacy"

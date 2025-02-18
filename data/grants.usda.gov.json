@@ -5,7 +5,7 @@
   "initial_base_domain": "usda.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-c3f84473-5910-4bd7-9e3c-4fdd4414b1b0&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-c%2FUnJUhGt5YP8zn%2FVrvxp6fZiL9nUSMcNuVbekEPSvZvcRUkmd0jXltgC9vRzbnKDEGf%2B5NFdEFDCYaZICqQCjCwsV2Q1fcxYqMXy6g7dXefQtuh4y%2F%2B6iHvXyiLynXm&TARGET=-SM-https:%2F%2Fgrants.usda.gov%2Fgrants%2Findex.html",
+  "url": "https://www.eauth.usda.gov/eauth/b/USDA/login/?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-c3f84473-5910-4bd7-9e3c-4fdd4414b1b0&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-c%2fUnJUhGt5YP8zn%2fVrvxp6fZiL9nUSMcNuVbekEPSvZvcRUkmd0jXltgC9vRzbnKDEGf%2b5NFdEFDCYaZICqQCjCwsV2Q1fcxYqMXy6g7dXefQtuh4y%2f%2b6iHvXyiLynXm&TARGET=-SM-https%3a%2f%2fgrants%2eusda%2egov%2fgrants%2findex%2ehtml",
   "domain": "www.eauth.usda.gov",
   "base_domain": "usda.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:25:02.701Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,17 +52,8 @@
   "third_party_service_count": 1,
   "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "829.2999999523163",
-  "required_links_url": [
-    "privacy",
-    "usa.gov"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "privacy policy",
-    "usa.gov"
-  ],
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
   "title": "eAuthentication",

@@ -5,7 +5,7 @@
   "initial_base_domain": "epa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://wamssoprd.epa.gov/oam/server/obrareq.cgi?encquery%3DkgnhKizsbuAAVhxVfDPFyPAT4btY6P1lZOzLne3DsNaRhrf35TCWNnTfCCLxQ%2FrItLGX068Kag4s9jC%2FpwSMGmA0ayVNLXR86J%2B4gQlHf2WztPAQtSxzNfNPkvf%2BtnWU853%2FdmtUdAwAG64K8BkuGd%2BMEDj0G7NZC8tN1pi%2BibhQbSytN28evJ1UKQPoD3i%2F0y%2FLUoi1ElcVgylh0m%2F6eo0ROBVOIIiN7vUGt8AQtyHW%2BA%2BwsLvG%2FsklDEfSE6%2F0zvgUHjgLiF%2B7sJb8OnDJpl3kyen61gb9ZQS%2F6y3uMEO3h8AOk0OipARYmE%2BcFAjKXJOQSu%2BftZZKGVYqEs81xg%3D%3D%20agentid%3DWebgateEPADomain%20ver%3D1%20crmethod%3D2%26cksum%3D555db2014e7e62336fba3b6b296c388e7d523131",
+  "url": "https://wamssoprd.epa.gov/oam/server/obrareq.cgi?encquery%3DgSsy1o2xLdopQFCwWw9BgriFP2SGYyV7d6qQzkS4wODzOyypoLwFB6wEzlXHyZmP1xjk6ZLnJx8AN4N5c5yB%2FAk5VrT73Y0aj7Jn6pgpxbu0mQ0JEbujbC0Tgw6YNglFivAccqxjFC1C5qND9FH6tv5QsEo45wWCVeOCDo3%2FTFnSIxNCGy172IWfM5GN1FnpDsj%2BFIl5mk4pLHStgpI%2BpJJG8VIO%2B2pgXHBQnb%2FOKzq%2Fz%2Be5HkRomk1klMs907Y0Ez8TZg0RYWPQyJMsoqONrglJzQiFgU%2FlDneJHXFVybdeBtJDyzag4Ag6n9MGx%2B8NdjS2%2FdjNJ9gSiCqWX4II7Q%3D%3D%20agentid%3DWebgateEPADomain%20ver%3D1%20crmethod%3D2%26cksum%3De9d2ce309872a6dcd3ecf384961d142735f18a30",
   "domain": "wamssoprd.epa.gov",
   "base_domain": "epa.gov",
   "top_level_domain": "gov",
@@ -23,9 +23,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T04:25:22.827Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -71,8 +70,6 @@
     "wamssoprd.epa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "525.7999999523163",
   "required_links_url": [
     "privacy"
   ],

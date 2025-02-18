@@ -27,11 +27,10 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T06:42:42.063Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "connection_reset",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "http2_error",
   "security_scan_status": "completed",
@@ -74,8 +73,6 @@
     "fueleconomy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07394394669596355",
-  "largest_contentful_paint": "264.40000009536743",
   "required_links_url": [
     "usa.gov",
     "/es"

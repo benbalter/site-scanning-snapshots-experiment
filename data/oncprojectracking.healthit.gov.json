@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T07:28:26.994Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,8 +45,9 @@
   "dap": true,
   "dap_parameters": "",
   "dap_version": "20240503 v7.03 - Dual Tracking",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-33523145-1,UA-65372500-1,UA-57449445-6,G-H1XL0P51MP",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-33523145-1,G-7SZDMS75VC,UA-65372500-1,UA-57449445-6,G-H1XL0P51MP",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "script.crazyegg.com",
@@ -55,6 +55,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -68,14 +69,12 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".healthit.gov",
     ".oncprojectracking.healthit.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1596.7999999523163",
   "required_links_url": null,
   "required_links_text": [
     "accessibility"

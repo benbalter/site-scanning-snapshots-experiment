@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:14:31.431Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -48,9 +47,12 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "ds-aksb-a.akamaihd.net",
     "github.imp.cms.gov"
   ],
   "third_party_service_urls": [
+    "https://ds-aksb-a.akamaihd.net/2/757756/b",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
     "https://github.imp.cms.gov/assets/apple-touch-icon-144x144-b882e354c005.png",
     "https://github.imp.cms.gov/assets/dark-9c5b7a476542.css",
     "https://github.imp.cms.gov/assets/global-187e9d7d9b1e.css",
@@ -60,18 +62,16 @@
     "https://github.imp.cms.gov/favicons/favicon-ent.svg",
     "https://github.imp.cms.gov/manifest.json"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     "mo-idp.imp.cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "475.2000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "MOIdP IMPL Node 2 - Account Login",
+  "title": "MOIdP IMPL Node 3 - Account Login",
   "description": null,
   "keywords": null,
   "og_title": null,

@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T00:55:49.292Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,7 +46,7 @@
     "subagency": "AHRQ"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-45NDTD15CJ,G-CSLL4ZEK4L,UA-76714758-1",
+  "ga_tag_id": "G-45NDTD15CJ,UA-76714758-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
@@ -74,6 +73,7 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 9,
@@ -83,8 +83,6 @@
     "srdrplus.ahrq.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0615675",
-  "largest_contentful_paint": "463.2999999523163",
   "required_links_url": [
     "about"
   ],

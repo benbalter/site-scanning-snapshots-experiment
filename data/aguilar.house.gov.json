@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:33:37.193Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -45,14 +44,16 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-vJCxY8lv30kNDv5",
+  "ga_tag_id": "G-TMsZRqSiIK68XLe,G-dnUeHAzem495bjY",
   "third_party_service_domains": [
+    "csp.withgoogle.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "www.google.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
@@ -64,13 +65,12 @@
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".house.gov"
+    ".house.gov",
+    "aguilar.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08335259765625",
-  "largest_contentful_paint": "306.1999999284744",
   "required_links_url": [
     "about",
     "privacy"

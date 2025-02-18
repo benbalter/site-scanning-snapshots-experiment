@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-15T10:47:41.993Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -51,7 +50,6 @@
   "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
-    "app.smartsheetgov.com",
     "assets.nlm.nih.gov",
     "circulatingnow.nlm.nih.gov",
     "dap.digitalgov.gov",
@@ -61,14 +59,13 @@
     "nlmoccs.report-uri.com",
     "script.crazyegg.com",
     "use.fontawesome.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nih.gov",
     "www.nlm.nih.gov"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
-    "https://app.smartsheetgov.com/b/publish",
+    "https://assets.nlm.nih.gov/jquery-ui/jquery-ui-latest/jquery-ui.min.js",
     "https://assets.nlm.nih.gov/jquery/jquery-latest.min.js",
     "https://assets.nlm.nih.gov/uswds/img/NLM_White.png",
     "https://assets.nlm.nih.gov/uswds/img/close.svg",
@@ -91,12 +88,12 @@
     "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
     "https://use.fontawesome.com/releases/v5.0.10/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://www.nih.gov/sites/default/files/styles/video_sidebar/public/media-youtube/Sys9Ki6t4DQ.jpg",
     "https://www.nlm.nih.gov/about/image/IRP_home.jpg",
+    "https://www.nlm.nih.gov/core/nlm-autocomplete/1.1/nlm-autocomplete.css",
+    "https://www.nlm.nih.gov/core/nlm-autocomplete/1.1/nlm-autocomplete.min.js",
     "https://www.nlm.nih.gov/images/IT.jpg",
     "https://www.nlm.nih.gov/images/StrategicPlan2.jpg",
     "https://www.nlm.nih.gov/images/banner.jpg",
@@ -114,15 +111,15 @@
     "https://www.nlm.nih.gov/images/mail.svg",
     "https://www.nlm.nih.gov/images/training3.jpg",
     "https://www.nlm.nih.gov/images/twitter.svg",
-    "https://www.nlm.nih.gov/images/youtube.svg"
+    "https://www.nlm.nih.gov/images/youtube.svg",
+    "https://www.nlm.nih.gov/scripts/jqueryui11/jquery-ui.min.css"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00514763889416059",
-  "largest_contentful_paint": "582.7000000476837",
   "required_links_url": [
     "about",
     "usa.gov"

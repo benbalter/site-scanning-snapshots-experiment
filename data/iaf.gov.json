@@ -29,7 +29,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:22:59.320Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,7 +51,7 @@
     "agency": "IAF"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-8ZH0M88DHD,G-CSLL4ZEK4L,G-rDXW86K3spXhzjA",
+  "ga_tag_id": "G-8ZH0M88DHD,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "arclight.vimeo.com",
     "dap.digitalgov.gov",
@@ -86,6 +85,7 @@
     "https://i.vimeocdn.com/player/595831",
     "https://i.vimeocdn.com/video/1367141409-6cd633d34239f52bb9bb057bb783ba47266fc0514304f057e7369e7473679944-d",
     "https://platform.twitter.com/widgets.js",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
@@ -228,6 +228,7 @@
     "https://www.iaf.gov/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js",
     "https://www.iaf.gov/wp-content/themes/Avada/assets/min/js/general/avada-wpml.js",
     "https://www.iaf.gov/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js",
+    "https://www.iaf.gov/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff",
     "https://www.iaf.gov/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2",
     "https://www.iaf.gov/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.ttf",
     "https://www.iaf.gov/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff",
@@ -280,6 +281,7 @@
     "https://www.iaf.gov/wp-content/uploads/fusion-gfonts/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
     "https://www.iaf.gov/wp-content/uploads/fusion-gfonts/S6uyw4BMUTPHjx4wXg.woff2",
     "https://www.iaf.gov/wp-content/uploads/fusion-icons/migrants-v1.0-3/fonts/migrants.ttf",
+    "https://www.iaf.gov/wp-content/uploads/fusion-icons/migrants-v1.0-3/fonts/migrants.woff",
     "https://www.iaf.gov/wp-includes/css/dist/block-library/style.min.css",
     "https://www.iaf.gov/wp-includes/js/dist/hooks.min.js",
     "https://www.iaf.gov/wp-includes/js/dist/i18n.min.js",
@@ -292,8 +294,6 @@
     ".iaf.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.17824622395833334",
-  "largest_contentful_paint": "2961.9000000953674",
   "required_links_url": [
     "about",
     "fear",

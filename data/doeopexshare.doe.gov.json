@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T04:04:35.295Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -65,10 +64,10 @@
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".doe.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.8249122194761435",
-  "largest_contentful_paint": "796.6999999284744",
   "required_links_url": [
     "about",
     "fear",

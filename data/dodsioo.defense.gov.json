@@ -27,7 +27,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T03:34:52.124Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -57,21 +56,23 @@
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".defense.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.016675213623046876",
-  "largest_contentful_paint": "375.2000000476837",
   "required_links_url": [
     "about",
     "fear",

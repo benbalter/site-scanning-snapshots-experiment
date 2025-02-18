@@ -5,7 +5,7 @@
   "initial_base_domain": "cdc.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/9ce70869-60db-44fd-abe8-d2767077fc8f/saml2?SAMLRequest=jVJdb5swFP0ryO%2BAYQmkVojEEk2L1HVRk%2B2hb8a%2BTq0Zm%2Fkauv37EULV9mFVJT%2FY9%2Buce47XyFuTd6zuw6O9h989YIj%2BtMYiu2Yq0nvLHEeNzPIWkAXBjvW3W5YnlHXeBSecIVGNCD5oZ7fOYt%2BCP4IftIAf97cVeQyhQ5ameI1JwF%2BJkCI5uyG1fOj4GRLpSLQb0bXllzEvTcadtU1aLbxDp4KzRltIhGvTGwElXRU3cUFlEy8WSsa8gVUs87IoaVkqsVLptAaJvjgvYNqyIoobBBLtdxU53m2bQqgmL7iiXCjBpVouoPjEm0Jl2aKhY%2B8eDxxRD%2FDSitjD3mLgNlQkp%2FkypnmcFSeas2U5nqTM6QOJDrM%2Bn7WV2p7fF7O5FiH7ejod4sP342kaMGgJ%2Fm6s%2FriOP8HjpOE4lmzWkwRs4uxfm%2Fs%2BHf7sKNk84452S7Tu6YI5cxhf8w0vnqzT12AzdMcu9Pe7gzNa%2FI1qY9zT1gMP40rB9zC50%2FLwfz5Zkk0RLWM1lTJouTa1lB4QSbqZcd9%2B5M0%2F&RelayState=https%3A%2F%2Fservicedesk.cdc.gov%2Fnavpage.do",
+  "url": "https://login.microsoftonline.com/9ce70869-60db-44fd-abe8-d2767077fc8f/saml2?SAMLRequest=jVLLbtswEPwVgXdJlJLoQVgGFBtFDaSpEDs59EaTK4coRapcSmn%2FvrKsIMmhQW%2FkcnZndoYr5J1Oe1YP%2Ftk8wK8B0Ae%2FO22QXV4qMjjDLEeFzPAOkHnB9vW3O5ZGlPXOeiusJkGNCM4razbW4NCB24MblYDHh7uKPHvfI4tjvNQk4M9ISBGd7BgbPvb8BJG0JNhO7Mrw85i3Jm1PykSdEs6ibb01WhmIhO3iUkBOi6wMMyqP4fV1K0N%2BhCKUaZ7lNM9bUbTxvAYJvlgnYN6yIi3XCCTYbSuyv9%2FkxbEAnmSQ8zzJ0zahCS3aG6D0qiwlLyYgNhxRjfDWijjAzqDnxlckpelNSNMwKQ40ZWnJaBZllP4gQbP4c6uMVOb0uZnHCwjZ18OhCZvv%2B8M8YFQS3P2E%2Fn8fn8Dh7OE0lqxXswVs1uzeh%2Fu5HP6aKFm%2F8k5xSzT25cy5aJhuywnPmazi92QLdc%2FO8nfbxmol%2FgS11vZl44D7aSXvBpjT6bj%2Ft54kSuaKkmE7Qxl0XOlaSgeIJF4vvB8%2F8vov&RelayState=https%3A%2F%2Fservicedesk.cdc.gov%2Fnavpage.do",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:58:05.867Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -45,7 +44,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msftauthimages.net",
+    "aadcdn.msauthimages.net",
     "login.live.com",
     "servicedesk.cdc.gov"
   ],
@@ -57,8 +56,8 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-0iec1gkt0rlhisxy5tuitfwi0gzmmkmziw2ca8grvvi/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msftauthimages.net/dbd5a2dd-0iec1gkt0rlhisxy5tuitfwi0gzmmkmziw2ca8grvvi/logintenantbranding/0/illustration",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-0iec1gkt0rlhisxy5tuitfwi0gzmmkmziw2ca8grvvi/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msauthimages.net/dbd5a2dd-0iec1gkt0rlhisxy5tuitfwi0gzmmkmziw2ca8grvvi/logintenantbranding/0/illustration",
     "https://login.live.com/Me.htm",
     "https://servicedesk.cdc.gov/ConditionalFocus.jsdbx",
     "https://servicedesk.cdc.gov/legacy_date_time_choices_processor.do",
@@ -88,8 +87,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06325855729166667",
-  "largest_contentful_paint": "574",
   "required_links_url": [
     "privacy"
   ],
@@ -118,7 +115,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/9ce70869-60db-44fd-abe8-d2767077fc8f/saml2?SAMLRequest=jVJdb6MwEPwryO98hEAgVojEJaoaqddDTa4P92bsJbXO2JzX0PbfHyFU7T20ujd7PbszO%2BMNslbFHS1796Qf4E8P6LyXVmmk15eC9FZTw1Ai1awFpI7TY%2Fn9jsZBRDtrnOFGEa9EBOuk0TujsW%2FBHsEOksPPh7uCPDnXIQ1DvNYE4O%2BACx6czRBqNnTsDIEwxNuP7FKzy5j3JmXOUget5NagaZzRSmoIuGnDNYcsyldrfxWJ2k%2BSRvishtwXcbbKoixreN6E0xrEuzGWw7RlQRqmEIh32BfkeL9b1A3wuKmTmuVpKnJeL5d1ypbJOJrXrBmBWDFEOcB7K2IPB42OaVeQOIpTP4r9xeoUxTTNabQM8mT9i3jV7M83qYXU56%2FNrK8gpLenU%2BVXP46nacAgBdj7Ef3%2FPj6CxcnDcSzZbiYL6KTZfgz3aznsLVGyfeMd4xaozfOFc9Yw3uYTXjLZhB%2FJZuqOXuQf9pVRkr96pVLmeWeBuXElZ3uY0mmZ%2B1zPIlhMFSn8ZoJSaJlUpRAWEEm4nXn%2F%2Fcjbvw%3D%3D&RelayState=https%3A%2F%2Fservicedesk.cdc.gov%2Fsaml_redirector.do%3Fsysparm_nostack%3Dtrue%26sysparm_uri%3D%252Fnav_to.do%253Furi%253D%25252Fsitemap.xml",
+  "sitemap_xml_url": "https://login.microsoftonline.com/9ce70869-60db-44fd-abe8-d2767077fc8f/saml2?SAMLRequest=jVLLbtswEPwVgXe9aFUPwjKg2ihqIE2F2O2hN4pcOUQlUuVSSvv3lWUFSQ4NeiOXszuzM9wi7zs6sGp0j%2FoBfo2AzvvddxrZ7aUko9XMcFTINO8BmRPsVH25YzSI2GCNM8J0xKsQwTpl9N5oHHuwJ7CTEvDt4a4kj84NyMIQbzUJ%2BDMQUgQXM4WaTwO%2FQCAN8Q4zu9L8OualqTMXpYNeCWvQtM7oTmkIhOnDQkAW5Wnhp5Fs%2FCRppc8byH1JszSLsqwVeRsuaxDvk7ECli1L0vIOgXjHQ0lO93uxEUneABdFkxQU0mSTJLKQaZMm2QaiZgZizRHVBC%2BtiCMcNTquXUloRD%2F4EfXj%2FBxRRgsW0yDdxD%2BIV6%2F%2BfFRaKn1538zmBkL2%2BXyu%2Ffrr6bwMmJQEez%2Bj%2F9%2FH72Bx8XAeS3bbxQK2aLavw31fDn9OlOyeeee4JWrzdOVcNcy39YTXTLbha7KVemBX%2BcdDbTol%2FnhV15mnvQXu5pWcHWFJp%2Bfu33riIF4qSvrtAmXQc9VVUlpAJOFu5X37kXd%2FAQ%3D%3D&RelayState=https%3A%2F%2Fservicedesk.cdc.gov%2Fsaml_redirector.do%3Fsysparm_nostack%3Dtrue%26sysparm_uri%3D%252Fnav_to.do%253Furi%253D%25252Fsitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

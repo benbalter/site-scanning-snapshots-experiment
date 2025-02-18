@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T15:47:48.525Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -57,7 +56,6 @@
     "news.va.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "www.ebenefits.va.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.oit.va.gov",
     "www.va.gov",
@@ -76,7 +74,6 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/vendor/uswds.min.js",
     "https://www.ebenefits.va.gov/ebenefits-portal/images/badges/eBenefits_rounded_badge170x155.png",
     "https://www.ebenefits.va.gov/ebenefits-portal/js/eB-widget.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.oit.va.gov/_media/img/uswds/arrow-right.svg",
@@ -92,15 +89,12 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
-    ".cfm.va.gov",
     ".va.gov",
     "cfm.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0011779739583333334",
-  "largest_contentful_paint": "2053.899999976158",
   "required_links_url": [
     "about",
     "fear",

@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:07:44.175Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -56,10 +55,10 @@
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".energy.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.028782000000000002",
-  "largest_contentful_paint": "5717",
   "required_links_url": [
     "about",
     "fear",

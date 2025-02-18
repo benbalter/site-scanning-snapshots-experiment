@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T14:37:14.776Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,10 +48,10 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usaid.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "50.699999928474426",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -71,9 +70,9 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": false,
+  "robots_txt_detected": true,
   "robots_txt_url": "https://disdev-integration.usaid.gov/robots.txt",
-  "robots_txt_status_code": 503,
+  "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": 18356,
   "robots_txt_crawl_delay": null,

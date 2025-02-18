@@ -5,7 +5,7 @@
   "initial_base_domain": "usmission.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/66cf5074-5afe-48d1-a691-a12b2121f44b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=F9816D168A32BF03B50C5B6380AE1D936AFAD7F089BA6C61%2DE8D6330BA67BC5EACB1565C1D8DA7ACF248B58C372959EC20979E87A98CD81A8&redirect%5Furi=https%3A%2F%2Fusdos%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&domain%5Fhint=state%2Egov&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=a9cf81a1%2Df027%2D7000%2Ddfeb%2D93a2274ddbaf",
+  "url": "https://login.microsoftonline.com/66cf5074-5afe-48d1-a691-a12b2121f44b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=0743A5183A5EE83158DBD2A665D585A2187189682D089B04%2D28A6A42329050FF0CED2046B61556E7C10F163591CF7D1EE4DB4DB7B76193AB0&redirect%5Furi=https%3A%2F%2Fusdos%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&domain%5Fhint=state%2Egov&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=798382a1%2D5045%2D7000%2Ddfeb%2D96d566eae1db",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T18:10:17.315Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -47,7 +46,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msauthimages.net",
+    "aadcdn.msftauthimages.net",
     "autologon.microsoftazuread-sso.com",
     "login.live.com",
     "mcasproxy.cdn.mcas.ms"
@@ -63,8 +62,8 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pfetchsessionsprogress_4ba7c391e6f3f547d8ce.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-ypzpmuiimvvshaylenia3xlepgmgbt7uxe9kgkuydwa/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-ypzpmuiimvvshaylenia3xlepgmgbt7uxe9kgkuydwa/logintenantbranding/0/illustration",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-ypzpmuiimvvshaylenia3xlepgmgbt7uxe9kgkuydwa/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-ypzpmuiimvvshaylenia3xlepgmgbt7uxe9kgkuydwa/logintenantbranding/0/illustration",
     "https://autologon.microsoftazuread-sso.com/state.gov/winauth/ssoprobe",
     "https://login.live.com/Me.htm",
     "https://mcasproxy.cdn.mcas.ms/proxyweb/1.64.13/js/session-context-restore.min.js",
@@ -76,8 +75,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.17101378125",
-  "largest_contentful_paint": "938.4000000953674",
   "required_links_url": [
     "privacy"
   ],
@@ -99,14 +96,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/66cf5074-5afe-48d1-a691-a12b2121f44b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=78D93DD0068C8E1F7CCFC4B3DC4A4BCF2962B245CE7221FC%2D42DDB887E46CD0568F9D8A10C72F27598455367650D08CD83155E38D7BC961BA&redirect%5Furi=https%3A%2F%2Fusdos%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&domain%5Fhint=state%2Egov&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=a9cf81a1%2D20f0%2D7000%2Ddfeb%2D9d938c3ad91a",
+  "robots_txt_url": "https://login.microsoftonline.com/66cf5074-5afe-48d1-a691-a12b2121f44b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=4BE10BA8FF11E914835F4238389B366C2F8C61117656AA9E%2D8908B3033D1B1B527ED33A2E7855B5A12DFA4CD6B1F4F3FEFC59CF27886B17EC&redirect%5Furi=https%3A%2F%2Fusdos%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&domain%5Fhint=state%2Egov&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=798382a1%2D00a6%2D7000%2Ddfeb%2D9c9996c8adbf",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/66cf5074-5afe-48d1-a691-a12b2121f44b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=7BD5F2C4BE12D6553FA8CC9545BD66F610364E38D7D27FCE%2D7EDF320280DF8B156966D5FB368ADFF52AB5A2783525706D4A893F31203B9405&redirect%5Furi=https%3A%2F%2Fusdos%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&domain%5Fhint=state%2Egov&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=aacf81a1%2D30bd%2D7000%2Ddfeb%2D9c55c66bc859",
+  "sitemap_xml_url": "https://login.microsoftonline.com/66cf5074-5afe-48d1-a691-a12b2121f44b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=718AD0FAE499C086E790A44C92F85577971DC073C57B4A01%2D4C1EA92E7BEDD68EA4FCCCE4A516B40AF716E39B918A82621F9A5296F24D2C77&redirect%5Furi=https%3A%2F%2Fusdos%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&domain%5Fhint=state%2Egov&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=7a8382a1%2D0077%2D7000%2Ddfeb%2D95bfe2b17b83",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

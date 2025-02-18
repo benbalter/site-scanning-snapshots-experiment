@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:03:18.060Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,8 +48,6 @@
   "third_party_service_domains": [
     "api.insight.sitefinity.com",
     "buttons-config.sharethis.com",
-    "c.bing.com",
-    "c.clarity.ms",
     "cdn.insight.sitefinity.com",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,15 +57,12 @@
     "kit.fontawesome.com",
     "l.sharethis.com",
     "platform-api.sharethis.com",
-    "s.clarity.ms",
     "www.clarity.ms",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://api.insight.sitefinity.com/collect/v2/data-centers/74c681a2-d5d5-4324-6948-4033ccf1b7a6/datasources/Website/interactions",
     "https://buttons-config.sharethis.com/js/64bee650c73e910012491844.js",
-    "https://c.bing.com/c.gif",
-    "https://c.clarity.ms/c.gif",
     "https://cdn.insight.sitefinity.com/sdk/sitefinity-insight-client.min.3.1.41.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -92,21 +86,17 @@
     "https://l.sharethis.com/pview",
     "https://l.sharethis.com/sc",
     "https://platform-api.sharethis.com/js/sharethis.js",
-    "https://s.clarity.ms/collect",
-    "https://www.clarity.ms/s/0.7.67/clarity.js",
     "https://www.clarity.ms/tag/jqyludgwnn",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 16,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".nrel.gov",
     ".www2.nrel.gov",
     "www2.nrel.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.021428654418945314",
-  "largest_contentful_paint": "676.5",
   "required_links_url": [
     "about"
   ],

@@ -16,23 +16,22 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dod_public",
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T01:56:43.946Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":5,\"link-purpose\":6}",
+  "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
   "cms": "WordPress",
@@ -61,12 +60,9 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".army.mil",
     "gvsc.devcom.army.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0014816383463541667",
-  "largest_contentful_paint": "2799.2999999523163",
   "required_links_url": [
     "fear",
     "privacy"

@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:28:27.399Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -66,10 +65,10 @@
     "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyNPYZvgw.woff2"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".hhs.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0538765625",
-  "largest_contentful_paint": "2631.5",
   "required_links_url": [
     "privacy"
   ],

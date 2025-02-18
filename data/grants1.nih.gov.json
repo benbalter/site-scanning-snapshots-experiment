@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T11:13:59.618Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -43,7 +42,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-sezRtkY,G-Z8SS5QJCLH,G-uRFDsNpwfDXsOHr",
+  "ga_tag_id": "G-sezRtkY,G-Z8SS5QJCLH",
   "third_party_service_domains": [
     "app-script.monsido.com",
     "cdn.jsdelivr.net",
@@ -56,13 +55,16 @@
     "jnn-pa.googleapis.com",
     "play.google.com",
     "raw.githubusercontent.com",
+    "siteintercept.qualtrics.com",
     "static.cloudflareinsights.com",
     "static.doubleclick.net",
+    "tracking.monsido.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com",
     "www.youtube.com",
-    "yt3.ggpht.com"
+    "yt3.ggpht.com",
+    "zn4uqhoe5ahbyx3sj-nihodoercomm.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://app-script.monsido.com/v2/monsido-script.js",
@@ -81,9 +83,12 @@
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://play.google.com/log",
     "https://raw.githubusercontent.com/OER-WEB-TEAM/design-system--logos/refs/heads/main/outputs/grants-funding--logo/notagline/grants-funding--logo-white-%403X.png",
+    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://static.doubleclick.net/instream/ad_status.js",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://tracking.monsido.com/",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
@@ -95,16 +100,15 @@
     "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
     "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
-    "https://yt3.ggpht.com/5f2naX7kOVT8mOSwtEPSFFpBFlr8HHbXcKu8-YsZyb3Zujf5l7YFF8YvDKsyGsvhwOAzGB8Ctw=s68-c-k-c0x00ffffff-no-rj"
+    "https://yt3.ggpht.com/5f2naX7kOVT8mOSwtEPSFFpBFlr8HHbXcKu8-YsZyb3Zujf5l7YFF8YvDKsyGsvhwOAzGB8Ctw=s68-c-k-c0x00ffffff-no-rj",
+    "https://zn4uqhoe5ahbyx3sj-nihodoercomm.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 18,
+  "third_party_service_count": 21,
   "cookie_domains": [
     ".nih.gov",
     "grants.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.006434277018229166",
-  "largest_contentful_paint": "1825.5",
   "required_links_url": [
     "about",
     "privacy",

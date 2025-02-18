@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:39:36.353Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":2}",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "WordPress",
@@ -45,7 +44,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-NR0ZA79uLA9o5O4,G-nnxlYh7",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "fonts.googleapis.com",
@@ -83,15 +82,16 @@
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css",
     "https://www.juicer.io/api/feeds/repjeffries",
-    "https://www.juicer.io/api/posts/491124921/poster_images.jpg",
-    "https://www.juicer.io/api/posts/491124922/poster_images.jpg",
-    "https://www.juicer.io/api/posts/491124923/poster_images.jpg"
+    "https://www.juicer.io/api/posts/491124923/poster_images.jpg",
+    "https://www.juicer.io/api/posts/491170485/poster_images.jpg",
+    "https://www.juicer.io/api/posts/491186711/poster_images.jpg"
   ],
   "third_party_service_count": 9,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov",
+    "jeffries.house.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0030329508463541664",
-  "largest_contentful_paint": "367.60000002384186",
   "required_links_url": [
     "about",
     "privacy"

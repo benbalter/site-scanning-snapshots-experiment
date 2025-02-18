@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T04:53:22.145Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,7 +49,9 @@
     "cdn.jsdelivr.net",
     "code.jquery.com",
     "dc.services.visualstudio.com",
-    "fonts.googleapis.com"
+    "fonts.googleapis.com",
+    "rum.browser-intake-ddog-gov.com",
+    "session-replay.browser-intake-ddog-gov.com"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css",
@@ -58,15 +59,15 @@
     "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js",
     "https://code.jquery.com/jquery-3.5.1.slim.min.js",
     "https://dc.services.visualstudio.com/v2/track",
-    "https://fonts.googleapis.com/icon"
+    "https://fonts.googleapis.com/icon",
+    "https://rum.browser-intake-ddog-gov.com/api/v2/rum",
+    "https://session-replay.browser-intake-ddog-gov.com/api/v2/replay"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 6,
   "cookie_domains": [
     "arc.eeoc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06750416666666667",
-  "largest_contentful_paint": "1402.3999999761581",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

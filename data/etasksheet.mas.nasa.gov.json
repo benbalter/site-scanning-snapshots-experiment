@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.launchpad.nasa.gov/login?level=20&TYPE=33554433&REALMOID=06-4f7afdd2-6943-4c67-81f0-14f162677380&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-QjX3kwYbsK2ZykyzSv5lIiqUo%2bkwZHxiHsQI%2fr6naSNUQUCIFvoL7BKfXaFQUQKrhDVYD4Jid71detox5rgzDjiO4J1uJCreUculT0bwSEi8BQTmyro4LQ6%2bacdra5LC&TARGET=-SM-https%3a%2f%2fetasksheet%2emas%2enasa%2egov%2findex%2ecgi",
+  "url": "https://auth.launchpad.nasa.gov/login?level=20&TYPE=33554433&REALMOID=06-4f7afdd2-6943-4c67-81f0-14f162677380&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-%2buHMDV40DTLdfletqFqy7QOzSeL9k3NMhh7e4zeuz3vR0Ad7b9%2fmicCg%2fCYHC%2fSwIn6mgLG1TN1wDtDp3gJUMh15WPRfbKtKRSsQkOJUjl65IJjPkRVHIoeNxIdhLwPp&TARGET=-SM-https%3a%2f%2fetasksheet%2emas%2enasa%2egov%2findex%2ecgi",
   "domain": "auth.launchpad.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T16:58:39.997Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,12 +53,8 @@
     "https://launchpad.nasa.gov/icam/api/assets/icam-api-hsts.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "544.3999999761581",
   "required_links_url": [
     "privacy"
   ],

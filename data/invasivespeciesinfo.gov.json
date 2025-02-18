@@ -28,7 +28,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:37:49.509Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -60,39 +59,30 @@
   "third_party_service_domains": [
     "analytics.google.com",
     "cdn.gov.cfigroup.com",
-    "cdnmon.cfigroup.com",
     "dap.digitalgov.gov",
-    "e.gov.cfigroup.com",
     "search.usa.gov",
     "www.googletagmanager.com",
-    "www.nal.usda.gov",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://analytics.google.com/g/collect",
-    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/262430679c1126/126.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/262430679c1126/webmon.js",
-    "https://cdnmon.cfigroup.com/UploadFile/2023/1/18/USDA_logo.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://e.gov.cfigroup.com/wmon",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.nal.usda.gov/csp-collector/index.php",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".invasivespeciesinfo.gov",
     "www.invasivespeciesinfo.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01703155741373698",
-  "largest_contentful_paint": "738",
   "required_links_url": [
     "about",
     "foia",

@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:55:11.835Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -39,7 +38,7 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
@@ -63,10 +62,19 @@
     "www.knowva.ebenefits.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "489.1999999284744",
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "fear",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "no fear act",
+    "foia",
+    "inspector general",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "VA Self-Service",

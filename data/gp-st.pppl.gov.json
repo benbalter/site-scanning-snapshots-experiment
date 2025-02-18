@@ -5,7 +5,7 @@
   "initial_base_domain": "pppl.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/8cc02db7-c8da-4583-9e94-cd0ed18aae0f/saml2?SAMLRequest=jZHBboMwEER%2FBfkOOAYSsAISTQ6NlKoo0B56qYxtiCWwKWuifn5D0qrpJepx5dmZnec1sL4baD7Zoz7Ij0mCdT77TgO9PKRoGjU1DBRQzXoJ1HJa5k97SjxMh9FYw02HnBxAjlYZvTEapl6OpRxPisuXwz5FR2sHoL7fDi5YbxiGzmvNiYZh4M9WBPtl4eebEjnbc7zSbDb6XetMq7TXKz4aMI01ulNaetz0fsw5JqJeuTwWzA2jOHATmYQuF1iKRcyYxI0%2F9yDI2W1T9F5jvsIikjxcBEuWiHCV1KIWS9w0jWgIP8sAJrnTYJm2KSKYRC4m7iKqFgHFEcXkDTnFd%2B0HpYXS7X1G9VUE9LGqCrd4LivkvMoRLhXPApSt5wvpJXi8YX%2Fflv0AR9l%2F8K79m5DsOv399ewL&RelayState=WJ%2BBAAA8HWZhMzdkN2MxOC03NDIyLTQ3YmQtYWFlYS0yODc5NjY1YmFhYmQw",
+  "url": "https://login.microsoftonline.com/8cc02db7-c8da-4583-9e94-cd0ed18aae0f/saml2?SAMLRequest=jZHNboMwEIRfBfnOnwEBVkCiyaGRUhUF2kMvlWMbYgls6jVRH78hadX0EvW48uzMzucV0HGYSDXbo9qLj1mAdT7HQQG5PBRoNopoChKIoqMAYhlpqqcdwV5AJqOtZnpATgUgjJVarbWCeRSmEeYkmXjZ7wp0tHYC4vv95IL1pmkavF6fSBxH%2FmKFA7%2Bp%2FWrdIGdzjpeKLka%2Fa4PupfJGyYwG3VmtBqmEx%2FToZ4wFmB9Sl2WcunGSRW4u8thlPBA8zCgVQecvPTBytpsCvXc04dGhi1POMcNZ0rEo5LHIMxblXZLyswxgFlsFlipbIBzgxA2wG2ZtEBKckjB6Q079XftBKi5Vf5%2FR4SoC8ti2tVs%2FNy1yXoWBS8WzAJWr5UJyCTY37O%2Fb0h%2FgqPwP3pV%2FE1Jep7%2B%2FXn4B&RelayState=7aqBAAA8HWZhMWFiYTc4YS02NDk2LTQ3N2ItOTA0Ni04N2Y4YjRmNDIxNzEw",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:05:10.092Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -67,8 +66,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.038465135416666664",
-  "largest_contentful_paint": "369.60000002384186",
   "required_links_url": [
     "privacy"
   ],

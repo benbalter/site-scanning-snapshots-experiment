@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "dap",
     "pulse",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:18:09.450Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -55,16 +54,13 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.25306373421223965",
-  "largest_contentful_paint": "778.1000000238419",
   "required_links_url": [
     "about",
     "foia",

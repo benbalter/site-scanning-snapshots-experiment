@@ -28,7 +28,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T13:18:00.105Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-1TZM4G6B9F,UA-193079889-1",
+  "ga_tag_id": "G-1TZM4G6B9F,UA-193079889-1,G-WxOEgC23wiTx",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "fonts.gstatic.com",
@@ -57,6 +56,7 @@
     "i.ytimg.com",
     "jnn-pa.googleapis.com",
     "play.google.com",
+    "rum.browser-intake-ddog-gov.com",
     "static.doubleclick.net",
     "www.google-analytics.com",
     "www.google.com",
@@ -73,10 +73,11 @@
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://play.google.com/log",
+    "https://rum.browser-intake-ddog-gov.com/api/v2/rum",
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/generate_204",
@@ -88,14 +89,12 @@
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://yt3.ggpht.com/ytc/AIdro_nWc1ssPjE-nJaC-1yt87xZERj0i4eOSzHJlm0-IQLKtXg=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".sam.gov",
     "sam.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.41469550781250003",
-  "largest_contentful_paint": "182.69999992847443",
   "required_links_url": [
     "about",
     "foia",

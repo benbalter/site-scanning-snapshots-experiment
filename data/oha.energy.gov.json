@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:11:21.160Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,10 +46,10 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "d.clarity.ms",
     "fonts.gstatic.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
+    "s.clarity.ms",
     "ssl.google-analytics.com",
     "use.fontawesome.com",
     "www.clarity.ms",
@@ -62,7 +61,6 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://d.clarity.ms/collect",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
@@ -71,9 +69,10 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-brands-400-0.woff2",
     "https://kit.fontawesome.com/24bc2d8eeb.js",
     "https://kit.fontawesome.com/24bc2d8eeb/82662355/kit-upload.css",
+    "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js",
-    "https://www.clarity.ms/s/0.7.67/clarity.js",
+    "https://www.clarity.ms/s/0.7.68/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
@@ -90,8 +89,6 @@
     ".energy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00167091845703125",
-  "largest_contentful_paint": "2662.6999999284744",
   "required_links_url": [
     "about",
     "foia",

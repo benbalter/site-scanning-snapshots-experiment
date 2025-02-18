@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T06:40:53.038Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,7 +50,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-19QW1RVJWP,UA-29731601-5,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0d.akstat.io",
+    "17de4c0e.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -62,7 +61,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0d.akstat.io/",
+    "https://17de4c0e.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -72,7 +71,8 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://s.go-mpulse.net/boomerang/J7CSR-6T78B-CFR23-HWF9W-HCNGA",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -80,8 +80,6 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.05585593627929688",
-  "largest_contentful_paint": "1003.6999999284744",
   "required_links_url": [
     "about",
     "foia",

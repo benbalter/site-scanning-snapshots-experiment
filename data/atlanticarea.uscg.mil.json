@@ -26,7 +26,6 @@
     "final_url_websites"
   ],
   "public": true,
-  "scan_date": "2025-02-15T18:55:28.156Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,6 +57,7 @@
     "fonts.googleapis.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -73,15 +73,16 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".uscg.mil"
+    ".uscg.mil",
+    ".www.atlanticarea.uscg.mil",
+    "www.atlanticarea.uscg.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0004091015625",
-  "largest_contentful_paint": "521.2999999523163",
   "required_links_url": [
     "about",
     "fear",

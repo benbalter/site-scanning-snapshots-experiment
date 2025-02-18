@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T11:00:14.601Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -55,6 +54,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "iad1.qualtrics.com",
     "siteintercept.qualtrics.com",
     "static.pubmed.gov",
     "trace.ncbi.nlm.nih.gov",
@@ -67,11 +67,14 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
+    "https://iad1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php",
+    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/WebResponsiveDialogModule.js",
     "https://static.pubmed.gov/core/jig/1.15.10/css/jig.min.css",
     "https://static.pubmed.gov/core/jig/1.15.10/img/clear.png",
     "https://static.pubmed.gov/core/jig/1.15.10/js/jig.min.js",
@@ -127,20 +130,18 @@
     "https://trace.ncbi.nlm.nih.gov/Traces/sra-web-jslib/js/utils.2.1733936288.js",
     "https://trace.ncbi.nlm.nih.gov/Traces/sra-web-jslib/js/xslt.2.1733936288.js",
     "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".ncbi.nlm.nih.gov",
     ".nih.gov",
     ".nlm.nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "1.0083527443847657",
-  "largest_contentful_paint": "1020.1000000238419",
   "required_links_url": [
     "privacy",
     "usa.gov"

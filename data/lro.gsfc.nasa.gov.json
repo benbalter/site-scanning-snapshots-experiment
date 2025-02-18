@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T11:31:50.727Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -52,6 +51,7 @@
     "cdn.parsely.com",
     "dap.digitalgov.gov",
     "eyes.nasa.gov",
+    "lunar.gsfc.nasa.gov",
     "p1.parsely.com",
     "plus.nasa.gov",
     "www.google-analytics.com",
@@ -284,6 +284,7 @@
     "https://eyes.nasa.gov/server/spice/sc_chandra/earth/all/pos.animdef",
     "https://eyes.nasa.gov/server/spice/sc_chandra/earth/all/pos_data/000.0036.animdata",
     "https://eyes.nasa.gov/server/spice/sc_chandra/earth/all/pos_info/000.0001.animinfo",
+    "https://lunar.gsfc.nasa.gov/favicon.ico",
     "https://p1.parsely.com/px/",
     "https://plus.nasa.gov/wp-json/nasaplus/v1/live",
     "https://www.google-analytics.com/g/collect",
@@ -294,14 +295,12 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nasa.gov",
     ".science.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "90.10000002384186",
   "required_links_url": [
     "about",
     "fear",

@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:47:00.917Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,10 +52,18 @@
     "homeport.uscg.mil"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.8995835520833334",
-  "largest_contentful_paint": "1176",
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "fear",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "privacy policy",
+    "usa.gov"
+  ],
   "https_enforced": null,
   "hsts": null,
   "title": "Missions",

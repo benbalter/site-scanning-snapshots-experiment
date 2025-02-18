@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T02:33:26.103Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,8 +49,8 @@
     "apis.google.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "lh3.googleusercontent.com",
     "lh4.googleusercontent.com",
-    "lh6.googleusercontent.com",
     "play.google.com",
     "www.gstatic.com"
   ],
@@ -63,8 +62,8 @@
     "https://fonts.gstatic.com/s/lexendgiga/v25/PlI5Fl67Mah5Y8yMHE7lkWxDvcGSf3aC.woff2",
     "https://fonts.gstatic.com/s/lexendmega/v25/qFdA35aBi5JtHD41zSTFEs7N4hoiiVI6.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://lh4.googleusercontent.com/APPHlSwfn5bSlii2H6cIkweGE-EfSMqVufcThJ43kEbR_XZVxYk0wMWzjqwI4fRGFwqeBpcm0WfnBwA3MXf0yzc=w16383",
-    "https://lh6.googleusercontent.com/wMFIE4CffkPe3UDScuhmnTqakuDy1OIwtZE6x8DpIcLz7J9Z-I75_IOFVZy8txF4WahlNL4HhSjHWk7smAanSJp_q9b-gmsnOO0mnYctquc=w1280",
+    "https://lh3.googleusercontent.com/jwjBQ7TP1bg-hgIvAz0JbBwFi_qMbRDoO1YCsAGFEM5QQC-DkNOL6iNZ0n8Ihop0zWsHLJgXjkKDONDjmVC3PGpdpypiRn0rZd68a2Tvrtg=w1280",
+    "https://lh4.googleusercontent.com/hAhrGrb_kTgaERdCdV-b6JmO9yyFuFEKhxqMMint-IEyuT3UL42JdUqItlWxXFOOTlgb7IvXGQLj-Iw2nF70RfE=w16383",
     "https://play.google.com/log",
     "https://www.gstatic.com/_/atari/_/js/k=atari.vw.en_US.N9IFZZS9Hrs.O/am=GAxA/d=0/rs=AGEqA5mYteGl4MJD9aoncgxkRw5-xlPYJw/m=IZT63",
     "vfuNJf",
@@ -202,10 +201,10 @@
     "https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js"
   ],
   "third_party_service_count": 7,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cap.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00037076822916666665",
-  "largest_contentful_paint": "301.39999997615814",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -217,7 +216,7 @@
   "og_description": "Welcome! \n",
   "og_article_published": null,
   "og_article_modified": null,
-  "og_image": "https://lh4.googleusercontent.com/APPHlSwfn5bSlii2H6cIkweGE-EfSMqVufcThJ43kEbR_XZVxYk0wMWzjqwI4fRGFwqeBpcm0WfnBwA3MXf0yzc=w16383",
+  "og_image": "https://lh4.googleusercontent.com/hAhrGrb_kTgaERdCdV-b6JmO9yyFuFEKhxqMMint-IEyuT3UL42JdUqItlWxXFOOTlgb7IvXGQLj-Iw2nF70RfE=w16383",
   "og_type": "website",
   "og_url": "https://public.mewg.cap.gov/",
   "canonical_link": null,

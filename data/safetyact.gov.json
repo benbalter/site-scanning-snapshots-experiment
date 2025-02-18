@@ -27,7 +27,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T13:06:33.930Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,21 +49,26 @@
     "agency": "DHS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP,G-58XH860MED",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-58XH860MED,G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "17de4c15.akstat.io",
+    "17de4c1c.akstat.io",
+    "52-222-123-172_s-23-32-75-13_ts-1739843718-clienttons-s.akamaihd.net",
     "az416426.vo.msecnd.net",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "dc.services.visualstudio.com",
     "gov.content.powerapps.us",
+    "gtphxldimsufez5t5cda-py6yrp-a280a7060-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.dhs.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c15.akstat.io/",
+    "https://17de4c1c.akstat.io/",
+    "https://52-222-123-172_s-23-32-75-13_ts-1739843718-clienttons-s.akamaihd.net/eum/results.txt",
     "https://az416426.vo.msecnd.net/scripts/a/ai.0.js",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -101,8 +105,11 @@
     "https://gov.content.powerapps.us/resource/powerappsportal/dist/pwa-style.bundle-2739c60227.css",
     "https://gov.content.powerapps.us/resource/powerappsportal/img/close.png",
     "https://gov.content.powerapps.us/resource/powerappsportal/img/web.png",
+    "https://gtphxldimsufez5t5cda-py6yrp-a280a7060-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/7WK2R-L8MZ4-UQ36S-2RULW-5EEB6",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
@@ -110,14 +117,12 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".safetyact.gov",
     "www.safetyact.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0034136436360677085",
-  "largest_contentful_paint": "1442.2000000476837",
   "required_links_url": [
     "about",
     "foia",

@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. DEPARTMENT OF INTERIOR / OIG",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T04:24:10.240Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "timeout",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -65,8 +64,6 @@
   "third_party_service_count": 4,
   "cookie_domains": null,
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "194.69999992847443",
   "required_links_url": [
     "foia"
   ],

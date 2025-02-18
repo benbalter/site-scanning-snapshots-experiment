@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T12:23:39.062Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -70,10 +69,10 @@
     "https://beta.opm.gov/img/global/Flag.gif"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".opm.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "253.5",
   "required_links_url": [
     "about",
     "fear",

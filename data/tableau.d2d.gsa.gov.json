@@ -5,7 +5,7 @@
   "initial_base_domain": "gsa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.gsa.gov/oauth2/v1/authorize?scope=openid+email+profile&response_type=code&redirect_uri=https%3A%2F%2Ftableau.d2d.gsa.gov%2Fvizportal%2Fapi%2Fweb%2Fv1%2Fauth%2FopenIdLogin&state=cGF0aD0lMkYmWFNSRi1UT0tFTj1zeGJJSDFiTW93TUwwdk1LTlpNVE5IcmI5RlZRRExQUw&nonce=2KqePabb3f0&client_id=0oac2k9ld78pzZ7GF4h7",
+  "url": "https://auth.gsa.gov/oauth2/v1/authorize?scope=openid+email+profile&response_type=code&redirect_uri=https%3A%2F%2Ftableau.d2d.gsa.gov%2Fvizportal%2Fapi%2Fweb%2Fv1%2Fauth%2FopenIdLogin&state=cGF0aD0lMkYmWFNSRi1UT0tFTj1JdkZCZWZpN0pnSkJLZVdDYVdqaU90dVVHQXRpUWpyMg&nonce=21FMoZ10LAM&client_id=0oac2k9ld78pzZ7GF4h7",
   "domain": "auth.gsa.gov",
   "base_domain": "gsa.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:16:12.566Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -98,8 +97,6 @@
     "auth.gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "834.2000000476837",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,

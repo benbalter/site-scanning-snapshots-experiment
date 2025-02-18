@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T14:48:08.968Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,9 +53,8 @@
     "PUA": "UA-12572986-24"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-12572986-2,G-CSLL4ZEK4L,G-GHG7XR2CMP,G-WENZ0N4TZX",
+  "ga_tag_id": "UA-12572986-2,G-CSLL4ZEK4L,G-WENZ0N4TZX,G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
     "gov1.siteintercept.qualtrics.com",
@@ -68,7 +66,6 @@
     "zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/75cfd1dfd9",
@@ -83,17 +80,14 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".uscis.gov",
     "my.uscis.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0006959622395833333",
-  "largest_contentful_paint": "359.7999999523163",
   "required_links_url": [
     "about",
     "fear",

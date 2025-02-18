@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T11:16:44.786Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,20 +45,26 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c15.akstat.io",
+    "17de4c12.akstat.io",
+    "52-222-122-97_s-23-32-75-13_ts-1739801801-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
-    "s.go-mpulse.net"
+    "gtphuylimsufez5titeq-plxs3r-1b572fedd-clientnsv4-s.akamaihd.net",
+    "s.go-mpulse.net",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c15.akstat.io/",
+    "https://17de4c12.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-13_ts-1739801801-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
-    "https://s.go-mpulse.net/boomerang/CLEH4-7DJ8R-HSGHS-JJSLX-LH45D"
+    "https://gtphuylimsufez5titeq-plxs3r-1b572fedd-clientnsv4-s.akamaihd.net/eum/results.txt",
+    "https://s.go-mpulse.net/boomerang/CLEH4-7DJ8R-HSGHS-JJSLX-LH45D",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 7,
   "cookie_domains": null,
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "193.80000007152557",
   "required_links_url": [
     "about",
     "foia",

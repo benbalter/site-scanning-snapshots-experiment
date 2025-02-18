@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T11:22:47.550Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,25 +45,25 @@
   "ga_tag_id": "G-SZVM4K2192",
   "third_party_service_domains": [
     "ajax.googleapis.com",
+    "analytics.google.com",
     "fonts.googleapis.com",
     "static.addtoany.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+    "https://analytics.google.com/g/collect",
     "https://fonts.googleapis.com/css2",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nih.gov",
     ".od.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "586",
   "required_links_url": [
     "about",
     "privacy"

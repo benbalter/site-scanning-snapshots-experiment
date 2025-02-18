@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:28:10.444Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,6 +46,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-5TELC2XGHL,G-XTTKJD1ENC,UA-29536396-4",
   "third_party_service_domains": [
+    "analytics.google.com",
     "dap.digitalgov.gov",
     "download.militaryonesource.mil",
     "fonts.googleapis.com",
@@ -56,6 +56,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://download.militaryonesource.mil/MOS/universal-modal.min.css",
@@ -75,18 +76,17 @@
     "https://ucm-us.verint-cdn.com/files/sites/militaryonesource/draft/custom-style.css",
     "https://ucm-us.verint-cdn.com/files/sites/militaryonesource/draft/sdk.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".militaryonesource.mil",
     "planmydeployment.pre.militaryonesource.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03662650219726562",
-  "largest_contentful_paint": "905.5",
   "required_links_url": [
     "about",
     "fear",

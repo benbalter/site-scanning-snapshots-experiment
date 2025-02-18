@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T14:57:12.182Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,10 +57,10 @@
     "https://rawcdn.githack.com/kemayo/maphilight/7932449fbc49c7767fbd72a807110c632c11ee95/jquery.maphilight.js"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.0009355937500000001",
-  "largest_contentful_paint": "1323.1999999284744",
   "required_links_url": [
     "about",
     "foia",

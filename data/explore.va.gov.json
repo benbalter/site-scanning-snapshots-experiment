@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:54:58.015Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
-    "cdn.eo.va.gov",
     "dap.digitalgov.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "resource.digital.voice.va.gov",
@@ -57,7 +55,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.eo.va.gov/vendor/fa5/current/webfonts/fa-solid-900.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/bitter-bold.woff2",
@@ -83,14 +80,12 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".va.gov",
     "www.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "345.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

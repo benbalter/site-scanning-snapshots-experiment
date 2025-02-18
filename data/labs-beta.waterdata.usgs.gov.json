@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T15:28:18.854Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -57,7 +56,7 @@
     "palinteractiontypedim": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-T4XSP9RZH8,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-T4XSP9RZH8,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "code.jquery.com",
@@ -85,6 +84,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://unpkg.com/npm2url/dist/index.cjs",
+    "https://unpkg.com/npm2url@0.2.4/dist/index.cjs",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
@@ -95,8 +95,6 @@
     ".usgs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.028661874877929684",
-  "largest_contentful_paint": "435.90000009536743",
   "required_links_url": [
     "about",
     "fear",

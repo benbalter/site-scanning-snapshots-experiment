@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T03:37:43.272Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,7 @@
     "subagency": "CBP"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-YeNOfseccHv",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
@@ -65,6 +64,8 @@
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/enterprise.js",
+    "https://www.google.com/recaptcha/enterprise/clr",
+    "https://www.google.com/recaptcha/enterprise/reload",
     "https://www.google.com/recaptcha/enterprise/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
@@ -78,8 +79,6 @@
     "fincen105.cbp.dhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0035156249999999997",
-  "largest_contentful_paint": "2610.600000023842",
   "required_links_url": [
     "about",
     "fear",

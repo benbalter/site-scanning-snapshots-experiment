@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://keycloak.shared-services.staging.appdat.jsc.nasa.gov/auth/realms/aetc/protocol/openid-connect/auth?scope=openid+email&response_type=code&redirect_uri=https%3A%2F%2Fdataiku.staging.aetc.appdat.jsc.nasa.gov%2Flogin%2Fopenid-redirect-uri%2F&state=2ac70fdd-1146-4872-9049-ad4ee248c393&code_challenge_method=S256&nonce=2ac70fdd-1146-4872-9049-ad4ee248c393&client_id=dataiku-staging&code_challenge=Oe14OQeo-bpzwY5AYzgAwVICgHofeUXhw9HSlMCexEM",
+  "url": "https://keycloak.shared-services.staging.appdat.jsc.nasa.gov/auth/realms/aetc/protocol/openid-connect/auth?scope=openid+email&response_type=code&redirect_uri=https%3A%2F%2Fdataiku.staging.aetc.appdat.jsc.nasa.gov%2Flogin%2Fopenid-redirect-uri%2F&state=dc79397f-3987-4218-860d-c897704ecdac&code_challenge_method=S256&nonce=dc79397f-3987-4218-860d-c897704ecdac&client_id=dataiku-staging&code_challenge=ru9XYENBi8ma8Jb5Stk9xkS0GzBmeZHW2Ml40-xmyz4",
   "domain": "keycloak.shared-services.staging.appdat.jsc.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:56:46.303Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -102,8 +101,6 @@
     "keycloak.shared-services.staging.appdat.jsc.nasa.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.01",
-  "largest_contentful_paint": "495.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:29:09.724Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"auto-updating\":1}",
+  "accessibility_violations": "{\"contrast\":4}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -43,25 +42,25 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-rhKN4,G-kJzEmQeQE7UzZn3,G-CI2AdvjZErFbemT",
+  "ga_tag_id": "G-MRlJaxpZeZFAjlu,G-c12ZxBz17j9E9pz,G-4vzMgZFyXIadJzT,G-A56qL1c,G-1Rp5BnYVM,G-oPsI4SfKMjQDwAM,G-tlPC,G-YDHwgM34uN4URNS,G-AQ90yJRnHE4O1,G-YPI2H3ytBxRBvgp",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/9125fcccf849fef4/1739629739282/95qe1EALxOqtBaF",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/561248254:1739625976:8hJXUG6r9a0itmfCLKI8SwvpEUGS8wmKDq98ghEK66s/9125fcccf849fef4/S42lEX_4NQ3S4IJPSvwOUv80kfV9YV2b2oOlZld5C4Y-1739629739-1.1.1.1-718oCTxP_Zsyw8mzJEbtVhfm9wkc695h2rDbkq8qW7ZI0Qxmrhhp34wRKUch65eZ",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/9125fcccf849fef4/1739629739284/6a605c5254d934ee575d1d6372382e2d013fa883724f2ad248e98375d3723c26/TZt1Oedwb1YriE6",
-    "https://challenges.cloudflare.com/turnstile/v0/b/324d0dcf743c/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/91377ae32e2b86cd/1739813161696/8I6MOddHA5-2MmT",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/668623565:1739812419:KTJwo_pzcU9AdmmazWhcxP1cLEhfOZughCS7uG1cyHM/91377ae32e2b86cd/qYy4l.aNRfarLFClYvmfNWqusqwh9Qe3bhNtfbkAqWk-1739813161-1.1.1.1-EcbVsiPHnHZJIChb3v_kdrlXsYjq70E63dVNwF8.cj111K8Z4XS6973x8KyMyAEs",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/91377ae32e2b86cd/1739813161697/7194a277a7932be0a907c27c2567b68e6482b62cb1fae55681783684e9981bca/CiBaBRFUfZn9GYa",
+    "https://challenges.cloudflare.com/turnstile/v0/g/0e3e6804b971/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".tva.gov"
+    ".tva.gov",
+    ".valleyconnect.tva.gov",
+    "valleyconnect.tva.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04422601497395833",
-  "largest_contentful_paint": "214.65499997138977",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

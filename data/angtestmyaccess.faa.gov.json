@@ -21,9 +21,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:35:30.448Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -77,6 +76,7 @@
     "https://op3static.oktacdn.com/assets/loginpage/css/custom-signin.a91af2abfd04662e499bd3e151150dbf.css",
     "https://op3static.oktacdn.com/assets/loginpage/font/assets/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "https://op3static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
+    "https://op3static.oktacdn.com/bc/image/fileStoreRecord",
     "https://op3static.oktacdn.com/fs/bco/1/fs0erg3l9kSR8yPz51d7",
     "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
     "https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2"
@@ -87,8 +87,6 @@
     "myaccessxtl-dev.faa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.0838091145833333",
-  "largest_contentful_paint": "921.3000000715256",
   "required_links_url": [
     "privacy"
   ],

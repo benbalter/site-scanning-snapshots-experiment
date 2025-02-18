@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:06:21.751Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,6 +48,7 @@
     "ads.nextdoor.com",
     "code.jquery.com",
     "connect.facebook.net",
+    "ds-aksb-a.akamaihd.net",
     "flask.nextdoor.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -64,6 +64,8 @@
     "https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css",
     "https://connect.facebook.net/en_US/fbevents.js",
     "https://connect.facebook.net/signals/config/375995057301421",
+    "https://ds-aksb-a.akamaihd.net/2/252778/b",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
     "https://flask.nextdoor.com/pixel",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZMdeX3rg.woff2",
@@ -76,14 +78,11 @@
     "https://www.facebook.com/tr/",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".saferproducts.gov",
-    "www.saferproducts.gov"
+    ".saferproducts.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.012727223510742187",
-  "largest_contentful_paint": "163.10000002384186",
   "required_links_url": [
     "about",
     "fear",

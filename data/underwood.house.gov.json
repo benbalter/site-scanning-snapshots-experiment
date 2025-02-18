@@ -23,9 +23,8 @@
     "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-16T08:13:47.974Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"aria\":4,\"contrast\":4}",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -123,8 +122,6 @@
     ".underwood.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08332688146972655",
-  "largest_contentful_paint": "283.3000000715256",
   "required_links_url": [
     "about",
     "privacy"

@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T07:07:29.683Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,6 +51,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RWSMSW23KH,UA-17367410-7,G-CSLL4ZEK4L,G-QEDJ41QCX8",
   "third_party_service_domains": [
+    "analytics.google.com",
     "dap.digitalgov.gov",
     "search.usa.gov",
     "www.google-analytics.com",
@@ -59,6 +59,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://search.usa.gov/assets/sayt.css",
@@ -72,13 +73,11 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.9070297661946615",
-  "largest_contentful_paint": "1122",
   "required_links_url": [
     "about",
     "foia",

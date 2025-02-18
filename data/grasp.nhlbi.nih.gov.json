@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T11:10:38.278Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,21 +46,30 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "analytics.foresee.com",
     "assets.adobedtm.com",
     "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "gateway.foresee.com",
     "nhlbi.122.2o7.net",
     "unpkg.com",
     "www.nhlbi.nih.gov"
   ],
   "third_party_service_urls": [
+    "https://analytics.foresee.com/ingest/events",
     "https://assets.adobedtm.com/073614e3197b/6bfe06492061/launch-62d1a506f3d5.min.js",
     "https://assets.adobedtm.com/extensions/EP5e9ec493dfa0465eaa797b523b09d3f7/AppMeasurement.min.js",
     "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://gateway.foresee.com/code/19.14.9-fs/fs.compress.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.9-fs/fs.utils.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/sites/nhlbi-gov/staging/gateway.min.js",
-    "https://nhlbi.122.2o7.net/b/ss/nhlbiapps2prod/1/JS-2.17.0-LDQM/s56555612594946",
+    "https://gateway.foresee.com/sites/nhlbi-gov/staging/trigger/NIH_NHLBI_Stacked_Sig_Logo_RGB.jpg",
+    "https://nhlbi.122.2o7.net/b/ss/nhlbiapps2prod/1/JS-2.17.0-LDQM/s4904042250520",
     "https://unpkg.com/xlsx/dist/xlsx.full.min.js",
     "https://unpkg.com/xlsx@0.18.5/dist/xlsx.full.min.js",
     "https://www.nhlbi.nih.gov/modules/custom/nih_extlink/extlink_s.png",
@@ -70,15 +78,12 @@
     "https://www.nhlbi.nih.gov/web_resources/css/superfish.css",
     "https://www.nhlbi.nih.gov/web_resources/js/superfish.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 8,
   "cookie_domains": [
-    ".nhlbi.nih.gov",
     ".nih.gov",
     "grasp.nhlbi.nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.3197351704101562",
-  "largest_contentful_paint": "1370.5",
   "required_links_url": [
     "about",
     "fear",

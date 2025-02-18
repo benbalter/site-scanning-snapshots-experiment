@@ -29,9 +29,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:27:08.531Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -53,11 +52,12 @@
     "subagency": "PDR"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-YD74G0644V,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-YD74G0644V,G-FG9PFW9VH9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -66,17 +66,16 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".huduser.gov",
     "www.huduser.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.01076200801595052",
-  "largest_contentful_paint": "607.6000000238419",
   "required_links_url": [
     "about",
     "fear",

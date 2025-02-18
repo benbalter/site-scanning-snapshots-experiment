@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T06:51:20.180Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,10 +47,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1f.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdn.knightlab.com",
     "cdnjs.cloudflare.com",
@@ -64,7 +61,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1f.akstat.io/",
     "https://a.tile.openstreetmap.org/4/2/4.png",
     "https://a.tile.openstreetmap.org/4/2/7.png",
     "https://a.tile.openstreetmap.org/4/3/6.png",
@@ -86,7 +82,6 @@
     "https://b.tile.openstreetmap.org/5/8/11.png",
     "https://b.tile.openstreetmap.org/5/8/14.png",
     "https://b.tile.openstreetmap.org/5/9/13.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/4/2/6.png",
     "https://c.tile.openstreetmap.org/4/3/5.png",
     "https://c.tile.openstreetmap.org/4/4/4.png",
@@ -105,8 +100,6 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map902ca98f43994c18847b62204432fcb6.png",
-    "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_mapd78f960e4d004adaa6dfc320ee9a896e.png",
     "https://ecos.fws.gov/arcgis/rest/services/tess/RangeMap/MapServer/",
     "https://ecos.fws.gov/arcgis/rest/services/tess/RangeMap/MapServer/export",
     "https://fonts.googleapis.com/css",
@@ -129,13 +122,12 @@
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2569630859375",
-  "largest_contentful_paint": "1167.1999999284744",
   "required_links_url": [
     "about",
     "foia",

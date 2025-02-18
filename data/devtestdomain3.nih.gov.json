@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T11:55:00.219Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -84,6 +83,7 @@
     "https://ucm-us.verint-cdn.com/files/sites/nih-gov/live/config.json",
     "https://ucm-us.verint-cdn.com/files/sites/nih-gov/live/sdk.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
@@ -95,8 +95,6 @@
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.281546724609375",
-  "largest_contentful_paint": "380.10000002384186",
   "required_links_url": [
     "about",
     "fear",

@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T03:25:22.110Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,16 +47,20 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "ds-aksb-a.akamaihd.net",
+    "i34de7b00-ds-aksb-a.akamaihd.net"
+  ],
+  "third_party_service_urls": [
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
+    "https://i34de7b00-ds-aksb-a.akamaihd.net/2/757756/b"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".cms.gov",
     "mo-idp.cms.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1022.7999999523163",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

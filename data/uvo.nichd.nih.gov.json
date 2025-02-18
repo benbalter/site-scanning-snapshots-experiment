@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T11:02:46.178Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,8 +57,6 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "unpkg.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
@@ -68,16 +65,8 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/gateway.min.js",
-    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/NICHD_FS_Invite_Horizontal.jpg",
-    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/nih_nichd_logo.jpg",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
     "https://unpkg.com/web-vitals@4.2.4/dist/web-vitals.iife.js",
     "https://www.google-analytics.com/analytics.js",
@@ -89,13 +78,11 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.2356723658447268",
-  "largest_contentful_paint": "822.8000000715256",
   "required_links_url": [
     "about",
     "foia",

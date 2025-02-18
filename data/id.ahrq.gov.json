@@ -5,7 +5,7 @@
   "initial_base_domain": "ahrq.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://id.ahrq.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=IL0rlgcjVbzq_1Ub89euT2tp8M4EjfpHOlz8gtwXbW8&code_challenge_method=S256&nonce=ljc6rIad4CoHkCrT1gTANNLbIdEFi4UOMDNwKPYbkbACYJthvAUeWYofKRgIciCo&redirect_uri=https%3A%2F%2Fid.ahrq.gov%2Fenduser%2Fcallback&response_type=code&state=B6GhW1AuRcp7Nltbq3LikBeQQAfdVZrgTiZNR6KiNLIqf1BERTegpC2Pypd4YUyS&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://id.ahrq.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=fC8EV9JJpg1xVhPmd0_q7MS5YkRaHKYIEveNcSmfy4I&code_challenge_method=S256&nonce=Ab7UJbLCOB9TVg8XZ4ZgfpTl4JtPVggr32qpO9fvOO1KkfrsL79Erc1HAWv6kUF6&redirect_uri=https%3A%2F%2Fid.ahrq.gov%2Fenduser%2Fcallback&response_type=code&state=YGPl2ghuWKHJqKsAfBtwY5Maa4Uf8tFF4p3DMX8N8wQ9nDnCedQ9d0GNUxHQ48zq&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "id.ahrq.gov",
   "base_domain": "ahrq.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T00:49:39.088Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -69,12 +68,9 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".ahrq.gov",
     "id.ahrq.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.0317609927571614",
-  "largest_contentful_paint": "391.1999999284744",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

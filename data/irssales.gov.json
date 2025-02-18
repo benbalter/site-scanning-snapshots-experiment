@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T08:34:01.837Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,30 +48,36 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-MK4NMBVE6M,G-nXO43KyamQIK8tV,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0e.akstat.io",
+    "17de4c18.akstat.io",
+    "52-222-122-97_s-23-32-75-29_ts-1739861979-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
+    "gtphuylimsuhgz5uf7nq-po6v70-90b0446fb-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0e.akstat.io/",
+    "https://17de4c18.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-29_ts-1739861979-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://gtphuylimsuhgz5uf7nq-po6v70-90b0446fb-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/XYXTJ-MRPYX-WKMCY-269N6-BR76D",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".irsauctions.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.023713253662109374",
-  "largest_contentful_paint": "280",
   "required_links_url": [
     "about",
     "fear",
@@ -132,8 +137,7 @@
     "usa-menu-btn",
     "usa-overlay",
     "usa-search",
-    "usa-sr-only",
-    "usa-tag"
+    "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 50,

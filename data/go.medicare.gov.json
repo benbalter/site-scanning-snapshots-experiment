@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:25:59.265Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -71,6 +70,7 @@
     "js-agent.newrelic.com",
     "match.adsrvr.org",
     "ping.chartbeat.net",
+    "pixel.rubiconproject.com",
     "static.chartbeat.com",
     "tags.tiqcdn.com",
     "tags.w55c.net",
@@ -126,8 +126,11 @@
     "https://insight.adsrvr.org/track/conv/",
     "https://js-agent.newrelic.com/nr-spa-1123.min.js",
     "https://match.adsrvr.org/track/cmb/appnexus",
+    "https://match.adsrvr.org/track/cmb/rubicon",
     "https://match.adsrvr.org/track/cmf/appnexus",
+    "https://match.adsrvr.org/track/cmf/rubicon",
     "https://ping.chartbeat.net/ping",
+    "https://pixel.rubiconproject.com/tap.php",
     "https://static.chartbeat.com/js/chartbeat.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.164.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.194.js",
@@ -148,7 +151,7 @@
     "https://tealium-collect.medicare.gov/cmsgov/main/2/i.gif",
     "https://tealium-tags.medicare.gov/medicare-www/prod/utag.js",
     "https://tealium-tags.medicare.gov/medicare-www/prod/utag.sync.js",
-    "https://tealium-visitor-service.medicare.gov/cmsgov/medicare-www/01950e4adefe00d3fbdc33467e5005077001906f00590",
+    "https://tealium-visitor-service.medicare.gov/cmsgov/medicare-www/019517f960c6002e89be4d5ce62005077007e06f00590",
     "https://tr.contextweb.com/bh/at",
     "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/",
     "https://www.facebook.com/tr/",
@@ -159,14 +162,12 @@
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://zn56jl522ec1a1wzf-medicare.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 33,
+  "third_party_service_count": 34,
   "cookie_domains": [
     ".medicare.gov",
     "www.medicare.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.513376590983073",
-  "largest_contentful_paint": "650",
   "required_links_url": [
     "about",
     "fear",

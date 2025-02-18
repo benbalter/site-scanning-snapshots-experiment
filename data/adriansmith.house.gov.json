@@ -24,12 +24,11 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:30:49.742Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
@@ -88,7 +87,6 @@
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/NE-3/shape.kml",
     "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1886899097761697792/pu/img/5dH-mjCeGJ3D2-Q1.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1887513134845284352/pu/img/SHaHAKvHeRt5Q6aD.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1889417165276667906/pu/img/4m29VcQ7fyD-wJtA.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1890062627633614848/pu/img/V5e_OyEvgcyb5Vpd.jpg",
@@ -99,6 +97,7 @@
     "https://pbs.twimg.com/media/GjCg_mkWAAASnbt",
     "https://pbs.twimg.com/media/GjDKcJKXYAAJGT-",
     "https://pbs.twimg.com/media/GjN0mIrW4AAlN4j",
+    "https://pbs.twimg.com/media/Gj_n-LwWAAEBjZg",
     "https://pbs.twimg.com/media/Gjb0g-3XUAAs9E3",
     "https://pbs.twimg.com/media/Gjb0jwiWcAAv654",
     "https://pbs.twimg.com/media/Gjb0ljGWcAAsjOB",
@@ -140,8 +139,6 @@
     ".adriansmith.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": null,
-  "largest_contentful_paint": null,
   "required_links_url": [
     "about",
     "privacy"

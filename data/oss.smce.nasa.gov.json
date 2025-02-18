@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.smce.nasa.gov/realms/OSS-Public/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Foss.smce.nasa.gov%2Fhub%2Foauth_callback&client_id=oss-public&state=eyJzdGF0ZV9pZCI6ICI1NGMyM2FiZTI1OWI0NzU5YjI4NTNmZWYxNTZmZGU4ZSIsICJuZXh0X3VybCI6ICIvaHViLyJ9&scope=openid+phone+profile+email",
+  "url": "https://auth.smce.nasa.gov/realms/OSS-Public/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Foss.smce.nasa.gov%2Fhub%2Foauth_callback&client_id=oss-public&state=eyJzdGF0ZV9pZCI6ICI0OTczZjcwZThiMzY0NjUwOTZmMTMyODczMDNmZDJmZSIsICJuZXh0X3VybCI6ICIvaHViLyJ9&scope=openid+phone+profile+email",
   "domain": "auth.smce.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T17:12:32.998Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,12 +49,9 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nasa.gov",
     "auth.smce.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00017912597656249998",
-  "largest_contentful_paint": "328.1999999284744",
   "required_links_url": [
     "privacy"
   ],

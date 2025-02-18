@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T03:02:22.214Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,14 +49,12 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VY5XG9XWGG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "api.census.gov",
     "assets.adobedtm.com",
     "dap.digitalgov.gov",
     "smetrics.census.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://api.census.gov/data/timeseries/bds",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC071e17725fad44a3bb14e8123456b9af-source.min.js",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC87bbffc6ff9e42928a26e90bc8ce59ba-source.min.js",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/launch-ENdc1ca6bab15e46a5b880a2c3f9d462ab.min.js",
@@ -66,11 +63,10 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://smetrics.census.gov/b/ss/cebulehd",
-    "cebucensusglobalprod/1/JS-2.23.0-LEWM/s16285537119688",
-    "https://www.googletagmanager.com/a",
+    "cebucensusglobalprod/1/JS-2.23.0-LEWM/s68326585440909",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".bds.explorer.ces.census.gov",
     ".census.gov",
@@ -78,8 +74,6 @@
     "bds.explorer.ces.census.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.4561011650390625",
-  "largest_contentful_paint": "796.2999999523163",
   "required_links_url": [
     "about",
     "foia",

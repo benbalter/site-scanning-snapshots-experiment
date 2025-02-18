@@ -5,7 +5,7 @@
   "initial_base_domain": "uscirf.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=debfb3da-f39a-ba07-9db1-9612d283efad&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638752279576074022.5ff4de36-0ba4-4b34-b4dd-f017adac0f6f&state=DcuxFYAwCABRos9xMEhI0HGISGvp-lL8664AwJqWVCgDOtqpnVmvroNUiHnvEeJPG0jTBGU2wSnuGHSoud0UI0q-W30_qz8",
+  "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=bfea3175-8b09-9b9e-4536-38226bd14313&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638754116883777259.e3ef1df7-a581-43e5-b882-cdb811891b64&state=DcsxFoAgDARR0OdxIoYQshwHBFtLr2-KP93EEMLuNhcvT7AqMC3MFRAzy9rOJevh-Rh1BVORpTSATPccYEbjUUv090jv19MP",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:52:48.012Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -61,13 +60,13 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
     "https://login.live.com/Me.htm",
-    "https://r4.res.office365.com/owa/prem/15.20.8445.14/resources/images/0/sprite1.mouse.css",
-    "https://r4.res.office365.com/owa/prem/15.20.8445.14/resources/images/0/sprite1.mouse.png",
-    "https://r4.res.office365.com/owa/prem/15.20.8445.14/resources/styles/0/boot.worldwide.mouse.css",
-    "https://r4.res.office365.com/owa/prem/15.20.8445.14/scripts/boot.worldwide.0.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8445.14/scripts/boot.worldwide.1.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8445.14/scripts/boot.worldwide.2.mouse.js",
-    "https://r4.res.office365.com/owa/prem/15.20.8445.14/scripts/boot.worldwide.3.mouse.js"
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/resources/images/0/sprite1.mouse.css",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/resources/images/0/sprite1.mouse.png",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/resources/styles/0/boot.worldwide.mouse.css",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.0.mouse.js",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.1.mouse.js",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.2.mouse.js",
+    "https://r4.res.office365.com/owa/prem/15.20.8445.17/scripts/boot.worldwide.3.mouse.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -75,8 +74,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.07557884114583331",
-  "largest_contentful_paint": "549.3999999761581",
   "required_links_url": [
     "privacy"
   ],
@@ -98,14 +95,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2fmail.uscirf.gov%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=d9dbeb40-9a71-51ce-9483-f57ab1c0cad6&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638752279601883863.83fe01da-93d6-421c-a119-b9e11801ea76&state=DcvBDYAgDEBR0AGcpNBSLWUcELySKImOL4f3b98aY9ZpmSzOmCis8QghJkFSZRV2yldDqhkSV4E90AmZKEFJjUiRWo5i57v5_mZ_99LH48Y3fg",
+  "robots_txt_url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2fmail.uscirf.gov%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=bf474b43-7f9d-5356-66fd-ab2509008112&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638754116908123431.a76321bf-7ea9-4d7c-ac95-655696b89448&state=DYtBDoAgDMBAH-BLEAZjY88B1CuJkujz3aE9NKk1xqzKotigMkypcEYAklAgJkywV40R2uX4rOLw4O5ql-woZxJqRRCL1Xfz463-Hm3MZ5_f_AE",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=6c5aeae9-93b2-ffdc-3df3-34d60ce3809d&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=sitemap.xml&nonce=638752279650562049.5e74d8bc-23c8-484e-aa11-c425bc449fb6&state=DctbCoAgEEBRrQ20kfExzvhYjppBkBQU1PLz49y_K4UQ8zAN0oyI4F0MjBiSZ8MeDSXFLdAaSwV0NQJFapCztVAJuVSitBUvx7vo88363p_W86W-fvw",
+  "sitemap_xml_url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=fb67b495-2ca6-b67b-dcff-a6590fef798e&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=sitemap.xml&nonce=638754116954984770.20b7519c-ee7e-4001-8508-ebd76478d5ad&state=DcvBDYAgDEBR0AVcBCna0jIOSA8mEk000fHl8P7tW2PM2A2dhR7DcRUmDCEmwiTIDPMChSmkzamyOgQITgjEaakckaVSrra_kz_f7O_90Zav-WvHDw",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

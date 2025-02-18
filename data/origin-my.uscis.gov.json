@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T14:47:10.070Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,43 +52,25 @@
     "PUA": "UA-12572986-24"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-12572986-2,G-CSLL4ZEK4L,G-GHG7XR2CMP,G-WENZ0N4TZX",
+  "ga_tag_id": "UA-12572986-2,G-CSLL4ZEK4L,G-WENZ0N4TZX",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "gov-bam.nr-data.net",
-    "gov1.siteintercept.qualtrics.com",
-    "js-agent.newrelic.com",
-    "s.go-mpulse.net",
-    "www.dhs.gov",
     "www.google-analytics.com",
-    "www.googletagmanager.com",
-    "zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://gov-bam.nr-data.net/1/75cfd1dfd9",
-    "https://gov-bam.nr-data.net/events/1/75cfd1dfd9",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
-    "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
-    "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
-    "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
-    "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
-    "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".uscis.gov",
     "origin-my.uscis.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00009559867350260415",
-  "largest_contentful_paint": "846.8000000715256",
   "required_links_url": [
     "about",
     "fear",

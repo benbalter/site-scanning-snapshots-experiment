@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T10:50:38.256Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,8 +54,10 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "heatmaps.monsido.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
+    "tracking.monsido.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -66,6 +67,8 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://heatmaps.monsido.com/v1/heatmaps.js",
+    "https://heatmaps.monsido.com/v1/settings/VsAIOc905Tjeazm18evt9w.json",
     "https://ka-p.fontawesome.com/assets/1ea3372bd6/68677950/custom-icons.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
@@ -84,19 +87,18 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-solid-900-13.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-solid-900-22.woff2",
     "https://kit.fontawesome.com/1ea3372bd6.js",
+    "https://tracking.monsido.com/",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".nih.gov",
     ".nimh.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.008990174153645834",
-  "largest_contentful_paint": "470",
   "required_links_url": [
     "about",
     "foia",

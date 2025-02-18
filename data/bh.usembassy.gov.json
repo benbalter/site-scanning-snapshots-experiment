@@ -25,9 +25,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T07:57:33.749Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"aria\":1,\"contrast\":3,\"link-purpose\":3,\"lists\":2}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -109,7 +108,7 @@
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-solid-900.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
@@ -128,8 +127,6 @@
     "bh.usembassy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.20046156119791672",
-  "largest_contentful_paint": "365.59999990463257",
   "required_links_url": [
     "fear",
     "foia",

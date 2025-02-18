@@ -22,7 +22,6 @@
     "final_url_websites"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:15:25.951Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,6 +49,7 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "mrdc.health.mil",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -68,16 +68,15 @@
     "https://mrdc.health.mil/assets/images/logo-nav/wrair_logo_nav.png",
     "https://mrdc.health.mil/assets/images/logos/afc-logo.png",
     "https://mrdc.health.mil/assets/images/logos/army-logo.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".health.mil",
     "usaarl.health.mil"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.022870865885416668",
-  "largest_contentful_paint": "995.5",
   "required_links_url": [
     "about",
     "privacy"

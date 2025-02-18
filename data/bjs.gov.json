@@ -25,9 +25,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T02:20:03.524Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -67,7 +66,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/9295e74c-d827-4137-b436-946e19288685",
+    "https://brain.foresee.com/state/ojp-main/63ac9656-7d2c-4294-87a2-5915abac897b",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://connect.facebook.net/en_US/sdk.js",
@@ -104,8 +103,6 @@
     ".ojp.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.08805769555664063",
-  "largest_contentful_paint": "444.39999997615814",
   "required_links_url": [
     "about",
     "foia",

@@ -5,7 +5,7 @@
   "initial_base_domain": "grantsolutions.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.grantsolutions.gov/auth/realms/Grantsolutions/protocol/openid-connect/auth?response_type=code&client_id=home&redirect_uri=https%3A%2F%2Fwww.grantsolutions.gov%2Fgshome%2Fhome&state=cfc9a5b8-966a-42e8-b345-e1b53cc580c1&login=true&scope=openid",
+  "url": "https://www.grantsolutions.gov/auth/realms/Grantsolutions/protocol/openid-connect/auth?response_type=code&client_id=home&redirect_uri=https%3A%2F%2Fwww.grantsolutions.gov%2Fgshome%2Fhome&state=df7242ea-daa6-48ab-84e0-c5969fde174a&login=true&scope=openid",
   "domain": "www.grantsolutions.gov",
   "base_domain": "grantsolutions.gov",
   "top_level_domain": "gov",
@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T07:02:19.092Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -74,8 +73,6 @@
     "www.grantsolutions.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06772752343749999",
-  "largest_contentful_paint": "1010.7000000476837",
   "required_links_url": [
     "about",
     "privacy"

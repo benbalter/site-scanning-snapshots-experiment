@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T18:24:02.592Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,6 @@
   "third_party_service_domains": [
     "maps.googleapis.com",
     "maps.gstatic.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,17 +59,14 @@
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
     "https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png",
     "https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3.png",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.013707194010416668",
-  "largest_contentful_paint": "764.3000000715256",
   "required_links_url": [
     "about",
     "fear",

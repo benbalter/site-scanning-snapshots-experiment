@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:46:22.054Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -59,10 +58,8 @@
   "third_party_service_urls": [
     "https://activation.shortpoint.com/LicensingManager/api/Licenses/GetCustomerVersion",
     "https://activation.shortpoint.com/ls/v/v3/lv3.asmx/GetAccessibilityData",
-    "https://activation.shortpoint.com/ls/v/v4/lv4.asmx/ggfd",
     "https://activation.shortpoint.com/ls/v/v5/lv5.asmx/g",
-    "https://d2zzvnmppezkx.cloudfront.net/shortpointv2/spfx/supportservices.jobcorps.gov/latest/assets.json",
-    "https://d2zzvnmppezkx.cloudfront.net/shortpointv2/spfx/supportservices.jobcorps.gov/latest/js/refScriptBlock.js",
+    "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/assets.json",
     "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/assets/fonts/fa-brands-400.8d3cabfc66809162fb4d.woff2",
     "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/assets/fonts/fa-solid-900.fb8184add5a3101ad0a3.woff2",
     "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/assets/fonts/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
@@ -78,6 +75,7 @@
     "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/js/chunks/engine-css-ltr.js",
     "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/js/chunks/master.js",
     "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/js/loader.js",
+    "https://d2zzvnmppezkx.cloudfront.net/spfx/8.3.12.1/js/refScriptBlock.js",
     "https://fonts.googleapis.com/css2",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
@@ -88,8 +86,6 @@
     "supportservices.jobcorps.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "721",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

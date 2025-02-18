@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T11:06:45.456Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,22 +47,22 @@
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "sewp.nasa.gov",
-    "sewpprod.servicenowservices.com"
+    "sewpprod.servicenowservices.com",
+    "www.sewp.nasa.gov"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js",
     "https://sewp.nasa.gov/addins/chatDeployment.js",
     "https://sewp.nasa.gov/addins/dynamicMenu.js",
-    "https://sewpprod.servicenowservices.com/api/global/agent_availability"
+    "https://sewpprod.servicenowservices.com/api/global/agent_availability",
+    "https://www.sewp.nasa.gov/images/emailsewp.png"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nasa.gov",
     "fs-sewp-avi-lb-pz.sewp.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1532.3999999761581",
   "required_links_url": [
     "about",
     "privacy"

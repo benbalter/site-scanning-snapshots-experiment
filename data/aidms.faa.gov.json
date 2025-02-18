@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T05:30:24.528Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,28 +45,20 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c1b.akstat.io",
-    "52-222-122-97_s-23-32-75-13_ts-1739683819-clienttons-s.akamaihd.net",
+    "17de4c1c.akstat.io",
     "c.go-mpulse.net",
-    "gtphuyixf3sdcz5ro7vq-pw9htu-5f37a8707-clientnsv4-s.akamaihd.net",
-    "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net"
+    "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c1b.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-13_ts-1739683819-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c1c.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuyixf3sdcz5ro7vq-pw9htu-5f37a8707-clientnsv4-s.akamaihd.net/eum/results.txt",
-    "https://s.go-mpulse.net/boomerang/D8YFY-TTAA8-3DS5R-UQAWK-5Y85Q",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
+    "https://s.go-mpulse.net/boomerang/D8YFY-TTAA8-3DS5R-UQAWK-5Y85Q"
   ],
-  "third_party_service_count": 7,
-  "cookie_domains": null,
+  "third_party_service_count": 3,
+  "cookie_domains": [
+    ".faa.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.03397183227539062",
-  "largest_contentful_paint": "471.60000002384186",
   "required_links_url": [
     "privacy"
   ],

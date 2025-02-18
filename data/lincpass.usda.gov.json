@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T15:17:25.994Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,6 +60,7 @@
   "third_party_service_urls": [
     "https://connect.facebook.net/en_US/sdk.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
@@ -70,8 +70,6 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.025376763590494792",
-  "largest_contentful_paint": "382.40000009536743",
   "required_links_url": [
     "about",
     "fear",

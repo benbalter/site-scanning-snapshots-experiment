@@ -24,9 +24,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T11:26:25.002Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -52,7 +51,6 @@
     "calendar.google.com",
     "clients6.google.com",
     "code.jquery.com",
-    "csi.gstatic.com",
     "fonts.gstatic.com",
     "maxcdn.bootstrapcdn.com",
     "ssl.google-analytics.com",
@@ -447,21 +445,18 @@
     "https://calendar.google.com/calendar/_/web/calendar-static/_/ss/k=calendar-web.nextembed.DdgWVsVKHlw.L.W.O/am=ZDA/d=0/rs=ABFko3-fHVfD0H5M7Vcm0RMa0efDpbtHtg",
     "https://clients6.google.com/calendar/v3/calendars/1669a4d45fd8b5c0092269133175d48db686101c66fa5190ab2395669364e082%40group.calendar.google.com/events",
     "https://code.jquery.com/jquery-1.11.0.min.js",
-    "https://csi.gstatic.com/csi",
     "https://fonts.gstatic.com/s/googlesans/v58/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCIhM907w.woff2",
     "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
     "https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_60x24px.svg"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".lvis.gsfc.nasa.gov",
     ".nasa.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.11090651041666666",
-  "largest_contentful_paint": "1225.1000000238419",
   "required_links_url": [
     "about",
     "privacy"

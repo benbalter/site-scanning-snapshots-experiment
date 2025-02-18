@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:48:32.551Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,7 +50,7 @@
     "siteplatform": "Classic"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-161656342-1,G-CSLL4ZEK4L,UA-21044428-4,G-622EK4HCCW,G-96M3HC7MH0,G-471CP6W9Z8",
+  "ga_tag_id": "UA-161656342-1,G-CSLL4ZEK4L,UA-21044428-4,G-622EK4HCCW,G-471CP6W9Z8,G-96M3HC7MH0",
   "third_party_service_domains": [
     "ago-item-storage.s3.amazonaws.com",
     "cdnjs.cloudflare.com",
@@ -61,6 +60,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "googleads.g.doubleclick.net",
+    "gov1.siteintercept.qualtrics.com",
     "px.ads.linkedin.com",
     "snap.licdn.com",
     "tags.srv.stackadapt.com",
@@ -71,7 +71,8 @@
     "www.googletagmanager.com",
     "www.gstatic.com",
     "www.recaptcha.net",
-    "www.youtube.com"
+    "www.youtube.com",
+    "zn8btbr9qtqecsqsq-tsgfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://ago-item-storage.s3.amazonaws.com/67256ea79b78400fb758147dd92c46fe/Country_Adoptions_by_Year.xlsx",
@@ -87,6 +88,13 @@
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11238285267/",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11342289726/",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/809407049/",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/LinkModule.js",
     "https://px.ads.linkedin.com/attribution_trigger",
     "https://px.ads.linkedin.com/collect",
     "https://px.ads.linkedin.com/wa/",
@@ -114,16 +122,15 @@
     "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
     "https://www.recaptcha.net/recaptcha/api.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
+    "https://zn8btbr9qtqecsqsq-tsgfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 19,
+  "third_party_service_count": 21,
   "cookie_domains": [
     ".state.gov",
     "travel.state.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.2503972967122396",
-  "largest_contentful_paint": "4680.199999928474",
   "required_links_url": [
     "about",
     "fear",

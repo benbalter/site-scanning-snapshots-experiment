@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T15:49:35.202Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,6 +52,7 @@
     "ajax.googleapis.com",
     "cdn.forge.tylertech.com",
     "cdn.socrata.com",
+    "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "use.fontawesome.com"
   ],
   "third_party_service_urls": [
@@ -73,17 +73,16 @@
     "https://cdn.socrata.com/frontend/C25-HF-3/javascripts/build/style-packages/visualizations.ab779256c5483f53ed12.css",
     "https://cdn.socrata.com/frontend/C25-HF-3/javascripts/plugins/ua-parser.min.js",
     "https://cdn.socrata.com/frontend/C25-HF-3/webfonts/common/socrata-icons.1706020453.woff2",
+    "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/design/icons/favicon.ico",
     "https://use.fontawesome.com/releases/v5.14.0/css/all.css",
     "https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.woff2"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".va.gov",
     "data.va.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6510518981526693",
-  "largest_contentful_paint": "2360",
   "required_links_url": [
     "about",
     "privacy"

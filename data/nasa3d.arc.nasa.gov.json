@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T17:08:23.118Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":18,\"images\":1,\"link-purpose\":1}",
+  "accessibility_violations": "{\"contrast\":18,\"images\":1,\"link-purpose\":2}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -65,8 +64,6 @@
     ".nasa3d.arc.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000019866536458333335",
-  "largest_contentful_paint": "280.2999999523163",
   "required_links_url": [
     "about",
     "fear",
@@ -100,7 +97,7 @@
   "robots_txt_url": "https://nasa3d.arc.nasa.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 25420,
+  "robots_txt_filesize": 25466,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,

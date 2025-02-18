@@ -26,7 +26,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T03:38:14.031Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -68,11 +67,11 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".defense.gov"
+    ".dam.defense.gov",
+    ".defense.gov",
+    "dam.defense.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0005441337890624999",
-  "largest_contentful_paint": "274",
   "required_links_url": [
     "about",
     "fear",

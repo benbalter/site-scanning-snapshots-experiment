@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T08:56:41.198Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,6 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30665474-2,UA-22995010-2",
   "third_party_service_domains": [
+    "analytics.google.com",
     "app.enzuzo.com",
     "basemaps.cartocdn.com",
     "cdn.jsdelivr.net",
@@ -62,6 +62,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://app.enzuzo.com/api/public/v1/analytics/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://app.enzuzo.com/scripts/cookiebar/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://basemaps.cartocdn.com/rastertiles/voyager/14/9560/8279.png",
@@ -93,15 +94,13 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".rw.usembassy.gov",
     ".usembassy.gov",
     "rw.usembassy.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.3418740026855468",
-  "largest_contentful_paint": "366.10000002384186",
   "required_links_url": [
     "fear",
     "foia",
@@ -122,7 +121,7 @@
   "og_title": "Homepage",
   "og_description": "The mission of the U.S. Embassy is to advance the interests of the United States, and to serve and protect U.S. citizens in Rwanda.",
   "og_article_published": null,
-  "og_article_modified": "2025-02-12T18:40:01.000Z",
+  "og_article_modified": "2025-02-18T06:01:54.000Z",
   "og_image": null,
   "og_type": "website",
   "og_url": "https://rw.usembassy.gov/",

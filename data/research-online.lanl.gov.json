@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T09:04:30.248Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"user-control-name\":2,\"link-purpose\":9}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -43,7 +42,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-VDTRmmLppdB6U8k",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "app.eu.pendo.io",
     "cdn.cookielaw.org",
@@ -54,8 +53,8 @@
     "geolocation.onetrust.com"
   ],
   "third_party_service_urls": [
-    "https://app.eu.pendo.io/api/v1/metadata/visitor/custom/value/_PENDO_T_VMEwIYX5Btx/esploro_targetingcookies",
-    "https://app.eu.pendo.io/api/v1/metadata/visitor/pendo/value/_PENDO_T_VMEwIYX5Btx/donotprocess",
+    "https://app.eu.pendo.io/api/v1/metadata/visitor/custom/value/_PENDO_T_HqumWjDzphv/esploro_targetingcookies",
+    "https://app.eu.pendo.io/api/v1/metadata/visitor/pendo/value/_PENDO_T_HqumWjDzphv/donotprocess",
     "https://cdn.cookielaw.org/consent/9654f82b-5814-4e84-816d-42fc9f622e22/6cb99e71-09c0-4993-a931-3ce89bcd27e7/en.json",
     "https://cdn.cookielaw.org/consent/9654f82b-5814-4e84-816d-42fc9f622e22/9654f82b-5814-4e84-816d-42fc9f622e22.json",
     "https://cdn.cookielaw.org/consent/9654f82b-5814-4e84-816d-42fc9f622e22/OtAutoBlock.js",
@@ -78,12 +77,9 @@
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".lanl.gov",
     "laro.lanl.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.23284566796875003",
-  "largest_contentful_paint": "1949.5",
   "required_links_url": [
     "privacy",
     "/es"

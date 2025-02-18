@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T04:16:24.236Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,18 +49,16 @@
     "www.eia.gov"
   ],
   "third_party_service_urls": [
-    "https://www.eia.gov/global/fonts/Jost-Italic-VariableFont_wght.ttf",
-    "https://www.eia.gov/global/fonts/Jost-VariableFont_wght.ttf",
     "https://www.eia.gov/global/images/logos/eia_logo_print.png",
     "https://www.eia.gov/global/styles/EIA_global.css",
     "https://www.eia.gov/global/styles/print.css",
     "https://www.eia.gov/global/styles/screen.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".doe.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "9161.200000047684",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,

@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T14:31:52.350Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,23 +46,31 @@
     "pga4": "G-3LQDL2XXWV"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-3LQDL2XXWV,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-3LQDL2XXWV,G-GHG7XR2CMP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
     "googleads.g.doubleclick.net",
+    "s.go-mpulse.net",
+    "www.dhs.gov",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11324864208/",
+    "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
+    "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
+    "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
+    "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/ccm/collect",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
@@ -72,13 +79,11 @@
     "https://www.google.com/pagead/1p-user-list/11324864208/",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cisa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.660425646484375",
-  "largest_contentful_paint": "169",
   "required_links_url": [
     "about",
     "fear",

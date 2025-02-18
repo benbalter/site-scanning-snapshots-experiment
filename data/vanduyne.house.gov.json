@@ -16,13 +16,12 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-16T08:10:36.420Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,8 +48,12 @@
     "core.service.elfsight.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "i.ytimg.com",
+    "pbs.twimg.com",
     "static.elfsight.com",
-    "use.fontawesome.com"
+    "storage.elfsight.com",
+    "use.fontawesome.com",
+    "x.com"
   ],
   "third_party_service_urls": [
     "https://apps.elfsight.com/p/platform.js",
@@ -62,19 +65,34 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://i.ytimg.com/vi/4QL45lfqD3g/maxresdefault.jpg",
+    "https://pbs.twimg.com/amplify_video_thumb/1887238357924610048/img/UxqNDeUNFUbNykwO.jpg",
+    "https://pbs.twimg.com/media/GjCmVF-XwAEuJDQ.jpg",
+    "https://pbs.twimg.com/media/GjCzrm-WYAA_0l0.jpg",
+    "https://pbs.twimg.com/media/GjCzs0fXEAASR2R.jpg",
+    "https://pbs.twimg.com/media/GjDMxaFWAAAAUJC.jpg",
+    "https://pbs.twimg.com/media/GjDMxaJWUAAFp4-.jpg",
+    "https://pbs.twimg.com/media/GjDMxaJX0AAh5Dn.jpg",
+    "https://pbs.twimg.com/media/GjDRSZkXYAAOK_y.jpg",
+    "https://pbs.twimg.com/media/GjDh0mSXgAAMIc3.jpg",
+    "https://pbs.twimg.com/media/GjDh10iXQAAHrlz.jpg",
+    "https://pbs.twimg.com/media/GjDhzY0XEAAV-fm.jpg",
+    "https://pbs.twimg.com/media/GjEEDsjX0AA8AaR.jpg",
+    "https://pbs.twimg.com/profile_images/1339633691086217216/DgBVGqMI.jpg",
+    "https://pbs.twimg.com/profile_images/1853813420220448768/hi20rR66_normal.jpg",
     "https://static.elfsight.com/apps/facebook-feed/stable/43b85852631485feeef8e45d7f6e6c36334a1317/app/facebookFeed.js",
     "https://static.elfsight.com/apps/twitter-feed/stable/1d0ddd7ddaee8ca764f171dbd85923beaf397583/app/twitterFeed.js",
     "https://static.elfsight.com/platform/platform.js",
+    "https://storage.elfsight.com/api/facebook",
     "https://use.fontawesome.com/releases/v5.6.3/css/all.css",
-    "https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.woff2"
+    "https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.woff2",
+    "https://x.com/"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 10,
   "cookie_domains": [
     "vanduyne.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "303.60000002384186",
   "required_links_url": [
     "about"
   ],

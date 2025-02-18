@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T06:39:37.084Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -48,7 +47,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1a.akstat.io",
+    "17de4c18.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
     "c.go-mpulse.net",
@@ -63,7 +62,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1a.akstat.io/",
+    "https://17de4c18.akstat.io/",
     "https://a.tile.openstreetmap.org/8/56/88.png",
     "https://a.tile.openstreetmap.org/8/57/87.png",
     "https://a.tile.openstreetmap.org/8/58/89.png",
@@ -101,8 +100,6 @@
     ".fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "780.4000000953674",
   "required_links_url": [
     "about",
     "foia",

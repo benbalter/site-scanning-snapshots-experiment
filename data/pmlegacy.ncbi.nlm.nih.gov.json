@@ -21,7 +21,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T10:54:54.801Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,14 +50,11 @@
   "third_party_service_domains": [
     "cdn.ncbi.nlm.nih.gov",
     "dap.digitalgov.gov",
-    "siteintercept.qualtrics.com",
     "www.googletagmanager.com",
-    "www.ncbi.nlm.nih.gov",
-    "zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com"
+    "www.ncbi.nlm.nih.gov"
   ],
   "third_party_service_urls": [
     "https://cdn.ncbi.nlm.nih.gov/core/pinger/pinger.js",
-    "https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png",
     "https://cdn.ncbi.nlm.nih.gov/pubmed/14efe001-aebf-4097-9883-28c967333423/CACHE/css/output.2cde99070af0.css",
     "https://cdn.ncbi.nlm.nih.gov/pubmed/14efe001-aebf-4097-9883-28c967333423/CACHE/css/output.452c70ce66f7.css",
     "https://cdn.ncbi.nlm.nih.gov/pubmed/14efe001-aebf-4097-9883-28c967333423/CACHE/css/output.5ecf62baa0fa.css",
@@ -77,11 +73,6 @@
     "https://cdn.ncbi.nlm.nih.gov/pubmed/14efe001-aebf-4097-9883-28c967333423/uswds/dist/fonts/merriweather-regular-webfont.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://siteintercept.qualtrics.com/dxjsmodule/1.87614ddd80550fd2687c.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/5.77fb25267bfff6e10576.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.ncbi.nlm.nih.gov/core/alerts/alerts.js",
@@ -89,18 +80,15 @@
     "https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png",
     "https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg",
     "https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg",
-    "https://www.ncbi.nlm.nih.gov/stat",
-    "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
+    "https://www.ncbi.nlm.nih.gov/stat"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".ncbi.nlm.nih.gov",
     ".nih.gov",
     "pubmed.ncbi.nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.1905731875",
-  "largest_contentful_paint": "456.7999999523163",
   "required_links_url": [
     "about",
     "usa.gov"

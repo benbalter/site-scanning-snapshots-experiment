@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T13:43:47.464Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "completed",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":6}",
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -65,7 +64,7 @@
     "https://fonts.gstatic.com/s/librebaskerville/v14/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxMaC82U.woff2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
     "https://player.vimeo.com/api/player.js",
-    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s69862465675732",
+    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s63408619290652",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 7,
@@ -74,8 +73,6 @@
     ".senate.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "375.5",
   "required_links_url": [
     "about",
     "privacy"

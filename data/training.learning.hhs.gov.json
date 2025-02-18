@@ -24,9 +24,8 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T18:26:45.241Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -36,7 +35,7 @@
   "www_scan_status": "dns_resolution_error",
   "accessibility_violations": null,
   "ipv6": false,
-  "hostname": "amazonaws.com",
+  "hostname": null,
   "cms": null,
   "login_provider": null,
   "login": [
@@ -54,11 +53,10 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".hhs.gov",
     "training.learning.hhs.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.00021145833333333333",
-  "largest_contentful_paint": "329.1999999284744",
   "required_links_url": [
     "about"
   ],

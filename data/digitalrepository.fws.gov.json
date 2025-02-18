@@ -16,13 +16,12 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Fish and Wildlife Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T06:46:08.899Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -58,6 +57,7 @@
     "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
@@ -66,8 +66,6 @@
     "digitalmedia.fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.961821746582031",
-  "largest_contentful_paint": "1139.6000000238419",
   "required_links_url": [
     "about"
   ],

@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T17:48:37.002Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -52,20 +51,20 @@
   "ga_tag_id": "G-M9EYE8GSJQ",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".cancer.gov",
     "omics-oncogenomics.ccr.cancer.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "405.1999999284744",
   "required_links_url": [
     "foia",
     "usa.gov"

@@ -24,9 +24,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T17:50:02.975Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -61,8 +60,6 @@
     ".nih.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.61326171875",
-  "largest_contentful_paint": "958.5",
   "required_links_url": [
     "about",
     "privacy",

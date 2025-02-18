@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "dap",
     "omb_idea",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T17:39:54.888Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -56,6 +55,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
@@ -63,8 +63,6 @@
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0009527257893880207",
-  "largest_contentful_paint": "1253.6000000238419",
   "required_links_url": [
     "about",
     "foia",
@@ -118,7 +116,6 @@
     "usa-banner",
     "usa-button",
     "usa-collection",
-    "usa-current",
     "usa-footer",
     "usa-header",
     "usa-hero",

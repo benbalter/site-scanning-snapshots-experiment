@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:40:12.428Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,6 +54,7 @@
   "third_party_service_urls": [
     "https://components.uspto.gov/js/ais/2-2-assignment-center.js",
     "https://components.uspto.gov/json/dynamic-trans-menu-2.0.0.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://instana-eks-prod.spb.aws.uspto.gov/eum/1.7.2/eum.min.js",
     "https://instana-eks-prod.spb.aws.uspto.gov/eum/eum.min.js",
@@ -68,8 +68,6 @@
     ".uspto.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "1.1378195475260418",
-  "largest_contentful_paint": "2763.100000023842",
   "required_links_url": [
     "about",
     "fear",

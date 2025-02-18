@@ -24,7 +24,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T07:29:40.907Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -47,9 +46,10 @@
   "dap_version": "",
   "ga_tag_id": "G-30DBJ0SLZQ,G-3YLR8EGLBW",
   "third_party_service_domains": [
+    "17de4c1f.akstat.io",
     "6282609.global.r2.siteimproveanalytics.io",
-    "analytics.google.com",
     "c.go-mpulse.net",
+    "gov1.siteintercept.qualtrics.com",
     "pro.ip-api.com",
     "s.go-mpulse.net",
     "script.crazyegg.com",
@@ -61,9 +61,18 @@
     "znbroezbxtbiyvb4x-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1f.akstat.io/",
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
-    "https://analytics.google.com/g/collect",
     "https://c.go-mpulse.net/api/config.json",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/PopOverModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/UserDefinedHTMLModule.js",
     "https://pro.ip-api.com/json",
     "https://s.go-mpulse.net/boomerang/7DDCK-VWHSU-L96EN-Y4LTB-46GZB",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/akaprod-betobaccofree.hhs.gov.json",
@@ -82,14 +91,12 @@
     "https://www.hhs.gov/sites/default/files/scripts/ipgeolocation.js",
     "https://znbroezbxtbiyvb4x-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".hhs.gov",
     "akaprod-betobaccofree.hhs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.00052716650390625",
-  "largest_contentful_paint": "596.5999999046326",
   "required_links_url": [
     "about",
     "fear",

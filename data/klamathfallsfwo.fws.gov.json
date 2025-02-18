@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T06:48:33.238Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,29 +45,22 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C,G-JQD5BTHT4C",
   "third_party_service_domains": [
-    "17de4c1b.akstat.io",
-    "52-222-122-97_s-23-32-75-29_ts-1739688505-clienttons-s.akamaihd.net",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "gtphuyixf3sdcz5rri4q-pniwhu-ba57f4af5-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
     "services.arcgis.com",
     "touchpoints.app.cloud.gov",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1b.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-29_ts-1739688505-clienttons-s.akamaihd.net/eum/results.txt",
     "https://a.tile.openstreetmap.org/18/42379/97079.png",
     "https://a.tile.openstreetmap.org/18/42380/97078.png",
     "https://a.tile.openstreetmap.org/18/42381/97080.png",
@@ -77,7 +69,6 @@
     "https://b.tile.openstreetmap.org/18/42380/97079.png",
     "https://b.tile.openstreetmap.org/18/42381/97078.png",
     "https://b.tile.openstreetmap.org/18/42382/97080.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/18/42379/97078.png",
     "https://c.tile.openstreetmap.org/18/42380/97080.png",
     "https://c.tile.openstreetmap.org/18/42381/97079.png",
@@ -92,7 +83,6 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2",
-    "https://gtphuyixf3sdcz5rri4q-pniwhu-ba57f4af5-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/QPMY6-HX4DG-C5T6C-P2FE6-TUAP7",
     "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/FWSApproved_Authoritative/FeatureServer/0/query",
     "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/FWSInterest_Simplified_Authoritative/FeatureServer/0/query",
@@ -100,17 +90,15 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 17,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "871.8999999761581",
   "required_links_url": [
     "about",
     "foia",

@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T09:46:08.618Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -50,7 +49,7 @@
     "sdor": "www.nasa.gov"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-cDLNoEBs1j3tGvk",
   "third_party_service_domains": [
     "api.parsely.com",
     "assets.science.nasa.gov",
@@ -76,6 +75,7 @@
   ],
   "third_party_service_urls": [
     "https://api.parsely.com/v2/profile",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/Plants_In_Space_FeatureImage.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2025/FjordPhyto-Project.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/Afternoon_of_Science_Building_Rockets_Jan2025_IMG_7580-Carolyn_Y_Ng.jpeg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/workshop-Anne_Holland.png",
@@ -83,6 +83,7 @@
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_TarantulaNebula_potw2506a.jpg",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04450_opgs_edr_ncam_NLB_792547619EDR_F1130894NCAM00353M_.JPG",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01JKDQABVK79V1BBDZ8KHSDTJ9-1K.jpg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/mars/videos/the-mars-report/20241220-mars-report/Mars%20Report%20-%20v.5%20-%20no%20text%20-%20flipped.png",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/february/Orion_credit_Preston%20Dyches_CC%20BY-NC%202.0.jpg",
     "https://cdn.parsely.com/keys/nasa.gov/p.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -97,16 +98,15 @@
     "https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg",
     "https://images-assets.nasa.gov/image/KSC-20180222-PH_GEB01_0064/KSC-20180222-PH_GEB01_0064~large.jpg",
     "https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg",
-    "https://images-assets.nasa.gov/image/iss072e147843/iss072e147843~large.jpg",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://p1.parsely.com/px/",
     "https://play.google.com/log",
     "https://plus.nasa.gov/wp-json/nasaplus/v1/live",
     "https://science.nasa.gov/wp-content/uploads/2023/06/perseids-radiant-credit-preston-dyches-cc-by-nc-2-0.jpg",
-    "https://science.nasa.gov/wp-content/uploads/2024/05/full-moon-snowshoe-hike-nps-photo.jpg",
+    "https://science.nasa.gov/wp-content/uploads/2024/09/nasas-eyes-promo-mars-relay-network.png",
     "https://static.doubleclick.net/instream/ad_status.js",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/JSn2jqXr7QjQMgHzSIuIHOxi8msOXj-tmG8HPrcvvS0.js",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
@@ -117,7 +117,7 @@
     "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
     "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
     "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/e7567ecf/www-embed-player-cc.vflset/www-embed-player-cc.js",
+    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
     "https://www.youtube.com/s/player/e7567ecf/www-player.css",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
     "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s68-c-k-c0x00ffffff-no-rj"
@@ -128,8 +128,6 @@
     ".www.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.32185",
-  "largest_contentful_paint": "184.70000004768372",
   "required_links_url": [
     "about",
     "fear",

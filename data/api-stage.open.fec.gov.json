@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T06:11:02.645Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,10 +53,10 @@
     "https://fonts.googleapis.com/css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fec.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.8488433666178385",
-  "largest_contentful_paint": "641",
   "required_links_url": [
     "about"
   ],

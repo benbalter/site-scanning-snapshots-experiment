@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T17:53:04.890Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -48,15 +47,15 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".samhsa.gov"
+  ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0.003136328125",
-  "largest_contentful_paint": "105.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Apache2 Ubuntu Default Page: It works",
+  "title": "Apache2 Debian Default Page: It works",
   "description": null,
   "keywords": null,
   "og_title": null,

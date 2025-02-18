@@ -16,18 +16,17 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": null,
   "source_list": [
     "dap",
     "pulse",
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T10:58:12.009Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -58,10 +57,12 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FH5X1PMV8C,UA-77708142-1,UA-108444827-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "cdn.app.cfigroup.com",
     "cdn.gov.cfigroup.com",
     "cdn.jsdelivr.net",
     "d9-wret.s3.us-west-2.amazonaws.com",
     "dap.digitalgov.gov",
+    "e.gov.cfigroup.com",
     "script.hotjar.com",
     "static.addtoany.com",
     "static.hotjar.com",
@@ -71,6 +72,8 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.app.cfigroup.com/webmon/s/UploadFile/2023/6/29/2560px-USGS_logo_green.png",
+    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/122.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/webmon.js",
     "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/FireIslandBreach20140609bright.jpg",
@@ -87,6 +90,7 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/Image2.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/Modeling_image_for_slider.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://e.gov.cfigroup.com/wmon",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
@@ -96,19 +100,16 @@
     "https://touchpoints.app.cloud.gov/touchpoints/5e10f821.js",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-solid-900.woff2",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".usgs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.002301359375",
-  "largest_contentful_paint": "591.6000000238419",
   "required_links_url": [
     "about",
     "foia",

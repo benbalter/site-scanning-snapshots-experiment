@@ -27,7 +27,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T10:45:46.502Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,22 +53,22 @@
     "performance.radar.cloudflare.com",
     "serverless-benchmarks-js.compute-pipe.com",
     "serverless-benchmarks-rust.compute-pipe.com",
-    "uniquely-peaceful-hagfish.edgecompute.app"
+    "uniquely-peaceful-hagfish.edgecompute.app",
+    "valid.rpki.cloudflare.com"
   ],
   "third_party_service_urls": [
     "https://exactly-huge-arachnid.edgecompute.app/",
     "https://performance.radar.cloudflare.com/beacon.js",
     "https://serverless-benchmarks-js.compute-pipe.com/",
     "https://serverless-benchmarks-rust.compute-pipe.com/",
-    "https://uniquely-peaceful-hagfish.edgecompute.app/"
+    "https://uniquely-peaceful-hagfish.edgecompute.app/",
+    "https://valid.rpki.cloudflare.com/"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "64.60000002384186",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

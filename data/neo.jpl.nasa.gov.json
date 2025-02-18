@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T17:05:47.066Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":20,\"images\":3,\"link-purpose\":3}",
+  "accessibility_violations": "{\"contrast\":13}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -63,8 +62,6 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.20051992639160157",
-  "largest_contentful_paint": "184.39999997615814",
   "required_links_url": [
     "about",
     "privacy"

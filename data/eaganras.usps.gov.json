@@ -5,7 +5,7 @@
   "initial_base_domain": "usps.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login-dev.usps.gov/app/cisco_asa_vpn_saml/exke3gun6jBNiKK324h7/sso/saml?SAMLRequest=fZJPT%2BMwEMW%2FSuR768RpiWo1ldI%2FSBW7CO0iDlyiUTJtDY5tPHaBb79JWAQc4Dozz%2FN7b7wk6LSTVQwn8wefIlJIXjptSI6NkkVvpAVSJA10SDI08m%2F1%2B5cU01Q6b4NtrGafJD8rgAh9UNawZL8tWb3Os%2FVGFFVRXeyy3WJxKYpdnov5bCHSTV4VLLlDT%2F18yXp5LyKKuDcUwIS%2BlIr5JBWTbH6bzeUslSK7Z8m296AMhFF1CsGR5FzbozKTFs%2FTSI6mR3vm4BxvFDW2BoL67Ew98HN8ecT8GM3Fw%2FpaXV3lYnYqOJHlQ5cll9Y3OMZVsuAjDkw3vS11xpIdQBOy1XIYlSOrX70TIBzBeKAPgHEdOd5hgBYC8Ebb2NaqdbV9DLDkn59Zvh3quo90v72xWjWvA0sH4fvEs2k2VlQ7OYyjMhpy2KiDwpYlldb2eeMRAv73wldvS79%2BiNU%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=ppOjOjG%2BswvsBos7QOiO%2BBuoOmEFJPspoIeptseV3ObsOn96ZiekoB4lG1%2FHRpME%2BBGDx%2BiR8zF%2FdkrSVxyTQLO7kZGtyZxwauoGiEBqKWfcxXtVNpilzzBnbNEsKlbF%2BWNc6WdunTUYRmemOnQypr2PQtB5RcCM4I4ubVMfNDgYiuR%2BfsgV6oePI1N8i%2Bma0%2F3gwL9wtKBwGPUP%2FqGndXYKsUnYsPzgccvP9ysXKi9JYhkIB3StQRZkkLQnvXYKBiV6LEHG8dlET4m%2FYoVn9ulbFsC0DKGvlWEp3yZHQVprGUvfExkokC8GVtfMDpEZ2fAoFENE7SCcn3w2HYDTRQ%3D%3D&is_passive=NULL&entity_id=NULL",
+  "url": "https://login-dev.usps.gov/app/cisco_asa_vpn_saml/exke3gun6jBNiKK324h7/sso/saml?SAMLRequest=fZLNTsMwEIRfJfK9dZOQQqymUkKLVPEjBIgDl2iVbFuDYxuvXeDtSQIIOIDk0%2B6M99uxFwSdsqIMfq9v8Dkg%2Bei1U5rE2ChYcFoYIElCQ4ckfCNuy8sLkUxnwjrjTWMU%2B2H53wFE6Lw0mkWbVcHq0zw%2FSU%2FidbKukiorszTL5vmqrKo8T2flOmfRPTrq9QXr7b2JKOBGkwft%2B9IsySazZBLP7%2BJcDCd%2BYNGq30Fq8KNr770lwbkyO6knLR6mgSxNd%2BbAwVreSGpMDQT1wep64Of4%2BoTpLuj5Y3Ulz8%2FT5Gh%2FzIkMH7osOjOuwTGugnkXcGC67teSByzYFhQhWy4GqRhZ3fKLAGEH2gF9A4zjyPIOPbTggTfKhLaWra3Nk4cF%2F3nN4uOhrvpIN6tro2TzNrB04P9OPJ7GY0W2k%2B0oFUGTxUZuJbYsKpUyL6cOwePnLnz5MfT3h1i%2BAw%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=CMYX4ReO%2BChxJ7BPthwhZbNf1P%2Fn6ygRi2suEm33EluWyl6%2BlmZtdAq9yGHrOn6fN5wSoEge%2ByPh1N5cnNLN0Sco4EmUvjgZwCwg2T16hVY7K9xzJdpiVCPHLxZ557qmmPqNJHLJoviT28y7jh7bYvf83Z2GapBAuk1E9XI9S3nvMsdWt7uON%2F%2Ft%2BtLOM%2BQEz79m5a7%2FLuu9m5sGqXCM4xIZvBRl8xrFqcvW08dv1L%2BmDqd5%2F%2BFjNO1EieGV0zQ7f7vtFy7Xh0prmY5Sv66yk6cStcjx0pygEvG1TPw1SOGXxqORU%2F7%2BU8x53Ww6buBc%2Bun1ow%2BaJDR%2F2gIJyiQhIQ%3D%3D&is_passive=NULL&entity_id=NULL",
   "domain": "login-dev.usps.gov",
   "base_domain": "usps.gov",
   "top_level_domain": "gov",
@@ -22,9 +22,8 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-15T15:40:30.533Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -47,11 +46,9 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "login.okta.com",
     "ok10static.oktacdn.com"
   ],
   "third_party_service_urls": [
-    "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js",
     "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
     "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/css/okta-sign-in.min.css",
     "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.28.0/img/ui/forms/checkbox-sign-in-widget.png",
@@ -62,14 +59,12 @@
     "https://ok10static.oktacdn.com/fs/bco/1/fs045ma9njog8873B4h7",
     "https://ok10static.oktacdn.com/fs/bco/7/fs045mewsdMNypMtc4h7"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".usps.gov",
     "login-dev.usps.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.03214459464518229",
-  "largest_contentful_paint": "848.8999999761581",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

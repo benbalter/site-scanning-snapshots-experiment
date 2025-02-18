@@ -25,9 +25,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T11:24:44.244Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -52,26 +51,22 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-KEMM0XXW30",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.ncei.noaa.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.ncei.noaa.gov/access/metadata/landing-page/bin/gfx",
     "https://www.ncei.noaa.gov/pub/data/metadata/images/monterey_ca_1-3_arc-second.jpg",
     "https://www.ncei.noaa.gov/pub/data/metadata/images/smallABIL1bdata.gif",
     "https://www.ncei.noaa.gov/sites/default/files/styles/wide_full_width_image_no_crop/public/2021-01/OutgoingLongwaveRadiationDaily.jpg"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.012226037190755209",
-  "largest_contentful_paint": "4115.199999928474",
   "required_links_url": [
     "about",
     "foia",

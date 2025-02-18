@@ -5,7 +5,7 @@
   "initial_base_domain": "tva.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=ec04d7d8-0476-4acd-bce4-81f438363d37&scope=https%3A%2F%2Fanalysis.usgovcloudapi.net%2Fpowerbi%2Fapi%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp.powerbigov.us%2Fsignin&client-request-id=d4ad2c0c-6016-4451-8b7f-5d6335b60bfa&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.39.0&client_info=1&code_challenge=1D0slhblrBdKHQDauoE_2uKFa6UOSZYy_KMVS5yxGC4&code_challenge_method=S256&nonce=dd4ea589-1182-41f1-980f-b537b9c611a3&state=eyJpZCI6IjI4NTg2YTUwLWNiMTgtNDg0MC1iZTQ2LTFiNmUxNzJlODEyZSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C1739629882343.7002%3B1739629882345.2002%3B1739629882151.1&site_id=500453&nux=1",
+  "url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=ec04d7d8-0476-4acd-bce4-81f438363d37&scope=https%3A%2F%2Fanalysis.usgovcloudapi.net%2Fpowerbi%2Fapi%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp.powerbigov.us%2Fsignin&client-request-id=100b4e5e-2847-42b0-83ff-050eb8d87292&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.39.0&client_info=1&code_challenge=vociQNoMtCNo2599xKqtmp3pTjE0o1xaErzgZxVazX8&code_challenge_method=S256&nonce=5a45437b-50fd-4630-9ca4-0332481af9be&state=eyJpZCI6IjQ5MzNkOTNiLTU5MzAtNGJmYy1iNzJiLWViYTBlZjFjNjY5NyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C1739813323009.5%3B1739813323011%3B1739813322809.6&site_id=500453&nux=1",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T14:31:33.540Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -95,8 +94,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.06458420833333335",
-  "largest_contentful_paint": "430.39999997615814",
   "required_links_url": [
     "privacy"
   ],
@@ -118,14 +115,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=ec04d7d8-0476-4acd-bce4-81f438363d37&scope=https%3A%2F%2Fanalysis.usgovcloudapi.net%2Fpowerbi%2Fapi%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp.powerbigov.us%2Fsignin&client-request-id=7f887c90-ca9b-407e-a70b-d3deef178191&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.39.0&client_info=1&code_challenge=EGUsSBE53iwauwMi2czwzzSxYOhZMHkyrG9rwg9R68c&code_challenge_method=S256&nonce=b3759a41-fa58-484e-8722-6fd0c1e9d3ca&state=eyJpZCI6IjE1ZDk0Njk1LTJiNWItNDM0Ny04YTEyLTU3ZGE0ZGQwZmRkMiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C1739629886078.2002%3B1739629886080.1%3B1739629885892.1&site_id=500453&nux=1",
+  "robots_txt_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=ec04d7d8-0476-4acd-bce4-81f438363d37&scope=https%3A%2F%2Fanalysis.usgovcloudapi.net%2Fpowerbi%2Fapi%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp.powerbigov.us%2Fsignin&client-request-id=4ffa6fce-5175-4d58-a43a-1d0fd6b5144e&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.39.0&client_info=1&code_challenge=PIgCcONaRtJbgNSGWqbwWjqJgqzzOX1UVu5QRFgObYE&code_challenge_method=S256&nonce=786544c9-6e1d-4e56-ae00-480b6e77f5d9&state=eyJpZCI6ImMwMWE2Y2JlLTc3ODItNDM4YS1iNzJkLTVhM2I1ZTQ4NTAwZCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C1739813326195.0999%3B1739813326196.7%3B1739813326022.9&site_id=500453&nux=1",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=ec04d7d8-0476-4acd-bce4-81f438363d37&scope=https%3A%2F%2Fanalysis.usgovcloudapi.net%2Fpowerbi%2Fapi%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp.powerbigov.us%2Fsignin&client-request-id=95d68331-2a65-4a93-adb3-2634c0cf654d&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.39.0&client_info=1&code_challenge=jGDKDcZvhi3bNxymDL3e7l_1zzKkyfSVNeneUm6RrXI&code_challenge_method=S256&nonce=151fb6f2-b32b-4199-94e9-05ca510c4872&state=eyJpZCI6Ijk5NGY2ZmEwLTFjNjAtNDhiZi05NjYyLTI3ZTQ2OTJjOTIyYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C1739629890982.6%3B1739629890984.1%3B1739629890792.3&site_id=500453&nux=1",
+  "sitemap_xml_url": "https://login.microsoftonline.com/270992cd-9003-4971-84de-d1640c0bffc5/oauth2/v2.0/authorize?client_id=ec04d7d8-0476-4acd-bce4-81f438363d37&scope=https%3A%2F%2Fanalysis.usgovcloudapi.net%2Fpowerbi%2Fapi%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp.powerbigov.us%2Fsignin&client-request-id=f1034133-e531-47ba-ba37-baa9625fbc1f&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.39.0&client_info=1&code_challenge=-a_VnHvzgqMZmE0iX-kKZY5PcIAqlj_DPJIB58oAoeE&code_challenge_method=S256&nonce=c913d89d-e5df-48f7-a254-afc5f318bf55&state=eyJpZCI6IjE2YzNlMGU3LTUxNWYtNGZhYi05MGQ4LTc5NDA3MzMxY2Y4OSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C1739813331354.2%3B1739813331355.5%3B1739813331158.5&site_id=500453&nux=1",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

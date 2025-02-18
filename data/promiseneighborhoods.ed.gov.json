@@ -24,9 +24,8 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T04:57:15.172Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -55,6 +54,7 @@
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
     "s3.amazonaws.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -81,16 +81,15 @@
     "https://kit.fontawesome.com/5dd28a6393.js",
     "https://kit.fontawesome.com/cb3a1e50c2.js",
     "https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".ed.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.000162708740234375",
-  "largest_contentful_paint": "613.9000000953674",
   "required_links_url": [
     "about",
     "privacy"

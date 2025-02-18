@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/7005d458-45be-48ae-8140-d43da96dd17b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=1D222449A5A0C4D6D0B80C7511006908A8678AD9E11D1BE2%2D2B0928339089B8CDD2B0F582A083BD7B4AAC38CA45A8A6DDF621DB936F9CA0BB&redirect%5Furi=https%3A%2F%2Fnasa%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=96cb81a1%2Db0e0%2D7000%2Df3cb%2Da11838cbc7a9",
+  "url": "https://login.microsoftonline.com/7005d458-45be-48ae-8140-d43da96dd17b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=255BC598BE1E49D63F71976BAFD5F893B597F21338A6D11A%2DD3C6F0E2AC2B128A24C223C553334D2C90864DBC06128608BF299313C0707AE7&redirect%5Furi=https%3A%2F%2Fnasa%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=737e82a1%2D705d%2D7000%2Df3cb%2Da7c97ad19562",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T16:59:06.408Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -47,7 +46,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msauth.net",
-    "aadcdn.msauthimages.net",
+    "aadcdn.msftauthimages.net",
     "login.live.com"
   ],
   "third_party_service_urls": [
@@ -58,8 +57,8 @@
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
     "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-kpmj75dwpruo7yqm-pwmo434brmiovyniqopfou-knm/logintenantbranding/0/bannerlogo",
-    "https://aadcdn.msauthimages.net/dbd5a2dd-kpmj75dwpruo7yqm-pwmo434brmiovyniqopfou-knm/logintenantbranding/0/illustration",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-kpmj75dwpruo7yqm-pwmo434brmiovyniqopfou-knm/logintenantbranding/0/bannerlogo",
+    "https://aadcdn.msftauthimages.net/dbd5a2dd-kpmj75dwpruo7yqm-pwmo434brmiovyniqopfou-knm/logintenantbranding/0/illustration",
     "https://login.live.com/Me.htm"
   ],
   "third_party_service_count": 3,
@@ -68,8 +67,6 @@
     "login.microsoftonline.com"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.15332137500000004",
-  "largest_contentful_paint": "857.6999999284744",
   "required_links_url": [
     "about",
     "privacy"
@@ -94,14 +91,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://login.microsoftonline.com/7005d458-45be-48ae-8140-d43da96dd17b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=F8CA8A9FFFD7C796296271994BC8B440CC8DC4C506006D20%2D1EDD498139E327278326CD0F4B7016602676D3CF2AF43256A889803BF93E23C2&redirect%5Furi=https%3A%2F%2Fnasa%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=97cb81a1%2Da037%2D7000%2Df3cb%2Da54533e1444d",
+  "robots_txt_url": "https://login.microsoftonline.com/7005d458-45be-48ae-8140-d43da96dd17b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=40877F5ECA75520F84BD77B84982DF15CBB30723256FED33%2DD80F7BDF2D0667D03F767C32C4E50FBE5441C8F6537A0517C695CD91F62E3864&redirect%5Furi=https%3A%2F%2Fnasa%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=737e82a1%2D60af%2D7000%2Df3cb%2Daceb159240b6",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/7005d458-45be-48ae-8140-d43da96dd17b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=0454A7766AC43435491F8C8A3A3A2AFB5DB6730174E43882%2DCE064436F6B7E8EEFBC6F4CA116CEC36239E50D775AC2594047D44481CD5B09F&redirect%5Furi=https%3A%2F%2Fnasa%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=98cb81a1%2D9009%2D7000%2Df3cb%2Daed80c9e4877",
+  "sitemap_xml_url": "https://login.microsoftonline.com/7005d458-45be-48ae-8140-d43da96dd17b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=090BD515B8FE9978AEC65EF41331A2D105AACA56B6536D1F%2D8312E67FDA7F0BADE6A25E71256D7BCB73139DB5FAE7E8C363B74A572300B2DE&redirect%5Furi=https%3A%2F%2Fnasa%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=747e82a1%2D1076%2D7000%2Df3cb%2Da0882e9027fe",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

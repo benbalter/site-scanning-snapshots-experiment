@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-16T03:20:36.725Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-ls6cnfrLjfdqDC2",
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -78,6 +77,8 @@
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
+    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
+    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/11f1c213b300bd2343e444b1b9adbf19b5fad3d2/img/wr-dialog-close-btn-black.png",
     "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
     "https://idm.cms.gov/idp/idx/introspect",
     "https://idm.cms.gov/oauth2/aus4s5pi0vOrkpRvo297/v1/interact",
@@ -86,10 +87,10 @@
     "https://zn7nihuzbpwarknso-medicare.gov1.siteintercept.qualtrics.com/SIE/"
   ],
   "third_party_service_count": 7,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cms.gov"
+  ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.04761668701171874",
-  "largest_contentful_paint": "668.5",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,

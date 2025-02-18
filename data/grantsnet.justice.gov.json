@@ -22,7 +22,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T08:53:11.149Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,6 +48,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "8906.global.siteimproveanalytics.io",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -57,10 +57,10 @@
     "siteimproveanalytics.com",
     "unpkg.com",
     "www.googletagmanager.com",
-    "www.youtube.com",
-    "{account_id}.global.siteimproveanalytics.io"
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://8906.global.siteimproveanalytics.io/image.aspx",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js",
@@ -74,16 +74,13 @@
     "https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js",
-    "https://{account_id}.global.siteimproveanalytics.io/image.aspx"
+    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
     ".justice.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "315.5",
   "required_links_url": [
     "about",
     "privacy",

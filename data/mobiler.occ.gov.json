@@ -23,17 +23,16 @@
     "cisa"
   ],
   "public": false,
-  "scan_date": "2025-02-15T12:25:15.364Z",
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "execution_context_destroyed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,6 +49,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
+    "login.okta.com",
     "mobiler.occ.gov",
     "ok5static.oktacdn.com",
     "www.banknet.gov"
@@ -57,6 +57,7 @@
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/webfonts/fa-solid-900.woff2",
+    "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js",
     "https://mobiler.occ.gov/cgi/GetAuthMethods",
     "https://mobiler.occ.gov/cgi/Resources/List",
     "https://mobiler.occ.gov/logon/LogonPoint/Home/Configuration",
@@ -108,14 +109,12 @@
     "https://www.banknet.gov/entrance/images/occ-logo-des-white.svg",
     "https://www.banknet.gov/entrance/images/us_flag_small.png"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".occ.gov",
     "login.occ.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.5412339680989583",
-  "largest_contentful_paint": "894.7000000476837",
   "required_links_url": [
     "about",
     "fear",

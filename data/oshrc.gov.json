@@ -28,7 +28,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T12:47:37.212Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -60,6 +59,7 @@
     "fonts.gstatic.com",
     "s7.addthis.com",
     "ssl.google-analytics.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -72,17 +72,16 @@
     "https://s7.addthis.com/js/300/addthis_widget.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".oshrc.gov",
     "www.oshrc.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.6272563590494791",
-  "largest_contentful_paint": "1129.1000000238419",
   "required_links_url": [
     "about",
     "foia",

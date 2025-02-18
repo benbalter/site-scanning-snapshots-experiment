@@ -25,7 +25,6 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-15T15:25:03.680Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,6 +53,7 @@
   "third_party_service_urls": [
     "https://edcintl.cr.usgs.gov/piwik/matomo.js",
     "https://edcintl.cr.usgs.gov/piwik/matomo.php",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
@@ -62,8 +62,6 @@
     "earlywarning.usgs.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "1058.6000000238419",
   "required_links_url": [
     "foia",
     "privacy",

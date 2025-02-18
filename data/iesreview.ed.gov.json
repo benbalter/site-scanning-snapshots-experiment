@@ -16,7 +16,7 @@
   "agency": "Department of Education",
   "bureau": "Office of Chief Information Officer",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,11 +24,10 @@
     "cisa"
   ],
   "public": true,
-  "scan_date": "2025-02-16T04:50:53.427Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -48,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-XYR4NRWFH3,G-sZVLdL8fSOMEfdJ",
+  "ga_tag_id": "G-XYR4NRWFH3",
   "third_party_service_domains": [
     "fonts.gstatic.com",
     "googleads.g.doubleclick.net",
@@ -76,7 +75,7 @@
     "https://play.google.com/log",
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.google.com/js/th/isb-5W_r2oKHXEU3wXmv_EzDkYgLUypts9DUcuCGKE0.js",
+    "https://www.google.com/js/th/OEWpvfUJsZeTQOOLjLZMNu2UVP6SJoUDH3Dm2G5NVac.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
@@ -93,8 +92,6 @@
     "iesreview.ed.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "5965.699999928474",
   "required_links_url": [
     "privacy"
   ],

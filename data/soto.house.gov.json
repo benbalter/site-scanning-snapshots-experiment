@@ -23,7 +23,6 @@
     "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-15T18:44:39.638Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -46,10 +45,12 @@
   "dap_version": "",
   "ga_tag_id": "G-3HCXKZC7W4",
   "third_party_service_domains": [
+    "api.hcaptcha.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kit.fontawesome.com",
+    "newassets.hcaptcha.com",
     "translate-pa.googleapis.com",
     "translate.google.com",
     "translate.googleapis.com",
@@ -58,12 +59,14 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kit.fontawesome.com/e02478940c.js",
+    "https://newassets.hcaptcha.com/c/9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2/hsw.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
     "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.zbNBVWZ1T-s.O/am=AAg/d=1/exm=el_conf/ed=1/rs=AN8SPfrWA32OlelMufgC7-ko7d4AWUtUKw/m=el_main",
@@ -74,14 +77,12 @@
     "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=gAE/d=0/rs=AN8SPfoGXBOIjDP5u9X-Fj08BKzEvbDeLg/m=el_main_css",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".house.gov",
     ".soto.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.4811265030924479",
-  "largest_contentful_paint": "822.1000000238419",
   "required_links_url": [
     "about",
     "privacy"

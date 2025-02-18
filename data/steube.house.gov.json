@@ -23,7 +23,6 @@
     "house_117th"
   ],
   "public": null,
-  "scan_date": "2025-02-16T08:08:31.941Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "WordPress",
@@ -53,6 +52,7 @@
     "maps.googleapis.com",
     "maps.gstatic.com",
     "p.typekit.net",
+    "scontent-bos5-1.xx.fbcdn.net",
     "use.typekit.net",
     "www.google.com",
     "www.gstatic.com",
@@ -82,6 +82,7 @@
     "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
     "https://maps.gstatic.com/mapfiles/transparent.png",
     "https://p.typekit.net/p.css",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/480526731_1221224666025762_6451178205690825770_n.jpg",
     "https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/l",
     "https://use.typekit.net/af/309dfe/000000000000000000010091/27/l",
     "https://use.typekit.net/zdy6jjc.css",
@@ -95,13 +96,11 @@
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     "steube.house.gov"
   ],
   "viewport_meta_tag": true,
-  "cumulative_layout_shift": "0.0008037826334635417",
-  "largest_contentful_paint": "312.60000002384186",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,

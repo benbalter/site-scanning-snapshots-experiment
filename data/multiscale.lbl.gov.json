@@ -23,7 +23,6 @@
     "cisa"
   ],
   "public": null,
-  "scan_date": "2025-02-16T09:52:30.475Z",
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -52,8 +51,6 @@
     ".lbl.gov"
   ],
   "viewport_meta_tag": false,
-  "cumulative_layout_shift": "0",
-  "largest_contentful_paint": "96.20000004768372",
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
@@ -72,10 +69,10 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": true,
+  "robots_txt_detected": false,
   "robots_txt_url": "https://multiscale.lbl.gov/robots.txt",
-  "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/plain",
+  "robots_txt_status_code": 502,
+  "robots_txt_media_type": "text/html",
   "robots_txt_filesize": 119,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [
