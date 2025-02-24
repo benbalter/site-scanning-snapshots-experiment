@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "a81a4571b1122e33288c16747d5aea5e",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -57,7 +58,7 @@
     "palinteractiontypedim": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-0HCSRRZZVP,G-T4XSP9RZH8,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-T4XSP9RZH8,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "code.jquery.com",
     "dap.digitalgov.gov",
@@ -73,7 +74,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -93,8 +94,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Water Services Web",
   "description": "USGS water data provided through web services and extensible markup language (XML) using a REST protocol.",
   "keywords": null,
@@ -122,7 +123,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 2296,
   "sitemap_xml_count": 23,
+  "sitemap_xml_lastmod": "2024-09-11T19:46:20.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "3c9c106f78dfbe209a34c3d4345ba7ac",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

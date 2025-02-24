@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "45f9d8312adf0279bd9af91ac82a0385",
   "accessibility_violations": "{\"contrast\":1,\"images\":6,\"link-purpose\":6}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -78,7 +79,8 @@
     "https://stg-search.geoplatform.gov/eng/q",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -92,8 +94,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "GeoPlatform.gov | Making Federal Geospatial FAIR | GeoPlatform.gov",
   "description": "GeoPlatform is making Federal GeoData Findable, Accessible, Interoperable, and Reusable. The Geospatial Platform is a cross-agency collaborative effort and Shared Service that embodies the principles and spirit of Open Government, emphasizing government-to-citizen communication, accountability, and transparency. In 2020, GeoPlatform.gov, operating under the authority of the Geospatial Data Act of 2018 , transformed to establish its primary role which will be to discover geospatial data assets with special emphasis as the authorized source for all the official National Geospatial Data Assets (NGDAs) across 18 Data themes as guided by the U.S. Federal Geographic Data Committee (FGDC).",
   "keywords": "geoplatform, geoplatform.gov, ngda, national geospatial data asset, fair, findable, reusable, interoperable, accessible, federal geographic data committee, metadata, data, mapping, maps, geospatial",
@@ -121,7 +123,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 3779,
   "sitemap_xml_count": 28,
+  "sitemap_xml_lastmod": "2022-06-22T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "2fa699de75d63f56041d03ff52838f3f",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

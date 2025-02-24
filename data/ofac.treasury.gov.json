@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "8c8137481d17dbbd861b7ca11939202e",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -49,7 +50,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-19138737-2,G-CSLL4ZEK4L,G-S7RJMCWZ7D,G-LL5Q69D404",
   "third_party_service_domains": [
-    "17de4c1f.akstat.io",
+    "17de4c1d.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
@@ -59,7 +60,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1f.akstat.io/",
+    "https://17de4c1d.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -70,7 +71,7 @@
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -92,8 +93,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | Office of Foreign Assets Control",
   "description": null,
   "keywords": null,
@@ -119,13 +120,15 @@
   "sitemap_xml_url": "https://ofac.treasury.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 782946,
+  "sitemap_xml_filesize": 783348,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-20T19:07:32.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "dfa30b3cf5548b40b350753b34a5c820",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
-  "uswds_inpage_css": 0,
+  "uswds_inpage_css": 1,
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-banner",
@@ -133,15 +136,16 @@
     "usa-footer",
     "usa-icon",
     "usa-list",
-    "usa-overlay"
+    "usa-overlay",
+    "usa-tooltip"
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 40,
-  "uswds_string": 6,
+  "uswds_string": 7,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 126,
+  "uswds_count": 128,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

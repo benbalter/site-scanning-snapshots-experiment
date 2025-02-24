@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "fae92f757eeaddb4e4905a7a482ea6e8",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -51,7 +52,6 @@
     "eastus-8.in.applicationinsights.azure.com",
     "home-c72.niceincontact.com",
     "js.monitor.azure.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -60,10 +60,9 @@
     "https://eastus-8.in.applicationinsights.azure.com/v2/track",
     "https://home-c72.niceincontact.com/inContact/ChatClient/js/embed.min.js",
     "https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".identitytheft.gov",
     "www.identitytheft.gov"
@@ -76,8 +75,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "IdentityTheft.gov",
   "description": "Recovering from identity theft is a process. Here’s step-by-step advice that can help you limit the damage, report identity theft, and fix your credit.",
   "keywords": "credit freeze, tax fraud, social security fraud",
@@ -105,7 +104,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

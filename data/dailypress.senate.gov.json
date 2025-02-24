@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "0f4298795929e1ab5d29ab4ed9a80ee7",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
@@ -55,7 +56,8 @@
     "senategovprod.112.2o7.net",
     "senatesenatorpublicglobalprod.112.2o7.net",
     "static.elfsight.com",
-    "www.senate.gov"
+    "www.senate.gov",
+    "x.com"
   ],
   "third_party_service_urls": [
     "https://apps.elfsight.com/p/platform.js",
@@ -72,8 +74,8 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://pbs.twimg.com/profile_images/1466596634851217415/cuKgdaYF.jpg",
     "https://pbs.twimg.com/profile_images/1466596634851217415/cuKgdaYF_normal.jpg",
-    "https://senategovprod.112.2o7.net/b/ss/senategovprod/1/JS-2.23.0-LDQM/s69065395579410",
-    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s64936390288846",
+    "https://senategovprod.112.2o7.net/b/ss/senategovprod/1/JS-2.23.0-LDQM/s33907210143189",
+    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s35196715964919",
     "https://static.elfsight.com/apps/twitter-feed/stable/1d0ddd7ddaee8ca764f171dbd85923beaf397583/app/twitterFeed.js",
     "https://static.elfsight.com/platform/platform.js",
     "https://www.senate.gov/artandhistory/history/resources/graphic/cropped/RobertsHearingCaucusRoom2005.jpg",
@@ -113,9 +115,10 @@
     "https://www.senate.gov/resources/styles/nav_menu.css",
     "https://www.senate.gov/resources/styles/print.css",
     "https://www.senate.gov/resources/styles/responsive.dataTables.min_Committees.css",
-    "https://www.senate.gov/resources/styles/skdslider.css"
+    "https://www.senate.gov/resources/styles/skdslider.css",
+    "https://x.com/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".dailypress.senate.gov",
     ".senate.gov"
@@ -127,15 +130,15 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home - U.S. Senate Daily Press",
   "description": null,
   "keywords": null,
   "og_title": "Home - U.S. Senate Daily Press",
-  "og_description": "Senate ScheduleThe Senate stands adjourned until 3:00 p.m. on Tuesday, February 18th. There are at least two votes beginning at 5:30 p.m. Tuesday evening.Standing Committee of Correspondents MeetingThe next meeting of the Standing Committee is on Thursday, February 20, 2025 at 3:00 p.m. in room H-139 of the US Capitol. All members of the Senate […]",
+  "og_description": "Senate ScheduleThe Senate stands adjourned until 3:00 p.m. on Monday, February 24, 2025. We expect multiple votes on Monday evening beginning at 5:30 p.m. Senate Hearings & Meetings",
   "og_article_published": null,
-  "og_article_modified": "2025-02-14T14:49:31.000Z",
+  "og_article_modified": "2025-02-21T10:19:41.000Z",
   "og_image": "https://www.dailypress.senate.gov/wp-content/uploads/senate-eagle-logo-white.png",
   "og_type": "website",
   "og_url": "https://www.dailypress.senate.gov/",
@@ -158,7 +161,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

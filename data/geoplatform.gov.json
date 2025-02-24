@@ -24,6 +24,7 @@
     "omb_idea",
     "2020_eot",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -33,10 +34,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":1,\"images\":3,\"link-purpose\":3}",
+  "page_hash": "5e29181d29479ac0b2ea6af6a45e6c45",
+  "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -52,7 +54,6 @@
   "dap_version": "",
   "ga_tag_id": "G-CSLL4ZEK4L,G-V6PB20VB8J",
   "third_party_service_domains": [
-    "api-private.atlassian.com",
     "api.geoplatform.gov",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
@@ -68,7 +69,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://api-private.atlassian.com/gasv3/api/v1/batch",
     "https://api.geoplatform.gov/internal/gp-banner-information",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -88,9 +88,7 @@
     "https://geoplatform.gov/runtime.2eef977649ab65e5.js",
     "https://geoplatform.gov/scripts.94f011fb13606557.js",
     "https://geoplatform.gov/styles.0e5acc476d44ab3b.css",
-    "https://jsd-widget.atlassian.com/api/embeddable/2a081d63-c07c-47de-8197-c1b867523de4/widget",
     "https://jsd-widget.atlassian.com/assets/embed.js",
-    "https://jsd-widget.atlassian.com/assets/iframe.js",
     "https://kauth.geoplatform.gov/realms/geoplatform/protocol/openid-connect/login-status-iframe.html/init",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://search.geoplatform.gov/eng/q",
@@ -98,7 +96,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".geoplatform.gov"
   ],
@@ -110,8 +108,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "GeoPlatform.gov | Making Federal Geospatial FAIR | GeoPlatform.gov",
   "description": "GeoPlatform is making Federal GeoData Findable, Accessible, Interoperable, and Reusable. The Geospatial Platform is a cross-agency collaborative effort and Shared Service that embodies the principles and spirit of Open Government, emphasizing government-to-citizen communication, accountability, and transparency. In 2020, GeoPlatform.gov, operating under the authority of the Geospatial Data Act of 2018 , transformed to establish its primary role which will be to discover geospatial data assets with special emphasis as the authorized source for all the official National Geospatial Data Assets (NGDAs) across 18 Data themes as guided by the U.S. Federal Geographic Data Committee (FGDC).",
   "keywords": "geoplatform, geoplatform.gov, ngda, national geospatial data asset, fair, findable, reusable, interoperable, accessible, federal geographic data committee, metadata, data, mapping, maps, geospatial",
@@ -139,7 +137,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 3779,
   "sitemap_xml_count": 28,
+  "sitemap_xml_lastmod": "2022-06-22T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "2fa699de75d63f56041d03ff52838f3f",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

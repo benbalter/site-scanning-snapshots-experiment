@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "4ce4bf8a78c5ed2e832d809cf6806aa4",
   "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1,\"language\":1,\"images\":80,\"link-purpose\":67,\"form-names\":1}",
   "ipv6": false,
   "hostname": null,
@@ -50,6 +51,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".house.gov",
     "uscode.house.gov"
   ],
   "viewport_meta_tag": false,
@@ -60,8 +62,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": false,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "OLRC Home",
   "description": null,
   "keywords": null,
@@ -87,9 +89,11 @@
   "sitemap_xml_url": "https://uscode.house.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 2058,
+  "sitemap_xml_filesize": 1970,
   "sitemap_xml_count": 22,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "fe5e6b3d75d6f77d39c208dbe5bcf3ad",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "7e3753f53c2139da96e481e9fc6b9f00",
   "accessibility_violations": "{\"aria\":40,\"contrast\":3,\"images\":1,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -57,7 +58,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "search.usa.gov",
-    "www.google-analytics.com",
+    "static.cloudflareinsights.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -76,7 +77,7 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 8,
@@ -96,8 +97,8 @@
     "vulnerability disclosure",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Office of Dietary Supplements (ODS)",
   "description": null,
   "keywords": "dietary supplement, vitamin, mineral, herbal, botanical, health information, health, research, NIH, ODS, Office of Dietary Supplements, National Institutes of Health, government, federal government",
@@ -125,7 +126,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 282042,
   "sitemap_xml_count": 2324,
+  "sitemap_xml_lastmod": "2023-12-08T00:00:00.000Z",
   "sitemap_xml_pdf_count": 289,
+  "sitemap_xml_page_hash": "7ae637318aaff4844c0b4530f3b07146",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -138,7 +141,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://ods.od.nih.gov",
-  "www_status_code": 200,
-  "www_title": "Office of Dietary Supplements (ODS)"
+  "www_url": "https://www.ods.od.nih.gov",
+  "www_status_code": 403,
+  "www_title": "Attention Required! | Cloudflare"
 }

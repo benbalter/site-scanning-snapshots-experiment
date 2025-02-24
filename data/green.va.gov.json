@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "a3f9735d6a044ca85587565c944f2429",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -48,7 +49,7 @@
     "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-tLr5,G-0GNktNdzPSXEygI,G-QisCeJT0A8C,G-V1oGPCy72If,G-6uCqFwbJxgeat9o,G-SUEmt,G-pb5QDQSEKWBJ1",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-yOT0MnHrflHny4V,G-3DtUqPKhdGkMYTw,G-HbXtIaC,G-uM21T79kYF8UuTt",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,13 +61,13 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9138451a5d12ef0c/1739821444451/y9NMAYZYv2NlBeR",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/532263068:1739819708:gM-0BGUjVCYaCNQcrqbw8muMF_jpwKoY-0yVzNFfM6c/9138451a5d12ef0c/0EFGvtObsP6vAvCk8bUhOH98mZWyQIubCVK_H929OkA-1739821444-1.1.1.1-UgSDZKyNiTxzdl3EVMMs0SnIMf7l5VOT1qEmrt1fGE4NWP7yjFzwLlGj45fzm3pi",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9138451a5d12ef0c/1739821444452/8810461476a65863dec29a5114b396715180bd200fe6885b2334a236f1204875/wJX23AjHEg3dT36",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/9163cb87ec2dcee7/1740277838276/ZtDEstdQB5Wk5RI",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1489459019:1740276628:1okI6-8r0PELuHgzDkO1LZDZ7pmj_3W44qnhM7LkfH0/9163cb87ec2dcee7/YrbNP4AZkulN71nb_deFB412_5EK2Ws0QdyXpHQXg28-1740277838-1.1.1.1-dusHqmE1c.Rc.FA480CRxe6acHcOdXpiDOkekjiPGcZehonbUn03cRatU8VLlaoS",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/9163cb87ec2dcee7/1740277838281/e9ab49547b51c0509c3329bf8c08ee60c16a6c0cc1bd7b4de01d37b87f11d6a7/94GyU5CggqLvjlG",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/g/0e3e6804b971/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/b0e4a89976ce/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2",
     "https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpmJxAco.woff2",
@@ -81,7 +82,7 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -105,8 +106,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Energy, Environment, and Fleet Program - U.S. Department of Veterans Affairs",
   "description": "Energy, Environment, and Fleet (EEF) Program Service facilitates VA’s efforts to comply with Federal mandates related to energy and water management,",
   "keywords": null,
@@ -134,7 +135,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

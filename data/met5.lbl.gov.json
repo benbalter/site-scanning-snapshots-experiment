@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "018183d2c4356f186ae7c1f5da4ce704",
   "accessibility_violations": "{\"contrast\":16,\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -43,7 +44,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-ayJ5lYB9UgtZJMw",
+  "ga_tag_id": "G-SAWowxIfvOqkImq",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "lh7-rt.googleusercontent.com"
@@ -52,12 +53,12 @@
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIDKn45P7-Vi6XaoRIpTrZq5eEb1q1tzxkBFXsLz0wPsidbUUukvSxIF-nGM6DT2s2EbgTmc-WplRs9eZZs3jSZ7qzrNXHKPUhflYMaipBDxVm66H91RMAlCW-94-NUFJRq8xDR3ws0trAq-Bt",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUM_DTnsTKAd4oVNAnNVbXaMSCy33cESgOB7MWjC-oZ9GH4JvxIQJrl7J1-TPFeJhnOiRdauGzjB4OM9iTvm1HJDu13ZAGMn9pX1zbVt1_PC96olrEO-TsNrvTVmX5Mb9uI59l8LMAgJaRIKGm",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdpEgJvmg5p--3jbeR3_7UUYuqgc8o8ORjRv79brpgDKL-L-I2cR7bOSonPGgkYTyYMaF1axlMfZ3-Z3G9_eOu8J-6o2eo3yq2Easj1kg4AYzQRWv6x9YB2g8IyaAiG-ayJ5lYB9UgtZJMwpZ_8",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXev_r8PubWk4t3LKPoOoLNMXb073-xN82cdsp3Q3wBxG4Rmdxs0EeE0xBishFIkHd4iQLHFaipVKFpRs3rvLj2kevPtV4izo_2QcqO4-nthkTvaZetBgxN8mLXmKQZMM-pocS9t_Lzg8myJk2c",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRcMO1yS-91OcCj6CTUN00XU4cn7y8YI4jrPlfwX05h5vh175xJV5IDyw8eV4TCs_ZU5g21RfFJ-zripcLVUlBDX_IDxqcWQrK5sPmV8yRhrNJDPsWFEF5XmGgPJ5TSJmONNSWT-YXBBnAoIQ",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWwWh4OHb8tLUD11DduYNiYcQPilnwT2i_cIDq_xVpOSDG3sLm6eFqLCZ6WmNHwd3Lx5n49LWTU6YnxSiAXx1bUYkPnVUcFykNqIEu-TCGjmQbPdVB1Ou0uZD_oxgJMhKFpq_xmdKzYxFMY_Vv"
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcX4aDkCs3huQufAWvZpU7miW7gKqqBvfasm4F0_If-PYnLcNZaAHQGDBjojAT36mOy9GUt53tPmjpghr723WNGf1CFOstE73e0htfmgiycOB30psPfEnnFzxzgqfkymacClXPSS38xKaCGYjjt",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdnQuVugfYtfJiGO9sPUuj4mx12GC6qR55lOnTZ0DAV3aeDQA60yGF2em_r6T87b7D2I4l3pPr_X_Ai8j4w1sW0K7xyJ1uvfXVZsW8NhrdAxOD42ElwBn-UUWLlxSd54CxAWE1aeFXxVS0QRkFx",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdpFvJf3bJlQIpuSZiHn7pcsx5SXi5NEca3CIublYz2Nk0Cpto-OrfK-gBzla_Fwj3ZIOQxWgVmqEqi9YgN_Lbuac9X1_jrbHq9Vg7rSt28ORo6FXks4pnadkCvACz1NTXsPZr2Z57-1ecwAqn1",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqz7K2PalKpZlo_56yrzYwIL6dLb3OEUroBCernyZH3u4cv16DiiR1uVCYJHY_IX43vCYcnJP-DtuoBB3GzjJya4UCnseA38rih42ju98qXrr9_-RUW15rS60aESKrU-y71qufelgBKlFCv7o",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9I72SNRVqJKM7StxcIji5X9slAOap8vFsvGCxIwm3HkT3pAyqA2MW8LvUZpUWbQTjN6ePIQWfRbW-W8GHm2q5biig3zxoe8pwKRAckv9E880Mbxcjj-M3oVOY0r6DouL85ts70lkUqVzrSCuR",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfk5Wj-2KHyTKmPMAmshduz44T47iousXUnDluttaOIifQ3L3afk4mauJqUKU822HZas9CaADtCpOuG6xjrpnVhk0AqYNw-Axaj3JIIGxDjBCl63XZ9SQsMn19-WEG-SAWowxIfvOqkImqoR8o"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
@@ -71,8 +72,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The MET Facilities @ Berkeley",
   "description": null,
   "keywords": null,
@@ -100,7 +101,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -28,11 +28,12 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "61e313f89f7d69f6a2622aae63ebb9ee",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -47,8 +48,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1a.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,12 +63,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1a.akstat.io/",
     "https://a.tile.openstreetmap.org/11/538/848.png",
     "https://a.tile.openstreetmap.org/11/539/847.png",
     "https://a.tile.openstreetmap.org/11/540/846.png",
     "https://b.tile.openstreetmap.org/11/538/846.png",
     "https://b.tile.openstreetmap.org/11/539/848.png",
     "https://b.tile.openstreetmap.org/11/540/847.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/11/538/847.png",
     "https://c.tile.openstreetmap.org/11/539/846.png",
     "https://c.tile.openstreetmap.org/11/540/848.png",
@@ -88,10 +93,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -108,8 +112,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "St. Vincent National Wildlife Refuge | U.S. Fish & Wildlife Service",
   "description": "Established as a National Wildlife Refuge in 1968 for the protection and conservation of migratory birds, St. Vincent NWR is managed to preserve, in as natural a state as possible, it’s highly varied plant and animal communities. The Refuge is comprised of two islands and two mainland tracts totaling approximately 12,492 acres. Popular recreational opportunities include fishing, hunting, wildlife viewing, hiking, bicycling, kayaking, and nature photography. Surrounded by Outstanding Florida Waters, the Refuge is an important stop-over point along the Gulf coast for neotropical migratory birds and a haven for threatened and endangered species. In addition, St. Vincent NWR serves as a breeding site for endangered red wolves",
   "keywords": null,
@@ -137,7 +141,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

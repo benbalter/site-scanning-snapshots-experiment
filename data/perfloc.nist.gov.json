@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "42ae90864b886922992fb2ce4e598bce",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +46,7 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45je52d0v895826815za200"
+    "gtm": "45je52k0v895826815za200"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-7vNow5BNQgZTCjv,G-CSLL4ZEK4L",
@@ -59,7 +60,7 @@
   "third_party_service_urls": [
     "https://6017546.global.siteimproveanalytics.io/image.aspx",
     "https://bam.nr-data.net/1/37b7ccb661",
-    "https://js-agent.newrelic.com/nr-rum-1.281.0.min.js",
+    "https://js-agent.newrelic.com/nr-rum-1.283.1.min.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6017546.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -83,8 +84,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "PerfLoc: Performance Evaluation of Smartphone Indoor Localization Apps | NIST",
   "description": "Perfloc navigation",
   "keywords": null,
@@ -112,7 +113,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

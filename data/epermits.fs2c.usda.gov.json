@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "473fd29fa9bb4b1dfe6b9029ea2cbd9e",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -52,7 +53,6 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,10 +63,9 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpmJxAcufVotfzbj.woff",
     "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".usda.gov",
     "epermits.fs2c.usda.gov"
@@ -86,8 +85,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "USDA Forest Service E-Permits - Homepage",
   "description": "Use Open Forest to apply for Non-Commercial Group Useor Temporary Outfitting and Guiding permits with the United States Forest Service.",
   "keywords": "Forest Service, permitting, permits, christmas trees, national forest, national forests",
@@ -115,7 +114,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 1441,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "6baf8d9fd967ec25afa2dad6388ffebd",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

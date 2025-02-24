@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "9fcf7fea7686bb16b38120419660e97d",
   "accessibility_violations": "{\"contrast\":15,\"language\":1,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -54,7 +55,7 @@
     "palinteractiontypedim": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-60999320-1,G-LRP14T45X2,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "UA-60999320-1,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-LRP14T45X2,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
@@ -77,7 +78,7 @@
     "https://www.gstatic.com/prose/brandjs.js",
     "https://www.usgs.gov/scripts/analytics/usgs-analytics.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -93,8 +94,8 @@
     "accessibility",
     "foia"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "USGS Quality Systems Branch",
   "description": "Blind sample assessments of laboratory and field measurements for environmental water quality projects.",
   "keywords": "blind sample, quality assurance, laboratory, water quality",
@@ -122,7 +123,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

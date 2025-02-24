@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "65badc0be746b4dc39922222103cd710",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -62,7 +63,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.ncei.noaa.gov/alerts/colorado/api",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -77,8 +78,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NOAA National Centers for Environmental Information (NCEI)",
   "description": "NOAA's National Centers for Environmental Information (NCEI) (formerly the National Geophysical Data Center) provides scientific stewardship, products, and services for geophysical data from the Sun to the Earth and Earth's sea floor and solid earth environment, including Earth observations from space. NCEI is part of the US Dept of Commerce, National Oceanic and Atmospheric Administration, National Environmental Satellite, Data, and Information Service",
   "keywords": "geophysics, geophysical data, marine geology, marine geophysics, solar-terrestrial physics, World Data System for Geophysics, environmental data, Defense Meteorological Satellite Program, sunspots, geomagnetism, solar data, space weather, ionosphere, upper atmosphere, bathymetry, coastal relief, digital elevation model, Great Lakes geomorphology, trackline geophysics, gravity, magnetics, global relief models, marine sediments, sea floor sediments, natural hazards, volcanoes, tsunamis, aeromagnetics, topography, DART, DEM, DSMP, ETOPO1, GEODAS, GOES, IHODCDB, LIDAR, POES",
@@ -106,7 +107,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 79589,
   "sitemap_xml_count": 500,
+  "sitemap_xml_lastmod": "2019-04-02T21:06:33.000Z",
   "sitemap_xml_pdf_count": 50,
+  "sitemap_xml_page_hash": "f5bcb31dffff21227aaf52d1be6968c5",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

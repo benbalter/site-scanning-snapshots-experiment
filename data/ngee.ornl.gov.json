@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "31ad1e9bde6491a86b3b9079ebaedecc",
   "accessibility_violations": "{\"contrast\":2}",
   "ipv6": false,
   "hostname": null,
@@ -51,6 +52,7 @@
   "third_party_service_urls": [
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
@@ -66,8 +68,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NGEE Arctic | Improving climate model predictions through advanced understanding of coupled processes in Arctic terrestrial ecosystems",
   "description": "Improving climate model predictions through advanced understanding of coupled processes in Arctic terrestrial ecosystems",
   "keywords": null,
@@ -95,7 +97,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 1505,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-22T10:32:36.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "fd9b2671e038d98b6cb03afe6304414d",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

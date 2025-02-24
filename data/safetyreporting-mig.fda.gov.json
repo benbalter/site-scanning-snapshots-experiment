@@ -5,7 +5,7 @@
   "initial_base_domain": "fda.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://safetyreporting-mig.fda.gov/SRP2/en/Home.aspx?sid=ae90a0ce-349b-48ae-be81-24fcce5dc277",
+  "url": "https://safetyreporting-mig.fda.gov/SRP2/en/Home.aspx?sid=eebd46f8-e89e-47a5-ba19-fd5f7a8ad881",
   "domain": "safetyreporting-mig.fda.gov",
   "base_domain": "fda.gov",
   "top_level_domain": "gov",
@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "8ab9e803190704b3b61ff65981a3235f",
   "accessibility_violations": "{\"contrast\":6}",
   "ipv6": false,
   "hostname": null,
@@ -53,11 +54,10 @@
   ],
   "third_party_service_urls": [
     "https://www.google.com/recaptcha/api.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".fda.gov",
     "safetyreporting-mig.fda.gov"
   ],
   "viewport_meta_tag": true,
@@ -74,8 +74,8 @@
     "vulnerability disclosure",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Safety Reporting Portal",
   "description": null,
   "keywords": null,
@@ -103,7 +103,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -116,7 +118,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://www.safetyreporting-mig.fda.gov/SRP2/en/Home.aspx?sid=797b2556-9738-4e64-b847-be6b27e9dd91",
+  "www_url": "https://www.safetyreporting-mig.fda.gov/SRP2/en/Home.aspx?sid=9d1317d1-d6cb-41e5-a0d6-a60a1213ee9c",
   "www_status_code": 200,
   "www_title": "Safety Reporting Portal"
 }

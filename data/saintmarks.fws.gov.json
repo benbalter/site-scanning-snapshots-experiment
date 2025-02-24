@@ -28,11 +28,12 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "b3abcad81ab4679f15d98edddbb76a6d",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"images\":1,\"link-purpose\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -47,8 +48,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c15.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,12 +63,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c15.akstat.io/",
     "https://a.tile.openstreetmap.org/10/271/422.png",
     "https://a.tile.openstreetmap.org/10/272/421.png",
     "https://a.tile.openstreetmap.org/10/273/423.png",
     "https://b.tile.openstreetmap.org/10/271/423.png",
     "https://b.tile.openstreetmap.org/10/272/422.png",
     "https://b.tile.openstreetmap.org/10/273/421.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/10/271/421.png",
     "https://c.tile.openstreetmap.org/10/272/423.png",
     "https://c.tile.openstreetmap.org/10/273/422.png",
@@ -91,10 +96,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -111,8 +115,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "St. Marks National Wildlife Refuge | U.S. Fish & Wildlife Service",
   "description": "The St. Marks National Wildlife Refuge was established in 1931 to provide winter habitat for migratory birds, and is one of the oldest refuges in the National Wildlife Refuge System. It encompasses over 86,000 acres in Wakulla, Jefferson and Taylor counties, and includes about 43 miles of north Florida’s Gulf coast. Congress has designated 17,350 acres of the Refuge a National Wilderness Area.",
   "keywords": null,
@@ -140,7 +144,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

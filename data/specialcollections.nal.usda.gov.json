@@ -28,9 +28,10 @@
   "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "64b2f183aa39c626e09d48654f093819",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -45,7 +46,7 @@
     "subagency": "ARS-NAL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-3B6JN4Z2CV,G-CSLL4ZEK4L,G-ER98FFN75C",
+  "ga_tag_id": "G-3B6JN4Z2CV,G-ER98FFN75C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.gov.cfigroup.com",
     "dap.digitalgov.gov",
@@ -59,7 +60,8 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -79,8 +81,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Special Collections at the Library | National Agricultural Library",
   "description": "Discover historical, agricultural materials and information on Special Collections, National Agricultural Library.",
   "keywords": null,
@@ -108,7 +110,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

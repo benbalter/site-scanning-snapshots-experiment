@@ -5,7 +5,7 @@
   "initial_base_domain": "hhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://stg-aspr.hhs.gov/_login/default.aspx?ReturnUrl=%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252FPages%252FPageNotFoundError%252Easpx%253FrequestUrl%253Dhttps%253A%252F%252Fstg%252Daspr%252Ehhs%252Egov%252Findex%252Ehtml&Source=%2FPages%2FPageNotFoundError%2Easpx%3FrequestUrl%3Dhttps%3A%2F%2Fstg%2Daspr%2Ehhs%2Egov%2Findex%2Ehtml",
+  "url": "https://stg-aspr.hhs.gov/_login/default.aspx?ReturnUrl=%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&Source=%2F",
   "domain": "stg-aspr.hhs.gov",
   "base_domain": "hhs.gov",
   "top_level_domain": "gov",
@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "b493a791392e171c7d2032df4875c973",
   "accessibility_violations": "{\"form-names\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -49,12 +50,14 @@
   "dap_version": "",
   "ga_tag_id": "G-ZSSt0qInHsj7hY8",
   "third_party_service_domains": [
+    "aspr.hhs.gov",
     "www.phe.gov"
   ],
   "third_party_service_urls": [
+    "https://aspr.hhs.gov/Pages/Home.aspx",
     "https://www.phe.gov/PublishingImages/loa1-login2.jpg"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".hhs.gov",
     "stg-aspr.hhs.gov"
@@ -62,8 +65,8 @@
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Sign In",
   "description": null,
   "keywords": null,
@@ -91,7 +94,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

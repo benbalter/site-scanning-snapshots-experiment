@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "08592b78062697ff960a6705c0f04852",
   "accessibility_violations": "{\"user-control-name\":2,\"contrast\":4,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": null,
@@ -77,16 +78,15 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
     "https://www.nasa.gov/wp-content/uploads/2024/12/1-leshin-med.jpg",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
     ".nasa.gov",
-    ".science.nasa.gov",
-    "science.nasa.gov"
+    ".science.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -104,8 +104,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Voyager - NASA Science",
   "description": "Voyager 1 and its twin Voyager 2 are the only spacecraft ever to reach the edge of interstellar space..",
   "keywords": "Missions, Technology, Voyager 1, Voyager 2, Voyager Program",
@@ -133,7 +133,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 35278,
   "sitemap_xml_count": 225,
+  "sitemap_xml_lastmod": "2023-12-30T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "a3fd8703e94296e0b161d0e1fb282a00",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "c65f360be4fbc4768a895351851fcec4",
   "accessibility_violations": "{\"contrast\":6,\"link-purpose\":15}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -79,13 +80,13 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
     ".archives.gov",
-    ".jfk.blogs.archives.gov",
-    "jfk.blogs.archives.gov"
+    ".jfk.blogs.archives.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -95,8 +96,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The JFK Library Archives: An Inside Look",
   "description": null,
   "keywords": null,
@@ -126,7 +127,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

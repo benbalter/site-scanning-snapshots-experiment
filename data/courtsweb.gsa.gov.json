@@ -30,10 +30,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":9}",
+  "page_hash": "d46c59d409a595065e7a845ad1410856",
+  "accessibility_violations": "{\"contrast\":8}",
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -51,7 +52,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RWSMSW23KH,UA-17367410-7,G-CSLL4ZEK4L,G-QEDJ41QCX8",
   "third_party_service_domains": [
-    "analytics.google.com",
     "dap.digitalgov.gov",
     "search.usa.gov",
     "www.google-analytics.com",
@@ -59,7 +59,6 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://search.usa.gov/assets/sayt.css",
@@ -71,9 +70,9 @@
     "https://www.google-analytics.com/plugins/ua/linkid.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".gsa.gov"
   ],
@@ -90,8 +89,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | CourtsWeb",
   "description": "CourtsWeb is an on-line information database designed to document new courthouses and to serve as a significant resource for new courthouse design. The web-based application supports multiple ways of retrieving, comparing, and ranking diverse types of media including three-dimensional interactive models, figure-ground diagrams, adjacency diagrams, 360 degree panoramic images, photos, drawings, numbers and text, and provides an information-rich resource for General Services Administration (GSA), the Judiciary, and the contracted architects and engineers, who design new courthouses.",
   "keywords": null,
@@ -119,7 +118,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
@@ -139,11 +140,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 40,
-  "uswds_string": 3,
+  "uswds_string": 4,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v2.13.3",
   "uswds_version": 100,
-  "uswds_count": 223,
+  "uswds_count": 224,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

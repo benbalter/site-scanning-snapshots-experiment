@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "b79458231d19aa61dd584255792ffd73",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -59,7 +60,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s68277738405153",
+    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s76137966924884",
     "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
@@ -88,8 +89,8 @@
   "required_links_text": [
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Find TB Resources | CDC FTBR",
   "description": "Find resources and links to TB materials such as fact sheets, patient education, training and more.",
   "keywords": null,
@@ -117,7 +118,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 2160,
   "sitemap_xml_count": 9,
+  "sitemap_xml_lastmod": "2025-01-31T19:01:29.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "5c3c800a8f11a00d604c095945e5ea8f",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

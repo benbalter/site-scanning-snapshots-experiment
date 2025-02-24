@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "aaa8687eac7f9ad4c06eb571026c4aa7",
   "accessibility_violations": "{\"user-control-name\":1,\"language\":1,\"images\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -50,7 +51,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -68,8 +70,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NIDDK Central Repository",
   "description": null,
   "keywords": null,
@@ -97,7 +99,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 28600,
   "sitemap_xml_count": 393,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "58ffad774154a7562a478e2684b20389",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

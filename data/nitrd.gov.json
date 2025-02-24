@@ -23,6 +23,7 @@
     "pulse",
     "2020_eot",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": null,
@@ -32,9 +33,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "0003a8db7de44d043ec85cf5e7d8a4d8",
   "accessibility_violations": "{\"contrast\":3,\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -51,7 +53,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-YKPHJL4C37,G-CSLL4ZEK4L,UA-26939116-1",
   "third_party_service_domains": [
-    "c.clarity.ms",
     "content.govdelivery.com",
     "d.clarity.ms",
     "dap.digitalgov.gov",
@@ -66,7 +67,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://c.clarity.ms/c.gif",
     "https://content.govdelivery.com/accounts/USFEDNITRD/widgets/USFEDNITRD_WIDGET_1.css",
     "https://content.govdelivery.com/accounts/USFEDNITRD/widgets/USFEDNITRD_WIDGET_1.js",
     "https://content.govdelivery.com/accounts/USFEDNITRD/widgets/USFEDNITRD_WIDGET_1/0.json",
@@ -85,15 +85,14 @@
     "https://ssl.google-analytics.com/ga.js",
     "https://syndication.twitter.com/settings",
     "https://ui.customsearch.ai/api/ux/rendering-js",
-    "https://www.clarity.ms/s/0.7.67/clarity.js",
+    "https://www.clarity.ms/s/0.7.69/clarity.js",
     "https://www.clarity.ms/tag/723roztgcp",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nitrd.gov"
   ],
@@ -108,8 +107,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The Networking and Information Technology Research and Development (NITRD) Program - The Networking and Information Technology Research and Development (NITRD) Program",
   "description": "The Networking and Information Technology Research and Development (NITRD) Program is the Nation’s primary source of federally funded work on advanced information technologies (IT) in computing, networking, and software.",
   "keywords": null,
@@ -139,7 +138,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "b82dd15c714abf630eb860408fb6db72",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -51,6 +52,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".hhs.gov",
     "respondere-learn.hhs.gov"
   ],
   "viewport_meta_tag": true,
@@ -60,8 +62,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Log in to the site | respondere-learn",
   "description": null,
   "keywords": "moodle, Log in to the site | respondere-learn",
@@ -89,7 +91,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

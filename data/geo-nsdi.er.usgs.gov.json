@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "09845527cdfd9b6d37077c6014d32209",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -69,7 +70,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -89,8 +90,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "USGS Geoscience data catalog",
   "description": "A catalog of earth science data produced by the USGS.  Site contains systematic descriptions of the data; to get the data, follow links in the descriptions.  Allows text search, browse by geographic location, and browse by publication series",
   "keywords": "geoscience data; earth characteristics; geologic maps; geophysical data; geochemical data; geospatial metadata",
@@ -118,7 +119,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 163603,
   "sitemap_xml_count": 988,
+  "sitemap_xml_lastmod": "2018-07-03T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "5b8cd9bea5e3cc8047278ca7bd3ae420",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

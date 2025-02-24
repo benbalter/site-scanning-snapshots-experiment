@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "c129b0f1c0be6e4f3c3b1fbd2a3487a5",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloud.gov",
@@ -65,7 +66,7 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -88,8 +89,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "U.S. Access Board - Home",
   "description": "The U.S. Access Board is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology.",
   "keywords": null,
@@ -119,7 +120,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 157664,
   "sitemap_xml_count": 1043,
+  "sitemap_xml_lastmod": "2025-03-25T00:00:00.000Z",
   "sitemap_xml_pdf_count": 150,
+  "sitemap_xml_page_hash": "902bbf468a6ed7698871006e0f59a6d0",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

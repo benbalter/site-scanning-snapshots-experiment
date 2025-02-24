@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "a05ab21329f686ccf710f600f12d514b",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":4,\"link-purpose\":4}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -48,7 +49,7 @@
     "subagency": "NIH"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-Y60CQSK2FH,G-GuqERA1OGmkzAfz",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-Y60CQSK2FH,G-Apq5Hm4",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
@@ -90,7 +91,7 @@
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.css",
     "https://static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js",
-    "https://www.clarity.ms/s/0.7.68/clarity.js",
+    "https://www.clarity.ms/s/0.7.69/clarity.js",
     "https://www.clarity.ms/tag/pbhv4166y4",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
@@ -103,8 +104,8 @@
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
   "third_party_service_count": 16,
   "cookie_domains": [
@@ -126,8 +127,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Data Science Home | Data Science at NIH",
   "description": "The NIH is dedicated to harnessing the potential of the computational and quantitative sciences to elevate the impact and efficiency of biomedical research. NIH efforts in the integration of Data Science with the biomedical sciences are coordinated by the NIH Scientific Data Council and DataScience@NIH, under the leadership of the NIH Associate Director for Data Science (ADDS). DataScience@NIH leads the development of the overall NIH vision for Data Science and coordinates across all 27 Institutes and Centers in support of biomedical research as a digital enterprise.",
   "keywords": null,
@@ -155,7 +156,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

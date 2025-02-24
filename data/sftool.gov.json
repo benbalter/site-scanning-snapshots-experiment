@@ -34,9 +34,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "bd7679edb96f3147c7667e068f6dba5c",
   "accessibility_violations": "{\"aria\":3,\"form-names\":1,\"contrast\":1,\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -70,7 +71,7 @@
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -93,8 +94,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "SFTool - Sustainable Facilities Tool - GSA Sustainable Facilities Tool",
   "description": "GSA's one-stop website to learn Sustainable Building and Procurement best practices. SFTool's thousands of content pages are free, easy to understand and constantly updated.",
   "keywords": "Sustainable Facilities Tool, Sustainable, Facilities, Buildings, learn, plan, explore, procure, apply, train, start, roles, resources, topics, strategies, tools, products, services, Case Studies, Career Planning, Teach, Helpful, Understanding Federal Requirements, Project Planning, Development, Procurement, Operations, Maintenance",
@@ -124,7 +125,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 229818,
   "sitemap_xml_count": 1071,
+  "sitemap_xml_lastmod": "2025-02-08T08:57:21.000Z",
   "sitemap_xml_pdf_count": 264,
+  "sitemap_xml_page_hash": "187784ca7aab15f448846a670644f491",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

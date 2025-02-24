@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "5e877664956eb379e649575718a96a17",
   "accessibility_violations": "{\"contrast\":58,\"link-purpose\":1,\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": null,
@@ -47,21 +48,23 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "astrowebmaps.wr.usgs.gov",
     "cdnjs.cloudflare.com"
   ],
   "third_party_service_urls": [
+    "https://astrowebmaps.wr.usgs.gov/webmapatlas/Layers/maps.js",
     "https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".usgs.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "PILOT - Planetary Image Locator Tool - USGS Astrogeology Science Center - NASA Archive of Raw Planet Images of Moon, Mars, Jupiter, Saturn, Mercury . . .",
   "description": "PILOT - Planetary Image Locator Tool - Direct Access to Raw Archive of NASA Spacecraft Images",
   "keywords": "pilot, planet, raw, images mapping, usgs, nasa, cartography, astrogeology, mars, moon, jupiter, saturn, voyager, cassini",
@@ -89,7 +92,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

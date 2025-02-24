@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "3ec1c9bca94cd52bb4318289deabf434",
   "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"user-control-name\":1,\"contrast\":10}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -61,7 +62,7 @@
     "https://fonts.googleapis.com/css",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -76,8 +77,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "AHED Home",
   "description": "",
   "keywords": null,
@@ -105,7 +106,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 46021,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 6,
+  "sitemap_xml_page_hash": "c023e08970b9ec089d777e108950b168",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

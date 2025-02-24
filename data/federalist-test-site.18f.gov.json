@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "4471998b551ce7725cad18d33a89f926",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloud.gov",
@@ -56,7 +57,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -74,8 +75,8 @@
     "foia",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "National Council on Disability | Home",
   "description": "An independent federal agency committed to disability policy leadership since 1978",
   "keywords": null,
@@ -105,7 +106,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 243706,
   "sitemap_xml_count": 1582,
+  "sitemap_xml_lastmod": "2024-12-05T17:19:16.000Z",
   "sitemap_xml_pdf_count": 345,
+  "sitemap_xml_page_hash": "4df3c1a45a8d8d08bff28b21ccf64bed",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

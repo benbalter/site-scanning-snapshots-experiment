@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "d357de7357848ab7f307ec61e39481a1",
   "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -91,7 +92,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/charts/loader.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -112,8 +113,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NIMH Data Archive - NDA",
   "description": null,
   "keywords": null,
@@ -141,7 +142,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 37137,
   "sitemap_xml_count": 338,
+  "sitemap_xml_lastmod": "2011-10-10T09:15:37.000Z",
   "sitemap_xml_pdf_count": 25,
+  "sitemap_xml_page_hash": "b92bfd1ef149b4bb6ff04c4357fd226a",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

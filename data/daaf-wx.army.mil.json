@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
@@ -34,6 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "28b971b72d3324350f721c94a12622b6",
   "accessibility_violations": "{\"user-control-name\":1,\"images\":7}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -54,7 +55,6 @@
   "third_party_service_domains": [
     "cdn.star.nesdis.noaa.gov",
     "dap.digitalgov.gov",
-    "origin.wpc.ncep.noaa.gov",
     "radar.weather.gov",
     "search.usa.gov",
     "www.googletagmanager.com",
@@ -65,7 +65,6 @@
   "third_party_service_urls": [
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/thumbnail.jpg",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_Day1_CONUS_Day1.png",
     "https://radar.weather.gov/ridge/standard/CONUS_loop.gif",
     "https://radar.weather.gov/ridge/standard/KLWX_loop.gif",
     "https://search.usa.gov/assets/sayt.css",
@@ -75,9 +74,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_0d0.png",
     "https://www.spc.noaa.gov/products/outlook/day1otlk_1200.gif",
-    "https://www.wpc.ncep.noaa.gov/NationalForecastChart/staticmaps/noaad1.png"
+    "https://www.wpc.ncep.noaa.gov/NationalForecastChart/staticmaps/noaad1.png",
+    "https://www.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_Day1_CONUS_Day1.png"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".army.mil",
     ".daaf-wx.army.mil",
@@ -128,7 +128,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 20,
   "uswds_publicsans_font": 0,

@@ -34,6 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "ea666d9bd8b038d309441378a18595c9",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":3}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -83,6 +84,7 @@
     "https://media.defense.gov/2025/Feb/10/2003645709/680/385/0/250210-A-AB123-001.JPG",
     "https://media.defense.gov/2025/Feb/11/2003645321/400/400/0/250211-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Feb/14/2003647179/400/400/0/231016-D-D0512-1002.PNG",
+    "https://media.defense.gov/2025/Feb/19/2003648724/400/400/0/241124-N-JS660-1453.PNG",
     "https://media.defense.gov/2025/Jan/23/2003632034/400/400/0/241211-D-D0512-1002.JPG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
@@ -90,11 +92,12 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".tricare.mil"
+    ".tricare.mil",
+    "rader.tricare.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -144,7 +147,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 20,
   "uswds_publicsans_font": 0,

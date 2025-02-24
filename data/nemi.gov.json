@@ -23,6 +23,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
+    "final_url_websites",
     "cisa"
   ],
   "public": true,
@@ -32,9 +33,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "dfe77e562ccb731fa7aea5ff0ea75307",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -48,22 +50,20 @@
     "agency": "USGS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-0HCSRRZZVP,G-T4XSP9RZH8,G-FH5X1PMV8C,UA-77708142-1,UA-39958467-1",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,UA-39958467-1,G-T4XSP9RZH8",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "ssl.google-analytics.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nemi.gov"
   ],
@@ -77,8 +77,8 @@
     "accessibility",
     "foia"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "National Environmental Methods Index",
   "description": "NEMI is a searchable database of environmental methods, protocols, and procedures \n    that allows scientists and managers to find and compare data-collection methods\n    and protocols for all stages of the water monitoring process.",
   "keywords": null,
@@ -106,7 +106,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 172314,
   "sitemap_xml_count": 1304,
+  "sitemap_xml_lastmod": "2025-02-20T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "ee855035eec326524a6abd423ee35756",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

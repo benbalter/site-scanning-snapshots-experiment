@@ -23,6 +23,7 @@
     "2020_eot",
     "gov_man",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": null,
@@ -32,9 +33,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "ae5e5085f9bf482312745fbb0567e10f",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": false,
   "hostname": "cloudfront.net",
@@ -51,7 +53,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -71,8 +72,8 @@
     "accessibility",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The U.S. Currency Education Program",
   "description": "The Federal Reserve Board's U.S. Currency Education Program provides public access to education, training, and information about Federal Reserve Notes.",
   "keywords": null,
@@ -100,7 +101,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 147206,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-04T15:55:32.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "591b44b49297f2c1aca2337bfdf76087",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

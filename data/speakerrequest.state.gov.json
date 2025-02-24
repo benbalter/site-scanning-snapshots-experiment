@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "3e6a8104dbd7d7d404e25d9cfeffa9fe",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -47,6 +48,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "s3.amazonaws.com",
+    "state.gov",
     "www.state.gov"
   ],
   "third_party_service_urls": [
@@ -55,11 +57,13 @@
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
     "https://s3.amazonaws.com/stategov-header-footer-assets/add.css",
     "https://s3.amazonaws.com/stategov-header-footer-assets/reduced_nav.css",
+    "https://state.gov/wp-content/uploads/2022/02/cropped-Seal-of-the-U.S.-Department-of-State-192x192.png",
+    "https://state.gov/wp-content/uploads/2022/02/cropped-Seal-of-the-U.S.-Department-of-State-32x32.png",
     "https://www.state.gov/wp-content/themes/state/css/state.min.css",
-    "https://www.state.gov/wp-content/themes/state/images/logos/Logo_White_M.png",
-    "https://www.state.gov/wp-content/themes/state/images/logos/footer-logo-vert-2x.png"
+    "https://www.state.gov/wp-content/uploads/2022/02/cropped-Seal-of-the-U.S.-Department-of-State-192x192.png",
+    "https://www.state.gov/wp-content/uploads/2022/02/cropped-Seal-of-the-U.S.-Department-of-State-32x32.png"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".state.gov",
     "register.state.gov"
@@ -79,8 +83,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Speaker Invitation Site",
   "description": null,
   "keywords": null,
@@ -108,9 +112,11 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 353,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "e9036e07f1d366e36c594e81f937335d",
   "uswds_favicon": 0,
-  "uswds_favicon_in_css": 20,
+  "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
@@ -120,7 +126,7 @@
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 20,
+  "uswds_count": 0,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "519059fa22a871bbf55d6b874f42f760",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloud.gov",
@@ -56,6 +57,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "touchpoints.app.cloud.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -70,10 +72,11 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".onrr.gov"
   ],
@@ -94,8 +97,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | Office of Natural Resources Revenue",
   "description": null,
   "keywords": null,
@@ -123,7 +126,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 34564,
   "sitemap_xml_count": 245,
+  "sitemap_xml_lastmod": "2024-05-13T22:53:36.235Z",
   "sitemap_xml_pdf_count": 46,
+  "sitemap_xml_page_hash": "7f35fe5ab44cf71c5760582e734c7427",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

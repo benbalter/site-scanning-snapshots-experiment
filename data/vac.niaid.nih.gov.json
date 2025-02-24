@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "f75e017945053a17a53e19283bc1121d",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -72,8 +73,9 @@
     "https://www.google-analytics.com/plugins/ua/linkid.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -91,8 +93,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "VAC",
   "description": "The Vaccine Adjuvant Compendium (VAC) was established in 2020 by the NIAID Division of Allergy, Immunology, and Transplantation to foster collaborations between NIAID-supported adjuvant researchers and the broader scientific community.  The VAC website provides a searchable online database of vaccine adjuvants defined through NIAID-supported adjuvant studies.",
   "keywords": null,
@@ -120,7 +122,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 3278,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "a9186356098ff871f9352cc755322eb7",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

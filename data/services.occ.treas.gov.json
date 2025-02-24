@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "8cd09808d20ee5db34dc25069dbf2df9",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -50,6 +51,7 @@
     "cdnjs.cloudflare.com",
     "login.okta.com",
     "ok5static.oktacdn.com",
+    "services.occ.treas.gov",
     "www.banknet.gov"
   ],
   "third_party_service_urls": [
@@ -65,6 +67,7 @@
     "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/5.16.1/js/okta-sign-in.min.js",
     "https://ok5static.oktacdn.com/assets/loginpage/css/custom-signin.a91af2abfd04662e499bd3e151150dbf.css",
     "https://ok5static.oktacdn.com/fs/bco/1/fs0jq9aflaHARvsxY297",
+    "https://services.occ.treas.gov/favicon.ico",
     "https://www.banknet.gov/entrance/css/okta.css",
     "https://www.banknet.gov/entrance/images/icon-footer-banknet.svg",
     "https://www.banknet.gov/entrance/images/icon-footer-hwmb-check.svg",
@@ -73,7 +76,7 @@
     "https://www.banknet.gov/entrance/images/occ-logo-des-white.svg",
     "https://www.banknet.gov/entrance/images/us_flag_small.png"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     "login.occ.gov"
   ],
@@ -92,8 +95,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Office of the Comptroller of the Currency (OCC) - Sign In",
   "description": null,
   "keywords": null,
@@ -121,7 +124,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

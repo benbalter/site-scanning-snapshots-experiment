@@ -24,6 +24,7 @@
     "omb_idea",
     "2020_eot",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -33,9 +34,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
+  "www_scan_status": "completed",
+  "page_hash": "1a85368dca7c85aa9ccab408a7cd30a1",
   "accessibility_violations": "{\"aria\":8}",
   "ipv6": false,
   "hostname": null,
@@ -79,8 +81,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | FPC.gov",
   "description": "The Federal Privacy Council is the principal interagency forum to improve the privacy practices of agencies and entities acting on their behalf. The work of the Federal Privacy Council shall strengthen protections of people’s personal information and privacy rights across the Federal Government.",
   "keywords": null,
@@ -110,7 +112,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 4729,
   "sitemap_xml_count": 28,
+  "sitemap_xml_lastmod": "2022-02-02T03:23:09.000Z",
   "sitemap_xml_pdf_count": 1,
+  "sitemap_xml_page_hash": "53baea89b66022ad2e84a153ee1d9042",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -145,7 +149,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 111,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.fpc.gov",
+  "www_status_code": 200,
+  "www_title": "Home | FPC.gov"
 }

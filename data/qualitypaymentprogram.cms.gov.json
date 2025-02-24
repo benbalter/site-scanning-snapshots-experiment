@@ -28,10 +28,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "accessibility_violations": null,
+  "page_hash": "13cad2f75e45dd41f03c91cd17c40905",
+  "accessibility_violations": "{\"contrast\":2}",
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -48,6 +49,7 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
+    "browser-intake-ddog-gov.com",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
@@ -63,6 +65,7 @@
   ],
   "third_party_service_urls": [
     "https://adobe-ep.cms.gov/ee/v1/interact",
+    "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -74,7 +77,9 @@
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
-    "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
+    "https://js-agent.newrelic.com/nr-spa-1.283.1.min.js",
+    "https://js-agent.newrelic.com/nr-spa-compressor-1.283.1.min.js",
+    "https://js-agent.newrelic.com/nr-spa-recorder-1.283.1.min.js",
     "https://qpp-cm-prod-content.s3.amazonaws.com/s3fs/2021-05/Register.png",
     "https://qpp-cm-prod-content.s3.amazonaws.com/s3fs/2021-05/visual_Apply%20%281%29.png",
     "https://qpp-cm-prod-content.s3.amazonaws.com/s3fs/2021-05/visual_CollectData%20%281%29.png",
@@ -89,7 +94,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://zn24cu8foukd58l0c-qppexperience.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".cms.gov",
     "qpp.cms.gov"
@@ -102,8 +107,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Quality Payment Program (QPP)",
   "description": "QPP aims to improve the quality and safety of care for all individuals and to reduce the administrative burden on clinicians, allowing more time to focus on person-centered care and improving health outcomes.",
   "keywords": "QPP, Quality Payment Program, CMS, Medicare, Merit-based Incentive Payment System, MIPs, Alternative Payment Models, APM, MIPs Value Pathways, MVP",
@@ -135,7 +140,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 12164,
   "sitemap_xml_count": 89,
+  "sitemap_xml_lastmod": "2023-05-24T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "bd2c9ae144967955e46d925d4716d3c8",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

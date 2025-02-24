@@ -23,6 +23,7 @@
     "omb_idea",
     "gov_man",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -32,9 +33,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "9937002a1e884b7aea72d25af3e0022f",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -50,7 +52,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-6BMW1727HS",
   "third_party_service_domains": [
-    "17de4c1e.akstat.io",
+    "17de4c1f.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "gov1.siteintercept.qualtrics.com",
@@ -59,7 +61,7 @@
     "zneqbae5qaojv5kzs-usitccx.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1e.akstat.io/",
+    "https://17de4c1f.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -88,8 +90,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Harmonized Tariff Schedule",
   "description": null,
   "keywords": "HTS, HTS Search",
@@ -117,7 +119,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 6782,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "5e950d13a13ffa1f5e7ac9bcae08e236",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

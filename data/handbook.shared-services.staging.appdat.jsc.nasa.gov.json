@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "http2_error",
+  "page_hash": "8a04078f57e2f373533e799c1c5cf949",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -56,14 +57,16 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | AppDat Platform Handbook",
   "description": "Welcome to the AppDat Handbook\n  #\n\nThe single source of truth for all documentation and user guides relating to the AppDat Platform.  AppDat strives to be a documentation first platform in the same vain as described quite well by the all-remote company Gitlab, in their article \n    “The importance of a handbook-first approach to documentation”\n    \n      launch\n    \n  .\nAs described in the Gitlab Handbook:",
   "keywords": null,
@@ -91,7 +94,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 2433,
   "sitemap_xml_count": 41,
+  "sitemap_xml_lastmod": "2021-07-08T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "8f59ada0617724ccd8b9d49fb5be3e9b",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "56b33ea56a41356450d8b60ede4fb2e7",
   "accessibility_violations": "{\"lists\":51}",
   "ipv6": true,
   "hostname": null,
@@ -49,6 +50,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "apd440.gsfc.nasa.gov",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -57,6 +59,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://apd440.gsfc.nasa.gov/images/intro/2025/dac-group-photo.jpg",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -65,7 +68,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -78,8 +81,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Roman Space Telescope/NASA",
   "description": "Nancy Grace Roman Space Telescope",
   "keywords": "Nancy Grace Roman Space Telescope, Roman Space Telescope, Wide Field Infrared Survey Telescope, wfirst, exoplanets, dark energy, astronomy, high energy, high-energy, x-ray, gamma-ray, gamma ray, physics, astrophysics, universe, science, nasa, space, black hole, blackhole, dark matter",
@@ -107,7 +110,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

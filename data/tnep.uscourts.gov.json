@@ -31,6 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "94ebef349d9a0cb23f3e0dabd15f4d58",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -50,7 +51,8 @@
     "code.jquery.com",
     "speedcdnjs.com",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.tnep.uscourts.gov"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
@@ -58,9 +60,14 @@
     "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.tnep.uscourts.gov/sites/all/themes/opps/css/fonts/merriweather-regular/merriweather-regular-webfont.ttf",
+    "https://www.tnep.uscourts.gov/sites/all/themes/opps/css/fonts/merriweather-regular/merriweather-regular-webfont.woff",
+    "https://www.tnep.uscourts.gov/sites/all/themes/opps/css/fonts/opensans-bold/opensans-bold-webfont.woff",
+    "https://www.tnep.uscourts.gov/sites/all/themes/opps/css/fonts/opensans-regular/opensans-regular-webfont.ttf",
+    "https://www.tnep.uscourts.gov/sites/all/themes/opps/css/fonts/opensans-regular/opensans-regular-webfont.woff"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".tnep.uscourts.gov",
     ".uscourts.gov",
@@ -102,7 +109,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 30818,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2024-11-13T15:44:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "6067b42ea5a966c51efa72b61404c37e",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

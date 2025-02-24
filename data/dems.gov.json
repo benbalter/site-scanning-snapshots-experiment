@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "d667294266041e7716c45a60edb2560d",
   "accessibility_violations": "{\"contrast\":13}",
   "ipv6": false,
   "hostname": "awsglobalaccelerator.com",
@@ -68,12 +69,10 @@
     "https://use.fontawesome.com/releases/v4.7.0/css/font-awesome-css.min.css",
     "https://use.fontawesome.com/releases/v4.7.0/fonts/fontawesome-webfont.woff2",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
-  "cookie_domains": [
-    "www.dems.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"
@@ -81,8 +80,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | House Democrats",
   "description": null,
   "keywords": null,
@@ -110,7 +109,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 144095,
   "sitemap_xml_count": 1095,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "a6371404ecf865a61412d13b17f07cd8",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

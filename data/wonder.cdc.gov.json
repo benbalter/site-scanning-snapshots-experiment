@@ -22,7 +22,8 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites"
+    "final_url_websites",
+    "gpo_fdlp"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "17e80a2c8023556d4702dc75666eea1a",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -55,7 +57,7 @@
     "www.google-analytics.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/devcdc/1/JS-2.0.0/s6534094715069",
+    "https://cdc.112.2o7.net/b/ss/devcdc/1/JS-2.0.0/s72236160060151",
     "https://www.cdc.gov/TemplatePackage/4.0/assets/css/app.min.css",
     "https://www.cdc.gov/TemplatePackage/4.0/assets/css/print.min.css",
     "https://www.cdc.gov/TemplatePackage/4.0/assets/fonts/cdciconfont.woff2",
@@ -92,8 +94,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "CDC WONDER",
   "description": "CDC WONDER is a system for disseminating Public Health data and information",
   "keywords": "CDC WONDER Public Health Query, CDC/ATSDR Scientific Data Repository",
@@ -121,7 +123,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "b38b0944e1947f93261fe36cdba11edc",
   "accessibility_violations": "{\"lists\":1}",
   "ipv6": false,
   "hostname": null,
@@ -88,7 +89,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -104,8 +105,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "REMM - Radiation Emergency Medical Management",
   "description": null,
   "keywords": null,
@@ -135,7 +136,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 68379,
   "sitemap_xml_count": 551,
+  "sitemap_xml_lastmod": "2024-04-03T19:12:17.000Z",
   "sitemap_xml_pdf_count": 90,
+  "sitemap_xml_page_hash": "10990bb48010ccfcb660d4cc1af8bbec",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

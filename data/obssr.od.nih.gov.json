@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "0588c75a7e497b5b07d1d07bc09cacf5",
   "accessibility_violations": "{\"frames-iframes\":1,\"images\":9,\"link-purpose\":3,\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -66,6 +67,7 @@
     "maxcdn.bootstrapcdn.com",
     "mc.us18.list-manage.com",
     "mcusercontent.com",
+    "static.cloudflareinsights.com",
     "www.clarity.ms",
     "www.google-analytics.com",
     "www.googletagmanager.com"
@@ -95,14 +97,15 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2",
     "https://mc.us18.list-manage.com/subscribe/form-settings",
     "https://mcusercontent.com/90101cfda8ab653679a4df12c/images/3d954735-fd4f-7fd6-afe8-92f9be943528.png",
-    "https://www.clarity.ms/s/0.7.68/clarity.js",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+    "https://www.clarity.ms/s/0.7.69/clarity.js",
     "https://www.clarity.ms/tag/lk6pdt86aj",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 18,
+  "third_party_service_count": 19,
   "cookie_domains": [
     ".nih.gov",
     ".od.nih.gov"
@@ -120,8 +123,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "OBSSR | Office of Behavioral and Social Sciences Research",
   "description": "OBSSR is responsible for coordinating the health-relevant behavioral and social sciences and identifying challenges and opportunities to advance these sciences at the NIH.",
   "keywords": null,
@@ -147,9 +150,11 @@
   "sitemap_xml_url": "https://obssr.od.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 221895,
+  "sitemap_xml_filesize": 217273,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-20T13:41:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "fd56ea421b6025760fe1ec9675eb5bea",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -163,6 +168,6 @@
   "uswds_version": 0,
   "uswds_count": 0,
   "www_url": "https://www.obssr.od.nih.gov",
-  "www_status_code": 200,
-  "www_title": "OBSSR | Office of Behavioral and Social Sciences Research"
+  "www_status_code": 403,
+  "www_title": "Attention Required! | Cloudflare"
 }

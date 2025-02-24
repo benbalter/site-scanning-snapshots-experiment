@@ -27,9 +27,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "ffd4c07f603ad5821aeedaf7420682c5",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -46,7 +47,7 @@
     "cmext.ahrq.gov"
   ],
   "third_party_service_urls": [
-    "https://cmext.ahrq.gov/confluence/s/vb790a/9012/1t6dj0k/4.2.31/_/download/resources/com.atlassian.plugins.authentication.atlassian-authentication-plugin:save-fragment/js.cookie.js"
+    "https://cmext.ahrq.gov/confluence/s/pvkvss/9012/134pkkn/4.2.31/_/download/resources/com.atlassian.plugins.authentication.atlassian-authentication-plugin:save-fragment/js.cookie.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -57,8 +58,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "AHRQ Sign In",
   "description": "AHRQ Applications",
   "keywords": null,
@@ -86,7 +87,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

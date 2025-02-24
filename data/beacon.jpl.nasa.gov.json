@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "38bada4665e6b5ec3732eddad29c6e3b",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -55,7 +56,6 @@
     "libguides-proc.springyaws.com",
     "netdna.bootstrapcdn.com",
     "static-assets-us.libguides.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -88,10 +88,9 @@
     "https://static-assets-us.libguides.com/web/js3.15.3/lg-public.min.js",
     "https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick-theme.css",
     "https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick.css",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".libguides.com",
     "jpl-nasa.libguides.com"
@@ -102,8 +101,8 @@
     "privacy"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home - BEACON Information Commons - LibGuides at Jet Propulsion Laboratory",
   "description": null,
   "keywords": null,
@@ -131,7 +130,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

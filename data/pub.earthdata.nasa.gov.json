@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "43c00dae435ab9ad3bdb4195558f4c50",
   "accessibility_violations": "{\"contrast\":2,\"link-purpose\":2,\"lists\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -68,7 +69,9 @@
     "https://status.earthdata.nasa.gov/api/v1/notifications"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -81,8 +84,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Earthdata Pub",
   "description": null,
   "keywords": null,
@@ -110,7 +113,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 971,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "841ee4751452d7c72c8fce176b973a82",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

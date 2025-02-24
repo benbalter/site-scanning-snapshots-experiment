@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "675930a1e3413c2bc2d33c60cc60470d",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -50,7 +51,7 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-192960035-1,G-Strategic,G-SMC21MEHWE,G-CSLL4ZEK4L",
+  "ga_tag_id": "UA-192960035-1,G-Strategic,G-CSLL4ZEK4L,G-SMC21MEHWE",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "search.usa.gov",
@@ -66,9 +67,8 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -91,8 +91,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | Office of Inspector General",
   "description": null,
   "keywords": null,
@@ -120,9 +120,11 @@
   "sitemap_xml_url": "https://www.oig.dhs.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 812461,
-  "sitemap_xml_count": 3214,
+  "sitemap_xml_filesize": 812630,
+  "sitemap_xml_count": 3215,
+  "sitemap_xml_lastmod": "2025-02-21T18:04:43.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "8cf51e43c19c749bf5bbf4c7c7872438",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

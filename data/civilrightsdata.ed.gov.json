@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "d49a6d457b394439078ec05338608034",
   "accessibility_violations": "{\"user-control-name\":4,\"aria\":1}",
   "ipv6": true,
   "hostname": null,
@@ -64,7 +65,9 @@
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ed.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -77,8 +80,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Civil Rights Data | U.S. Department of Education",
   "description": "Understand trends in student opportunity, security, and diversity.",
   "keywords": null,
@@ -106,7 +109,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 9718,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "85f538c7164337d755efbbbb734e4a03",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

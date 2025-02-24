@@ -28,9 +28,10 @@
   "not_found_scan_status": "connection_reset",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "a44ec68dd243a4e3320c89da44a8df69",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -44,16 +45,17 @@
   "dap_version": "",
   "ga_tag_id": "G-WD0986RWM9",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.lanl.gov",
     "p.typekit.net",
     "use.typekit.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.lanl.gov/59fa4d8c-e624-4e6b-864e-6174943b293d.png",
     "https://cdn.lanl.gov/a46fedc4-aaeb-4f09-ba49-391ab17462d4.png",
     "https://cdn.lanl.gov/ceeae364-7a41-46c7-80d9-c36998159729.png",
-    "https://cdn.lanl.gov/e3fdc833-bc0c-4aa2-8359-ead0c6d1d320.svg",
     "https://cdn.lanl.gov/optimized/lg/e74ba35a-0da9-438d-8b6a-2457e8b8576a_768.webp",
     "https://p.typekit.net/p.css",
     "https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/l",
@@ -62,7 +64,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".lanl.gov"
   ],
@@ -71,8 +73,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Laboratory Directed Research and Development | LANL",
   "description": "Laboratory Directed Research and Development (LDRD) supports innovative research at DOE labs, driving advancements in science, technology, and security.",
   "keywords": "Laboratory Directed Research and Development, LDRD, Los Alamos National Laboratory, Sandia, Sandia National Laboratories, LANL, R&D, Lawrence Livermore, LLNL, Research and Development, Nevada National Security Site, Research & Development, NNSS",
@@ -100,7 +102,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

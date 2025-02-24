@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "0936d77333989929af0023e6345d23b9",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -48,7 +49,7 @@
     "subagency": "NIH"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-93545997-1,G-CSLL4ZEK4L,G-NTLQWE73V8,G-QJ5S1MNSC9,G-MQVR5DG2C4",
+  "ga_tag_id": "UA-93545997-1,G-CSLL4ZEK4L,G-QJ5S1MNSC9,G-NTLQWE73V8,G-MQVR5DG2C4",
   "third_party_service_domains": [
     "cloud.typography.com",
     "dap.digitalgov.gov",
@@ -69,8 +70,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -86,8 +86,8 @@
     "foia",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "All of Us Research Program | National Institutes of Health (NIH)",
   "description": "The All of Us Research Program is a historic effort to gather data from one million or more people living in the United States to accelerate research and improve health. By taking into account individual differences in genes, environment, and lifestyle, researchers will uncover paths toward delivering precision medicine.",
   "keywords": null,
@@ -113,9 +113,11 @@
   "sitemap_xml_url": "https://allofus.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 108330,
+  "sitemap_xml_filesize": 101326,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-19T15:11:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "703ccc2d39167f2fc649f048382d8ede",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

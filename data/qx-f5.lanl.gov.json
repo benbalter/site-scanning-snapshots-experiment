@@ -27,9 +27,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "cc9f1780a9da2a75c6a219aeea5c81f5",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -43,12 +44,14 @@
   "dap_version": "",
   "ga_tag_id": "G-WD0986RWM9",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.lanl.gov",
     "p.typekit.net",
     "use.typekit.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.lanl.gov/optimized/lg/04cdd3e5-a57e-4c27-ab9c-a8332bac3b6e_325.webp",
     "https://cdn.lanl.gov/optimized/lg/0cc6fb4c-aa6f-4433-ad4e-99ecab007079_325.webp",
     "https://cdn.lanl.gov/optimized/lg/4f4d18ce-d7c3-4713-aed6-f154e92eae2c_325.webp",
@@ -60,10 +63,11 @@
     "https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/l",
     "https://use.typekit.net/af/ac1071/00000000000000003b9acafe/27/l",
     "https://use.typekit.net/zbj3hfy.css",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".lanl.gov"
   ],
@@ -74,8 +78,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Los Alamos National Laboratory",
   "description": "LANL is the leading U.S. National Laboratory, pioneering research in artificial intelligence, national security, and plutonium – extending Oppenheimer's Manhattan Project Legacy.",
   "keywords": "Los Alamos National Laboratory, LANL, DOE, Department of Energy, NNSA, Los Alamos, New Mexico, Oppenheimer, Manhattan Project, nuclear weapons, plutonium, ai, artificial intelligence, nuclear energy, supercomputer, machine learning, cyber security,physics",
@@ -103,7 +107,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "2480cca1b6c227e7fe7d8ee7082128e5",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":9}",
   "ipv6": false,
   "hostname": null,
@@ -54,7 +55,7 @@
     "socialmediawidgets.wordpress.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.ampproject.org/rtv/012501142147000/v0/amp-loader-0.1.mjs",
+    "https://cdn.ampproject.org/rtv/012502032353000/v0/amp-loader-0.1.mjs",
     "https://cdn.ampproject.org/v0.mjs",
     "https://cdn.ampproject.org/v0/amp-form-0.1.mjs",
     "https://fonts.googleapis.com/css",
@@ -84,8 +85,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "GAO Wellness and Fitness Center",
   "description": "We Move Everybody! Our comprehensive wellness programs, screenings, group exercise classes, one-one-one training, and cutting-edge cardio and strength equipment change lives, while optimizing health and productivity. We believe the path to health and wellness is empowering lifestyle change. It is our mission to inspire all to champion their own well-being. Join the club whose management…",
   "keywords": null,
@@ -113,7 +114,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "098f0ace26e85c167a1621e7c8dfeca0",
   "accessibility_violations": "{\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": null,
@@ -209,7 +210,7 @@
     "https://www.usgs.gov/apps/ltet/arcgis/rest/services/LTDL/LTDL_Perimeters/MapServer",
     "https://www.usgs.gov/apps/ltet/arcgis/rest/services/LTDL/LTDL_Perimeters/MapServer/export",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -230,8 +231,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Land Treatments Digital Library Home page",
   "description": "Web site for the Land Treatment Digital Library. To catalog land treatments in the western United States, the Great Basin Integrated Landscape Monitoring Program (GBILM) created the Land Treatment Digital Library (LTDL), a centralized digital library hosted by the U.S. Geological Survey for federal and state land managers and scientists.",
   "keywords": "U.S. Geological Survey, USGS, Great Basin, ecological research,  Nevada, Utah, Idaho, Oregon, California, management",
@@ -259,7 +260,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

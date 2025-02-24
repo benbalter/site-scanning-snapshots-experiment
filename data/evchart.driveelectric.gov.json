@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "e6c14cdbdeeaf0e0796a82aac51af226",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -45,20 +46,18 @@
     "id": "G-CSLL4ZEK4L",
     "l": "tadaAnalyticsDataLayer",
     "cx": "c",
-    "gtm": "45He52d0v890100053za200"
+    "gtm": "45He52k0v890100053za200"
   },
   "dap_version": "",
   "ga_tag_id": "G-8PZ4ZDWX73,G-VEJ5DJ7LND,G-7W2CYMD3X0,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".driveelectric.gov",
     "evchart.driveelectric.gov"
@@ -66,8 +65,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "EV-ChART",
   "description": "EV-ChART",
   "keywords": null,
@@ -95,7 +94,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

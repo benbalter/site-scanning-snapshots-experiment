@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "9bb52811c2d875e1d99ed7ad556df19f",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
@@ -47,8 +48,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-mJSu0qOD02vITY9,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1c.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,12 +63,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1c.akstat.io/",
     "https://a.tile.openstreetmap.org/14/4492/6674.png",
     "https://a.tile.openstreetmap.org/14/4493/6673.png",
     "https://a.tile.openstreetmap.org/14/4494/6672.png",
     "https://b.tile.openstreetmap.org/14/4492/6672.png",
     "https://b.tile.openstreetmap.org/14/4493/6674.png",
     "https://b.tile.openstreetmap.org/14/4494/6673.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/14/4492/6673.png",
     "https://c.tile.openstreetmap.org/14/4493/6672.png",
     "https://c.tile.openstreetmap.org/14/4494/6674.png",
@@ -88,10 +93,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -108,8 +112,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Harris Neck National Wildlife Refuge | U.S. Fish & Wildlife Service",
   "description": "Harris Neck National Wildlife Refuge (NWR) serves as an important link in the chain of refuges along the eastern seaboard, and is the inland base for two neighboring barrier island refuges, Blackbeard Island and Wolf Island.",
   "keywords": null,
@@ -137,7 +141,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

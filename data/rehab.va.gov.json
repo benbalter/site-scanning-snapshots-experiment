@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "f6ca541c8995fe8add62f336d17beb3e",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -92,7 +93,7 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -115,8 +116,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Rehabilitation and Prosthetic Services Home",
   "description": "Rehabilitation and Prosthetic Services VA Rehab VHA Rehabilitation VA Prosthetic PSA",
   "keywords": "Rehabilitation and Prosthetic Services VA Rehab VHA Rehabilitation VA Prosthetic PSA",
@@ -146,7 +147,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 3297,
   "sitemap_xml_count": 21,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 6,
+  "sitemap_xml_page_hash": "1ee3251c0a6fa0286286d2d633348ee3",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

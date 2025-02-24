@@ -28,10 +28,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":4,\"keyboard-access\":1}",
+  "page_hash": "e2c5dea06f7aedc554d0a202ba46f27a",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":4,\"keyboard-access\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -44,18 +45,20 @@
   "dap_version": "",
   "ga_tag_id": "G-515H3RKZYX",
   "third_party_service_domains": [
+    "content.hotjar.io",
     "script.hotjar.com",
     "static.hotjar.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://content.hotjar.io/",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.hotjar.com/c/hotjar-2079136.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".llnl.gov"
   ],
@@ -64,8 +67,8 @@
     "/es"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "ESGF MetaGrid",
   "description": "Web site created using create-react-app",
   "keywords": null,
@@ -93,7 +96,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 975,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "d4ad8a6439c6a24a60cb5db71fb117d3",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

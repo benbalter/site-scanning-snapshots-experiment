@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "9e36bb0f901a1e3ef73032b8fbca07e0",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -56,7 +57,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s68899731820377",
+    "https://cdc.112.2o7.net/b/ss/cdcpartners/1/JS-2.22.4-LEWM/s78389427154863",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
@@ -84,8 +85,8 @@
   "required_links_text": [
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Find Mpox Vaccines | CDC NPIN",
   "description": "Search for mpox tests to find locations near you.",
   "keywords": "HIV Testing Location, STD Testing Location, Viral Hepatitis Testing, STD and Hepatitis Vaccines Location, Get Tested",
@@ -115,7 +116,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 193,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "ece6e67de3b70bf9e0a798783b4fee74",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -30,12 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "c3629f8b00a2c4d3337810fd8a5fa872",
   "accessibility_violations": "{\"language\":1}",
-  "ipv6": false,
-  "hostname": null,
+  "ipv6": true,
+  "hostname": "cloudflare.net",
   "cms": null,
   "login_provider": null,
   "login": null,
@@ -45,9 +46,13 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "static.cloudflareinsights.com"
+  ],
+  "third_party_service_urls": [
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -61,8 +66,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NIDB - NIH Intramural DataBase Portal",
   "description": null,
   "keywords": null,
@@ -88,9 +93,11 @@
   "sitemap_xml_url": "https://nidb.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": 1346,
+  "sitemap_xml_filesize": 1812,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "5ee38936a773638703aa08cdf8844c1a",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "unknown_error",
+  "page_hash": "fda2c4c740042d993c1adb86f6c61153",
   "accessibility_violations": "{\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -45,7 +46,7 @@
   "dap_version": "",
   "ga_tag_id": "G-74HX2T8XVK,UA-87838515-2",
   "third_party_service_domains": [
-    "17de4c11.akstat.io",
+    "17de4c18.akstat.io",
     "c.go-mpulse.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -57,7 +58,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c11.akstat.io/",
+    "https://17de4c18.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ7QwOk1.woff2",
@@ -85,8 +86,7 @@
     "https://tags.tiqcdn.com/utag/fsa/fsa-partner-connect/prod/utag.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -104,8 +104,8 @@
     "foia",
     "usa.gov"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Welcome | Training",
   "description": null,
   "keywords": null,
@@ -133,7 +133,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

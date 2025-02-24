@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "8e46f6618ec0e5f19b19ed8d1d41b9e7",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
@@ -48,7 +49,7 @@
   "dap_version": "",
   "ga_tag_id": "G-QVSXTB5Z2J",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "17de4c1a.akstat.io",
     "acpbenefit.org",
     "ajax.googleapis.com",
     "c.go-mpulse.net",
@@ -60,7 +61,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://17de4c1a.akstat.io/",
     "https://acpbenefit.org/wp-includes/js/wp-emoji-release.min.js",
     "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
     "https://c.go-mpulse.net/api/config.json",
@@ -98,8 +99,7 @@
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".affordableconnectivity.gov",
-    "affordableconnectivity.gov"
+    ".affordableconnectivity.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -107,8 +107,8 @@
     "privacy"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home - ACP - Universal Service Administrative Company",
   "description": "Affordable Connectivity Program ACP - Universal Service Administrative Company",
   "keywords": null,
@@ -136,7 +136,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

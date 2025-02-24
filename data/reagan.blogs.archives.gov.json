@@ -22,6 +22,7 @@
     "pulse",
     "omb_idea",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -31,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "3cd3e7465c01b55921d3cda124dbe6a0",
   "accessibility_violations": "{\"contrast\":137}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,7 +49,7 @@
     "agency": "NARA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-E7PVFQE9SX,G-0KHCNR6KSZ,UA-19713578-4,G-CSLL4ZEK4L,UA-182127501-1,UA-72473425-1,UA-193034320-8,G-P1JBWQT9NJ,G-2BZQB816X2",
+  "ga_tag_id": "UA-19713578-4,G-E7PVFQE9SX,G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1,UA-72473425-1,UA-193034320-8,G-P1JBWQT9NJ,G-2BZQB816X2",
   "third_party_service_domains": [
     "c0.wp.com",
     "dap.digitalgov.gov",
@@ -97,8 +99,7 @@
   "third_party_service_count": 13,
   "cookie_domains": [
     ".archives.gov",
-    ".reagan.blogs.archives.gov",
-    "reagan.blogs.archives.gov"
+    ".reagan.blogs.archives.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -109,8 +110,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The Reagan Library Education Blog",
   "description": null,
   "keywords": null,
@@ -139,9 +140,11 @@
   "sitemap_xml_url": "https://reagan.blogs.archives.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 2507,
+  "sitemap_xml_filesize": 2513,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "0a7ed9512a6123ac416492fad7234c97",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

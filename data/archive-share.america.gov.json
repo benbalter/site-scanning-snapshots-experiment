@@ -29,10 +29,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"contrast\":7}",
+  "page_hash": "5dbc2d99b640b6c87e9ef8fbefe8c8de",
+  "accessibility_violations": "{\"contrast\":8}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -46,7 +47,7 @@
     "siteplatform": "ShareAmerica"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-22995010-3,G-N6Y255Y5X2",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-N6Y255Y5X2,UA-22995010-3",
   "third_party_service_domains": [
     "app.enzuzo.com",
     "buttons-config.sharethis.com",
@@ -134,7 +135,7 @@
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 27,
   "cookie_domains": [
@@ -152,8 +153,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "ShareAmerica | Connect with America",
   "description": "ShareAmerica is a place for the best social content on democracy, freedom of expression, innovation, entrepreneurship, education, science and civil society.",
   "keywords": null,
@@ -183,7 +184,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

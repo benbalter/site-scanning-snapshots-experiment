@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "f9fde5f428224ad9f2d70458a5afa767",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -77,7 +78,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -101,8 +102,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Karl Pfeifer Lab: Section on Genomic Imprinting | NICHD - Eunice Kennedy Shriver National Institute of Child Health and Human Development",
   "description": "Welcome to the Pfeifer Lab We are part of the Genetics and Epigenetics of Development Affinity Group at the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) in Bethesda, Maryland. Our research examines the biological functions and the regulated expression of a cluster of imprinted genes on the distal end of mouse chromosome 7.",
   "keywords": null,
@@ -130,7 +131,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

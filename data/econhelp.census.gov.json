@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "9ff515cbecfcd27b89ca1fad2619aca2",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -53,7 +54,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://censusbureau.d1.sc.omtrdc.net/b/ss/cebucensusglobalprod/1/JS-1.8.0/s68855860377152",
+    "https://censusbureau.d1.sc.omtrdc.net/b/ss/cebucensusglobalprod/1/JS-1.8.0/s72925005578542",
     "https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/USCENSUS_IDENTITY_SOLO_White_2in_TM.svg",
     "https://www.census.gov/main/css/1col.css",
     "https://www.census.gov/main/css/_new/base.css",
@@ -79,7 +80,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -102,8 +103,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Business Help Site",
   "description": null,
   "keywords": "BHS, Economic Census, SMC, secure messaging center, online services, report online",
@@ -131,7 +132,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 188,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "6584612ad1635bd94c706ca22d6a1b87",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

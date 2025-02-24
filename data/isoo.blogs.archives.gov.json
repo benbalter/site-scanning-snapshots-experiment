@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "a2d793d5243972c7328d282a8ffcec0a",
   "accessibility_violations": "{\"contrast\":61}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -93,8 +94,7 @@
   "third_party_service_count": 12,
   "cookie_domains": [
     ".archives.gov",
-    ".isoo.blogs.archives.gov",
-    "isoo.blogs.archives.gov"
+    ".isoo.blogs.archives.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -108,8 +108,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "CUI Program Blog – Blog of the Controlled Unclassified Information Program, Information Security Oversight Office, NARA",
   "description": "Blog of the Controlled Unclassified Information Program, Information Security Oversight Office, NARA",
   "keywords": null,
@@ -140,7 +140,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 2501,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "47d5f06aa282efaa1b7cc1be3c3147b2",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -33,9 +33,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "3c8eef0e83156bf5d1c8c73f399b5c0c",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -94,7 +95,7 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -116,8 +117,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "VHA National Center for Patient Safety Home",
   "description": "The NCPS was established in 1999 to develop and nurture a culture of safety throughout the Veterans Health Administration. Our goal is the nationwide reduction and prevention of inadvertent harm to patients as a result of their care. Patient safety managers at 151 VA hospitals and patient safety officers at 21 VA regional headquarters participate in the program.",
   "keywords": "safety, falls, moderate sedation, cognitive aids, hazards, alerts, medications, errors, HFMEA, root cause, NCPS, VA National Center for Patient Safety, Patient Safety",
@@ -145,7 +146,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

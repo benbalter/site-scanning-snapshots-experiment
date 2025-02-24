@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "1fd65a69a8d6c74cb2e0d4e84be9afd6",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -60,7 +61,7 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://gov-bam.nr-data.net/1/696a059823",
-    "https://js-agent.newrelic.com/nr-rum-1.281.0.min.js",
+    "https://js-agent.newrelic.com/nr-rum-1.283.2.min.js",
     "https://s3.amazonaws.com/content-impl-bbonfhir-com/static/dist/sandbox-main.css",
     "https://s3.amazonaws.com/content-impl-bbonfhir-com/static/font-awesome/css/font-awesome.min.css",
     "https://s3.amazonaws.com/content-impl-bbonfhir-com/static/fonts/OpenSans-Bold-webfont.woff2",
@@ -75,7 +76,7 @@
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
-    ".bluebutton.cms.gov"
+    ".cms.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -93,8 +94,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Blue Button 2.0 Sandbox",
   "description": "HHS OAuth2 Server is free open source software.\nSee https://github.com/CMSGov/bluebutton-web-server",
   "keywords": null,
@@ -122,7 +123,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

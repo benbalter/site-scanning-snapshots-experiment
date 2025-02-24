@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "da4533e5c326dcfb17bcfa3fa97b86da",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"lists\":2}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -49,6 +50,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30665474-4,UA-30665474-1,UA-22995010-2",
   "third_party_service_domains": [
+    "analytics.google.com",
     "app.enzuzo.com",
     "basemaps.cartocdn.com",
     "cdn.jsdelivr.net",
@@ -61,6 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://app.enzuzo.com/api/public/v1/analytics/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://app.enzuzo.com/scripts/cookiebar/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://basemaps.cartocdn.com/rastertiles/voyager/14/9963/7484.png",
@@ -94,7 +97,7 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".er.usembassy.gov",
     ".usembassy.gov",
@@ -113,8 +116,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Homepage - U.S. Embassy in Eritrea",
   "description": "The mission of the U.S. Embassy is to advance the interests of the United States, and to serve and protect U.S. citizens in Eritrea.",
   "keywords": null,
@@ -144,7 +147,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

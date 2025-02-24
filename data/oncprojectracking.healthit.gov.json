@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "82304dc8b7c501075fd68addedfc23e7",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"frames-iframes\":1}",
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -45,9 +46,8 @@
   "dap": true,
   "dap_parameters": "",
   "dap_version": "20240503 v7.03 - Dual Tracking",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-33523145-1,G-7SZDMS75VC,UA-65372500-1,UA-57449445-6,G-H1XL0P51MP",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-33523145-1,UA-65372500-1,UA-57449445-6,G-H1XL0P51MP",
   "third_party_service_domains": [
-    "analytics.google.com",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "script.crazyegg.com",
@@ -55,21 +55,20 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://script.crazyegg.com/pages/data-scripts/0062/5552/sampling/oncprojectracking.healthit.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0062/5552/site/oncprojectracking.healthit.gov.json",
     "https://script.crazyegg.com/pages/scripts/0062/5552.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/c7deac18f0e7b90e6cef3f0fe19c780a.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".healthit.gov",
     ".oncprojectracking.healthit.gov"
@@ -79,8 +78,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "ONC Landing Page Home",
   "description": null,
   "keywords": null,
@@ -108,7 +107,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

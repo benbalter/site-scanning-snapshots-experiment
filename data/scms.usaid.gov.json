@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "afbbda43af2ab9c8ec923eac4f5512a7",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -46,16 +47,24 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c12.akstat.io",
+    "17de4c0e.akstat.io",
+    "52-222-122-97_s-23-32-75-13_ts-1740240391-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
-    "s.go-mpulse.net"
+    "gtphuyixf3sdcz5z6ydq-pvgvpn-3b9f00463-clientnsv4-s.akamaihd.net",
+    "s.go-mpulse.net",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c12.akstat.io/",
+    "https://17de4c0e.akstat.io/",
+    "https://52-222-122-97_s-23-32-75-13_ts-1740240391-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
-    "https://s.go-mpulse.net/boomerang/5YYUN-XN5NS-RLN8J-F297C-RCTS7"
+    "https://gtphuyixf3sdcz5z6ydq-pvgvpn-3b9f00463-clientnsv4-s.akamaihd.net/eum/results.txt",
+    "https://s.go-mpulse.net/boomerang/5YYUN-XN5NS-RLN8J-F297C-RCTS7",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 7,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -74,8 +83,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Log in | U.S. Agency for International Development",
   "description": null,
   "keywords": null,
@@ -103,7 +112,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

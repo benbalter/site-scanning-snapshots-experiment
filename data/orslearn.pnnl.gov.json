@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "14347b43a83c144c43e1ebeb32cfabc0",
   "accessibility_violations": "{\"contrast\":2}",
   "ipv6": false,
   "hostname": null,
@@ -49,7 +50,7 @@
     "subagency": "PNNL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-YLH5PE4TSY,G-CSLL4ZEK4L,G-VGMONzbY68C5BeP,G-iIUWqtZM8iJPrAF,G-xouLMTS2HSRpga9",
+  "ga_tag_id": "G-YLH5PE4TSY,G-CSLL4ZEK4L,G-W07dqVpJBtViTvW",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -73,8 +74,8 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -84,8 +85,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Log in | ORS LMS",
   "description": null,
   "keywords": null,
@@ -113,7 +114,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

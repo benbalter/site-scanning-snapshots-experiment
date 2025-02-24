@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "5dc1b782933f670242ab74d5f968d554",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -79,9 +80,9 @@
   "third_party_service_urls": [
     "https://accretivemedia.go2cloud.org/aff_i",
     "https://acdn.adnxs.com/dmp/up/pixie.js",
-    "https://ad.doubleclick.net/activity;register_conversion=1;src=15118266;type=invmedia;cat=fema-0;ord=5284858152439;npa=0;auiddc=1391033077.1739855091;ps=1;pcor=1443755491;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9203572108z8811871977za201zb9131934939;gcd=13l3l3l3l1l1;dma=0;tag_exp=102067808~102482433~102539968~102558064~102587591~102605417~102640600;epver=2;~oref=https%3A%2F%2Fwww.fema.gov%2Fabout%2Fnews-multimedia%2Fblog",
+    "https://ad.doubleclick.net/activity;register_conversion=1;src=15118266;type=invmedia;cat=fema-0;ord=6970065293082;npa=0;auiddc=191027395.1740298472;ps=1;pcor=904666355;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52k0v9203572108z8811871977za201zb872018481;gcd=13l3l3l3l1l1;dma=0;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453;epver=2;~oref=https%3A%2F%2Fwww.fema.gov%2Fabout%2Fnews-multimedia%2Fblog",
     "https://ads.nextdoor.com/public/pixel/ndp.js",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CNnLyqi5zIsDFY-bjggdgLo2CQ;src=15118266;type=invmedia;cat=fema-0;ord=5284858152439;npa=0;auiddc=*;ps=1;pcor=1443755491;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52d0v9203572108z8811871977za201zb9131934939;gcd=13l3l3l3l1l1;dma=0;tag_exp=102067808~102482433~102539968~102558064~102587591~102605417~102640600;epver=2;~oref=https%3A%2F%2Fwww.fema.gov%2Fabout%2Fnews-multimedia%2Fblog",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CJjdjIWt2YsDFZ6ajggdazoNMw;src=15118266;type=invmedia;cat=fema-0;ord=6970065293082;npa=0;auiddc=*;ps=1;pcor=904666355;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;gtm=45fe52k0v9203572108z8811871977za201zb872018481;gcd=13l3l3l3l1l1;dma=0;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453;epver=2;~oref=https%3A%2F%2Fwww.fema.gov%2Fabout%2Fnews-multimedia%2Fblog",
     "https://analytics.google.com/g/collect",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js",
@@ -117,7 +118,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 27,
   "cookie_domains": [
@@ -141,8 +142,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Blog | FEMA.gov",
   "description": null,
   "keywords": null,
@@ -170,7 +171,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

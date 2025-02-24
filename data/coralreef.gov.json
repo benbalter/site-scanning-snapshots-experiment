@@ -24,6 +24,7 @@
     "omb_idea",
     "2020_eot",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -33,9 +34,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "b35b7122f47e1165e612320aa088077b",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": false,
   "hostname": null,
@@ -48,10 +50,10 @@
   "dap_parameters": {
     "agency": "DOC",
     "sub-agency": "NOAA",
-    "pua": "UA-43995508-11"
+    "pua": "G-TVG2PNDWLR"
   },
   "dap_version": "20230818 v6.8 - Dual Tracking",
-  "ga_tag_id": "UA-43995508-1,G-TVG2PNDWLR,G-CSLL4ZEK4L,UA-33523145-1",
+  "ga_tag_id": "G-TVG2PNDWLR,G-CSLL4ZEK4L,UA-33523145-1",
   "third_party_service_domains": [
     "coast.noaa.gov",
     "www.google-analytics.com",
@@ -64,6 +66,7 @@
     "https://coast.noaa.gov/js/lastupdated/timestamp.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
@@ -84,8 +87,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "U.S. Coral Reef Task Force Homepage",
   "description": null,
   "keywords": null,
@@ -113,7 +116,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 109828,
   "sitemap_xml_count": 1072,
+  "sitemap_xml_lastmod": "2024-06-11T18:41:54.000Z",
   "sitemap_xml_pdf_count": 917,
+  "sitemap_xml_page_hash": "95481ae0a85c495c341de948e77cbe98",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

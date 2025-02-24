@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "30854ff05120305f67d290af0e989d70",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -72,7 +73,7 @@
     "https://www.dol.gov/themes/opa_theme/img/logo-primary.svg",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -94,8 +95,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
   "description": "The Bureau of Labor Statistics is the principal fact-finding agency for the Federal Government in the broad field of labor economics and statistics.",
   "keywords": "",
@@ -125,7 +126,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 9809,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "6863562fd5384932a733b3ad272bbcfc",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

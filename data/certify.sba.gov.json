@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "db8a5312cac32abfc131df5c6f4be414",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -48,7 +49,7 @@
     "agency": "SBA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-71457705-2,UA-19362636-2,G-VS90KJEX3Y,G-V145CXN3EH",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-71457705-2,G-VS90KJEX3Y,UA-19362636-2,G-V145CXN3EH",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.google-analytics.com",
@@ -60,8 +61,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -77,8 +77,8 @@
   "required_links_text": [
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "SBA Certify - Small Business Administration | SBA Certify - Small",
   "description": "The 8(a) program is a robust nine-year program created to help firms owned and controlled by socially and economically disadvantaged individuals.",
   "keywords": null,
@@ -106,7 +106,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

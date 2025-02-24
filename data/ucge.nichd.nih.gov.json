@@ -28,10 +28,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "page_hash": "77c455ac2118e41d15f5993d481d72d0",
+  "accessibility_violations": "{\"aria\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -86,7 +87,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -110,8 +111,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "David Clark Lab: Section on Chromatin and Gene Expression | NICHD - Eunice Kennedy Shriver National Institute of Child Health and Human Development",
   "description": "The study of gene regulation is a prerequisite for understanding how cells respond appropriately to a changing environment, how they implement developmental programs, and how a defect in gene regulation can result in carcinogenesis. For many years it was thought that gene regulation involved only transcription factors and their interactions with DNA; changes in the chromatin structure of a gene were considered to be the passive consequence of the binding of these factors. However, it is now clear that chromatin structure is an integral part of the process of gene regulation.",
   "keywords": null,
@@ -139,7 +140,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

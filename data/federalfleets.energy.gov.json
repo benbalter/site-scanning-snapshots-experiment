@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "265d1860ec6be77799c7d79f62b8cb29",
   "accessibility_violations": "{\"contrast\":7}",
   "ipv6": true,
   "hostname": null,
@@ -53,7 +54,7 @@
     "id": "G-CSLL4ZEK4L",
     "l": "tadaAnalyticsDataLayer",
     "cx": "c",
-    "gtm": "45He52d0v890100053za200"
+    "gtm": "45He52k0v890100053za200"
   },
   "dap_version": "",
   "ga_tag_id": "G-8PZ4ZDWX73,G-VEJ5DJ7LND,G-04VM8E7DNY,G-CSLL4ZEK4L",
@@ -70,7 +71,6 @@
     "https://script.crazyegg.com/pages/data-scripts/0020/4864/site/federalfleets.energy.gov.json",
     "https://script.crazyegg.com/pages/scripts/0020/4864.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -87,8 +87,8 @@
   "required_links_text": [
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Fleet Sustainability Dashboard",
   "description": null,
   "keywords": null,
@@ -116,7 +116,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

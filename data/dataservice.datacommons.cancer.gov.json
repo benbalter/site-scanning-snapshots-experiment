@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "2341f0c796e97fc92a4278db8a4699f3",
   "accessibility_violations": "{\"contrast\":7,\"keyboard-access\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,7 +48,7 @@
     "subagency": "NCI"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-JF9L1LPBFR,G-RE4t9kNz,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-JF9L1LPBFR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "accounts.google.com",
     "apis.google.com",
@@ -63,7 +64,7 @@
   "third_party_service_urls": [
     "https://accounts.google.com/_/IdpIFrameHttp/cspreport/fine-allowlist",
     "https://accounts.google.com/o/oauth2/iframerpc",
-    "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.5oZHy0SiJxw.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-Hry6DG-RE4t9kNz_t6hiwmwXOmA/cb=gapi.loaded_0",
+    "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.z-CF99wuLeU.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo8yJLmK2FeQzRT4hxPn9_NEJo9eCg/cb=gapi.loaded_0",
     "https://apis.google.com/js/api.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/ee53b835867e/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
@@ -81,8 +82,8 @@
     "https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYySUhiCXAA.woff",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrcVIT9d0c8.woff",
     "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s91626732116927",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s96033634460394",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s71920068215236",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s77890131591008",
     "https://raw.githubusercontent.com/CBIIT/bento-cds-static-content/prod/icons/navBarCartIcon.svg",
     "https://raw.githubusercontent.com/CBIIT/bento-cds-static-content/prod/landing/LeftSide.png",
     "https://raw.githubusercontent.com/CBIIT/bento-cds-static-content/prod/landing/RightSide.png",
@@ -94,7 +95,7 @@
     "https://raw.githubusercontent.com/CBIIT/bento-cds-static-content/prod/logo/crdc-logo.svg",
     "https://raw.githubusercontent.com/cbiit/datacommons-assets/main/bento/images/icons/png/footerlogo.png",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdpIFrameHttp.en_US.iK8UuqsNyV8.es5.O/am=gAE/d=1/rs=AOaEmlFummdASPZwJw9wJzD0hNqFfLvMeA/m=base"
+    "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdpIFrameHttp.en_US.r0rfNT2S9NA.es5.O/am=gAE/d=1/rs=AOaEmlH4cw237i1elzs3tKXeue9Dep_lAQ/m=base"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -113,8 +114,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "CDS",
   "description": null,
   "keywords": null,
@@ -142,7 +143,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 4796,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "472504ea5eec7dfb45c333ffd1af62c0",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

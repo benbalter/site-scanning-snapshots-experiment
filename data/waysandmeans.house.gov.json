@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "6bf9591a10bfeb7d433c166d4bad8308",
   "accessibility_violations": "{\"aria\":1,\"user-control-name\":1,\"contrast\":1,\"link-purpose\":6}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -59,7 +60,10 @@
     "https://pbs.twimg.com/profile_images/1697247796397785088/Vg58qAGk_normal.jpg"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov",
+    "waysandmeans.house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -69,8 +73,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Ways and Means – Congressional Website",
   "description": null,
   "keywords": null,
@@ -100,7 +104,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "a0eea064e4648e605eee0e2d8fd54f7a",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -48,7 +49,7 @@
     "dclink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-TFOicb4Q7SSZc0k,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.llnl.gov",
     "contenthub.llnl.gov",
@@ -97,8 +98,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Genomics Group",
   "description": null,
   "keywords": null,
@@ -126,7 +127,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 1356,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2023-09-08T16:58:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "a58e1d69c8c39c7df5a340585a3edfdf",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

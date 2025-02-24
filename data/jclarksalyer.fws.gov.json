@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "3e613c64e64acda0b193fb418e31b788",
   "accessibility_violations": "{\"user-control-name\":1}",
   "ipv6": true,
   "hostname": null,
@@ -47,8 +48,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1d.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,6 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1d.akstat.io/",
     "https://a.tile.openstreetmap.org/9/111/177.png",
     "https://a.tile.openstreetmap.org/9/112/176.png",
     "https://a.tile.openstreetmap.org/9/113/175.png",
@@ -68,6 +72,7 @@
     "https://b.tile.openstreetmap.org/9/112/177.png",
     "https://b.tile.openstreetmap.org/9/113/176.png",
     "https://b.tile.openstreetmap.org/9/114/175.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/9/111/176.png",
     "https://c.tile.openstreetmap.org/9/112/175.png",
     "https://c.tile.openstreetmap.org/9/113/177.png",
@@ -92,10 +97,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -112,8 +116,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "J. Clark Salyer National Wildlife Refuge | U.S. Fish & Wildlife Service",
   "description": "J. Clark Salyer National Wildlife Refuge was established in 1935. The Refuge lies in the lake bed of glacial Lake Souris, once home to the Arikara, Assiniboine, Cheyenne, Hidatsa, Lakota, and Mandan Tribes of American Indians. Retreating glaciers created the rolling hills and temporary wetlands of today's landscape. Most of the Refuge is composed of river valley wetland habitat bordered by a narrow strip of upland vegetation. The southern portion of the Refuge includes wooded river bottomlands, floodplain meadows, and native prairie sandhills. The sandhills are remnants of wind-and-wave borne deposits on the ancient lakeshore. The land cover types found here - mixed grass prairie, river valley, marshes, sandhills, and woodlands - come together to support an abundant variety of wildlife. The primary purpose of the Refuge is to provide habitat for waterfowl, migratory birds, and other wildlife. The Refuge is one of over 565 refuges and 38 wetland management districts in the National Wildlife Refuge System - a network of lands set aside and managed by the U.S. Fish and Wildlife Service specifically for wildlife.",
   "keywords": null,
@@ -141,7 +145,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

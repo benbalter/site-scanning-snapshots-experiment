@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "08fff297776846d2a042460868f9d3e1",
   "accessibility_violations": "{\"contrast\":7,\"link-purpose\":3,\"lists\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -74,13 +75,13 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
+    "https://js-agent.newrelic.com/nr-spa-1.283.2.min.js",
     "https://s7.addthis.com/js/300/addthis_widget.js",
     "https://www.googleapis.com/calendar/v3/calendars/eni.g.njoku@jpl.nasa.gov/events",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -91,8 +92,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "SMAP",
   "description": "SMAP, or Soil Moisture Active Passive, is an Earth satellite mission that measures and maps Earth's soil moisture and freeze/thaw state to better understand terrestrial water, carbon and energy cycles.",
   "keywords": "JPL",
@@ -123,7 +124,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 579,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "5796d08b41b798ba0d7b5a0149cff63b",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

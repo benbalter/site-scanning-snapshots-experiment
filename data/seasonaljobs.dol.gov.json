@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "348a1c1322a05f728a9270f81ffbdad4",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "azure.com",
@@ -65,7 +66,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -79,8 +80,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Homepage | SeasonalJobs.dol.gov",
   "description": "Homepage",
   "keywords": null,
@@ -110,14 +111,15 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 345618,
   "sitemap_xml_count": 1005,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "a87fde0cdc05d86b38851ae509ec0712",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
-    "usa-alert",
     "usa-banner",
     "usa-banner-header",
     "usa-button",

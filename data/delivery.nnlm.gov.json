@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "d810ba04ffb3a13d8ecb87f2c2c8c6eb",
   "accessibility_violations": "{\"contrast\":6,\"language\":1,\"link-purpose\":3}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,22 +48,18 @@
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "code.jquery.com",
-    "nnlm.gov",
     "stackpath.bootstrapcdn.com",
-    "use.fontawesome.com",
-    "www.nnlm.gov"
+    "use.fontawesome.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js",
     "https://code.jquery.com/jquery-3.4.1.min.js",
-    "https://nnlm.gov/sites/default/files/favicon.ico",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
     "https://use.fontawesome.com/releases/v5.7.2/css/all.css",
-    "https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.woff2",
-    "https://www.nnlm.gov/sites/default/files/favicon.ico"
+    "https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.woff2"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".delivery.nnlm.gov"
   ],
@@ -73,8 +70,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NNLM | NNLM Delivery",
   "description": "",
   "keywords": "",
@@ -102,7 +99,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

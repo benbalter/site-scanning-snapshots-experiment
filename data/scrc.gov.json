@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "bfe24931fd1cba49a103bce3ddb39321",
   "accessibility_violations": "{\"aria\":2,\"contrast\":5,\"images\":4,\"link-purpose\":5}",
   "ipv6": true,
   "hostname": null,
@@ -43,7 +44,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-P0D0BHNFW9,G-uCF9Ocg0plDnmbf,G-VQDIaRHqvVQE55x,G-6fYBC5nB,G-KNLtCiTfXLezoIq",
+  "ga_tag_id": "G-P0D0BHNFW9,G-k0WepTuQacFxutf,G-g7qfX3Tb8C5HETi",
   "third_party_service_domains": [
     "api.userway.org",
     "cdn.userway.org",
@@ -91,8 +92,8 @@
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -105,8 +106,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | Southeast Crescent Regional Commission",
   "description": null,
   "keywords": null,
@@ -134,7 +135,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 1441,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2024-11-25T20:23:33.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "aa54b3b208e7c4f66c8fe40bbb1e4405",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

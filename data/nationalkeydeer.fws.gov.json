@@ -28,11 +28,12 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "645d0bc67befd4b8a6ff5789621e4175",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -47,8 +48,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c18.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,6 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c18.akstat.io/",
     "https://a.tile.openstreetmap.org/11/559/878.png",
     "https://a.tile.openstreetmap.org/11/560/877.png",
     "https://a.tile.openstreetmap.org/11/561/879.png",
@@ -68,6 +72,7 @@
     "https://b.tile.openstreetmap.org/11/560/878.png",
     "https://b.tile.openstreetmap.org/11/561/877.png",
     "https://b.tile.openstreetmap.org/11/562/879.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/11/559/877.png",
     "https://c.tile.openstreetmap.org/11/560/879.png",
     "https://c.tile.openstreetmap.org/11/561/878.png",
@@ -93,10 +98,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -113,8 +117,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "National Key Deer Refuge | U.S. Fish & Wildlife Service",
   "description": "The National Key Deer Refuge was established in 1957 to protect and preserve the national interest in Key deer and other wildlife resources in the Florida Keys. The Refuge is located in the Lower Florida Keys, a hundred mile stretch of islands that extends south and west from south Florida. Habitats in the refuge consist of pine rockland forests, tropical hardwood hammocks, freshwater wetlands, salt marsh wetlands, and mangrove forests. National Key Deer Refuge is home to more than 20 endangered and threatened plant and animal species. The endangered Key deer are the smallest subspecies of white-tailed deer that are found throughout much of North America. Key deer are unique to the lower Florida Keys, they are found nowhere else in the world.",
   "keywords": null,
@@ -142,7 +146,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

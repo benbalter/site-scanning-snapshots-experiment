@@ -21,6 +21,7 @@
     "dap",
     "pulse",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": null,
@@ -30,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "de3091b5e680164d66ae932f0635c718",
   "accessibility_violations": "{\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -77,8 +79,7 @@
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-solid-900.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -97,8 +98,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "| Permitting Dashboard",
   "description": null,
   "keywords": null,
@@ -124,9 +125,11 @@
   "sitemap_xml_url": "https://cms.permits.performance.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 101826,
+  "sitemap_xml_filesize": 101825,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-01-07T20:05:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "4de4833f275df17cf2043d61abb75070",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

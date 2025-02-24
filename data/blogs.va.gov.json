@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "3de3d299e72ee6052019a3a6d629ae02",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -72,11 +73,12 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
-    ".va.gov"
+    ".va.gov",
+    "news.va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -95,15 +97,15 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "VA News and Information",
   "description": "Get the latest news and information about the Department of Veterans Affairs. From the latest on benefits to podcasts highlighting the lives of Veterans.",
   "keywords": null,
   "og_title": "VA News and Information",
   "og_description": "Get the latest news and information about the Department of Veterans Affairs. From the latest on benefits to podcasts highlighting the lives of Veterans.",
   "og_article_published": "2023-12-21T16:18:24.000Z",
-  "og_article_modified": "2024-10-08T15:09:09.000Z",
+  "og_article_modified": "2025-02-17T22:06:28.000Z",
   "og_image": "https://news.va.gov/wp-content/uploads/sites/3/2022/07/bio-placeholder-e1655911556161.png",
   "og_type": "website",
   "og_url": "https://news.va.gov/",
@@ -124,7 +126,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

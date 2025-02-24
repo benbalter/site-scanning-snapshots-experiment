@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "7b8ac5350f225aab4bdf8992dc153165",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -42,11 +43,10 @@
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
-    "agency": "OFAC",
-    "dapdev": "true"
+    "agency": "OFAC"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-150367407-1,G-9TNNMGP8WJ,G-31J8ZRZBT9",
+  "ga_tag_id": "UA-150367407-1,G-CSLL4ZEK4L,G-31J8ZRZBT9",
   "third_party_service_domains": [
     "cdn.datatables.net",
     "cdnjs.cloudflare.com",
@@ -81,7 +81,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -93,8 +93,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "OFAC - Application - Welcome",
   "description": null,
   "keywords": null,
@@ -122,7 +122,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

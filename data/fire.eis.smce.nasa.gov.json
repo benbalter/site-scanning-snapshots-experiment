@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "4aa25ee5f3ee380caf78563cca38150e",
   "accessibility_violations": "{\"contrast\":6,\"frames-iframes\":2,\"images\":4,\"link-purpose\":1,\"lists\":1}",
   "ipv6": false,
   "hostname": "cloudfront.net",
@@ -172,16 +173,14 @@
     "https://www.arcgis.com/sharing/rest/content/items/f741632cf26941199efc4bd0339172e0/data"
   ],
   "third_party_service_count": 10,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Earth Information System | Fire",
   "description": "",
   "keywords": "",
@@ -209,7 +208,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

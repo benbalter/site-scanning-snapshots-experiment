@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "90868624e71b0910e458274e3cfeff69",
   "accessibility_violations": "{\"contrast\":3}",
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -69,7 +70,9 @@
     "https://use.fontawesome.com/releases/v5.1.0/css/all.css"
   ],
   "third_party_service_count": 7,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cdc.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -78,8 +81,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "CDC - PRISM",
   "description": null,
   "keywords": null,
@@ -107,7 +110,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 85485,
   "sitemap_xml_count": 273,
+  "sitemap_xml_lastmod": "2025-02-11T02:41:47.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "6e6cc127d1ce3a4b84b82bb51d7b1f4b",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

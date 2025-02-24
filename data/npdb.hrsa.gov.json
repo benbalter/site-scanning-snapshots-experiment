@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "1d194b2055204028cc24a573f84e0d81",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -71,7 +72,7 @@
     "https://www.npdb.hrsa.gov/piwik.js",
     "https://www.npdb.hrsa.gov/piwik.php",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -95,8 +96,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The NPDB - Home Page",
   "description": "The NPDB is a confidential information clearinghouse created by Congress to improve health care quality, protect the public, and reduce health care fraud and abuse in the U.S.",
   "keywords": "NPDB, Data Bank, practitioner, Data Bank News, National Practitioner Data Bank, health, query, report, self-query, statement, Guidebook, Department of Health and Human Services, National Data Bank",
@@ -126,7 +127,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 168422,
   "sitemap_xml_count": 840,
+  "sitemap_xml_lastmod": "2024-10-02T16:42:23.000Z",
   "sitemap_xml_pdf_count": 73,
+  "sitemap_xml_page_hash": "5c04092f45becd7e2630f06a7e865d58",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

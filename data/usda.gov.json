@@ -36,9 +36,10 @@
   "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "502f93b2e01485aa1bdee4c1ef15f9f2",
   "accessibility_violations": "{\"images\":25,\"link-purpose\":5}",
   "ipv6": false,
   "hostname": null,
@@ -57,20 +58,25 @@
     "enhlink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-93344103-7,G-JV4BH8QMXZ",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/j/collect",
+    "https://www.google-analytics.com/plugins/ua/linkid.js",
     "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".usda.gov"
   ],
@@ -94,8 +100,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home",
   "description": null,
   "keywords": null,
@@ -121,9 +127,11 @@
   "sitemap_xml_url": "https://www.usda.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 3684,
+  "sitemap_xml_filesize": 3533,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-22T14:00:01.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "5417d975248fd5164363a06344f7975c",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
@@ -180,11 +188,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 50,
-  "uswds_string": 34,
+  "uswds_string": 36,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 164,
+  "uswds_count": 166,
   "www_url": "https://www.usda.gov",
   "www_status_code": 200,
   "www_title": "Home"

@@ -34,9 +34,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "97fef9b9381b0cfe179a2c3c62bdef37",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -67,7 +68,7 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -91,8 +92,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The public’s one account for government. | Login.gov",
   "description": "Use one account and password for secure, private access to participating government agencies.",
   "keywords": null,
@@ -122,7 +123,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 26493,
   "sitemap_xml_count": 204,
+  "sitemap_xml_lastmod": "2025-02-12T19:53:44.000Z",
   "sitemap_xml_pdf_count": 3,
+  "sitemap_xml_page_hash": "41453edb0d6de671b31d5dc9525f8d04",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

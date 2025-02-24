@@ -30,9 +30,10 @@
   "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "b7ca87679e36fa0e784ac725be536104",
   "accessibility_violations": "{\"language\":1,\"images\":2}",
   "ipv6": false,
   "hostname": null,
@@ -46,10 +47,10 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "1501209529shutdown.relay.webvpn."
+    "4154215899shutdown.relay.webvpn."
   ],
   "third_party_service_urls": [
-    "https://1501209529shutdown.relay.webvpn./nonexistent.js"
+    "https://4154215899shutdown.relay.webvpn./nonexistent.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -59,8 +60,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "TVA SSL VPN",
   "description": null,
   "keywords": null,
@@ -88,7 +89,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

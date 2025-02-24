@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "539c0b6ddad509df99914ccef89903a5",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -48,7 +49,6 @@
   "third_party_service_domains": [
     "images.syndetics.com",
     "lib.syndetics.com",
-    "m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us",
     "ocprodocprodnamgs.blob.core.usgovcloudapi.net",
     "plus.syndetics.com",
     "static.cloudflareinsights.com",
@@ -58,7 +58,6 @@
   "third_party_service_urls": [
     "https://images.syndetics.com/index.php",
     "https://lib.syndetics.com/index.php",
-    "https://m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us/livechatconnector/config/3c5ba7b1-02e5-40a0-b557-36edd7012632/cada0593-ab18-4059-9256-6d5f05cb8a91",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/scripts/LiveChatBootstrapper.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2public/styles/LiveChatWidgetFrame.css",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/react-dom.production.min.js",
@@ -74,7 +73,7 @@
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov",
     ".www.nihlibrary.nih.gov"
@@ -94,8 +93,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NIH LIBRARY | NIH Library",
   "description": null,
   "keywords": null,
@@ -123,7 +122,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

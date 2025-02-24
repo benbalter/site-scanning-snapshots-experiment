@@ -36,9 +36,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "3bcb6168b9a3ea93885e504f46b4b855",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -56,16 +57,15 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "6032860.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "data.bls.gov",
     "siteimproveanalytics.com",
     "www.dol.gov",
     "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.youtube.com",
+    "{account_id}.global.siteimproveanalytics.io"
   ],
   "third_party_service_urls": [
-    "https://6032860.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://data.bls.gov/javascripts/jquery-latest.js",
@@ -77,12 +77,12 @@
     "https://www.dol.gov/themes/opa_theme/img/logo-primary.svg",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://{account_id}.global.siteimproveanalytics.io/image.aspx"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".bls.gov",
-    "www.bls.gov"
+    ".bls.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -100,8 +100,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
   "description": "The Bureau of Labor Statistics is the principal fact-finding agency for the Federal Government in the broad field of labor economics and statistics.",
   "keywords": "",
@@ -129,7 +129,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

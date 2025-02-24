@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "7a961fd79f242890aa5d5181e13e419e",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -44,12 +45,9 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us",
     "ocprodocprodnamgs.blob.core.usgovcloudapi.net"
   ],
   "third_party_service_urls": [
-    "https://m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us/livechatconnector/config/3c5ba7b1-02e5-40a0-b557-36edd7012632/cada0593-ab18-4059-9256-6d5f05cb8a91",
-    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/WebChatControl/scripts/locale/1033.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/scripts/LiveChatBootstrapper.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2public/styles/LiveChatWidgetFrame.css",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/react-dom.production.min.js",
@@ -57,7 +55,7 @@
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/webchat.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/widget.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".nih.gov",
     "onesearch.nihlibrary.ors.nih.gov"
@@ -67,8 +65,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NIH Library Collection Search",
   "description": "Primo by Ex Libris",
   "keywords": "",
@@ -98,7 +96,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 422,
   "sitemap_xml_count": 1,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "1eddb7738a3fc4e38d6b16e38f9a72a3",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

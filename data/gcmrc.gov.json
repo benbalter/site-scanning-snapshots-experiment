@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "f21067d53a0a036540040e70c2b867f7",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -58,10 +59,12 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FH5X1PMV8C,UA-77708142-1,UA-108444827-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "cdn.app.cfigroup.com",
     "cdn.gov.cfigroup.com",
     "cdn.jsdelivr.net",
     "d9-wret.s3.us-west-2.amazonaws.com",
     "dap.digitalgov.gov",
+    "e.gov.cfigroup.com",
     "script.hotjar.com",
     "static.addtoany.com",
     "static.hotjar.com",
@@ -71,6 +74,8 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.app.cfigroup.com/webmon/s/UploadFile/2023/6/29/2560px-USGS_logo_green.png",
+    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/122.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/webmon.js",
     "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/Colorado_River_Grand_Canyon_Mike_Moran_USGS.jpg",
@@ -79,6 +84,8 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/info_block/public/thumbnails/image/View2.JPG",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/info_block/public/thumbnails/image/big-bend-natl-park-lidar-dave-dean.JPG",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://e.gov.cfigroup.com/wmon",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.addtoany.com/menu/modules/core.junnp81e.js",
     "https://static.addtoany.com/menu/page.js",
@@ -91,9 +98,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".usgs.gov"
   ],
@@ -113,8 +120,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Grand Canyon Monitoring and Research Center, River Ecosystems Science and Lake Powell Research | U.S. Geological Survey",
   "description": "The Southwest Biological Science Center measures effects of Glen Canyon Dam operations on downstream Colorado River resources. We also work to understand river ecosystems in the southwest U.S. and conduct research on Lake Powell in partnership with the U.S. Bureau of Reclamation and National Park Service Glen Canyon National Recreation Area.",
   "keywords": "GCMRC,Colorado River,Grand Canyon",
@@ -142,7 +149,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

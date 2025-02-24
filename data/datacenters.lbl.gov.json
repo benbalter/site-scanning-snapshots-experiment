@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "dc715f2e63feac4e24069e838bb93ee0",
   "accessibility_violations": "{\"images\":10}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -44,7 +45,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-WSMQZELZ8L,G-XxILgLmFDA1SDOx,G-yRq3AtzpMAPb6oB,G-6ir3PbvoJ,G-9ZIuisYyTdpmgkC,G-qukEENyoNJ87WVM,G-ivosp3ejgxWrjkL",
+  "ga_tag_id": "G-WSMQZELZ8L,G-RldvzdtoSlWcZ3X,G-3FR53RCZPdpXzto,G-sGFR,G-Z9TKemvMRvTnlkL,G-rc09a5vKNumYyAY",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "fonts.googleapis.com",
@@ -77,12 +78,11 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
-    "https://www.gstatic.com/recaptcha/api2/canonical_car.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -94,8 +94,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | Center of Expertise for Energy Efficiency in Data Centers",
   "description": null,
   "keywords": null,
@@ -123,7 +123,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 13298,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-14T22:45:49.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "88b2f2b4d6619319cc06b3302ee624d7",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -21,6 +21,7 @@
     "dap",
     "omb_idea",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -30,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "4ffa15991b7ecd988b4e0a2d5f89da65",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -54,7 +56,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s67317414112037",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s71692997771814",
     "https://www.cdc.gov/JScript/metrics/adobe/analytics_cdcgov.js",
     "https://www.cdc.gov/JScript/metrics/google/Universal-Federated-Analytics-Min.js",
     "https://www.cdc.gov/JScript/metrics/topic_levels.js",
@@ -81,6 +83,7 @@
     "https://www.cdc.gov/TemplatePackage/contrib/libs/bootstrap/5x/bootstrap.bundle.min.js",
     "https://www.cdc.gov/TemplatePackage/contrib/libs/dompurify/latest/purify.min.js",
     "https://www.cdc.gov/TemplatePackage/contrib/libs/jquery/latest/jquery.js",
+    "https://www.cdc.gov/TemplatePackage/contrib/libs/qrcodejs/latest/qrcode.min.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
@@ -99,8 +102,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Surveillance Case Definitions for Current and Historical Conditions",
   "description": "A surveillance case definition is a set of uniform criteria used to define a disease for public health surveillance in order to classify and count cases.",
   "keywords": "National Notifiable Diseases Surveillance System, NNDSS, case surveillance, surveillance strategy, informatics, surveillance case definitions, data modernization",
@@ -128,7 +131,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 165777,
   "sitemap_xml_count": 916,
+  "sitemap_xml_lastmod": "2025-02-07T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "8cba50ebdc92853da97588557931a2cd",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

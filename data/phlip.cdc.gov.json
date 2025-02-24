@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "1a119d1b99ee1e4075e4624bf5960859",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -56,7 +57,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s63995960685581",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s76274354956077",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/icon",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
@@ -75,8 +76,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "PHLIP - Login",
   "description": null,
   "keywords": null,
@@ -104,7 +105,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 1441,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "d5fa5fc92c95ada5ed2387bc919ba768",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

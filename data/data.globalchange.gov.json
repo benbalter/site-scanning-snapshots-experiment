@@ -21,6 +21,7 @@
     "pulse",
     "2020_eot",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": null,
@@ -30,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "28ae0c837df8e7f2e2d9dc2cb4b2aa64",
   "accessibility_violations": "{\"form-names\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -72,8 +74,8 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdpIFrameHttp.en_US.iK8UuqsNyV8.es5.O/am=gAE/d=1/rs=AOaEmlFummdASPZwJw9wJzD0hNqFfLvMeA/m=base",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdpIFrameHttp.en_US.r0rfNT2S9NA.es5.O/am=gAE/d=1/rs=AOaEmlH4cw237i1elzs3tKXeue9Dep_lAQ/m=base",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -87,8 +89,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Global Change Information System",
   "description": "The Global Change Information System (GCIS); a product of the U.S. Global Change Research Program (USGCRP); is an open-source, web-based resource designed for use by scientists",
   "keywords": null,
@@ -116,7 +118,9 @@
   "sitemap_xml_media_type": "text/plain",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

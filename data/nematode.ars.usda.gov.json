@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": true,
   "source_list": [
     "dap",
     "omb_idea",
@@ -27,12 +27,13 @@
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "96737a83d70aa6ca8d67e91e954edb13",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -50,16 +51,14 @@
   "ga_tag_id": "G-ND298XG1VM,G-CSLL4ZEK4L,G-P4TN05P5XP",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com",
-    "www.nal.usda.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.nal.usda.gov/csp-collector/index.php"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".usda.gov"
   ],
@@ -75,8 +74,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Search the Collection | Nematode Collection Database",
   "description": null,
   "keywords": null,
@@ -106,7 +105,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 1166,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "f0e9a04547f1a391067bdaf9f60e0c99",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -19,6 +19,7 @@
   "404_test": false,
   "source_list": [
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": null,
@@ -28,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "c397a2f4b518401879305b35d53fc83b",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -44,6 +46,7 @@
   "dap_version": "",
   "ga_tag_id": "G-8XG38W3PE4",
   "third_party_service_domains": [
+    "aspr.hhs.gov",
     "ka-f.fontawesome.com",
     "kit.fontawesome.com",
     "www.googletagmanager.com",
@@ -51,6 +54,7 @@
     "www.phe.gov"
   ],
   "third_party_service_urls": [
+    "https://aspr.hhs.gov/Pages/Home.aspx",
     "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-font-face.min.css",
     "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-shims.min.css",
     "https://ka-f.fontawesome.com/releases/v5.15.4/css/free.min.css",
@@ -59,7 +63,7 @@
     "https://www.hhs.gov/utilities/cbh/images/logo.png",
     "https://www.phe.gov/Style%20Library/phe.hhs.gov/Images/PHEgovLogo.png"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".hhs.gov"
   ],
@@ -74,8 +78,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "HHS emPOWER Program",
   "description": null,
   "keywords": null,
@@ -103,9 +107,11 @@
   "sitemap_xml_url": "https://empowerprogram.hhs.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 10963,
+  "sitemap_xml_filesize": 10796,
   "sitemap_xml_count": 1,
-  "sitemap_xml_pdf_count": 25,
+  "sitemap_xml_lastmod": "2025-01-10T12:10:53.000Z",
+  "sitemap_xml_pdf_count": 24,
+  "sitemap_xml_page_hash": "d53e2a5abe5d2732e109ceca374675bf",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

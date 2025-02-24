@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "018183d2c4356f186ae7c1f5da4ce704",
   "accessibility_violations": "{\"contrast\":16,\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -43,17 +44,25 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-SAWowxIfvOqkImq",
   "third_party_service_domains": [
-    "cdnjs.cloudflare.com"
+    "cdnjs.cloudflare.com",
+    "lh7-rt.googleusercontent.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdpFvJf3bJlQIpuSZiHn7pcsx5SXi5NEca3CIublYz2Nk0Cpto-OrfK-gBzla_Fwj3ZIOQxWgVmqEqi9YgN_Lbuac9X1_jrbHq9Vg7rSt28ORo6FXks4pnadkCvACz1NTXsPZr2Z57-1ecwAqn1",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXefYF3FfomC5mTD4LTsXAfETuna1Su_nv3Mej88fpHcwhOzge106B9iQhfBkS2iFhqmxBJ0NKIEIHUDGj9HRI_M1UnfwSuXYXEeF_z11Qq0BzASThpfVNIzSu61qrP-2tn-aD_pkZJgCY7vQ218",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9I72SNRVqJKM7StxcIji5X9slAOap8vFsvGCxIwm3HkT3pAyqA2MW8LvUZpUWbQTjN6ePIQWfRbW-W8GHm2q5biig3zxoe8pwKRAckv9E880Mbxcjj-M3oVOY0r6DouL85ts70lkUqVzrSCuR",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjCTZMv1B9Mtg4yzSUck0sq76foFEPbDkonbhRoKDLMFAYcJ0dVKbfNVXcnOKzbMetTCsgnjrZIqnnbe3gz48YiSjGCXeCBC2S8-D5SnXWew7l6DQlbVQHIWDz1nm9_jtUo6igDek4JNVHfrY",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfk5Wj-2KHyTKmPMAmshduz44T47iousXUnDluttaOIifQ3L3afk4mauJqUKU822HZas9CaADtCpOuG6xjrpnVhk0AqYNw-Axaj3JIIGxDjBCl63XZ9SQsMn19-WEG-SAWowxIfvOqkImqoR8o",
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvMIcIO2mAHUGO6YxFNd4X6bEEIi6uB3p-ieIYp9cI_oimZUNmPEssYwIZnasK0I_GyfFikEaifPopGwBGg9yKJ53GQj0f5qucGebxptVctHU9ToYuAKO_dcH6_g15ujkKyz_WQu9LTOHM7XlQ"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
+    ".lbl.gov",
     "zoneplate.lbl.gov"
   ],
   "viewport_meta_tag": false,
@@ -63,8 +72,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": false,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The MET Facilities @ Berkeley",
   "description": null,
   "keywords": null,
@@ -92,7 +101,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

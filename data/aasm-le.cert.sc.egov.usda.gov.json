@@ -27,9 +27,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "f63f643d81dbe51a1c3f943c3c7ff8d2",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -43,13 +44,18 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "browser-intake-ddog-gov.com",
     "nocapi.api.cert.eauth.usda.gov"
   ],
   "third_party_service_urls": [
+    "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://nocapi.api.cert.eauth.usda.gov/iab/enterprise/cms/appMessage/login"
   ],
-  "third_party_service_count": 1,
-  "cookie_domains": null,
+  "third_party_service_count": 2,
+  "cookie_domains": [
+    ".usda.gov",
+    "www.cert.eauth.usda.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy",
@@ -60,8 +66,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "eAuthentication",
   "description": null,
   "keywords": null,
@@ -89,7 +95,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

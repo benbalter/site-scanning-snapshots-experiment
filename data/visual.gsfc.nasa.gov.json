@@ -31,10 +31,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"aria\":11,\"user-control-name\":1,\"contrast\":6,\"language\":1,\"images\":6,\"link-purpose\":3}",
+  "page_hash": "3e9afef852b4f74b4b9c19fac8676c29",
+  "accessibility_violations": "{\"aria\":12,\"user-control-name\":1,\"contrast\":6,\"language\":1,\"images\":6,\"link-purpose\":3}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -61,7 +62,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg",
+    "https://apod.nasa.gov/apod/image/2502/M31_HubbleMosaicCrop.jpg",
     "https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css",
     "https://cdn.jsdelivr.net/npm/@mdi/font@latest/fonts/materialdesignicons-webfont.woff2",
     "https://cse.google.com/cse.js",
@@ -89,8 +90,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Sciences and Exploration Directorate",
   "description": "Sciences & Exploration Directorate",
   "keywords": "science, NASA, Goddard, GSFC, Goddard Space Flight Center, earth science, earth sciences, astrophysics, heliophysics, solar system, Earth and Space, Science Research, stars, universe, activities, education, lunar, moon, solar, sun, planets, planetary, Code 600, SED, Sciences and Exploration Directorate",
@@ -118,7 +119,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

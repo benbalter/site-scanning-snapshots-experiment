@@ -33,9 +33,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "b194e62e3a8c16f21505450ed33509ea",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -95,7 +96,7 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -121,8 +122,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "PTSD: National Center for PTSD Home",
   "description": "Posttraumatic Stress Disorder (PTSD) is a mental health problem that can occur after a traumatic event like war, assault, or disaster. PTSD treatment can help. Find handouts, apps, videos, and courses based on current research. This site provides educational resources for Veterans and also for health care providers, researchers, and the general public.",
   "keywords": "PTSD, postraumatic stress disorder, trauma, national center for PTSD, mental health",
@@ -150,7 +151,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 283359,
   "sitemap_xml_count": 1288,
+  "sitemap_xml_lastmod": "2025-01-30T17:03:53.000Z",
   "sitemap_xml_pdf_count": 386,
+  "sitemap_xml_page_hash": "29fcf093dac826643289467fee5c7144",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "3ae84b169a79986e67922a50c03e9e4b",
   "accessibility_violations": "{\"contrast\":3}",
   "ipv6": false,
   "hostname": null,
@@ -50,9 +51,7 @@
     "https://raw.githubusercontent.com/dalg24/cap-notebooks/master/CEES-logo.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".ornl.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"
@@ -60,8 +59,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Cloud Computing for Energy Science",
   "description": "An amazing website.",
   "keywords": null,
@@ -91,7 +90,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 311,
   "sitemap_xml_count": 1,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "61d58b51ffd70ae9e53f3a888180ed6d",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

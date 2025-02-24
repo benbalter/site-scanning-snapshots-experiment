@@ -31,10 +31,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"aria\":7,\"form-names\":1}",
+  "page_hash": "c309ce5038153ff71ed4269f66a3aa85",
+  "accessibility_violations": "{\"aria\":6,\"form-names\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -59,7 +60,6 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "use.fontawesome.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -76,13 +76,11 @@
     "https://use.fontawesome.com/releases/v5.1.0/css/all.css",
     "https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff2",
     "https://use.fontawesome.com/releases/v5.13.0/css/all.css",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -94,8 +92,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | MCST",
   "description": null,
   "keywords": null,
@@ -123,7 +121,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 320934,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-22T10:12:34.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "fee996ed04e607c93dc31e563963ef0e",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "e5072598eec59f6f8229ea51ca359e72",
   "accessibility_violations": "{\"contrast\":1,\"language\":1,\"link-purpose\":7,\"lists\":1}",
   "ipv6": true,
   "hostname": null,
@@ -79,7 +80,7 @@
     "https://www.google.com/cse/static/style/look/v4/default.css",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -94,8 +95,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "LAMBDA - Legacy Archive for Microwave Background Data Analysis",
   "description": "Legacy Archive for Microwave Background Data Analysis",
   "keywords": "CMB,Cosmology,NASA",
@@ -123,7 +124,9 @@
   "sitemap_xml_media_type": "unknown",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

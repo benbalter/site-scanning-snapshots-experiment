@@ -35,6 +35,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "e6bd83954412ee4bf6280205d7f7d355",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2,\"link-purpose\":7}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -71,13 +72,13 @@
     "https://media.defense.gov/2025/Feb/12/2003645965/150/150/0/250212-Z-A3554-1001.JPG",
     "https://media.defense.gov/2025/Feb/14/2003647111/150/150/0/240213-Z-SM601-1001.JPG",
     "https://media.defense.gov/2025/Feb/14/2003647388/150/150/0/250214-Z-A3554-1024.JPG",
+    "https://media.defense.gov/2025/Feb/19/2003648482/150/150/0/250218-Z-A3554-1001.JPG",
     "https://media.defense.gov/2025/Jan/21/2003630749/1310/736/0/250116-Z-A3554-1001.JPG",
     "https://media.defense.gov/2025/Jan/21/2003630749/150/150/0/250116-Z-A3554-1001.JPG",
     "https://media.defense.gov/2025/Jan/22/2003631063/1310/736/0/250113-Z-A3554-1001.JPG",
     "https://media.defense.gov/2025/Jan/23/2003631816/150/150/0/250123-Z-A3554-1001.JPG",
     "https://media.defense.gov/2025/Jan/24/2003632310/1310/736/0/240114-Z-SM601-1005.JPG",
     "https://media.defense.gov/2025/Jan/24/2003632310/150/150/0/240114-Z-SM601-1005.JPG",
-    "https://media.defense.gov/2025/Jan/24/2003632314/150/150/0/241212-Z-SM601-1010.JPG",
     "https://media.defense.gov/2025/Jan/24/2003632451/1310/736/0/250119-A-JL021-1034.JPG",
     "https://media.defense.gov/2025/Jan/24/2003632451/150/150/0/250119-A-JL021-1034.JPG",
     "https://search.usa.gov/assets/sayt.css",
@@ -86,11 +87,13 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".ng.mil"
+    ".ng.mil",
+    ".va.ng.mil",
+    "va.ng.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -140,7 +143,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 20,
   "uswds_publicsans_font": 0,

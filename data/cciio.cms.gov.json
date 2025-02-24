@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "d36d2daa6cfb170fd1d311ceed23eb2f",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -45,22 +46,33 @@
     "subagency": "CMS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-4As0Vrpa8kiqSw,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
+    "gov1.siteintercept.qualtrics.com",
     "ping.chartbeat.net",
     "static.chartbeat.com",
     "tags.tiqcdn.com",
     "tealium-tags.cms.gov",
     "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.youtube.com",
+    "zn4gdyqqnaoifyulj-cmsmacfedramp.gov1.siteintercept.qualtrics.com",
+    "zn77ecfujq2tt2srz-medicare.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://adobe-ep.cms.gov/ee/v1/interact",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.a19d6d6776cbe9c08765.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.fb3fc924abe1ef0a6381.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b5c685f4bdd8000ec3a6.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://ping.chartbeat.net/ping",
     "https://static.chartbeat.com/js/chartbeat.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-www/prod/utag.10.js",
@@ -72,11 +84,14 @@
     "https://tealium-tags.cms.gov/cms-www/prod/utag.sync.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js",
+    "https://zn4gdyqqnaoifyulj-cmsmacfedramp.gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+    "https://zn77ecfujq2tt2srz-medicare.gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".cms.gov"
+    ".cms.gov",
+    "www.cms.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -97,8 +112,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Consumer Information and Insurance Oversight | CMS",
   "description": "Ensuring the Affordable Care Act Serves the American People The Center for Consumer Information and Insurance Oversight (CCIIO) is charged with helping implement many reforms of the Affordable Care Act, the historic health reform bill that was signed into law March 23, 2010. CCIIO oversees the implementation of the provisions related to private health insurance. In particular, CCIIO is working with states to establish new Health Insurance Marketplaces.",
   "keywords": null,
@@ -126,7 +141,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

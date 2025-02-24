@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "042782241e6b9e98967f104c69611656",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -41,17 +42,34 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "USPTO",
+    "yt": "true"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-NVTXSCVJRT,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "instana-eum-prod.uspto.gov"
+    "components.uspto.gov",
+    "dap.digitalgov.gov",
+    "instana-eum-prod.uspto.gov",
+    "itw-components.etc.uspto.gov",
+    "www.googletagmanager.com",
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://instana-eum-prod.uspto.gov/eum/eum.min.js"
+    "https://components.uspto.gov/js/Uni-Fed-Min.js",
+    "https://components.uspto.gov/js/ais/66-tdscm.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://instana-eum-prod.uspto.gov/eum/eum.min.js",
+    "https://itw-components.etc.uspto.gov/json/dynamic-trans-menu-2.0.0.js",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".uspto.gov"
   ],
@@ -70,8 +88,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | Trademark Design Search Code Manual",
   "description": null,
   "keywords": null,
@@ -99,7 +117,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 12245,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "80f8c398a3384b98043ad4b721d2632f",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

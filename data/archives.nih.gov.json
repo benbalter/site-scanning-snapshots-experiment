@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "466fa19e2f4c8b185e1ef8a119e2fc18",
   "accessibility_violations": "{\"frames-iframes\":1,\"lists\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -48,7 +49,7 @@
     "subagency": "NIH"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-dMuwT",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -76,10 +77,10 @@
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/api/stats/qoe",
-    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/e7567ecf/www-player.css"
+    "https://www.youtube.com/s/player/c8dbda2a/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/c8dbda2a/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/c8dbda2a/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/c8dbda2a/www-player.css"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -93,8 +94,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NIH Archive Sites",
   "description": "",
   "keywords": null,
@@ -122,7 +123,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

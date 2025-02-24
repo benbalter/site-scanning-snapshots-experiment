@@ -34,6 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "6da2c8940136a6f8163915fd6cc26c66",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":3}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -74,22 +75,23 @@
     "https://media.defense.gov/2024/Aug/15/2003547832/680/385/0/240815-A-AB123-001.JPG",
     "https://media.defense.gov/2024/Jul/15/2003508703/740/740/0/240620-A-AB123-023.PNG",
     "https://media.defense.gov/2024/Nov/14/2003610821/680/385/0/241114-A-AB123-009.PNG",
-    "https://media.defense.gov/2025/Feb/03/2003636698/400/400/0/250203-O-D0202-1002.PNG",
     "https://media.defense.gov/2025/Feb/06/2003638433/400/400/0/250206-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Feb/06/2003638652/400/400/0/250206-O-D0202-1003.PNG",
     "https://media.defense.gov/2025/Feb/10/2003645773/680/385/0/250210-A-AB123-001.JPG",
     "https://media.defense.gov/2025/Feb/11/2003645321/400/400/0/250211-O-D0202-1001.PNG",
+    "https://media.defense.gov/2025/Feb/19/2003648724/400/400/0/241124-N-JS660-1453.PNG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".tricare.mil"
+    ".tricare.mil",
+    "twentynine-palms.tricare.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -139,7 +141,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 20,
   "uswds_publicsans_font": 0,

@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "57f07bbafc235fc801fc71e8565c8c38",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloud.gov",
@@ -45,11 +46,10 @@
     "subagency": "TTS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GXFTMLX26S,G-CSLL4ZEK4L,G-QPNLC8PEQ7",
+  "ga_tag_id": "G-GXFTMLX26S,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "51567.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
-    "gov1.siteintercept.qualtrics.com",
     "search.usa.gov",
     "siteimproveanalytics.com",
     "www.googletagmanager.com",
@@ -58,7 +58,6 @@
   "third_party_service_urls": [
     "https://51567.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.4df745ae706e9af28ee1.chunk.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -66,12 +65,12 @@
     "https://siteimproveanalytics.com/js/siteanalyze_51567.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://znbabnroqffo1d7xq-cemgsa.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".usa.gov",
+    ".www.usa.gov",
     "www.usa.gov"
   ],
   "viewport_meta_tag": true,
@@ -89,8 +88,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Education | USAGov",
   "description": "Learn about Federal Student Aid and studying in the U.S. Find early intervention, special education, and Head Start programs. Get help with child care costs.",
   "keywords": null,
@@ -118,7 +117,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

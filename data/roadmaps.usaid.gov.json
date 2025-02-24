@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "444c97e6029bd0c4437199f7360f649d",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -47,7 +48,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GMH13YHPVR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "17de4c12.akstat.io",
     "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -58,7 +59,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://17de4c12.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -68,8 +69,7 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://s.go-mpulse.net/boomerang/SZXDZ-QZMS9-XTJ58-GXYBA-KW483",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -78,8 +78,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Country Roadmaps | USAID",
   "description": "On this website you can access USAID's flagship analytical tool for assessing country development progress, the Country Roadmaps, and view and download a wide-range of supporting resources.",
   "keywords": null,
@@ -107,7 +107,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 2800,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "e95559406e6a73ae074906a1c55f52a1",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

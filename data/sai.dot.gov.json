@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "409bacf004c815f14d486eaeb85af481",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": false,
   "hostname": null,
@@ -47,6 +48,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".dot.gov",
     "sai.dot.gov"
   ],
   "viewport_meta_tag": false,
@@ -56,8 +58,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": false,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Service Agent Index (SAI) Database",
   "description": null,
   "keywords": null,
@@ -85,7 +87,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 2510,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "3e5dcdb1bc657262dcfabc9ca5bd29a8",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

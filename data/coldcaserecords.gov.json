@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "594b174c898a7d20b964dcdc06eb1ded",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -64,7 +65,8 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -85,8 +87,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | Civil Rights Cold Case Records Review Board",
   "description": "The Civil Rights Cold Case Records Review Board is a nonpartisan panel of private citizens, appointed by President Biden, who are working to release the contents of federal investigations into unresolved cold cases from the civil rights era. In making these records publicly available, the goal is to provide a measure of clarity to relatives of victims, and also provide a more comprehensive picture of a dark chapter in our nation’s history.",
   "keywords": null,
@@ -114,7 +116,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 4582,
   "sitemap_xml_count": 33,
+  "sitemap_xml_lastmod": "2025-02-03T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "6766a9b29f64b86eeaf0172d1c88e954",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

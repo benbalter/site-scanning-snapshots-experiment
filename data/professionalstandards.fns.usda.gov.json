@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "326d3800fcd447406d243851bc76a989",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -52,7 +53,7 @@
     "enhlink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-57962222-1,UA-32115092-1,G-CSLL4ZEK4L,UA-27627304-1,UA-96909960-1,G-VYRH7BQ1FL,G-MKM7D79XFX,G-NR455KN0QZ,G-WRQHQQ3WW5",
+  "ga_tag_id": "UA-57962222-1,UA-32115092-1,G-CSLL4ZEK4L,UA-27627304-1,UA-96909960-1,G-NR455KN0QZ,G-VYRH7BQ1FL,G-MKM7D79XFX,G-WRQHQQ3WW5",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.google-analytics.com",
@@ -67,7 +68,7 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -86,8 +87,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The Professional Standards Training Database | Professional Standards",
   "description": null,
   "keywords": null,
@@ -115,7 +116,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 127678,
   "sitemap_xml_count": 652,
+  "sitemap_xml_lastmod": "2025-01-14T14:54:25.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "66ad5d647eacc2505eb227191020d50d",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

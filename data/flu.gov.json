@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "c28caae5e6add89e21fe047c275e14ff",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -55,7 +56,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s78123816010505",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s87375493998424",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/gateway.min.js",
@@ -65,8 +66,7 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".cdc.gov",
-    ".www.cdc.gov"
+    ".cdc.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -87,8 +87,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Influenza (Flu) | Influenza (Flu) | CDC",
   "description": "Learn about flu, including symptoms, prevention methods, and treatment options.",
   "keywords": null,
@@ -116,7 +116,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

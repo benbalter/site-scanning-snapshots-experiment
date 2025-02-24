@@ -28,10 +28,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": "{\"aria\":1}",
+  "page_hash": "0f2b77e51e99ebdbd1d417323b8498b1",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -87,7 +88,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -111,8 +112,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Dax Hoffman Lab: Section on Neurophysiology | NICHD - Eunice Kennedy Shriver National Institute of Child Health and Human Development",
   "description": "The Hoffman group combines molecular, biochemical and electrophysiological approaches to investigate the roles of dendritic voltage-gated and neurotransmitter-activated channels in regulating neuronal development and synaptic plasticity in the mammalian hippocampus.  To achieve this, the lab comprises an interdisciplinary team with expertise in cellular and molecular biology, biochemistry, electrophysiology, fluorescence imaging and computer modeling. These approaches allow us to assay channel function and regulation at the molecular scale in living cells.",
   "keywords": null,
@@ -140,7 +141,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

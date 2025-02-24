@@ -28,11 +28,12 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "4dd36b752c89e8bda1dfbd68b07070db",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -47,8 +48,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c12.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,6 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c12.akstat.io/",
     "https://a.tile.openstreetmap.org/12/903/1506.png",
     "https://a.tile.openstreetmap.org/12/904/1505.png",
     "https://a.tile.openstreetmap.org/12/905/1507.png",
@@ -68,6 +72,7 @@
     "https://b.tile.openstreetmap.org/12/904/1506.png",
     "https://b.tile.openstreetmap.org/12/905/1505.png",
     "https://b.tile.openstreetmap.org/12/906/1507.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/12/903/1505.png",
     "https://c.tile.openstreetmap.org/12/904/1507.png",
     "https://c.tile.openstreetmap.org/12/905/1506.png",
@@ -91,10 +96,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -111,8 +115,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Fort Niobrara National Wildlife Refuge | U.S. Fish & Wildlife Service",
   "description": "Welcome to Fort Niobrara National Wildlife Refuge! Located just 5 miles east of Valentine NE on HWY 12. Come take a drive, hike or float through the refuge to take escape the daily grind and unwind with all the native plants and wildlife that the Refuge has to offer. While you are at the Refuge you have the potential to spot our herd of 350 bison, deer, coyotes, eagles, grassland birds, and the prairie wildflowers. The best part, it's free for daily use.",
   "keywords": null,
@@ -140,7 +144,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

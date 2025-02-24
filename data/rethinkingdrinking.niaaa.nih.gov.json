@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "c5ab85a339bff2911d51458f832f8202",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -51,15 +52,17 @@
   "ga_tag_id": "G-M0LXK47Q03,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "static.cloudflareinsights.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nih.gov",
     ".rethinkingdrinking.niaaa.nih.gov"
@@ -81,8 +84,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Rethinking Drinking | NIAAA",
   "description": null,
   "keywords": "Rethinking Drinking, alcohol and your health, drinking, alcohol, alcoholism, alcohol abuse, alcohol risks, risky drinking, alcohol problem, problem drinking, drinking problem, drinking pattern, standard drink, alcohol content, alcohol treatment, alcoholism help, alcoholism support, alcohol dependence, high risk drinking, niaaa",
@@ -112,7 +115,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 10690,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2024-08-21T13:06:12.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "b6ad145955ae9dd10f94ae662eab7602",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

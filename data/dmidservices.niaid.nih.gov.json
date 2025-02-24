@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://otp.nih.gov/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DpptmmService.user%26response_type%3Did_token%2520token%26scope%3Dopenid%2520otp.user.profile%26redirect_uri%3Dhttps%253A%252F%252FpttmsService.niaid.nih.gov%252Fhome%252FRedirectPTTMS%26state%3D_41unJSW_LXlLO0OXxqyNM1-jUi8h_lj9Vyqj-zZ0G0%26nonce%3DpHe3woZ1zTnOwMDDh82bC5ESvNhU6Kb8lrqqWgh66YE%26response_mode%3Dform_post",
+  "url": "https://otp.nih.gov/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DpptmmService.user%26response_type%3Did_token%2520token%26scope%3Dopenid%2520otp.user.profile%26redirect_uri%3Dhttps%253A%252F%252FpttmsService.niaid.nih.gov%252Fhome%252FRedirectPTTMS%26state%3Dv-fZB2SE8igjESVkG0soLGQmO2lsxOHevFril0cQs7s%26nonce%3DCTZA3j1_En19K-DCaF4FTfUgFtXqy4jEnHZAlU5T8EI%26response_mode%3Dform_post",
   "domain": "otp.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "5b1dc1cf82b64b4dce9ad57d51379f44",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -61,8 +62,8 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -77,8 +78,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "OTP - One Time Password System",
   "description": null,
   "keywords": null,
@@ -106,7 +107,9 @@
   "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

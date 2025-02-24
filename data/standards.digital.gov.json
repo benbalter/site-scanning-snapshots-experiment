@@ -19,6 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
+    "other",
     "final_url_websites",
     "cisa"
   ],
@@ -29,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "e95576331dab18dc3475857af5ee8ed8",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloud.gov",
@@ -59,8 +61,7 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -81,8 +82,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Federal website standards",
   "description": "Federal website standards help U.S. government agencies provide high-quality, consistent experiences for everyone. Standards focus on UX best practices.",
   "keywords": null,
@@ -112,7 +113,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 1873,
   "sitemap_xml_count": 15,
+  "sitemap_xml_lastmod": "2025-02-22T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "83e8f347ecb41c6307afa94ad2b4b4fc",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

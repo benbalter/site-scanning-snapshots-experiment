@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "f434990b1f90c19853bdc15e583fb83e",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -47,21 +48,14 @@
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "www.googletagmanager.com",
-    "www.oig.dot.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.oig.dot.gov/sites/default/files/inline-images/dot-icon-footer.png",
-    "https://www.oig.dot.gov/sites/default/files/inline-images/dotoig-icon-footer.png",
-    "https://www.oig.dot.gov/sites/default/files/styles/hero_banner_image/public/2023-12/Information%20Toolkit%20%283%29_Hero.jpg",
-    "https://www.oig.dot.gov/sites/default/files/styles/hero_banner_image/public/2023-12/hero2.png",
-    "https://www.oig.dot.gov/sites/default/files/styles/hero_banner_image/public/2024-08/Active%20Audits%20Image%20-%20Hero.png",
-    "https://www.oig.dot.gov/sites/default/files/styles/hero_banner_image/public/2024-11/2024B%20SAR%20Hero%20and%20Twitter%20Banner_Hero.png"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".dot.gov"
   ],
@@ -75,8 +69,8 @@
     "foia",
     "inspector general"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | DOT OIG",
   "description": null,
   "keywords": null,
@@ -104,7 +98,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

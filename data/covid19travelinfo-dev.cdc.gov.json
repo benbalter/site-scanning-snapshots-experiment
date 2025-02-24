@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "80327cc49fa9d4e05d5910483520d9b5",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -50,7 +51,6 @@
     "fonts.googleapis.com",
     "maxcdn.bootstrapcdn.com",
     "www.cdc.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -59,10 +59,9 @@
     "https://www.cdc.gov/JScript/metrics/adobe/analytics_cdcgov.js",
     "https://www.cdc.gov/JScript/metrics/google/Universal-Federated-Analytics-Min.js",
     "https://www.cdc.gov/JScript/metrics/topic_levels.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cdc.gov"
   ],
@@ -71,8 +70,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "COVID-19 Travel Planner",
   "description": "The COVID-19 Travel Planner helps inform the public about possible travel restrictions implemented by state, territorial, tribal, and local health authorities.",
   "keywords": null,
@@ -100,7 +99,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 282,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "805cbe06114824e04e671131690f10ac",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

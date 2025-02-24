@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "cf326eed267fed696a211ad5c1a54c6c",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -49,12 +50,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "ssl.google-analytics.com"
+    "ssl.google-analytics.com",
+    "static.cloudflareinsights.com"
   ],
   "third_party_service_urls": [
-    "https://ssl.google-analytics.com/ga.js"
+    "https://ssl.google-analytics.com/ga.js",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".hhs.gov",
     "das.hhs.gov"
@@ -64,8 +67,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "HHS Data Analytics System: Login",
   "description": "Visual Performance Suite is the next generation of software that has evolved from common scorecarding to much needed strategy execution management that bridges the gaps between strategic planning, activity based budgeting and strategy execution.",
   "keywords": null,
@@ -93,7 +96,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

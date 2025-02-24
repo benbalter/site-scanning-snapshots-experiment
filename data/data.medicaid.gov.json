@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "9f21d59b77e339cfe59176885a219664",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -42,33 +43,24 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "DHHS",
-    "subagency": "CMS"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "adobe-ep.medicaid.gov",
     "cdn1.adoberesources.net",
-    "dap.digitalgov.gov",
     "tags.tiqcdn.com",
-    "tealium-tags.medicaid.gov",
-    "www.googletagmanager.com"
+    "tealium-tags.medicaid.gov"
   ],
   "third_party_service_urls": [
     "https://adobe-ep.medicaid.gov/ee/v1/interact",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicaid-data/prod/utag.22.js",
-    "https://tags.tiqcdn.com/utag/cmsgov/medicaid-data/prod/utag.34.js",
     "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.js",
-    "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.sync.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.sync.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".medicaid.gov"
   ],
@@ -85,8 +77,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Data.Medicaid.gov",
   "description": "The official U.S. government website for Medicaid open data. Publicly available datasets for research and transparency.",
   "keywords": null,
@@ -112,9 +104,11 @@
   "sitemap_xml_url": "https://data.medicaid.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 105509,
+  "sitemap_xml_filesize": 105724,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "ef4e4e0671089b725e9360c17a24bc80",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

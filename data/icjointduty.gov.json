@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "917ca8aa21194220ba06f2303a8abadf",
   "accessibility_violations": "{\"contrast\":12}",
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -48,7 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-24149679-1,G-EGQ58JRN5M",
   "third_party_service_domains": [
-    "17de4c1e.akstat.io",
+    "17de4c1b.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
@@ -56,7 +57,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1e.akstat.io/",
+    "https://17de4c1b.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/KUXBP-WURQ2-KQSLH-EWHMN-QZ8WQ",
@@ -67,7 +68,8 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".dni.gov"
+    ".dni.gov",
+    "www.dni.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [
@@ -84,8 +86,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Joint Duty",
   "description": "Joomla! - the dynamic portal engine and content management system",
   "keywords": "joomla, Joomla",
@@ -113,7 +115,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

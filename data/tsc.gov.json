@@ -20,7 +20,6 @@
   "source_list": [
     "gov",
     "pulse",
-    "final_url_websites",
     "cisa"
   ],
   "public": null,
@@ -30,10 +29,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "accessibility_violations": "{\"contrast\":2,\"images\":3,\"lists\":1}",
+  "page_hash": "b2ee5ee9df052367e085304426245b5d",
+  "accessibility_violations": "{\"contrast\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -44,29 +44,19 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-dyttAyRbuz,G-17QvA1mpRXegJnl,G-wTLiJTG,G-g9FhJLe0YJET,G-6NwHqwbbupgh,G-bgK2b3YkC6Pdfwk,G-EeJKfcLNfHpvsvQ,G-Q6vzvkFCnb0tkgv,G-uw0Cw,G-M8ggPnJEHtKE2l",
-  "third_party_service_domains": [
-    "challenges.cloudflare.com"
-  ],
-  "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/91377aadbf922838/1739813153157/VV9T6P7VC_o_J5H",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/915720555:1739812424:Qdak2OibEFB98Bgcrlf4xIbN1nIBhTVorrDlKyAa1ms/91377aadbf922838/U6QD8h495RPbLvqvXWVi6weGfiPToLjdNvUyvAI6jXE-1739813152-1.1.1.1-6jj2O_XuQsyH95XHoqg6L6DRJw3B9fYQ4ntWZ1o6fBofmpkUhQv9KKRqNMmd_6e4",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/91377aadbf922838/1739813153160/58aafd2e43eb7b2a822536b07fc075dd3bac81b8263b759503d5b9b2a13d912c/alZ2OZwcstFoqaa",
-    "https://challenges.cloudflare.com/turnstile/v0/g/0e3e6804b971/api.js"
-  ],
-  "third_party_service_count": 1,
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
-    ".fbi.gov",
-    "www.fbi.gov"
+    ".fbi.gov"
   ],
-  "viewport_meta_tag": true,
+  "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
-  "title": "Just a moment...",
+  "https_enforced": null,
+  "hsts": null,
+  "title": "This site has determined a security issue with your request.",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -77,7 +67,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en-US",
+  "language": "en",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -93,7 +83,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -108,5 +100,5 @@
   "uswds_count": 0,
   "www_url": "https://www.fbi.gov/investigate/terrorism/tsc",
   "www_status_code": 403,
-  "www_title": "Just a moment..."
+  "www_title": "This site has determined a security issue with your request."
 }

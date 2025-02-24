@@ -31,10 +31,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "accessibility_violations": null,
+  "page_hash": "ba19ebfc73f3628e2adcb095a5f304a3",
+  "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -49,7 +50,7 @@
     "siteplatform": "CFCGiving"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-121650900-1,G-8WSBZ72GFG,G-gdLrNSbRTHOkRhQ",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-121650900-1,G-8WSBZ72GFG",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "docs.paymentjs.firstdata.com",
@@ -83,10 +84,10 @@
     "https://www.paypal.com/sdk/js",
     "https://www.paypal.com/xoplatform/logger/api/logger",
     "https://www.youtube.com/api/stats/qoe",
-    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/e7567ecf/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/e7567ecf/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/e7567ecf/www-player.css"
+    "https://www.youtube.com/s/player/c8dbda2a/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/c8dbda2a/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/c8dbda2a/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/c8dbda2a/www-player.css"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -107,8 +108,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "CFC Donor Pledging System",
   "description": null,
   "keywords": null,
@@ -136,7 +137,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 11403,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "f21cf20d66b1cb85bae47afd4a94924f",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

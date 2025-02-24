@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "ca263183a167a00680b239ea3d16948d",
   "accessibility_violations": "{\"contrast\":4,\"images\":1}",
   "ipv6": true,
   "hostname": null,
@@ -42,7 +43,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-KXL8L1LY7Z,G-O3eE8e6915Thjkr,G-mvdlAd5dt3hloe6",
+  "ga_tag_id": "G-KXL8L1LY7Z,G-vMpPQNxhYcg3sVg,G-Y7PcvFj",
   "third_party_service_domains": [
     "cdn.lbl.gov",
     "cdnjs.cloudflare.com",
@@ -85,8 +86,8 @@
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/IyZ984yGrXrBd6ihLOYGwy9X/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -101,8 +102,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Land-Based Wind Market Report | Energy Markets & Policy",
   "description": null,
   "keywords": null,
@@ -110,7 +111,7 @@
   "og_description": null,
   "og_article_published": null,
   "og_article_modified": null,
-  "og_image": null,
+  "og_image": "https://emp.lbl.gov/sites/default/files/styles/cta_xl/public/2024-08/2024%20LBWMR%20Cover.png?itok=Tyv9nOB9",
   "og_type": null,
   "og_url": null,
   "canonical_link": "https://emp.lbl.gov/wind-technologies-market-report",
@@ -130,7 +131,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

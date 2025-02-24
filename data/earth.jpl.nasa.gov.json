@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "d79a7bd43668bed36d9d4e39fe669fa8",
   "accessibility_violations": "{\"lists\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -68,11 +69,11 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://js-agent.newrelic.com/nr-spa-1.281.0.min.js",
+    "https://js-agent.newrelic.com/nr-spa-1.283.2.min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -87,8 +88,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home – JPL Earth Science",
   "description": "This site is a source of information relating to the Earth Science & Technology Directorate, including updated organization charts, downloadable Earth Science presentations, upcoming events, information about the Earth Science Center and more.",
   "keywords": "Earth Science Directorate, Earth Science Applications, ESTD, ESD, Earth Science Center, 8X, 8000, Earth Science and Technology Directorate, Earth Science Presentations, Earth",
@@ -116,7 +117,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 553,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "c8a17751cd3a139cc9c9ee0b01dac9bb",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

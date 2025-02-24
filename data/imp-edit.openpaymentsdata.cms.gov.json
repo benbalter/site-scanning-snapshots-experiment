@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "6f2baf80a70849848b467493262f4345",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -57,7 +58,8 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".cms.gov"
+    ".cms.gov",
+    ".openpaymentsdata.cms.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -72,8 +74,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "CMS Open Payments",
   "description": "The official U.S. government website that houses data collected and published by Open Payments, a federally mandated program that collects information about payments that reporting entities, including drug and medical device companies make to covered recipients like physicians.",
   "keywords": null,
@@ -99,9 +101,11 @@
   "sitemap_xml_url": "https://imp-edit.openpaymentsdata.cms.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 20181,
+  "sitemap_xml_filesize": 20871,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "1cd8aeeea1022f8751d56f5347eacdc0",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

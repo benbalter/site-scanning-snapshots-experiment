@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "58e9987890a216100a7df25954e322ee",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -47,15 +48,14 @@
   "dap_version": "",
   "ga_tag_id": "G-5S5VLE733W",
   "third_party_service_domains": [
-    "s3.amazonaws.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".whitehouse.gov"
   ],
@@ -65,15 +65,15 @@
     "privacy"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "The White House",
   "description": "President Donald J. Trump and Vice President JD Vance are committed to lowering costs for all Americans, securing our borders, unleashing American energy dominance, restoring peace through strength, and making all Americans safe and secure once again.",
   "keywords": null,
   "og_title": "The White House",
   "og_description": "President Donald J. Trump and Vice President JD Vance are committed to lowering costs for all Americans, securing our borders, unleashing American energy dominance, restoring peace through strength, and making all Americans safe and secure once again.",
   "og_article_published": null,
-  "og_article_modified": "2025-01-27T19:58:50.000Z",
+  "og_article_modified": "2025-02-21T18:37:26.000Z",
   "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
   "og_type": "website",
   "og_url": "https://www.whitehouse.gov/",
@@ -94,7 +94,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

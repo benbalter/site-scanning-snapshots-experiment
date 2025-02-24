@@ -25,6 +25,7 @@
     "usagov",
     "gov_man",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -34,9 +35,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "b6b5ef08deaa236df9c5d42f0ca54b6b",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -51,19 +53,32 @@
     "amp;subagency": "CDC"
   },
   "dap_version": "20240925 v8.3 - GA4",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "www.cdc.gov"
+    "cdc.112.2o7.net",
+    "mtrics.cdc.gov",
+    "www.cdc.gov",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement.min.js",
-    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/bf0ea5e99418/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement_Module_ActivityMap.min.js",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s72885575522081",
+    "https://mtrics.cdc.gov/cdcgov/1.0.0/s.gif",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC00d0f1ad629f4285aee2a03413463db0-source.min.js",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC05390fc558ef4977bee28480719289b8-source.min.js",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC123ca3d330c04d83ae1466cd3df32f35-source.min.js",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC3b96987c681945149553af2553f214a1-source.min.js",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC48421bbf212e4a50bdf821a44d4e8b90-source.min.js",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC82b8efc3580f49aabfe57f12902cb3a6-source.min.js",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement.min.js",
+    "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement_Module_ActivityMap.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/launch-04da70ea688d.min.js",
+    "https://www.cdc.gov/JScript/metrics/google/Universal-Federated-Analytics-Min.js",
     "https://www.cdc.gov/JScript/metrics/topic_levels.js",
     "https://www.cdc.gov/TemplatePackage/contrib/libs/dompurify/latest/purify.min.js",
-    "https://www.cdc.gov/config/banner.txt"
+    "https://www.cdc.gov/config/banner.txt",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cdc.gov",
     "atsdr.cdc.gov"
@@ -86,8 +101,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Agency for Toxic Substances and Disease Registry | ATSDR",
   "description": "This webpage describes information on ATSDR's programs.",
   "keywords": null,
@@ -117,7 +132,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

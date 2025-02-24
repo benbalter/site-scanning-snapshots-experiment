@@ -20,6 +20,7 @@
   "source_list": [
     "omb_idea",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -29,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "6cc84027bfe29892c54c0464a304b869",
   "accessibility_violations": "{\"images\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -63,8 +65,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "HIV Chatbot",
   "description": "The HIV.gov Chatbot can answer questions about HIV testing, prevention, treatment, and exposure. Connect to resources for free medication or locate a specialist near you.",
   "keywords": null,
@@ -92,7 +94,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 4472,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "6cc84027bfe29892c54c0464a304b869",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

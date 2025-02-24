@@ -29,9 +29,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "412ed2a4d05f4967f83beae723367207",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
@@ -48,7 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-TY3PB2YC4Y,UA-63538248-8",
   "third_party_service_domains": [
-    "17de4c1b.akstat.io",
+    "17de4c10.akstat.io",
     "c.go-mpulse.net",
     "cdn.levelaccess.net",
     "cdn.ltcfeds.gov",
@@ -67,7 +68,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1b.akstat.io/",
+    "https://17de4c10.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.levelaccess.net/accessjs/YW1wMTEwMg/access.js",
     "https://cdn.ltcfeds.gov/assets/css/bootstrap.min.css",
@@ -129,7 +130,6 @@
     "https://rum-collector-2.pingdom.net/img/beacon.gif",
     "https://rum-static.pingdom.net/pa-5a8ec33446534f0007000318.js",
     "https://s.go-mpulse.net/boomerang/95C72-B5B2A-ZLYS2-NLNC8-M94WM",
-    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
     "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
     "https://static.hotjar.com/c/hotjar-2263488.js",
     "https://use.fontawesome.com/releases/v5.6.3/css/all.css",
@@ -154,8 +154,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "LTCFEDS | The Federal Long Term Care Insurance Program (FLTCIP)",
   "description": null,
   "keywords": "",
@@ -186,7 +186,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 2725,
   "sitemap_xml_count": 32,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "2bf94b626d75fa92ce615a917adc46d1",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

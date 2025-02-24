@@ -22,6 +22,7 @@
     "pulse",
     "omb_idea",
     "final_url_websites",
+    "gpo_fdlp",
     "cisa"
   ],
   "public": true,
@@ -31,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "d09493d8fc3f4d46317990275d7a14b6",
   "accessibility_violations": "{\"contrast\":99,\"link-purpose\":1}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -98,8 +100,7 @@
   "third_party_service_count": 12,
   "cookie_domains": [
     ".archives.gov",
-    ".fdr.blogs.archives.gov",
-    "fdr.blogs.archives.gov"
+    ".fdr.blogs.archives.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -110,8 +111,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Forward with Roosevelt – The blog of the Franklin D. Roosevelt Presidential Library and Museum",
   "description": null,
   "keywords": null,
@@ -141,7 +142,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

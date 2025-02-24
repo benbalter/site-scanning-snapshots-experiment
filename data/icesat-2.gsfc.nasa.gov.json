@@ -32,9 +32,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "1e86cb8887ec0ba5ccdf25041c2b348b",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"link-purpose\":3}",
   "ipv6": false,
   "hostname": null,
@@ -64,6 +65,9 @@
   ],
   "third_party_service_urls": [
     "https://cdn.mathjax.org/mathjax/contrib/a11y/accessibility-menu.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-brands-400.woff2",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2",
     "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js",
     "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/config/TeX-AMS-MML_HTMLorMML.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -71,11 +75,9 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN_wHIS11zWmu1CET6g.woff",
     "https://use.fontawesome.com/releases/v5.13.0/css/all.css",
-    "https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff2",
-    "https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff2",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -90,8 +92,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | ICESat-2",
   "description": null,
   "keywords": null,
@@ -117,9 +119,11 @@
   "sitemap_xml_url": "https://icesat-2.gsfc.nasa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 284608,
+  "sitemap_xml_filesize": 284580,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-22T09:16:01.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "1749c5dd1984822c9521eadec0d3460c",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

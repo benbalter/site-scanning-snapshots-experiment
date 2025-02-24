@@ -28,9 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "5170383fa3105b891b63d6489a820e00",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -89,7 +90,7 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -112,8 +113,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Center for Care Delivery and Outcomes Research Home",
   "description": "The Center for Care Delivery and Outcomes Research, a VA Health Services Research (HSR) Center of Innovation (COIN) operating under the direction of the Office of Research and Development (ORD), is an interdisciplinary community of professionals conducting methodologically rigorous research intended primarily to improve the health care of Veterans. The Center is a vibrant organization with 22 core investigators, 6 affiliate or associate investigators, 3 post-doctoral fellows, 4 core administrative staff, 7 statistical and data analysis core staff, and 25 project staff. The Center currently supports 56 funded projects with an annual budget of over $8.5 million.",
   "keywords": "Center for Care Delivery a Outcomes Research, CCDOR, Veterans, Veteran Health, PTSD, Research, Cancer Screening, Chronic Pain, Post Doctoral Fellowship, VA Career, Investigator, Principal Investigator",
@@ -141,7 +142,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

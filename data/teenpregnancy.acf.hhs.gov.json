@@ -31,9 +31,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
+  "page_hash": "c1f264317f2f336cb6aec1f7be139db5",
   "accessibility_violations": "{\"link-purpose\":1}",
   "ipv6": false,
   "hostname": "amazonaws.com",
@@ -61,7 +62,7 @@
     "cto": "24"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-WPG57MB1V4,UA-36351725-9,G-GJFWL1E5D3,G-CSLL4ZEK4L,G-3YLR8EGLBW",
+  "ga_tag_id": "G-WPG57MB1V4,G-GJFWL1E5D3,UA-36351725-9,G-CSLL4ZEK4L,G-3YLR8EGLBW",
   "third_party_service_domains": [
     "app-script.monsido.com",
     "cdn.monsido.com",
@@ -97,7 +98,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/teenpregnancy.acf.hhs.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/site/teenpregnancy.acf.hhs.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/7360.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/787e3bded36f6381fa304ab8ba6faf09.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/c7deac18f0e7b90e6cef3f0fe19c780a.js",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js",
     "https://tracking.monsido.com/",
@@ -109,7 +110,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 15,
   "cookie_domains": [
@@ -126,8 +127,8 @@
     "accessibility",
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Home | The Exchange",
   "description": null,
   "keywords": null,
@@ -153,9 +154,11 @@
   "sitemap_xml_url": "https://teenpregnancy.acf.hhs.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 160943,
+  "sitemap_xml_filesize": 160610,
   "sitemap_xml_count": 0,
+  "sitemap_xml_lastmod": "2025-02-20T15:54:00.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "2d5b031eb76e3d429f2445d08c198918",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "424ced6ce8d52ec3169d164e2e3c1921",
   "accessibility_violations": "{\"contrast\":111,\"link-purpose\":4}",
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -77,7 +78,7 @@
     "https://forms.hsforms.com/embed/v3/form/20973928/61e4458a-3391-4270-bdd6-9f57f5968c46/json",
     "https://i0.wp.com/aotus11.blogs.archives.gov/wp-content/uploads/sites/22/2024/12/AOTUS.jpg",
     "https://js-na1.hs-scripts.com/44674483.js",
-    "https://js.hs-analytics.net/analytics/1739823000000/44674483.js",
+    "https://js.hs-analytics.net/analytics/1740288900000/44674483.js",
     "https://js.hs-banner.com/v2/44674483/banner.js",
     "https://js.hs-scripts.com/44674483.js",
     "https://js.hscollectedforms.net/collectedforms.js",
@@ -91,8 +92,7 @@
   "third_party_service_count": 16,
   "cookie_domains": [
     ".aotus11.blogs.archives.gov",
-    ".archives.gov",
-    "aotus11.blogs.archives.gov"
+    ".archives.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -102,8 +102,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": false,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "This is the retired blog of the 11th Archivist of the United States Dr. Colleen Shogan. Comments are closed.",
   "description": null,
   "keywords": null,
@@ -133,7 +133,9 @@
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

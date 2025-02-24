@@ -30,9 +30,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
+  "page_hash": "a7b7e8db883564109dbf417f5fb51dfc",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -56,7 +57,7 @@
     "palinteractiontypedim": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-T4XSP9RZH8,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-T4XSP9RZH8,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "code.jquery.com",
@@ -88,7 +89,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/e7567ecf/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -108,8 +109,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Water Data Labs",
   "description": null,
   "keywords": null,
@@ -137,7 +138,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 1081,
   "sitemap_xml_count": 10,
+  "sitemap_xml_lastmod": "2024-12-13T14:29:40.000Z",
   "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "7d98c91edc0afae6c429acf2649a6acb",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
