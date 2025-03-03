@@ -33,10 +33,10 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "completed",
-  "page_hash": "a4cd0b8df7d0a558001367583a07444f",
-  "accessibility_violations": null,
+  "page_hash": "f4d9c614cf5395edf2a380a2b13ba335",
+  "accessibility_violations": "{\"contrast\":15}",
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -47,15 +47,14 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "UA-59555009-1",
+  "ga_tag_id": "G-KYCB79LVV9",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
@@ -100,10 +99,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://firstrespondertraining.gov/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,
@@ -130,12 +129,12 @@
     "usa-skipnav"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 65,
+  "uswds_usa_classes": 60,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v2.14.0",
   "uswds_version": 100,
-  "uswds_count": 185,
+  "uswds_count": 180,
   "www_url": "https://www.firstrespondertraining.gov/frts",
   "www_status_code": 200,
   "www_title": "FEMA | National Training and Education Division (NTED)"

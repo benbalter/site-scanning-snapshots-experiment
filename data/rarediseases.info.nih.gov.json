@@ -34,15 +34,15 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "2c4dd3244a749220561cd46277a548c8",
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "bf3e7536c607fee8e24c499c0fdc2fa1",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": true,
+  "site_search": false,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
@@ -71,20 +71,8 @@
     "rarediseases.info.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": [
-    "about",
-    "foia",
-    "privacy",
-    "espanol",
-    "/es"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "foia",
-    "privacy policy",
-    "vulnerability disclosure",
-    "español"
-  ],
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": null,
   "hsts": null,
   "title": "Genetic and Rare Diseases Information Center | GARD",
@@ -114,11 +102,11 @@
   "sitemap_xml_url": "https://rarediseases.info.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 2033035,
-  "sitemap_xml_count": 6140,
-  "sitemap_xml_lastmod": "2025-01-14T00:00:00.000Z",
+  "sitemap_xml_filesize": 2028222,
+  "sitemap_xml_count": 6124,
+  "sitemap_xml_lastmod": "2025-02-24T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "e3fe2569813506deb754c54a31139163",
+  "sitemap_xml_page_hash": "30bf224252a62b6f06119e649ea762e8",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -131,7 +119,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://www.rarediseases.info.nih.gov",
-  "www_status_code": 200,
-  "www_title": "Genetic and Rare Diseases Information Center | GARD"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://lasersdbw.larc.nasa.gov/?doing_wp_cron=1740222129.0415179729461669921875",
+  "url": "https://lasersdbw.larc.nasa.gov/?doing_wp_cron=1740831967.7799139022827148437500",
   "domain": "lasersdbw.larc.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -50,17 +50,22 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HOMEPAGE,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "auth.launchpad.nasa.gov",
     "dap.digitalgov.gov",
+    "sites-e.larc.nasa.gov",
     "www.googletagmanager.com",
     "www.nasa.gov"
   ],
   "third_party_service_urls": [
+    "https://auth.launchpad.nasa.gov/kerblogin",
+    "https://auth.launchpad.nasa.gov/login",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://sites-e.larc.nasa.gov/lasersdb/wp-content/uploads/sites/56/2016/07/favicon.ico",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -90,7 +95,7 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://lasersdbw.larc.nasa.gov/robots.txt?doing_wp_cron=1740222132.1576058864593505859375",
+  "robots_txt_url": "https://lasersdbw.larc.nasa.gov/robots.txt?doing_wp_cron=1740831970.8766899108886718750000",
   "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,

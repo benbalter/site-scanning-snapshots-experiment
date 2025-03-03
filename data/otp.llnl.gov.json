@@ -29,9 +29,9 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7906136f49bb0aac88942a9f019a24c5",
+  "page_hash": "8304ce6ea1ba8a487bae4841c55965c2",
   "accessibility_violations": "{\"contrast\":4,\"language\":1,\"images\":3,\"link-purpose\":2}",
   "ipv6": false,
   "hostname": null,
@@ -40,19 +40,31 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOE",
+    "subagency": "LLNL",
+    "sdor": "fda.gov",
+    "dclink": "true"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "analytics.llnl.gov"
+    "analytics.llnl.gov",
+    "dap.digitalgov.gov",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://analytics.llnl.gov/matomo.js",
     "https://analytics.llnl.gov/matomo.php",
-    "https://analytics.llnl.gov/plugins/HeatmapSessionRecording/configs.php"
+    "https://analytics.llnl.gov/plugins/HeatmapSessionRecording/configs.php",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".llnl.gov",
     "access.llnl.gov"
@@ -85,10 +97,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://access.llnl.gov/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2dfb15b6883ca83e8be3550ac13c0977",
+  "page_hash": "b8b36753052197bc3bb363c9d6fc9b08",
   "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":2,\"frames-iframes\":1,\"link-purpose\":1}",
   "ipv6": false,
   "hostname": null,
@@ -54,6 +54,7 @@
     "mrdc.health.mil",
     "siteassets.dvidshub.net",
     "www.dvidshub.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -85,9 +86,10 @@
     "https://siteassets.dvidshub.net/libs/videojs-thumbnails/videojs.thumbnails.js",
     "https://www.dvidshub.net/video/893747.m3u8",
     "https://www.dvidshub.net/video/closedcaption/id/893747",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".health.mil",
     "usammda.health.mil"

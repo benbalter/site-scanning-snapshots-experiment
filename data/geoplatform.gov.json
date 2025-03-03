@@ -37,7 +37,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "5e29181d29479ac0b2ea6af6a45e6c45",
+  "page_hash": "753cfe6e339b6a8d664493014daa10e8",
   "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -54,6 +54,7 @@
   "dap_version": "",
   "ga_tag_id": "G-CSLL4ZEK4L,G-V6PB20VB8J",
   "third_party_service_domains": [
+    "api-private.atlassian.com",
     "api.geoplatform.gov",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
@@ -69,6 +70,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://api-private.atlassian.com/gasv3/api/v1/batch",
     "https://api.geoplatform.gov/internal/gp-banner-information",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -83,12 +85,14 @@
     "https://geoplatform.gov/assets/images/homepage-feature-icons/usa-map.webp",
     "https://geoplatform.gov/assets/images/logos/gp/full-light.svg",
     "https://geoplatform.gov/assets/images/theme/gp-backdrop.webp",
-    "https://geoplatform.gov/main.fd8d7f25bf411234.js",
+    "https://geoplatform.gov/main.9f415c6d29eef262.js",
     "https://geoplatform.gov/polyfills.483331a069474bfa.js",
     "https://geoplatform.gov/runtime.2eef977649ab65e5.js",
     "https://geoplatform.gov/scripts.94f011fb13606557.js",
     "https://geoplatform.gov/styles.0e5acc476d44ab3b.css",
+    "https://jsd-widget.atlassian.com/api/embeddable/2a081d63-c07c-47de-8197-c1b867523de4/widget",
     "https://jsd-widget.atlassian.com/assets/embed.js",
+    "https://jsd-widget.atlassian.com/assets/iframe.js",
     "https://kauth.geoplatform.gov/realms/geoplatform/protocol/openid-connect/login-status-iframe.html/init",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://search.geoplatform.gov/eng/q",
@@ -96,7 +100,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".geoplatform.gov"
   ],

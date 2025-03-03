@@ -32,8 +32,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "793d97f2313426e2c944b3aae95f9e5f",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":4,\"keyboard-access\":1}",
+  "page_hash": "b1cc561021b091f6840529243d4912c5",
+  "accessibility_violations": "{\"contrast\":4,\"keyboard-access\":1}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -46,18 +46,25 @@
   "dap_version": "",
   "ga_tag_id": "G-515H3RKZYX",
   "third_party_service_domains": [
+    "content.hotjar.io",
     "script.hotjar.com",
     "static.hotjar.com",
+    "surveystats.hotjar.io",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://script.hotjar.com/modules.0436d96a0ec6cfd03f7c.js",
+    "https://content.hotjar.io/",
+    "https://script.hotjar.com/Roboto-Medium.ef8bb0.woff2",
+    "https://script.hotjar.com/Roboto-Regular.422781.woff2",
+    "https://script.hotjar.com/modules.ef5986d046c68a8c77c1.js",
+    "https://script.hotjar.com/survey-v2.35391c28507202aa6f40.js",
     "https://static.hotjar.com/c/hotjar-2079136.js",
+    "https://surveystats.hotjar.io/hit",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".llnl.gov"
   ],
@@ -97,7 +104,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "64bd9e83e87f5a45b85b074a8a16e7b7",
+  "sitemap_xml_page_hash": "522658bdf3b03a41a355f01e620969f5",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

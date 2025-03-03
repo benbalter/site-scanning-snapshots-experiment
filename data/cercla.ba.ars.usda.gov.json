@@ -58,7 +58,10 @@
     "https://rawcdn.githack.com/kemayo/maphilight/7932449fbc49c7767fbd72a807110c632c11ee95/jquery.maphilight.js"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ars.usda.gov",
+    ".usda.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",

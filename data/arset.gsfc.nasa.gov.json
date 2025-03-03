@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9bf5241badb66b06292c258400c7d722",
+  "page_hash": "97e2c694bbd9dbf6941228aadfd661e0",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -60,6 +60,7 @@
     "p1.parsely.com",
     "platform.twitter.com",
     "syndication.twitter.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -76,11 +77,12 @@
     "https://p1.parsely.com/plogger/",
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -88,9 +90,7 @@
   "required_links_url": [
     "about",
     "foia",
-    "privacy",
-    "spanish",
-    "/es"
+    "privacy"
   ],
   "required_links_text": [
     "accessibility",

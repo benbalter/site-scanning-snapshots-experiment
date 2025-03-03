@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "dod_public",
-    "final_url_websites"
+    "final_url_websites",
+    "dod_2025"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "completed",
-  "page_hash": "820f131c57ccfd41412c6e418e2b87f0",
+  "page_hash": "3bc837c8ea924e20cedba44147f2557c",
   "accessibility_violations": "{\"aria\":10,\"contrast\":4,\"frames-iframes\":1,\"lists\":5}",
   "ipv6": false,
   "hostname": null,
@@ -47,11 +48,11 @@
   "third_party_service_domains": [
     "analytics.dvidshub.net",
     "c.clarity.ms",
+    "d.clarity.ms",
     "d1ldvf68ux039x.cloudfront.net",
     "d34w7g4gy10iej.cloudfront.net",
     "dap.digitalgov.gov",
     "maxcdn.bootstrapcdn.com",
-    "s.clarity.ms",
     "siteassets.dvidshub.net",
     "www.clarity.ms",
     "www.dvidshub.net",
@@ -62,6 +63,7 @@
   "third_party_service_urls": [
     "https://analytics.dvidshub.net/loaded",
     "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2101/779734/800x450_q95.jpg",
     "https://d34w7g4gy10iej.cloudfront.net/video/2101/DOD_108130519/DOD_108130519-1024x576-1769k-hls.m3u8",
     "https://d34w7g4gy10iej.cloudfront.net/video/2101/DOD_108130519/DOD_108130519-1024x576-1769k-hls0.ts",
@@ -69,7 +71,6 @@
     "https://d34w7g4gy10iej.cloudfront.net/video/2101/DOD_108130519/DOD_108130519-240.bif",
     "https://dap.digitalgov.gov/Universal-Federated-AnalyticsMin.js",
     "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css",
-    "https://s.clarity.ms/collect",
     "https://siteassets.dvidshub.net/css/video.css",
     "https://siteassets.dvidshub.net/js/DVIDSVideoAnalytics.min.js",
     "https://siteassets.dvidshub.net/js/jquery.min.js",
@@ -87,7 +88,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [

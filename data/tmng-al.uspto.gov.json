@@ -30,7 +30,7 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "b84fde75224867c35b13a09ea4d0acb8",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
@@ -49,7 +49,8 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".tmng-al.uspto.gov"
+    ".tmng-al.uspto.gov",
+    ".uspto.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": null,
@@ -77,10 +78,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://tmng-al.uspto.gov/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

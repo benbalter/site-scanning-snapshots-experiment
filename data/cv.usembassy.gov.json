@@ -34,7 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fda6631ee1b45d6c10473f60cb271f5f",
+  "page_hash": "49953a9a3ca42ab062bd8fd3441a8aab",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"link-purpose\":2,\"lists\":3}",
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -50,6 +50,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30665474-1,UA-22995010-2,G-Z8NP237VWQ",
   "third_party_service_domains": [
+    "analytics.google.com",
     "app.enzuzo.com",
     "basemaps.cartocdn.com",
     "cdn.jsdelivr.net",
@@ -63,6 +64,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://app.enzuzo.com/api/public/v1/analytics/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://app.enzuzo.com/scripts/cookiebar/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://basemaps.cartocdn.com/rastertiles/voyager/14/7121/7503.png",
@@ -98,7 +100,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".cv.usembassy.gov",
     ".usembassy.gov",

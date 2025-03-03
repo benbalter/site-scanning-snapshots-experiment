@@ -26,12 +26,12 @@
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "execution_context_destroyed",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "907a013b57bf25de161b1dbf2839cfdc",
+  "page_hash": "f7e6113a4ddc6dfae8a5299b32cc7670",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -56,10 +56,13 @@
     "https://github.cms.gov/assets/global-187e9d7d9b1e.css",
     "https://github.cms.gov/assets/light-3e154969b9f9.css",
     "https://github.cms.gov/assets/primer-3f55af1462e6.css",
+    "https://github.cms.gov/favicons/favicon-ent.png",
+    "https://github.cms.gov/favicons/favicon-ent.svg",
     "https://github.cms.gov/manifest.json"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".cms.gov",
     "mo-idp.cms.gov"
   ],
   "viewport_meta_tag": true,

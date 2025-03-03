@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6649cb6cde02030cd5f3f60e818b093f",
+  "page_hash": "0373a18199cd788b8a50e99006ac81c8",
   "accessibility_violations": "{\"language\":1}",
   "ipv6": true,
   "hostname": null,
@@ -47,7 +47,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
@@ -76,7 +78,7 @@
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://www.usgs.gov/sound-waves-newsletter",
-  "sitemap_xml_status_code": 403,
+  "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,

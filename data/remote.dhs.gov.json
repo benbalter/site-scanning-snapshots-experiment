@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b3d2297c99be8cf4303f59747325f05c",
+  "page_hash": "416360d27a5db73424b9beb3abde7251",
   "accessibility_violations": "{\"language\":1,\"images\":1}",
   "ipv6": false,
   "hostname": null,
@@ -48,7 +48,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dhs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

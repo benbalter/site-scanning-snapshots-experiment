@@ -31,13 +31,15 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9cbb43aab8a5c091e8869cc6f59067da",
+  "page_hash": "dbb0eac5d2c3781c46da70013af0acec",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1,\"images\":2,\"form-names\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,

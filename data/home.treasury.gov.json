@@ -39,7 +39,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b20eb15664060bff5c836b3432eadb23",
+  "page_hash": "a5acaff6f207811022e0f60c0119852f",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -56,6 +56,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-QTKLZK8R7K,UA-19138737-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c0f.akstat.io",
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -65,6 +67,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c0f.akstat.io/",
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -78,11 +82,11 @@
     "https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 9,
   "cookie_domains": [
-    ".home.treasury.gov",
     ".treasury.gov"
   ],
   "viewport_meta_tag": true,
@@ -133,11 +137,11 @@
   "sitemap_xml_url": "https://home.treasury.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 2878,
+  "sitemap_xml_filesize": 1585,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-22T14:55:01.000Z",
+  "sitemap_xml_lastmod": "2025-03-01T15:10:01.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "2da62911a613f64dcf642ff304ad7906",
+  "sitemap_xml_page_hash": "986b0a60b4f2fc17fd522984eec22395",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

@@ -32,13 +32,15 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "3564f931753dc232ec306fbff6bc0f22",
+  "page_hash": "0a838daff3b4496a42f1322f4c3fecea",
   "accessibility_violations": "{\"contrast\":1}",
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"user_email\""
+  ],
   "site_search": true,
   "search_dot_gov": null,
   "dap": true,
@@ -48,10 +50,11 @@
     "pga4": "G-DFN0H6SPPL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-9kFc,G-juWFyZ,G-2LXwvS,G-yJ6ZxVLV5dZX2K9,G-bOnXVSTNKOrOtsd,G-OflRRaBgYRxBqYq,G-RB03B2kHCBABGU6,G-3zRxBC4BkR4Ry,G-9QJjN,G-M4W4tG3x0IZWlNp,G-Rn8ImN2ED4Yvl82,G-NxF2BsQPeT21XkM",
   "third_party_service_domains": [
     "api.parsely.com",
     "cdn.parsely.com",
+    "challenges.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "p1.parsely.com",
@@ -63,6 +66,13 @@
   "third_party_service_urls": [
     "https://api.parsely.com/v2/profile",
     "https://cdn.parsely.com/keys/digital.va.gov/p.js",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/919e323eeb82ef8c/1740890219617/bMyaJ9whknqbI5f",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/561402679:1740889688:QfhHGAsouSx-E0fWGv0jK-REP2-DoHBUiScGdwEMhZk/919e323eeb82ef8c/Xkqs.f7W_M4.DuNbXcNp7dAHpohF1.tJV1lXr0Ey_60-1740890219-1.1.1.1-FFLneZY3XaBAQOlPmGdpIsziw34lsfjPh2QgFVqACSQSOFuHJrScbfdxM6qUQIAl",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/919e323eeb82ef8c/1740890219615/7e7bdc652a511a2d9acf41a82839f7a8cade3aadb0dad6f768b0d6e944f2786e/Q6nONXUhj7E5Ptp",
+    "https://challenges.cloudflare.com/turnstile/v0/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/b0e4a89976ce/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/sourcesans3/v15/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
@@ -76,7 +86,7 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".va.gov"
   ],

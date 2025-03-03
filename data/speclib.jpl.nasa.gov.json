@@ -31,7 +31,7 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "timeout",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "64f84265d3c119f2c458aed1fdd7db3b",
   "accessibility_violations": "{\"contrast\":8,\"lists\":1}",
@@ -64,6 +64,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".jpl.nasa.gov",
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,

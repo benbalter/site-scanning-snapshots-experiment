@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "dod_public",
-    "final_url_websites"
+    "final_url_websites",
+    "dod_2025"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "67b5b6f20a94e9d7f8b12299dc0a8036",
+  "page_hash": "799055562ea52e2f8583e7a43c4aee37",
   "accessibility_violations": "{\"page-titled\":1,\"link-purpose\":3}",
   "ipv6": true,
   "hostname": null,
@@ -54,7 +55,9 @@
     "https://fonts.gstatic.com/s/squadaone/v18/BCasqZ8XsOrx4mcOk6Mtaac2WRJnDgo.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".army.mil"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

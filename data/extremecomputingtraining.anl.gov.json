@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "137959d530faa29d878bcb646c243f9f",
+  "page_hash": "97fa1a3a0b3b732c5241e6bbb0a758ee",
   "accessibility_violations": "{\"contrast\":3,\"images\":1,\"link-purpose\":8}",
   "ipv6": false,
   "hostname": null,
@@ -52,7 +52,9 @@
     "https://fonts.googleapis.com/css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".anl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

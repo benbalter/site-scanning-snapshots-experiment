@@ -33,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "96737a83d70aa6ca8d67e91e954edb13",
+  "page_hash": "135c273c19b83f2912db64a3802df999",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -51,14 +51,16 @@
   "ga_tag_id": "G-ND298XG1VM,G-CSLL4ZEK4L,G-P4TN05P5XP",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.nal.usda.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.nal.usda.gov/csp-collector/index.php"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".usda.gov"
   ],
@@ -103,7 +105,7 @@
   "sitemap_xml_url": "https://nematode.ars.usda.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 1166,
+  "sitemap_xml_filesize": 300,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,

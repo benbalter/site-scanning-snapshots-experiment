@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f2f90b39aa498bd2ed45513ea7c3cd74",
+  "page_hash": "fabf92b561e2c32eba8abf88d35ee467",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -55,6 +55,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "touchpoints.app.cloud.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -66,36 +67,24 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2",
-    "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".cloud.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "about",
-    "foia",
-    "privacy",
     "usa.gov"
   ],
-  "required_links_text": [
-    "accessibility",
-    "no fear act",
-    "foia",
-    "freedom of information act",
-    "inspector general",
-    "privacy policy",
-    "vulnerability disclosure",
-    "usa.gov"
-  ],
+  "required_links_text": null,
   "https_enforced": null,
   "hsts": null,
-  "title": "Home | Office of Natural Resources Revenue",
+  "title": "Office of Natural Resources Revenue | Office of Natural Resources Revenue",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -138,16 +127,15 @@
     "usa-icon",
     "usa-label",
     "usa-legend",
-    "usa-link",
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 50,
+  "uswds_usa_classes": 25,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 50,
+  "uswds_count": 25,
   "www_url": "https://www.prod-onrr-frontend.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

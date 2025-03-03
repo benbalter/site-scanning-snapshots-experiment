@@ -33,8 +33,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4380910cbc05a976e272c41c8980280c",
-  "accessibility_violations": "{\"contrast\":10}",
+  "page_hash": "7bdfa28c0291ba7d1eaf65df1f204ac8",
+  "accessibility_violations": "{\"contrast\":11,\"frames-iframes\":1,\"images\":3,\"link-purpose\":3}",
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -52,7 +52,6 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "embed.bsky.app",
-    "public.api.bsky.app",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -60,11 +59,10 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://embed.bsky.app/static/embed.js",
-    "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nasa.gov",
     "tolnet.larc.nasa.gov"
@@ -112,7 +110,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "46903a8c44130baa7e77ccfe9410ead9",
+  "sitemap_xml_page_hash": "b1773cbf053f1aca56383852cf5b9208",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

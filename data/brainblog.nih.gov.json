@@ -29,10 +29,10 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "14c846d3051704cbab96a6aacddd48fe",
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "81220a9e889be97f833cf6128b0a1c91",
   "accessibility_violations": "{\"link-purpose\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
   "login_provider": null,
@@ -44,7 +44,7 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-4S1f3,G-tqmhl4Z4bVxSQC8,G-CYEMpRjUV9RoHta,G-y6jZ6tiM0pfpDfL",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
@@ -69,6 +69,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "https://www.gstatic.com/recaptcha/api2/canonical_car.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
     "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
@@ -142,7 +143,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_url": "https://braininitiative.nih.gov/news-events/blog",
-  "www_status_code": 200,
-  "www_title": "The BRAIN Blog | BRAIN Initiative"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

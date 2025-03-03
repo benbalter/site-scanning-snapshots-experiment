@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://4innovation-impl.cms.gov/",
+  "url": "https://4innovation-impl.cms.gov/landing",
   "domain": "4innovation-impl.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -34,7 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f27e1c817e03872e209a79435cbffb15",
+  "page_hash": "553938376a411fb5b4311cda5007b0db",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -55,6 +55,7 @@
     "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
+    "impl.idp.idm.cms.gov",
     "ping.chartbeat.net",
     "static.chartbeat.com",
     "tags.tiqcdn.com",
@@ -69,6 +70,7 @@
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://impl.idp.idm.cms.gov/api/v1/sessions/me",
     "https://ping.chartbeat.net/ping",
     "https://static.chartbeat.com/js/chartbeat.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-innovations/qa/utag.2.js",
@@ -79,13 +81,17 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility"
+  ],
   "https_enforced": null,
   "hsts": null,
   "title": "Innovation (4i)",
@@ -101,7 +107,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": true,
   "robots_txt_url": "https://4innovation-impl.cms.gov/robots.txt",
   "robots_txt_status_code": 200,
@@ -117,7 +123,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "fdf9ce34596c56540f2cd9636cb2f721",
+  "sitemap_xml_page_hash": "e231933c24ebea15e49d1524657a6df7",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

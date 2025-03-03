@@ -35,10 +35,10 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "354aaf0a92b4ed277201221ee645a264",
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "ccbed8cda51095c2b9190da224b1a171",
   "accessibility_violations": "{\"contrast\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "edgekey.net",
   "cms": "Drupal",
   "login_provider": null,
@@ -82,8 +82,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -130,7 +129,7 @@
   "sitemap_xml_url": "https://salud.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 238009,
+  "sitemap_xml_filesize": 147866,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-02-14T16:31:00.000Z",
   "sitemap_xml_pdf_count": 0,

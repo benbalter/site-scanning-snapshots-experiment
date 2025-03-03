@@ -33,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "62a54f2af614768a819699b362d19a46",
+  "page_hash": "1e0728adf26c5a2cf032d5aa96607b31",
   "accessibility_violations": "{\"contrast\":9}",
   "ipv6": false,
   "hostname": null,
@@ -66,7 +66,9 @@
     "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".doe.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

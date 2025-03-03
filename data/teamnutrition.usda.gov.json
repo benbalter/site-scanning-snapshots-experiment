@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "3d6733f4e59c083f64dea5ca88b251e8",
+  "page_hash": "2a3d8059588e0ca9224a5d1c3c3a86c9",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -40,18 +40,13 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": true,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "USDA",
-    "subagency": "FNS",
-    "yt": "true"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-27379012-1,G-BP287,G-SRH9HMWJ3W,G-CSLL4ZEK4L,UA-27627304-1,UA-27627304-8,UA-33523145-1,G-4S1RHRYZ4Z,G-6J2PT1SPL2,G-VYRH7BQ1FL",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "UA-27379012-1,G-SRH9HMWJ3W,UA-27627304-1,UA-27627304-8,UA-33523145-1,G-4S1RHRYZ4Z,G-VYRH7BQ1FL,G-6J2PT1SPL2",
   "third_party_service_domains": [
     "10611.global.siteimproveanalytics.io",
     "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
-    "dap.digitalgov.gov",
     "fns-prod.azureedge.us",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -59,18 +54,16 @@
     "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.google-analytics.com",
-    "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://10611.global.siteimproveanalytics.io/image.aspx",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/236/logo_square_usda-logo.jpg",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://fns-prod.azureedge.us/sites/default/files/css/css_GXOU8hRnH5wo17nYPUiDh-JbLXz1FNJI19Zk3DWs1s4.css",
-    "https://fns-prod.azureedge.us/sites/default/files/css/css_zmb-VYIW3N3-s5d7wKYHs2w3hRHrj8MWsZPY1zcYXKk.css",
-    "https://fns-prod.azureedge.us/sites/default/files/js/js_G-BP287_0RACNnSZQY8Qe3chWUl5mOfQ9PsBXcXjIFU.js",
-    "https://fns-prod.azureedge.us/sites/default/files/js/js__tj1Rn6CmGsCWJCoyutC1-8-w_uLLXKsHByMuj3N4EA.js",
-    "https://fns-prod.azureedge.us/sites/default/files/js/js_rKzGbFvRhrWbVTQ6U4AiatyVodP0YA0V5zsqiDgcl1U.js",
+    "https://fns-prod.azureedge.us/sites/default/files/css/css_Fqt3bYUdKwCRPFCblGK0CUpIkcM1rh7ViQv_uqO7ijc.css",
+    "https://fns-prod.azureedge.us/sites/default/files/css/css_Qwg8A9kdg0sJLwtiV27_8zm7ashDfWRNLKnCSsTVwpQ.css",
+    "https://fns-prod.azureedge.us/sites/default/files/js/js_ESzrcs5LL284FqwD0YkLZ6wa0RQAUUUU_j0XMFWSBaY.js",
+    "https://fns-prod.azureedge.us/sites/default/files/js/js_WBFW39PDDCR42JcqWcCSHwTymAG5GSEkrTaPOK7sGbM.js",
+    "https://fns-prod.azureedge.us/sites/default/files/js/js__bjB7AM-g2gl0CCsO6I2oCSn-BUaK20hdHF9XszG89o.js",
     "https://fns-prod.azureedge.us/sites/default/files/media/image/tn-hero.jpg",
     "https://fns-prod.azureedge.us/sites/default/files/styles/featured/public/media/image/TNLogoSh.jpg",
     "https://fns-prod.azureedge.us/sites/default/files/styles/featured/public/media/image/tn-nsbw-spotlight-english.jpg",
@@ -91,12 +84,11 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 10,
   "cookie_domains": [
+    ".fns.usda.gov",
     ".usda.gov"
   ],
   "viewport_meta_tag": true,

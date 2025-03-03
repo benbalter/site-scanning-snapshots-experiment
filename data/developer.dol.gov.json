@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "accd10921a70b6b3728403ecc5a8f841",
+  "page_hash": "18cdf1ac79ca66986f7e4acc0449ebc1",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -57,6 +57,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "www.dol.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -153,11 +154,13 @@
     "https://www.dol.gov/drupal-assets/themes/opa_theme/img/icon-https.svg",
     "https://www.dol.gov/drupal-assets/themes/opa_theme/src/js/dolCustomMaps.js",
     "https://www.dol.gov/drupal-assets/themes/opa_theme/src/js/legacy-map.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".dol.gov"
   ],

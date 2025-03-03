@@ -34,10 +34,10 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "15ce8bfe7c19f66f511c59cb443e6e8d",
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "a5802478b7f677c50b8b19e01045ebf0",
   "accessibility_violations": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
   "login_provider": null,
@@ -57,6 +57,7 @@
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
+    "livehelp.cancer.gov",
     "metrics.cancer.gov",
     "nci.widget.custhelp.com",
     "script.crazyegg.com",
@@ -87,7 +88,8 @@
     "https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s6811591792410",
+    "https://livehelp.cancer.gov/euf/rightnow/RightNow.Client.js",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s28668590036741",
     "https://nci.widget.custhelp.com/ci/ws/get/w/7/co/%5B%7B%22chat_login_page%22%3A%22%2Fapp%2Fchat%2Fchat_landing%22%2C%22container_element_id%22%3A%22footerLinkContainer%22%2C%22custom_fields%22%3A%22%7B%5C%2222%5C%22%3A%5C%2291%5C%22%7D%22%2C%22enable_availability_check%22%3A%22false%22%2C%22info_element_id%22%3A%22footerChatLinkInfo%22%2C%22instance_id%22%3A%22sccl_0%22%2C%22label_default%22%3A%22LiveHelp%22%2C%22link_element_id%22%3A%22footerChatLink%22%2C%22module%22%3A%22ConditionalChatLink%22%2C%22type%22%3A7%7D%5D/https_request/1",
     "https://nci.widget.custhelp.com/euf/rightnow/RightNow.Client.js",
     "https://script.crazyegg.com/pages/data-scripts/0068/1809/sampling/women.smokefree.gov.json",
@@ -98,7 +100,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".smokefree.gov"
   ],
@@ -161,7 +163,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://women.smokefree.gov",
-  "www_status_code": 200,
-  "www_title": "Home | Smokefree Women"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

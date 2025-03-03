@@ -34,7 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b42949729c84408f107c4543d8ce8bf7",
+  "page_hash": "14bdd4a401ba207ea60c533309bbe816",
   "accessibility_violations": "{\"images\":1,\"lists\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -50,6 +50,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
     "www.dhs.gov",
@@ -57,6 +58,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/9SBY5-S82LF-G229R-DXV5L-H7WP9",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
@@ -66,7 +68,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cbp.gov",
     "ace.cbp.gov"

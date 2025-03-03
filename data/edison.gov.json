@@ -33,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f077ff556c278906ff68841965fcde12",
+  "page_hash": "07ccf169825e80d53c410c026935faa5",
   "accessibility_violations": "{\"aria\":1}",
   "ipv6": true,
   "hostname": null,
@@ -47,7 +47,8 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45je52k0v895826815za200"
+    "gtm": "45je52q0v895826815za200",
+    "tag_exp": "101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453~102717421~102732003"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-CSLL4ZEK4L",
@@ -56,6 +57,7 @@
     "bam.nr-data.net",
     "js-agent.newrelic.com",
     "siteimproveanalytics.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,9 +65,10 @@
     "https://bam.nr-data.net/1/37b7ccb661",
     "https://js-agent.newrelic.com/nr-rum-1.283.2.min.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6017546.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nist.gov",
     ".www.nist.gov"

@@ -32,10 +32,10 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "61de6863d118f2f1a1b725dea37aeb35",
-  "accessibility_violations": "{\"aria\":2}",
+  "page_hash": "0c13f74904415796b990b4c96287d7fd",
+  "accessibility_violations": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -51,7 +51,7 @@
     "dclink": "true"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-QGw28AZ,G-02LEK4bnOX,G-6toaFEYDso1eSZo,G-LzBZYI5FfL6spOC",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-buigxoQja",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "analytics.dvidshub.net",
@@ -67,8 +67,7 @@
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
-    "www.gstatic.com",
-    "www.youtube.com"
+    "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/ui-lightness/jquery-ui.css",
@@ -91,12 +90,6 @@
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://media.defense.gov/2023/May/11/2003221295/1310/736/0/230504-A-BB251-301.JPG",
-    "https://media.defense.gov/2023/May/11/2003221297/1310/736/0/230503-A-BB251-1163.JPG",
-    "https://media.defense.gov/2023/May/11/2003221300/1310/736/0/230502-A-BB251-668.JPG",
-    "https://media.defense.gov/2023/May/11/2003221326/1310/736/0/230425-A-BB251-199.JPG",
-    "https://media.defense.gov/2023/May/11/2003221327/1310/736/0/230425-A-BB251-121.JPG",
-    "https://media.defense.gov/2023/May/11/2003221330/1310/736/0/230424-A-BB251-058.JPG",
     "https://media.defense.gov/2024/Dec/23/2003618426/150/150/0/241219-O-NH850-7587.JPG",
     "https://media.defense.gov/2024/Dec/23/2003618464/150/150/0/241118-F-NA897-2084.JPG",
     "https://media.defense.gov/2024/Feb/16/2003395667/150/150/0/240209-O-DO202-7032.JPG",
@@ -104,7 +97,7 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://static.addtoany.com/menu/modules/core.junnp81e.js",
+    "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.addtoany.com/menu/svg/icons/a2a.js",
     "https://static.addtoany.com/menu/svg/icons/email.js",
@@ -118,11 +111,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css",
-    "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
   ],
-  "third_party_service_count": 16,
+  "third_party_service_count": 15,
   "cookie_domains": [
     ".dodlive.mil",
     ".warriorcare.dodlive.mil",
@@ -167,10 +158,10 @@
   "robots_txt_sitemap_locations": [
     "/DesktopModules/SiteData/SiteMap.ashx"
   ],
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://warriorcare.dodlive.mil/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

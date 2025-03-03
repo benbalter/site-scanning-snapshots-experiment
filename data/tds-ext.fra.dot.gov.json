@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2a12fdc7fecf9b09dd8c087b833162db",
+  "page_hash": "bf52685ed98e631326f3e41a43086e61",
   "accessibility_violations": "{\"contrast\":4,\"language\":1,\"images\":1,\"link-purpose\":3}",
   "ipv6": false,
   "hostname": null,
@@ -52,7 +52,9 @@
     "https://js.arcgis.com/4.7/esri/css/main.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dot.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -101,7 +103,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "b44d08c246c1962f46ea5c8bf89e147b",
+  "sitemap_xml_page_hash": "604c45e92ba2e5f0d0361730e99d7f67",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

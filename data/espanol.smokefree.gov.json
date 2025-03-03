@@ -34,8 +34,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "3ca28435cca235678c0976037fece7c8",
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "73505cfc2c45fa7dc2febddb2eafbbd9",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -58,6 +58,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "livehelp-es.cancer.gov",
     "metrics.cancer.gov",
     "nci2.widget.custhelp.com",
     "script.crazyegg.com",
@@ -90,7 +91,8 @@
     "https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s39304661374621",
+    "https://livehelp-es.cancer.gov/euf/rightnow/RightNow.Client.js",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s97369756604703",
     "https://nci2.widget.custhelp.com/ci/ws/get/w/7/co/%5B%7B%22chat_login_page%22%3A%22%2Fapp%2Fchat%2Fchat_landing%22%2C%22container_element_id%22%3A%22footerLinkContainer%22%2C%22custom_fields%22%3A%22%7B%5C%2222%5C%22%3A%5C%2291%5C%22%7D%22%2C%22enable_availability_check%22%3A%22false%22%2C%22info_element_id%22%3A%22footerChatLinkInfo%22%2C%22instance_id%22%3A%22sccl_0%22%2C%22label_default%22%3A%22LiveHelp%22%2C%22link_element_id%22%3A%22footerChatLink%22%2C%22module%22%3A%22ConditionalChatLink%22%2C%22type%22%3A7%7D%5D/https_request/1",
     "https://nci2.widget.custhelp.com/euf/rightnow/RightNow.Client.js",
     "https://script.crazyegg.com/pages/data-scripts/0068/1809/sampling/espanol.smokefree.gov.json",
@@ -100,7 +102,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".smokefree.gov"
   ],
@@ -144,11 +146,11 @@
   "sitemap_xml_url": "https://espanol.smokefree.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 5596,
+  "sitemap_xml_filesize": 5906,
   "sitemap_xml_count": 32,
   "sitemap_xml_lastmod": "2025-01-31T18:30:25.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "d2857dfa6649d982852d60980fd894b2",
+  "sitemap_xml_page_hash": "742555335bee0eb6063f8b8692e5ab2b",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -161,7 +163,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://espanol.smokefree.gov",
-  "www_status_code": 200,
-  "www_title": "Inicio | Smokefree Espanol"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

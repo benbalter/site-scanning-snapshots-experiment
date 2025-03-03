@@ -35,8 +35,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4638d67953f43e548b5c4573319f1bc5",
-  "accessibility_violations": "{\"contrast\":10,\"link-purpose\":9}",
+  "page_hash": "2bb085454bf777c0c03d9e429a617e96",
+  "accessibility_violations": "{\"link-purpose\":14}",
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -64,12 +64,16 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2017/05/aie-logo3.png",
+    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2022/01/Diego-Olivero-thumb-2-700x500.jpg",
     "https://uss58003.s3.amazonaws.com/wp-content/uploads/2023/12/Windhoek-installation-hashimoto-1.jpeg",
-    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2024/08/Front-cover-Ruben-Marroquin-Hermosillo-700x500.jpg",
     "https://uss58003.s3.amazonaws.com/wp-content/uploads/2024/12/Ambassador-Mongolia-video-thumb-700x500.png",
     "https://uss58003.s3.amazonaws.com/wp-content/uploads/2024/12/PT-article-Mike-Biskup-700x500.jpeg",
+    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2025/02/aie_logo_external_horizontal-fixed-nav.png",
+    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2025/02/aie_logo_external_horizontal.png",
+    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2025/02/facebook_2111564_white-500x500.png",
     "https://uss58003.s3.amazonaws.com/wp-content/uploads/2025/02/hermosillo-overview-video-cover-700x500.jpg",
+    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2025/02/instagram_733614_white.png",
+    "https://uss58003.s3.amazonaws.com/wp-content/uploads/2025/02/twitter_11823292_white.png",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
@@ -78,10 +82,11 @@
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "about",
-    "privacy"
+    "about"
   ],
-  "required_links_text": null,
+  "required_links_text": [
+    "accessibility"
+  ],
   "https_enforced": null,
   "hsts": null,
   "title": "U.S. Department of State – Art in Embassies",

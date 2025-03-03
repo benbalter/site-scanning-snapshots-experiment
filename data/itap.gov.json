@@ -34,9 +34,9 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "completed",
-  "page_hash": "8852a55571a64685034fb175afa876cf",
+  "page_hash": "ec35ef67ce9d8958348b0ef0466ca686",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -54,14 +54,16 @@
   "ga_tag_id": "G-CEZFQX8YVW,G-CSLL4ZEK4L,G-ER98FFN75C",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.nal.usda.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.nal.usda.gov/csp-collector/index.php"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".itap.gov"
   ],
@@ -102,15 +104,15 @@
   "robots_txt_sitemap_locations": [
     "/sitemap.xml"
   ],
-  "sitemap_xml_detected": true,
-  "sitemap_xml_url": "https://www.itap.gov/sitemap.xml",
-  "sitemap_xml_status_code": 200,
-  "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 2351,
-  "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2024-12-16T16:01:00.000Z",
-  "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "3df1fd5bd4ed3d791fc7fb903451c885",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
+  "sitemap_xml_filesize": null,
+  "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
+  "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

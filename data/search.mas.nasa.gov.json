@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.launchpad.nasa.gov/login?level=30&target=https%3A%2F%2Fsearch.mas.nasa.gov%2F",
+  "url": "https://auth.launchpad.nasa.gov/kerblogin?level=30&TYPE=33554433&REALMOID=06-bba6b4db-6ef5-484e-8234-05164f81d8a6&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-ubx%2fgYBKc5xEW74SJgBogUuS8Sz5ikTu1RhN9ztGQFmqZ%2b0wOckCN97UlDjgjpzfSljJToZu5c58FsxfD399dhF50E%2fzvpBCBAYKd6SXMbja3Lq%2bmLjMoOeWlAQZ%2bki3&TARGET=-SM-https%3a%2f%2fsearch%2emas%2enasa%2egov%2f",
   "domain": "auth.launchpad.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -30,16 +30,14 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ab6db232038cf5368b9130c67b36d9ae",
+  "page_hash": "271f777cb3b04c22eb8316cc07e34b90",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
   "login": [
-    "\"password\"",
-    ">Forgot Password</a>",
-    "type=\"password\""
+    ">Forgot Password</a>"
   ],
   "site_search": false,
   "search_dot_gov": null,

@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f0622a71605d5c573b22ce7cc08d731e",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":15}",
+  "page_hash": "c83bef4eab77bf209eb710766907c0f2",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":15}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -62,7 +62,8 @@
     "s3.amazonaws.com",
     "vjs.zencdn.net",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.state.gov"
   ],
   "third_party_service_urls": [
     "http://manifest.prod.boltdns.net/thumbnail/v1/1705665025/af428d32-5c34-49dc-8a97-1e72880a28cb/low-res/thumbnail.webvtt",
@@ -91,9 +92,10 @@
     "https://s3.amazonaws.com/stategov-header-footer-assets/reduced_nav.css",
     "https://vjs.zencdn.net/vttjs/0.12.5/vtt.global.min.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.state.gov/favicon.ico"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".state.gov"
   ],

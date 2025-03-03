@@ -36,9 +36,9 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "completed",
-  "page_hash": "1c3e7266c0873d28c43173dd4fd73e02",
+  "page_hash": "0d9e3695e5d50dc80e2555cc371435b3",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -69,6 +69,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.google.com/g/collect",
+    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/262430679c1126/126.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/262430679c1126/webmon.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -79,7 +80,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nal.usda.gov/csp-collector/index.php",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -124,15 +125,15 @@
   "robots_txt_sitemap_locations": [
     "https://www.invasivespeciesinfo.gov/sitemap.xml"
   ],
-  "sitemap_xml_detected": true,
-  "sitemap_xml_url": "https://www.invasivespeciesinfo.gov/sitemap.xml",
-  "sitemap_xml_status_code": 200,
-  "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 86885,
-  "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-01-29T19:04:00.000Z",
-  "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "5ac118bc9ca901fd8e27cfe23fec5f8c",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
+  "sitemap_xml_filesize": null,
+  "sitemap_xml_count": null,
+  "sitemap_xml_lastmod": null,
+  "sitemap_xml_pdf_count": null,
+  "sitemap_xml_page_hash": null,
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "dod_public",
-    "final_url_websites"
+    "final_url_websites",
+    "dod_2025"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,9 +30,9 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "425dd37b90c43fec938b4e2a3fcb2e44",
+  "page_hash": "535798923ceb15e6c3bedf195ffaae60",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -54,7 +55,6 @@
     "fonts.googleapis.com",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,14 +63,11 @@
     "https://media.defense.gov/2022/Sep/15/2003529476/1920/1080/0/220911-F-EJ686-1008M.JPG",
     "https://media.defense.gov/2023/Nov/08/2003529454/1920/1080/0/231106-A-IW468-9219.JPG",
     "https://media.defense.gov/2024/Feb/08/2003529319/1920/1080/0/210512-D-BM568-1296.JPG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".defense.gov"
   ],
@@ -111,10 +108,10 @@
   "robots_txt_sitemap_locations": [
     "/DesktopModules/SiteData/SiteMap.ashx"
   ],
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://pclt.defense.gov/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

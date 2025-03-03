@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "88919c3fed49ac5f5bfd0ead6b3d50d1",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"link-purpose\":13,\"lists\":1}",
+  "page_hash": "72bd69fcbdbfbdba60db51b4b09fec3d",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"link-purpose\":11,\"lists\":1}",
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -90,7 +90,6 @@
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-v4compatibility.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.usembassy.gov/wp-content/uploads/sites/144/as-fe.jpg"
@@ -98,7 +97,8 @@
   "third_party_service_count": 13,
   "cookie_domains": [
     ".mn.usembassy.gov",
-    ".usembassy.gov"
+    ".usembassy.gov",
+    "mn.usembassy.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

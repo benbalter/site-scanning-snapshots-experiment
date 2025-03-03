@@ -36,7 +36,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "completed",
-  "page_hash": "0872ad8b8cf7bfb3b4362cb7c09ec936",
+  "page_hash": "54d7e7713c50ff145e41b107f3a98984",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": null,
@@ -50,13 +50,14 @@
     "agency": "DOI"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-GgeW8U",
   "third_party_service_domains": [
     "aws-volunteer-staticdata.s3.amazonaws.com",
-    "cdn.recreation.gov",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "npgallery.nps.gov",
+    "www.flickr.com",
     "www.fws.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com",
@@ -64,17 +65,19 @@
   ],
   "third_party_service_urls": [
     "https://aws-volunteer-staticdata.s3.amazonaws.com/touchpoints_survey_v2.js",
-    "https://cdn.recreation.gov/public/2018/09/14/15/15/234628_2859f62e-d491-45df-84a2-a2efd31d97cd_1440.jpg",
-    "https://cdn.recreation.gov/public/images/2134.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
-    "https://www.fws.gov/fish-hatchery/jackson",
+    "https://npgallery.nps.gov/GetAsset/3376b555-a8b1-4046-846c-45517f27b2d6/proxyhires.jpg",
+    "https://www.flickr.com/photos/mypubliclands/15670427561/in/photolist-pSK3ax-GgfcWY-FKYxri-Ggf7uW-GzvrCD-FKPyTL-Gx8n8J-Gx96Q7-GCZD7G-GgeW8U-GFkRt2-GCZkEN-GFkPyv-FKYynM-GgeR7m-GCZAjN-GFkEb2-pAzG1C-GgfeYd-GzvpSe-Gx981J-FKNRd1-pSK3gp-GFkxSR-Ggfbqw-FKNVdL-GCZE",
+    "https://www.fws.gov/sites/default/files/styles/scale_width_1200/public/2021-10/TWAll%20USFWS70787204_10157877202888756_1382709655171497984_n.jpg",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.nps.gov/mnrr/planyourvisit/images/mulberryx.jpg"
+    "https://www.nps.gov/cham/planyourvisit/images/IMG_6999.JPG",
+    "https://www.nps.gov/npgallery/GetAsset/4045aaf5-aff6-472f-a850-b20165395f50/proxy/hires",
+    "https://www.nps.gov/tica/getinvolved/images/COLLAGE_12.jpg"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".volunteer.gov",
     "www.volunteer.gov"

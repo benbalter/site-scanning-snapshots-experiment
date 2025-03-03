@@ -29,11 +29,11 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "56d1a85bb66dd2ac89370a95070db8df",
+  "page_hash": "ce14b8e64ac965114b0b6eb886db747a",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -48,10 +48,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1c.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -63,7 +61,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1c.akstat.io/",
     "https://a.tile.openstreetmap.org/11/428/706.png",
     "https://a.tile.openstreetmap.org/11/429/708.png",
     "https://a.tile.openstreetmap.org/11/430/707.png",
@@ -72,7 +69,6 @@
     "https://b.tile.openstreetmap.org/11/429/706.png",
     "https://b.tile.openstreetmap.org/11/430/708.png",
     "https://b.tile.openstreetmap.org/11/431/707.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/11/428/708.png",
     "https://c.tile.openstreetmap.org/11/429/707.png",
     "https://c.tile.openstreetmap.org/11/430/706.png",
@@ -96,9 +92,10 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 11,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -138,10 +135,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://www.fws.gov/medicinelake/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

@@ -5,7 +5,7 @@
   "initial_base_domain": "census.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://auth-dev.census.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=A2-vQGrSEtDgdVs8Rhc5felD9iyNHyr_s7qFfxM4jO4&code_challenge_method=S256&nonce=kpnQIJXP3dsKvD3u0iNNQ4EtlTObT1leQOj1yervDcQ6l2l2h05ncl3ijYcE5BJI&redirect_uri=https%3A%2F%2Fauth-dev.census.gov%2Fenduser%2Fcallback&response_type=code&state=iJYACLSKKReJnRuxH5lf5KJ45lpFfL18UIVsMacfxuMFc9pV0570s9IZ06NgYRag&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://auth-dev.census.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=FxDiSHtjJH1HuZ9YXFiI81na6ndygvQgoTKF0mn2PLM&code_challenge_method=S256&nonce=5fZ7GAbRoKRrxPBAOVAChSMvGijsTcPn2LNsFAPkBxL21zH2u6sT3ZcPK4qqRQJz&redirect_uri=https%3A%2F%2Fauth-dev.census.gov%2Fenduser%2Fcallback&response_type=code&state=LXyDggy46fpsihLaSO14yO1SKDnidilEK5DkoiiaefoBcVP1VB2e3739aKrM03X6&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "auth-dev.census.gov",
   "base_domain": "census.gov",
   "top_level_domain": "gov",
@@ -28,9 +28,9 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c46744d6ee15651516b502b9af2e85e",
+  "page_hash": "33a83173cf20a6ab243ef4287b9e4bbc",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -50,7 +50,7 @@
     "login.okta.com"
   ],
   "third_party_service_urls": [
-    "https://login.okta.com/lib/discoveryIframe-32e97a9dfa34e37bd066.min.js"
+    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -82,10 +82,10 @@
   "robots_txt_filesize": 137,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://auth-dev.census.gov/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

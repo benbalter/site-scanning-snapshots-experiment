@@ -34,9 +34,9 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7748c871111e7de1864caeb4672d4c78",
+  "page_hash": "1d0d73220a7a27eba12fa8a0855f77d7",
   "accessibility_violations": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "edgekey.net",
   "cms": "Drupal",
   "login_provider": null,
@@ -51,6 +51,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-PKW7RFP317,G-CSLL4ZEK4L,UA-39090997-1",
   "third_party_service_domains": [
+    "analytics.foresee.com",
     "cdn.jsdelivr.net",
     "code.jquery.com",
     "dap.digitalgov.gov",
@@ -62,6 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.foresee.com/ingest/events",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js",
     "https://code.jquery.com/jquery-2.2.4.min.js",
@@ -74,7 +76,11 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.compress.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.utils.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/sites/newsinhealth/production/gateway.min.js",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/sampling/testdomain.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/site/testdomain.nih.gov.json",
@@ -85,10 +91,9 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -140,7 +145,7 @@
   "sitemap_xml_url": "https://testdomain.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 193743,
+  "sitemap_xml_filesize": 126505,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2024-06-07T13:45:00.000Z",
   "sitemap_xml_pdf_count": 0,

@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "connection_reset",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "25b7cadc77b11ebc67f40e5318c84da6",
+  "page_hash": "089a7adbd959c7467c3bdd08e359d096",
   "accessibility_violations": null,
   "ipv6": false,
   "hostname": null,
@@ -49,13 +49,15 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".ferc.gov"
   ],

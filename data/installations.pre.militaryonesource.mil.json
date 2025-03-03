@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f0078be6fad1d7b2d4079f819f4133e5",
+  "page_hash": "24d0e96f5b97cdf8d4a79393f08a0a06",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
@@ -47,7 +47,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-XTTKJD1ENC,UA-29536396-1,UA-29536396-4",
   "third_party_service_domains": [
-    "analytics.foresee.com",
     "dap.digitalgov.gov",
     "download.militaryonesource.mil",
     "fonts.googleapis.com",
@@ -58,7 +57,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.foresee.com/ingest/events",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://download.militaryonesource.mil/APEX/images/down-arrow_100px.png",
@@ -71,25 +69,15 @@
     "https://fonts.gstatic.com/s/arvo/v22/tDbD2oWUg0MKqScQ7Z7o_vo.woff2",
     "https://fonts.gstatic.com/s/worksans/v19/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2",
     "https://gateway.foresee.com/code/19.13.1-fs/fs.compress.js",
-    "https://gateway.foresee.com/code/19.13.1-fs/fs.feedback.js",
-    "https://gateway.foresee.com/code/19.13.1-fs/fs.survey.js",
-    "https://gateway.foresee.com/code/19.13.1-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.13.1-fs/fs.utils.js",
-    "https://gateway.foresee.com/code/19.13.1-fs/templates/feedback/default/badge___html.js",
-    "https://gateway.foresee.com/code/19.13.1-fs/templates/feedback/default/epilogue___html.js",
-    "https://gateway.foresee.com/code/19.13.1-fs/templates/feedback/default/main.css",
-    "https://gateway.foresee.com/code/19.13.1-fs/templates/feedback/default/serviceunavailable___html.js",
-    "https://gateway.foresee.com/code/19.13.1-fs/templates/feedback/default/surveycontents___html.js",
-    "https://gateway.foresee.com/code/7.2.0-mp/mpathy-modern.js",
     "https://gateway.foresee.com/sites/militaryonesource/staging/gateway.min.js",
     "https://installations.militaryonesource.mil/mi_images/mi-logo.svg",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".militaryonesource.mil",
     "installations.pre.militaryonesource.mil"

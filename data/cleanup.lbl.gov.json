@@ -31,9 +31,9 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "completed",
+  "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "750b0464c84f56865ed7c4f08cfc609c",
+  "page_hash": "4d5bbcb8796de094e9560cb46609ad7c",
   "accessibility_violations": "{\"contrast\":7,\"images\":1}",
   "ipv6": true,
   "hostname": "cloudflare.net",
@@ -79,7 +79,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -113,10 +113,10 @@
   "robots_txt_sitemap_locations": [
     "https://cleanup.lbl.gov/wp-sitemap.xml"
   ],
-  "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://cleanup.lbl.gov/sitemap.xml",
-  "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_detected": null,
+  "sitemap_xml_url": null,
+  "sitemap_xml_status_code": null,
+  "sitemap_xml_media_type": null,
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

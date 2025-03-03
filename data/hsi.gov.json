@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "a84e3960d77fba0b152acd9172448fe6",
+  "page_hash": "4162d8e4b7f56ae4efc80027ffd67e84",
   "accessibility_violations": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
@@ -51,6 +51,7 @@
   "third_party_service_domains": [
     "brandcentral.ice.gov",
     "c.go-mpulse.net",
+    "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "s.go-mpulse.net",
@@ -63,19 +64,20 @@
   "third_party_service_urls": [
     "https://brandcentral.ice.gov/content/dam/ice/en/source/web/features/year-in-review/statistics/statsThumb1.png",
     "https://c.go-mpulse.net/api/config.json",
+    "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
-    "https://static.addtoany.com/menu/modules/core.junnp81e.js",
+    "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/c8dbda2a/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".ice.gov",
     "www.ice.gov"
@@ -159,11 +161,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 50,
-  "uswds_string": 50,
+  "uswds_string": 51,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 180,
+  "uswds_count": 181,
   "www_url": "https://www.ice.gov/about-ice/hsi",
   "www_status_code": 200,
   "www_title": "Homeland Security Investigations | ICE"
