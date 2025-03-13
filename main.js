@@ -34,7 +34,12 @@ async function main() {
     return fs.writeFile(`./data/${record.initial_domain}.json`, JSON.stringify(record, null, 2));
   });
 
-  await Promise.all(writePromises);
+  try { 
+    await Promise.all(writePromises);
+  } catch (error) {
+    core.setFailed(error.message);
+    return;
+  }
 
   core.info('All records have been written to disk');
 }
