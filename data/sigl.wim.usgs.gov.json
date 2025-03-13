@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "abbd63496ba1b47190ba30b102f1f6a2",
+  "page_hash": "db5e6eb5bffb450b2bbfb9c6123eb305",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":4}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -68,8 +69,9 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -90,8 +92,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Science in the Great Lakes (SiGL) Database Archive - ScienceBase-Catalog",
   "description": "In the Great Lakes basin, there are numerous organizations undertaking scientific monitoring and research efforts with the goal of identifying threats and evaluating management strategies that will protect and restore the Great Lakes ecosystem. Coordination among all these stakeholders is a challenge, and having a centralized location where researchers and managers can identify relevant scientific activities and access fundamental information about these activities is crucial for efficient management. The Science in the Great Lakes (SiGL) Mapper was a map-based discovery tool that spatially displayed basin-wide multidisciplinary monitoring and research activities conducted by both USGS and partners from all five Great Lakes. It was designed to help Great Lakes researchers and managers strategically plan, implement, and analyze monitoring and restoration activities by providing easy access to historical and on-going project metadata while allowing them to identify gaps (spatially and topically) that have been underrepresented in previous efforts or need further study. SiGL provided a user-friendly and efficient way to explore Great Lakes projects and data through robust search options while also providing a critical spatial perspective through its interactive mapping interface.",
   "keywords": "USGS Science Data Catalog (SDC), biota, surface water (non-marine), water sampling, datasets, data release, Great Lakes, Lake Erie, Lake Ontario, Lake Huron, Lake Michigan, Lake Superior, Minnesota, Wisconsin, Illinois, Indiana, Ohio, Pennsylvania, New York, Ontario, Canada, Michigan, Aquatic Biology, Ecology, Environmental Health, Hydrology, Information Sciences, Limnology, Sedimentology, Water Quality, Water Resources,",

@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b759b35c307a0efb59a81b419b49ded3",
+  "page_hash": "ee456a0ba4e0a29d97caa3c3a20f9f57",
   "accessibility_violations": "{\"contrast\":5}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -72,8 +73,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | NESC Academy Online",
   "description": "The NESC Academy enables effective knowledge capture and transfer, ensuring technical information remains viable and accessible. It provides a forum for the NASA community to gain critical knowledge to aid professional development and support the NASA mission. The NESC Academy presents live and on-demand content from researchers, engineers, and field experts in 21 technical disciplines relevant to the design, development, test, and operation of NASA programs and projects. It hosts more than 770 videos and webcasts containing interviews, tutorials, lectures, and lessons learned in an engaging format that features side-by-side video and slides, powerful search capabilities, downloadable course materials, and more.",
   "keywords": null,

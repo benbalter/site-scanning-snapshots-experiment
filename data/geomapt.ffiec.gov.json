@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f8c7d636f9fdafbd9ca51ebc90a5cdab",
+  "page_hash": "1d18ecc9271c1e883996f0bd715ef5d4",
   "accessibility_violations": "{\"contrast\":8}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -44,17 +45,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-3ABCHCl,G-CL1vdd1dNuH3h3V,G-0y5cWL0CkfVFdCC,G-b39Bu31j3eALqpQ,G-5aA3vG,G-15dlv,G-qHMOW4xn3zB0Q1l",
+  "ga_tag_id": "G-Irxd5MC6wbKGbeu,G-RzUFYAnVXJnKFaP,G-m92SOGD02ahmPAw,G-wt87aVcwZvFkrWI,G-F8HS9n4D53QFlYU,G-n5u8I2Uzfn8ycKt",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/91a036618901302c/1740911360480/KtAJtGkwJKo-IC7",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1072943558:1740907487:6iizD7F1WhBkZk4betYwdJFOxJmz9O8WwT5FLh3sypc/91a036618901302c/N330pNC7A.iJLcv59_ipjo1ROnYWQ_L34jHvakt9wEA-1740911360-1.1.1.1-lqXAyAP9J5o2mzJK.7.DebWdWfhjFcj1yagF_CucQoIXfvd96CpLAq2wxqO188Lq",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/91a036618901302c/1740911360482/a51b2e0136adfdd927c57f2dc85330941bcbeca92cf8eb896e5af25337d7da67/iP1-hr-nZLloA8l",
-    "https://challenges.cloudflare.com/turnstile/v0/b/b0e4a89976ce/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/91fb1c0e8b27121f/1741864486374/ZcqvcvECSoGET42",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/266687133:1741861611:_k5Do70O4fGhNBNm2KXyoOXqeaovZ80uIypmyBfEQbM/91fb1c0e8b27121f/7IBFnPOLm7VPQJ480XEiOxn_LKFOcEnf27YNFNAnTMY-1741864486-1.1.1.1-Wm9mbzC.bSIWT1IpmTD2Kb7lO7J_TMOYXFD1lfVq1HF4NiAKv9Gqe5kjOq3Ey5mm",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/91fb1c0e8b27121f/1741864486374/06260f169f9e2fe8461f3f0f5ede1d16016c2010496a98aec74280ec01efdf49/Uw8FfaA6S9SdQJi",
+    "https://challenges.cloudflare.com/turnstile/v0/g/f3b948d8acb8/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -70,8 +71,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Just a moment...",
   "description": null,
   "keywords": null,
@@ -93,10 +94,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://geomapt.ffiec.gov/sitemap.xml",
+  "sitemap_xml_status_code": 403,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

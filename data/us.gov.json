@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "81cdbae5fee8d85e8b79169d9ddca507",
+  "page_hash": "3479b8108433613e7995cf1e2b4300b0",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -51,7 +52,6 @@
   "third_party_service_domains": [
     "51567.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
-    "gov1.siteintercept.qualtrics.com",
     "script.crazyegg.com",
     "search.usa.gov",
     "siteimproveanalytics.com",
@@ -62,18 +62,10 @@
     "https://51567.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.473b9c303c15227ae144.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.b912ef1639c5fc6c8d81.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.0d313a2a8c9dd7f9ece9.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/sampling/www.usa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/site/www.usa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0007/9651.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/c7deac18f0e7b90e6cef3f0fe19c780a.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/79c737c2791fe6392c47120c36c7eaf0.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -81,14 +73,11 @@
     "https://siteimproveanalytics.com/js/siteanalyze_51567.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://znbabnroqffo1d7xq-cemgsa.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".usa.gov",
-    ".www.usa.gov",
-    "www.usa.gov"
+    ".usa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -105,8 +94,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Making government services easier to find | USAGov",
   "description": "Find government benefits, services, agencies, and information at USA.gov. Contact elected officials. Learn about passports, Social Security, taxes, and more.",
   "keywords": null,

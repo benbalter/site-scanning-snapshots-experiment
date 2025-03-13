@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "15b3511961f215ade4f93bf269ab721d",
+  "page_hash": "24cd1539692a919b3d18e92b1d230883",
   "accessibility_violations": "{\"aria\":10,\"contrast\":15}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -70,8 +71,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Spectral Calculator",
   "description": "Public tool for computing metrics derived from a light source spectral power distribution (SPD)",
   "keywords": null,

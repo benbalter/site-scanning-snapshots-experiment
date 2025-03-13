@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "73f77b8dcd40adf984c559767f4fa48b",
+  "page_hash": "78256beb691f96affac1a59a34478a65",
   "accessibility_violations": "{\"user-control-name\":7,\"images\":1,\"link-purpose\":1}",
+  "pageviews": 6222,
+  "visits": 2407,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -47,7 +48,7 @@
     "agency": "DOI"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-9Y0FY1HP4V,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-9Y0FY1HP4V,G-CSLL4ZEK4L,G-dh2IJ",
   "third_party_service_domains": [
     "content.hotjar.io",
     "dap.digitalgov.gov",
@@ -69,7 +70,7 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
-    "https://fonts.gstatic.com/s/materialsymbolsoutlined/v226/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOelbd5zrDAt.woff",
+    "https://fonts.gstatic.com/s/materialsymbolsoutlined/v230/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOelbd5zrDAt.woff",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://script.hotjar.com/modules.ef5986d046c68a8c77c1.js",
     "https://static.hotjar.com/c/hotjar-3690697.js",
@@ -91,8 +92,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "WHISPers",
   "description": null,
   "keywords": null,
@@ -122,7 +123,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "dc7c6a1258d3de0feb40c47ff599a6af",
+  "sitemap_xml_page_hash": "fbca6db02b282a1f4a21e0979e64e606",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

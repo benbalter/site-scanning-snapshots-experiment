@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c14d1e8fa8e462bc4ce6dc95a8036cbc",
+  "page_hash": "3cb39f9f9f5f809cf7039f16e72cd42b",
   "accessibility_violations": null,
+  "pageviews": 132,
+  "visits": 53,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -84,8 +85,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | SimpleReport",
   "description": null,
   "keywords": null,

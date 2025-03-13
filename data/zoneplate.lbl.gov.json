@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "018183d2c4356f186ae7c1f5da4ce704",
   "accessibility_violations": "{\"contrast\":16,\"frames-iframes\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -46,21 +47,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "cdnjs.cloudflare.com",
-    "lh7-rt.googleusercontent.com"
+    "cdnjs.cloudflare.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdmRpj3FyAfeZJfzjK8o_dncOp-ogUnKdnuIejnAAtP7rEarJ0NUo3BmFDuaIVNjVd84wVn9hGlSso3W7qS0IAL6I2pUsCvZnXpyE0nYN9V6UV2EklN2qkBJPnMLrVlYG5T2C3OFMV66trf_K1s",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4VWJ1LW4Ku7MK7wIV_mluV2TwRMyMfe2sdVSnts7KqQi97VUvDHlXth0cOJs6y5Kw920aEV4F41B_2M05n13M4o06oU6ZwOFhHe5DdsZJnhyiYE2Kqi11oSS7MXWMm8uSiZpTvnzwhxeU__3T",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXevz3oHxuEKSKq1b5DUYlA45S-2ahwEr0uCx_aSSFzT1lE-cbog-OU2OGOqs8OOhe40DBjsHchbok0CSSX8KjdHskJfHJsWZBlE57mvyRrtNMeA-F2A-kT70ikmD7CEXriDmEqSEaCrR8MIhDo",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3oqlA5-z021S0y9xrrKVeGaMIFczF3wefoJZ8JJbNlEpZPqPVBH3AoZzVEyVZTmJ9gWIHPKNtWYlXEITQ1bIHnZ5fIV4eYUg446J0s4wX9Y8Y9_tvMQZ6UKAqeMYv1uZu_e56Ov-6kW93oA8",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfu3MBL0tGcu-lCiI_lnPmgHXJkp48yO8fMABtVX1QrYRf6tMdZ0zCwYusIBgsG801jd94Dmyyol7y8FRXRdEjVme2p_DByDN8RxItYcFB177a6PR04KoG2qCMG4l1Iy_8_MyPzjtvdstFNmMM3",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvAEr5VnNWIefjEDPhi6Z9pjRCDXUtfukyYtT_gX_RcHwRBeYJZ0FwXYuiFm55YBt1zm26ebEUWIq7C3BsgFivgp8E30H6DpC0k4EriwvUkbUP7dKdFZ4uN0Hjv0USy0ffVsy13QlvXW9CnDGH"
+    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".lbl.gov",
     "zoneplate.lbl.gov"
@@ -72,8 +66,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": false,
   "title": "The MET Facilities @ Berkeley",
   "description": null,
   "keywords": null,
@@ -95,10 +89,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://zoneplate.lbl.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

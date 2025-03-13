@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,11 +31,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fb21d549f08211c8bca0e7783b2be67c",
+  "page_hash": "e2d602cbd59cf49d6aef9c7130a17f0b",
   "accessibility_violations": "{\"contrast\":13}",
+  "pageviews": 4920,
+  "visits": 3075,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -53,16 +54,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-H1EEN5H6TM,UA-41067187-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "nmsmonitor.blob.core.windows.net",
     "nmssanctuaries.blob.core.windows.net",
     "sanctuaries.noaa.gov",
+    "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -91,10 +95,11 @@
     "https://sanctuaries.noaa.gov/media/img/logos/onms-logo-no-text-74.png",
     "https://sanctuaries.noaa.gov/media/maps/nms-system-map-1000.jpg",
     "https://sanctuaries.noaa.gov/media/vr/20230825-s360-exploration-of-uss-monitor-border-1280.jpg",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/touchpoints/e84341d8.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -108,8 +113,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Monitor National Marine Sanctuary",
   "description": "Monitor National Marine Sanctuary is the first national marine sanctuary ever designated in the United States. It protects the wreck of the famed Civil War ironclad USS Monitor.",
   "keywords": "american samoa, island, sanctuary, sanctuaries, oceans, marine life, whales, shark, coral, kelp, underwater parks, coast, chart, navigation, NOAA, National Oceanic and Atmospheric Administration, sea, Pacific, Ocean, beach, oceans, seas, beaches, reef, coral, wave, waves, climate, surf, ship, ships, boat, boats",

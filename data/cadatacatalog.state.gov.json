@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "7d25c6baa772d175b54d2c32ac11b62e",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -58,7 +59,9 @@
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".state.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"
@@ -66,8 +69,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": true,
   "title": "Home Page - CADataCatalog",
   "description": null,
   "keywords": null,
@@ -89,10 +92,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://cadatacatalog.state.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "unknown",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

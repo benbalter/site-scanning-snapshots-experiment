@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "gpo_fdlp",
-    "cisa"
+    "gpo_fdlp"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6207cd45859d2b8510ae652165939f20",
+  "page_hash": "bec9c283db763c396a1f77f3fb09b38a",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -71,6 +72,7 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://siteimproveanalytics.com/js/siteanalyze_6024880.js",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.addtoany.com/menu/svg/icons/email.js",
@@ -81,7 +83,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -97,8 +99,8 @@
     "accessibility",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Roof Savings Calculator | ORNL",
   "description": "The Roof Savings Calculator was developed as an industry-consensus roof savings calculator for commercial and residential buildings using whole-building energy simulations. It is built upon the DOE-2.1E engine for fast energy simulation and integrates AtticSim for advanced modeling of modern attic and cool roofing technologies. An annual simulation of hour-by-hour performance is calculated for the building properties provided based on weather data for the selected location. RSC won an R&D-100 award in 2016.",
   "keywords": null,

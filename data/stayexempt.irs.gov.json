@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "a438676ddde545c76aca9fb630966124",
+  "page_hash": "7a9b17f79845f92657493e105687a7a9",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -47,22 +48,31 @@
   "dap_version": "",
   "ga_tag_id": "G-r0ouvFf4,G-KCS6HXCKJT",
   "third_party_service_domains": [
-    "17de4c0e.akstat.io",
+    "17de4c14.akstat.io",
+    "52-222-123-172_s-23-53-122-155_ts-1741783691-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
+    "gtphxlaxydtaiz6rqkfq-pcibos-13193cbd6-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
     "static.addtoany.com",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0e.akstat.io/",
+    "https://17de4c14.akstat.io/",
+    "https://52-222-123-172_s-23-53-122-155_ts-1741783691-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
+    "https://gtphxlaxydtaiz6rqkfq-pcibos-13193cbd6-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/H2KJJ-CRQFE-HD3RS-PT34U-TUMS6",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".irs.gov",
     ".stayexempt.irs.gov"
@@ -75,8 +85,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Welcome to StayExempt | Stay Exempt",
   "description": null,
   "keywords": null,
@@ -106,7 +116,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-02-06T19:52:55.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "16f45ca5784d07ae122f1aee394ecd2b",
+  "sitemap_xml_page_hash": "80d9805968f19bfdd8a98518f2f2ba23",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

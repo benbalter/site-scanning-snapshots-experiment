@@ -21,8 +21,7 @@
     "gov",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "bd0e75d86e4671999d02405dc454c225",
+  "page_hash": "2dbb5771bab1fd9b979195cb8f30c930",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -58,8 +59,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "| FIRENET",
   "description": null,
   "keywords": null,
@@ -81,10 +82,10 @@
   "robots_txt_filesize": 2027,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://firenet.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,
@@ -125,5 +126,5 @@
   "uswds_count": 210,
   "www_url": "https://www.firenet.gov",
   "www_status_code": 200,
-  "www_title": "| FIRENET"
+  "www_title": "Validation request"
 }

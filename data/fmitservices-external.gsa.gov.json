@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "omb_idea",
-    "cisa"
+    "omb_idea"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a54b6c0678e525d57af340b9bbb15797",
+  "page_hash": "655a31d68c44e5492a8f3152621131e7",
   "accessibility_violations": null,
+  "pageviews": 5993,
+  "visits": 2070,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -73,8 +74,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "U.S. General Services Administration",
   "description": null,
   "keywords": null,

@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9bf9e2739c8784874f767feb5fc7f76c",
+  "page_hash": "9641bcab6d1039c16322bce0e3d96808",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -65,8 +66,8 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://ad.doubleclick.net/activity;register_conversion=1;src=2507573;type=googl003;cat=fl-wo000;ord=9348521075341;npa=0;auiddc=1591000084.1740909070;ps=1;pcor=410146998;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;_tu=Kg;gtm=45fe52q0v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453~102693808~102717421~102732003;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fgmail%2F",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=COicxNeP64sDFdqrjggdWZoTDg;src=2507573;type=googl003;cat=fl-wo000;ord=9348521075341;npa=0;auiddc=*;ps=1;pcor=410146998;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;_tu=Kg;gtm=45fe52q0v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453~102693808~102717421~102732003;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fgmail%2F",
+    "https://ad.doubleclick.net/activity;register_conversion=1;src=2507573;type=googl003;cat=fl-wo000;ord=8027727293752;npa=0;auiddc=1956367516.1741846837;ps=1;pcor=403388987;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;_tu=Kg;gtm=45fe53c1v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;dc_fmt=10;tag_exp=102482433~102587591~102640600~102717422~102788824~102791784~102814060~102825837;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fgmail%2F",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CJnO1ZG1howDFYKNjggdp64IDw;src=2507573;type=googl003;cat=fl-wo000;ord=8027727293752;npa=0;auiddc=*;ps=1;pcor=403388987;uaa=;uab=;uafvl=;uamb=0;uam=;uap=;uapv=;uaw=0;frm=0;_tu=Kg;gtm=45fe53c1v9181638614z8595350za201zb886057375;gcs=G111;gcd=13r3r3l3l5l1;dma=0;dc_fmt=1;tag_exp=102482433~102587591~102640600~102717422~102788824~102791784~102814060~102825837;epver=2;~oref=https%3A%2F%2Fworkspace.google.com%2Fintl%2Fen-US%2Fgmail%2F",
     "https://analytics.google.com/g/collect",
     "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.z-CF99wuLeU.O/m=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo8yJLmK2FeQzRT4hxPn9_NEJo9eCg/cb=gapi.loaded_0",
     "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.z-CF99wuLeU.O/m=googleapis_proxy/rt=j/sv=1/d=1/ed=1/rs=AHpOoo8yJLmK2FeQzRT4hxPn9_NEJo9eCg/cb=gapi.loaded_0",
@@ -158,8 +159,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Gmail: Private and secure email at no cost | Google Workspace",
   "description": "Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.",
   "keywords": null,
@@ -181,10 +182,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://mail.fan.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

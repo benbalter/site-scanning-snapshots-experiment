@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "82f2a92dc1ffb5f56cfea777d8d65ff1",
+  "page_hash": "b4290e3fbf00516f8f210874733f3e56",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -63,11 +64,11 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/uts.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/uts.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/c7deac18f0e7b90e6cef3f0fe19c780a.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/79c737c2791fe6392c47120c36c7eaf0.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://siteintercept.qualtrics.com/dxjsmodule/1.473b9c303c15227ae144.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/5.b912ef1639c5fc6c8d81.chunk.js",
-    "https://siteintercept.qualtrics.com/dxjsmodule/8.0d313a2a8c9dd7f9ece9.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/1.ff7c5abe4d46f1630fe4.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/5.00fb9b654703a72e1595.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/8.df5dcf8aaf67ccb082ce.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
@@ -75,7 +76,8 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -87,8 +89,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "UMLS Terminology Services",
   "description": "This is an interface for searching and browsing the UMLS Metathesaurus data. Our goal here is to present the UMLS Metathesaurus data in a useful way.",
   "keywords": null,

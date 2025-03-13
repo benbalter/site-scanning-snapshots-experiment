@@ -23,8 +23,7 @@
     "omb_idea",
     "2020_eot",
     "gov_man",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,11 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "e584bbe9d9586768f1420d07be4640b3",
+  "page_hash": "549769ca980c249d30c6fa5f5cd35a87",
   "accessibility_violations": "{\"aria\":1}",
+  "pageviews": 22304,
+  "visits": 13598,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,7 +58,6 @@
   "ga_tag_id": "UA-54280084-4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cse.google.com",
-    "csp.withgoogle.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -69,7 +69,6 @@
   ],
   "third_party_service_urls": [
     "https://cse.google.com/cse.js",
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -86,12 +85,12 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/styles__ltr.css",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -108,8 +107,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NASA STI Compliance and Distribution Services - STI Compliance and Distribution Services",
   "description": "A flexible SEO friendly theme for Hugo",
   "keywords": null,

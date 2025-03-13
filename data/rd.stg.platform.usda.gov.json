@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "e7104519a7c961c3b16270bbbea9f9f2",
+  "page_hash": "4f13867a2f5037c9713b920f0444efbd",
   "accessibility_violations": "{\"contrast\":2}",
+  "pageviews": 702,
+  "visits": 155,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -68,6 +69,7 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://siteimproveanalytics.com/js/siteanalyze_10616.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -95,8 +97,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Rural Development",
   "description": null,
   "keywords": null,
@@ -128,7 +130,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-02-24T05:00:18.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "0b250800f0df4c1f85aa9a1b8dc1edfa",
+  "sitemap_xml_page_hash": "04b294dd7d1c5141c07b4def6dbcf492",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

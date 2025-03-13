@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f8fe00f0cef8f5c82629d67f63799c4e",
+  "page_hash": "7771d3836c8849f5ba0618be820ea97a",
   "accessibility_violations": null,
+  "pageviews": 73087,
+  "visits": 43024,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -55,6 +56,7 @@
     "8343.global.siteimproveanalytics.io",
     "cdn.eo.va.gov",
     "dap.digitalgov.gov",
+    "digital.va.gov",
     "maxcdn.bootstrapcdn.com",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "s7.addthis.com",
@@ -74,6 +76,7 @@
     "https://cdn.eo.va.gov/vendor/font-awesome/4.7/css/font-awesome.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://digital.va.gov/",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/polyfills.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/proxy-rewrite.entry.js",
@@ -112,9 +115,9 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".va.gov",
     "hiv.va.gov"
@@ -135,8 +138,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "HIV Home",
   "description": "The Department of Veterans Affairs (VA) leads the country in HIV screening, testing, treatment, research and prevention. This site provides information for health care providers and for Veterans and the public.",
   "keywords": "HIV, Medical,Center,vets,disease,treatment,OI, opportunistic infection,virus,needle,preventio",

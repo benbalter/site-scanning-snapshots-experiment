@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "3857d1c1f93edcee873c8226f684c8a9",
+  "page_hash": "f0b143b0eda0757146a9d8736a7d1976",
   "accessibility_violations": "{\"aria\":2,\"contrast\":5,\"images\":4,\"link-purpose\":5}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -44,7 +45,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-P0D0BHNFW9,G-ilxP78SlIODP4Zo",
+  "ga_tag_id": "G-P0D0BHNFW9,G-nj1w0N0MXCSZeFQ,G-Flc4EOF",
   "third_party_service_domains": [
     "api.userway.org",
     "cdn.userway.org",
@@ -61,17 +62,17 @@
   ],
   "third_party_service_urls": [
     "https://api.userway.org/api/v1/tunings/vMf5X5AqWW",
-    "https://cdn.userway.org/styles/2025-02-17-12-18-23/widget_base.css",
+    "https://cdn.userway.org/styles/2025-03-11-08-31-12/widget_base.css",
     "https://cdn.userway.org/widget.js",
-    "https://cdn.userway.org/widgetapp/2025-02-17-12-18-23/remediation/remediation_1739794703874.js",
-    "https://cdn.userway.org/widgetapp/2025-02-17-12-18-23/widget_app_base_1739794703874.js",
+    "https://cdn.userway.org/widgetapp/2025-03-11-08-31-12/remediation/remediation_1741681872888.js",
+    "https://cdn.userway.org/widgetapp/2025-03-11-08-31-12/widget_app_base_1741681872888.js",
     "https://cdn.userway.org/widgetapp/images/body_bl.svg",
     "https://cdn.userway.org/widgetapp/images/spin_bl.svg",
     "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/lora/v35/0QIvMX1D_JOuMwr7I_FMl_E.woff2",
-    "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6hPvhPQ.woff2",
+    "https://fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAaFF3zCPDaYKfF.woff",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
@@ -92,8 +93,8 @@
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/styles__ltr.css"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -106,8 +107,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | Southeast Crescent Regional Commission",
   "description": null,
   "keywords": null,
@@ -137,7 +138,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2024-11-25T20:23:33.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "a875bc7c74f076a51906888fa9606d4c",
+  "sitemap_xml_page_hash": "c44729a2c6b3f38bbdfed20a6a97c150",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

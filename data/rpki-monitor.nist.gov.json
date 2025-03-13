@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "803fb0e1fa2b3ac56816e3d470bcc03b",
+  "page_hash": "2d356065af1c99dfc33612e2209722d7",
   "accessibility_violations": "{\"aria\":3,\"contrast\":35,\"language\":1,\"images\":2,\"link-purpose\":3,\"form-names\":3}",
+  "pageviews": 185,
+  "visits": 58,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -55,6 +56,7 @@
     "dap.digitalgov.gov",
     "pages.nist.gov",
     "stackpath.bootstrapcdn.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -67,11 +69,12 @@
     "https://pages.nist.gov/nist-header-footer/images/nist_logo_brand_white.svg",
     "https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nist.gov"
   ],
@@ -89,8 +92,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NIST RPKI Monitor",
   "description": null,
   "keywords": null,
@@ -112,10 +115,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://rpki-monitor.nist.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

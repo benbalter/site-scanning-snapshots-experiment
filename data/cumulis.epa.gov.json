@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a30bc9c265508993351f8cf9c828268a",
+  "page_hash": "2942d38cbd468b5150b5780c58355d1b",
   "accessibility_violations": "{\"language\":1,\"link-purpose\":1}",
+  "pageviews": 369193,
+  "visits": 151213,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -61,9 +62,7 @@
     "https://www.epa.gov/epafiles/images/epafiles_misc_space.gif"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".epa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "foia"
@@ -72,8 +71,8 @@
     "accessibility",
     "foia"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Environmental Protection Agency",
   "description": null,
   "keywords": null,
@@ -97,10 +96,10 @@
   "robots_txt_sitemap_locations": [
     "https://cumulis.epa.gov/sitemaps/sitemap_index.xml"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://cumulis.epa.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

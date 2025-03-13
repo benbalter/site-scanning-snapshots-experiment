@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "936fec0d6e5c48a75a01bb4356c3d0b8",
+  "page_hash": "7820d5309d8beb92604bf7b9ddbee244",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -55,7 +56,9 @@
     "https://launchpad.nasa.gov/icam/api/assets/icam-api-hsts.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"
@@ -64,8 +67,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Access Launchpad",
   "description": null,
   "keywords": null,

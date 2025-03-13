@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d58d7e084b80acb86ecbc69c4e9e58f0",
+  "page_hash": "5a3827ae121f9de13deefc1cf02230ad",
   "accessibility_violations": "{\"contrast\":5}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -48,6 +49,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -60,8 +62,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Fermilab | Technical Publications | Welcome",
   "description": null,
   "keywords": null,

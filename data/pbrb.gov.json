@@ -21,8 +21,7 @@
     "gov",
     "dap",
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "72e80f4c4029fa992cbac9f13e61d313",
+  "page_hash": "8cdcf5cdb37a1daaa73686befa2bdc88",
   "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 4368,
+  "visits": 2254,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -58,8 +59,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -70,8 +70,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Public Buildings Reform Board",
   "description": null,
   "keywords": null,

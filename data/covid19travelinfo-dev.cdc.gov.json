@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "80327cc49fa9d4e05d5910483520d9b5",
   "accessibility_violations": null,
+  "pageviews": 0,
+  "visits": 18,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -72,8 +73,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "COVID-19 Travel Planner",
   "description": "The COVID-19 Travel Planner helps inform the public about possible travel restrictions implemented by state, territorial, tribal, and local health authorities.",
   "keywords": null,
@@ -103,7 +104,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "fcf522b9c9543d3c6a37a3739c6d6bd8",
+  "sitemap_xml_page_hash": "9f71b5fa5c92c985900e5c745ea428ac",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

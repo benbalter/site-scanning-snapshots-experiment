@@ -23,8 +23,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,11 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "a62747d3c51310f2e8efd056cb923f53",
   "accessibility_violations": "{\"contrast\":3}",
+  "pageviews": 1057,
+  "visits": 262,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -75,8 +76,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "IAWG.gov – Interagency Working Group on U.S. Government-Sponsored International Exchanges and Training",
   "description": null,
   "keywords": null,

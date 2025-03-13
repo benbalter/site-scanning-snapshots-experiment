@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea",
-    "cisa"
+    "omb_idea"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "07be846ea55c844c22db7b409e3dfdb1",
+  "page_hash": "31b6941afa4df6f9937e559f88afb045",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -50,7 +51,7 @@
     "agency": "VA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-r8vOkw,G-p81VSn,G-kL9fs7T9ikmK1th,G-nB2XLsK9Hf25WuQ,G-nuZsz2UiHL2g4YZ",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-suHp,G-deHbVQ5W1uWdoW2,G-gdiSBtJlU8rWdW5,G-sqM0H0pifKEwbOG,G-RoeCuCIwXF6tDTy,G-XFKT5QvTv7OzhKD,G-9esN,G-79OWr,G-o9Is71g9Aqs5bmB,G-J9hsi1Gm9bWo1gu,G-r9UWV",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -60,13 +61,13 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/919a520a1bb8ff0e/1740849578833/WfpvXtl2VoG80qs",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1414319510:1740846372:3rb0MoGkF2B-pSRG4YhK9ga3QpaeNDJASZaZqjpBqy8/919a520a1bb8ff0e/IRRklqkkMpcZGQNPfyIfoMPbwKi7PiW9rhBRFItk9Ow-1740849578-1.1.1.1-Rh30_3GzpiKli69iJm7uySft0Q7mi2UNfFAtWGTfMe.hNly4ydqbPb6KgggLz0ZM",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/919a520a1bb8ff0e/1740849578828/b3df13a4bb15308c4f7e8c2181331ca8af14a3198c0e2282de03f2c3caab8ed1/d6XEs-hjxzwr1nU",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/91f611e03d1b8e62/1741811640598/f8eeOCgZNvwoSSG",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1846199621:1741807815:_Bk8yQVjY9vAoxUpXEloW4QRC7F2YmewrUY6p91T_YU/91f611e03d1b8e62/McX4lx3xd43ezjS.EXDMLnE87BrsIpg4JOipgUITbuQ-1741811640-1.1.1.1-lFz2fknLkjvy7e0LpHfiFzLWVOBPjLO9.UMjv_1E8crT6P0iP5JrUdWAynQgqbh7",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/91f611e03d1b8e62/1741811640590/b3980c677826660ac5fe49a69f625c1a780d72807760ee0b588e9e403e6e5093/LDtIKWkyQgmCGJg",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/b0e4a89976ce/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/f3b948d8acb8/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
@@ -96,8 +97,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VISN 20 - Veterans Integrated Service Networks",
   "description": "Includes portions of Alaska, California, Idaho, Montana, Oregon, and Washington.",
   "keywords": null,

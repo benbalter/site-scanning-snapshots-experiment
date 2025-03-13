@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "453ea5b21e260a4a070e92c7892cd175",
+  "page_hash": "999abaa75b785b4469727313f313cb08",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": null,
@@ -90,8 +91,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": true,
   "title": "The Center for Nanoscale Materials",
   "description": null,
   "keywords": null,

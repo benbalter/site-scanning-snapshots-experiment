@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f03d1a5cbafbf09ce1652625f4c00971",
+  "page_hash": "73494008bcf38004cb95c5ac0497e36c",
   "accessibility_violations": null,
+  "pageviews": 527,
+  "visits": 295,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -74,8 +75,8 @@
     "privacy"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NASA JPL | RAPS",
   "description": "RAPweb static site build.",
   "keywords": null,

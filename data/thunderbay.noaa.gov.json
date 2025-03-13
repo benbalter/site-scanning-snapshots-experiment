@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "c13fe4cc9aa4f5985603d326ad677fec",
+  "page_hash": "bcf6e6c268cba032658aeb7a7a53875c",
   "accessibility_violations": "{\"contrast\":10,\"frames-iframes\":1}",
+  "pageviews": 7889,
+  "visits": 3558,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -52,6 +53,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-6QEKHC72LJ,UA-41067187-1,G-CSLL4ZEK4L,G-RtjTv4cIjfWGP8t",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -64,11 +66,13 @@
     "server.arcgisonline.com",
     "services.arcgisonline.com",
     "services2.arcgis.com",
+    "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -140,7 +144,6 @@
     "https://noaa.maps.arcgis.com/apps/MapTour/resources/icons/embed-arrows.png",
     "https://noaa.maps.arcgis.com/apps/MapTour/resources/icons/esri-logo-black.png",
     "https://noaa.maps.arcgis.com/apps/MapTour/resources/icons/font-awesome-4.7.0/css/font-awesome.min.css",
-    "https://noaa.maps.arcgis.com/apps/MapTour/resources/icons/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
     "https://noaa.maps.arcgis.com/apps/MapTour/resources/icons/loader-upload.gif",
     "https://noaa.maps.arcgis.com/apps/MapTour/resources/icons/mapcommand-home.png",
     "https://noaa.maps.arcgis.com/apps/MapTour/resources/icons/mapcommand-loading.gif",
@@ -226,14 +229,14 @@
     "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/National_Marine_Sanctuaries/FeatureServer/0",
     "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/Points_of_Interest_Thunder_Bay/FeatureServer/0",
     "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/Points_of_Interest_Thunder_Bay/FeatureServer/0/query",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/touchpoints/e70ae179.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 17,
   "cookie_domains": [
-    ".noaa.gov",
-    ".thunderbay.noaa.gov"
+    ".noaa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -242,11 +245,12 @@
     "privacy"
   ],
   "required_links_text": [
+    "accessibility",
     "foia",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Thunder Bay National Marine Sanctuary",
   "description": "Thunder Bay National Marine Sanctuary protects a nationally significant collection of nearly 100 historic shipwrecks in Lake Huron off the Michigan coast. Through research, education, and community involvement, the sanctuary works to ensure future generations can enjoy these underwater treasures.",
   "keywords": "Thunday Bay, Michigan, Alpena, Great Lakes, Lake Huron, sanctuary, sanctuaries, oceans, marine life, shipwrecks, coral, kelp, underwater parks, coast, chart, navigation, NOAA, National Oceanic and Atmospheric Administration, sea, oceans, seas, beaches, reef, coral, wave, waves, climate, surf, ship, ships, boat, boats",

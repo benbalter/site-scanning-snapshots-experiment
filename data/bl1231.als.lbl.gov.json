@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "85ac67c92e049f68ef025fb631e108a1",
+  "page_hash": "a2094b750d4b359c6fc97aec5855827f",
   "accessibility_violations": "{\"contrast\":9,\"link-purpose\":4}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "WordPress",
@@ -78,8 +79,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "The SIBYLS Beamline – Brought to you by IDAT, SBDR, and DOE",
   "description": null,
   "keywords": null,

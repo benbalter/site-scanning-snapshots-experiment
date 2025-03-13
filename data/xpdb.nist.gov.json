@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "39d08d132972cd0479cbade74f3872d1",
+  "page_hash": "8cf60ec1307edf121d877f199e2423a0",
   "accessibility_violations": "{\"contrast\":1,\"language\":1,\"images\":2,\"lists\":2,\"form-names\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -56,7 +57,6 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".nist.gov",
     "randr.nist.gov"
   ],
   "viewport_meta_tag": false,
@@ -72,8 +72,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Enzyme Thermodynamic Database",
   "description": null,
   "keywords": null,

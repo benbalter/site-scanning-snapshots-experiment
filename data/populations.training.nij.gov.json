@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "621ac3845c3165fa633ff1e46b5a5d84",
+  "page_hash": "122ec38fd58c470eada09d2152e3009e",
   "accessibility_violations": "{\"aria\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -61,7 +62,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/0a9beef3-a00f-47e4-871d-1d2447a9bc86",
+    "https://brain.foresee.com/state/ojp-main/1bc0f316-c07a-47f6-8aca-f78b0649d1a6",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -87,7 +88,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -111,8 +112,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Archived | Population Genetics and Statistics for Forensic Analysts | Home | National Institute of Justice",
   "description": "National Institute of Justice (NIJ) (see reuse policy).",
   "keywords": null,
@@ -134,10 +135,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://nij.ojp.gov/redirect-legacy/populations/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,
@@ -152,6 +153,7 @@
     "usa-alert",
     "usa-banner",
     "usa-button",
+    "usa-current",
     "usa-footer",
     "usa-footer-contact-heading",
     "usa-footer-contact-links",
@@ -173,12 +175,12 @@
     "usa-width-one-half"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 50,
+  "uswds_usa_classes": 60,
   "uswds_string": 6,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 98,
+  "uswds_count": 108,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

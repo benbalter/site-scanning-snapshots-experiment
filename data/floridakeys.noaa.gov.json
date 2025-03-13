@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "33ceed29800f2574071a0cf1fe3c99e6",
+  "page_hash": "0bae62568dec9a803ef11f39c6d90eeb",
   "accessibility_violations": "{\"contrast\":11,\"link-purpose\":1}",
+  "pageviews": 34129,
+  "visits": 21640,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -52,16 +53,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-1W8N5QMPVG,UA-41067187-6,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "nmsfloridakeys.blob.core.windows.net",
     "nmssanctuaries.blob.core.windows.net",
     "sanctuaries.noaa.gov",
+    "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -98,10 +102,11 @@
     "https://sanctuaries.noaa.gov/media/posters/2023-florida-keys-national-marine-sanctuary-poster-1200.jpg",
     "https://sanctuaries.noaa.gov/media/videos/2020-fknms-header.jpg",
     "https://sanctuaries.noaa.gov/media/videos/2020-fknms-header.mp4",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/touchpoints/9351efa4.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -116,8 +121,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Florida Keys National Marine Sanctuary",
   "description": "Florida Keys National Marine Sanctuary is home to a diverse community of underwater habitats, ranging from the only coral barrier reef in the continental United States to the largest documented contiguous seagrass community in the Northern Hemisphere.",
   "keywords": "Stellwagen, Bank, sanctuary, sanctuaries, oceans, marine life, whales, shark, coral, kelp, underwater parks, coast, chart, navigation, NOAA, National Oceanic and Atmospheric Administration, sea, Pacific, Ocean, beach, oceans, seas, beaches, reef, coral, wave, waves, climate, surf, ship, ships, boat, boats",

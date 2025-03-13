@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "792b11aaf317d32c3c91f8f3d16e7e1f",
+  "page_hash": "55e29809f9cc9e5bd1ce4e2ea956de7c",
   "accessibility_violations": "{\"lists\":11}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -64,9 +65,8 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://metrics.jpl.nasa.gov/b/ss/jplgcc/1/H.20.3/s84954866283255",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://metrics.jpl.nasa.gov/b/ss/jplgcc/1/H.20.3/s78118184188189",
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -79,8 +79,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | NOAA SciJinks – All About Weather",
   "description": "NOAA SciJinks inspires and engages students to learn about weather, satellite meteorology and Earth science. Our fun articles, games and videos are targeted toward middle- and high-school aged students and their educators.",
   "keywords": null,

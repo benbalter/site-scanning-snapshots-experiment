@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "unknown_error",
-  "page_hash": "b6bb2c13f11b670d3cb73c3e9db79867",
+  "www_scan_status": "ssl_protocol_error",
+  "page_hash": "00450b87e1528de8b769ae8f536beeaa",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -48,7 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-19138737-2,G-CSLL4ZEK4L,G-B2JHHJ2CSX",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "173bf105.akstat.io",
     "c.go-mpulse.net",
     "content.govdelivery.com",
     "dap.digitalgov.gov",
@@ -60,7 +61,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://173bf105.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://content.govdelivery.com/images/required.gif",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -74,7 +75,7 @@
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -98,8 +99,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": true,
   "title": "Home | Engraving & Printing",
   "description": null,
   "keywords": null,

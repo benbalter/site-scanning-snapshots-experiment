@@ -24,8 +24,7 @@
     "omb_idea",
     "2020_eot",
     "dod_public",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,11 +33,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "b445c067a87d35dd6bd787659a1fa456",
+  "page_hash": "bfb6e31dce530c71ac58c3bae21c688c",
   "accessibility_violations": null,
+  "pageviews": 1806,
+  "visits": 1134,
   "ipv6": false,
   "hostname": null,
   "cms": "DNN",
@@ -59,7 +60,6 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -69,14 +69,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cmts.gov",
-    ".www.cmts.gov",
-    "www.cmts.gov"
+    ".www.cmts.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -91,8 +89,8 @@
     "foia",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home",
   "description": null,
   "keywords": null,

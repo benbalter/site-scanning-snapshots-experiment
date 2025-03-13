@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "15c8b3524fed520a74824cf3c6d81827",
+  "page_hash": "5b89bf9de2d148a4ed31f33287b3d2a9",
   "accessibility_violations": null,
+  "pageviews": 694560,
+  "visits": 459951,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -90,8 +91,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "EDBlogs | U.S. Department of Education",
   "description": null,
   "keywords": null,
@@ -115,10 +116,10 @@
   "robots_txt_sitemap_locations": [
     "https://sites.ed.gov/wp-sitemap.xml"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://sites.ed.gov/wp-sitemap.xml",
+  "sitemap_xml_status_code": 200,
+  "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

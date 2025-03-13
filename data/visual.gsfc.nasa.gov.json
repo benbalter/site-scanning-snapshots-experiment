@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b777a821af695395c5612647f00a7735",
+  "page_hash": "4e6f1544ff672cb2cb68e1b8c4417ee6",
   "accessibility_violations": "{\"aria\":11,\"user-control-name\":1,\"contrast\":6,\"language\":1,\"images\":6,\"link-purpose\":3}",
+  "pageviews": 95612,
+  "visits": 33934,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -90,8 +91,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Sciences and Exploration Directorate",
   "description": "Sciences & Exploration Directorate",
   "keywords": "science, NASA, Goddard, GSFC, Goddard Space Flight Center, earth science, earth sciences, astrophysics, heliophysics, solar system, Earth and Space, Science Research, stars, universe, activities, education, lunar, moon, solar, sun, planets, planetary, Code 600, SED, Sciences and Exploration Directorate",

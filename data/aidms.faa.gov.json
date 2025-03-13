@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "oira",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e9485c01c36c571532013f77171d0e6a",
+  "page_hash": "e2b024cb562971629805b65146df75ea",
   "accessibility_violations": "{\"contrast\":2,\"page-titled\":1,\"language\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -46,12 +47,12 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c1d.akstat.io",
+    "173bf110.akstat.io",
     "c.go-mpulse.net",
     "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c1d.akstat.io/",
+    "https://173bf110.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://s.go-mpulse.net/boomerang/D8YFY-TTAA8-3DS5R-UQAWK-5Y85Q"
   ],
@@ -64,8 +65,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "",
   "description": null,
   "keywords": null,

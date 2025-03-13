@@ -25,8 +25,7 @@
     "2020_eot",
     "usagov",
     "oira",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -35,11 +34,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "20db19ffdb99cfb6c96f83dd9849cce0",
+  "page_hash": "06aaf42250b175be334196251fde795b",
   "accessibility_violations": null,
+  "pageviews": 47692,
+  "visits": 23460,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -61,7 +62,6 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "touchpoints.app.cloud.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -76,11 +76,10 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".onrr.gov"
   ],
@@ -101,8 +100,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | Office of Natural Resources Revenue",
   "description": null,
   "keywords": null,

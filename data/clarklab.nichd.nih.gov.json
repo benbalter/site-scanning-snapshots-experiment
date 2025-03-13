@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2753925f6b2c8e9e63ebae09235e9d28",
+  "page_hash": "8559a10f5a2257156d169de0ccadd64f",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -87,7 +88,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -111,8 +112,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "David Clark Lab: Section on Chromatin and Gene Expression | NICHD - Eunice Kennedy Shriver National Institute of Child Health and Human Development",
   "description": "The study of gene regulation is a prerequisite for understanding how cells respond appropriately to a changing environment, how they implement developmental programs, and how a defect in gene regulation can result in carcinogenesis. For many years it was thought that gene regulation involved only transcription factors and their interactions with DNA; changes in the chromatin structure of a gene were considered to be the passive consequence of the binding of these factors. However, it is now clear that chromatin structure is an integral part of the process of gene regulation.",
   "keywords": null,

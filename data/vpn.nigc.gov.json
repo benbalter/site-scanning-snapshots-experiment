@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3b19f158a825c890ded4c78c45d2a642",
+  "page_hash": "1f4edaccf074b8c2f941bc73f9896bef",
   "accessibility_violations": "{\"language\":1,\"images\":2,\"form-names\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -51,14 +52,13 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nigc.gov",
     "vpn.nigc.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "SSL VPN Service",
   "description": null,
   "keywords": null,

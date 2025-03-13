@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "6569f3fd33e9b07b42a728beceaedc26",
   "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 109,
+  "visits": 110,
   "ipv6": true,
   "hostname": "cloud.gov",
   "cms": null,
@@ -68,9 +69,7 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": [
-    ".epa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -79,8 +78,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Clean Air Markets Program Data (CAMPD) | US EPA",
   "description": "CAMPD is your one-stop shop for the emissions, compliance, allowance, and facility attributes data that is gathered under these programs.",
   "keywords": "Clean air markets program data, EPA, emissions, data, allowance, compliance, custom data download, CAMPD APIs, APIs, bulk data files, CAMPD, AMPD, ECMPS, CAMD, FTP, maps, graphs",

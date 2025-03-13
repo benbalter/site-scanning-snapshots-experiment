@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7ea58260b2d3f4051c50a4de583812e3",
+  "page_hash": "7f041163e45f9972ff644fe8cb01674a",
   "accessibility_violations": null,
+  "pageviews": 424,
+  "visits": 187,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -59,7 +60,7 @@
     "https://www.fhwa.dot.gov/includes/fhwaload.js",
     "https://www.fhwa.dot.gov/js/dot_analytics_2.js",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
+    "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
@@ -73,8 +74,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Manual on Uniform Traffic Control Devices (MUTCD) - FHWA",
   "description": null,
   "keywords": null,
@@ -104,7 +105,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "1de53f42fd3c3e689200d76ccdd509a8",
+  "sitemap_xml_page_hash": "048cdb9606b0de67c03144e1aa76563e",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

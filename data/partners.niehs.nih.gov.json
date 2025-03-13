@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,12 +30,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
-  "page_hash": "5833fe40925e99fd1fdb33b4e83a37ee",
+  "www_scan_status": "completed",
+  "page_hash": "9bcd07ed76f95461f70423abf1b2dbe3",
   "accessibility_violations": null,
-  "ipv6": false,
+  "pageviews": 8205,
+  "visits": 4060,
+  "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "Drupal",
   "login_provider": null,
@@ -83,7 +84,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.niehs.nih.gov/is_niehs_visitor",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -102,8 +103,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Welcome Research Partners",
   "description": "This page provides a portal for NIEHS researchers and their outside research partners into shared datasets and applications.",
   "keywords": null,
@@ -133,9 +134,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 1530,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2024-11-13T14:58:38.000Z",
+  "sitemap_xml_lastmod": "2025-03-06T19:46:42.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "6bd750635395c7389a2c2f27e925bf93",
+  "sitemap_xml_page_hash": "555f406c1257a2806d296e48beae1e04",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
@@ -171,7 +172,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 110,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://partners.niehs.nih.gov",
+  "www_status_code": 200,
+  "www_title": "Welcome Research Partners"
 }

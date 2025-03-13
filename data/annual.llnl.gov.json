@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5344fcdfb8d96a7ca9873afe7ac515c6",
+  "page_hash": "0c9bae9eb1cb201796d387f82f7456b1",
   "accessibility_violations": null,
+  "pageviews": 2804,
+  "visits": 1095,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "Drupal",
@@ -81,8 +82,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Annual Report",
   "description": "Learn about Lawrence Livermore National Lab's FY 2023 achievements.",
   "keywords": "lab annual, fy23 lab annual, fy23 annual report",

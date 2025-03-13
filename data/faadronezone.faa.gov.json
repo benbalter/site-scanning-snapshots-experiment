@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "oira",
-    "cisa"
+    "oira"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5634fce0f244774af45e814714348aab",
+  "page_hash": "62ff51bc8cb4b2e9e27e87afdc3eb446",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -46,23 +47,20 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "faa.d2.sc.omtrdc.net",
     "fonts.gstatic.com",
     "gov-bam.nr-data.net",
     "js-agent.newrelic.com",
     "www.faa.gov"
   ],
   "third_party_service_urls": [
-    "https://faa.d2.sc.omtrdc.net/b/ss/faadronezone/1/JS-2.1.0/s5584352324736",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2",
     "https://gov-bam.nr-data.net/1/NRJS-443a81e3d4984185501",
-    "https://gov-bam.nr-data.net/events/1/NRJS-443a81e3d4984185501",
     "https://js-agent.newrelic.com/nr-spa-1184.min.js",
     "https://www.faa.gov/script/omniture/appMeasurement.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".faa.gov"
   ],
@@ -86,8 +84,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "FAADroneZone Access - Home",
   "description": "",
   "keywords": null,
@@ -109,10 +107,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://faadronezone.faa.gov/sitemap.xml",
+  "sitemap_xml_status_code": 403,
+  "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

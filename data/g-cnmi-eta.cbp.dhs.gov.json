@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e412d456ee492d4f89d5c00472238639",
+  "page_hash": "83a345284c0c774d86f1d2aae4e212c5",
   "accessibility_violations": "{\"images\":1,\"lists\":7}",
+  "pageviews": 1729191,
+  "visits": 234853,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -66,8 +67,8 @@
     "https://www.google.com/recaptcha/enterprise/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/styles__ltr.css"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -82,8 +83,8 @@
     "accessibility",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Official G-CNMI ETA Application Website, U.S. Customs and Border Protection",
   "description": null,
   "keywords": "GCNMI, application, travel, united states, USA, official, US government, America, visa waiver program, electronic system for travel authorization, visa waiver travel, vwp, cbp, customs and border protection, dhs, department of homeland security, cnmi, guam",
@@ -105,10 +106,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://g-cnmi-eta.cbp.dhs.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

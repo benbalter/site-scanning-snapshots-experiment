@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6b5782c06cb8ac18e69f91b8357677a2",
+  "page_hash": "420097811a0e7f3107c4cdc088ad5f84",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -86,8 +87,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Small business | USAGov",
   "description": "Learn how to start your own business, including imports and exports. Find out how to research the market and fund your business.",
   "keywords": null,

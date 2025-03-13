@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "41e2e79aa3d8d8cd6d5ee15b739f7f3c",
+  "page_hash": "d3b372baa53341dbcaad55f14c3f9be9",
   "accessibility_violations": null,
+  "pageviews": 887,
+  "visits": 825,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,6 +55,7 @@
     "dap.digitalgov.gov",
     "maxcdn.bootstrapcdn.com",
     "pro.fontawesome.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -66,9 +68,10 @@
     "https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.woff2",
     "https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.woff2",
     "https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".va.gov",
     "www.innovation.va.gov"
@@ -90,8 +93,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VA-Office of Healthcare Innovation and Learning",
   "description": ">Office of Healthcare Innovation and Learning",
   "keywords": "",
@@ -113,10 +116,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://simlearn.va.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

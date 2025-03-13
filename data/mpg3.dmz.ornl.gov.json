@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "connection_reset",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "http2_error",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "http2_error",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0e8d567264e4e4482a82b463b67ff57d",
   "accessibility_violations": "{\"link-purpose\":1,\"lists\":1}",
+  "pageviews": 364,
+  "visits": 76,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -77,8 +78,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Fuel Economy",
   "description": "EPA gas mileage, safety, air pollution, and greenhouse gas estimates for new and used cars and trucks. Improve the MPG of your vehicle with our gas mileage tips.",
   "keywords": "fuel economy, gas mileage, mpg, fuel economy guide, miles per gallon, fuel efficient, new car, used car, car prices, MSRP, safety, electric car, alternative fuel vehicle, fuel saving, DOE, EPA",

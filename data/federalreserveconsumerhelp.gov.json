@@ -23,8 +23,7 @@
     "2020_eot",
     "gov_man",
     "final_url_websites",
-    "gpo_fdlp",
-    "cisa"
+    "gpo_fdlp"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -33,11 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "1756ceb62913218ab812d86d87a1001f",
+  "page_hash": "78691e487f522542c6f65afc8d5dfd53",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,13 +51,15 @@
   "dap_version": "",
   "ga_tag_id": "G-GSGHXT74SL",
   "third_party_service_domains": [
+    "analytics.google.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".federalreserveconsumerhelp.gov",
     "www.federalreserveconsumerhelp.gov"
@@ -71,8 +74,8 @@
     "about us",
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Federal Reserve Consumer Help",
   "description": "If you have a problem with a bank or other financial institution, contact the Federal Reserve for help.",
   "keywords": null,

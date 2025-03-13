@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "61276cd72fa94002bc9c9bf7fb7ed066",
+  "page_hash": "52fc286ad317ef825a5413cce9c4b902",
   "accessibility_violations": null,
+  "pageviews": 40129,
+  "visits": 11571,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -48,19 +49,15 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "adobe-ep.medicaid.gov",
-    "cdn1.adoberesources.net",
     "tags.tiqcdn.com",
     "tealium-tags.medicaid.gov"
   ],
   "third_party_service_urls": [
-    "https://adobe-ep.medicaid.gov/ee/v1/interact",
-    "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicaid-data/prod/utag.22.js",
     "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.js",
     "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.sync.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".medicaid.gov"
   ],
@@ -77,8 +74,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Data.Medicaid.gov",
   "description": "The official U.S. government website for Medicaid open data. Publicly available datasets for research and transparency.",
   "keywords": null,
@@ -104,11 +101,11 @@
   "sitemap_xml_url": "https://data.medicaid.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 78329,
+  "sitemap_xml_filesize": 78649,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "948d18dc7e5f3668dfcc3ca93798c12c",
+  "sitemap_xml_page_hash": "bab401db0a6b2e1b541999d2d10768b9",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

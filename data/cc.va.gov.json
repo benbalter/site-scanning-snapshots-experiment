@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "29eda3bc5a4a4dc993b147282fc6073e",
+  "page_hash": "78444af091591b25b4231c883540c170",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -99,8 +100,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | Connected Care",
   "description": "The Office of Connected Care brings VA digital technology to Veterans and health care professionals.",
   "keywords": null,
@@ -159,12 +160,12 @@
     "usa-social-link"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 55,
+  "uswds_usa_classes": 50,
   "uswds_string": 4,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": null,
-  "uswds_version": 0,
-  "uswds_count": 139,
+  "uswds_semantic_version": "2.13.1",
+  "uswds_version": 100,
+  "uswds_count": 234,
   "www_url": "https://connectedcare.va.gov",
   "www_status_code": 200,
   "www_title": "Home | Connected Care"

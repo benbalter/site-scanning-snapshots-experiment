@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "344c060eb20d8e0b444a7caa8b02599f",
+  "page_hash": "6aa8731b2001e2293666fddbea803128",
   "accessibility_violations": "{\"contrast\":5,\"images\":2,\"link-purpose\":4}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -62,8 +63,8 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/EGO3I7Q26cZ-jBw3BEtzIx7-/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/EGO3I7Q26cZ-jBw3BEtzIx7-/styles__ltr.css"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -77,18 +78,18 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "State and Community Energy Programs Support",
   "description": null,
   "keywords": null,
-  "og_title": null,
-  "og_description": null,
+  "og_title": "HOME",
+  "og_description": "",
   "og_article_published": null,
   "og_article_modified": null,
   "og_image": null,
-  "og_type": null,
-  "og_url": null,
+  "og_type": "article",
+  "og_url": "https://weatherization.ornl.gov/",
   "canonical_link": "https://weatherization.ornl.gov/",
   "language": "en-US",
   "language_link": "",

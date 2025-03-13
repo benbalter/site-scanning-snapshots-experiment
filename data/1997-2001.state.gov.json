@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "bb0571671d6db40ea6c84ee5b8dcd76f",
   "accessibility_violations": "{\"language\":1}",
+  "pageviews": 129239,
+  "visits": 118826,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -69,8 +70,8 @@
   "required_links_text": [
     "foia"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "U.S. State Department, Official Web Site",
   "description": "The Official web site of the United States State Department",
   "keywords": "US State Department, International, Visas, Passports, Country, Bureau, Government, United States, Foreign Policy, Albright, Secretary of State, U.S. Department of State, Regions, Outreach, Services, Reorganization, Diplomacy, Embassy, Consulate, Foreign Service, Civil Service",

@@ -18,7 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -27,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fad7970409f37d50cc2926ee3892b78f",
+  "page_hash": "95792a359406739bd3764b82f13956fc",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -44,7 +46,6 @@
   "dap_version": "",
   "ga_tag_id": "G-STRPFC67HZ,G-WW3TCK1XSS,G-K6SN74DP0D",
   "third_party_service_domains": [
-    "ajax.googleapis.com",
     "content.presspage.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -54,10 +55,9 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js",
-    "https://content.presspage.com/uploads/1913/14716823-8796-4920-b909-6418b1befce8/500_cyberx2-2025copy.jpg",
-    "https://content.presspage.com/uploads/1913/d53c7e93-bf90-4181-8294-fbef82c16a1e/500_glrboehmera.jpg",
-    "https://content.presspage.com/uploads/1913/f2d9b8d2-187b-404d-8c78-2fcf4d06ac69/500_flayex2.jpg",
+    "https://content.presspage.com/uploads/1913/16af605d-a402-4df8-89b5-fae5c9362c91/500_koh-0034.jpg",
+    "https://content.presspage.com/uploads/1913/36a6d685-4763-4713-9f01-57622056ad95/500_glider1.jpg",
+    "https://content.presspage.com/uploads/1913/a039e6b3-b6c5-4f3b-9309-e8f11c3aeda0/500_fc-fertilekeynoteazwgrickpallister.jpg",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2",
@@ -67,7 +67,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".cap.gov",
     ".txwg.cap.gov",
@@ -81,8 +81,8 @@
   "required_links_text": [
     "inspector general"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Texas Wing | Civil Air Patrol",
   "description": "",
   "keywords": null,
@@ -110,11 +110,11 @@
   "sitemap_xml_url": "https://txwg.cap.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 18562,
-  "sitemap_xml_count": 138,
-  "sitemap_xml_lastmod": "2025-02-26T00:00:00.000Z",
+  "sitemap_xml_filesize": 18250,
+  "sitemap_xml_count": 136,
+  "sitemap_xml_lastmod": "2025-03-09T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "53da935326e7d39c9ba099d569fe9588",
+  "sitemap_xml_page_hash": "7980c5d21e40f2794da3b7bd4f55afea",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

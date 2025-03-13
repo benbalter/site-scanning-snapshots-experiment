@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "d09a744e80fa09877d78324fb10ab2b9",
   "accessibility_violations": null,
+  "pageviews": 120,
+  "visits": 60,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -53,6 +54,7 @@
     "fonts.googleapis.com",
     "maxcdn.bootstrapcdn.com",
     "www.cdc.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,9 +63,10 @@
     "https://www.cdc.gov/JScript/metrics/adobe/analytics_cdcgov.js",
     "https://www.cdc.gov/JScript/metrics/google/Universal-Federated-Analytics-Min.js",
     "https://www.cdc.gov/JScript/metrics/topic_levels.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".cdc.gov"
   ],
@@ -72,8 +75,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": true,
   "title": "COVID-19 Travel Planner",
   "description": "The COVID-19 Travel Planner helps inform the public about possible travel restrictions implemented by state, territorial, tribal, and local health authorities.",
   "keywords": null,
@@ -95,15 +98,15 @@
   "robots_txt_filesize": 67,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
-  "sitemap_xml_filesize": null,
-  "sitemap_xml_count": null,
+  "sitemap_xml_detected": true,
+  "sitemap_xml_url": "https://covid19travelinfo.origin.cdc.gov/sitemap.xml",
+  "sitemap_xml_status_code": 200,
+  "sitemap_xml_media_type": "application/xml",
+  "sitemap_xml_filesize": 0,
+  "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
-  "sitemap_xml_pdf_count": null,
-  "sitemap_xml_page_hash": null,
+  "sitemap_xml_pdf_count": 0,
+  "sitemap_xml_page_hash": "353095e17bce80846f7030f1321ee9d5",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

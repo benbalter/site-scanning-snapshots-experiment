@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,12 +27,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "71c2312bf78510a1d01f606db7323e3b",
+  "page_hash": "1facc102f155c446cb29b3280149ea1b",
   "accessibility_violations": null,
-  "ipv6": false,
+  "pageviews": null,
+  "visits": null,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -56,7 +57,7 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s48247243049164",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s22421447326351",
     "https://static.cancer.gov/webanalytics/WA_DCCPS_PageLoad.js",
     "https://static.cancer.gov/webanalytics/WA_DCCPS_post.js",
     "https://static.cancer.gov/webanalytics/WA_DCCPS_pre.js",
@@ -82,8 +83,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Long Island Breast Cancer Study Project (Past Initiative) | EGRP/DCCPS/NCI/NIH",
   "description": "The Long Island Breast Cancer Study Project begain in 1993 to study the role of environmental factors and breast cancer in Suffolk, Nassau and Schoharie counties in NY and Tolland County, CT.",
   "keywords": null,

@@ -30,10 +30,12 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "0110b4e28fd5a87feaa4aa4b1836a8c1",
-  "accessibility_violations": "{\"images\":4,\"link-purpose\":2,\"keyboard-access\":1}",
+  "page_hash": "aa11983ed40bc94a1870228b4b61702c",
+  "accessibility_violations": "{\"user-control-name\":1,\"images\":4,\"link-purpose\":2,\"keyboard-access\":1}",
+  "pageviews": 473232,
+  "visits": 288866,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -58,23 +60,19 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://dl.dod.cyber.mil/wp-content/uploads/home/hero/cac2023-home-hero.jpg",
-    "https://dl.dod.cyber.mil/wp-content/uploads/home/hero/option02-home-hero.jpg",
+    "https://dl.dod.cyber.mil/wp-content/uploads/cac2023-home-hero-1536x674-1.jpg",
     "https://dl.dod.cyber.mil/wp-content/uploads/home/img/Cyber-Awareness-Challenge.jpg",
     "https://dl.dod.cyber.mil/wp-content/uploads/home/img/icons/Cyber-Awareness-Challenge-icon.png",
     "https://dl.dod.cyber.mil/wp-content/uploads/home/img/icons/Online-Training-icon.png",
     "https://dl.dod.cyber.mil/wp-content/uploads/home/img/icons/Training_Products-icon.png",
-    "https://dl.dod.cyber.mil/wp-content/uploads/home/img/img1.jpg",
-    "https://dl.dod.cyber.mil/wp-content/uploads/home/img/img2.jpg",
-    "https://dl.dod.cyber.mil/wp-content/uploads/home/img/lesser-known-sma/lesserBanner-019.jpg",
+    "https://dl.dod.cyber.mil/wp-content/uploads/option03-home-hero.jpg",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".cyber.mil",
-    "public.cyber.mil"
+    ".cyber.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -107,10 +105,10 @@
   "robots_txt_sitemap_locations": [
     "https://public.cyber.mil/wp-sitemap.xml"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://public.cyber.mil/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

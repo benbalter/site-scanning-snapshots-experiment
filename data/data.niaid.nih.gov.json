@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,12 +29,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "bd56e6caf84c9d33753f49ceabe02314",
+  "page_hash": "d6c5fec19f6fb7b806d876c7ca2f5cf3",
   "accessibility_violations": null,
-  "ipv6": false,
+  "pageviews": 21992,
+  "visits": 17486,
+  "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
   "login_provider": null,
@@ -60,8 +61,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -85,8 +85,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NIAID Data Discovery Portal | Home",
   "description": "Find and access allergic, infectious and immune-mediated disease data by searching across biomedical data repositories with the NIAID Data Discovery Portal",
   "keywords": "omics, data, infectious disease, epidemiology, clinical trial, immunology, bioinformatics, surveillance, search, repository",

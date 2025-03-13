@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "7693352b49fd846710381c30551911d3",
+  "page_hash": "1fca05a1c9e403b92cc9aa74db5eb5aa",
   "accessibility_violations": "{\"contrast\":9,\"link-purpose\":1}",
+  "pageviews": 5492,
+  "visits": 3349,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -52,16 +53,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-QCDLV33WJE,UA-41067187-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "nmsolympiccoast.blob.core.windows.net",
     "nmssanctuaries.blob.core.windows.net",
     "sanctuaries.noaa.gov",
+    "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -98,10 +102,11 @@
     "https://sanctuaries.noaa.gov/media/videos/wk239-ocnms-tourism-640.jpg",
     "https://sanctuaries.noaa.gov/media/videos/wk239-ocnms-tourism.mp4",
     "https://sanctuaries.noaa.gov/stories/olympic-coast-800-filter.jpg",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/touchpoints/a47b1bd3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -112,11 +117,12 @@
     "privacy"
   ],
   "required_links_text": [
+    "accessibility",
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Olympic Coast National Marine Sanctuary",
   "description": "Olympic Coast National Marine Sanctuary is one of the nation's most treasured ocean areas, and home to a rich abundance of marine mammals, seabirds, fish, and thriving invertebrate communities.",
   "keywords": "american samoa, island, sanctuary, sanctuaries, oceans, marine life, whales, shark, coral, kelp, underwater parks, coast, chart, navigation, NOAA, National Oceanic and Atmospheric Administration, sea, Pacific, Ocean, beach, oceans, seas, beaches, reef, coral, wave, waves, climate, surf, ship, ships, boat, boats",

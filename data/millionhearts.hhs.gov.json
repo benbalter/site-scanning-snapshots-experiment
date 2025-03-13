@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "final_url_websites",
-    "gpo_fdlp",
-    "cisa"
+    "gpo_fdlp"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,11 +31,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "96e64c89e4c3a51f7c65e9c9dd66462e",
+  "page_hash": "8c94875c082e43e30f9fac7d29937d60",
   "accessibility_violations": "{\"lists\":1}",
+  "pageviews": 34990,
+  "visits": 25496,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -62,7 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s52664300732066",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s67279884213611",
     "https://mtrics.cdc.gov/cdcgov/1.0.0/s.gif",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
@@ -105,8 +106,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Million Hearts®",
   "description": "Learn about the Million Hearts® goal to save 1 million lives.",
   "keywords": null,

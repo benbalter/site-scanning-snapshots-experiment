@@ -23,8 +23,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,11 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "completed",
-  "page_hash": "54d7e7713c50ff145e41b107f3a98984",
+  "page_hash": "c2721ef25e2f3b29556b49614afcf8f5",
   "accessibility_violations": null,
+  "pageviews": 256396,
+  "visits": 92276,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -50,15 +51,14 @@
     "agency": "DOI"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-GgeW8U",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "aws-volunteer-staticdata.s3.amazonaws.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "npgallery.nps.gov",
-    "www.flickr.com",
-    "www.fws.gov",
+    "www.fs.usda.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nps.gov"
@@ -68,16 +68,16 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
-    "https://npgallery.nps.gov/GetAsset/3376b555-a8b1-4046-846c-45517f27b2d6/proxyhires.jpg",
-    "https://www.flickr.com/photos/mypubliclands/15670427561/in/photolist-pSK3ax-GgfcWY-FKYxri-Ggf7uW-GzvrCD-FKPyTL-Gx8n8J-Gx96Q7-GCZD7G-GgeW8U-GFkRt2-GCZkEN-GFkPyv-FKYynM-GgeR7m-GCZAjN-GFkEb2-pAzG1C-GgfeYd-GzvpSe-Gx981J-FKNRd1-pSK3gp-GFkxSR-Ggfbqw-FKNVdL-GCZE",
-    "https://www.fws.gov/sites/default/files/styles/scale_width_1200/public/2021-10/TWAll%20USFWS70787204_10157877202888756_1382709655171497984_n.jpg",
+    "https://npgallery.nps.gov/GetAsset/c35f1a42-56ae-45d3-a6d4-6ea5cbdec9a9/proxymdres.jpg",
+    "https://www.fs.usda.gov/recmain/osfnf/recreation",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.nps.gov/cham/planyourvisit/images/IMG_6999.JPG",
-    "https://www.nps.gov/npgallery/GetAsset/4045aaf5-aff6-472f-a850-b20165395f50/proxy/hires",
-    "https://www.nps.gov/tica/getinvolved/images/COLLAGE_12.jpg"
+    "https://www.nps.gov/common/uploads/cropped_image/primary/462533A9-B649-487F-7123114AB0A7E501.jpg",
+    "https://www.nps.gov/common/uploads/structured_data/06AD0C98-D8DD-F0DD-7FDD5F0A95B9348D.jpg",
+    "https://www.nps.gov/long/getinvolved/images/Garden-VIPs_2.jpeg",
+    "https://www.nps.gov/wefa/getinvolved/images/volunteer-13.JPG"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".volunteer.gov",
     "www.volunteer.gov"
@@ -93,8 +93,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home",
   "description": null,
   "keywords": null,

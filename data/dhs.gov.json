@@ -26,8 +26,7 @@
     "usagov",
     "gov_man",
     "oira",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,11 +35,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "78481f1f513d28ebc3795cc137ccfe64",
+  "page_hash": "11d6ae16bb9b88a58da6896ae94d31e3",
   "accessibility_violations": null,
+  "pageviews": 6213261,
+  "visits": 3990840,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -56,6 +57,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,UA-32318423-1,G-X7LCTSTP70,G-5YY8Y4R5TC",
   "third_party_service_domains": [
+    "17de4c0d.akstat.io",
     "6025116.global.siteimproveanalytics.io",
     "analytics.google.com",
     "c.go-mpulse.net",
@@ -71,6 +73,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c0d.akstat.io/",
     "https://6025116.global.siteimproveanalytics.io/image.aspx",
     "https://analytics.google.com/g/collect",
     "https://c.go-mpulse.net/api/config.json",
@@ -94,11 +97,12 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
-    ".dhs.gov"
+    ".dhs.gov",
+    "www.dhs.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -118,8 +122,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | Homeland Security",
   "description": "U.S. Department of Homeland Security: With honor and integrity, we will safeguard the American people, our homeland, and our values.",
   "keywords": null,
@@ -149,9 +153,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 4231,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-28T15:03:32.000Z",
+  "sitemap_xml_lastmod": "2025-03-10T20:32:30.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "7c35018374defdc2784f6206ec5a3ad0",
+  "sitemap_xml_page_hash": "64f5bca6d514f59748046d6897970701",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -183,11 +187,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 100,
-  "uswds_string": 49,
+  "uswds_string": 48,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 189,
+  "uswds_count": 188,
   "www_url": "https://www.dhs.gov",
   "www_status_code": 200,
   "www_title": "Home | Homeland Security"

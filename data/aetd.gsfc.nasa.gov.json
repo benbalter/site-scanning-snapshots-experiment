@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4dd8305e4f9b14ac556a45f8aec765e0",
+  "page_hash": "731e895a6ceff244e55fce4decc5c0d8",
   "accessibility_violations": "{\"aria\":1,\"user-control-name\":3,\"link-purpose\":6,\"lists\":5}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -77,8 +78,8 @@
     "accessibility",
     "foia"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "ETD | Goddard Engineering and Technology Directorate",
   "description": null,
   "keywords": null,

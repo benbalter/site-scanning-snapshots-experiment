@@ -18,22 +18,23 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "dns_resolution_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "dns_resolution_error",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "dns_resolution_error",
-  "www_scan_status": "completed",
-  "page_hash": "54774c79a57391e0cb0208c575b8130b",
-  "accessibility_violations": null,
-  "ipv6": false,
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "64e613afa7ef9bc4ec4d6c688e1bbc15",
+  "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": null,
+  "visits": null,
+  "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
   "login_provider": null,
@@ -45,7 +46,7 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-WxewNR5DDDjQhkb,G-N3MfR2RQHYgP3Lj,G-6eGCOqwahTHOvGg",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-4tOXiruja3gWFFS,G-eUQjE9,G-lCoE1qJ4iS4zCfL",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
@@ -72,8 +73,8 @@
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/styles__ltr.css"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -92,8 +93,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "The BRAIN Blog | BRAIN Initiative",
   "description": null,
   "keywords": null,
@@ -143,7 +144,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_url": "https://braininitiative.nih.gov/news-events/blog",
-  "www_status_code": 200,
-  "www_title": "The BRAIN Blog | BRAIN Initiative"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

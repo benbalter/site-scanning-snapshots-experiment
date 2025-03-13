@@ -25,7 +25,6 @@
     "mil-sites2",
     "dod_public",
     "final_url_websites",
-    "cisa",
     "dod_2025"
   ],
   "public": null,
@@ -35,11 +34,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "39c9893ef4e154e21fbc901f251d9001",
+  "page_hash": "b0287fb8f862a054a5febb0b7c1a9580",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":3}",
+  "pageviews": 2020,
+  "visits": 1284,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -63,16 +64,15 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
     ".ise.gov",
-    ".nmio.ise.gov"
+    ".nmio.ise.gov",
+    "nmio.ise.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -88,8 +88,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home",
   "description": null,
   "keywords": null,
@@ -113,10 +113,10 @@
   "robots_txt_sitemap_locations": [
     "/DesktopModules/SiteData/SiteMap.ashx"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://nmio.ise.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

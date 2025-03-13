@@ -16,11 +16,10 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Medicare and Medicaid Services",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8dd8cfbd855c0d7e2ee4b4cba362aba4",
+  "page_hash": "6968227d88922a59fe235741e09e1df3",
   "accessibility_violations": null,
+  "pageviews": 18,
+  "visits": 4,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -58,7 +59,8 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".cms.gov"
+    ".cms.gov",
+    ".openpaymentsdata.cms.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -73,8 +75,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "CMS Open Payments",
   "description": "The official U.S. government website that houses data collected and published by Open Payments, a federally mandated program that collects information about payments that reporting entities, including drug and medical device companies make to covered recipients like physicians.",
   "keywords": null,
@@ -104,7 +106,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "9e27ee3a3d7a4925bef0381635f4d8d9",
+  "sitemap_xml_page_hash": "93dd43d9923ab3fea54b975c99abb8a4",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

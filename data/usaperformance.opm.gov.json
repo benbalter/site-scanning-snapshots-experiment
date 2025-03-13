@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "unknown_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a63b1e0bd8f0ec5cd74f30f7d48b6e27",
+  "page_hash": "c46e0e49f51d797ff0021e7ba0155193",
   "accessibility_violations": null,
+  "pageviews": 392286,
+  "visits": 267690,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -56,8 +57,6 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/usa_performance/production/gateway.min.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -74,8 +73,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "USA Performance® - Login Page",
   "description": null,
   "keywords": null,

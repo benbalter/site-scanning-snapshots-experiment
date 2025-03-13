@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b85ab80fca55108fe0c7420a2ff97342",
+  "page_hash": "02e5c7bb5ffc89a128774e6df44b159b",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -54,13 +55,13 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/88a85f713b1128/128.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/88a85f713b1128/webmon.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
@@ -81,8 +82,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Special Collections at the Library | National Agricultural Library",
   "description": "Discover historical, agricultural materials and information on Special Collections, National Agricultural Library.",
   "keywords": null,

@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "dns_resolution_error",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "dns_resolution_error",
   "performance_scan_status": "dns_resolution_error",
   "robots_txt_scan_status": "dns_resolution_error",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "dns_resolution_error",
   "www_scan_status": "completed",
   "page_hash": null,
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -51,8 +52,8 @@
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": null,
   "description": null,
   "keywords": null,
@@ -95,7 +96,7 @@
   "uswds_semantic_version": null,
   "uswds_version": null,
   "uswds_count": null,
-  "www_url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online&spEntityID=urn:www.see.noaa.gov&service=cac-meta-tree&goto=https://sso.noaa.gov:443/openam/saml2/continue/metaAlias/noaa-online/idp?secondVisitUrl%3D/openam/SSORedirect/metaAlias/noaa-online/idp?ReqID%253D_069F8BF565E072F48B3CD359179C5F30&AMAuthCookie=",
+  "www_url": "https://sso.noaa.gov/openam/XUI/?realm=/noaa-online&spEntityID=urn:www.see.noaa.gov&service=cac-meta-tree&goto=https://sso.noaa.gov:443/openam/saml2/continue/metaAlias/noaa-online/idp?secondVisitUrl%3D/openam/SSORedirect/metaAlias/noaa-online/idp?ReqID%253D_D88857D11FDDBC53E125999173D148E5&AMAuthCookie=",
   "www_status_code": 200,
   "www_title": "NOAA SSO"
 }

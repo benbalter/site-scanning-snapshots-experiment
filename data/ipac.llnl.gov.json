@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "035f0b0bfc54108111880e086f952058",
+  "page_hash": "45f0dc0629275312171bf41afaa82963",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -81,8 +82,8 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/EGO3I7Q26cZ-jBw3BEtzIx7-/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/EGO3I7Q26cZ-jBw3BEtzIx7-/styles__ltr.css"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -97,8 +98,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "| Innovation and Partnerships Office",
   "description": null,
   "keywords": null,
@@ -124,11 +125,11 @@
   "sitemap_xml_url": "https://ipo.llnl.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 107480,
+  "sitemap_xml_filesize": 107733,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-24T15:50:53.000Z",
+  "sitemap_xml_lastmod": "2025-03-11T14:26:54.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "9ef73d4407a6c96c44f006246e63b28b",
+  "sitemap_xml_page_hash": "b92be53002034c21d50730963679037c",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

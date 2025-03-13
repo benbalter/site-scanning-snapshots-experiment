@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "04333c8fee110d31ad04a5416d00d806",
-  "accessibility_violations": "{\"images\":18}",
+  "page_hash": "2503f21a6bb4518a4cf860fc9fb9720b",
+  "accessibility_violations": null,
+  "pageviews": 61886,
+  "visits": 38511,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -52,16 +53,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ZYE5TN1JW1,UA-41067187-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "nmsnominate.blob.core.windows.net",
     "nmssanctuaries.blob.core.windows.net",
     "sanctuaries.noaa.gov",
+    "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -72,10 +76,11 @@
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/logos/onms-logo-no-text-74.png",
     "https://sanctuaries.noaa.gov/media/img/logos/noaa-logo.png",
     "https://sanctuaries.noaa.gov/media/img/logos/onms-logo-no-text-74.png",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/touchpoints/8c2dc4ce.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -85,11 +90,12 @@
     "privacy"
   ],
   "required_links_text": [
+    "accessibility",
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Sanctuary Nomination Process",
   "description": "NOAA invites communities across the nation to nominate their most treasured places in our marine and Great Lakes waters for consideration as national marine sanctuaries.",
   "keywords": "santuary, ocean, lakes, marine, whale, turtle, coral, kelp, shipwreck, underwater parks",
@@ -108,7 +114,7 @@
   "robots_txt_url": "https://nominate.noaa.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 6032,
+  "robots_txt_filesize": 6229,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,

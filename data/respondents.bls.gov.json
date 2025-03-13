@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f74261e6ad349d8053d25976bf555075",
+  "page_hash": "6cc8d3175f22789181be79d2bc0b3557",
   "accessibility_violations": null,
+  "pageviews": 341,
+  "visits": 76,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -53,19 +54,17 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "remote.captcha.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://remote.captcha.com/include.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".bls.gov",
     "respondents.bls.gov"
@@ -77,8 +76,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "IDCF Respondent - Login Page",
   "description": null,
   "keywords": null,

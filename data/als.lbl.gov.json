@@ -21,8 +21,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6055b0a0cebc3d004eef93a8e2bf3341",
+  "page_hash": "3ac3c9aa67d892c69f98ca2ce4efc84f",
   "accessibility_violations": "{\"contrast\":12}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "WordPress",
@@ -46,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "UA-70514819-2,G-V2BJS51WQF",
+  "ga_tag_id": "G-nVU9QDS3kkvuuQ,UA-70514819-2,G-V2BJS51WQF",
   "third_party_service_domains": [
     "buttons-config.sharethis.com",
     "cdn.lbl.gov",
@@ -61,8 +62,7 @@
     "use.typekit.net",
     "www.google-analytics.com",
     "www.google.com",
-    "www.googletagmanager.com",
-    "www.instagram.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://buttons-config.sharethis.com/js/6705297f35407b00197ad33c.js",
@@ -83,6 +83,7 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2",
     "https://fonts.gstatic.com/s/lora/v35/0QIvMX1D_JOuMwr7I_FMl_E.woff2",
     "https://l.sharethis.com/pview",
     "https://lbl.cloudflareaccess.com/cdn-cgi/access/login/als.lbl.gov",
@@ -98,10 +99,9 @@
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
     "https://www.google.com/cse/static/images/1x/en/branding.png",
     "https://www.google.com/cse/static/style/look/v4/default.css",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.instagram.com/embed.js"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".lbl.gov",
     "als.lbl.gov"
@@ -111,8 +111,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "ALS - Advanced Light Source",
   "description": "Advanced Light Source",
   "keywords": null,

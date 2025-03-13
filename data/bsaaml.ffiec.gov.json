@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "final_url_websites",
-    "gpo_fdlp",
-    "cisa"
+    "gpo_fdlp"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a004aa0a62207281572056c63affca69",
+  "page_hash": "fb234ef3922f44033a41726d989905a3",
   "accessibility_violations": "{\"contrast\":42,\"link-purpose\":6}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -74,8 +75,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "FFIEC BSA/AML",
   "description": "View the FFIEC Bank Secrecy Act/Anti-Money Laundering InfoBase that  was developed by the FFIEC’s Task Force on Examiner Education and the Task Force on Supervision to provide field examiners at the financial institution regulatory agencies with an electronic source for training and distributing needed examination information.",
   "keywords": null,

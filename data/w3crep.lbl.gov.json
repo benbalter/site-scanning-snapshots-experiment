@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0d39c9679b9935bc3156d154395ec74f",
   "accessibility_violations": "{\"link-purpose\":74}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "WordPress",
@@ -60,8 +61,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "LBNL W3C Rep Blog – What’s going on at the World Wide Web Consortium, brought to you by Annette Greiner, Web Application Developer at NERSC",
   "description": null,
   "keywords": null,

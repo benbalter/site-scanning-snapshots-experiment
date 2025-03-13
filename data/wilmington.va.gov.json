@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "94aae3c1ed3b68f107d02b1ab5955138",
+  "page_hash": "55f90bd9c4f5bb6452801894a3cd6c2e",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -82,14 +83,13 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".va.gov",
-    "www.va.gov"
+    ".va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VA Wilmington Health Care | Veterans Affairs",
   "description": "VA Wilmington health care | Veterans Affairs",
   "keywords": null,

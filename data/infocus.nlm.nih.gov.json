@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,12 +29,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8d8f41da2ee26ead5ef6fad165b78099",
+  "page_hash": "4f65dbd2a73a5a64614b61d4eda2253a",
   "accessibility_violations": "{\"contrast\":15,\"link-purpose\":8}",
-  "ipv6": false,
+  "pageviews": null,
+  "visits": null,
+  "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
   "login_provider": null,
@@ -67,8 +68,8 @@
     "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js",
     "https://s0.wp.com/wp-content/mu-plugins/carousel-wpcom/carousel-wpcom.js",
     "https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js",
-    "https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/_inc/build/tiled-gallery/tiled-gallery/tiled-gallery.min.js",
-    "https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/modules/infinite-scroll/infinity.css",
+    "https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/sun/_inc/build/tiled-gallery/tiled-gallery/tiled-gallery.min.js",
+    "https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/sun/modules/infinite-scroll/infinity.css",
     "https://s0.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/coblocks-style.css",
     "https://s0.wp.com/wp-content/themes/h4/global.css",
     "https://s0.wp.com/wp-content/themes/pub/expound/images/absurdidad.png",
@@ -81,15 +82,16 @@
   "third_party_service_count": 6,
   "cookie_domains": [
     ".infocus.nlm.nih.gov",
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NLM in Focus | A look inside the U.S. National Library of Medicine",
   "description": "A look inside the U.S. National Library of Medicine",
   "keywords": null,

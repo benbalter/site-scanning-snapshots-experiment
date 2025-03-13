@@ -20,8 +20,7 @@
   "source_list": [
     "2020_eot",
     "final_url_websites",
-    "house_117th",
-    "cisa"
+    "house_117th"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a2a0a1af32c6baf54b451dce1ff5ae50",
+  "page_hash": "72fc111db288f366ed53121881859488",
   "accessibility_violations": "{\"contrast\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -67,12 +68,11 @@
     "https://syndication.twitter.com/settings",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
     ".budget.house.gov",
-    ".house.gov",
     "budget.house.gov"
   ],
   "viewport_meta_tag": true,
@@ -83,8 +83,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "Home | The U.S. House Committee on the Budget - House Budget Committee",
   "description": null,
   "keywords": null,
@@ -110,11 +110,11 @@
   "sitemap_xml_url": "https://budget.house.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 309154,
-  "sitemap_xml_count": 2636,
+  "sitemap_xml_filesize": 309701,
+  "sitemap_xml_count": 2640,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "8f8d1c250082386ee926e309f547864e",
+  "sitemap_xml_page_hash": "37d0754b0051a24d0084cdfb562bbf57",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

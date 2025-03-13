@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9679933e0b9021b2b55340495d870da2",
+  "page_hash": "a80315294cbe6538906265facd99baf6",
   "accessibility_violations": "{\"contrast\":4}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -49,18 +50,15 @@
   "ga_tag_id": "G-X2KH68RJRQ,UA-36365578-3,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "telemetry.consumersentinel.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://telemetry.consumersentinel.gov/api/contentsecuritypolicy",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".donotcall.gov"
   ],
@@ -73,8 +71,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "National Do Not Call Registry",
   "description": "Register your phone number to report stop or block unwanted, annoying,telemarketing, spam calls, robocalls to the FTC",
   "keywords": "Annoying, Block unwanted calls, Report annoying calls, Robocalls, Telemarketers, Avoid unwanted calls, Spam calls, Stop spam calls",

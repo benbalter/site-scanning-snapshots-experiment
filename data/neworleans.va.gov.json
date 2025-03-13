@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "7c0d5342f67e44ac6050e39c6ea0e15a",
+  "page_hash": "be22c91bd2258c600c6da530e5cc05d3",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -66,6 +67,7 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.entry.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/embed.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/generic1731941049831.js",
+    "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/onsiteData1734636652605.json",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/assets/content-build.css",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/arrow-right-white.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/design/icons/favicon.ico",
@@ -76,8 +78,7 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2021-10/DSC_9230.JPG",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -87,8 +88,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VA Southeast Louisiana Health Care | Veterans Affairs",
   "description": "At Southeast Louisiana Veterans Health Care System, our health care teams are deeply experienced and guided by the needs of Veterans, their families, and caregivers. Find a health facility near you, and manage your health online. Sign up for community events and updates.",
   "keywords": null,
@@ -141,7 +142,6 @@
     "usa-grid-full",
     "usa-media_block-body",
     "usa-media_block-img",
-    "usa-width-five-sixths",
     "usa-width-one-half",
     "usa-width-three-fourths"
   ],

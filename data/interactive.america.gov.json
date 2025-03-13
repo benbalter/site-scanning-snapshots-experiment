@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "904d2dbcba7101d32379d397ee048ec4",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":1}",
+  "page_hash": "8ae982bb001a4bf47c592589d5b7482d",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"frames-iframes\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -97,7 +98,8 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 14,
   "cookie_domains": [
@@ -118,8 +120,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Homepage - Bureau of Global Public Affairs",
   "description": "The Live Virtual Programs team is part of the GPA Office of Video.  We connect the world through engaging web chats.",
   "keywords": null,

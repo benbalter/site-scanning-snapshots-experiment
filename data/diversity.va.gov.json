@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "2020_eot",
-    "cisa"
+    "2020_eot"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "0ffac2f035dbfda9fff4ac6fdc9f08fb",
+  "page_hash": "5594dd7e9bece4c83f4ec5c37070ed44",
   "accessibility_violations": "{\"images\":4}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -52,6 +53,7 @@
   "third_party_service_domains": [
     "cdn.eo.va.gov",
     "dap.digitalgov.gov",
+    "digital.va.gov",
     "maxcdn.bootstrapcdn.com",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "www.ebenefits.va.gov",
@@ -63,6 +65,7 @@
     "https://cdn.eo.va.gov/vendor/fa5/current/css/all.css",
     "https://cdn.eo.va.gov/vendor/fa5/current/webfonts/fa-solid-900.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://digital.va.gov/",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/polyfills.entry.js",
@@ -72,14 +75,15 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/vendor/uswds.min.js",
     "https://www.ebenefits.va.gov/ebenefits-portal/images/badges/eBenefits_rounded_badge170x155.png",
     "https://www.ebenefits.va.gov/ebenefits-portal/js/eB-widget.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.oit.va.gov/_media/img/uswds/arrow-right.svg",
     "https://www.oit.va.gov/_media/img/vcl-logo.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".va.gov",
     "www.va.gov"
@@ -99,8 +103,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Office of Resolution Management",
   "description": "Office of Resolution Management",
   "keywords": "Resolution,ORM,Management,Discrimination,ADR,EEO,Resolution,Diversity,Inclusion,diversity training,reasonable accomodations,dispute resolution,dispute training,settlement agreement,diversity training",

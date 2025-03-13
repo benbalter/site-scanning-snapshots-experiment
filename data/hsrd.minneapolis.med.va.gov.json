@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "c70b675928b0972ab08f679bd99fe55c",
+  "page_hash": "5824ae0d534674b0cfc6a091f9078f7c",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -51,6 +52,7 @@
   "third_party_service_domains": [
     "cdn.eo.va.gov",
     "dap.digitalgov.gov",
+    "digital.va.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "public.govdelivery.com",
     "www.googletagmanager.com",
@@ -66,6 +68,7 @@
     "https://cdn.eo.va.gov/vendor/font-awesome/4.7/css/font-awesome.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://digital.va.gov/",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/polyfills.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/proxy-rewrite.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/styleConsolidated.css",
@@ -90,9 +93,9 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".va.gov",
     "www.ccdor.research.va.gov"
@@ -113,8 +116,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Center for Care Delivery and Outcomes Research Home",
   "description": "The Center for Care Delivery and Outcomes Research, a VA Health Services Research (HSR) Center of Innovation (COIN) operating under the direction of the Office of Research and Development (ORD), is an interdisciplinary community of professionals conducting methodologically rigorous research intended primarily to improve the health care of Veterans. The Center is a vibrant organization with 22 core investigators, 6 affiliate or associate investigators, 3 post-doctoral fellows, 4 core administrative staff, 7 statistical and data analysis core staff, and 25 project staff. The Center currently supports 56 funded projects with an annual budget of over $8.5 million.",
   "keywords": "Center for Care Delivery a Outcomes Research, CCDOR, Veterans, Veteran Health, PTSD, Research, Cancer Screening, Chronic Pain, Post Doctoral Fellowship, VA Career, Investigator, Principal Investigator",
@@ -136,10 +139,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://www.ccdor.research.va.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

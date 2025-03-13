@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea",
-    "cisa"
+    "omb_idea"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8edf588e938328e59ca2d7f5b3d7e0bb",
+  "page_hash": "6fca8d9c17065b16423ea3251e382166",
   "accessibility_violations": "{\"contrast\":44}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "WordPress",
@@ -76,8 +77,8 @@
     "/es"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Work Planning & Control (WPC)",
   "description": null,
   "keywords": null,

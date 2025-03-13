@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "012ae0992c63e1d43b667433daa6915b",
+  "page_hash": "09b928eb5991b02ca4caf3652041759e",
   "accessibility_violations": null,
+  "pageviews": 70319,
+  "visits": 42096,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -50,7 +51,7 @@
     "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-0wRoIw1iCR88tKD,G-ZHzOakyzKz7,G-pEBVCx,G-GFYnPsvTbRccD,G-FVxPBCPSRaKpzX,G-81wTUw47G3kKR47,G-uIb3pmQsqdCGG7A",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -61,13 +62,12 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/919a50602fdbc36d/1740849510686/ypaNhlD7BDLjrAY",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/628271076:1740846487:7-22tbgk5rdiv8POtzPweJktZb2ol8upIkT45zdJm90/919a50602fdbc36d/2ubyjKrZcHtkv3UE0jU0WtrArOE7PwIxjEZ1MoAX2ls-1740849510-1.1.1.1-al.g6bMAP8uHq0YGQEKbhptfznRUMpai3bo8Bt2EevTaQ3M_1D6df0HM9GW7XXmK",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/919a50602fdbc36d/1740849510684/408c89159b3c24c286da90a7cb134e18a81757a0efc436041a85005b594d48f4/HtySMOlecfLhjxJ",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/91f60f8d38aaef63/1741811545401/5-qHsFrrpsbeTLG",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1302229633:1741807910:lE9FPi03jivGsUpu9BqtzkzLgm2B4ZqeQC0LVISNeQQ/91f60f8d38aaef63/gjByBVZl_4cfdjirZXPZbwSLZu.VonJLFAm4FFGK4CQ-1741811545-1.1.1.1-LEo.e5v56lOLciLXpiDpRJtIFGYwKn7MvR4q_qZqPCXx2EikOD3iQkp2PpKPzTIL",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/b0e4a89976ce/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/f3b948d8acb8/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://department.va.gov/wp-content/plugins/va-corsair-basic/_media/img/seals/va-color-seal-black-text.png",
@@ -76,7 +76,7 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -99,15 +99,15 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "DiscoverVA",
   "description": "DiscoverVA allows visitors to find, understand, and use all of the information and tools they need to discover what they can do with the Department of Veterans Affairs.",
   "keywords": null,
   "og_title": "DiscoverVA",
   "og_description": "DiscoverVA allows visitors to find, understand, and use all of the information and tools they need to discover what they can do with the Department of Veterans Affairs.",
   "og_article_published": "2023-06-09T18:27:51.000Z",
-  "og_article_modified": "2025-02-23T16:56:18.000Z",
+  "og_article_modified": "2025-03-11T20:37:52.000Z",
   "og_image": "https://discover.va.gov/wp-content/uploads/2024/04/va-og-twitter-image.png",
   "og_type": "website",
   "og_url": "https://discover.va.gov/",

@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2f8d5e7d50de31367f5f20c8997acaf9",
+  "page_hash": "08e02f4e8665b494a717f0ebcdc1c5a4",
   "accessibility_violations": null,
+  "pageviews": 3378,
+  "visits": 2775,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "cloud.gov Pages",
@@ -102,8 +103,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Touchpoints",
   "description": "Touchpoints is used to collect customer feedback and manage federal CX (Customer Experience) data.",
   "keywords": "Touchpoints, .gov, U.S. Federal Government, GSA, CX, Customer Experience, Data Collections, Service Design",

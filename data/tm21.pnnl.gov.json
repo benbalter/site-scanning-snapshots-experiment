@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9d61134cc9bfca9add410c0b553ed5b0",
+  "page_hash": "7781613dee8f35230bf68b8218139256",
   "accessibility_violations": "{\"aria\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -63,8 +64,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "TM21 Calculator",
   "description": "This application implements ANSI/IES TM-21-21 , Projecting Long-Term Luminous Flux, Photon Flux, and Radiant Flux Maintenance of LED Light Sources.",
   "keywords": null,
@@ -94,7 +95,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "8111017da5e3250e8530518a25e1cd65",
+  "sitemap_xml_page_hash": "f6305c7283bb787454f2908d70c89a0d",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

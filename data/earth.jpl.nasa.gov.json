@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "abecd3b0985a6712b7242429f21d9888",
+  "page_hash": "1f768ef1c676f92cc7a9a46dc0ad414b",
   "accessibility_violations": "{\"lists\":1}",
+  "pageviews": 146721,
+  "visits": 35953,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -73,7 +74,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -88,8 +89,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home – JPL Earth Science",
   "description": "This site is a source of information relating to the Earth Science & Technology Directorate, including updated organization charts, downloadable Earth Science presentations, upcoming events, information about the Earth Science Center and more.",
   "keywords": "Earth Science Directorate, Earth Science Applications, ESTD, ESD, Earth Science Center, 8X, 8000, Earth Science and Technology Directorate, Earth Science Presentations, Earth",

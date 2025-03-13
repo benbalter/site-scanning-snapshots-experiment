@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "81fec8584a40c3d0d87f3d060710103c",
+  "page_hash": "d7a5f994f0c41c58a31f89a6774acf70",
   "accessibility_violations": "{\"aria\":1,\"images\":2}",
+  "pageviews": 303,
+  "visits": 47,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -76,7 +77,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nist.gov/favicon.ico",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -86,8 +87,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Energy Conversion Complexes",
   "description": "Energy Conversion Complexes",
   "keywords": "energy conversion complexes,energy,ecc,database,nist",

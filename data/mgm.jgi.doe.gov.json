@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "65bde0481d400d5f60c84b9e8f270b0e",
   "accessibility_violations": "{\"contrast\":3,\"link-purpose\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "WordPress",
@@ -59,8 +60,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "JGI Microbial Genomics and Metagenomics Workshops",
   "description": "A five-day hands-on workshop at JGI to familiarize users with the Integrated Microbial Genomes & Microbiomes (IMG/M) web-based platform.",
   "keywords": null,

@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot",
-    "cisa"
+    "2020_eot"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "2c813a0ed4ee71b211aa05838041521e",
+  "page_hash": "1a20b39a6314203bbded65fadc412de5",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -66,7 +67,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
-    "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZMdeX3rg.woff2",
+    "https://fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaFF3zCPDaYKfF.woff",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDJB9cme.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
@@ -75,19 +76,20 @@
     "https://script.crazyegg.com/pages/data-scripts/0034/3988/sampling/www.archives.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0034/3988/site/www.archives.gov.json",
     "https://script.crazyegg.com/pages/scripts/0034/3988.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/c7deac18f0e7b90e6cef3f0fe19c780a.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/79c737c2791fe6392c47120c36c7eaf0.js",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".archives.gov",
-    ".www.archives.gov"
+    ".archives.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -108,8 +110,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "National Archives | Home",
   "description": null,
   "keywords": null,
@@ -142,9 +144,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 397,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-01T00:37:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-12T14:08:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "a29dedebec210ba0f9c2b097fffd6bfa",
+  "sitemap_xml_page_hash": "8468eb883762b97a1898fa96e412f629",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

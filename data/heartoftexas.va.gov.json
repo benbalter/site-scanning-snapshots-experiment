@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea",
-    "cisa"
+    "omb_idea"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4f9077ad6364c00ece652a4bff278f33",
+  "page_hash": "1922372ca19bd1a17850c51486cd0ab0",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -50,7 +51,7 @@
     "agency": "VA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-uOPp20zR,G-sxx0iaYTvFuRK4M,G-ZZ4tHpDblSZRT8N,G-hMqSPFeCe2BkOYs,G-AwwfaJoUak108Vx",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-jUvBGy,G-wMq6",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -61,13 +62,13 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/919e219e3ad9f820/1740889538513/2hHv0vnFi9avOhF",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1507393721:1740885916:D_VIf-CaKp3MFPwqSnMSWIqKgCV9c9gkNiN6BWO670Y/919e219e3ad9f820/TJ9yBS3vt4fkOU78kKnbJPMIG5lK_BTWp_KSg7Iem64-1740889538-1.1.1.1-FC9GR9MhYSYk7mu82j3.KpwP6gljlrSrz5XkQaYxa3TutShrpfHmhfb7jOnUHku5",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/919e219e3ad9f820/1740889538514/bcc372e58d75c9aafe9f8ee5730fd98b3740947dd796b0a6fbe2d203253b2e79/FtPKopfhnpqy81s",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/91f8fcefadecff09/1741842240187/i0suFGRxtraLX9H",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/494506993:1741840027:JnXH7Y7F92Kj4ydH1FY-y4EREAOVwJ1glJ336g3bnEM/91f8fcefadecff09/kdGazsE2E46htqPwIK3WJFltD525zb9GFKmTHymSviw-1741842239-1.1.1.1-A.H.PKtEQLyQS6iqFKjS1RaVV30p5Oyt_ZYVEePp2yK23u1OVAEd9_AJRyt8noWn",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/91f8fcefadecff09/1741842240189/ab7f2d650934a67d1d2d83e205e76b0d568c17ff5198a784fcf6684949f02c9e/xRgcZIcvLObp0O8",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/b0e4a89976ce/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/f3b948d8acb8/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://news.va.gov/wp-content/uploads/sites/3/2024/11/Veggies_vp1.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2024/12/Nurse-and-patient.jpg",
@@ -78,6 +79,7 @@
     "https://scripts.withcabin.com/hello.js",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 7,
@@ -101,8 +103,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VISN 17 - Veterans Integrated Service Networks",
   "description": "Includes most of Texas and portions of New Mexico and Oklahoma.",
   "keywords": null,

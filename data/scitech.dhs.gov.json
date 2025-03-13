@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "450973f228215eed377c71c39689aa75",
+  "page_hash": "1cff6adac9b2c5896a2b24e13092b80e",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -46,7 +47,7 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,G-X7LCTSTP70,G-5YY8Y4R5TC,UA-32318423-1",
+  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,UA-32318423-1,G-X7LCTSTP70,G-5YY8Y4R5TC",
   "third_party_service_domains": [
     "6025116.global.siteimproveanalytics.io",
     "analytics.google.com",
@@ -85,7 +86,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -110,8 +111,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Science and Technology Directorate | Homeland Security",
   "description": null,
   "keywords": null,

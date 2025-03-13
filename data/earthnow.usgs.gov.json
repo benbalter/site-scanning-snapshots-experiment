@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "96861b2053a855a562c8561e86a5e1a6",
-  "accessibility_violations": "{\"contrast\":40,\"frames-iframes\":2,\"language\":1}",
+  "page_hash": "e480856f9cc9579082257b27fadaf6c5",
+  "accessibility_violations": "{\"contrast\":40,\"frames-iframes\":2,\"language\":1,\"keyboard-access\":1}",
+  "pageviews": 10259,
+  "visits": 6772,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -61,20 +62,22 @@
   "ga_tag_id": "G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "use.fontawesome.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".usgs.gov",
     "earthnow.usgs.gov"
@@ -93,8 +96,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "FarEarth Observer - USGS",
   "description": null,
   "keywords": null,
@@ -125,9 +128,9 @@
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": null,
   "sitemap_xml_page_hash": null,
-  "uswds_favicon": 0,
+  "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
-  "uswds_publicsans_font": 0,
+  "uswds_publicsans_font": 40,
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
@@ -136,7 +139,7 @@
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 0,
+  "uswds_count": 60,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

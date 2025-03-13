@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1c0296e84cf2a9485be2a408bfa29098",
+  "page_hash": "b5371a19d429784f64a7a68c8cbdc2bd",
   "accessibility_violations": "{\"lists\":3}",
+  "pageviews": 617,
+  "visits": 427,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -72,6 +73,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://dservices.arcgis.com/v01gqwM5QqNysAAi/arcgis/services/Planetary_Aeolian_Analog_Database/WFSServer",
     "https://impact.uwo.ca/wp-json/cd/brief",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -93,8 +95,8 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Terrestrial Analogs",
   "description": "Web site created using create-react-app",
   "keywords": null,
@@ -124,7 +126,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "30189826e902b2078cd59baaded5d250",
+  "sitemap_xml_page_hash": "3e65759d539a6f49e6a8c2c922349d6c",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

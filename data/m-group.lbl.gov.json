@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "92f6ce78213b98c9ed24a3afe33e7aee",
+  "page_hash": "7d011b75691d8392d3b8906b657ee0d1",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":47}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "WordPress",
@@ -47,22 +48,20 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "biosciences.lbl.gov",
     "s.w.org"
   ],
   "third_party_service_urls": [
-    "https://biosciences.lbl.gov/",
     "https://s.w.org/images/core/emoji/15.0.3/svg/1f609.svg"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".lbl.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Mukhopadhyay Group – Studying host engineering and cellular responses at Berkeley Lab",
   "description": null,
   "keywords": null,

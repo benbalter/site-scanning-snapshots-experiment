@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3d26f8793472e0bed82b82512413307e",
+  "page_hash": "f21f75537faa9348070a3c65446aa722",
   "accessibility_violations": "{\"contrast\":6,\"images\":10}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "Drupal",
@@ -81,8 +82,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "Home | Indoor Environment",
   "description": null,
   "keywords": null,
@@ -112,7 +113,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-02-11T17:56:50.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "8f505de2294930993cdaa530390e7aeb",
+  "sitemap_xml_page_hash": "bd6fe95a98f4c7a461f021cecbea1a85",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c1e44b89a8aff0dacab5775998b3b01",
+  "page_hash": "6cd54e19b34c6d8dc9185dae7dfbbeee",
   "accessibility_violations": "{\"contrast\":11}",
+  "pageviews": 1329,
+  "visits": 887,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "Drupal",
@@ -81,8 +82,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "HPC4EnergyInnovation (HPC4EI)",
   "description": null,
   "keywords": null,
@@ -110,9 +111,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 7242,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-25T00:11:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-01T01:37:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "ee0e17baaffc9cf507907bea153b65e6",
+  "sitemap_xml_page_hash": "4de70c3a0633685058ccd1e0d786c447",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

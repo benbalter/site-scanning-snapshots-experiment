@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,12 +29,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ff8bc83b3c50a3481da689371dee5a3e",
+  "page_hash": "837c5c97f8f9efb0b964cb7b0915d6db",
   "accessibility_violations": null,
-  "ipv6": false,
+  "pageviews": null,
+  "visits": null,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -54,7 +55,7 @@
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
-    "https://fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
+    "https://fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
     "https://www.rnengage.com/api/1/javascript/acs.js",
     "https://www.rnengage.com/api/1/r",
     "https://www.rnengage.com/api/e/ag202/e.js"
@@ -71,8 +72,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "chat_launch.php",
   "description": null,
   "keywords": null,
@@ -96,10 +97,10 @@
   "robots_txt_sitemap_locations": [
     "https://livehelp.cancer.gov/ci/sitemap/"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://livehelp.cancer.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

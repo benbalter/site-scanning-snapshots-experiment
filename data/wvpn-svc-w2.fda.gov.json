@@ -28,10 +28,12 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1ad96edb190030bcb6a34108266b93cd",
+  "page_hash": "936daade13f80da6296187b03d4ae2b2",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1,\"images\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -44,10 +46,10 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "4073226931shutdown.relay.webvpn."
+    "2390244305shutdown.relay.webvpn."
   ],
   "third_party_service_urls": [
-    "https://4073226931shutdown.relay.webvpn./nonexistent.js"
+    "https://2390244305shutdown.relay.webvpn./nonexistent.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -79,10 +81,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://wvpn-svc-w2.fda.gov/+CSCOE+/message.html?mc=2",
+  "sitemap_xml_status_code": 200,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "28840765f111130944d5afdc61928b3f",
+  "page_hash": "61b2e6f9dba5d8eb7d1f336aaa4749b2",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"lists\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,8 +51,8 @@
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/icon",
-    "https://maps.googleapis.com/maps-api-v3/api/js/60/2/common.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/60/2/util.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/60/4/common.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/60/4/util.js",
     "https://maps.googleapis.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204"
   ],
@@ -62,8 +63,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "TRLM NG",
   "description": null,
   "keywords": null,
@@ -93,7 +94,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "5d0a6d8f630e8c191bdde8b0bd807152",
+  "sitemap_xml_page_hash": "5518db93920cdf896e5b51190f239f76",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

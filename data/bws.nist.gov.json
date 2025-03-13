@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2e11229d23184970944edcc46c23ff6f",
+  "page_hash": "0a7e1a665a3d377c5622a55ada19e76b",
   "accessibility_violations": "{\"link-purpose\":3}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -45,8 +46,8 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45je52q0v895826815za200",
-    "tag_exp": "101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453~102717421~102732003"
+    "gtm": "45je53a1v895826815za200",
+    "tag_exp": "102482433~102587591~102640600~102693808~102717422~102788824~102791784~102814059~102825837"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-7vNow5BNQgZTCjv,G-CSLL4ZEK4L",
@@ -55,7 +56,6 @@
     "bam.nr-data.net",
     "js-agent.newrelic.com",
     "siteimproveanalytics.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,10 +63,9 @@
     "https://bam.nr-data.net/1/37b7ccb661",
     "https://js-agent.newrelic.com/nr-rum-1.283.2.min.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6017546.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nist.gov",
     ".www.nist.gov"
@@ -86,8 +85,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Biometrics Web Services (BWS) | NIST",
   "description": "News A WS-Biometric Devices Walkthrough is now available. This document provides step by step instructions to develop a WS-BD web camera service",
   "keywords": null,
@@ -109,10 +108,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://www.nist.gov/programs-projects/biometrics-web-services-bwssitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

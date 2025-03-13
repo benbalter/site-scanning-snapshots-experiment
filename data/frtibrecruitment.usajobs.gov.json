@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "1d671328f567b318aabd691f9258a308",
+  "page_hash": "3e3b6017abe3c86080c594f2576b925b",
   "accessibility_violations": null,
+  "pageviews": 841,
+  "visits": 379,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -58,6 +59,7 @@
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/production/gateway.min.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -83,8 +85,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "USAJOBS - Search",
   "description": null,
   "keywords": null,

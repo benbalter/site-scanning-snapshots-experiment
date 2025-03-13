@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "50827f1f213e8387f4f08bca599511c8",
   "accessibility_violations": "{\"contrast\":1,\"link-purpose\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -65,8 +66,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "National Security Agency - Applications",
   "description": "",
   "keywords": null,

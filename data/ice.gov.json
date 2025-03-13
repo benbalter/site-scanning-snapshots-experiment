@@ -26,8 +26,7 @@
     "usagov",
     "gov_man",
     "oira",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,11 +35,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "3f2959deaf3137fc04677edf6c10bef7",
-  "accessibility_violations": "{\"images\":1}",
+  "page_hash": "8f42bcf9df954d82f53c245a9ed8e9ba",
+  "accessibility_violations": null,
+  "pageviews": 5679003,
+  "visits": 3854244,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -55,7 +56,7 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP",
+  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "brandcentral.ice.gov",
     "c.go-mpulse.net",
@@ -77,6 +78,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
@@ -84,7 +86,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -109,8 +111,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "ICE | U.S. Immigration and Customs Enforcement",
   "description": "U.S. Immigration and Customs Enforcement’s (ICE) mission is to protect America from the cross-border crime and illegal immigration that threaten national security and public safety. This mission is executed through the enforcement of more than 400 federal statutes and focuses on smart immigration enforcement, preventin",
   "keywords": null,
@@ -138,9 +140,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 914,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-28T02:07:15.000Z",
+  "sitemap_xml_lastmod": "2025-03-11T21:42:17.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "41ced4f996ea16f1c49f78d02d03af8b",
+  "sitemap_xml_page_hash": "dec12b5584c6dbf5c6fc19b8dad90652",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

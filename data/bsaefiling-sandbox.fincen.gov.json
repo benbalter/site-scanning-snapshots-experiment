@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "4b515ca9e7a7fdfef39c26e8004b15bb",
   "accessibility_violations": "{\"language\":1}",
+  "pageviews": 4886,
+  "visits": 1450,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -70,8 +71,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Logged Off",
   "description": null,
   "keywords": null,

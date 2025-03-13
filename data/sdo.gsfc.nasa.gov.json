@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a41b96575294f456658d6de8d34a38a6",
+  "page_hash": "1358f4c909679cfc25d7a74dd6de67f9",
   "accessibility_violations": "{\"contrast\":11,\"images\":10,\"link-purpose\":6}",
+  "pageviews": 770817,
+  "visits": 86239,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -71,8 +72,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "SDO | Solar Dynamics Observatory",
   "description": "SDO is designed to help us understand the Sun's influence on Earth and Near-Earth space by studying the solar atmosphere on small scales of space and time and in many wavelengths simultaneously.",
   "keywords": null,

@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "aec9b95c8eb4c8e0edda78351c2a8216",
+  "page_hash": "ed80069e35f8113973c85d03238234ae",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -49,7 +50,7 @@
     "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-b8EC6tFOoQ7Lyez,G-d1o2vFjA,G-RA8eFWtq,G-eSbx7fMemtnebDd,G-j1Xp,G-C8KigGe8Z1poG49,G-9LfivGTCrp,G-8r1pQGACZr,G-pnwzx6IufHsueYy,G-GyoF60URyirT,G-eJ4oPocZYbdPj67",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -61,18 +62,16 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/919e1cb9abf6fefe/1740889338078/-vOsM7Vl3bQ-83R",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/864440483:1740885988:NqZ6gfuilKqN-r9BSvxhZaUICGqwh8CLc5Hr9QiXlTw/919e1cb9abf6fefe/fwaaR3hHBydi8UL0Gxos_a.Tot1j1TOKoSw6EjX7_hY-1740889337-1.1.1.1-EWlmwBYJbAe29kPWPngObxtXDaG6MWT01QwjjQwpm3gkTHSmHk7EjFQT8owv_jz_",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/919e1cb9abf6fefe/1740889338081/5c7b7885567fe5c1789e43bb7008f348fd7c02e6c79fe4e2c9fd10035c2c9c77/-K1_qfaadwQDRac",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/2112755237:1741839909:hgTHBBpOjT0IBp6AEt3KI7IXj8uP2fxnq3WJmbL-eBc/91f8f59b1b5dfef8/LNGW.DYKyCa3EoUNDLkij_o1XFl0hOXq9hQvN1GATeU-1741841939-1.1.1.1-dggaSPZfj6oNxcBwp4dCA4hJIvhZd.jsSkHM_CwysoqoM69EK.TVAFCJIHxLXgGz",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/b0e4a89976ce/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/f3b948d8acb8/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2",
+    "https://fonts.gstatic.com/s/merriweather/v31/u-4e0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiSeqqJ-k.woff2",
     "https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpmJxAco.woff2",
-    "https://fonts.gstatic.com/s/sourcesans3/v15/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
-    "https://fonts.gstatic.com/s/sourceserif4/v8/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqnhtdDg.woff2",
+    "https://fonts.gstatic.com/s/sourcesans3/v18/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
+    "https://fonts.gstatic.com/s/sourceserif4/v13/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqnhtdDg.woff2",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
     "https://pro.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2",
@@ -82,7 +81,7 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -106,8 +105,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Energy, Environment, and Fleet Program - U.S. Department of Veterans Affairs",
   "description": "Energy, Environment, and Fleet (EEF) Program Service facilitates VA’s efforts to comply with Federal mandates related to energy and water management,",
   "keywords": null,

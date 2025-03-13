@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "03d999bc1f380654f33f5dcb4b7a8c65",
+  "page_hash": "354396ce8b8f1b7c7d92c583a65997b5",
   "accessibility_violations": "{\"form-names\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -45,12 +46,13 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-H8YYPQ6D00",
   "third_party_service_domains": [
     "browser-intake-ddog-gov.com",
     "fonts.googleapis.com",
     "wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com",
-    "www.datadoghq-browser-agent.com"
+    "www.datadoghq-browser-agent.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://browser-intake-ddog-gov.com/api/v2/replay",
@@ -65,10 +67,12 @@
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/incident-management-icon.png",
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/open-data-icon.png",
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/resource-management-icon.png",
-    "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js"
+    "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
+    ".wildfire.gov",
     "www.wildfire.gov"
   ],
   "viewport_meta_tag": true,
@@ -81,8 +85,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Homepage | Wildland Fire Application Information Portal",
   "description": "The Fire and Aviation Management IT Portal brings together Applications, Tools and Services to support Federal, State and Local government agencies which provide support for all wildfires and other incidents.",
   "keywords": "Homepage",
@@ -110,9 +114,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 54542,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-27T22:09:44.000Z",
+  "sitemap_xml_lastmod": "2025-03-11T18:50:03.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "82736678a5c5c08d514e955700839a83",
+  "sitemap_xml_page_hash": "a0c39ad5832169e7b9a339b22e5b6688",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

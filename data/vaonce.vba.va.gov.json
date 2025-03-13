@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "oira",
-    "cisa"
+    "oira"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "5878076ba939a3a4feff13531f079d29",
+  "page_hash": "b6caf633b0de8bed401338f9665c047d",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -53,6 +54,7 @@
     "cdn.eo.va.gov",
     "content.govdelivery.com",
     "dap.digitalgov.gov",
+    "digital.va.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "public.govdelivery.com",
     "www.benefits.va.gov",
@@ -66,6 +68,7 @@
     "https://cdn.eo.va.gov/vendor/fa5/current/css/all.css",
     "https://content.govdelivery.com/images/required.gif",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://digital.va.gov/",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/polyfills.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/proxy-rewrite.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/styleConsolidated.css",
@@ -81,9 +84,9 @@
     "https://www.oit.va.gov/_media/img/uswds/arrow-right.svg",
     "https://www.oit.va.gov/_media/img/vcl-logo.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".va.gov",
     "benefits.va.gov"
@@ -103,8 +106,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Education and Training Home",
   "description": "The GI Bill provides educational assistance to servicemembers, veterans, and their dependents.",
   "keywords": "GI Bill",

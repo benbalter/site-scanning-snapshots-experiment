@@ -32,10 +32,12 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "018de97f60ed9a3f720178993b67dc00",
+  "page_hash": "07f2bf8877ed7654c4ee240be3b0a77b",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2}",
+  "pageviews": 361,
+  "visits": 256,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -75,7 +77,7 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
@@ -121,10 +123,10 @@
   "robots_txt_sitemap_locations": [
     "/DesktopModules/SiteData/SiteMap.ashx"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://plainsguardian.dodlive.mil/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

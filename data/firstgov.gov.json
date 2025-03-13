@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot",
-    "cisa"
+    "2020_eot"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "7981999694d17633d13177fd015d485d",
+  "page_hash": "11b7f5cdedac00d68d1ca222d69517b9",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -64,7 +65,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/sampling/www.usa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/site/www.usa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0007/9651.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/b877520f71040ef9ed2bf59299cddcf8.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/79c737c2791fe6392c47120c36c7eaf0.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -75,7 +76,8 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".usa.gov"
+    ".usa.gov",
+    "www.usa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -92,8 +94,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Making government services easier to find | USAGov",
   "description": "Find government benefits, services, agencies, and information at USA.gov. Contact elected officials. Learn about passports, Social Security, taxes, and more.",
   "keywords": null,

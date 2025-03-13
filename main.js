@@ -37,7 +37,7 @@ async function main() {
   try { 
     await Promise.all(writePromises);
   } catch (error) {
-    core.setFailed(error.message);
+    core.error(error.message);
     return;
   }
 

@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "eb4f1ae7c8f05466a55fbb3ee9855107",
+  "page_hash": "8a132009398515c02651f0eb6468922b",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -48,7 +49,7 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-29392722-1,G-CSLL4ZEK4L,G-GHG7XR2CMP,G-VZ5WM65HJE",
+  "ga_tag_id": "UA-29392722-1,G-GHG7XR2CMP,G-CSLL4ZEK4L,G-VZ5WM65HJE",
   "third_party_service_domains": [
     "ct.pinterest.com",
     "dap.digitalgov.gov",
@@ -71,11 +72,10 @@
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -99,8 +99,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Ready Business | Ready.gov",
   "description": "Businesses and their employees face a variety of hazards:",
   "keywords": null,

@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,11 +31,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "da50b5c061c46bbaa715d022cf6c0a1e",
   "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 2648,
+  "visits": 1938,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -56,7 +57,6 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www2.usgs.gov"
   ],
@@ -72,11 +72,10 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www2.usgs.gov/scripts/analytics/usgs-analytics.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".usgs.gov"
   ],
@@ -92,8 +91,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "ARMI",
   "description": "Provide essential scientific information to managers to help arrest or reverse amphibian population declines.",
   "keywords": "ARMI, amphibian, amphibian research, amphibian monitoring, Geological Survey, amphibian decline, disease, invasive species, status, habitat, restoration, management, endangered, threatened, modeling, occupancy",

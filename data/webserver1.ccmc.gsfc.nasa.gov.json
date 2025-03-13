@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a9fefa1909be8aa72e992cdb0d48054f",
+  "page_hash": "997f42927d1d236d52f98fe77646db2a",
   "accessibility_violations": null,
+  "pageviews": 9,
+  "visits": 8,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,7 +59,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -73,8 +74,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "CCMC Developed Web Apps/Tools | CCMC",
   "description": null,
   "keywords": null,
@@ -96,10 +97,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://webserver1.ccmc.gsfc.nasa.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,
@@ -111,6 +112,7 @@
   "uswds_inpage_css": 15,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-breadcrumb",
     "usa-button",
     "usa-card",
@@ -126,6 +128,7 @@
     "usa-nav-dark",
     "usa-prose",
     "usa-search",
+    "usa-site-alert",
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": false,

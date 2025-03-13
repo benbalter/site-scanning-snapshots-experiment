@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "668892bea22cf04c8e58c0beb853d586",
+  "page_hash": "db8689ad357a69fcd042d4d887cee41d",
   "accessibility_violations": null,
+  "pageviews": 15740,
+  "visits": 1025,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -55,6 +56,7 @@
     "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
+    "fonts.gstatic.com",
     "tags.tiqcdn.com",
     "tealium-tags.cms.gov",
     "www.google-analytics.com",
@@ -71,6 +73,7 @@
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-acoms/qa/utag.13.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-acoms/qa/utag.7.js",
     "https://tealium-tags.cms.gov/cms-acoms/qa/utag.js",
@@ -78,7 +81,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cms.gov"
   ],
@@ -90,8 +93,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "ACO Management System",
   "description": null,
   "keywords": null,
@@ -121,7 +124,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "c1ff7da9105a40036eba121e6fe08dad",
+  "sitemap_xml_page_hash": "524f5be2aab84be0e42f23efdc51aadd",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

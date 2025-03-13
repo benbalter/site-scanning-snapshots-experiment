@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "26fb500c250f52098171ab9fe74e6b13",
+  "page_hash": "a5aa933cb3f861db7b144bb4d6d073e9",
   "accessibility_violations": "{\"aria\":1,\"contrast\":3,\"lists\":2}",
+  "pageviews": 56718,
+  "visits": 35146,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -51,6 +52,7 @@
   "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30666747-8,UA-30666747-1,UA-22995010-2",
   "third_party_service_domains": [
     "app.enzuzo.com",
+    "basemaps.cartocdn.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -63,6 +65,14 @@
   "third_party_service_urls": [
     "https://app.enzuzo.com/api/public/v1/analytics/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://app.enzuzo.com/scripts/cookiebar/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12567/7413.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12567/7414.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12567/7415.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12567/7416.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12568/7413.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12568/7414.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12568/7415.png",
+    "https://basemaps.cartocdn.com/rastertiles/voyager/14/12568/7416.png",
     "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/ajax-loader.gif",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.min.css",
@@ -86,7 +96,7 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".mm.usembassy.gov",
     ".usembassy.gov",
@@ -104,8 +114,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Homepage - U.S. Embassy in Burma",
   "description": "The mission of the U.S. Embassy is to advance the interests of the United States, and to serve and protect U.S. citizens in Burma.",
   "keywords": null,

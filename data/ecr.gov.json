@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot",
-    "cisa"
+    "2020_eot"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "866374bed0e961de6eb928dda20af53b",
+  "page_hash": "acd5baa480d7b676043f704e8133e893",
   "accessibility_violations": "{\"contrast\":11,\"images\":1,\"link-purpose\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -71,8 +72,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": true,
   "title": "Udall Foundation - Main Page",
   "description": "The Morris K. Udall and Stewart L. Udall Foundation is a federal agency providing educational opportunities related to the environment and natural resources, Native American health care, and Native American tribal policy.",
   "keywords": null,
@@ -102,7 +103,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "bf9cc538a31cf2e57d1781d62abdeaf4",
+  "sitemap_xml_page_hash": "b8ace33445b3a5872b0bcaf4a02435ba",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

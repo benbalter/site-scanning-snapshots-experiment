@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "60c58d42774bf4354140fbfd0cc89895",
+  "page_hash": "72a418c6269de6e36406f948db7c1c49",
   "accessibility_violations": null,
+  "pageviews": 173,
+  "visits": 116,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "Drupal",
@@ -84,6 +85,7 @@
     "https://people.llnl.gov/sites/default/files/img/knox9.png",
     "https://people.llnl.gov/sites/default/files/img/krall3.png",
     "https://people.llnl.gov/sites/default/files/img/marple1.png",
+    "https://people.llnl.gov/sites/default/files/img/marufu1.png",
     "https://people.llnl.gov/sites/default/files/img/oakdale1.png",
     "https://people.llnl.gov/sites/default/files/img/overland2.png",
     "https://people.llnl.gov/sites/default/files/img/pang6.png",
@@ -111,8 +113,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Materials for Energy and Climate Security Group",
   "description": null,
   "keywords": null,

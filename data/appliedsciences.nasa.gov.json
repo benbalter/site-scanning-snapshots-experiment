@@ -21,8 +21,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5de9c45e0228e4ca2485a460ec5a09fa",
+  "page_hash": "79d05f9cd398fe1b0f665f47e576b776",
   "accessibility_violations": "{\"contrast\":1}",
+  "pageviews": 281871,
+  "visits": 95745,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -77,13 +78,13 @@
     "https://fonts.gstatic.com/s/manuale/v28/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wE3zddIWHZp8M.woff",
     "https://p1.parsely.com/plogger/",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".nasa.gov"
+    ".nasa.gov",
+    "appliedsciences.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -96,8 +97,8 @@
     "foia",
     "inspector general"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Homepage | NASA Applied Sciences",
   "description": null,
   "keywords": null,
@@ -123,11 +124,11 @@
   "sitemap_xml_url": "https://appliedsciences.nasa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 459,
+  "sitemap_xml_filesize": 577,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-28T23:10:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-11T17:40:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "415ffdb48c20c4f8876cfed8b341015d",
+  "sitemap_xml_page_hash": "0cf0c751904eed3f20ca3d61e7c7d3ae",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

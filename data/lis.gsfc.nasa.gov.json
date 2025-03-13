@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7aa9a02ed2c12e9fbeac360ed14b8558",
+  "page_hash": "fecf48b951dbe8a8fe87bed72914378d",
   "accessibility_violations": "{\"contrast\":5}",
+  "pageviews": 1622,
+  "visits": 988,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -76,9 +77,10 @@
     "https://use.fontawesome.com/releases/v5.1.0/css/all.css",
     "https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff2",
     "https://use.fontawesome.com/releases/v5.13.0/css/all.css",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -92,8 +94,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Software Suite | LIS Framework",
   "description": null,
   "keywords": null,
@@ -121,9 +123,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 26180,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-24T14:49:25.000Z",
+  "sitemap_xml_lastmod": "2025-03-05T13:26:21.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "086d32fc2c4a1b328e5acf1e25221cdf",
+  "sitemap_xml_page_hash": "94f1b811840e82be35cc4f8ef153a872",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

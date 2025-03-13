@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,11 +31,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "db55161d299c10627020e9348a7876b4",
+  "page_hash": "dee7cb5e3abe1575375f4f11663d5c3a",
   "accessibility_violations": "{\"aria\":6,\"form-names\":1,\"contrast\":9,\"frames-iframes\":1}",
+  "pageviews": 17386,
+  "visits": 11832,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -53,6 +54,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-WJ51XKKH7Y,UA-41067187-7,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "ago-item-storage.s3.amazonaws.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -71,6 +73,7 @@
     "services1.arcgis.com",
     "services2.arcgis.com",
     "services5.arcgis.com",
+    "siteimproveanalytics.com",
     "static.arcgis.com",
     "tiles.arcgis.com",
     "touchpoints.app.cloud.gov",
@@ -79,13 +82,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://ago-item-storage.s3.amazonaws.com/36d695d869a94664a74d919cfbe8813f/NOAA_seal-shadowed.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lC2xcZqTFUw.woff",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://gis.boem.gov/arcgis/rest/directories/arcgisoutput/BOEM_BSEE/MMC_Layers_MapServer/_ags_map16c051991f304487bf2e6be2dab05514.png",
+    "https://gis.boem.gov/arcgis/rest/directories/arcgisoutput/BOEM_BSEE/MMC_Layers_MapServer/_ags_map704539c4a06044779cefa1e85c11b527.png",
     "https://gis.boem.gov/arcgis/rest/info",
     "https://gis.boem.gov/arcgis/rest/services/BOEM_BSEE/MMC_Layers/MapServer",
     "https://gis.boem.gov/arcgis/rest/services/BOEM_BSEE/MMC_Layers/MapServer/11",
@@ -139,7 +143,6 @@
     "https://nmsflowergarden.blob.core.windows.net/flowergarden-prod/media/archive/img/reef/efgbpanoramaelh.jpg",
     "https://nmsflowergarden.blob.core.windows.net/flowergarden-prod/media/archive/img/reports/2023researchrptbraincoral_crumbley400x300.jpg",
     "https://nmsflowergarden.blob.core.windows.net/flowergarden-prod/media/archive/img/research/sofarbuoyteam_taylorphilip400x300.jpg",
-    "https://nmsflowergarden.blob.core.windows.net/flowergarden-prod/media/archive/img/rss.png",
     "https://nmsflowergarden.blob.core.windows.net/flowergarden-prod/media/archive/img/sac/sacmtg2024maj400x300.jpg",
     "https://nmsflowergarden.blob.core.windows.net/flowergarden-prod/media/archive/img/tumblr.png",
     "https://nmsflowergarden.blob.core.windows.net/flowergarden-prod/media/archive/img/twitter.png",
@@ -253,6 +256,7 @@
     "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/No_Activity_Zone/FeatureServer/0/query",
     "https://services5.arcgis.com/g7OtfotLzNoMMSUp/arcgis/rest/services/OCS_Facility_Infrastructure/FeatureServer/0",
     "https://services5.arcgis.com/g7OtfotLzNoMMSUp/arcgis/rest/services/OCS_Facility_Infrastructure/FeatureServer/0/query",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://static.arcgis.com/attribution/World_Imagery",
     "https://tiles.arcgis.com/tiles/C8EMgrsFcRFL6LrL/arcgis/rest/services/Horseshoe_Elvers_Parker_and_Stetson/MapServer",
     "https://tiles.arcgis.com/tiles/C8EMgrsFcRFL6LrL/arcgis/rest/services/Horseshoe_Elvers_Parker_and_Stetson/MapServer/tile/13/3426/1949",
@@ -286,7 +290,7 @@
     "https://www.arcgis.com/sharing/rest/content/items/2a6a5493bfc04705998b727fd9ce475f/resources/sidner__1586970725297__w1089.png",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 24,
+  "third_party_service_count": 26,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -300,8 +304,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Flower Garden Banks National Marine Sanctuary",
   "description": "NEED TEXT",
   "keywords": "sanctuary, sanctuaries, oceans, marine life, coral, underwater parks, coast, chart, navigation, NOAA, National Oceanic and Atmospheric Administration, sea, Atlantic, Caribbean, Gulf, oceans, seas, beaches, reef, coral, wave, waves, climate, dive, diving, scuba, fish, fishing, buoy, surf, ship, ships, boat, boats, advisory council, events, presentations",

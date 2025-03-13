@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e0f48f869cb57c8380fe7ccad18543b5",
+  "page_hash": "7f802ab0a1d213d49d2ee389a2e0b7c5",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -62,7 +63,6 @@
     "d9-wret.s3.us-west-2.amazonaws.com",
     "dap.digitalgov.gov",
     "script.hotjar.com",
-    "static.addtoany.com",
     "static.hotjar.com",
     "touchpoints.app.cloud.gov",
     "use.fontawesome.com",
@@ -76,7 +76,7 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/BullLakeabv_OG.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/HeadingToSF_Flathead_onHungryHorseRes.JPG",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/IMG_5316.JPG",
-    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/MuddyCreekChannel.jpg",
+    "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/media/images/mountains_thumbnail.png",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/thumbnails/image/Colorado%20River%2C%20from%20Moab%20Rim%2C%20Oct%202009%2C%20M%20Miller.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/image_card/public/thumbnails/image/wss-sw-sediment-influx-tributary_0.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/info_block/public/media/images/Screenshot%20%2861%29.png",
@@ -86,8 +86,6 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/media/images/Winter_2021.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://script.hotjar.com/modules.ef5986d046c68a8c77c1.js",
-    "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
-    "https://static.addtoany.com/menu/page.js",
     "https://static.hotjar.com/c/hotjar-606685.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
@@ -97,9 +95,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".usgs.gov"
   ],
@@ -119,8 +117,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Wyoming-Montana Water Science Center | U.S. Geological Survey",
   "description": null,
   "keywords": null,

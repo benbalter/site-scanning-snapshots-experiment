@@ -32,10 +32,12 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f8f6fc10b1d5a262495ce95601f05737",
+  "page_hash": "732a120c40612cf7a93e8abe8f6420d6",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2}",
+  "pageviews": 27633,
+  "visits": 16237,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -75,7 +77,6 @@
     "https://media.defense.gov/2024/Apr/18/2003444271/740/740/0/240416-Z-IN656-1002.JPG",
     "https://media.defense.gov/2024/Dec/03/2003596339/740/740/0/241203-Z-RH707-1001.JPG",
     "https://media.defense.gov/2024/Feb/20/2003396878/1310/736/0/171120-A-JH998-2001.JPG",
-    "https://media.defense.gov/2024/Feb/23/2003398866/1310/736/0/240223-Z-RH707-1001.JPG",
     "https://media.defense.gov/2024/Jul/08/2003498872/740/740/0/240708-Z-RH707-1003.JPG",
     "https://media.defense.gov/2024/Jul/09/2003499208/740/740/0/230710-Z-OB588-1001.JPG",
     "https://media.defense.gov/2024/Jul/09/2003499227/740/740/0/240610-Z-IN656-1112.JPG",
@@ -86,7 +87,7 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -129,10 +130,10 @@
   "robots_txt_sitemap_locations": [
     "/DesktopModules/SiteData/SiteMap.ashx"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://ok.ng.mil/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

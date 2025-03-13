@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,12 +27,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9b9acf3d3ee87819d0996c1b1089e2ec",
+  "page_hash": "be2fc1c019fb943304ed3df76a40e49a",
   "accessibility_violations": null,
-  "ipv6": false,
+  "pageviews": null,
+  "visits": null,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -55,10 +56,10 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
@@ -79,8 +80,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Comparative Oncology Program | Center for Cancer Research",
   "description": "Comparative oncology is the study of naturally developing cancers in animals as models for human disease. Spontaneous cancers in dogs and cats are an underused group of naturally occurring malignancies that share many features with human cancers such as osteosarcoma, prostate and breast cancers, non-Hodgkin's lymphoma, melanoma, soft tissue sarcoma, head and neck carcinoma, and virally induced lymphomas What to do if your pet dog receives a devastating diagnosis of cancer? One option is to enroll the pet in an NCI-supported clinical trial testing a new cancer treatment.",
   "keywords": null,

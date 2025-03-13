@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e098575b57d3fd8cd8c8ddf60cc84823",
+  "page_hash": "b37e4dc28690a95e13968b5952137d4a",
   "accessibility_violations": "{\"link-purpose\":3,\"lists\":1}",
+  "pageviews": 267,
+  "visits": 261,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -139,8 +140,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "U.S. Department of State - United States Department of State",
   "description": "Leading America’s foreign policy to advance the interests and security of the American people.",
   "keywords": null,

@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bf3dc8ab578b35a81a1866b4620cf4b0",
+  "page_hash": "5099fdbb57a95b411fffb5c6624a3e7e",
   "accessibility_violations": "{\"link-purpose\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -62,7 +63,6 @@
     "d9-wret.s3.us-west-2.amazonaws.com",
     "dap.digitalgov.gov",
     "script.hotjar.com",
-    "static.addtoany.com",
     "static.hotjar.com",
     "touchpoints.app.cloud.gov",
     "use.fontawesome.com",
@@ -79,20 +79,17 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/side_image/public/thumbnails/image/fire-danger-viewer-app.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://script.hotjar.com/modules.ef5986d046c68a8c77c1.js",
-    "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
-    "https://static.addtoany.com/menu/page.js",
     "https://static.hotjar.com/c/hotjar-606685.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/5e10f821.js",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".usgs.gov"
   ],
@@ -112,8 +109,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Fire Danger Forecast | U.S. Geological Survey",
   "description": null,
   "keywords": null,
@@ -171,12 +168,12 @@
     "usa-textarea"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 80,
+  "uswds_usa_classes": 75,
   "uswds_string": 2,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.9.0",
   "uswds_version": 100,
-  "uswds_count": 262,
+  "uswds_count": 257,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

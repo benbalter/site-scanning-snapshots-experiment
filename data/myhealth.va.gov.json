@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "gov_man",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,15 +31,17 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d21e3eb23164483c73e15a1b5e660db2",
+  "page_hash": "87cc43f4690fb0f59dccb94617c4d4f0",
   "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 13679302,
+  "visits": 7563586,
   "ipv6": true,
   "hostname": null,
   "cms": null,
-  "login_provider": "id.me,login.gov",
+  "login_provider": null,
   "login": [
     "\"password\"",
     ">Sign In<",
@@ -55,7 +56,7 @@
     "pua": "UA-63485645-1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-63485645-1,G-CSLL4ZEK4L,G-YPB3FD0PQ9",
+  "ga_tag_id": "UA-63485645-1,G-YPB3FD0PQ9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eauth.va.gov",
@@ -87,8 +88,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home - My HealtheVet - My HealtheVet",
   "description": "Description",
   "keywords": "Keywords",

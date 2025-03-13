@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "gov_man",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,12 +31,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "97e50881cb6a6c8b172a6cfd2e42a4b7",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":7}",
-  "ipv6": false,
+  "page_hash": "785ba34db1255b07e6ea903854e89dc4",
+  "accessibility_violations": "{\"aria\":2,\"contrast\":22}",
+  "pageviews": 24748,
+  "visits": 17867,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -62,7 +63,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -75,8 +76,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NIH Calendar of Events",
   "description": null,
   "keywords": null,
@@ -106,7 +107,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "879d0e54b093910a95bc2ecdbb80aba6",
+  "sitemap_xml_page_hash": "2b82600febb1a7996fdab0974e22f8f1",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

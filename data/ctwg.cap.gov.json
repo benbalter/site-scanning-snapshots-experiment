@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6a9c6b4ab1035e53acb8c646b2d2a03c",
+  "page_hash": "065d3a23f4a3a172e52203be99b3a3fb",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -47,7 +48,6 @@
   "dap_version": "",
   "ga_tag_id": "G-2E3RLQWN8F",
   "third_party_service_domains": [
-    "ajax.googleapis.com",
     "content.presspage.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -55,17 +55,16 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js",
-    "https://content.presspage.com/uploads/1913/14716823-8796-4920-b909-6418b1befce8/500_cyberx2-2025copy.jpg",
-    "https://content.presspage.com/uploads/1913/d53c7e93-bf90-4181-8294-fbef82c16a1e/500_glrboehmera.jpg",
-    "https://content.presspage.com/uploads/1913/f2d9b8d2-187b-404d-8c78-2fcf4d06ac69/500_flayex2.jpg",
+    "https://content.presspage.com/uploads/1913/16af605d-a402-4df8-89b5-fae5c9362c91/500_koh-0034.jpg",
+    "https://content.presspage.com/uploads/1913/36a6d685-4763-4713-9f01-57622056ad95/500_glider1.jpg",
+    "https://content.presspage.com/uploads/1913/a039e6b3-b6c5-4f3b-9309-e8f11c3aeda0/500_fc-fertilekeynoteazwgrickpallister.jpg",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2",
     "https://static.globalreach.com/images/logos-new/globalreach_dark.svg",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".cap.gov",
     "ctwg.cap.gov"
@@ -81,8 +80,8 @@
     "about us",
     "inspector general"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | Connecticut Wing",
   "description": "Welcome to the Connecticut Wing of the Civil Air Patrol's official website. Here you can find information on our three missions, department information, how to join, calendars, FAQs, and much more.",
   "keywords": null,

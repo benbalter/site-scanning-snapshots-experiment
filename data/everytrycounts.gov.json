@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "84367bc2ebae803f634e054ee765c2ab",
-  "accessibility_violations": "{\"contrast\":1}",
+  "page_hash": "46193a15bb755924595de5d7d2da4f1d",
+  "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":3}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -48,7 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-4XKVP8GCRR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c0e.akstat.io",
+    "17de4c1c.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -59,7 +60,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0e.akstat.io/",
+    "https://17de4c1c.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -71,7 +72,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -84,8 +85,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Every Try Counts",
   "description": "It may take several tries to quit smoking for good. Take small steps and learn what works for you. Every try counts. Start here.",
   "keywords": "",

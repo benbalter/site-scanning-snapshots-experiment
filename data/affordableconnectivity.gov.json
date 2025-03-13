@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "c643790ba765ba94d895ca1ca4c782bc",
+  "page_hash": "7f471a21ce8222e8f6cfc1f802f83103",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
   "cms": "WordPress",
@@ -49,24 +50,19 @@
   "dap_version": "",
   "ga_tag_id": "G-QVSXTB5Z2J",
   "third_party_service_domains": [
-    "17de4c15.akstat.io",
-    "52-222-122-97_s-23-32-75-29_ts-1740885819-clienttons-s.akamaihd.net",
+    "17de4c14.akstat.io",
     "acpbenefit.org",
     "ajax.googleapis.com",
     "c.go-mpulse.net",
     "designsystem.digital.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "gtphuylimcrvqz6dz45q-povmfp-261959597-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net",
     "www.affordableconnectivity.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c15.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-29_ts-1740885819-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c14.akstat.io/",
     "https://acpbenefit.org/wp-includes/js/wp-emoji-release.min.js",
     "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
     "https://c.go-mpulse.net/api/config.json",
@@ -77,10 +73,7 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2",
-    "https://gtphuylimcrvqz6dz45q-povmfp-261959597-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/V59XE-ZK3MY-DT7J9-R7UWJ-TKA7U",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.affordableconnectivity.gov/wp-content/themes/Universal%20Service%20Administrative%20Company/assets/css/bootstrap.css",
     "https://www.affordableconnectivity.gov/wp-content/themes/Universal%20Service%20Administrative%20Company/assets/indi_1.2.0/doc.css",
     "https://www.affordableconnectivity.gov/wp-content/themes/Universal%20Service%20Administrative%20Company/assets/indi_2.4.0/indi.css",
@@ -103,10 +96,9 @@
     "https://www.affordableconnectivity.gov/wp-includes/css/dist/block-library/style.min.css",
     "https://www.affordableconnectivity.gov/wp-includes/js/wp-emoji-release.min.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".affordableconnectivity.gov"
   ],
@@ -116,8 +108,8 @@
     "privacy"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home - ACP - Universal Service Administrative Company",
   "description": "Affordable Connectivity Program ACP - Universal Service Administrative Company",
   "keywords": null,

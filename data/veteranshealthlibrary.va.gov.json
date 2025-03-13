@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "930026913cb648189458c2199007158e",
+  "page_hash": "f82a81f098093786b8e4923abba2191b",
   "accessibility_violations": null,
+  "pageviews": 16,
+  "visits": 14,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -59,6 +60,7 @@
   ],
   "third_party_service_urls": [
     "https://bam.nr-data.net/1/NRJS-60341a8e5ba764cea61",
+    "https://bam.nr-data.net/resources/1/NRJS-60341a8e5ba764cea61",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/webfonts/fa-solid-900.woff2",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.3.0/jquery-migrate.min.js",
@@ -66,7 +68,7 @@
     "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.googleapis.com/icon",
-    "https://fonts.gstatic.com/s/bitter/v36/rax8HiqOu8IVPmn7f4xpLjpSmw.woff2",
+    "https://fonts.gstatic.com/s/bitter/v39/rax8HiqOu8IVPmn7f4xpLjpSmw.woff2",
     "https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
@@ -102,8 +104,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Veterans Health Library | Veterans Affairs",
   "description": "The Veterans Health Library is a comprehensive patient education resource to help Veterans stay well and well-informed.",
   "keywords": null,

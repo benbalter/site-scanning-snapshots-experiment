@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea",
-    "cisa"
+    "omb_idea"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "be1df1b70c01372bea6141706959b599",
+  "page_hash": "9c9cc19f35b37fbc6e2f4cf3a0c4b874",
   "accessibility_violations": "{\"lists\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -46,7 +47,7 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP,G-X7LCTSTP70,G-5YY8Y4R5TC,UA-32318423-1",
+  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,UA-32318423-1,G-X7LCTSTP70,G-5YY8Y4R5TC",
   "third_party_service_domains": [
     "6025116.global.siteimproveanalytics.io",
     "analytics.google.com",
@@ -85,7 +86,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -110,8 +111,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Courses Legacy | Homeland Security",
   "description": "On September 20, 2024, the legacy https://courses.dhs.gov system was decommissioned.  This page is a reference for those who bookmarked the homepage of the legacy system so they can find the location of the new training modules, which are listed below.",
   "keywords": null,

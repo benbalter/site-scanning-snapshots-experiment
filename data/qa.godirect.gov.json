@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4eca0d4faeac01a31bf7f011c6ded2d2",
+  "page_hash": "0a2b4655ab8086560320adf52ed17b93",
   "accessibility_violations": "{\"lists\":1}",
+  "pageviews": 3857,
+  "visits": 2522,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -83,8 +84,8 @@
     "privacy policy",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "Go Direct® - Home",
   "description": "U.S. Treasury direct deposit for Federal benefit checks. Direct Express. Electronic Payment. 800-333-1795, 888-228-1934, 855-290-1544, 877-597-3057, 855-290-1547, 214-254-3113",
   "keywords": null,

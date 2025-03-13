@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "be4e8b9379f08d3901fab09136a92735",
+  "page_hash": "f970dd8e0abc47cd798068b99a13b2ec",
   "accessibility_violations": null,
+  "pageviews": 375,
+  "visits": 156,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -82,8 +83,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "USAJOBS - Search",
   "description": null,
   "keywords": null,

@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "edeba5fa010863c23ba8f575f5eb59de",
   "accessibility_violations": "{\"contrast\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -53,6 +54,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "privacyshieldprod.blob.core.windows.net",
+    "res-1.cdn.office.net",
     "static2.sharepointonline.com"
   ],
   "third_party_service_urls": [
@@ -71,9 +73,10 @@
     "https://privacyshieldprod.blob.core.windows.net/publicsiteassets/ita-icon-general-02.png",
     "https://privacyshieldprod.blob.core.windows.net/publicsiteassets/ita-icon-general-03.png",
     "https://privacyshieldprod.blob.core.windows.net/publicsiteassets/ita_logo3.png",
+    "https://res-1.cdn.office.net/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-regular.woff2",
     "https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-regular.woff2"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".dataprivacyframework.gov"
   ],
@@ -88,8 +91,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Data Privacy Framework",
   "description": "Data Privacy Framework Website",
   "keywords": null,

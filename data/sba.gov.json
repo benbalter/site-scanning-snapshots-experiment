@@ -26,8 +26,7 @@
     "usagov",
     "gov_man",
     "oira",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,11 +35,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4585d343451349a9d103d059c1b78196",
+  "page_hash": "cfd22f78c61eb90a12ff6d7a6fa90f5c",
   "accessibility_violations": null,
+  "pageviews": 4306970,
+  "visits": 2287634,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -69,7 +70,8 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -96,8 +98,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Small Business Administration",
   "description": "We support America's small businesses. The SBA connects entrepreneurs with lenders and funding to help them plan, start and grow their business.",
   "keywords": null,
@@ -125,9 +127,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 535,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-01T09:02:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-11T23:05:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "8ec1ca277f5e0a3e054fbe232a35dcf2",
+  "sitemap_xml_page_hash": "6effc0c6f0e34db7054d7c94bb8bbf00",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -162,12 +164,12 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 115,
+  "uswds_usa_classes": 120,
   "uswds_string": 8,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 164,
+  "uswds_count": 169,
   "www_url": "https://www.sba.gov",
   "www_status_code": 200,
   "www_title": "Small Business Administration"

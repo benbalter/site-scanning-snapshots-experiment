@@ -23,8 +23,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,11 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "24b8beaeda10883621f123b6eaede499",
-  "accessibility_violations": "{\"aria\":3,\"contrast\":10,\"lists\":1}",
+  "page_hash": "b7a1cdf0d3c2ddfc968288aef772d62e",
+  "accessibility_violations": "{\"contrast\":5,\"lists\":1}",
+  "pageviews": 5026608,
+  "visits": 1653827,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,6 +55,7 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-C641SBQBBJ,UA-60737492-1",
   "third_party_service_domains": [
     "analytics.foresee.com",
+    "analytics.google.com",
     "api.usaspending.gov",
     "dap.digitalgov.gov",
     "gateway.foresee.com",
@@ -62,6 +64,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
+    "https://analytics.google.com/g/collect",
     "https://api.usaspending.gov/api/v2/references/glossary/",
     "https://api.usaspending.gov/api/v2/references/submission_periods/",
     "https://api.usaspending.gov/api/v2/spending/",
@@ -78,11 +81,12 @@
     "https://gateway.foresee.com/code/19.14.9-fs/templates/feedback/default/surveycontents___html.js",
     "https://gateway.foresee.com/sites/usaspending/production/gateway.min.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".usaspending.gov",
     "www.usaspending.gov"
@@ -98,8 +102,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Government Spending Open Data | USAspending",
   "description": "USAspending is the official open data source of federal spending information. We track how federal money is spent in communities across America and beyond. Learn more about government spending through interactive tools that explore elements of the federal budget, such as federal loan, grant, and contract data.",
   "keywords": null,

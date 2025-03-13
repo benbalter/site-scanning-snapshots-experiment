@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "55fa9204368493e3ea9749f558288a40",
+  "page_hash": "e799a54b5650fbf687123152571ccbb9",
   "accessibility_violations": null,
+  "pageviews": 386603,
+  "visits": 266300,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -51,7 +52,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HGCCL9NDBM,G-CSLL4ZEK4L,UA-43995508-1",
   "third_party_service_domains": [
-    "6022737.global.siteimproveanalytics.io",
     "6294131.global.r2.siteimproveanalytics.io",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -64,7 +64,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://6022737.global.siteimproveanalytics.io/image.aspx",
     "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.woff2",
@@ -77,7 +76,8 @@
     "https://s3.amazonaws.com/ditcr-prod/styles/webp/s3/2022-05/DocumentsReports_banner_16x9.png.webp",
     "https://s3.amazonaws.com/ditcr-prod/styles/webp/s3/2022-05/data-in-the-classroom-image.png.webp",
     "https://s3.amazonaws.com/ditcr-prod/styles/webp/s3/2023-06/june-2023-newsletter-thumbnail_0.png.webp",
-    "https://siteimproveanalytics.com/js/siteanalyze_6022737.js",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.addtoany.com/menu/svg/icons/a2a.js",
@@ -87,9 +87,10 @@
     "https://static.addtoany.com/menu/svg/icons/twitter.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -106,9 +107,9 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
-  "title": "National Environmental Satellite, Data, and Information Service",
+  "https_enforced": true,
+  "hsts": true,
+  "title": "NESDIS | National Environmental Satellite, Data, and Information Service dataintheclassroom",
   "description": "Here at the National Environmental Satellite, Data, and Information Service (NESDIS) we provide secure and timely access to global environmental data and information from satellites and other sources to promote and protect the Nation's security, environment, economy, and quality of life.",
   "keywords": null,
   "og_title": null,
@@ -137,7 +138,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-01-10T23:54:34.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "60d1f2ea42a3676941dd72390aa9364d",
+  "sitemap_xml_page_hash": "6c54c2066698fd6a4c5ecdc6b68576da",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

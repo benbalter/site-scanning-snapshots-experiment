@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "ddd4bcb37e2d12c759d9b89edbf4d4f8",
+  "page_hash": "1e86e088de1c717010251a55513df250",
   "accessibility_violations": null,
+  "pageviews": 36910,
+  "visits": 30349,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -79,12 +80,11 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
     "https://unpkg.com/web-vitals@4.2.4/dist/web-vitals.iife.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -99,8 +99,8 @@
     "accessibility",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Chemical Hazards Emergency Medical Management - CHEMM",
   "description": "Chemical Hazards Emergency Medical Management",
   "keywords": "CHEMM, chemical emergencies, chemical hazards, medical management, first responders, first receivers, planning, training",

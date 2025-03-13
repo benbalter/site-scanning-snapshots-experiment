@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,11 +31,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "7a605a3efee0de7f0939ecbdc9e1faca",
+  "page_hash": "8aec87ed33150b0c02c66b6fd335ed3c",
   "accessibility_violations": "{\"contrast\":29,\"link-purpose\":22,\"form-names\":1}",
+  "pageviews": 10446,
+  "visits": 7202,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": "WordPress",
@@ -72,6 +73,7 @@
     "https://cdn.ioos.noaa.gov/media/2015/10/Glider-Tile_crop.jpg",
     "https://cdn.ioos.noaa.gov/media/2017/08/external_feature_new.png",
     "https://cdn.ioos.noaa.gov/media/2017/12/IOOS-logo_notag.png",
+    "https://cdn.ioos.noaa.gov/media/2017/12/IOOS_logo.png",
     "https://cdn.ioos.noaa.gov/media/2017/12/acidification1_240.jpg",
     "https://cdn.ioos.noaa.gov/media/2017/12/animal_tele_sel_sensor240.jpg",
     "https://cdn.ioos.noaa.gov/media/2017/12/comt-viewer_cb-300x171.jpg",
@@ -99,8 +101,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -121,8 +122,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home - The U.S. Integrated Ocean Observing System (IOOS)",
   "description": null,
   "keywords": null,

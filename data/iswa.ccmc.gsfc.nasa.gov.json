@@ -19,21 +19,22 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "91daf8a21c52afd2247d39cb80082e03",
+  "page_hash": "a2a5327f759c426ccff045413c308b1d",
   "accessibility_violations": null,
+  "pageviews": 29097,
+  "visits": 25859,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -59,7 +60,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -74,8 +75,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "ISWA | CCMC",
   "description": null,
   "keywords": null,
@@ -112,6 +113,7 @@
   "uswds_inpage_css": 18,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-breadcrumb",
     "usa-button",
     "usa-current",
@@ -126,6 +128,7 @@
     "usa-prose",
     "usa-search",
     "usa-sidenav",
+    "usa-site-alert",
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": false,

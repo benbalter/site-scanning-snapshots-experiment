@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "5a1ca0745fd7509d9bd272935a2c63be",
+  "page_hash": "46ee4e54906b223315fefeb40c36dc79",
   "accessibility_violations": "{\"aria\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -63,7 +64,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/c11b2e41-c9ab-43f7-af84-f98b268af43e",
+    "https://brain.foresee.com/state/ojp-main/f5821523-aab4-4677-b92f-1800803ac0d8",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -96,7 +97,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -121,8 +122,8 @@
     "espanol",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Archived | NIJ-Hosted Online Training Courses | National Institute of Justice",
   "description": "More Training See our events page for additional opportunities. NIJ offers free, self-paced online courses. Course Catalog Forensic Analysts",
   "keywords": null,
@@ -184,12 +185,12 @@
     "usa-width-one-half"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 55,
+  "uswds_usa_classes": 65,
   "uswds_string": 5,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 102,
+  "uswds_count": 112,
   "www_url": "https://nij.ojp.gov/nij-hosted-online-training-courses",
   "www_status_code": 200,
   "www_title": "Archived | NIJ-Hosted Online Training Courses | National Institute of Justice"

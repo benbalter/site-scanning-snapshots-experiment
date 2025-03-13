@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f3cc48014fee0299e29cebadbdf5fa05",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":13}",
+  "page_hash": "7247023abe8f54e477096e987f5b9512",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":16}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -101,8 +102,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "U.S. Embassy in Israel",
   "description": "The mission of the United States Embassy is to advance the interests of the United States, and to serve and protect U.S. citizens in Israel.",
   "keywords": null,

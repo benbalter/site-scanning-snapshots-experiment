@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d540d62e45113d531dbe0afdd39ca44a",
+  "page_hash": "174eaad6a25f12bf345f09349506dad0",
   "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": 8733,
+  "visits": 7181,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -64,12 +65,12 @@
     "www.usa.gov"
   ],
   "third_party_service_urls": [
-    "https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1740653394589/template_layout.min.css",
+    "https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1741597315589/template_layout.min.css",
     "https://app.hubspot.com/content-tools-menu/api/v1/tools-menu/has-permission-json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://js.hs-analytics.net/analytics/1740890400000/532040.js",
+    "https://js.hs-analytics.net/analytics/1741851600000/532040.js",
     "https://js.hs-banner.com/v2/532040/banner.js",
     "https://js.hs-banner.com/v2/cf-location",
     "https://js.usemessages.com/conversations-embed.js",
@@ -96,8 +97,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Conectate.GobiernoUSA.gov Landing Page",
   "description": "Conectate.GobiernoUSA.gov Landing Page",
   "keywords": null,

@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,12 +31,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
-  "page_hash": "7103a900e5c77b07070910e4a4b2f624",
+  "www_scan_status": "completed",
+  "page_hash": "ea6cf0a9f394035c3058f5c6a4a556c6",
   "accessibility_violations": null,
-  "ipv6": false,
+  "pageviews": 32800,
+  "visits": 13983,
+  "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
   "login_provider": null,
@@ -49,7 +50,7 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-ZUcARBN15y7FTyu,G-RsqSeHhO44mcADH,G-dt90VKD13mtzs8y",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
@@ -77,8 +78,8 @@
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/styles__ltr.css"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -96,8 +97,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | BRAIN Initiative",
   "description": "The Brain Research Through Advancing Innovative Neurotechnologies® (BRAIN) Initiative. Revolutionizing our understanding of the human brain",
   "keywords": null,
@@ -125,9 +126,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 9033,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-06T15:15:49.000Z",
+  "sitemap_xml_lastmod": "2025-03-05T18:53:15.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "a75219aae07396f283e0a555da72401c",
+  "sitemap_xml_page_hash": "9ee9765087c3ddb6d9236090b10800cf",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -147,7 +148,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.braininitiative.nih.gov",
+  "www_status_code": 200,
+  "www_title": "Home | BRAIN Initiative"
 }

@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "final_url_websites",
-    "gpo_fdlp",
-    "cisa"
+    "gpo_fdlp"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "dd8814a2a542ed65334c21a4b40a532c",
   "accessibility_violations": "{\"contrast\":22,\"link-purpose\":32}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "Drupal",
@@ -77,8 +78,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment",
   "description": "The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment",
   "keywords": null,

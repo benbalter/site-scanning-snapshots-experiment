@@ -21,8 +21,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "8755ae75fd83c57e08282636667da55f",
+  "page_hash": "98573790047b3be32d7882352028629f",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -63,12 +64,11 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.ncei.noaa.gov/alerts/colorado/api",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".ngdc.noaa.gov",
-    ".noaa.gov"
+    ".ngdc.noaa.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [
@@ -78,8 +78,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NOAA National Centers for Environmental Information (NCEI)",
   "description": "NOAA's National Centers for Environmental Information (NCEI) (formerly the National Geophysical Data Center) provides scientific stewardship, products, and services for geophysical data from the Sun to the Earth and Earth's sea floor and solid earth environment, including Earth observations from space. NCEI is part of the US Dept of Commerce, National Oceanic and Atmospheric Administration, National Environmental Satellite, Data, and Information Service",
   "keywords": "geophysics, geophysical data, marine geology, marine geophysics, solar-terrestrial physics, World Data System for Geophysics, environmental data, Defense Meteorological Satellite Program, sunspots, geomagnetism, solar data, space weather, ionosphere, upper atmosphere, bathymetry, coastal relief, digital elevation model, Great Lakes geomorphology, trackline geophysics, gravity, magnetics, global relief models, marine sediments, sea floor sediments, natural hazards, volcanoes, tsunamis, aeromagnetics, topography, DART, DEM, DSMP, ETOPO1, GEODAS, GOES, IHODCDB, LIDAR, POES",

@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,11 +31,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "62b98d72eb7462881deead95d0061ce6",
+  "page_hash": "918d814cb4ec6ad9b51b50c2bb44fbd5",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"link-purpose\":3}",
+  "pageviews": 10543,
+  "visits": 5194,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -77,11 +78,10 @@
     "https://use.fontawesome.com/releases/v5.13.0/css/all.css",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
-    ".gsfc.nasa.gov",
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,
@@ -93,8 +93,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | ICESat-2",
   "description": null,
   "keywords": null,
@@ -120,11 +120,11 @@
   "sitemap_xml_url": "https://icesat-2.gsfc.nasa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 200310,
+  "sitemap_xml_filesize": 193390,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-01T10:44:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-12T13:11:18.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "b38e006cb0a0f91d63f691b00c6d65e5",
+  "sitemap_xml_page_hash": "65c92fa87b45ed2e0485137672340ff3",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

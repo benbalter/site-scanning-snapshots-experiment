@@ -21,8 +21,7 @@
     "gov",
     "pulse",
     "omb_idea",
-    "2020_eot",
-    "cisa"
+    "2020_eot"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "a981ab2fc9e27cb8c6809fc19e629784",
+  "page_hash": "98c1ef9fa4708c9b9500c04cb81d80b7",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -67,11 +68,12 @@
     "https://gov-bam.nr-data.net/1/c656a7b008",
     "https://js-agent.newrelic.com/nr-full-1.281.0.min.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -96,8 +98,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Navigating the military financial lifecycle | Consumer Financial Protection Bureau",
   "description": "Whether you’re a servicemember entering basic training or you just hung up the uniform, we can help you handle financial challenges at every step of your military career.",
   "keywords": null,

@@ -19,8 +19,7 @@
   "404_test": null,
   "source_list": [
     "gov",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "connection_reset",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "connection_reset",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "connection_reset",
   "www_scan_status": "completed",
-  "page_hash": "c72a53e5d6e09df8698fa1769d2d962d",
+  "page_hash": "138295619520232c2e35d65696f75548",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": "WordPress",
@@ -66,8 +67,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NEUP | Nuclear Energy University Program - NEUP - Nuclear Energy University Program",
   "description": null,
   "keywords": null,

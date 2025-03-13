@@ -19,7 +19,7 @@
   "404_test": null,
   "source_list": [
     "pulse",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +28,13 @@
   "not_found_scan_status": "unknown_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "too_many_redirects",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6f53c789ed5c7c89a363b77d56b7f12e",
+  "page_hash": "4e1dc76b6894409cfa3b3913ae5d5c16",
   "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": 41,
+  "visits": 17,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "Drupal",
@@ -69,7 +71,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.reaganlibrary.gov/public/2020-07/Ronald-Reagan-Homepage.png",
-    "https://www.reaganlibrary.gov/public/styles/large/public/2020-07/reagan_visit_collage.png",
+    "https://www.reaganlibrary.gov/s3/files/styles/large/public/2020-07/reagan_visit_collage.png",
     "https://www.reaganlibrary.gov/user-alert/get-message"
   ],
   "third_party_service_count": 7,
@@ -88,8 +90,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Ronald Reagan Presidential Library & Museum | Ronald Reagan",
   "description": null,
   "keywords": null,

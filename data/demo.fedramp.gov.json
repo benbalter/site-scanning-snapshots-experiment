@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9b536e4d37ac071e1ea4217e784b5f0b",
+  "page_hash": "f7f5e49d461a72365b48d8268ffd9a30",
   "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 0,
+  "visits": 4,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "cloud.gov Pages",
@@ -88,8 +89,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "How to Become FedRAMP Authorized | FedRAMP.gov",
   "description": "authorization process; federal agencies; cloud service providers; Joint Authorization Board; JAB; continuous monitoring; partnership establishment; readiness assessment; FedRAMP Connect; security deliverables; full security assessment; JAB authorization process; agency authorization process",
   "keywords": null,

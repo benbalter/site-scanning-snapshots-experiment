@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "338b2826e7721c9b515ae14acb7145d9",
+  "page_hash": "375762ae90e5cacec9c755752f40d02a",
   "accessibility_violations": null,
+  "pageviews": 1403,
+  "visits": 1157,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -48,7 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GMH13YHPVR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1f.akstat.io",
+    "17de4c1e.akstat.io",
     "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -59,7 +60,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1f.akstat.io/",
+    "https://17de4c1e.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -78,8 +79,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Country Roadmaps | USAID",
   "description": "On this website you can access USAID's flagship analytical tool for assessing country development progress, the Country Roadmaps, and view and download a wide-range of supporting resources.",
   "keywords": null,
@@ -109,7 +110,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "6ecd93b6227959ae447d4b739a6b1f45",
+  "sitemap_xml_page_hash": "62d4f21aa0ab615c9a4caea4c8817fb8",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

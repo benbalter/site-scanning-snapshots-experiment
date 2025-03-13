@@ -16,11 +16,10 @@
   "agency": "Department of the Interior",
   "bureau": "Department of the Interior",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1e8157d6d032f16bdba75edae89fa0e3",
-  "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1}",
+  "page_hash": "4f9d1acdddeee556e0e72494d44a4b88",
+  "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1,\"images\":6,\"link-purpose\":6}",
+  "pageviews": 965,
+  "visits": 140,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -97,8 +98,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "GeoPlatform.gov | Making Federal Geospatial FAIR | GeoPlatform.gov",
   "description": "GeoPlatform is making Federal GeoData Findable, Accessible, Interoperable, and Reusable. The Geospatial Platform is a cross-agency collaborative effort and Shared Service that embodies the principles and spirit of Open Government, emphasizing government-to-citizen communication, accountability, and transparency. In 2020, GeoPlatform.gov, operating under the authority of the Geospatial Data Act of 2018 , transformed to establish its primary role which will be to discover geospatial data assets with special emphasis as the authorized source for all the official National Geospatial Data Assets (NGDAs) across 18 Data themes as guided by the U.S. Federal Geographic Data Committee (FGDC).",
   "keywords": "geoplatform, geoplatform.gov, ngda, national geospatial data asset, fair, findable, reusable, interoperable, accessible, federal geographic data committee, metadata, data, mapping, maps, geospatial",

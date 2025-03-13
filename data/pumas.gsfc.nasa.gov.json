@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "68aab953e2786c5243ec3a22642d7089",
+  "page_hash": "c191c8f5d89b9b0645b7162948e7860b",
   "accessibility_violations": "{\"contrast\":8}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -56,7 +57,6 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "use.fontawesome.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -72,12 +72,11 @@
     "https://use.fontawesome.com/releases/v5.1.0/css/all.css",
     "https://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff2",
     "https://use.fontawesome.com/releases/v5.13.0/css/all.css",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -89,8 +88,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home Page | PUMAS",
   "description": null,
   "keywords": null,

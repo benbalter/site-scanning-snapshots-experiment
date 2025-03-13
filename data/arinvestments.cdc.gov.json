@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f5372e3fd0d3115d25f808af59030e73",
+  "page_hash": "703b420f8b289b5d1eb14f97405b9388",
   "accessibility_violations": "{\"aria\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "azurefd.net",
   "cms": null,
@@ -56,15 +57,15 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s37222201609043",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s37350219611491",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s38703460365096",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s2401551431615",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s24764550348578",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s28978146459495",
     "https://www.amcharts.com/lib/3/plugins/export/export.css",
     "https://www.amcharts.com/lib/3/plugins/export/export.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -84,8 +85,8 @@
     "foia",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Antimicrobial Resistance Investments",
   "description": null,
   "keywords": null,
@@ -107,10 +108,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://arinvestments.cdc.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

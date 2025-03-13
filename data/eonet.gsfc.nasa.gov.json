@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b2d9e6493f78d1a0b9348fd49add1b69",
+  "page_hash": "4c73b8fe4cdacfbe13906f5d04544bd0",
   "accessibility_violations": null,
+  "pageviews": 1410,
+  "visits": 948,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -78,8 +79,7 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -95,8 +95,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Earth Observatory Natural Event Tracker (EONET) | Welcome",
   "description": "EONET is the Earth Observatory Natural Event Tracker. EONET is a repository of metadata about natural events. EONET is accessible via web services. EONET will drive your natural event application. EONET metadata is for visualization and general information purposes only and should not be construed as 'official' with regards to spatial or temporal extent.",
   "keywords": null,
@@ -118,10 +118,10 @@
   "robots_txt_filesize": 24,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://eonet.gsfc.nasa.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

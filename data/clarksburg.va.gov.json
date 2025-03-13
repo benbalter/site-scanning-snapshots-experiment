@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "12dc1bde09d1d138c5a1ee7ed89a6c10",
+  "page_hash": "d419f66e5892e5c5803800595b5559e8",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -74,6 +75,7 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/icon-https.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2024-09/Ariel%20view%202022%20-%20closer96.1.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-02/National%20Salute.png",
+    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-03/Seal_of_the_U.S._Department_of_Veterans_Affairs.svg_.png",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2021-11/facility96cover.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
     "https://www.googletagmanager.com/gtag/js",
@@ -81,14 +83,13 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".va.gov",
-    "www.va.gov"
+    ".va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VA Clarksburg Health Care | Veterans Affairs",
   "description": "Find a health facility near you at VA Clarksburg Healthcare System, and manage your health online. Our health care teams are deeply experienced and guided by the needs of Veterans, their families, and caregivers.",
   "keywords": null,

@@ -21,8 +21,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "mil-sites1",
-    "cisa"
+    "mil-sites1"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b703e74b6d4a5b02ab6ed039b5d5a0e1",
+  "page_hash": "d26de3d73bf8a0112d9c6d48a072a4d4",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -65,19 +66,22 @@
   "third_party_service_urls": [
     "https://api.dvidshub.net/asset",
     "https://api.dvidshub.net/search",
+    "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2106/802993/500x281_q95.jpg",
     "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2309/896245/DOD_109868427.0000001/500x281_q75.jpg",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".defense.gov"
+    ".defense.gov",
+    ".jifco.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -91,8 +95,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Non-Lethal Weapons Program",
   "description": null,
   "keywords": null,

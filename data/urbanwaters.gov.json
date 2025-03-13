@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "gov",
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "29829271d488c7531fee44dcea280572",
+  "page_hash": "89472422b5d9a0fab6edd60a507c1512",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -58,7 +59,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/www.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/www.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/c7deac18f0e7b90e6cef3f0fe19c780a.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/79c737c2791fe6392c47120c36c7eaf0.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -74,17 +75,20 @@
     "fear",
     "foia",
     "privacy",
-    "usa.gov"
+    "usa.gov",
+    "espanol",
+    "/es"
   ],
   "required_links_text": [
     "accessibility",
     "no fear act",
     "foia",
     "inspector general",
-    "usa.gov"
+    "usa.gov",
+    "spanish"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Urban Waters Federal Partnership | US EPA",
   "description": "Includes information on 14 Federal member agencies for the Urban Waters Federal Partnership and 20 designated urban waters locations and the local stakeholder groups and activities. Content was formerly at www.epa.gov/urbanwaters/",
   "keywords": null,

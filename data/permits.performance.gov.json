@@ -23,8 +23,7 @@
     "omb_idea",
     "2020_eot",
     "final_url_websites",
-    "gpo_fdlp",
-    "cisa"
+    "gpo_fdlp"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,11 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "3b62f4ae55dcf3ba68ed1ff92d19a822",
+  "page_hash": "2d8ecd2136e3b4f176105195c520b195",
   "accessibility_violations": "{\"frames-iframes\":1}",
+  "pageviews": 25628,
+  "visits": 13356,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -50,7 +51,7 @@
     "agency": "DOT"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-18660041-1,G-CSLL4ZEK4L,G-NQ5ZN114SB,G-0623JYSC1Q,G-V48F9VT7H9",
+  "ga_tag_id": "UA-18660041-1,G-8v79q7SjJQCyVKs,G-ExrZKHwE0E27ej1,G-CSLL4ZEK4L,G-NQ5ZN114SB,G-0623JYSC1Q,G-V48F9VT7H9",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "cdn.socrata.com",
@@ -100,8 +101,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "| Permitting Dashboard",
   "description": null,
   "keywords": null,

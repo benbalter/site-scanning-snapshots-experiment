@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot",
-    "cisa"
+    "2020_eot"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "7182ce994573c10db675cc5d26d608c7",
+  "page_hash": "b7e5141a8613c2f58c2941dafae7ea8e",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -62,7 +63,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/ba6df199-810b-44c6-be13-a8aadb89b1ff",
+    "https://brain.foresee.com/state/ojp-main/a78fa632-7d05-4ee3-8133-e4232341f631",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -107,8 +108,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | National Criminal Intelligence Resource Center",
   "description": "This site, sponsored by the U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Assistance (BJA), provides criminal justice professionals with a multitude of resources that are primarily concerned with law enforcement intelligence operations and practices.",
   "keywords": null,

@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2969bbd52b192ae0a79954cd34492d6f",
+  "page_hash": "56b66d86adffb92768af19ec417eb6a2",
   "accessibility_violations": "{\"contrast\":8,\"link-purpose\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -140,7 +141,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -151,8 +152,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "DUNE at LBNF",
   "description": "The Deep Underground Neutrino Experiment is an international flagship experiment to unlock the mysteries of neutrinos. DUNE will be installed in the Long-Baseline Neutrino Facility, under construction in the United States.",
   "keywords": null,

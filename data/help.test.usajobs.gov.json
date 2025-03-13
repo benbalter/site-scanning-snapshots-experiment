@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "unknown_error",
-  "page_hash": "969ef93042cd78b87e96c6f4620a5df8",
+  "www_scan_status": "ssl_protocol_error",
+  "page_hash": "78a1d93f29922cec881dc55ee6dcaf08",
   "accessibility_violations": null,
+  "pageviews": 0,
+  "visits": 102,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -60,6 +61,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".test.usajobs.gov",
     ".usajobs.gov"
   ],
   "viewport_meta_tag": true,
@@ -79,8 +81,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "USAJOBS Help Center - How to...",
   "description": "USAJOBS Help Center",
   "keywords": null,

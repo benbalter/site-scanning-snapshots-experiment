@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1e51b2ce69404c68c3f42fd10d75ba2e",
+  "page_hash": "3080379309dd373fd15da79bd6decd69",
   "accessibility_violations": null,
+  "pageviews": 298140,
+  "visits": 172201,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -56,7 +57,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s35915068023018",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s27412979612473",
     "https://mtrics.cdc.gov/cdcgov/1.0.0/s.gif",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC00d0f1ad629f4285aee2a03413463db0-source.min.js",
     "https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/9685a6148ca6/RC05390fc558ef4977bee28480719289b8-source.min.js",
@@ -88,8 +89,8 @@
     "foia",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | CDC Archive",
   "description": "Archived web material for CDC.gov is preserved on the CDC Archive Site",
   "keywords": null,

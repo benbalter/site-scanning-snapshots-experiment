@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "78b1a49cae127184c02ac493276507da",
+  "page_hash": "5478276db16b7eff5b95e8be93a93c2a",
   "accessibility_violations": "{\"aria\":3,\"contrast\":3,\"language\":1,\"images\":3}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -45,7 +46,7 @@
     "agency": "NASA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-VgXJ",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-i81H1Ajvt5OIcCZ",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "cse.google.com",
@@ -84,15 +85,15 @@
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
     "https://www.google.com/cse/static/style/look/v4/default.css",
-    "https://www.google.com/js/th/JSn2jqXr7QjQMgHzSIuIHOxi8msOXj-tmG8HPrcvvS0.js",
+    "https://www.google.com/js/th/H1FduTq2hzEZ7CbGnHAI_LYPRk-7uG6EK3mvAIpPpeg.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/5ae7d525/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/5ae7d525/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/5ae7d525/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/5ae7d525/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/5ae7d525/www-player.css",
+    "https://www.youtube.com/s/player/b21600d5/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/b21600d5/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/b21600d5/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/b21600d5/www-embed-player-cc.vflset/www-embed-player-cc.js",
+    "https://www.youtube.com/s/player/b21600d5/www-player.css",
     "https://yt3.ggpht.com/EJZ484Y7xcwd36EuhEch1x-nwH5I0YkQ3PSSDCxNOebH4N8zaiQtTI6h3fHAsNfTHiSzJ1uaVWg=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 16,
@@ -107,8 +108,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Geospace Physics Laboratory",
   "description": "Sciences & Exploration Directorate",
   "keywords": "science, NASA, Goddard, GSFC, Goddard Space Flight Center, earth science, earth sciences, astrophysics, heliophysics, solar system, Earth and Space, Science Research, stars, universe, activities, education, lunar, moon, solar, sun, planets, planetary, Code 600, SED, Sciences and Exploration Directorate",

@@ -28,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "89d8ee9cd49aff7cdce2f379f105727c",
+  "page_hash": "5b13d0dd159edbe8b40908f710d9cd7b",
   "accessibility_violations": "{\"language\":1,\"images\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -45,10 +47,10 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "3440506257shutdown.relay.webvpn."
+    "14519545shutdown.relay.webvpn."
   ],
   "third_party_service_urls": [
-    "https://3440506257shutdown.relay.webvpn./nonexistent.js"
+    "https://14519545shutdown.relay.webvpn./nonexistent.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -57,8 +59,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": true,
   "title": "SSL VPN Service",
   "description": null,
   "keywords": null,

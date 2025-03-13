@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "ec9e7f2e4cf842ecd1b312abcdb1d312",
+  "page_hash": "7574b5caf620e3edc4c973bfe8addbd4",
   "accessibility_violations": "{\"contrast\":12}",
+  "pageviews": 2121,
+  "visits": 1176,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -52,6 +53,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7JP8P2CZY7,UA-41067187-4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -59,10 +61,12 @@
     "nmscordellbank.blob.core.windows.net",
     "nmssanctuaries.blob.core.windows.net",
     "sanctuaries.noaa.gov",
+    "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/4806/logo_square_NOAA-logo.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -72,7 +76,6 @@
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2",
     "https://nmscordellbank.blob.core.windows.net/cordellbank-prod/media/archive/img/dashed-rule.jpg",
     "https://nmscordellbank.blob.core.windows.net/cordellbank-prod/media/archive/img/facebook.png",
-    "https://nmscordellbank.blob.core.windows.net/cordellbank-prod/media/archive/img/rss.png",
     "https://nmscordellbank.blob.core.windows.net/cordellbank-prod/media/archive/img/twitter.png",
     "https://nmscordellbank.blob.core.windows.net/cordellbank-prod/media/img/20200618-cordell-exhibition-1000.jpg",
     "https://nmscordellbank.blob.core.windows.net/cordellbank-prod/media/img/20200618-hiding-fish-1000.jpg",
@@ -93,13 +96,14 @@
     "https://sanctuaries.noaa.gov/media/img/logos/onms-logo-no-text-74.png",
     "https://sanctuaries.noaa.gov/media/maps/nms-system-map-1000.jpg",
     "https://sanctuaries.noaa.gov/media/vr/explore-the-blue-360-cordell-bank-adventure-1200.jpg",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/img/usa-icons/unfold_more.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/b558c08c.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -114,8 +118,8 @@
     "freedom of information act",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Cordell Bank National Marine Sanctuary",
   "description": "Cordell Bank National Marine Sanctuary is entirely offshore. Within its 1,286 square miles, the sanctuary protects soft seafloor habitat, a rocky bank, deep sea canyons, and communities of wildlife throughout. Its surface waters are feeding areas for local and migratory seabirds and marine mammals.",
   "keywords": "sanctuary, sanctuaries, oceans, marine life, whales, coral, kelp, underwater parks, coast, chart, navigation, NOAA, National Oceanic and Atmospheric Administration, sea, Pacific, Atlantic, Arctic, Antarctic, Southern Ocean, Indian Ocean, beach, oceans, seas, beaches, reef, coral, wave, waves, climate, surf, ship, ships, boat, boats",

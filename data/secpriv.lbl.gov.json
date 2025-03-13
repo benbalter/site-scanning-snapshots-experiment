@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0a93a07201b2f5b0c05b597b10abefdb",
+  "page_hash": "5d5cd6ddc7cd5ef6fdac8a64d4befcee",
   "accessibility_violations": "{\"images\":3,\"link-purpose\":5}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "github.io",
   "cms": null,
@@ -56,17 +57,15 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    ".lbl.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy",
     "/es"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "Berkeley Lab Cybersecurity Research",
   "description": "",
   "keywords": null,
@@ -94,11 +93,11 @@
   "sitemap_xml_url": "https://secpriv.lbl.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 14535,
+  "sitemap_xml_filesize": 14529,
   "sitemap_xml_count": 91,
   "sitemap_xml_lastmod": "2030-06-01T13:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "999806a8cc7d96e79f4eac1b0c93a79e",
+  "sitemap_xml_page_hash": "06b102cbc2906fd878533c6efa49b171",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

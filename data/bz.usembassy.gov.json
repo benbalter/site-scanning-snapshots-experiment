@@ -16,13 +16,12 @@
   "agency": "Department of State",
   "bureau": "Bureau of Global Public Affairs (GPA)",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e4d6f50a2e5f366958cfcf648b0743ea",
+  "page_hash": "8f5f73af97d5e0dfabf9c7af99137ee4",
   "accessibility_violations": "{\"aria\":1,\"contrast\":3,\"link-purpose\":3,\"lists\":2}",
+  "pageviews": 19977,
+  "visits": 13681,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -51,7 +52,6 @@
   "ga_tag_id": "G-RH13VY8T2N,G-CSLL4ZEK4L,UA-30736178-1,UA-22995010-2,G-LTX7X7EL29",
   "third_party_service_domains": [
     "app.enzuzo.com",
-    "basemaps.cartocdn.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -64,12 +64,6 @@
   "third_party_service_urls": [
     "https://app.enzuzo.com/api/public/v1/analytics/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://app.enzuzo.com/scripts/cookiebar/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
-    "https://basemaps.cartocdn.com/rastertiles/voyager/14/4151/7393.png",
-    "https://basemaps.cartocdn.com/rastertiles/voyager/14/4151/7394.png",
-    "https://basemaps.cartocdn.com/rastertiles/voyager/14/4151/7395.png",
-    "https://basemaps.cartocdn.com/rastertiles/voyager/14/4152/7393.png",
-    "https://basemaps.cartocdn.com/rastertiles/voyager/14/4152/7394.png",
-    "https://basemaps.cartocdn.com/rastertiles/voyager/14/4152/7395.png",
     "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/ajax-loader.gif",
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.min.css",
@@ -94,7 +88,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".bz.usembassy.gov",
     ".usembassy.gov",
@@ -113,8 +107,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Homepage - U.S. Embassy in Belize",
   "description": "The mission of the U.S. Embassy is to advance the interests of the United States, and to serve and protect U.S. citizens in [country].",
   "keywords": null,

@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ad6f3e7cf43b632ef9794df353fa7a79",
+  "page_hash": "a22109dca2e3355ac61fcd75989cba29",
   "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": 106,
+  "visits": 51,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -80,8 +81,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "MarineCadastre.gov",
   "description": null,
   "keywords": null,

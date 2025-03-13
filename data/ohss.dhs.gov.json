@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3c6e71494e9e889de6643d194fc8f828",
+  "page_hash": "238ae20353fc68c0512c1010844342b8",
   "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": 167795,
+  "visits": 112921,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -47,9 +48,9 @@
     "pua": "0"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-GHG7XR2CMP,G-CL4S4Q6M4R,UA-32318423-1",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-CL4S4Q6M4R,G-GHG7XR2CMP,UA-32318423-1",
   "third_party_service_domains": [
-    "17de4c1b.akstat.io",
+    "17de4c11.akstat.io",
     "analytics.google.com",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
@@ -59,7 +60,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1b.akstat.io/",
+    "https://17de4c11.akstat.io/",
     "https://analytics.google.com/g/collect",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -73,6 +74,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -91,8 +93,8 @@
     "foia",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "OHSS | Office of Homeland Security Statistics",
   "description": "The office of Homeland Security Statistics publishes data and reports on immigration, law enforcement, emergency management, maritime, and international trade.",
   "keywords": null,
@@ -120,9 +122,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 17199,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-24T21:12:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-06T15:53:18.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "4c78fb4cf55b300e23333652caf2a5da",
+  "sitemap_xml_page_hash": "ed92f1e6b4d99680a96110ffc3fa41f2",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

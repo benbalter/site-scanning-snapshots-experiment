@@ -18,9 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "final_url_websites",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f2ab657bc5c4d7af920a8b0d0edbdf42",
+  "page_hash": "7164e2d3f2d39c79571c63f39866234a",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -49,7 +49,7 @@
     "agency": "NASA",
     "subagency": "GSFC",
     "dclink": "true",
-    "_": "1740830211714"
+    "_": "1741789098297"
   },
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
@@ -68,6 +68,7 @@
     "https://sewp.nasa.gov/addins/sm-core-css.css",
     "https://sewp.nasa.gov/addins/style.css",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.sewp.nasa.gov/images/chophead.png"
   ],
@@ -79,8 +80,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Contract Holder Homepage - SEWP Contract Holder Support Center",
   "description": null,
   "keywords": null,
@@ -103,7 +104,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://www.sewp.nasa.gov/cas/login?service=https%3A%2F%2Fwww.sewp.nasa.gov%2Fcas%2Fidp%2Fprofile%2FSAML2%2FPOST%2FSSO%2FCallback.%2B%3FentityId%3Dhttps%253A%252F%252Fsewpprod.servicenowservices.com%26SAMLRequest%3DnVLBjpswEP0V5Hsw0CXJWiGrNNGqkba7KLA99DbAkLUENvUYaP%252B%252BDkm220tUVfLB8ryZ9%252BY9rx5%252Bto03oCGpVcJCP2AeqlJXUh0T9po%252FzpbsYb0iaJuoE5vevqkD%252FuiRrOcaFYlzJWG9UUIDSRIKWiRhS5Ftvj6JyA9EZ7TVpW6YtyFCYx3VVivqWzQZmkGW%252BHp4StibtR0JzgnHzrVUPp2LSo%252BXG%252FmlbrmCoYMj%252BpVm3s4pkQrspP46YBxH%252FzTEV0DgH%252FXASyAuq467sbVskJ%252BkRfyAlTRYWp5lL8x71KbEacOE1dAQMm%252B%252FS1j2vI2KYhkU1aJewALru7qG%252BXx5X9TxPcZxuAAHpBSI5IB%252FWol63CuyoGzCoiCKZ8GnWRDmYSjiuTv%252BXRR%252BZ1568eazVGfPbxlZnEEkvuR5OktfsnwaMMgKzbND%252F5%252BH367pOwp2yVpM%252Bs3HkG9Lg2uybP2PGlb8I9P7Hzvtsd%252BlupHlL2%252FTNHrcGgTrdrOmxymmFuxtMacXWc3qCSqsAUUSlWV8fSH9%252ByuvfwM%253D%26RelayState%3Dhttps%253A%252F%252Fsewpprod.servicenowservices.com%252Fsaml_redirector.do%253Fsysparm_nostack%253Dtrue%2526sysparm_uri%253D%25252Fnav_to.do%25253Furi%25253D%2525252Fchsupportsitemap.xml",
+  "sitemap_xml_url": "https://www.sewp.nasa.gov/cas/login?service=https%3A%2F%2Fwww.sewp.nasa.gov%2Fcas%2Fidp%2Fprofile%2FSAML2%2FPOST%2FSSO%2FCallback.%2B%3FentityId%3Dhttps%253A%252F%252Fsewpprod.servicenowservices.com%26SAMLRequest%3DnVLBjpswEP0V5DsY2JSyVsgqTbRqpO0uCmwPvRl7krUENvUYaP%252B%252BDkna7SWqerM8M%252B%252B9eW%252BWDz%252B6NhjBojK6IEkUkwC0MFLpY0Fe68cwJw%252BrJfKuTXu2Htyb3sP3AdAFflAjO1cKMljNDEeFTPMOkDnBqvWXJ5ZGMeutcUaYlgRrRLDOU22MxqEDW4EdlYDX%252FVNB3pzrkVGKMPV%252BREZ4LmozXV4YCdNRzceeHyGShgRbr0Rp7mb1V4BpmqITSKQ58uhoRio4UiV76mEPqgV6kpbSPUhlQThaVS8keDRWwLxhQQ68RSDBbluQ6nmTy1gsGhHfZyJdZGkmm8XHrInvmwPP40bkvhFLjqhG%252BDOKOMBOo%252BPaFSSN0w9hfBcmaZ0sWJKzNIvu8uQbCcqLN5%252BUPnt%252By8jm3ITsc12XYflS1TPAqCTYZ9%252F9fx5%252BvabvKcglazbrt%252B9Dvi2NX5Mlq3%252FUsKTvmX7f2GmP3bY0rRI%252Fg3XbmmljgTu%252Fm7MDzDF13N0Wc%252FpRMjzMrcxZrlGBdoSuLqR%252Fn%252FLqFw%253D%253D%26RelayState%3Dhttps%253A%252F%252Fsewpprod.servicenowservices.com%252Fsaml_redirector.do%253Fsysparm_nostack%253Dtrue%2526sysparm_uri%253D%25252Fnav_to.do%25253Furi%25253D%2525252Fchsupportsitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

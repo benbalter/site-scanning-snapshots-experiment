@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6d17cec10a549c66676a009afb8a42d4",
+  "page_hash": "909cdd8ec3be4b72689dfc002623384f",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -73,7 +74,8 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/icon-dot-gov.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/icon-https.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2021-03/Wm.%20Jennings%20Bryan%20Dorn%20Department%20of%20Veterans%20Affairs%20Medical%20Center.jpg",
-    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-01/AMP019Drupal.jpg",
+    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-03/ELITE%20Drupal%20Image.jpg",
+    "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-03/Sburg%202x1.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2021-04/Wm.%20Jennings%20Bryan%20Dorn%20Department%20of%20Veterans%20Affairs%20Medical%20Center.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
     "https://www.googletagmanager.com/gtag/js",
@@ -81,14 +83,13 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".va.gov",
-    "www.va.gov"
+    ".va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VA Columbia South Carolina Health Care | Veterans Affairs",
   "description": "Find a health facility near you at Columbia VA Health Care System, and manage your health online. Our health care teams are deeply experienced and guided by the needs of Veterans, their families, and caregivers.",
   "keywords": null,

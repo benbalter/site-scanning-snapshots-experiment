@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,28 +31,29 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
-  "page_hash": "bf3e7536c607fee8e24c499c0fdc2fa1",
+  "www_scan_status": "completed",
+  "page_hash": "6da62d9746b4b965169ad193285f8999",
   "accessibility_violations": null,
+  "pageviews": 435195,
+  "visits": 294580,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
     "agency": "HHS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-1Q9GQ3KQVY,G-CSLL4ZEK4L,G-3EEMQ7P2SH",
+  "ga_tag_id": "G-1Q9GQ3KQVY,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,20 +61,31 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/roboto/v47/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nih.gov",
     "rarediseases.info.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
+    "espanol",
+    "/es"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "privacy policy",
+    "vulnerability disclosure",
+    "español"
+  ],
+  "https_enforced": true,
+  "hsts": true,
   "title": "Genetic and Rare Diseases Information Center | GARD",
   "description": "Discover how the Genetic and Rare Diseases Information Center Website and Contact Center can help patients and families who have a rare disease.",
   "keywords": null,
@@ -119,7 +130,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.rarediseases.info.nih.gov",
+  "www_status_code": 200,
+  "www_title": "Genetic and Rare Diseases Information Center | GARD"
 }

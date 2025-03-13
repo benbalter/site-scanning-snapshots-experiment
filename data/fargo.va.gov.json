@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "2221a69aaf23624e3d3a1726bc3297f1",
+  "page_hash": "a850a84ef2d4f9fe4a4151f4f7a5ee83",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -82,13 +83,14 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".va.gov"
+    ".va.gov",
+    "www.va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "VA Fargo Health Care | Veterans Affairs",
   "description": "At the Fargo VA Health Care System, our mission is to fulfill President Lincoln's promise “To fulfill President Lincoln’s promise to care for those who have served in our nation’s military and for their families, caregivers, and survivors.”",
   "keywords": null,

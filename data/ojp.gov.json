@@ -26,8 +26,7 @@
     "usagov",
     "gov_man",
     "oira",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,11 +35,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fd8a6ee9802f0e1638a7b74f1de47ef9",
+  "page_hash": "5897dd6f5947f8566146dd2b09427b94",
   "accessibility_violations": null,
+  "pageviews": 1286643,
+  "visits": 1042356,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -55,8 +56,7 @@
   "third_party_service_domains": [
     "clients1.google.com",
     "cse.google.com",
-    "www.google.com",
-    "www.ojp.gov"
+    "www.google.com"
   ],
   "third_party_service_urls": [
     "https://clients1.google.com/generate_204",
@@ -66,14 +66,9 @@
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
     "https://www.google.com/cse/static/images/1x/en/branding.png",
-    "https://www.google.com/cse/static/style/look/v4/default.css",
-    "https://www.ojp.gov/themes/custom/ojp/assets/fonts/merriweather/Latin-Merriweather-Regular.woff2",
-    "https://www.ojp.gov/themes/custom/ojp/assets/fonts/roboto/Roboto-BlackItalic.woff2",
-    "https://www.ojp.gov/themes/custom/ojp/assets/fonts/roboto/Roboto-Bold.woff2",
-    "https://www.ojp.gov/themes/custom/ojp/assets/fonts/roboto/Roboto-Italic.woff2",
-    "https://www.ojp.gov/themes/custom/ojp/assets/fonts/roboto/Roboto-Regular.woff2"
+    "https://www.google.com/cse/static/style/look/v4/default.css"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".ojp.gov"
   ],
@@ -93,8 +88,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | Office of Justice Programs",
   "description": "OJP is the federal government’s leading source of funding and research to strengthen the justice system, support law enforcement, and enhance victim services.",
   "keywords": null,
@@ -124,9 +119,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 18436,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-28T10:15:10.000Z",
+  "sitemap_xml_lastmod": "2025-03-11T11:45:08.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "c48ff0d240888637ea0f3bcf384206fc",
+  "sitemap_xml_page_hash": "98ad8d7aa3baee32f5a4fce714f544de",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

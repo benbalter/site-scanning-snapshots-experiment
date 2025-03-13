@@ -33,10 +33,12 @@
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "19898ae743d00d943077e76c69cf3a47",
+  "page_hash": "c4d6f0cd1c7ebeded7d203a91e7a08e3",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"link-purpose\":1}",
+  "pageviews": 126090,
+  "visits": 53589,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -69,13 +71,16 @@
     "https://media.defense.gov/2024/May/21/2003470225/300/300/0/240521-G-GK311-003.JPG",
     "https://media.defense.gov/2024/Oct/02/2003557287/300/300/0/241002-G-M0101-1009.JPG",
     "https://media.defense.gov/2024/Oct/02/2003557314/300/300/0/241002-G-M0101-1008.JPG",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".uscg.mil"
+    ".uscg.mil",
+    ".www.atlanticarea.uscg.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -117,10 +122,10 @@
   "robots_txt_sitemap_locations": [
     "/DesktopModules/SiteData/SiteMap.ashx"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://www.atlanticarea.uscg.mil/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "2020_eot",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d4cb908864da812fb26a44743913c996",
+  "page_hash": "9e849b1a3e3d14812bcbf2863ff8ac2f",
   "accessibility_violations": null,
+  "pageviews": 38465,
+  "visits": 26636,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -62,6 +63,7 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/icon-dot-gov.svg",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/icon-https.svg",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/tiny-usa-flag.png",
+    "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/vcl-logo.png",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -78,7 +80,6 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".va.gov",
     "hsrd.research.va.gov"
   ],
   "viewport_meta_tag": false,
@@ -101,8 +102,8 @@
     "usa.gov",
     "espanol"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Health Systems Research",
   "description": "VA's VA Health Systems Research (HSR), works to identify and evaluate innovative strategies that lead to accessible, high quality, cost-effective care for veterans and the nation. One of four research services within VA's Office of Research and Development, HSR is an intramural research program funding eligible VA clinicians and investigators to address VA health care priorities.",
   "keywords": "VA HSR, Health Systems Research, VA Research, HSR, Veterans Affairs Research",
@@ -126,10 +127,10 @@
   "robots_txt_sitemap_locations": [
     "https://www.hsrd.research.va.gov/sitemap.cfm"
   ],
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://hsrd.research.va.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "unknown",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

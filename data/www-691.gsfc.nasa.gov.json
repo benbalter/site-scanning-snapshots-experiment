@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "27975a2294372b86eb1e4bf13869a285",
+  "page_hash": "caabaa9a4c8bc82daaeb1ccf33c382a0",
   "accessibility_violations": "{\"aria\":3,\"contrast\":2,\"language\":1,\"images\":3}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -79,8 +80,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Astrochemistry Laboratory",
   "description": "Sciences & Exploration Directorate",
   "keywords": "science, NASA, Goddard, GSFC, Goddard Space Flight Center, earth science, earth sciences, astrophysics, heliophysics, solar system, Earth and Space, Science Research, stars, universe, activities, education, lunar, moon, solar, sun, planets, planetary, Code 600, SED, Sciences and Exploration Directorate",

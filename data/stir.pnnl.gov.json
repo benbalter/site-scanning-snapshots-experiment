@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8d6f7afd3e645cd05972f816bdfdc355",
+  "page_hash": "eab03a0d0e122cac170078e33e0380b9",
   "accessibility_violations": "{\"contrast\":2,\"link-purpose\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,7 +51,7 @@
   ],
   "third_party_service_urls": [
     "https://www.google.com/recaptcha/api.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
@@ -61,8 +62,8 @@
     "privacy"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "STIR | Screening Tool for Industrial Resilience",
   "description": "The Federal Energy Management Program’s Technical Resilience Navigator (TRN) is a systematic approach to energy and water resilience planning. The TRN approach allows organizations to assess current site energy and water infrastructure needs, mission priorities, and risk to identify and prioritize actionable solutions creating a roadmap for action.",
   "keywords": null,
@@ -84,10 +85,10 @@
   "robots_txt_filesize": 24,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://stir.pnnl.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

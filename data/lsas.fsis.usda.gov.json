@@ -5,7 +5,7 @@
   "initial_base_domain": "usda.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.eauth.usda.gov/eauth/b/usda/login?TYPE=33554433&REALMOID=06-155dd0a1-2711-4447-84aa-d85856e84259&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=ADX2WUP7GiLWThJKQsVsvXsitglZStp82t9L5k1LicgLGw6lGWQjmi7ok6ptnybeUQgBg89iNjUfBrK6WUGmuHpupr8UZmdsicSSohRIyDjePO0UjoqndsNRiPLNlY6w&TARGET=-SM-HTTPS:%2F%2Fwww.eauth.usda.gov%2Faffwebservices%2Fsecure%2Fsecureredirect%2FauthUrl%2Foption08%2Flogin%3FSAMLRequest%3DfJFfT4MwFMW-%2FCuk7UP6I0Iwl0yW6ZMZloA-%2B-%2BmAuUrQm0yC1Dv71lc5k-%2BuMe295ye37kzhLbp2GLQe7nlHwNHbX22jUR2fEjJ0EumAAUyCS1HpkuWLZ7WzHco63qlVaka8ktyXQGIvNdCSWKtlil5p1EVB15C7TIKajssIs8G8BO7Dm-%2B9KgmpH0FBrFfeo9GkxFgYIeLAVxI1SG2uqH9j08CmXu5FLIxZQJ04Tt6ItTQsQsL0W0r2WnfIXHccR4eDoXUGrMDZqYMLdT3ywuQ6iJKj2w1FI0p3YvERFbEW58z3SuLQ8j47jb5s1xffBgGd2kBffCfoB9B8hC936tf9z4hYm58i74SshNxd77A4DSF7zPONvXnOcjKfTXHZsZl-%2BfiXT7Mh1Hjyd-%2Fm5-%2F-%2Fg0AAP-%2F-%2FAwA-%3D%26RelayState%3DReturnUrl-%3Dhttps-%253A-%252F-%252Flsas.fsis.usda.gov-%252FLSAS-%252F%26SMPORTALURL%3D8XoRVX8h2LRCO1ZXZmIJNxTdCa-%2B9ogbkURgE51-%2F5oBM7-%2BskoANXK5-%2F4qlBmMIytOJ6-%2BXJyppVzhCDmYfMp12mWeqbLm-%2FMOhfc786kdnWuZdj-%2Bc5Q0-%2BXcndC7RACIEz4D%26SAMLTRANSACTIONID%3D497b247c--e65e75ea--84f8417d--2ed1a8fb--4f8bf107--e32",
+  "url": "https://www.eauth.usda.gov/eauth/b/usda/login?TYPE=33554433&REALMOID=06-155dd0a1-2711-4447-84aa-d85856e84259&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=ADX2WUP7GiLWThJKQsVsvXsitglZStp82t9L5k1LicgLGw6lGWQjmi7ok6ptnybeUQgBg89iNjUfBrK6WUGmuHpupr8UZmdsicSSohRIyDjePO0UjoqndsNRiPLNlY6w&TARGET=-SM-HTTPS:%2F%2Fwww.eauth.usda.gov%2Faffwebservices%2Fsecure%2Fsecureredirect%2FauthUrl%2Foption08%2Flogin%3FSAMLRequest%3DfJFRT8IwFIX-%2FytL3rVsB5xpGgpIoCUYC0wdfTLfdQZOtnbst039vBxL0QV6atL3n9HynUxRN3fK5NXu1gQ8LaLzPplbIjxcpsZ3iWqBErkQDyE3Bt-%2FOnFWdByNtOG13omvySXFcIROiM1Ip4y0VK3uM4uSkYgA8TVvljFpZ-%2Bngi3FAKiW8bKPE6I9wodOk1KnIUTIlpYKjRCGXcUsokfjvyIZVHCJxEfjYI4HL8Rb-%2BFYpBLDaynZG9Mip7Tv-%2BwCEow0sliLY6QMVVdVD7nIdZAFIW5vXsqADC0PUxJufM99rhbaBbnsafdmsLr41CgwqB33xHaAfhIFefNGhX-%2FqfEfHWP0XeSVVKtbveYX4aQv6YZWt-%2F-%2FbzNyGw6xOXHZrrZlUzTI9d58LT7-%2B-%2FuzbwAAAP-%2F-%2FAwA-%3D%26RelayState%3DReturnUrl-%3Dhttps-%253A-%252F-%252Flsas.fsis.usda.gov-%252FLSAS-%252F%26SMPORTALURL%3D8XoRVX8h2LRCO1ZXZmIJNxTdCa-%2B9ogbkURgE51-%2F5oBM7-%2BskoANXK5-%2F4qlBmMIytOJ6-%2BXJyppVzhCDmYfMp12mWeqbLm-%2FMOhfc786kdnWuZdj-%2Bc5Q0-%2BXcndC7RACIEz4D%26SAMLTRANSACTIONID%3D19f9a76d--523016cd--6d9f871b--2f3a4b80--e6d5d4f0--684",
   "domain": "www.eauth.usda.gov",
   "base_domain": "usda.gov",
   "top_level_domain": "gov",
@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "unknown_error",
-  "security_scan_status": "unknown_error",
-  "sitemap_xml_scan_status": "unknown_error",
+  "security_scan_status": "completed",
+  "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "48d48efacd9de46bb1fd12add2e27ba4",
+  "page_hash": "2a88d4c97608eae26a44341c601fbdbf",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -45,15 +46,15 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "lsas.fsis.usda.gov",
     "nocapi.api.eauth.usda.gov"
   ],
   "third_party_service_urls": [
-    "https://lsas.fsis.usda.gov/LSAS/Content/themes/kendo/fonts/glyphs/WebComponentsIcons.ttf",
     "https://nocapi.api.eauth.usda.gov/iab/enterprise/cms/appMessage/login"
   ],
-  "third_party_service_count": 2,
-  "cookie_domains": null,
+  "third_party_service_count": 1,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy",
@@ -64,8 +65,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "eAuthentication",
   "description": null,
   "keywords": null,
@@ -87,10 +88,10 @@
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": null,
-  "sitemap_xml_url": null,
-  "sitemap_xml_status_code": null,
-  "sitemap_xml_media_type": null,
+  "sitemap_xml_detected": false,
+  "sitemap_xml_url": "https://lsas.fsis.usda.gov/sitemap.xml",
+  "sitemap_xml_status_code": 404,
+  "sitemap_xml_media_type": "unknown",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

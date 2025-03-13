@@ -24,8 +24,7 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,11 +33,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d0ff6744a5dbc5c1d5255644a7272da9",
+  "page_hash": "a9b2c4f9ccecfc8f8cbd3171b9e789d5",
   "accessibility_violations": null,
+  "pageviews": 439788,
+  "visits": 273678,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -53,10 +54,11 @@
     "pga4": "G-Y8BBTRX2M1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-Y8BBTRX2M1,G-Fischer,G-CSLL4ZEK4L,G-YPB3FD0PQ9,G-8TW0L1D08T,G-ESG53DEWKW",
+  "ga_tag_id": "G-Y8BBTRX2M1,G-CSLL4ZEK4L,G-YPB3FD0PQ9,G-8TW0L1D08T,G-ESG53DEWKW",
   "third_party_service_domains": [
     "cdn.eo.va.gov",
     "dap.digitalgov.gov",
+    "digital.va.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
@@ -69,6 +71,7 @@
     "https://cdn.eo.va.gov/vendor/fa5/current/webfonts/fa-solid-900.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://digital.va.gov/",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/polyfills.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/proxy-rewrite.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/styleConsolidated.css",
@@ -89,9 +92,9 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".va.gov",
     "cem.va.gov"
@@ -110,8 +113,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "National Cemetery Administration",
   "description": "NCA Homepage. The VA National Cemetery Administration honors the military service of our Nation's veterans. We provide a dignified burial and lasting memorial for veterans and their eligible family members and we maintain our veterans' cemeteries as national shrines.",
   "keywords": "headstones, markers, cemetery, cemeteries, cemetary, burial, benefits, headstone, marker, veterans, military, national cemetery, national cemeteries, military records, medals, grave",

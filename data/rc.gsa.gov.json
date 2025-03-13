@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "87f4039f6e233a93d7337ef4832ebeeb",
+  "page_hash": "d5d03a50855ef0e394be19d42787c6be",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -45,7 +46,6 @@
   "dap_version": "",
   "ga_tag_id": "UA-39076408-1,G-YF8VSCD172",
   "third_party_service_domains": [
-    "ka-f.fontawesome.com",
     "kit.fontawesome.com",
     "server.arcgisonline.com",
     "www.google-analytics.com",
@@ -54,11 +54,6 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-font-face.min.css",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-shims.min.css",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free.min.css",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff2",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff2",
     "https://kit.fontawesome.com/4fe7aa5c65.js",
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/4/5/2",
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/4/5/3",
@@ -73,9 +68,9 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".gsa.gov",
     "disposal.gsa.gov"
@@ -92,8 +87,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "U.S. GSA Real Property Disposition",
   "description": "GSA provides tailored solutions to help Federal Agencies reposition their unneeded or underutilized real property.  Let us handle your real estate needs while you focus on your agency’s mission.",
   "keywords": null,

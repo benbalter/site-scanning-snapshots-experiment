@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f6c14a9774017770b529191790ce90de",
-  "accessibility_violations": "{\"contrast\":1}",
+  "page_hash": "2d49c75a61539346b6eb91be6a46637d",
+  "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -49,7 +50,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1a.akstat.io",
+    "17de4c13.akstat.io",
     "app-script.monsido.com",
     "c.go-mpulse.net",
     "cdn.gov.cfigroup.com",
@@ -62,7 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1a.akstat.io/",
+    "https://17de4c13.akstat.io/",
     "https://app-script.monsido.com/v2/monsido-script.js",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/10147e31131101/webmon.js",
@@ -92,12 +93,16 @@
     "/es"
   ],
   "required_links_text": [
+    "accessibility",
+    "no fear act",
     "foia",
     "inspector general",
-    "español"
+    "usa.gov",
+    "español",
+    "spanish"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Search Results | Pension Benefit Guaranty Corporation",
   "description": "Search Results Page",
   "keywords": null,
@@ -109,7 +114,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": "https://www.pbgc.gov/search-all",
-  "language": "es",
+  "language": "en",
   "language_link": "en",
   "main_element_present": true,
   "robots_txt_detected": false,

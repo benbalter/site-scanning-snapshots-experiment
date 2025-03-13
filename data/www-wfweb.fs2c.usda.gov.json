@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "651a48f79abfc79b40f79060608552b7",
+  "page_hash": "42a4da4209d7cb3ee88e471bebde6dd3",
   "accessibility_violations": "{\"form-names\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -43,10 +44,12 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-H8YYPQ6D00",
   "third_party_service_domains": [
     "fonts.googleapis.com",
-    "wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com"
+    "wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
@@ -58,9 +61,11 @@
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/fire-planning-fuels-icon.png",
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/incident-management-icon.png",
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/open-data-icon.png",
-    "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/resource-management-icon.png"
+    "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/resource-management-icon.png",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".usda.gov"
   ],
@@ -74,8 +79,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Homepage | Wildland Fire Application Information Portal",
   "description": "The Fire and Aviation Management IT Portal brings together Applications, Tools and Services to support Federal, State and Local government agencies which provide support for all wildfires and other incidents.",
   "keywords": "Homepage",
@@ -103,9 +108,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 54542,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-27T22:09:44.000Z",
+  "sitemap_xml_lastmod": "2025-03-11T18:50:03.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "5dbfa2bb8e6d799b5a245d39ff6414b3",
+  "sitemap_xml_page_hash": "3ce9bae48d8c19769988c826dc22034c",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

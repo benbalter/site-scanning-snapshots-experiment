@@ -19,8 +19,7 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "232603077ef49fc293c97bd9e1d22521",
+  "page_hash": "f591b0cfb8f2e4989e9fac0e263aae5f",
   "accessibility_violations": "{\"link-purpose\":9}",
+  "pageviews": 5256,
+  "visits": 3324,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "Drupal",
@@ -85,8 +86,8 @@
     "about us",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Strategic Deterrence",
   "description": null,
   "keywords": null,

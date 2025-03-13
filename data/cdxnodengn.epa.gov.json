@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "oira",
-    "cisa"
+    "oira"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "99da4006f77c1289d88064a8f502cc94",
+  "page_hash": "13ae37387c3c42ab38c76cd2c5ab2865",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -51,7 +52,7 @@
     "agency": "EPA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-140265622-1,G-2SEC4V3SK9,UA-32633028-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-140265622-1,UA-32633028-1",
   "third_party_service_domains": [
     "cdxnodengn.epa.gov",
     "dap.digitalgov.gov",
@@ -66,7 +67,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/cdx.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/cdx.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/b877520f71040ef9ed2bf59299cddcf8.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/79c737c2791fe6392c47120c36c7eaf0.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
@@ -87,8 +88,8 @@
     "accessibility",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "CDX Home | Central Data Exchange | US EPA",
   "description": null,
   "keywords": "",

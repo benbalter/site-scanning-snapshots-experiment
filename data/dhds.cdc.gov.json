@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "797484cecb6c891221557af487adb173",
+  "page_hash": "21053ff8cff7eb110872ac258b8fa4b8",
   "accessibility_violations": null,
+  "pageviews": 30463,
+  "visits": 5327,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -54,17 +55,19 @@
     "cdc.112.2o7.net",
     "js.arcgis.com",
     "www.cdc.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s43831818869651",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s45612857324003",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s33728421540202",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s35086802239402",
     "https://js.arcgis.com/3.20/dijit/themes/tundra/tundra.css",
     "https://js.arcgis.com/3.20/esri/css/esri.css",
     "https://www.cdc.gov/TemplatePackage/contrib/libs/qrcodejs/latest/qrcode.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".cdc.gov",
     "dhds.cdc.gov"
@@ -82,8 +85,8 @@
     "foia",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Disability and Health Data System Explore by Location | NCBDDD | CDC",
   "description": "Design Gallery for designs... in a gallery.",
   "keywords": "SP keywords go here",
@@ -113,7 +116,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "d9833d00a7603430b8b132a502cffae9",
+  "sitemap_xml_page_hash": "5386b556281828aa59c36b8a9877a80b",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

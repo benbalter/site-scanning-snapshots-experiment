@@ -20,8 +20,7 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot",
-    "cisa"
+    "2020_eot"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "8032e7cc19a24ab57d3911b14ce232e2",
+  "page_hash": "63af737b4d2d29693f42974d5e98659f",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -51,6 +52,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.addtoany.com/menu/svg/icons/a2a.js",
@@ -79,8 +81,8 @@
     "usa.gov",
     "spanish"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "National Mail Voter Registration Form | U.S. Election Assistance Commission",
   "description": "The National Mail Voter Registration Form can be used to register U.S. citizens to vote, to update registration information due to a change of name, make a change of address or to register with a political party.",
   "keywords": null,

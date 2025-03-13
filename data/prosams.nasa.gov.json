@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fa45ee483686d7e9e61aedfa1d880630",
+  "page_hash": "e6bdb05017956cfeda7578dfc445e12e",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -45,13 +46,13 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "images.prosams.nasa.gov",
-    "submission.prosams.nasa.gov"
+    "admin.prosams.nasa.gov",
+    "images.prosams.nasa.gov"
   ],
   "third_party_service_urls": [
+    "https://admin.prosams.nasa.gov/configurations",
     "https://images.prosams.nasa.gov/black-isotope-login.png",
-    "https://images.prosams.nasa.gov/nasa-logo-official.svg",
-    "https://submission.prosams.nasa.gov/configurations"
+    "https://images.prosams.nasa.gov/nasa-logo-official.svg"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
@@ -65,8 +66,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Submission Portal Log-in - NASA SBIR | STTR ProSAMS",
   "description": null,
   "keywords": null,
@@ -96,7 +97,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "fa45ee483686d7e9e61aedfa1d880630",
+  "sitemap_xml_page_hash": "e6bdb05017956cfeda7578dfc445e12e",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

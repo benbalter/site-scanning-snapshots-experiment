@@ -20,8 +20,7 @@
   "source_list": [
     "2020_eot",
     "final_url_websites",
-    "house_117th",
-    "cisa"
+    "house_117th"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4df2bce39d3d571b00ab9944144eb105",
+  "page_hash": "8844862e4e60da6b65e05c2a444f3cfb",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "WordPress",
@@ -45,7 +46,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-5MofDHJ",
+  "ga_tag_id": "G-R25LjyLx0zEFEAg,G-uTpDaOgrGWmADmq,G-y1vcViov4KVSEvQ",
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -61,13 +62,12 @@
     "https://www.google.com/recaptcha/api2/reload",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/EGO3I7Q26cZ-jBw3BEtzIx7-/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/EGO3I7Q26cZ-jBw3BEtzIx7-/styles__ltr.css"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".house.gov",
-    "aguilar.house.gov"
+    ".house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -77,8 +77,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "Pete Aguilar – Representing the California's 33rd District",
   "description": null,
   "keywords": null,

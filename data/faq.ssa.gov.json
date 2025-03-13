@@ -22,8 +22,7 @@
     "pulse",
     "omb_idea",
     "gov_man",
-    "gpo_fdlp",
-    "cisa"
+    "gpo_fdlp"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,11 +31,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "478fc8d81fe5416433735def6a315bad",
+  "page_hash": "e6c5ed821f0f569b31b428ef3a90e492",
   "accessibility_violations": null,
+  "pageviews": 14849,
+  "visits": 14149,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -109,8 +110,8 @@
   "required_links_text": [
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Frequently Asked Questions | SSA",
   "description": "Find answers and general information about Social Security programs and services.",
   "keywords": null,

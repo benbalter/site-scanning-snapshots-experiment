@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d1b4ca9130c148fabf070f0e3c0fdcad",
+  "page_hash": "44088ea0e07193aabf7475791731b8a9",
   "accessibility_violations": null,
+  "pageviews": 26808,
+  "visits": 10269,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -64,8 +65,7 @@
     "https://analytics.llnl.gov/matomo.php",
     "https://analytics.llnl.gov/plugins/HeatmapSessionRecording/configs.php",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -77,8 +77,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Login - DMAMC Collaborative Editing Server, Online LaTeX Editor",
   "description": "An online LaTeX editor that’s easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.",
   "keywords": null,

@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "7b8942dad6a486ba2d60d0778c6ba28a",
+  "www_scan_status": "timeout",
+  "page_hash": "23427f098d595d433623a902d4898a14",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -56,6 +57,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://i.ytimg.com/vi/XRN6zAOtKLo/hqdefault.jpg",
+    "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/forms/494/formDataV2_1717595006664_en.json",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/12849/onsite/generic1740751869211.js",
     "https://s.go-mpulse.net/boomerang/LERZW-HECFS-R8H4E-23UQ7-ERMQB",
@@ -70,8 +72,8 @@
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "my Social Security | SSA",
   "description": "my Social Security | Open a my Social Security account today and rest easy knowing that you're in control of your future.",
   "keywords": null,
@@ -114,7 +116,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://www.ssa.gov",
-  "www_status_code": 200,
-  "www_title": "The United States Social Security Administration | SSA"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,11 +28,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "72536d4683cf61d700cffe5cbba90f7c",
+  "page_hash": "b26ad32ab5ca8a7ebdbf109974773ea4",
   "accessibility_violations": "{\"language\":1,\"images\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -46,20 +47,21 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "4102600116shutdown.relay.webvpn."
+    "851395329shutdown.relay.webvpn."
   ],
   "third_party_service_urls": [
-    "https://4102600116shutdown.relay.webvpn./nonexistent.js"
+    "https://851395329shutdown.relay.webvpn./nonexistent.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".nasa.gov",
     "vpn.hst.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "SSL VPN Service",
   "description": null,
   "keywords": null,

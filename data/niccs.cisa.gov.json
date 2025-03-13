@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fabe45f79b7f361ebbb5b04c880cfe14",
+  "page_hash": "2aac888faff45f358309c5641c79fd34",
   "accessibility_violations": "{\"contrast\":1}",
+  "pageviews": 451116,
+  "visits": 325320,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -51,22 +52,18 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-3LQDL2XXWV,G-GHG7XR2CMP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "52-222-122-97_s-23-32-75-13_ts-1740896727-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
     "googleads.g.doubleclick.net",
     "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net",
     "www.dhs.gov",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://52-222-122-97_s-23-32-75-13_ts-1740896727-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -75,8 +72,6 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11324864208/",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
@@ -86,10 +81,9 @@
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
     "https://www.google.com/cse/static/style/look/v4/default.css",
     "https://www.google.com/pagead/1p-user-list/11324864208/",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cisa.gov"
   ],
@@ -110,8 +104,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | NICCS",
   "description": "The nation’s one-stop shop for cybersecurity careers and studies, awareness, training, and talent management.",
   "keywords": "Department of Homeland Security, DHS",
@@ -141,9 +135,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 679,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-27T18:40:30.000Z",
+  "sitemap_xml_lastmod": "2025-03-09T20:35:23.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "46a235e0d208af2095ad9c834e5a0925",
+  "sitemap_xml_page_hash": "8794ea1626c065336028cd3f9e8858a9",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

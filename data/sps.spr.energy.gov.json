@@ -20,8 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cc8f29e62a77caa0530b7d000655c39e",
+  "page_hash": "d584aa163d7b9b001a9c15195f0cd991",
   "accessibility_violations": "{\"contrast\":2}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "azurewebsites.us",
   "cms": null,
@@ -75,11 +76,10 @@
     "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js",
     "https://www.google.com/recaptcha/api.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".energy.gov",
     ".sps.spr.energy.gov"
   ],
   "viewport_meta_tag": true,
@@ -89,8 +89,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "SPR EDIS - Home Page",
   "description": null,
   "keywords": null,

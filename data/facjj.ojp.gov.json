@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "b3d2b373ecac3ab11779ba27685119b8",
+  "page_hash": "8b54d0c51cf0fd39d1f7b0a8065970a5",
   "accessibility_violations": null,
+  "pageviews": 872,
+  "visits": 321,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -48,13 +49,12 @@
     "agency": "OJP"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GfjO2vB1YCekDRR,G-7JKLWMRM8E,G-CSLL4ZEK4L,UA-122677529-1,UA-39306617-1,G-4L14JQG420",
+  "ga_tag_id": "G-GfjO2vB1YCekDRR,G-7JKLWMRM8E,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "browser-update.org",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
   ],
@@ -65,8 +65,6 @@
     "https://cse.google.com/cse.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js",
     "https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css",
     "https://www.google.com/cse/static/images/1x/en/branding.png",
@@ -74,7 +72,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".ojp.gov"
   ],
@@ -91,8 +89,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "FACJJ Welcomes Public Comments | Federal Advisory Committee on Juvenile Justice",
   "description": "Welcome to the Federal Advisory Committee on Juvenile Justice The Federal Advisory Committee on Juvenile Justice (FACJJ), established by the Juvenile Justice and Delinquency Prevention Act (Section 223), is supported by the Office of Juvenile Justice and Delinquency Prevention (OJJDP). The committee is made up of appointed repres",
   "keywords": "Federal Advisory Committee on Juvenile Justice, Juvenile Justice and Delinquency Prevention Act, OJJDP",
@@ -120,11 +118,11 @@
   "sitemap_xml_url": "https://facjj.ojp.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 46610,
+  "sitemap_xml_filesize": 46375,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-02-07T17:25:31.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "6b5c4a850d6115f078fc206e6352d700",
+  "sitemap_xml_page_hash": "3cc8b7b153fe342b1439812f2b6085d2",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

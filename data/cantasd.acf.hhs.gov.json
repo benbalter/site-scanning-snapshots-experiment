@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d9e6aa6a2ce252c3266ced75ffb6a6e9",
+  "page_hash": "44c27cc730d7561d7208853d0f7e76ac",
   "accessibility_violations": "{\"images\":2,\"link-purpose\":3}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -82,6 +83,7 @@
     "https://cblcc.acf.hhs.gov/wp-content/themes/business-web/editor-style.css",
     "https://cblcc.acf.hhs.gov/wp-content/themes/business-web/images/hr_double.png",
     "https://cblcc.acf.hhs.gov/wp-content/themes/business-web/images/mobile_nav_right.png",
+    "https://cblcc.acf.hhs.gov/wp-content/themes/business-web/images/slide-nav.png",
     "https://cblcc.acf.hhs.gov/wp-content/themes/business-web/js/custom.js",
     "https://cblcc.acf.hhs.gov/wp-content/themes/business-web/js/jquery.flexisel.js",
     "https://cblcc.acf.hhs.gov/wp-content/themes/business-web/js/jquery.nivo.slider.js",
@@ -107,6 +109,8 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0e0x8mIAjcQ-w.woff2",
     "https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KExcOPIDU.woff2",
+    "https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tLR8a8zI.woff2",
+    "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrcVIT9d0c8.woff",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -125,8 +129,8 @@
     "privacy policy",
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "CBLCC – Children's Bureau Learning & Coordination Center",
   "description": null,
   "keywords": null,

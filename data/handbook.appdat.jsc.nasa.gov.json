@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "8a04078f57e2f373533e799c1c5cf949",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -65,8 +66,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | AppDat Platform Handbook",
   "description": "Welcome to the AppDat Handbook\n  #\n\nThe single source of truth for all documentation and user guides relating to the AppDat Platform.  AppDat strives to be a documentation first platform in the same vain as described quite well by the all-remote company Gitlab, in their article \n    “The importance of a handbook-first approach to documentation”\n    \n      launch\n    \n  .\nAs described in the Gitlab Handbook:",
   "keywords": null,

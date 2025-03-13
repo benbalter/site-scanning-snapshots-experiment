@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,11 +30,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9343c7809dc8b78c7d3776e59e07e40f",
+  "page_hash": "59a2bd42f9dd5b0e29abd4d41d542144",
   "accessibility_violations": "{\"contrast\":3}",
+  "pageviews": 22776,
+  "visits": 18540,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -64,9 +65,9 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
@@ -82,8 +83,8 @@
     "about us",
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "NMFS Permit Shop",
   "description": "Welcome to the National Marine Fisheries Service Permit Shop where you can currently buy initial and renewal permits for Atlantic tunas and Atlantic Highly Migratory Species (HMS), update permit information, and report recreational landings of bluefin tuna, blue marlin, white marlin, sailfish, and swordfish.",
   "keywords": "NMFS NOAA National Marine Fisheries Atlantic bluefin tuna fish permit landings renewal commercial recreational tournament registration angling harpoon longline Magnuson-Stevens AppNet",

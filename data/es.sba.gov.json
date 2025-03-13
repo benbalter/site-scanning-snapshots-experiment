@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1dfda5b3897d4a1b068794aeffab366a",
+  "page_hash": "5852c0d479ae6996c9fa4e0cf82b8a9a",
   "accessibility_violations": null,
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "cloudfront.net",
   "cms": "Drupal",
@@ -88,8 +89,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Small Business Administration",
   "description": "We support America's small businesses. The SBA connects entrepreneurs with lenders and funding to help them plan, start and grow their business.",
   "keywords": null,
@@ -154,12 +155,12 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 115,
+  "uswds_usa_classes": 120,
   "uswds_string": 8,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 164,
+  "uswds_count": 169,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

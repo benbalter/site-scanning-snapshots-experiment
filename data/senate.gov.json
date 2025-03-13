@@ -23,8 +23,7 @@
     "usagov",
     "gov_man",
     "final_url_websites",
-    "senate_117th",
-    "cisa"
+    "senate_117th"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -33,11 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d8cc10e491db635a5637970a9fd5074b",
+  "page_hash": "0d7f1c7b868d6d3f672b68c0c290ea47",
   "accessibility_violations": "{\"contrast\":33,\"language\":1,\"images\":1,\"link-purpose\":1,\"lists\":2,\"form-names\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -57,7 +58,7 @@
     "https://assets.adobedtm.com/566dc2d26e4f/843d2f589d53/launch-01bbfeb2a9a5.min.js",
     "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement_Module_ActivityMap.min.js",
-    "https://senategovprod.112.2o7.net/b/ss/senategovprod/1/JS-2.23.0-LDQM/s75119237159508"
+    "https://senategovprod.112.2o7.net/b/ss/senategovprod/1/JS-2.23.0-LDQM/s2763551970539"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
@@ -72,8 +73,8 @@
   "required_links_text": [
     "privacy policy"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": false,
+  "hsts": true,
   "title": "U.S. Senate",
   "description": null,
   "keywords": null,

@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "287d2637717d91bdad17163445594cf4",
+  "page_hash": "23b4182ce126b10ebab3a8c8903b6ef2",
   "accessibility_violations": "{\"contrast\":1}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "azurefd.net",
   "cms": null,
@@ -71,8 +72,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home - ITA's Data Services Platform",
   "description": "Discover APIs, learn how to use them, try them out interactively, and sign up to acquire keys.",
   "keywords": "API, Data Services Platform",

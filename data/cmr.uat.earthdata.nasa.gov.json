@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "pulse",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "74e570e8c3a398838f8549452efdb5ec",
+  "page_hash": "2f63ee2184a8e2a3eebc4286dec89b2c",
   "accessibility_violations": "{\"link-purpose\":2}",
+  "pageviews": 258923,
+  "visits": 63276,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -48,7 +49,7 @@
     "subagency": "GSFC"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-GF01QXRMZ4,G-M3PE7MJ3XR,UA-62340125-3",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-GF01QXRMZ4,UA-62340125-3,G-M3PE7MJ3XR",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "cdn.earthdata.nasa.gov",
@@ -105,8 +106,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "CMR Search",
   "description": null,
   "keywords": null,
@@ -134,9 +135,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 4181,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-01T00:00:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-12T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "017ab9011f0c4687a22514bf471d4210",
+  "sitemap_xml_page_hash": "6846a220c2ed15355de85b8d643f541e",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

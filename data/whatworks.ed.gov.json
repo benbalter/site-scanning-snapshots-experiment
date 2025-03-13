@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse",
-    "cisa"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "de38695fa8a90ee5ede63788b8b6b4ea",
+  "page_hash": "1e7da7b974adc966e504e0434a2ed494",
   "accessibility_violations": "{\"link-purpose\":5}",
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "qipservices.com",
   "cms": null,
@@ -79,8 +80,8 @@
   "required_links_text": [
     "about us"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "WWC | Find What Works!",
   "description": "As an initiative of the U.S. Department of Education's Institute of Education Sciences (IES), the What Works Clearinghouse (WWC) was created in 2002 to be a central and trusted source of scientific evidence for what works in education.",
   "keywords": "WWC,What,Works,Clearinghouse,IES,student,intervention,report,intervention report,findings,study,review,practice,guide,practice guide",

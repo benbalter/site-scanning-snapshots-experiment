@@ -20,8 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -30,11 +29,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "81b426dd4ebba03a176c5d3473de88bf",
+  "page_hash": "9e53e76770a4b51925e3bcac21f1a8c3",
   "accessibility_violations": null,
+  "pageviews": 2278166,
+  "visits": 1080662,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -50,7 +51,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-19138737-2,G-CSLL4ZEK4L,G-S7RJMCWZ7D,G-LL5Q69D404",
   "third_party_service_domains": [
-    "17de4c10.akstat.io",
+    "17de4c16.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
@@ -60,18 +61,20 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c10.akstat.io/",
+    "https://17de4c16.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://s.go-mpulse.net/boomerang/84QAW-PTX96-C63E4-6CACM-662PE",
+    "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/5ae7d525/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -93,8 +96,8 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Home | Office of Foreign Assets Control",
   "description": null,
   "keywords": null,
@@ -120,11 +123,11 @@
   "sitemap_xml_url": "https://ofac.treasury.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 739270,
+  "sitemap_xml_filesize": 740028,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-02-28T19:11:04.000Z",
+  "sitemap_xml_lastmod": "2025-03-12T14:47:45.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "85db233c0798d3d8ba48a937c2c62ac8",
+  "sitemap_xml_page_hash": "e6844d6ba02174f6249fd730e7d62385",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
