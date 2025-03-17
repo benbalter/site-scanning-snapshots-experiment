@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2f424b96e3d333ca0604d4efe0ee7f3b",
+  "page_hash": "f9120b1c233fd9c1e30c1d2fc16678d5",
   "accessibility_violations": "{\"user-control-name\":2}",
   "pageviews": null,
   "visits": null,
@@ -50,10 +50,11 @@
     "dclink": "true",
     "sp": "search,s,q",
     "sdor": "false",
-    "exts": "tif,tiff"
+    "exts": "tif,tiff",
+    "pga4": "G-82GWVTTXCZ"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-3MLXXCVWWY,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-3MLXXCVWWY,G-82GWVTTXCZ,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "plus.nasa.gov",
@@ -70,11 +71,13 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".nasa.gov"
+    ".nasa.gov",
+    ".science.nasa.gov",
+    "science.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

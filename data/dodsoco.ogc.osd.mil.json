@@ -16,11 +16,12 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
     "2020_eot",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites"
@@ -35,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "928f4cb4ce0772bb35c0fe96058afeac",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":4}",
-  "pageviews": 26403,
-  "visits": 16456,
+  "page_hash": "dd2044785011791e3b0ee7b4089d31aa",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":2}",
+  "pageviews": 26599,
+  "visits": 16546,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -70,6 +71,7 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".dodsoco.ogc.osd.mil",
     ".osd.mil"
   ],
   "viewport_meta_tag": true,

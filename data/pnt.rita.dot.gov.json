@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "06c31d454db700f54c89c026c611fe74",
+  "page_hash": "6eb0c9a59b7c59e8f9a9fe07d8c444d7",
   "accessibility_violations": "{\"aria\":1,\"link-purpose\":6}",
   "pageviews": null,
   "visits": null,
@@ -48,6 +48,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-CSLL4ZEK4L,G-NQ5ZN114SB,UA-33523145-1,G-HF5V26MT25,G-0623JYSC1Q",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -59,6 +60,7 @@
     "zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
@@ -67,7 +69,13 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.ff7c5abe4d46f1630fe4.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.00fb9b654703a72e1595.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.df5dcf8aaf67ccb082ce.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/PopOverModule.js",
     "https://use.fontawesome.com/releases/v5.8.2/css/all.css",
     "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff2",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
@@ -78,9 +86,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
-    ".transportation.gov"
+    ".transportation.gov",
+    "www.transportation.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

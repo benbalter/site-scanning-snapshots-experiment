@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse"
   ],
@@ -24,7 +24,7 @@
   "primary_scan_status": "completed",
   "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "dns_resolution_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -34,7 +34,7 @@
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -59,7 +59,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s74053085746884",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s29387447868009",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/8.df5dcf8aaf67ccb082ce.chunk.js",
     "https://static.cancer.gov/webanalytics/WA_DCTD_PageLoad.js",

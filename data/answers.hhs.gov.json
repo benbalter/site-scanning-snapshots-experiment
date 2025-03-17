@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8daf10b68ad27014e9631ed693e178f0",
+  "page_hash": "53f7ef0a6ed0775055f1046d07b8e6aa",
   "accessibility_violations": "{\"aria\":1}",
   "pageviews": null,
   "visits": null,
@@ -64,6 +64,7 @@
   "ga_tag_id": "G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6282609.global.r2.siteimproveanalytics.io",
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
     "script.crazyegg.com",
@@ -74,12 +75,13 @@
   ],
   "third_party_service_urls": [
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/KXTEL-Y7J86-GB25A-JVVUG-FD68Q",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/www.hhs.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/site/www.hhs.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/7360.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/79c737c2791fe6392c47120c36c7eaf0.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/e4bc6ee5da01fd5511d5db8643a6ef2e.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -88,12 +90,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".hhs.gov",
-    ".www.hhs.gov"
+    ".www.hhs.gov",
+    "www.hhs.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

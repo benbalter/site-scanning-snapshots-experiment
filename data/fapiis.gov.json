@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fcbcb50644d2bc2f6d31ff07af6d06f4",
+  "page_hash": "7bab13cc9dc6a5516ef20f2aba1aaa9f",
   "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,17 +49,21 @@
   "ga_tag_id": "G-1TZM4G6B9F,UA-193079889-1",
   "third_party_service_domains": [
     "ajax.googleapis.com",
+    "rum.browser-intake-ddog-gov.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+    "https://rum.browser-intake-ddog-gov.com/api/v2/rum",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".sam.gov",
     "sam.gov"

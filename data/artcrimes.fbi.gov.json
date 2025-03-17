@@ -20,6 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -32,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b2ee5ee9df052367e085304426245b5d",
-  "accessibility_violations": "{\"contrast\":1}",
-  "pageviews": 7572,
-  "visits": 3021,
+  "page_hash": "778ce80db2dedfd8a1d08774a24f7b85",
+  "accessibility_violations": "{\"user-control-name\":3,\"images\":9,\"link-purpose\":6}",
+  "pageviews": 7429,
+  "visits": 2898,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": null,
@@ -46,19 +47,29 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
-  "cookie_domains": [
-    ".fbi.gov"
+  "ga_tag_id": "G-7hdjjd,G-fXXgN3xEBm91Jfk,G-LWyLpNdGydWWNKv,G-GQHj,G-8ZtYiz5pmOr,G-hJThejIY3kUS90E,G-c2ztDmKALG,G-ph5AldyypfSWcd0,G-1cpH1EaEs3oD14d,G-Y72FyUcL0newT4M,G-uhnSOkVMpwr59iW,G-rEyaI9W3z2evN8f,G-sdaSXwLnpgdqGL1,G-DpovW1,G-bE1x,G-3p1WWV,G-oVN3,G-HL4vrVPw,G-lPnX6dlGbrUBH,G-Cp14LYKLv11LZd,G-JpHUHyLyGhGbz,G-s2Q7Lh3M27fS63I,G-sL4U1psrbi,G-z7Qjmt,G-umtqHHLbptx1I9X,G-4yf4vFQg,G-t3a3qhUJpzawGkL,G-jH1HPxr7Had1H,G-8qEU,G-85fXkfvXzkW,G-GQnoppWpryGDUn,G-vHcU,G-virpLrZC,G-NvHWf,G-SiXt,G-rWll9bh09KW9p01,G-ZXPbdDWWpL3,G-3dzdbCTDUE,G-OAMRnlALhnqLBwJ,G-ljoEFLezLM1annP,G-2ngWM,G-tITg2ZyfS72tNDi,G-1MB3earwPNU7iFM,G-dcroUN6,G-LfEBaXH,G-swmss6,G-4He7r1Spdb,G-14vngLUGrRXU7,G-d3l6eevO7uiY,G-9pFpP6sV,G-OdzH,G-IPxbxdLYhW,G-5cjpNh,G-E25m4cMGYp7p,G-Lc4M47,G-i9hViBHCQt8e4p9",
+  "third_party_service_domains": [
+    "challenges.cloudflare.com"
   ],
-  "viewport_meta_tag": false,
+  "third_party_service_urls": [
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9210939b38ec5ef0/1742089584092/ricJPuxw2tcRWMk",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/993511636:1742088330:DfFiISODbuVjYHPwDTTXUq8okZVBdtl4S1saSGR14Wc/9210939b38ec5ef0/VV7rnXEpQGlaNoA15YJBmnrAOxSG_MjGp4iHTbw9uT0-1742089583-1.1.1.1-tGS4e6p5da8AUk51Mou8SIECetWMqg1FfaEjSEcSJaROrIFXO0n03yJi6wyx1MjQ",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9210939b38ec5ef0/1742089584088/ad0da857887a1696c6186f0b72186af543c42896bb66d04ca18b027b34b3ffda/MbnRle1sKro43Gv",
+    "https://challenges.cloudflare.com/turnstile/v0/g/f3b948d8acb8/api.js"
+  ],
+  "third_party_service_count": 1,
+  "cookie_domains": [
+    ".fbi.gov",
+    "artcrimes.fbi.gov"
+  ],
+  "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": false,
   "hsts": true,
-  "title": "This site has determined a security issue with your request.",
+  "title": "Just a moment...",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -69,13 +80,13 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": "en-US",
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": false,
+  "robots_txt_detected": true,
   "robots_txt_url": "https://artcrimes.fbi.gov/robots.txt",
-  "robots_txt_status_code": 403,
-  "robots_txt_media_type": "text/html",
+  "robots_txt_status_code": 200,
+  "robots_txt_media_type": "text/plain",
   "robots_txt_filesize": 862,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [

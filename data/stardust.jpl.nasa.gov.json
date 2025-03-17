@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -53,9 +53,7 @@
     "https://www.nasa.gov/images/content/164919main_stardust-berkeley-025tn.jpg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",

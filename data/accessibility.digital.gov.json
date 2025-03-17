@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "other"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c3e35f2554ba1f0e994627fd3988ce3",
+  "page_hash": "5457479b650adedf8ca2ef6e7ee1c5a4",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,8 +51,12 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-HBYXWFP794,UA-47271808-1",
   "third_party_service_domains": [
+    "api.govdelivery.com",
     "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
+    "content.govdelivery.com",
     "dap.digitalgov.gov",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "public.govdelivery.com",
     "s3.amazonaws.com",
     "touchpoints.app.cloud.gov",
@@ -59,8 +64,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://api.govdelivery.com/api/v2/public/accounts/13243/signups/34948/impressions",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/2021/tag_for_Touchpoints_342x80.png",
+    "https://content.govdelivery.com/assets/SignupForm-9d015bfaa7fff2c35ad4d54767c04e057cd1066e8e3c67ecbb46064b5f78a03a.js",
+    "https://content.govdelivery.com/assets/signup_form-f6371d2d2a16ca90c52c6f09308a1e9df1e8f064a71cefd805f8443e8f6341b0.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
+    "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://public.govdelivery.com/accounts/USGSA/signup/34948/form",
     "https://public.govdelivery.com/assets/Signup.js",
     "https://s3.amazonaws.com/digitalgov/accessibility-for-teams-guide.jpg",
@@ -75,9 +86,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 11,
   "cookie_domains": [
-    ".digital.gov"
+    ".digital.gov",
+    "digital.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -143,7 +155,6 @@
     "usa-icon",
     "usa-identifier",
     "usa-input",
-    "usa-js-loading",
     "usa-label",
     "usa-legend",
     "usa-link",

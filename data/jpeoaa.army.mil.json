@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites"
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2b45ee4876aca5772f797a23bbf948b6",
+  "page_hash": "a284d1a07e6ad0f2836b21d22f808cdd",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":5}",
-  "pageviews": 15180,
-  "visits": 9031,
+  "pageviews": 15460,
+  "visits": 8967,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -70,16 +71,15 @@
     "https://media.defense.gov/2024/Mar/15/2003414012/780/780/0/240315-A-SC324-1001.JPG",
     "https://media.defense.gov/2024/Oct/04/2003559053/780/780/0/241004-A-SC324-1001.JPG",
     "https://media.defense.gov/2025/Feb/07/2003643199/780/780/0/250207-A-SC324-1001.JPG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
     ".army.mil",
-    ".jpeoaa.army.mil"
+    ".jpeoaa.army.mil",
+    "jpeoaa.army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -125,7 +125,7 @@
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://jpeoaa.army.mil/sitemap.xml",
   "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "unknown",
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Navy",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites"
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f292ba6eda963877c27fe698c7ff3264",
+  "page_hash": "918ed16fdf6e02880b55c9105dbbc4e9",
   "accessibility_violations": "{\"contrast\":13,\"images\":1}",
-  "pageviews": 13437,
-  "visits": 7596,
+  "pageviews": 13191,
+  "visits": 7568,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -58,25 +59,23 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://media.defense.gov/2022/May/23/2003003796/2000/2000/0/220523-N-SV378-003.PNG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".atlantic.navfac.navy.mil",
-    ".navy.mil",
-    "atlantic.navfac.navy.mil"
+    ".navy.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

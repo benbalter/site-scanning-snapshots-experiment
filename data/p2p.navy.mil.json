@@ -20,6 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "dod_public"
   ],
@@ -33,10 +34,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1cfda5a9003273ee588251474b3612af",
-  "accessibility_violations": "{\"link-purpose\":1}",
-  "pageviews": 1456,
-  "visits": 754,
+  "page_hash": "f319ff26d7402e2aa141ae441fc975c7",
+  "accessibility_violations": "{\"contrast\":2,\"link-purpose\":1}",
+  "pageviews": 1252,
+  "visits": 654,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -58,7 +59,6 @@
     "fonts.gstatic.com",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -77,12 +77,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".navy.mil"
+    ".navy.mil",
+    ".www.owa.navy.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

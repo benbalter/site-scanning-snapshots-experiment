@@ -19,11 +19,12 @@
   "404_test": true,
   "source_list": [
     "2020_eot",
+    "final_url_websites",
     "house_117th"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5cd30424ade33dfffee0662a62791582",
-  "accessibility_violations": "{\"aria\":2}",
+  "page_hash": "2d0bcfd4900ce4b7718d453191496dda",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -62,6 +63,7 @@
     "pbs.twimg.com",
     "platform.twitter.com",
     "syndication.twitter.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -203,13 +205,13 @@
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/i/jot",
     "https://syndication.twitter.com/settings",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 16,
+  "third_party_service_count": 17,
   "cookie_domains": [
-    ".adams.house.gov",
-    ".house.gov"
+    ".adams.house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

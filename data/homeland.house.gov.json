@@ -29,11 +29,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2a2ab4fc31a3eb401fbd7f284417a917",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":7,\"lists\":2}",
+  "page_hash": "82fc3df205bd34e52584846982aadb54",
+  "accessibility_violations": "{\"aria\":2,\"contrast\":10,\"lists\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -61,9 +61,7 @@
     "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/styles__ltr.css"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": [
-    "homeland.house.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
@@ -71,8 +69,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Committee on Homeland Security – Congressional Website",
   "description": null,
   "keywords": null,

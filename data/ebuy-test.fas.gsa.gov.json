@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ab20d5893b0e2fc139400adcb5bcc1ba",
+  "page_hash": "1b4221677dd8ddc29e574c78b4b7c5ef",
   "accessibility_violations": null,
   "pageviews": 0,
-  "visits": 13,
+  "visits": 14,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -66,17 +66,13 @@
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "fear",
     "foia",
-    "inspector",
     "privacy",
     "usa.gov"
   ],
   "required_links_text": [
     "accessibility",
-    "no fear act",
     "foia",
-    "inspector general",
     "privacy policy",
     "usa.gov"
   ],
@@ -119,18 +115,16 @@
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-banner",
-    "usa-footer",
     "usa-identifier",
-    "usa-link",
-    "usa-list"
+    "usa-link"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 40,
+  "uswds_usa_classes": 30,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.4.1",
   "uswds_version": 100,
-  "uswds_count": 160,
+  "uswds_count": 150,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

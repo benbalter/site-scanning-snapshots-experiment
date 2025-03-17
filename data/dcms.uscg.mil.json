@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Coast Guard",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites"
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f4f3e38a01f5d2220a4ced9c8c419beb",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"link-purpose\":3}",
-  "pageviews": 409116,
-  "visits": 209357,
+  "page_hash": "4b0d9acf80ff59ac1fb2e61dd16dfbfb",
+  "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":3}",
+  "pageviews": 415306,
+  "visits": 207178,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -73,15 +74,15 @@
     "https://media.defense.gov/2019/Jun/06/2002141381/740/740/0/170828-G-G0211-002.JPG",
     "https://media.defense.gov/2019/May/30/2002137942/740/740/0/190320-G-LB304-1001.JPG",
     "https://media.defense.gov/2019/May/30/2002138136/740/740/0/180913-G-VY010-2020.JPG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".uscg.mil"
+    ".uscg.mil",
+    ".www.dcms.uscg.mil",
+    "www.dcms.uscg.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

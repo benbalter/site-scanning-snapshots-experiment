@@ -18,6 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
+    "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
@@ -50,16 +51,18 @@
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
     "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".army.mil"
   ],

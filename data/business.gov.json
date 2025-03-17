@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "5fcf303e287a92f8ad3e6087d21dc05c",
+  "page_hash": "978913d7e8133c04300c440ae9769f4a",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,20 +48,25 @@
     "agency": "SBA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-YDH966RR5Y",
   "third_party_service_domains": [
+    "analytics.google.com",
     "connect.facebook.net",
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://connect.facebook.net/en_US/fbevents.js",
+    "https://connect.facebook.net/signals/config/1601132503528457",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".sba.gov"
   ],
@@ -115,13 +120,13 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 535,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-13T07:05:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-15T07:05:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "7278736d4a6694681ebcbdf933386126",
+  "sitemap_xml_page_hash": "5bea38438fe42f7eb56ae07c540f72c0",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
-  "uswds_inpage_css": 1,
+  "uswds_inpage_css": 2,
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-alert",
@@ -157,7 +162,7 @@
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 169,
+  "uswds_count": 170,
   "www_url": "https://www.business.gov",
   "www_status_code": 404,
   "www_title": ""

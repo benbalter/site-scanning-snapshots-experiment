@@ -23,7 +23,7 @@
   ],
   "public": false,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3fb24060b2e5d8c4719fa48c584401a0",
-  "accessibility_violations": null,
+  "page_hash": "cae42ffacaed9c315506000914f0473a",
+  "accessibility_violations": "{\"aria\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -117,7 +117,6 @@
   "third_party_service_count": 11,
   "cookie_domains": [
     ".nih.gov",
-    ".od.nih.gov",
     ".ors.od.nih.gov",
     "ors.od.nih.gov"
   ],

@@ -20,13 +20,14 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "other"
   ],
   "public": true,
   "primary_scan_status": "timeout",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "dns_resolution_error",
+  "not_found_scan_status": "timeout",
   "performance_scan_status": "timeout",
   "robots_txt_scan_status": "timeout",
   "security_scan_status": "completed",
@@ -34,8 +35,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": null,
   "accessibility_violations": null,
-  "pageviews": 62,
-  "visits": 43,
+  "pageviews": 76,
+  "visits": 47,
   "ipv6": false,
   "hostname": null,
   "cms": null,

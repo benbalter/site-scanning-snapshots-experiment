@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "60c172f1b11427771e01627309bc599c",
+  "page_hash": "ef56bc9f7963704a48c68b90f4931ca7",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,6 +52,7 @@
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "resource.digital.voice.va.gov",
     "s3-us-gov-west-1.amazonaws.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -65,8 +66,13 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/vendor.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.css",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.entry.js",
+    "https://resource.digital.voice.va.gov/resources/dist/assets/css/invite-template-react-style-472308e9f0.css",
+    "https://resource.digital.voice.va.gov/resources/dist/assets/js/invite-react-app-d8a939830c.js",
+    "https://resource.digital.voice.va.gov/resources/form/FormBuilder/vendor/fonts-googleapis/css/open-sans-v14.css",
+    "https://resource.digital.voice.va.gov/wdcvoice/2/forms/34/invitationData1734636651995_en.json",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/embed.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/generic1731941049831.js",
+    "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/onsiteData1741895764877.json",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/assets/content-build.css",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/arrow-right-white.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/design/icons/favicon.ico",
@@ -78,10 +84,11 @@
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/3_2_medium_thumbnail/public/2025-03/SFVAHCS-BRO-team.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/styles/7_2_medium_thumbnail/public/2020-10/siouxfalls_1080x1020.jpg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/tiny-usa-flag.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".va.gov",
     "www.va.gov"

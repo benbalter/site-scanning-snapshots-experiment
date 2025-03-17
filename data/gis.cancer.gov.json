@@ -21,23 +21,24 @@
     "dap",
     "pulse",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
-  "page_hash": "2708336e9ead509e7c7f4bf4331c3fb2",
+  "www_scan_status": "completed",
+  "page_hash": "0357604e97d67aa2ca60e2fd8b657f5c",
   "accessibility_violations": null,
-  "pageviews": 6357,
-  "visits": 3174,
-  "ipv6": false,
+  "pageviews": 6489,
+  "visits": 3272,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -60,14 +61,12 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s29553093477204",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s71009354919994",
     "https://static.cancer.gov/webanalytics/WA_DCCPS_PageLoad.js",
     "https://static.cancer.gov/webanalytics/WA_DCCPS_post.js",
     "https://static.cancer.gov/webanalytics/WA_DCCPS_pre.js",
     "https://static.cancer.gov/webanalytics/s_code.js",
-    "https://www.googletagmanager.com/a",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -131,7 +130,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.gis.cancer.gov",
+  "www_status_code": 200,
+  "www_title": "GIS Portal for Cancer Research"
 }

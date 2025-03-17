@@ -20,6 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -36,7 +37,7 @@
   "accessibility_violations": "{\"images\":1,\"link-purpose\":3,\"lists\":2,\"auto-updating\":1}",
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -50,7 +51,10 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov",
+    ".od.nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",

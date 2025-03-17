@@ -30,11 +30,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "03c11613e6bc016d6d2e7ea5a180f641",
+  "page_hash": "d6a109d0d131ff3a01061c0c1fcfb569",
   "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -47,12 +47,10 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C",
+  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c11.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -64,14 +62,12 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c11.akstat.io/",
     "https://a.tile.openstreetmap.org/10/281/427.png",
     "https://a.tile.openstreetmap.org/10/282/426.png",
     "https://a.tile.openstreetmap.org/10/283/425.png",
     "https://b.tile.openstreetmap.org/10/281/425.png",
     "https://b.tile.openstreetmap.org/10/282/427.png",
     "https://b.tile.openstreetmap.org/10/283/426.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/10/281/426.png",
     "https://c.tile.openstreetmap.org/10/282/425.png",
     "https://c.tile.openstreetmap.org/10/283/427.png",
@@ -92,9 +88,10 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 11,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

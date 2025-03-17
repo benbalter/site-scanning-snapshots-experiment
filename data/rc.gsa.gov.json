@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d5d03a50855ef0e394be19d42787c6be",
+  "page_hash": "f438096b4a2b417aae29f0e8e61676f4",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -41,9 +41,11 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "GSA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-39076408-1,G-YF8VSCD172",
   "third_party_service_domains": [
     "kit.fontawesome.com",

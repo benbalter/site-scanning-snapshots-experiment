@@ -27,14 +27,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "828c986a2134c478cefbfd7782776674",
+  "page_hash": "b711031fd4d54db5bcaeec5b42584261",
   "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -47,12 +47,10 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C",
+  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "68794907.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -64,7 +62,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://68794907.akstat.io/",
     "https://a.tile.openstreetmap.org/11/498/825.png",
     "https://a.tile.openstreetmap.org/11/499/824.png",
     "https://a.tile.openstreetmap.org/11/500/826.png",
@@ -73,7 +70,6 @@
     "https://b.tile.openstreetmap.org/11/499/825.png",
     "https://b.tile.openstreetmap.org/11/500/824.png",
     "https://b.tile.openstreetmap.org/11/501/826.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/11/498/824.png",
     "https://c.tile.openstreetmap.org/11/499/826.png",
     "https://c.tile.openstreetmap.org/11/500/825.png",
@@ -95,9 +91,10 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 11,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -114,8 +111,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Upper Ouachita National Wildlife Refuge | U.S. Fish & Wildlife Service",
   "description": "Upper Ouachita National Wildlife Refuge is managed for the conservation, enhancement, and restoration of bottomland hardwood forests and important, associated upland habitats as an integral component of the Lower Mississippi River Ecosystem.",
   "keywords": null,

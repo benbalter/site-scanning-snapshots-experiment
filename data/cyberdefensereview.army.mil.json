@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "mil-sites2",
     "dod_public",
@@ -35,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "798f8eb29c033c21f50960f2ca2e22d2",
+  "page_hash": "0d65397e15c4338ce0e5cefa3a925b09",
   "accessibility_violations": "{\"contrast\":7,\"link-purpose\":4}",
-  "pageviews": 3334,
-  "visits": 2614,
+  "pageviews": 3355,
+  "visits": 2532,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -60,7 +61,6 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -88,14 +88,11 @@
     "https://media.defense.gov/2024/Dec/19/2003616272/636/305/0/241219-A-DN361-0001.PNG",
     "https://media.defense.gov/2024/Jul/30/2003514900/31/25/0/240730-A-DN361-0002.PNG",
     "https://media.defense.gov/2024/Jul/30/2003514900/636/305/0/240730-A-DN361-0002.PNG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".army.mil",
     ".cyberdefensereview.army.mil"

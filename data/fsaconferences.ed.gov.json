@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "other"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "ssl_protocol_error",
-  "page_hash": "898473dfc31760e607cebabf67d96fa1",
-  "accessibility_violations": null,
+  "page_hash": "b4f9c3a987c4fe7ddebf228f3baab95b",
+  "accessibility_violations": "{\"keyboard-access\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -47,7 +48,7 @@
   "dap_version": "",
   "ga_tag_id": "G-74HX2T8XVK,UA-87838515-2",
   "third_party_service_domains": [
-    "17de4c0d.akstat.io",
+    "17de4c1e.akstat.io",
     "c.go-mpulse.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -59,12 +60,12 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0d.akstat.io/",
+    "https://17de4c1e.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ7QwOk1.woff2",
-    "https://portal.fsapartners.ed.gov/jslibrary/1741636495000/canvas/CanvasRendering.js",
-    "https://portal.fsapartners.ed.gov/jslibrary/1741636495000/ui-analytics-reporting/EclairNG.js",
+    "https://portal.fsapartners.ed.gov/jslibrary/1741721570000/canvas/CanvasRendering.js",
+    "https://portal.fsapartners.ed.gov/jslibrary/1741721570000/ui-analytics-reporting/EclairNG.js",
     "https://portal.fsapartners.ed.gov/resource/1710599095000/FontAwesome/css/all.css",
     "https://portal.fsapartners.ed.gov/s/sfsites/aura",
     "https://portal.fsapartners.ed.gov/s/sfsites/auraCmpDef",

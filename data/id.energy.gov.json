@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "497b7f054cc38ff343386882c5ea6373",
+  "page_hash": "7ce5ee0c90892cbec02987d9707b26fd",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":10,\"language\":1,\"images\":26,\"link-purpose\":6}",
   "pageviews": null,
   "visits": null,
@@ -57,7 +57,9 @@
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".energy.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

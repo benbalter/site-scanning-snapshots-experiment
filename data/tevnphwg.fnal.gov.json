@@ -20,6 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -58,7 +59,9 @@
     "https://www-d0.fnal.gov/mellon/login"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fnal.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

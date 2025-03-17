@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Defense Media Activity",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "dod_public",
     "final_url_websites"
   ],
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3bcc6da9da7b88ca78bf8b8eb2520aaf",
+  "page_hash": "fff0a4af458105af210131f05379ab8c",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "pageviews": 458,
-  "visits": 283,
+  "pageviews": 466,
+  "visits": 285,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -58,7 +59,6 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -70,14 +70,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".defense.gov",
-    ".dpac.defense.gov",
-    "dpac.defense.gov"
+    ".dpac.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

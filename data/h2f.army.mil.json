@@ -16,10 +16,12 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
+    "other",
     "dod_public",
+    "final_url_websites",
     "dod_2025"
   ],
   "public": null,
@@ -32,10 +34,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1c027bb4987d135d6d2f52fea22995f8",
+  "page_hash": "719ddcb61256e61c39b0ae011b36436f",
   "accessibility_violations": "{\"user-control-name\":1,\"images\":1}",
-  "pageviews": 14845,
-  "visits": 9833,
+  "pageviews": 14886,
+  "visits": 9793,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -99,7 +101,9 @@
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
-    ".army.mil"
+    ".army.mil",
+    ".h2f.army.mil",
+    "h2f.army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -142,7 +146,7 @@
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://h2f.army.mil/sitemap.xml",
   "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "unknown",
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

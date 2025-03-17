@@ -5,7 +5,7 @@
   "initial_base_domain": "hpc.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://oidc.hwss.hpc.mil/authentication?response_type=code&scope=hpcmp%20openid%20profile&client_id=Ha7KLwWfwhbS&state=r5nrzAiVSGOyZhs9JjxgAMXmabY&redirect_uri=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect&nonce=veHEr82yGVxXe3tHpwAHaiv2zvfSU5JiuNTicsqiYtM&iss=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect",
+  "url": "https://oidc.hwss.hpc.mil/authentication?response_type=code&scope=hpcmp%20openid%20profile&client_id=Ha7KLwWfwhbS&state=vzH_4y-hIFMuNVrkHEV0dOdicU4&redirect_uri=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect&nonce=9GEAEBeaHN37f5Azwyr3g5B7042fxS-lPtYZxbDLt0g&iss=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect",
   "domain": "oidc.hwss.hpc.mil",
   "base_domain": "hpc.mil",
   "top_level_domain": "mil",
@@ -18,6 +18,7 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
+    "other",
     "dod_public",
     "dod_2025"
   ],

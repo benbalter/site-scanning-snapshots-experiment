@@ -19,8 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea",
-    "final_url_websites"
+    "omb_idea"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -34,8 +33,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "aef6850b69db80c4587359ec21e40009",
   "accessibility_violations": "{\"contrast\":3,\"language\":1}",
-  "pageviews": 601277,
-  "visits": 113359,
+  "pageviews": 606970,
+  "visits": 115541,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,7 +49,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".gsa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

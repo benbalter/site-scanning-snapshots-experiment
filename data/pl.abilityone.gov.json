@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -46,12 +46,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "fonts.googleapis.com"
+    "fonts.googleapis.com",
+    "pl.abilityone.gov"
   ],
   "third_party_service_urls": [
-    "https://fonts.googleapis.com/css"
+    "https://fonts.googleapis.com/css",
+    "https://pl.abilityone.gov/favicon.ico"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [

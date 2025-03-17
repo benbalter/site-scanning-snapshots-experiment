@@ -16,28 +16,30 @@
   "agency": "Department of Defense",
   "bureau": "Coast Guard",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "mil-sites2",
-    "dod_public"
+    "dod_public",
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "too_many_redirects",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "too_many_redirects",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "5bbd3d14fb28feb85a85f5faf46ea265",
-  "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":1}",
-  "pageviews": 8149,
-  "visits": 5815,
+  "page_hash": "8c5f72c95a7e8c2730e4d46be9a97a7c",
+  "accessibility_violations": null,
+  "pageviews": 7922,
+  "visits": 5594,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -60,6 +62,7 @@
     "fonts.gstatic.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -80,12 +83,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".uscg.mil",
-    ".www.reserve.uscg.mil"
+    ".uscg.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -130,7 +133,7 @@
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://www.reserve.uscg.mil/sitemap.xml",
   "sitemap_xml_status_code": 404,
-  "sitemap_xml_media_type": "unknown",
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

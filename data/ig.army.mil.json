@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites"
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c0350dfe0417801c84c81f78494932c3",
+  "page_hash": "ad3d8bef1cefb439f206369bc7e8e058",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
-  "pageviews": 17495,
-  "visits": 10894,
+  "pageviews": 17115,
+  "visits": 10706,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -74,7 +75,9 @@
     "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2408/933887/DOD_110506162.0000006/2000w_q95.jpg",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
@@ -82,8 +85,7 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".army.mil",
-    ".ig.army.mil"
+    ".army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

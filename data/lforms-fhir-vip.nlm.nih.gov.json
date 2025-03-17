@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,11 +30,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "35266c6bb8419a7f7c714d1ff4260d24",
-  "accessibility_violations": null,
-  "pageviews": 96,
-  "visits": 43,
-  "ipv6": false,
+  "page_hash": "09014637f95797170d82aebe0a4a6215",
+  "accessibility_violations": "{\"aria\":3,\"language\":1}",
+  "pageviews": 102,
+  "visits": 46,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -69,12 +69,14 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/droidsans/v18/SlGVmQWMvZQIdix7AFxXkHNSbRYXags.woff2",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

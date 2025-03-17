@@ -20,6 +20,7 @@
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -32,11 +33,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "60cd394fb3f43873c308d4b79a2a6307",
+  "page_hash": "7b0dd8123ab866b7cf14e40bf205543c",
   "accessibility_violations": "{\"contrast\":7,\"form-names\":1}",
-  "pageviews": 361,
+  "pageviews": 352,
   "visits": 305,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -59,6 +60,7 @@
     "fonts.gstatic.com",
     "iad1.qualtrics.com",
     "siteintercept.qualtrics.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.ncbi.nlm.nih.gov",
     "zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com"
@@ -82,8 +84,9 @@
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
-    "https://siteintercept.qualtrics.com/static/q-siteintercept/ada4c0ce056a5f4b15502463982f6e29e587da85/img/wr-dialog-close-btn-black.png",
+    "https://siteintercept.qualtrics.com/static/q-siteintercept/19f4359d5e27f5ebebc663bb89cde1d90415c7eb/img/wr-dialog-close-btn-black.png",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.ncbi.nlm.nih.gov/core/pinger/pinger.js",
@@ -91,11 +94,10 @@
     "https://www.ncbi.nlm.nih.gov/stat",
     "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".ncbi.nlm.nih.gov",
-    ".nih.gov",
-    ".nlm.nih.gov"
+    ".nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

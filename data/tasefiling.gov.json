@@ -5,7 +5,7 @@
   "initial_base_domain": "tasefiling.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://itatasb2c.b2clogin.com/273317c2-6fdc-4d1f-8000-6d9fc6ca17a3/b2c_1_tasportalapp/oauth2/v2.0/authorize?client_id=380dcc7e-7e25-4594-90d9-ca2efc305ba3&redirect_uri=https%3A%2F%2Ftasefiling.powerappsportals.us%2Fsignin-aad-b2c_1&response_type=code%20id_token&scope=openid&state=OpenIdConnect.AuthenticationProperties%3D_FbBV4MuhG1mt8ooeuV7-pIC7xhyMOoiJ4L8TnnXHODexeoV20RupeXA_qqOedltu9NEBH-mDd7k0PdGbQ8oGvTjwUqPAeK02BG2GMLsTNiYjw3N0-_fseDfhRPNCF6EEXHHF6QO3ZKKb3d-gLEIRZ9ZAG7-57hGO1r67vRESxnGsUvywPtPZuA_v0Z51xz6zbkh8qDnYI9JQmJl7BuVst17iemPWHE9IRqXBXR5vdKy51LRZhpopm2lZo9Afj1OosqIWqT665utsdkANJiQH30wEQGSHuCoEVqJHPmEKOLngruY3GDBTnFcS2Ht9vRWm0WDGjgoP0ELz5aRumRCRquKo7QMSRQ2fQxrFQrRPYQoYLEhmlUWKo-zlTMAW04siXpr7S6tc8mUsUk7mLHFiG4mQIdgptEDTtJXEW8v9le6T8PmEEt8Edjr-SLYfQxXlMenwBqCMJUL1NGPlFw2pNLAaVdufN26s25KY1GePVx7dwhKpNyTzRR4w06mTWcnlejutnAs7Pay0fjHfli-D35rO8INm69uFm0_I1_nGdDHqFExwj4n3oEBRfc1TQ8weOUHgZpO4nOTvVtGwECcEib0QIKmo7VYguytSNpMmAGgTrm4t4zBsdnlKvXnndVA&response_mode=form_post&nonce=638774011753151316.ZjYwOTQ3MWEtODNhMS00ZWNjLTgwOWMtOTY2MDMyOGMxYzZmOGZjZDcxNGMtZjU5NS00NWQ0LTk4M2UtZTM0ZjI4ZjU5ZjE0&ui_locales=en-US&x-client-SKU=ID_NET472&x-client-ver=6.35.0.0",
+  "url": "https://itatasb2c.b2clogin.com/273317c2-6fdc-4d1f-8000-6d9fc6ca17a3/b2c_1_tasportalapp/oauth2/v2.0/authorize?client_id=380dcc7e-7e25-4594-90d9-ca2efc305ba3&redirect_uri=https%3A%2F%2Ftasefiling.powerappsportals.us%2Fsignin-aad-b2c_1&response_type=code%20id_token&scope=openid&state=OpenIdConnect.AuthenticationProperties%3DTMaWVO9K3UVB3WO9oiEn1L4B1mNT5ne4IK0ND0jIrSRTAosW2ypuvbgg-RBgVWeLmubFqb6Hp0KpUy41sBRZl3Z57OQ0Y0gQfEUm_YtMCZfjbVzyTkj14-2M9GNdwDvfVfBgYhA722SomSU2K0hKSLq8QVAiCmq1lCftgPWkXQoz-QTX1ycoErs1mzVZMOseJvWUn8ZSovFQkqlgpzzFgf1DoU-_tngGGusWfMsBrIYz5M1TYHtlcJqaUAl-yZhi_7d9pA1pz0lbp-cAugpevDSf_-9APPIw1iEyzSUec9XBNE5EjFgk8L1cEA9sKGbAATtBqdu6ThXEaUaa3Vt_7XkG357RNX84yBTF4aljSKOR_Ziq0GO_udEvuiMMH23z7rvRWwE_jU0peVvUOHtJcCYe7qLbMaH0GNRPl3AUeLxaVzydiJTMtDFPxuR_VtuZBGpZ2VDvMXO0Sn0F2CUD60ijdhG3Pkug4KQhySqzmsnlUKsdYbW-9jjz3ZJodOpDEu6u7wfCfsg955fLRow0XAYt1J0ph-0LrbSWn0Kl1NEuLirmETqrB5K9_wzC3rFDh-ri0kWKBm0hcK3jxBXi0iPEZ8M8JJNJFRJQLuzBeLCm2ztDBslSI5qdkWHPket5&response_mode=form_post&nonce=638776676446172352.ZTg1NmI2MjQtNThjMy00NzBjLTkyMTUtMjA1M2ZiNmJlMWI1ZWU1MDU2N2EtNmI0OS00M2Y1LThjZjQtODY2NjY0YjE1NDcw&ui_locales=en-US&x-client-SKU=ID_NET472&x-client-ver=6.35.0.0",
   "domain": "itatasb2c.b2clogin.com",
   "base_domain": "b2clogin.com",
   "top_level_domain": "com",
@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "omb_idea"
+    "omb_idea",
+    "other"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7cc3e41938131f457a90ec0c88021717",
+  "page_hash": "8e2ade172e97afa98c28ee819ce68db2",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,

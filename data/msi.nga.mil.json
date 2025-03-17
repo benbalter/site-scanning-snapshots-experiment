@@ -18,6 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
+    "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
@@ -32,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "dd3fc86c740779b8e98d7144035eff90",
+  "page_hash": "009928046347f710b85ebe94479d89fd",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -51,6 +52,7 @@
     "c.go-mpulse.net",
     "cdn.nga.mil",
     "s.go-mpulse.net",
+    "webanalytics.nga.mil",
     "www.google.com",
     "www.gstatic.com"
   ],
@@ -58,10 +60,12 @@
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js",
     "https://s.go-mpulse.net/boomerang/PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",
+    "https://webanalytics.nga.mil/matomo.js",
+    "https://webanalytics.nga.mil/matomo.php",
     "https://www.google.com/recaptcha/api.js",
     "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".msi.nga.mil",
     "msi.nga.mil"

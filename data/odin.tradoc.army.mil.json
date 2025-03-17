@@ -31,8 +31,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "35179174b482a36ccf4964722d21804c",
-  "accessibility_violations": "{\"user-control-name\":3}",
+  "page_hash": "97a5275fe7418efe5f4c166f99029a5e",
+  "accessibility_violations": null,
   "pageviews": 53,
   "visits": 22,
   "ipv6": true,
@@ -42,13 +42,24 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOD"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-JW6L2RMTC9,G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".army.mil",
     ".odin.tradoc.army.mil",
@@ -97,7 +108,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "17eba5467975d81902cfad1969c43c56",
+  "sitemap_xml_page_hash": "6cf191c892d9f7b88cadc0170c99dc22",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

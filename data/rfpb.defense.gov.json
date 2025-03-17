@@ -16,11 +16,12 @@
   "agency": "Department of Defense",
   "bureau": "Defense Media Activity",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
     "omb_idea",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites"
@@ -35,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "523a1014dbc02eff962d37b7fd475934",
+  "page_hash": "b68cadd07a9ade9b867b72ec3095c433",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":8}",
-  "pageviews": 1989,
-  "visits": 1240,
+  "pageviews": 1982,
+  "visits": 1219,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -64,9 +65,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],

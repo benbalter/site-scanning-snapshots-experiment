@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": null,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "timeout",
@@ -43,18 +44,20 @@
   "search_dot_gov": null,
   "dap": null,
   "dap_parameters": null,
-  "dap_version": null,
-  "ga_tag_id": null,
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": null,
+  "cookie_domains": [
+    "m.lbl.gov"
+  ],
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": false,
-  "title": null,
+  "title": "",
   "description": null,
   "keywords": null,
   "og_title": null,

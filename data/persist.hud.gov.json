@@ -47,13 +47,17 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "fedsso.hud.gov"
+    "fedsso.hud.gov",
+    "sso.hud.gov"
   ],
   "third_party_service_urls": [
-    "https://fedsso.hud.gov/affwebservices/public/saml2sso"
+    "https://fedsso.hud.gov/affwebservices/public/saml2sso",
+    "https://sso.hud.gov/siteminderagent/ntlm/creds.ntc"
   ],
-  "third_party_service_count": 1,
-  "cookie_domains": null,
+  "third_party_service_count": 2,
+  "cookie_domains": [
+    ".hud.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

@@ -21,6 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2942d38cbd468b5150b5780c58355d1b",
+  "page_hash": "52725caa1a3df453106bcf570d761aad",
   "accessibility_violations": "{\"language\":1,\"link-purpose\":1}",
-  "pageviews": 369193,
-  "visits": 151213,
+  "pageviews": 370280,
+  "visits": 152259,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -62,7 +63,9 @@
     "https://www.epa.gov/epafiles/images/epafiles_misc_space.gif"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".epa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "foia"

@@ -5,7 +5,7 @@
   "initial_base_domain": "okta.mil",
   "initial_top_level_domain": "mil",
   "redirect": false,
-  "url": "https://af.okta.mil/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=Zq9p8_oI8N7afLhu5bEkLdMC13huPKoSnIkci6qK11g&code_challenge_method=S256&nonce=A5SKZUR4bathVnvNVWvoesRBPVVTpBKYt6vpdsQcAnyLkYcTOcQtI2hkGxjI6fVt&redirect_uri=https%3A%2F%2Faf.okta.mil%2Fenduser%2Fcallback&response_type=code&state=15sZklQ86P6ABqGrirjX2vk0a10W9pfvEZlz3O5cLlulvZhKcAp5OGjlNegSRACC&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://af.okta.mil/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=qal1YiakzO6AKLFiuG3mieelTRFTfOwWIEE35zA4Xj4&code_challenge_method=S256&nonce=zPRetrDQhJXzpPPrwUs0Y3II1rKT4pTul9LhntpqdJX2UNg1i6aeL5Z4uwutxYAn&redirect_uri=https%3A%2F%2Faf.okta.mil%2Fenduser%2Fcallback&response_type=code&state=LgbX4Rrn2vdi1QMIo7Ouu6Hddf4SsxyrEwjHzLuafHoee3uWnVOlN5QLAXGvVQ9B&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "af.okta.mil",
   "base_domain": "okta.mil",
   "top_level_domain": "mil",
@@ -18,6 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
+    "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
@@ -32,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "165f2b07c70546533d3bdb09719627ab",
+  "page_hash": "8af17354dca5f4be2f688985d85134bf",
   "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,

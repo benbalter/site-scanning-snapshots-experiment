@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b5ccb6bc1616abf75ed246b49f0b42cd",
+  "page_hash": "8b71f31f9971310b3d3bb6eb7dd9fede",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -47,13 +47,32 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "pages.nist.gov"
+  ],
+  "third_party_service_urls": [
+    "https://pages.nist.gov/nist-header-footer/boilerplate-footer.html",
+    "https://pages.nist.gov/nist-header-footer/boilerplate-header.html",
+    "https://pages.nist.gov/nist-header-footer/css/nist-combined.css",
+    "https://pages.nist.gov/nist-header-footer/images/nist_logo_brand_white.svg",
+    "https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": null,
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "fear",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "no fear act",
+    "foia",
+    "vulnerability disclosure",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "",

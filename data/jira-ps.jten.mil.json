@@ -5,7 +5,7 @@
   "initial_base_domain": "jten.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://jtp-qa.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fjira-ps.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=PpOhebtD1rekDHArUAhxYe962lY6DsvsdXJI6RcEGMc&nonce=YxFSKcHV0C9HrsVWmmbRqIPbh5QCWfVQn9oPK2L8jNo&client_id=jira_ps",
+  "url": "https://jtp-qa.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fjira-ps.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=KVsOMBzHpBhjfhMN654xTfXCDjR_zmoIKdob_CLUcSc&nonce=CzQ9foNbOJKX39jviGUeaL8v6Dxt5oks13j4BZC-h28&client_id=jira_ps",
   "domain": "jtp-qa.jten.mil",
   "base_domain": "jten.mil",
   "top_level_domain": "mil",
@@ -18,6 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
+    "other",
     "dod_public"
   ],
   "public": null,
@@ -30,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a921483102d4666a671c899eff4193b2",
+  "page_hash": "5dee1b83a1f1d47507877fab27e3ea2d",
   "accessibility_violations": "{\"language\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +53,7 @@
     "jira-ps.jten.mil"
   ],
   "third_party_service_urls": [
-    "https://jira-ps.jten.mil/s/prhxwy/10030002/qp5gir/5.1.14/_/download/resources/com.atlassian.plugins.authentication.atlassian-authentication-plugin:save-fragment/js.cookie.js"
+    "https://jira-ps.jten.mil/s/fb5y1m/10030002/qp5gir/5.1.14/_/download/resources/com.atlassian.plugins.authentication.atlassian-authentication-plugin:save-fragment/js.cookie.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -85,7 +86,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://jtp-qa.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fjira-ps.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=cbiRMD3KDfI_aiD5eIgGrKlwexhx-AFKYS3VmOufuBA&nonce=S6aJpyRR79uJjBNhhetdY_WyApQeMLtFvT4Dc8GPRfk&client_id=jira_ps",
+  "sitemap_xml_url": "https://jtp-qa.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fjira-ps.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=-TzJK7mG2vQ4QSRZ4RQBj2aamucLDksnvvIkF5rvz7I&nonce=2vovf8-_HC76GWKghmqRZ2QHhX1C7xsqmSSlvG9Lto0&client_id=jira_ps",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

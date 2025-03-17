@@ -5,7 +5,7 @@
   "initial_base_domain": "dps.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://login.microsoftonline.us/8331b18d-2d87-48ef-a35f-ac8818ebf9b4/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=C5D98C9BE348BBBF01C30CAD38D48C210708FE9457B459D8%2D02DCB4DF822E0A31DC8944F434DB7F5557DC171B379E1315BFBAF2D26B2DE645&redirect%5Furi=https%3A%2F%2Fusaf%2Edps%2Emil%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=4cf789a1%2Dc0fd%2D0000%2D2a4b%2D542a934677df",
+  "url": "https://login.microsoftonline.us/8331b18d-2d87-48ef-a35f-ac8818ebf9b4/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=0B378F1397DC1D66BDDF374AD3DFF11B831EEE3B2BB544CC%2DD245815F78DAF893FD02CC1B68DCC71C75F02D690EEBED3287D5291353C264B1&redirect%5Furi=https%3A%2F%2Fusaf%2Edps%2Emil%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=18ef8aa1%2D1068%2D0000%2D2929%2D4e7772321618",
   "domain": "login.microsoftonline.us",
   "base_domain": "microsoftonline.us",
   "top_level_domain": "us",
@@ -18,6 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
+    "other",
     "dod_public",
     "dod_2025"
   ],
@@ -31,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ca5dea04d1159c2e0fd845e4f5435c0c",
+  "page_hash": "f3f1e8fe7808e9ff636581d127ca39b1",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,19 +48,19 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "aadcdn.msauth.net",
-    "aadcdn.msauthimages.us"
+    "aadcdn.msftauth.net",
+    "aadcdn.msftauthimages.us"
   ],
   "third_party_service_urls": [
-    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
-    "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_0lh3lajrog_lmhvtw2rbbq2.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/images/backgrounds/2_11d9e3bcdfede9ce5ce5ace2d129f1c4.svg",
-    "https://aadcdn.msauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_Z-97xch0omzdvdz9EEve6A2.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
-    "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
-    "https://aadcdn.msauthimages.us/6ebb54f4-xfm5eqh688frrlvfwvpyfobvry1szrqikbp-iaucsw0/logintenantbranding/0/bannerlogo"
+    "https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
+    "https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_0lh3lajrog_lmhvtw2rbbq2.js",
+    "https://aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/2_11d9e3bcdfede9ce5ce5ace2d129f1c4.svg",
+    "https://aadcdn.msftauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
+    "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_Z-97xch0omzdvdz9EEve6A2.js",
+    "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_72a1051aa2aa2943d8c1.js",
+    "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_c4928fb5cff147a39780.js",
+    "https://aadcdn.msftauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
+    "https://aadcdn.msftauthimages.us/6ebb54f4-xfm5eqh688frrlvfwvpyfobvry1szrqikbp-iaucsw0/logintenantbranding/0/bannerlogo"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
@@ -95,7 +96,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.us/8331b18d-2d87-48ef-a35f-ac8818ebf9b4/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=67C50C02EA1514AF7439ED621BA0D23FDF653F73AD110FBF%2D736DE43676B11ABA6C24F40872FDB4FFB1A963E30B4A4EE0CE385A843AE7A67F&redirect%5Furi=https%3A%2F%2Fusaf%2Edps%2Emil%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=4ef789a1%2Dc0c6%2D0000%2D2a4b%2D54d9e27e86e8",
+  "sitemap_xml_url": "https://login.microsoftonline.us/8331b18d-2d87-48ef-a35f-ac8818ebf9b4/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=6E7B70A086E2D641DCA710B1C1A3B834290849989F787008%2DA7F6467F5CBDB570DE86B18C631FB7D1DB67C6A5EF3ED885A33CF7DB57BECE10&redirect%5Furi=https%3A%2F%2Fusaf%2Edps%2Emil%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=1bef8aa1%2D102d%2D0000%2D2929%2D44f4f4dc98d0",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

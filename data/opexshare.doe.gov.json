@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "empty_response",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f27e7dd78791cdd576fce41a3dfc9534",
-  "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":114,\"link-purpose\":46}",
+  "page_hash": "218db732769bc2ffdb4aeb7824410a2a",
+  "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":114,\"link-purpose\":47}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -65,7 +65,9 @@
     "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/styles__ltr.css"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".doe.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -20,13 +20,14 @@
   "source_list": [
     "gov",
     "dap",
-    "omb_idea"
+    "omb_idea",
+    "other"
   ],
   "public": true,
   "primary_scan_status": "timeout",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "connection_reset",
+  "not_found_scan_status": "timeout",
   "performance_scan_status": "timeout",
   "robots_txt_scan_status": "timeout",
   "security_scan_status": "completed",
@@ -34,8 +35,8 @@
   "www_scan_status": "completed",
   "page_hash": null,
   "accessibility_violations": null,
-  "pageviews": 6266,
-  "visits": 2876,
+  "pageviews": 6087,
+  "visits": 2883,
   "ipv6": false,
   "hostname": "awsglobalaccelerator.com",
   "cms": null,

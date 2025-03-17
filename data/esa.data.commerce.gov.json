@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3cd149ae736ebd303bd58637c81177ad",
-  "accessibility_violations": null,
+  "page_hash": "5aa8976b8a1cb55ac8df00a85f77aa08",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":3,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -101,10 +101,10 @@
   "robots_txt_url": "https://esa.data.commerce.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 1864,
+  "robots_txt_filesize": 1874,
   "robots_txt_crawl_delay": 1,
   "robots_txt_sitemap_locations": [
-    "https://s3.amazonaws.com/sa-socrata-sitemaps-us-east-1-fedramp-prod/sitemaps/sitemap-esa.data.commerce.gov.xml"
+    "https://s3-us-east-1.amazonaws.com/sa-socrata-sitemaps-us-east-1-fedramp-prod/sitemaps/sitemap-esa.data.commerce.gov.xml"
   ],
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://esa.data.commerce.gov/sitemap.xml",

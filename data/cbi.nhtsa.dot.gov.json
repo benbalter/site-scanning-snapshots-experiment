@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "other"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -46,7 +47,7 @@
   "dap_version": "",
   "ga_tag_id": "G-EHCY7",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "17de4c1c.akstat.io",
     "artemis-user-api.nhtsa.gov",
     "c.go-mpulse.net",
     "cbi.nhtsa.dot.gov",
@@ -57,7 +58,7 @@
     "use.fontawesome.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://17de4c1c.akstat.io/",
     "https://artemis-user-api.nhtsa.gov/external-menu-config-info",
     "https://c.go-mpulse.net/api/config.json",
     "https://cbi.nhtsa.dot.gov/Latin-Merriweather-Bold.df0181f132a2b97d.woff2",
@@ -72,7 +73,7 @@
     "https://cbi.nhtsa.dot.gov/assets/img/us_flag_small.png",
     "https://cbi.nhtsa.dot.gov/assets/nr.js",
     "https://cbi.nhtsa.dot.gov/expand_more.96ff6211e33a6e57.svg",
-    "https://cbi.nhtsa.dot.gov/main.5d031ea0cc07b8f8.js",
+    "https://cbi.nhtsa.dot.gov/main.f3e736881bde2e79.js",
     "https://cbi.nhtsa.dot.gov/polyfills.0cf8f6d0b5524e3d.js",
     "https://cbi.nhtsa.dot.gov/runtime.2093825c0f98920e.js",
     "https://cbi.nhtsa.dot.gov/sourcesanspro-bold-webfont.90a4ec2bebe3c77f.woff2",
@@ -107,15 +108,15 @@
   "main_element_present": false,
   "robots_txt_detected": false,
   "robots_txt_url": "https://cbi.nhtsa.dot.gov/robots.txt",
-  "robots_txt_status_code": 403,
-  "robots_txt_media_type": "text/html",
+  "robots_txt_status_code": 400,
+  "robots_txt_media_type": "application/json",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://cbi.nhtsa.dot.gov/sitemap.xml",
-  "sitemap_xml_status_code": 403,
-  "sitemap_xml_media_type": "text/html",
+  "sitemap_xml_status_code": 400,
+  "sitemap_xml_media_type": "application/json",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "61ea664c0f338df781698cff556a5c15",
+  "page_hash": "5f762e9ebd92344858da45ad2b789bf6",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -44,7 +44,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "UA-15356370-9,UA-15356370-0",
+  "ga_tag_id": "UA-15356370-9",
   "third_party_service_domains": [
     "bam.nr-data.net",
     "js-agent.newrelic.com",
@@ -53,6 +53,7 @@
   ],
   "third_party_service_urls": [
     "https://bam.nr-data.net/1/NRJS-41ae8b79432220c7920",
+    "https://bam.nr-data.net/browser/blobs",
     "https://bam.nr-data.net/events/1/NRJS-41ae8b79432220c7920",
     "https://js-agent.newrelic.com/nr-spa-1.262.0.min.js",
     "https://raw.githubusercontent.com/semanticbits/iqies-config/master/notifications/prod1.json",
@@ -66,19 +67,11 @@
     "iqies.cms.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": [
-    "about",
-    "fear",
-    "privacy"
-  ],
-  "required_links_text": [
-    "no fear act",
-    "freedom of information act",
-    "privacy policy"
-  ],
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "iQIES Portal - iQIES Portal - Login",
+  "title": "iQIES Portal",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -91,7 +84,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": true,
+  "main_element_present": false,
   "robots_txt_detected": false,
   "robots_txt_url": "https://iqies.cms.gov/robots.txt",
   "robots_txt_status_code": 404,

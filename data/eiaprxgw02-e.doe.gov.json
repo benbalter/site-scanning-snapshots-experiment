@@ -49,13 +49,17 @@
     "www.eia.gov"
   ],
   "third_party_service_urls": [
+    "https://www.eia.gov/global/fonts/Jost-Italic-VariableFont_wght.ttf",
+    "https://www.eia.gov/global/fonts/Jost-VariableFont_wght.ttf",
     "https://www.eia.gov/global/images/logos/eia_logo_print.png",
     "https://www.eia.gov/global/styles/EIA_global.css",
     "https://www.eia.gov/global/styles/print.css",
     "https://www.eia.gov/global/styles/screen.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".doe.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

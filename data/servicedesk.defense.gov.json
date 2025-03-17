@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "Defense Media Activity",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse"
   ],
@@ -24,7 +24,7 @@
   "primary_scan_status": "dns_resolution_error",
   "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "dns_resolution_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "dns_resolution_error",
   "robots_txt_scan_status": "dns_resolution_error",
   "security_scan_status": "completed",

@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3c6629850abb4945b27265ae993d9bb7",
+  "page_hash": "4845fad9f1b684e4d74a5f5d2e577234",
   "accessibility_violations": "{\"aria\":1}",
   "pageviews": null,
   "visits": null,
@@ -48,6 +48,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-CSLL4ZEK4L,G-NQ5ZN114SB,UA-33523145-1,G-HF5V26MT25,G-0623JYSC1Q",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -59,6 +60,7 @@
     "zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
@@ -85,7 +87,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".transportation.gov",
     "www.transportation.gov"

@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse"
   ],
@@ -24,13 +24,13 @@
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3dbe0c46405ffe761c830d1a63a0b0ab",
+  "page_hash": "92aa790da5f67580661afc0390f8a463",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -58,12 +58,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-FH5X1PMV8C,UA-77708142-1,UA-108444827-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "cdn.app.cfigroup.com",
     "cdn.gov.cfigroup.com",
     "cdn.jsdelivr.net",
     "d9-wret.s3.us-west-2.amazonaws.com",
     "dap.digitalgov.gov",
-    "e.gov.cfigroup.com",
     "script.hotjar.com",
     "static.hotjar.com",
     "touchpoints.app.cloud.gov",
@@ -72,8 +70,6 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.app.cfigroup.com/webmon/s/UploadFile/2023/6/29/2560px-USGS_logo_green.png",
-    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/122.js",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/f44f46b9c01122/webmon.js",
     "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/media/images/01010000_St_John-River_at_Ninemile_Bridge_Maine_Streamgage_Flower_By_Sam_Banas_web2.jpg",
@@ -89,7 +85,6 @@
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/media/images/Fig%202%20PFAS%20Fate%20Single%20Screen%20FINAL%20CMYK_0.jpg",
     "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/SudburyDam.Verdi__0.jpg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://e.gov.cfigroup.com/wmon",
     "https://script.hotjar.com/modules.ef5986d046c68a8c77c1.js",
     "https://static.hotjar.com/c/hotjar-606685.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
@@ -100,9 +95,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".usgs.gov"
   ],

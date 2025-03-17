@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites"
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9d1089346c75b613c7ce456af8d58da8",
+  "page_hash": "27b74dbc7db82f74a09bf39e749d4c42",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
-  "pageviews": 15887,
-  "visits": 4158,
+  "pageviews": 15515,
+  "visits": 4058,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -61,15 +62,15 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".osd.mil"
+    ".doha.ogc.osd.mil",
+    ".osd.mil",
+    "doha.ogc.osd.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

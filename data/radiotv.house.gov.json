@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cb46f98de623207941e9aae1f4e08358",
+  "page_hash": "09a0871660222854cfe07ef216cd8c7b",
   "accessibility_violations": "{\"aria\":10}",
   "pageviews": null,
   "visits": null,
@@ -81,7 +81,9 @@
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -49,13 +49,15 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usps.gov"
+  ],
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Denied",
+  "title": "403 Forbidden",
   "description": null,
   "keywords": null,
   "og_title": null,

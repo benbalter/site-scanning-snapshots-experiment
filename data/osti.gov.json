@@ -25,6 +25,7 @@
     "2020_eot",
     "usagov",
     "gov_man",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -37,10 +38,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "9e43d98825c2ef6cf71917258be9427f",
+  "page_hash": "cb89c2ff5245c8acc9482d9a1946f9c8",
   "accessibility_violations": null,
-  "pageviews": 565160,
-  "visits": 381832,
+  "pageviews": 552928,
+  "visits": 370040,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -57,21 +58,24 @@
   "dap_parameters": {
     "agency": "DOE"
   },
-  "dap_version": "",
-  "ga_tag_id": "G-MP0JFZ283F,G-67HLQV53WH,G-MJH5EELBP8,UA-18099922-2,UA-103170690-2,G-X5RWP050G8",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-MP0JFZ283F,G-67HLQV53WH,G-MJH5EELBP8,G-CSLL4ZEK4L,UA-103170690-2,UA-18099922-2,G-X5RWP050G8",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "ssl.google-analytics.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".osti.gov",
     ".www.osti.gov",

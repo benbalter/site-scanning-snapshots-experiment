@@ -19,6 +19,7 @@
   "404_test": false,
   "source_list": [
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -47,12 +48,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "auth.uspto.gov",
     "instana-eum-prod.uspto.gov"
   ],
   "third_party_service_urls": [
+    "https://auth.uspto.gov/api/v1/sessions/me",
     "https://instana-eum-prod.uspto.gov/eum/eum.min.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [

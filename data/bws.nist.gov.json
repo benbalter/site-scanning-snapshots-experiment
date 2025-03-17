@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0a7e1a665a3d377c5622a55ada19e76b",
+  "page_hash": "e14fc513857bcac075e3a30ddd8f2b92",
   "accessibility_violations": "{\"link-purpose\":3}",
   "pageviews": null,
   "visits": null,
@@ -46,8 +46,8 @@
     "id": "G-CSLL4ZEK4L",
     "l": "dataLayer",
     "cx": "c",
-    "gtm": "45je53a1v895826815za200",
-    "tag_exp": "102482433~102587591~102640600~102693808~102717422~102788824~102791784~102814059~102825837"
+    "gtm": "45je53d0v895826815za200",
+    "tag_exp": "102482433~102587591~102717422~102788824~102813109~102814060~102825837~102879719"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-7vNow5BNQgZTCjv,G-CSLL4ZEK4L",
@@ -56,16 +56,18 @@
     "bam.nr-data.net",
     "js-agent.newrelic.com",
     "siteimproveanalytics.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://6017546.global.siteimproveanalytics.io/image.aspx",
     "https://bam.nr-data.net/1/37b7ccb661",
-    "https://js-agent.newrelic.com/nr-rum-1.283.2.min.js",
+    "https://js-agent.newrelic.com/nr-rum-1.284.1.min.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6017546.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nist.gov",
     ".www.nist.gov"

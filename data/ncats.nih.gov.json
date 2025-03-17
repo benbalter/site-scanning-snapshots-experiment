@@ -23,11 +23,12 @@
     "omb_idea",
     "2020_eot",
     "gov_man",
+    "other",
     "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "90e0627a1c8fdfe79eff9872d8d72c47",
-  "accessibility_violations": null,
-  "pageviews": 78347,
-  "visits": 46063,
+  "page_hash": "a68394fb33f0f569e1dffec323d48eac",
+  "accessibility_violations": "{\"images\":4}",
+  "pageviews": 77470,
+  "visits": 44565,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -52,8 +53,10 @@
     "subagency": "NIH"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-ZZQ8H5G8ZX,G-ulH9",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-ZZQ8H5G8ZX",
   "third_party_service_domains": [
+    "c.bing.com",
+    "c.clarity.ms",
     "cdn.jsdelivr.net",
     "content.hotjar.io",
     "dap.digitalgov.gov",
@@ -66,6 +69,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.bing.com/c.gif",
+    "https://c.clarity.ms/c.gif",
     "https://cdn.jsdelivr.net/npm/@uswds/uswds@3.3.0/dist/css/uswds.min.css",
     "https://cdn.jsdelivr.net/npm/@uswds/uswds@3.3.0/dist/fonts/source-sans-pro/sourcesanspro-bold-webfont.woff2",
     "https://cdn.jsdelivr.net/npm/@uswds/uswds@3.3.0/dist/fonts/source-sans-pro/sourcesanspro-italic-webfont.woff2",
@@ -87,7 +92,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -129,11 +134,11 @@
   "sitemap_xml_url": "https://ncats.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 49508,
+  "sitemap_xml_filesize": 50774,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-11T15:01:00.000Z",
+  "sitemap_xml_lastmod": "2025-03-14T20:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "31dded06bf0b258b3a0c348d8ee18c12",
+  "sitemap_xml_page_hash": "92acfff4caa22ebb2d0256fadbe7eda3",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

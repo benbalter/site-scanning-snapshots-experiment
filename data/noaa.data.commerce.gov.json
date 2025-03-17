@@ -20,6 +20,7 @@
   "source_list": [
     "pulse",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
@@ -32,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0b064a803c09ef9df6a09e3fd0bb02f4",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":4,\"link-purpose\":1}",
+  "page_hash": "22cf727f630aa84868fccc96e2fd6e6d",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":7,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -76,7 +77,6 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".commerce.gov",
     "noaa.data.commerce.gov"
   ],
   "viewport_meta_tag": true,
@@ -102,10 +102,10 @@
   "robots_txt_url": "https://noaa.data.commerce.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 1865,
+  "robots_txt_filesize": 1875,
   "robots_txt_crawl_delay": 1,
   "robots_txt_sitemap_locations": [
-    "https://s3.amazonaws.com/sa-socrata-sitemaps-us-east-1-fedramp-prod/sitemaps/sitemap-noaa.data.commerce.gov.xml"
+    "https://s3-us-east-1.amazonaws.com/sa-socrata-sitemaps-us-east-1-fedramp-prod/sitemaps/sitemap-noaa.data.commerce.gov.xml"
   ],
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://noaa.data.commerce.gov/sitemap.xml",

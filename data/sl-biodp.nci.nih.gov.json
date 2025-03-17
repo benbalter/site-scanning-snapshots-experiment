@@ -20,11 +20,12 @@
   "source_list": [
     "pulse",
     "omb_idea",
+    "other",
     "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,7 +34,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "82ce00a9c9ad608cffbc832699762d64",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":4,\"language\":1,\"lists\":4}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -53,7 +54,6 @@
     "cdnjs.cloudflare.com",
     "code.jquery.com",
     "ssl.google-analytics.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,10 +63,9 @@
     "https://code.jquery.com/ui/1.14.0/jquery-ui.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nci.nih.gov",
     ".nih.gov"

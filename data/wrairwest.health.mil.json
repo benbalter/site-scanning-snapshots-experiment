@@ -16,8 +16,9 @@
   "agency": "Department of Defense",
   "bureau": "",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
+    "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
@@ -32,10 +33,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a7040612cc88b8581169054431e86ccc",
+  "page_hash": "5670d7e4fc350b84744c39d86960146e",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2}",
-  "pageviews": 376,
-  "visits": 212,
+  "pageviews": 442,
+  "visits": 208,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -72,15 +73,19 @@
     "https://media.defense.gov/2025/Jan/22/2003631249/1310/736/0/240930-A-EN187-5007.JPG",
     "https://media.defense.gov/2025/Jan/22/2003631256/1310/736/0/241001-A-EN187-6024.JPG",
     "https://media.defense.gov/2025/Jan/22/2003631257/1310/736/0/241002-A-EN187-8069.JPG",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".health.mil"
+    ".health.mil",
+    ".wrairwest.health.mil",
+    "wrairwest.health.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

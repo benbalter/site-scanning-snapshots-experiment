@@ -5,7 +5,7 @@
   "initial_base_domain": "state.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://auth.staging.pmddtc.state.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=7mHUKEx4KUSNaSHxGiUJZrMLblMhxkbbc5tjCTNTXpE&code_challenge_method=S256&nonce=8ZDBUtxCHbxr0ISvSEhGDCEQZrx3GtcJIpGlYGZE2WVyfhDhnJCb09gL5iMTKnLx&redirect_uri=https%3A%2F%2Fauth.staging.pmddtc.state.gov%2Fenduser%2Fcallback&response_type=code&state=U2Anzl9Qcq2PVGQDc7laPbnpUVApXE7XkIylzn75nL6kQQr3Z1jrnGJIFW5cOMrN&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://auth.staging.pmddtc.state.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=OHYps4y86zeuzAqLQKzqpB7nmjIVzUMF7F7gNjErJMg&code_challenge_method=S256&nonce=drjFZGgz8wer3DIhbeHcATQrkNGUn7OMT9x66f1JujiEwQ3oGaFkVsz3pNSTsaN1&redirect_uri=https%3A%2F%2Fauth.staging.pmddtc.state.gov%2Fenduser%2Fcallback&response_type=code&state=ErPYe4h1W2ZWn6nwAnhBWAH68Q00PeSJtt3AaRwV8OWR2Ds31DLUfGbAberCDJjq&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "auth.staging.pmddtc.state.gov",
   "base_domain": "state.gov",
   "top_level_domain": "gov",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a0b58361e1859087d364e34668b78bad",
+  "page_hash": "87e56eb94de2e34f7a06b91af25530f2",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,13 +49,9 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "login.okta.com"
-  ],
-  "third_party_service_urls": [
-    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js"
-  ],
-  "third_party_service_count": 1,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     ".state.gov",
     "auth.staging.pmddtc.state.gov"

@@ -26,12 +26,12 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "191974d1736622f3c25e44b3fc615798",
+  "page_hash": "c936d98d9ca42f5292f044df10414a2f",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,9 +46,15 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
+  ],
+  "third_party_service_urls": [
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".qa.cir.fiscal.treasury.gov",
     "www.qa.cir.fiscal.treasury.gov"

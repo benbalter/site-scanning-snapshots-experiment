@@ -50,6 +50,7 @@
     "fonts.googleapis.com",
     "wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com",
     "www.datadoghq-browser-agent.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -59,9 +60,10 @@
     "https://fonts.googleapis.com/css2",
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/logo.png",
     "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".wildfire.gov",
     "www.wildfire.gov"

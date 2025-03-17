@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "mil-sites2",
     "dod_public",
@@ -35,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8d69573fbd89460b04351db157d96663",
+  "page_hash": "9b244f515884311ff3d033d982870b1f",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":4,\"link-purpose\":1,\"lists\":1}",
-  "pageviews": 52351,
-  "visits": 30654,
+  "pageviews": 52203,
+  "visits": 30687,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -61,6 +62,7 @@
     "fonts.gstatic.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -88,21 +90,23 @@
     "https://media.defense.gov/2025/Feb/10/2003645771/680/385/0/250210-A-AB123-001.JPG",
     "https://media.defense.gov/2025/Feb/21/2003650232/400/400/0/241101-D-MD216-5814.JPG",
     "https://media.defense.gov/2025/Jan/22/2003631496/400/400/0/250117-D-MD216-4519.JPG",
-    "https://media.defense.gov/2025/Mar/04/2003654527/400/400/0/250304-O-D0202-1001.JPG",
     "https://media.defense.gov/2025/Mar/05/2003656564/400/400/0/250305-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Mar/06/2003659858/400/400/0/250306-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Mar/11/2003664269/400/400/0/240306-F-YU621-1005.PNG",
+    "https://media.defense.gov/2025/Mar/13/2003666774/400/400/0/250313-O-D0202-1001.JPG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/b21600d5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
-    ".tricare.mil"
+    ".tricare.mil",
+    ".tripler.tricare.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

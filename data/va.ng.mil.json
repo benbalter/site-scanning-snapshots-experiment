@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "National Guard",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
+    "other",
     "mil-sites1",
     "mil-sites2",
     "dod_public",
@@ -35,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "abe7c4f558dc0b3d503885c576ca4a1e",
+  "page_hash": "80759ed90db36ddbbcd462617cdaa7f6",
   "accessibility_violations": "{\"user-control-name\":1,\"aria\":2,\"link-purpose\":7}",
-  "pageviews": 41976,
-  "visits": 23339,
+  "pageviews": 42772,
+  "visits": 24096,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -60,7 +61,6 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -86,12 +86,11 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/74e4bb46/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".ng.mil"
   ],

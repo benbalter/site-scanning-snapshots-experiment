@@ -5,7 +5,7 @@
   "initial_base_domain": "faa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://myaccessxtl-dev.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa2kevqjjtz3gACq1d7&scope=openid%20profile%20email&state=CAmE6jfMUw-i0t6NCBdTNOY724C-qXiFOVDn18ZU7p8%3D&redirect_uri=https://myaccessreg-stage.faa.gov/profile/login/oauth2/code/okta&nonce=FPE3OTmH05oPP6HUcyaXCyKv70TExQ8yXW3nMJ6desc",
+  "url": "https://myaccessxtl-dev.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa2kevqjjtz3gACq1d7&scope=openid%20profile%20email&state=Rx99PBZEcXI8WbyJyc230oczu5CMz5oCyUu7e9A4kdg%3D&redirect_uri=https://myaccessreg-stage.faa.gov/profile/login/oauth2/code/okta&nonce=8VsZIZw3eLVvlg1c81l4ZsCPu6bz7MKoHlAAV4aCT_Q",
   "domain": "myaccessxtl-dev.faa.gov",
   "base_domain": "faa.gov",
   "top_level_domain": "gov",
@@ -30,14 +30,14 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "feb5c90c873a1c2b06d54e059b823f61",
+  "page_hash": "db465df0323bef8a3f13fbc746294790",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
   "hostname": "awsglobalaccelerator.com",
   "cms": null,
-  "login_provider": null,
+  "login_provider": "login.gov",
   "login": [
     "\"password\"",
     "showpassword"
@@ -47,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-DAOy07jwvT8Untn",
   "third_party_service_domains": [
     "cdn-staging.myaccess.faa.gov",
     "login.okta.com",
@@ -79,7 +79,8 @@
     "https://op3static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
     "https://op3static.oktacdn.com/fs/bco/1/fs0erg3l9kSR8yPz51d7",
     "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
-    "https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2"
+    "https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2",
+    "https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff2"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [

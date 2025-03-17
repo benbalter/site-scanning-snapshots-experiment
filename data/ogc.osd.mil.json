@@ -16,10 +16,11 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "gov_man",
+    "other",
     "mil-sites1",
     "dod_public",
     "final_url_websites",
@@ -35,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ec35ef6e91564d4aabf327040f4b37c6",
+  "page_hash": "fc86a824ba35bc9faac87abbba93b5b2",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "pageviews": 11513,
-  "visits": 4993,
+  "pageviews": 11342,
+  "visits": 4825,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -73,7 +74,8 @@
   "third_party_service_count": 4,
   "cookie_domains": [
     ".ogc.osd.mil",
-    ".osd.mil"
+    ".osd.mil",
+    "ogc.osd.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

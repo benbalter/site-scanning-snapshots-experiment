@@ -16,16 +16,16 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "dap",
     "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "dns_resolution_error",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -33,8 +33,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "7370ebab0d83ed5e1c7f70d2a5990ec4",
   "accessibility_violations": null,
-  "pageviews": 497141,
-  "visits": 26904,
+  "pageviews": 495927,
+  "visits": 27039,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -70,8 +70,7 @@
     "https://fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/rokkitt/v36/qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbmluc6ms9E.woff",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [

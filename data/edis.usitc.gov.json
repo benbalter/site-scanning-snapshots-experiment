@@ -22,6 +22,7 @@
     "pulse",
     "omb_idea",
     "gov_man",
+    "other",
     "final_url_websites",
     "gpo_fdlp"
   ],
@@ -35,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2770c8f0059734a0bb2dc2defd7872ee",
-  "accessibility_violations": "{\"contrast\":1,\"language\":1}",
-  "pageviews": 91712,
-  "visits": 19411,
+  "page_hash": "6313805943b7b724713db0a2f736f60b",
+  "accessibility_violations": "{\"language\":1}",
+  "pageviews": 92341,
+  "visits": 19693,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -53,23 +54,29 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-0J3R2GZ8V2,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c0f.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
+    "gov1.siteintercept.qualtrics.com",
     "s.go-mpulse.net",
     "usitc.gov",
     "www.googletagmanager.com",
-    "www.usitc.gov"
+    "www.usitc.gov",
+    "znb2cxm5noyxpay7s-usitccx.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c0f.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.df5dcf8aaf67ccb082ce.chunk.js",
     "https://s.go-mpulse.net/boomerang/NCSQS-3DXFP-RD4BL-L2QDL-X3C25",
     "https://usitc.gov/sites/all/themes/usitc_v2/images/logo.png",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
-    "https://www.usitc.gov/sites/all/themes/usitc_v2/images/logo.png"
+    "https://www.usitc.gov/sites/all/themes/usitc_v2/images/logo.png",
+    "https://znb2cxm5noyxpay7s-usitccx.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".usitc.gov",
     "edis.usitc.gov"
