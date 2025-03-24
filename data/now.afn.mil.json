@@ -18,6 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
+    "omb_idea",
     "other",
     "dod_public",
     "dod_2025"
@@ -32,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5960747c817c672030ea40c0eff15c7c",
+  "page_hash": "abc7c2343b58049ae4a6c7168487fbc6",
   "accessibility_violations": "{\"link-purpose\":5,\"images\":2}",
   "pageviews": null,
   "visits": null,
@@ -60,7 +61,10 @@
     "https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraVGwCKd6xB.woff2"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".myafn.dodlive.mil",
+    "myafn.dodlive.mil"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "fear",

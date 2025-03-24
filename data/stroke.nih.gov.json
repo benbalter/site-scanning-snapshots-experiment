@@ -30,11 +30,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6205993aa787a4ac9fbf608db4b8769f",
+  "page_hash": "d04b11277a052c90a0c58c28fe458c8d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
   "login_provider": null,
@@ -61,7 +61,8 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://platform.twitter.com/widgets.js",
     "https://script.crazyegg.com/pages/scripts/0115/5200.js",
-    "https://script.hotjar.com/modules.ef5986d046c68a8c77c1.js",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
+    "https://script.hotjar.com/modules.47bdc3ea03ae568fad7d.js",
     "https://static.hotjar.com/c/hotjar-3386112.js",
     "https://syndication.twitter.com/settings",
     "https://www.google-analytics.com/analytics.js",
@@ -77,13 +78,15 @@
   "required_links_url": [
     "about",
     "privacy",
-    "usa.gov"
+    "usa.gov",
+    "/es"
   ],
   "required_links_text": [
     "accessibility",
     "freedom of information act",
     "vulnerability disclosure",
-    "usa.gov"
+    "usa.gov",
+    "español"
   ],
   "https_enforced": false,
   "hsts": true,

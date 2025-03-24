@@ -16,28 +16,29 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": null,
   "source_list": [
     "dap",
+    "omb_idea",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "completed",
+  "not_found_scan_status": "connection_reset",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "286d18662c5d65db76b2833081ee0b9f",
+  "page_hash": "9250536196cfc417d59f91e9be62c902",
   "accessibility_violations": "{\"aria\":13,\"link-purpose\":4,\"lists\":11}",
-  "pageviews": 14369,
-  "visits": 12917,
+  "pageviews": 8568,
+  "visits": 7873,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -49,13 +50,9 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "www.army.mil"
-  ],
-  "third_party_service_urls": [
-    "https://www.army.mil/e2/images/rv7/universal/army_logo_horizontal.svg"
-  ],
-  "third_party_service_count": 1,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     "anad.army.mil"
   ],

@@ -33,15 +33,17 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "800609629a159d7a180296aa9076db65",
+  "page_hash": "865b369a9e325b0361de6ce316b416be",
   "accessibility_violations": null,
-  "pageviews": 32268,
-  "visits": 27180,
+  "pageviews": 32889,
+  "visits": 27589,
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
@@ -49,7 +51,7 @@
     "agency": "DHS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-J5E7N1MF4V,G-GHG7XR2CMP,UA-32318423-1",
+  "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,G-J5E7N1MF4V,UA-32318423-1",
   "third_party_service_domains": [
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
@@ -67,7 +69,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/51f528d45d",
     "https://gov-bam.nr-data.net/events/1/51f528d45d",
-    "https://js-agent.newrelic.com/nr-spa-1.284.1.min.js",
+    "https://js-agent.newrelic.com/nr-spa-1.285.0.min.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
@@ -77,6 +79,7 @@
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.uscis.gov/libraries/fontawesome/js/all.min.js"
   ],
   "third_party_service_count": 9,

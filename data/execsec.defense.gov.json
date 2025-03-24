@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f9554d97fe7945aef3543d9f145f00e7",
+  "page_hash": "e9f47de522f35299c30653946227df93",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":1}",
-  "pageviews": 2188,
-  "visits": 1561,
+  "pageviews": 2197,
+  "visits": 1647,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -65,13 +65,16 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".defense.gov"
+    ".defense.gov",
+    ".execsec.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

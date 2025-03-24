@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5faba50e6d9f169efe1cf9a87e82c689",
+  "page_hash": "48d886055dd0a9fad0bcb0becab7de31",
   "accessibility_violations": null,
-  "pageviews": 85,
-  "visits": 37,
+  "pageviews": 106,
+  "visits": 48,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -60,19 +60,21 @@
   "ga_tag_id": "G-Q3BG15MFSR,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".usgs.gov",
     "webvastage1.er.usgs.gov"
@@ -130,7 +132,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
-    "usa-alert",
     "usa-banner",
     "usa-card",
     "usa-card-group",
@@ -140,14 +141,12 @@
     "usa-icon",
     "usa-label",
     "usa-link",
-    "usa-list",
     "usa-logo",
     "usa-menu-btn",
     "usa-nav",
     "usa-nav-link",
     "usa-navbar",
     "usa-overlay",
-    "usa-site-alert",
     "usa-skipnav"
   ],
   "uswds_banner_heres_how": true,

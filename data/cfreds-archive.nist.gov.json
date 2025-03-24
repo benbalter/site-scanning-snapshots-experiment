@@ -54,7 +54,9 @@
     "https://dap.digitalgov.gov/Universal%C2%ADFederated%C2%ADAnalytics%C2%ADMin.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nist.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "privacy",

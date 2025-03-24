@@ -30,12 +30,12 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "966d554a6eaba808cee229a9b922bd1b",
+  "page_hash": "3036c41ab620ece9201c6308f4aae4db",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
-  "hostname": "amazonaws.com",
+  "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
   "login": null,
@@ -44,13 +44,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "UA-19737398-2,G-RY5PGTVSQM",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdnjs.cloudflare.com",
     "p.typekit.net",
-    "use.typekit.net"
+    "use.typekit.net",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/ScrollTrigger.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js",
     "https://p.typekit.net/p.css",
@@ -58,10 +62,14 @@
     "https://use.typekit.net/af/0b96bf/000000000000000077359911/30/l",
     "https://use.typekit.net/af/827acf/00000000000000003b9ae8bb/27/l",
     "https://use.typekit.net/af/8367fd/0000000000000000773598ff/30/l",
-    "https://use.typekit.net/rfa6sts.css"
+    "https://use.typekit.net/rfa6sts.css",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 6,
   "cookie_domains": [
+    ".aoc.gov",
     "www.aoc.gov"
   ],
   "viewport_meta_tag": true,

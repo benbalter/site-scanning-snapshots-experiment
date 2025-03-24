@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f197649c56f05449daf22d5242e0a3ec",
+  "page_hash": "6da685bb28161454239f56890346bb68",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,10 +56,13 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".census.gov",
     "auth-dev.census.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "fear"
+  ],
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,

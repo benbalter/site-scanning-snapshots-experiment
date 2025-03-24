@@ -5,7 +5,7 @@
   "initial_base_domain": "healthit.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://chpl.healthit.gov/",
+  "url": "https://chpl.healthit.gov/#/search",
   "domain": "chpl.healthit.gov",
   "base_domain": "healthit.gov",
   "top_level_domain": "gov",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "acbf33bd9580ae3372028b4c174a8587",
+  "page_hash": "da026335b8ba7f8391e2acf1d7686265",
   "accessibility_violations": "{\"aria\":2}",
   "pageviews": null,
   "visits": null,
@@ -41,31 +41,41 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "G-8Y854Z9M6F",
   "third_party_service_domains": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".healthit.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "privacy policy",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Certified Health IT Product List (CHPL)",
+  "title": "CHPL Search",
   "description": "Certified Health IT Product List (CHPL) website",
   "keywords": null,
   "og_title": null,

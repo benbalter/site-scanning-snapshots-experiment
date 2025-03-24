@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c68166679571096063c848a08cafcbe3",
+  "page_hash": "db5c013b77fe926a4e68cc561dd235a7",
   "accessibility_violations": "{\"user-control-name\":1,\"images\":7}",
-  "pageviews": 3001,
-  "visits": 2031,
+  "pageviews": 3295,
+  "visits": 2286,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -70,9 +70,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://radar.weather.gov/ridge/standard/CONUS_loop.gif",
     "https://radar.weather.gov/ridge/standard/KLWX_loop.gif",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_0d0.png",
@@ -82,7 +80,9 @@
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
-    ".army.mil"
+    ".army.mil",
+    ".daaf-wx.army.mil",
+    "daaf-wx.army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

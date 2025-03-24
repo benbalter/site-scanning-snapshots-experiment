@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8dc1a968f454516dd6ebeddbd43ef707",
-  "accessibility_violations": null,
+  "page_hash": "8ffdd8d2e0cccb5b973f3cd74123a966",
+  "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,13 +52,16 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.lanl.gov/doe_white_seal_325.webp",
     "https://cdn.lanl.gov/optimized/lg/7d05fc1b-4306-411b-9359-b31f8ce9b39d_768.webp",
     "https://p.typekit.net/p.css",
     "https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/l",
     "https://use.typekit.net/af/ac1071/00000000000000003b9acafe/27/l",
     "https://use.typekit.net/zbj3hfy.css",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [

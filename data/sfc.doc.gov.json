@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7baf6d7b414f0bc08f35547f46181073",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
+  "page_hash": "8b8cd9a39a2ec3a343e556339b2d0ea7",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -50,7 +50,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".doc.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

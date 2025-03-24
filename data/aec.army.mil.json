@@ -18,13 +18,14 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
+    "omb_idea",
     "gov_man",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e70d764b7f2baf78b06a852443be8dd6",
+  "page_hash": "02d86234fe4142d457cda49ac5c2cd7d",
   "accessibility_violations": "{\"images\":1,\"user-control-name\":1,\"contrast\":1}",
-  "pageviews": 8070,
-  "visits": 5032,
+  "pageviews": 8710,
+  "visits": 5452,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -58,7 +59,6 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -69,14 +69,11 @@
     "https://media.defense.gov/2023/Jul/28/2003269732/740/740/0/190816-A-AQ354-1006.JPG",
     "https://media.defense.gov/2023/Jul/28/2003269736/740/740/0/181108-A-PG036-522.JPG",
     "https://media.defense.gov/2023/Jul/28/2003269738/740/740/0/211126-A-AZ289-0289.JPG",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".aec.army.mil",
     ".army.mil"

@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5ce35e6097b7d06e9d54a3e7d94d9750",
+  "page_hash": "84aac8d7b48ce29124ca1465d303719b",
   "accessibility_violations": "{\"contrast\":4,\"link-purpose\":1}",
-  "pageviews": 20118,
-  "visits": 10458,
+  "pageviews": 20117,
+  "visits": 10425,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,6 +58,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "sedwebtest.gsfc.nasa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -67,11 +68,13 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://sedwebtest.gsfc.nasa.gov/sed/images/goddardsignature2.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
+    ".gsfc.nasa.gov",
     ".nasa.gov"
   ],
   "viewport_meta_tag": true,

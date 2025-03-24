@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e02c810f37c39f3c22c89040c83934d0",
+  "page_hash": "27e4b3a17ee018c3063a5d4fc861af0f",
   "accessibility_violations": "{\"contrast\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -50,13 +50,17 @@
   "dap_version": "20160520 v3.1 - Universal Analytics",
   "ga_tag_id": "UA-33523145-1",
   "third_party_service_domains": [
+    "analytics.foresee.com",
     "f1-na.readspeaker.com",
     "f1.eu.readspeaker.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "gateway.foresee.com",
     "www.google-analytics.com",
     "www.nrc.gov"
   ],
   "third_party_service_urls": [
+    "https://analytics.foresee.com/ingest/events",
     "https://f1-na.readspeaker.com/script/7328/ReadSpeaker.Base.js",
     "https://f1-na.readspeaker.com/script/7328/ReadSpeaker.Core.js",
     "https://f1-na.readspeaker.com/script/7328/ReadSpeaker.Styles.css",
@@ -64,9 +68,17 @@
     "https://f1-na.readspeaker.com/script/7328/ReadSpeaker.lib.Facade.adapter.jquery.js",
     "https://f1-na.readspeaker.com/script/7328/ReadSpeaker.pub.Config.js",
     "https://f1.eu.readspeaker.com/graphic/default/buttons/icon_16px_black.gif",
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://gateway.foresee.com/code/19.14.6-fs/fs.compress.js",
+    "https://gateway.foresee.com/code/19.14.6-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.14.6-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.6-fs/fs.utils.js",
+    "https://gateway.foresee.com/code/19.14.6-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.14.6-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/sites/nrc-gov/production/gateway.min.js",
+    "https://gateway.foresee.com/sites/nrc-gov/production/trigger/",
+    "https://gateway.foresee.com/sites/nrc-gov/production/trigger/sitelogo.gif",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.nrc.gov/admin/css/ReadSpeakerColorSkin/ReadSpeakerColorSkin.css",
@@ -111,7 +123,7 @@
     "https://www.nrc.gov/images/navigation/go-top.gif",
     "https://www.nrc.gov/images/public-involve/public-involve-icon.jpg"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nrc.gov",
     ".video.nrc.gov"

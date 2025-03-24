@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6f04afa8c87d10dc54d3bdd81526e14f",
+  "page_hash": "0cea3022acd503ed67ebdb7e519de952",
   "accessibility_violations": "{\"link-purpose\":1,\"lists\":1}",
   "pageviews": null,
   "visits": null,
@@ -50,6 +50,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-MN6XM09QF2,G-WKFCU,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c18.akstat.io",
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "gov1.siteintercept.qualtrics.com",
     "s.go-mpulse.net",
@@ -57,23 +59,18 @@
     "zn4hihd4uoiqshmoa-usitccx.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c18.akstat.io/",
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.ff7c5abe4d46f1630fe4.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.00fb9b654703a72e1595.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.df5dcf8aaf67ccb082ce.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/WebResponsiveDialogModule.js",
     "https://s.go-mpulse.net/boomerang/SGYPV-C8A4G-WKFCU-4R2Z6-66U6D",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://zn4hihd4uoiqshmoa-usitccx.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".usitc.gov",
-    ".www.usitc.gov",
     "www.usitc.gov"
   ],
   "viewport_meta_tag": true,

@@ -18,12 +18,13 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
+    "omb_idea",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b0c6c3702038cd257da308b4dbc36384",
+  "page_hash": "96629d067c9b6acd2d58dc5f1df3c858",
   "accessibility_violations": "{\"contrast\":4}",
   "pageviews": null,
   "visits": null,
@@ -62,8 +63,7 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".dtic.mil",
-    "defenseinnovationmarketplace.dtic.mil"
+    ".dtic.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

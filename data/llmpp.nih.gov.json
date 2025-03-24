@@ -55,7 +55,9 @@
     "https://ccr.cancer.gov/sites/all/themes/ccr/js/universal-federated-analytics.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "foia",

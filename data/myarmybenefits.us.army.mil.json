@@ -18,12 +18,13 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
+    "omb_idea",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2713e41a9df3b1c6f57f9b83fdf2ba8b",
+  "page_hash": "f4366f643c5001c7ad2ca0e1b46922f2",
   "accessibility_violations": "{\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,7 +50,6 @@
   "dap_version": "",
   "ga_tag_id": "UA-4036375-1,G-EW0FMFYKFQ",
   "third_party_service_domains": [
-    "analytics.google.com",
     "connect.facebook.net",
     "s.clarity.ms",
     "www.clarity.ms",
@@ -57,17 +57,16 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://connect.facebook.net/en_US/sdk.js",
     "https://s.clarity.ms/collect",
-    "https://www.clarity.ms/s/0.8.0/clarity.js",
+    "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/hcngurcc9j",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".army.mil"
   ],

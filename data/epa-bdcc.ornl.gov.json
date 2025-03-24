@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4061ce482f2ffc0ebc42cf3fede87da7",
+  "page_hash": "434256f5c69b18bdecdca4c4d8f34faa",
   "accessibility_violations": "{\"contrast\":5,\"images\":1}",
-  "pageviews": 1540,
-  "visits": 1454,
+  "pageviews": 1589,
+  "visits": 1460,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -52,7 +52,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-UBKFL,G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
-    "68794910.akstat.io",
+    "17de4c16.akstat.io",
     "c.go-mpulse.net",
     "cdn.plot.ly",
     "cdnjs.cloudflare.com",
@@ -61,11 +61,10 @@
     "s.go-mpulse.net",
     "script.crazyegg.com",
     "www.google-analytics.com",
-    "www.googletagmanager.com",
-    "www3.epa.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://68794910.akstat.io/",
+    "https://17de4c16.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.plot.ly/plotly-latest.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/fixed-header-table/1.3.0/jquery.fixedheadertable.min.js",
@@ -76,14 +75,13 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/epa-bdcc.ornl.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/epa-bdcc.ornl.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/e4bc6ee5da01fd5511d5db8643a6ef2e.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/4e6efdfb40bb89aaad9d548f38acbfa7.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www3.epa.gov/semsjson/HQ_MasterCollection_11.json"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".epa-bdcc.ornl.gov",
     ".ornl.gov",
@@ -92,8 +90,8 @@
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "fear",
     "foia",
+    "inspector",
     "privacy",
     "usa.gov"
   ],

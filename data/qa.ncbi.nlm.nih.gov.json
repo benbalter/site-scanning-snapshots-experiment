@@ -34,8 +34,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "eb171e9a2553ee2df85fac1e9e2c3401",
   "accessibility_violations": null,
-  "pageviews": 14427,
-  "visits": 8901,
+  "pageviews": 17316,
+  "visits": 11030,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,7 +57,10 @@
     "https://www.ncbi.nlm.nih.gov/style-guide/static/django_uswds/uswds/img/angle-arrow-down-primary.svg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ncbi.nlm.nih.gov",
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "usa.gov"

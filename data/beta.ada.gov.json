@@ -30,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "60874fe23f4ec577ac7595645645bfd6",
+  "page_hash": "be88a3d0cf10007034c4d515d8d621d4",
   "accessibility_violations": null,
-  "pageviews": 198,
-  "visits": 165,
+  "pageviews": 215,
+  "visits": 173,
   "ipv6": true,
   "hostname": "cloud.gov",
   "cms": "cloud.gov Pages",
@@ -48,20 +48,24 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-XXQSTBSHEN,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
     "dap.digitalgov.gov",
     "search.usa.gov",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/3748/logo_square_logo_square_doj-logo-0d9f3d6204eb465ce5a19690eaf0958e9ccf79fc3ce6b6b3f6672e11ba793c7f2ecbbae37eeda4b532adb06f588ea0e453a849875dd09a2ca7c202b68f313418.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
+    "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/060c43e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".ada.gov"
   ],
@@ -120,6 +124,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-banner",
     "usa-button",
     "usa-button-group",

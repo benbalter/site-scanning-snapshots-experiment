@@ -33,15 +33,17 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4cede6e6460cf17db465c07b3d5dd1a1",
+  "page_hash": "16e8749eefe35ee1f39f8a15d8eea1ab",
   "accessibility_violations": null,
-  "pageviews": 40475,
-  "visits": 26275,
+  "pageviews": 42446,
+  "visits": 25551,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
@@ -63,10 +65,11 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/5070ff9fc1",
     "https://gov-bam.nr-data.net/events/1/5070ff9fc1",
-    "https://js-agent.newrelic.com/nr-spa-1.284.1.min.js",
+    "https://js-agent.newrelic.com/nr-spa-1.285.0.min.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [

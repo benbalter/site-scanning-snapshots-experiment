@@ -31,15 +31,17 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0f40b8677c2d39da4d08904d8a569548",
+  "page_hash": "a04ed6bf3c58a94f925cc7fd2a79e362",
   "accessibility_violations": "{\"contrast\":3}",
-  "pageviews": 71,
-  "visits": 31,
+  "pageviews": 68,
+  "visits": 26,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": "login.gov",
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
@@ -68,10 +70,11 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/mavenpro/v39/7Au9p_AqnyWWAxW2Wk3GzWQIElsO0w.woff2",
     "https://gov-bam.nr-data.net/1/NRBR-cca8466f9fe4089c1e1",
-    "https://js-agent.newrelic.com/nr-full-1.284.1.min.js"
+    "https://js-agent.newrelic.com/nr-full-1.285.0.min.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".nasa.gov",
     "search.hec.nasa.gov"
   ],
   "viewport_meta_tag": false,

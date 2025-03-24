@@ -19,12 +19,13 @@
   "404_test": false,
   "source_list": [
     "dap",
+    "omb_idea",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ae3c8ad54747f332f24fe7467bc07a3f",
+  "page_hash": "0dbcfbe7273dcd4d134a2f6aaf49cfec",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":8}",
-  "pageviews": 26183,
-  "visits": 13844,
+  "pageviews": 27882,
+  "visits": 15360,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -61,9 +62,7 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],

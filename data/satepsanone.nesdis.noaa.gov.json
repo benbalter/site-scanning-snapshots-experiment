@@ -36,8 +36,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "a5fbc46d36dc8042d5f5291970ac1585",
   "accessibility_violations": "{\"contrast\":6}",
-  "pageviews": 518,
-  "visits": 375,
+  "pageviews": 236,
+  "visits": 208,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -85,7 +85,9 @@
     "https://www.ospo.noaa.gov/assets/img/products/land/fireSmoke/hms.jpg"
   ],
   "third_party_service_count": 9,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

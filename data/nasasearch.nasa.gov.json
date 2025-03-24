@@ -32,15 +32,17 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c0d6b49416e10c8dba94df8e1c69b4af",
+  "page_hash": "3c87b9715841f31f1c0727d873f7864a",
   "accessibility_violations": "{\"contrast\":3}",
-  "pageviews": 3625,
-  "visits": 1769,
+  "pageviews": 4225,
+  "visits": 1913,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": "login.gov",
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
@@ -69,7 +71,7 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/mavenpro/v39/7Au9p_AqnyWWAxW2Wk3GzWQIElsO0w.woff2",
     "https://gov-bam.nr-data.net/1/NRBR-cca8466f9fe4089c1e1",
-    "https://js-agent.newrelic.com/nr-full-1.284.1.min.js"
+    "https://js-agent.newrelic.com/nr-full-1.285.0.min.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [

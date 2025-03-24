@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Fish and Wildlife Service",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites"
   ],
@@ -48,9 +48,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".fws.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": [
@@ -79,9 +77,9 @@
   "robots_txt_filesize": 1388,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": true,
+  "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://trainingcenter.fws.gov/sitemap.xml",
-  "sitemap_xml_status_code": 200,
+  "sitemap_xml_status_code": 404,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 10700,
   "sitemap_xml_count": 0,

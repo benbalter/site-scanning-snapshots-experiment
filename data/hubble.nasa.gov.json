@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fe2eee9cf489a23f453ffc5c791fc237",
+  "page_hash": "19a0ee3617af1000d5630f9d721b04bb",
   "accessibility_violations": "{\"user-control-name\":6,\"contrast\":4,\"link-purpose\":10}",
   "pageviews": null,
   "visits": null,
@@ -41,50 +41,32 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "NASA",
-    "pua": "G-3MLXXCVWWY",
-    "subagency": "=GSFC",
-    "yt": "true",
-    "dclink": "true",
-    "sp": "search,s,q",
-    "sdor": "false",
-    "exts": "tif,tiff",
-    "pga4": "G-82GWVTTXCZ"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-3MLXXCVWWY,G-82GWVTTXCZ,G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "api.parsely.com",
-    "assets.science.nasa.gov",
     "cdn.parsely.com",
-    "dap.digitalgov.gov",
     "p1.parsely.com",
     "plus.nasa.gov",
     "www.google.com",
     "www.googletagmanager.com",
-    "www.gstatic.com",
-    "www.youtube.com"
+    "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://api.parsely.com/v2/profile",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_Sh2-284_2_flat_FINAL4.jpg",
     "https://cdn.parsely.com/keys/science.nasa.gov/p.js",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://p1.parsely.com/px/",
     "https://plus.nasa.gov/wp-json/nasaplus/v1/live",
     "https://www.google.com/recaptcha/api.js",
-    "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js",
-    "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/6b3caec8/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.gstatic.com/recaptcha/releases/bUO1BXI8H9PgjAPSW9hwuSeI/recaptcha__en.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".nasa.gov",
-    ".science.nasa.gov"
+    ".science.nasa.gov",
+    "science.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -110,7 +92,7 @@
   "og_title": "Hubble Space Telescope - NASA Science",
   "og_description": "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
   "og_article_published": "2023-05-10T14:28:36.000Z",
-  "og_article_modified": "2025-03-14T11:41:36.000Z",
+  "og_article_modified": "2025-03-21T12:07:32.000Z",
   "og_image": "https://science.nasa.gov/wp-content/uploads/2023/07/hubble-space-telescope-hst-6.jpg",
   "og_type": "article",
   "og_url": "https://science.nasa.gov/mission/hubble/",

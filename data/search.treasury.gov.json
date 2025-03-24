@@ -32,15 +32,17 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f2d43951124f01c2e42b88163e67579f",
+  "page_hash": "8e691ca96633b488078bd1bb91f7c2c0",
   "accessibility_violations": "{\"contrast\":3}",
-  "pageviews": 3401480,
-  "visits": 3453886,
+  "pageviews": 3512096,
+  "visits": 3465816,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": "login.gov",
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
@@ -69,10 +71,11 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/mavenpro/v39/7Au9p_AqnyWWAxW2Wk3GzWQIElsO0w.woff2",
     "https://gov-bam.nr-data.net/1/NRBR-cca8466f9fe4089c1e1",
-    "https://js-agent.newrelic.com/nr-full-1.284.1.min.js"
+    "https://js-agent.newrelic.com/nr-full-1.285.0.min.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".treasury.gov",
     "search.treasury.gov"
   ],
   "viewport_meta_tag": false,

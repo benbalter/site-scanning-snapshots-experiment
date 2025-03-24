@@ -19,12 +19,13 @@
   "404_test": false,
   "source_list": [
     "dap",
+    "omb_idea",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "61fcdc642b8ed726ac14c2e76c37b17b",
+  "page_hash": "3adf4415dff24c7283e38586ced6780d",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "pageviews": 14321,
-  "visits": 11331,
+  "pageviews": 15014,
+  "visits": 11712,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -69,7 +70,8 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".afn.mil"
+    ".afn.mil",
+    ".pacific.afn.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

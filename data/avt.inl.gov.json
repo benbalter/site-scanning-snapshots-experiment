@@ -48,9 +48,14 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "fonts.gstatic.com"
+  ],
+  "third_party_service_urls": [
+    "https://fonts.gstatic.com/s/raleway/v22/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf",
+    "https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [

@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "85e8602ad24bef771c0ccf23f0d5951b",
+  "page_hash": "2973a6037317ecad9b6c4c2275f9d1d9",
   "accessibility_violations": null,
-  "pageviews": 2188,
-  "visits": 2236,
+  "pageviews": 2154,
+  "visits": 2201,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -53,7 +53,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "adobe-ep.healthcare.gov",
+    "adobedc.demdex.net",
     "bam.nr-data.net",
     "cdn.quantummetric.com",
     "cdn1.adoberesources.net",
@@ -64,13 +64,13 @@
     "static.chartbeat.com",
     "tags.tiqcdn.com",
     "tealium-tags.healthcare.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://adobe-ep.healthcare.gov/ee/v1/interact",
+    "https://adobedc.demdex.net/ee/v1/interact",
     "https://bam.nr-data.net/1/642335d5b5",
     "https://bam.nr-data.net/events/1/642335d5b5",
-    "https://bam.nr-data.net/resources/1/642335d5b5",
     "https://cdn.quantummetric.com/qscripts/quantum-healthcare.js",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -85,9 +85,10 @@
     "https://tags.tiqcdn.com/utag/cmsgov/healthcare-ratereview/prod/utag.9.js",
     "https://tealium-tags.healthcare.gov/healthcare-ratereview/prod/utag.js",
     "https://tealium-tags.healthcare.gov/healthcare-ratereview/prod/utag.sync.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".healthcare.gov",
     "ratereview.healthcare.gov"

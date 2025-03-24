@@ -5,7 +5,7 @@
   "initial_base_domain": "usda.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.cert.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-c2a90858-a978-45c9-8edf-930617479a6d&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-7wj1oWxJJ%2F0iQA1FFWPxb4vZBbj%2BliLwTMkUtVNUsXUz%2FVxnEjTQioaT6Gc31Ro3%2F%2B5oO8N9hEDbNyV7j56P68DgG9BizdQrcuAQ23UXZQ6LjOJ8xVP2hgIwzAPGkpfA&TARGET=-SM-https:%2F%2Feper.cert.sc.egov.usda.gov%2FePER%2Fspring%2FAppHomeFlow",
+  "url": "https://www.cert.eauth.usda.gov/eauth/b/usda/login?TRYIWA=TRUE&TYPE=33554433&REALMOID=06-c2a90858-a978-45c9-8edf-930617479a6d&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-ROmOivolCDi84V3fX9sWxEAXNiBztzx5Sw0zUXk0Hv1L%2BI2kPhmTSfL7DOOaKM99Ocx4wUDif%2BYRSK%2F2VinUfc3ZaBMlg9Y35wzbiASa4jw5bnC71rg2Qxip1jj4Wl%2Bm&TARGET=-SM-https:%2F%2Feper.cert.sc.egov.usda.gov%2FePER%2Fspring%2FAppHomeFlow",
   "domain": "www.cert.eauth.usda.gov",
   "base_domain": "usda.gov",
   "top_level_domain": "gov",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cd1d924a80710c218af1afe5271d9329",
+  "page_hash": "13cef4dc685a4316331dd978a35c7304",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,12 +50,12 @@
     "nocapi.api.cert.eauth.usda.gov"
   ],
   "third_party_service_urls": [
-    "https://browser-intake-ddog-gov.com/api/v2/replay",
     "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://nocapi.api.cert.eauth.usda.gov/iab/enterprise/cms/appMessage/login"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".usda.gov",
     "www.cert.eauth.usda.gov"
   ],
   "viewport_meta_tag": true,

@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "590672699c9f7f47e55de6584f72ee1f",
+  "page_hash": "2169ebb34f9356db085a0ef4ac55cfe5",
   "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -96,7 +96,9 @@
     "https://va.connect.irs.gov/egain/va/v1/assistant/launchImage/jobsenprod"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".irs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0a1d055f3c0295f7f1f102ffda5935b2",
+  "page_hash": "fe6ac08311671e5dbfae14207cfe1a29",
   "accessibility_violations": "{\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -46,7 +46,6 @@
   "dap_version": "",
   "ga_tag_id": "G-14FWB8WM1B",
   "third_party_service_domains": [
-    "browser-intake-ddog-gov.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "js.arcgis.com",
@@ -54,12 +53,10 @@
     "services.arcgisonline.com",
     "services3.arcgis.com",
     "static.arcgis.com",
-    "www.datadoghq-browser-agent.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://browser-intake-ddog-gov.com/api/v2/replay",
-    "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
@@ -81,13 +78,12 @@
     "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tilemap/4/0/0/8/8",
     "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Interagency_Perimeters_YearToDate/FeatureServer/0",
     "https://static.arcgis.com/attribution/World_Topo_Map",
-    "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
-    ".wildfire.gov",
-    "inciweb.wildfire.gov"
+    ".wildfire.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -105,8 +101,8 @@
   "og_article_modified": null,
   "og_image": null,
   "og_type": "Website",
-  "og_url": "http://inciweb.wildfire.gov/home",
-  "canonical_link": "http://inciweb.wildfire.gov/",
+  "og_url": "http://172.18.15.51/home",
+  "canonical_link": "http://172.18.15.51/",
   "language": "en",
   "language_link": "",
   "main_element_present": true,
@@ -123,9 +119,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 824,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-14T23:14:35.000Z",
+  "sitemap_xml_lastmod": "2025-03-20T23:45:16.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "7db8dcb886cac4d9cca3691bcbcd760b",
+  "sitemap_xml_page_hash": "c33d5b531afe3a17753cc310a436444f",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

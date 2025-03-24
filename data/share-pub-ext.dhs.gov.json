@@ -16,7 +16,7 @@
   "agency": "Department of Homeland Security",
   "bureau": "Headquarters",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -24,7 +24,7 @@
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "connection_reset",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
@@ -49,6 +49,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".dhs.gov",
     "share-pub-ext.dhs.gov"
   ],
   "viewport_meta_tag": false,

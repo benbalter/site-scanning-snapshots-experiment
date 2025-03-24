@@ -36,8 +36,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "9592bb4fb4442a9a18c98997a3958c0f",
   "accessibility_violations": "{\"link-purpose\":1}",
-  "pageviews": 8362,
-  "visits": 3385,
+  "pageviews": 8370,
+  "visits": 3391,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,7 +57,10 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".gsfc.nasa.gov",
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

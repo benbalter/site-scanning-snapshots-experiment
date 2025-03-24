@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "USDA, ARS, NAL",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": true,
   "source_list": [
     "gov",
     "dap",
@@ -30,16 +30,16 @@
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "ec5f9e7e7654c416ed478cd0623e6cc9",
+  "page_hash": "d5f61f5d794bc9b2026e8200b72bf70d",
   "accessibility_violations": null,
-  "pageviews": 5954,
-  "visits": 521,
+  "pageviews": 4940,
+  "visits": 518,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -56,16 +56,14 @@
   "ga_tag_id": "G-CEZFQX8YVW,G-CSLL4ZEK4L,G-ER98FFN75C",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com",
-    "www.nal.usda.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.nal.usda.gov/csp-collector/index.php"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".itap.gov"
   ],
@@ -110,9 +108,9 @@
   "sitemap_xml_url": "https://www.itap.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 0,
+  "sitemap_xml_filesize": 1110,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": null,
+  "sitemap_xml_lastmod": "2024-12-16T16:01:00.000Z",
   "sitemap_xml_pdf_count": 0,
   "sitemap_xml_page_hash": "3df1fd5bd4ed3d791fc7fb903451c885",
   "uswds_favicon": 20,

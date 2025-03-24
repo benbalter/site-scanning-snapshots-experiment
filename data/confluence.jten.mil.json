@@ -5,7 +5,7 @@
   "initial_base_domain": "jten.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://jtp-sso.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fconfluence.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=Q9qjjnYU4G9sXw5xHT_GpcLrUH33N0uFWn-PLh2shnY&nonce=9UQAefCWvHjaSt260wEmPIp-S7oB3jU9roUIdufCUuY&client_id=confluence_prod",
+  "url": "https://jtp-sso.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fconfluence.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=WfnvzFC_LdV6Lqj9Wwc1ew3C-54SC4Oi7yFq1hUUeMA&nonce=GYFOOqLxLNj5xyj7fjAysgpjNhBLssazyRBOafXxqCA&client_id=confluence_prod",
   "domain": "jtp-sso.jten.mil",
   "base_domain": "jten.mil",
   "top_level_domain": "mil",
@@ -18,7 +18,10 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "dod_public"
+    "omb_idea",
+    "other",
+    "dod_public",
+    "dod_2025"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "976182fb07fb461fc9e8ca69e39cf610",
+  "page_hash": "efd51b6466287044edf2b50fe6003b8f",
   "accessibility_violations": "{\"language\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +55,7 @@
     "confluence.jten.mil"
   ],
   "third_party_service_urls": [
-    "https://confluence.jten.mil/s/bn49qh/9109/11t38rk/5.1.15/_/download/resources/com.atlassian.plugins.authentication.atlassian-authentication-plugin:save-fragment/js.cookie.js"
+    "https://confluence.jten.mil/s/frce4n/9109/11t38rk/5.1.15/_/download/resources/com.atlassian.plugins.authentication.atlassian-authentication-plugin:save-fragment/js.cookie.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -78,14 +81,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://jtp-sso.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fconfluence.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=SnT-4OU5hOV5Rze3oH9YBHhAANN2TxhmEdr9Q5_lZGo&nonce=zLhYDdiLK7YelpP7V8-yMdLprJVvrotB0swV43ia1SU&client_id=confluence_prod",
+  "robots_txt_url": "https://jtp-sso.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fconfluence.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=jcKE-3btBnQN1p-QVf6jgP_Vpk8nLvXqZtgDIYBSCbk&nonce=GidGbxbPBVAZFqcUczC7-oMJZWSKR5DIF-CaZ5igy6w&client_id=confluence_prod",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://jtp-sso.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fconfluence.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=11Z1TXyB2FNA47Ry1XgaIAFGLKE9U0hFWTmsPGGSjKw&nonce=mHUuVEsti8UA02JYUtOlBkl_KWpXfG5_ruwoks1KgV0&client_id=confluence_prod",
+  "sitemap_xml_url": "https://jtp-sso.jten.mil/auth/realms/jtt/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fconfluence.jten.mil%2Fplugins%2Fservlet%2Foidc%2Fcallback&state=o9wmWhF94ayYvpOKgI2a26Qt6WBSyxzxICT65oZXWuY&nonce=a5xAakJG_nZ4KD3k3hzyW-gs41y-uNOQJvdkMjTM7gA&client_id=confluence_prod",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

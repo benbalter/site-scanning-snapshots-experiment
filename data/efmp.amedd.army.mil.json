@@ -19,12 +19,13 @@
   "404_test": false,
   "source_list": [
     "dap",
+    "omb_idea",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "907c640c734ab8de9dcc095142ed1ba7",
+  "page_hash": "387315b682c0578457974fa6524f9920",
   "accessibility_violations": null,
-  "pageviews": 11303,
-  "visits": 4606,
+  "pageviews": 12283,
+  "visits": 5307,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -63,14 +64,15 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".army.mil",
-    ".efmp.amedd.army.mil"
+    ".army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

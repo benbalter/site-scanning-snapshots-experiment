@@ -5,13 +5,13 @@
   "initial_base_domain": "ffiec.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://geomap.ffiec.gov/",
+  "url": "https://geomap.ffiec.gov/ffiecgeomap/",
   "domain": "geomap.ffiec.gov",
   "base_domain": "ffiec.gov",
   "top_level_domain": "gov",
-  "live": false,
+  "live": true,
   "filter": false,
-  "status_code": 403,
+  "status_code": 200,
   "media_type": "text/html",
   "agency": "Federal Reserve Board of Governors",
   "bureau": "Federal Financial Institutions Examination Council ",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "234caa6f0048975cc42b96efe8fe15c2",
+  "page_hash": "d5e607e7be9b1426905f1bfa177cd5f4",
   "accessibility_violations": "{\"contrast\":8,\"auto-updating\":1}",
   "pageviews": null,
   "visits": null,
@@ -46,17 +46,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-kgTgKaWOUi,G-TdaAV4KBB4UU3gD,G-BeFaCU,G-EjG4Z6KUkMjFy9Y,G-gMGfUVU,G-PmLoGTgESPD5UcL,G-k40LlyG1Lm6dLJU,G-LpJF0,G-ErYMUVcLMU",
+  "ga_tag_id": "G-yOquAc,G-vvbYolo2,G-CLk59mL8yDoA,G-LNBBATJqD8uTIy",
   "third_party_service_domains": [
-    "challenges.cloudflare.com"
+    "js.arcgis.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/920c5478ce755ed2/1742045055064/bVmK0Tgo5apSlws",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/335837684:1742041647:Jdimwy7ytZvNBIfHDXrYsS9plebO8DsSjZhSeBqZh-c/920c5478ce755ed2/SBMZq0QYijMlHb0MFCb52uIlNGG5AzMhWapJYxY2YaU-1742045054-1.1.1.1-LLn32RnB1M8JNhdBrUNHEkKkrlzqGA_xzAXDx.bWtKWmeb3X1i6qv_q3J8ZxlAVH",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/920c5478ce755ed2/1742045055068/e81474157a20be02c5def3f38dc2f2a1a74ec89f16b37f34c7ce9ce5aabe3c1e/meNRP5WiDSAUQ6y",
-    "https://challenges.cloudflare.com/turnstile/v0/g/f3b948d8acb8/api.js"
+    "https://js.arcgis.com/4.24/",
+    "https://js.arcgis.com/4.24/dijit/themes/tundra/tundra.css",
+    "https://js.arcgis.com/4.24/esri/themes/base/fonts/fonts/014f2daa-c310-4a36-b9fd-79a8e0c48d44.woff2",
+    "https://js.arcgis.com/4.24/esri/themes/base/fonts/fonts/77caabd3-1877-4634-85c8-8e398a093b99.woff2",
+    "https://js.arcgis.com/4.24/esri/themes/light/main.css",
+    "https://js.arcgis.com/4.24/init.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -65,17 +65,14 @@
   ],
   "viewport_meta_tag": false,
   "required_links_url": [
-    "about",
-    "foia",
     "privacy"
   ],
   "required_links_text": [
-    "freedom of information act",
     "privacy policy"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Just a moment...",
+  "title": "FRB Census Geocoder",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -86,7 +83,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": null,
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

@@ -18,13 +18,14 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
+    "omb_idea",
     "2020_eot",
     "other",
     "dod_public",
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
+  "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +35,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "dfc798c350c6479255bddc633ef22396",
+  "page_hash": "1e1699ee766b3d7d60226db21d437d17",
   "accessibility_violations": "{\"images\":2,\"lists\":1,\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -50,27 +51,17 @@
   "dap_version": "",
   "ga_tag_id": "G-VHY6K",
   "third_party_service_domains": [
-    "17de4c14.akstat.io",
-    "52-222-122-97_s-23-32-75-13_ts-1742097461-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
-    "gtphuyixekwdwz6wjq2a-p33n0f-283114c8e-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net",
     "webanalytics.nga.mil"
   ],
   "third_party_service_urls": [
-    "https://17de4c14.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-13_ts-1742097461-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuyixekwdwz6wjq2a-p33n0f-283114c8e-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/389GD-DD3NL-8DJLZ-Q2A8G-VHY6K",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://webanalytics.nga.mil/matomo.js",
     "https://webanalytics.nga.mil/matomo.php"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".dnc.nga.mil",
     ".nga.mil",

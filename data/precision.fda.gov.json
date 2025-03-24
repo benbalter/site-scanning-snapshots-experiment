@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6a93d70b4fea8a8a77025d1e6e3594f0",
-  "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "page_hash": "907792ffe31b2721fe7189121c41fdcb",
+  "accessibility_violations": "{\"aria\":2,\"contrast\":5,\"images\":3,\"link-purpose\":4,\"keyboard-access\":1}",
+  "pageviews": 612,
+  "visits": 321,
   "ipv6": true,
   "hostname": "awsglobalaccelerator.com",
   "cms": null,
@@ -44,15 +44,23 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS",
+    "subagency": "FDA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "dl.dnanex.us",
-    "fonts.googleapis.com"
+    "fonts.googleapis.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://dl.dnanex.us/F/D/0Gky0jfQqk1VZ7Gb5f9v2086j3KykPp1b4pP3f6j/Adam_Resnick_PhD_D3bCenter_Headshot%20(002).jpg",
     "https://dl.dnanex.us/F/D/23vzxqk7VQ6FbgBzzKqQYx3vy54xBY0bjFJzKxKQ/georgetown_university.png",
     "https://dl.dnanex.us/F/D/7Z44jKYfp633Pvv2xk5X0Zvq2Gb297xQGqbKYqkJ/george_washington_university.png",
@@ -67,10 +75,13 @@
     "https://dl.dnanex.us/F/D/qkVzZgg7vfyG2xg7v04yjyZfQ6JZPJKkKpf6JpyG/miodx.png",
     "https://dl.dnanex.us/F/D/zQ6qqB7xBj0X8BJFxgq9k2pG7617GjBx6vG0q2fv/nci.png",
     "https://dl.dnanex.us/F/D/zkbz5p7QZvxQz887bJYqjQ4j6yz0VGx6XgGVP8Jp/DNAnexus_logo_2018_BLACK_300dpi.png",
-    "https://fonts.googleapis.com/css"
+    "https://fonts.googleapis.com/css",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 5,
   "cookie_domains": [
+    ".fda.gov",
     "precision.fda.gov"
   ],
   "viewport_meta_tag": true,

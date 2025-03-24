@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "780ab9c7cd9815ac07f9d0ec5b51a150",
+  "page_hash": "f40a0324ae124b2957c25f747711f899",
   "accessibility_violations": "{\"contrast\":7,\"lists\":2}",
   "pageviews": null,
   "visits": null,
@@ -52,11 +52,18 @@
   "ga_tag_id": "G-DP2X732JSX,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "siteintercept.qualtrics.com",
     "static.pubmed.gov",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://siteintercept.qualtrics.com/dxjsmodule/1.ff7c5abe4d46f1630fe4.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/5.00fb9b654703a72e1595.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/8.df5dcf8aaf67ccb082ce.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/css/3411343/3882866.css",
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/css/3852956/3985586/3808861/4121862/3974050/3917732/251717/4216701/14534/45193/4113719/3849091/3984811/3751656/4033350/3840896/3577051/3852958/4008682/4207974/4206132/4062871/12930/3964959/3854974/36029/4128070/9685/3549676/3609192/3609193/3609213/3395586.css",
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/img/2375536",
@@ -65,9 +72,10 @@
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/img/3961366",
     "https://static.pubmed.gov/portal/portal3rc.fcgi/4216699/js/3879255/4121861/3501987/4008961/3893018/3821238/4062932/4209313/4212053/4076480/3921943/3400083/3426610.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".ncbi.nlm.nih.gov",
     ".nih.gov",
