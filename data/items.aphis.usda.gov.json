@@ -16,15 +16,15 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse"
   ],
   "public": null,
   "primary_scan_status": "connection_reset",
-  "accessibility_scan_status": "connection_reset",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "connection_reset",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "connection_reset",
   "robots_txt_scan_status": "connection_reset",
   "security_scan_status": "completed",
@@ -48,7 +48,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,
@@ -90,6 +92,7 @@
   "uswds_inpage_css": null,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": null,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": null,
   "uswds_string": null,
   "uswds_string_in_css": null,

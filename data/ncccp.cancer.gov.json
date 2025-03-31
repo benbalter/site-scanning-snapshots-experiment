@@ -16,21 +16,21 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Cancer Institute, NIH",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "dns_resolution_error",
-  "performance_scan_status": "dns_resolution_error",
+  "not_found_scan_status": "completed",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0b0a4d9bae2ba5099cd0535b910bb709",
+  "page_hash": "3e1d773a7790dc4e302b394b89522364",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -62,7 +62,7 @@
     "https://connect.facebook.net/en_US/sdk.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s31081736697727",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s9331916705753",
     "https://platform.twitter.com/widgets.js",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/sampling/ncorp.cancer.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0076/4407/site/ncorp.cancer.gov.json",
@@ -73,7 +73,8 @@
     "https://static.cancer.gov/webanalytics/WA_NCORP_pre.js",
     "https://static.cancer.gov/webanalytics/s_code.js",
     "https://syndication.twitter.com/settings",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -133,6 +134,7 @@
     "usa-icon"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 10,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

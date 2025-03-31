@@ -16,25 +16,25 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Office of the Secretary",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "dns_resolution_error",
-  "performance_scan_status": "dns_resolution_error",
+  "not_found_scan_status": "completed",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6d0920226bfa0295e4e509b86f42ea21",
+  "page_hash": "a16187543627a40456434d0dade3def6",
   "accessibility_violations": null,
-  "pageviews": 100,
-  "visits": 40,
+  "pageviews": 98,
+  "visits": 38,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -66,7 +66,6 @@
   "third_party_service_domains": [
     "analytics.google.com",
     "dap.digitalgov.gov",
-    "stats.g.doubleclick.net",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
@@ -75,7 +74,6 @@
     "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://stats.g.doubleclick.net/g/collect",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
@@ -84,9 +82,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".hhs.gov",
     ".stage-api.digitalmedia.hhs.gov"
@@ -144,6 +142,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

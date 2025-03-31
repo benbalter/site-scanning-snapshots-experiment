@@ -23,7 +23,7 @@
   ],
   "public": false,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f02d819d0dfe9d1b2f848152941b7f47",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":6,\"language\":1}",
-  "pageviews": 132,
-  "visits": 46,
+  "page_hash": "27983dcfce09f575619ab193a428e22a",
+  "accessibility_violations": null,
+  "pageviews": 121,
+  "visits": 43,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,8 +57,7 @@
     "search.usa.gov",
     "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
-    "www.googletagmanager.com",
-    "www.ospo.noaa.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
@@ -76,14 +75,9 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/img/usa-icons/unfold_more.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/df7e5897.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.ospo.noaa.gov/assets/img/heros/hp_fire_season_dec.jpg",
-    "https://www.ospo.noaa.gov/assets/img/heros/hp_hurricane_dec.jpg",
-    "https://www.ospo.noaa.gov/assets/img/heros/hp_melting_ice.jpg",
-    "https://www.ospo.noaa.gov/assets/img/heros/hp_volcano_dec.jpg",
-    "https://www.ospo.noaa.gov/assets/img/heros/hp_winter_satellite.jpg"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -137,7 +131,7 @@
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
-  "uswds_inpage_css": 0,
+  "uswds_inpage_css": 3,
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-banner",
@@ -163,12 +157,13 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 70,
   "uswds_string": 2,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.3.0",
   "uswds_version": 100,
-  "uswds_count": 212,
+  "uswds_count": 215,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

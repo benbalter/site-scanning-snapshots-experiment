@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a1b9f0777a11a700cdf9f8961a0fdbc1",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":5,\"lists\":1}",
-  "pageviews": 227065,
-  "visits": 157013,
+  "page_hash": "4339651f9ac3a01cd1dff518b53b7c24",
+  "accessibility_violations": null,
+  "pageviews": 212258,
+  "visits": 147917,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -52,7 +52,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-30742211-1,UA-22995010-2,G-HHV5NS5ZK6,G-RH13VY8T2N,UA-30736178-3",
   "third_party_service_domains": [
-    "app.enzuzo.com",
     "cdn-3.convertexperiments.com",
     "cdnjs.cloudflare.com",
     "code.jquery.com",
@@ -69,8 +68,6 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://app.enzuzo.com/api/public/v1/analytics/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
-    "https://app.enzuzo.com/scripts/cookiebar/8fc0fdfe-c6dd-11ee-86f8-63163894cd91",
     "https://cdn-3.convertexperiments.com/js/10014524-10015207.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js",
     "https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",
@@ -98,9 +95,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".ru.usembassy.gov",
     ".usembassy.gov",
@@ -111,8 +108,7 @@
     "privacy"
   ],
   "required_links_text": [
-    "accessibility",
-    "privacy policy"
+    "accessibility"
   ],
   "https_enforced": true,
   "hsts": true,
@@ -154,6 +150,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

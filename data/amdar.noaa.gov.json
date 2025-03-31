@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "18a98e1849d04a225d7f8a06a67634b5",
-  "accessibility_violations": "{\"contrast\":1,\"lists\":6,\"images\":1}",
+  "page_hash": "439932ca350574f7c9a2bce0992fe49e",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,27 +49,17 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c11.akstat.io",
-    "52-222-122-97_s-23-43-82-17_ts-1742699655-clienttons-s.akamaihd.net",
+    "17de4c18.akstat.io",
     "c.go-mpulse.net",
-    "gtphuylimsueuz67psdq-pvqwj0-d310d2756-clientnsv4-s.akamaihd.net",
-    "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net"
+    "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c11.akstat.io/",
-    "https://52-222-122-97_s-23-43-82-17_ts-1742699655-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c18.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuylimsueuz67psdq-pvqwj0-d310d2756-clientnsv4-s.akamaihd.net/eum/results.txt",
-    "https://s.go-mpulse.net/boomerang/CLEH4-7DJ8R-HSGHS-JJSLX-LH45D",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
+    "https://s.go-mpulse.net/boomerang/CLEH4-7DJ8R-HSGHS-JJSLX-LH45D"
   ],
-  "third_party_service_count": 7,
-  "cookie_domains": [
-    ".noaa.gov"
-  ],
+  "third_party_service_count": 3,
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",
@@ -121,6 +111,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

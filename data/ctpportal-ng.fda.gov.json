@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "be8b2fa776f1cbe428bda86a924a88c7",
+  "page_hash": "41118eb3648f76f1e702234e20abfb95",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/2.11.2/css/uswds.min.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fda.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
@@ -104,6 +106,7 @@
     "usa-footer"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 25,
   "uswds_string": 2,
   "uswds_string_in_css": 20,

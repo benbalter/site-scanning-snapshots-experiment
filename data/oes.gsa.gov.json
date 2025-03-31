@@ -16,7 +16,7 @@
   "agency": "General Services Administration",
   "bureau": "GSA, IDI, ECAS II",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -35,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "1b50386da3918685a10c5000d21648c1",
-  "accessibility_violations": "{\"page-titled\":1}",
-  "pageviews": 4607,
-  "visits": 2799,
+  "accessibility_violations": null,
+  "pageviews": 4482,
+  "visits": 2758,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "cloud.gov Pages",
@@ -72,13 +72,11 @@
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".gsa.gov",
-    ".oes.gsa.gov"
+    ".gsa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -158,6 +156,7 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 50,
   "uswds_string": 7,
   "uswds_string_in_css": 20,

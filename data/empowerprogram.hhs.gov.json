@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7b58897d6c2ba2e48236af656aafcb7c",
+  "page_hash": "14468256f70a0cfa9e082017180cfc5a",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,37 +47,33 @@
   "dap_version": "",
   "ga_tag_id": "G-8XG38W3PE4",
   "third_party_service_domains": [
-    "aspr.hhs.gov",
     "ka-f.fontawesome.com",
     "kit.fontawesome.com",
     "www.googletagmanager.com",
-    "www.hhs.gov",
-    "www.phe.gov"
+    "www.hhs.gov"
   ],
   "third_party_service_urls": [
-    "https://aspr.hhs.gov/Pages/Home.aspx",
     "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-font-face.min.css",
     "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-shims.min.css",
     "https://ka-f.fontawesome.com/releases/v5.15.4/css/free.min.css",
     "https://kit.fontawesome.com/e701cb4bd8.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.hhs.gov/utilities/cbh/images/logo.png",
-    "https://www.phe.gov/Style%20Library/phe.hhs.gov/Images/PHEgovLogo.png"
+    "https://www.hhs.gov/utilities/cbh/images/logo.png"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".hhs.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "privacy",
-    "usa.gov"
+    "foia",
+    "privacy"
   ],
   "required_links_text": [
     "accessibility",
-    "vulnerability disclosure",
-    "usa.gov"
+    "foia",
+    "vulnerability disclosure"
   ],
   "https_enforced": true,
   "hsts": true,
@@ -131,6 +127,7 @@
     "usa-section"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 35,
   "uswds_string": 1,
   "uswds_string_in_css": 20,

@@ -26,12 +26,12 @@
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
-  "robots_txt_scan_status": "unknown_error",
+  "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "59584a7eb8b30d2e905aa5c14239aabf",
-  "accessibility_violations": "{\"page-titled\":1,\"language\":1,\"images\":2}",
+  "page_hash": "00a8cfcedfe2dc08c8ecbfa00c189b46",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -46,10 +46,10 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "3102029736shutdown.relay.webvpn."
+    "2224037424shutdown.relay.webvpn."
   ],
   "third_party_service_urls": [
-    "https://3102029736shutdown.relay.webvpn./nonexistent.js"
+    "https://2224037424shutdown.relay.webvpn./nonexistent.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
@@ -74,10 +74,10 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": null,
-  "robots_txt_url": null,
-  "robots_txt_status_code": null,
-  "robots_txt_media_type": null,
+  "robots_txt_detected": false,
+  "robots_txt_url": "https://wvpn-svc-w2.fda.gov/robots.txt",
+  "robots_txt_status_code": 404,
+  "robots_txt_media_type": "unknown",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
@@ -96,6 +96,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

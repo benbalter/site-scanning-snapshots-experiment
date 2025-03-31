@@ -30,12 +30,12 @@
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
-  "robots_txt_scan_status": "unknown_error",
+  "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f4366f643c5001c7ad2ca0e1b46922f2",
-  "accessibility_violations": "{\"form-names\":1}",
+  "page_hash": "b9769ede4c2f3097ae8681d015e421bc",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -50,6 +50,7 @@
   "dap_version": "",
   "ga_tag_id": "UA-4036375-1,G-EW0FMFYKFQ",
   "third_party_service_domains": [
+    "analytics.google.com",
     "connect.facebook.net",
     "s.clarity.ms",
     "www.clarity.ms",
@@ -57,6 +58,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://connect.facebook.net/en_US/sdk.js",
     "https://s.clarity.ms/collect",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
@@ -66,7 +68,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".army.mil"
   ],
@@ -93,10 +95,10 @@
   "language": "en-us",
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": null,
-  "robots_txt_url": null,
-  "robots_txt_status_code": null,
-  "robots_txt_media_type": null,
+  "robots_txt_detected": false,
+  "robots_txt_url": "https://myarmybenefits.us.army.mil/robots.txt",
+  "robots_txt_status_code": 404,
+  "robots_txt_media_type": "unknown",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
@@ -115,6 +117,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

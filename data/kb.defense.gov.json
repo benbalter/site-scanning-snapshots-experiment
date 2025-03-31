@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7117bc39f5a08f719fbe7cae304cd65f",
+  "page_hash": "beb302bdc3120e0fa0deb7371b68c9fd",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,7 +50,7 @@
     "pga4": "G-SB6KFHKWNW"
   },
   "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-SB6KFHKWNW,G-CSLL4ZEK4L,G-owVFmiIaCpqF3Du,G-V6HH94SsBavw9ed,G-So34YfNkxxJ8HF7,G-ljqUMIzbQJg1GKc,G-S1duUHELNLlfAbz",
+  "ga_tag_id": "G-SB6KFHKWNW,G-CSLL4ZEK4L,G-4Zivqpl4YAj02Ma",
   "third_party_service_domains": [
     "analytics.google.com",
     "api.dvidshub.net",
@@ -84,12 +84,14 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/bUO1BXI8H9PgjAPSW9hwuSeI/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/bUO1BXI8H9PgjAPSW9hwuSeI/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
-    ".defense.gov"
+    ".defense.gov",
+    ".www.defense.gov",
+    "www.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -145,6 +147,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

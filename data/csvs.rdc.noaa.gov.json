@@ -22,15 +22,15 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "execution_context_destroyed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "291577923bd7655a127face0040b5a23",
+  "page_hash": "a350a4ea213c17efe4fb182f8e9a750c",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -59,6 +59,7 @@
     "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.corporateservices.noaa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -97,10 +98,11 @@
     "https://www.corporateservices.noaa.gov/noaa-web/images/mid_nav_bullet.png",
     "https://www.corporateservices.noaa.gov/noaa-web/images/search_submit.png",
     "https://www.corporateservices.noaa.gov/noaa-web/images/weather_submit.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -167,6 +169,7 @@
     "usa-skipnav"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 45,
   "uswds_string": 40,
   "uswds_string_in_css": 20,

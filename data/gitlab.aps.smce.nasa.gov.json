@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "680ec3f66bda392234f2daf5f977d12f",
+  "page_hash": "eb031fed8f09f62743aeb887ed64b96f",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,9 +45,13 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "smce-gitlab.s3.us-west-2.amazonaws.com"
+  ],
+  "third_party_service_urls": [
+    "https://smce-gitlab.s3.us-west-2.amazonaws.com/uploads/appearance/logo/1/NASA_logo.svg"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".nasa.gov",
     "gitlab.aps.smce.nasa.gov"
@@ -95,6 +99,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

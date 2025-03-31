@@ -5,7 +5,7 @@
   "initial_base_domain": "census.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://id-provider.tco.census.gov/nidp/app/login?id=3&sid=6&option=credential&sid=6",
+  "url": "https://id-provider.tco.census.gov/nidp/app/login?id=3&sid=2&option=credential&sid=2",
   "domain": "id-provider.tco.census.gov",
   "base_domain": "census.gov",
   "top_level_domain": "gov",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f505a42290240af01f802e8431648cf9",
+  "page_hash": "63c4bdb80ddb05c525e557dc6e1e2f78",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -42,6 +42,7 @@
   "login_provider": null,
   "login": [
     "\"password\"",
+    ">Forgot Password</a>",
     ">Sign In<",
     "type=\"password\""
   ],
@@ -55,7 +56,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".census.gov",
     ".id-provider.tco.census.gov",
     "id-provider.tco.census.gov"
   ],
@@ -74,7 +74,7 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Embargo.Data.Census.gov Login",
+  "title": "U.S. Census Bureau C-Pass Login",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -113,6 +113,7 @@
     "usa-banner"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 20,
   "uswds_string": 9,
   "uswds_string_in_css": 20,

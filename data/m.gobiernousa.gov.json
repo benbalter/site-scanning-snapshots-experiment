@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d90a0cd681edc92f9e1fbcaa0038caa0",
+  "page_hash": "1233cb6be027675e2ab916473bf77381",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -51,6 +51,7 @@
   "third_party_service_domains": [
     "51567.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
+    "gov1.siteintercept.qualtrics.com",
     "script.crazyegg.com",
     "search.usa.gov",
     "siteimproveanalytics.com",
@@ -60,6 +61,9 @@
   "third_party_service_urls": [
     "https://51567.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/sampling/www.usa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0007/9651/site/www.usa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0007/9651.js",
@@ -73,7 +77,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://znbabnroqffo1d7xq-cemgsa.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".usa.gov",
     "www.usa.gov"
@@ -154,6 +158,7 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 65,
   "uswds_string": 2,
   "uswds_string_in_css": 20,

@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "bec3e1af115fed800c7aa98b89feaf49",
-  "accessibility_violations": "{\"form-names\":1}",
+  "page_hash": "c4746332a08a66dadb8cd07abb678ade",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -47,13 +47,12 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-H8YYPQ6D00",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "browser-intake-ddog-gov.com",
     "fonts.googleapis.com",
     "wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com",
-    "www.datadoghq-browser-agent.com",
-    "www.googletagmanager.com"
+    "www.datadoghq-browser-agent.com"
   ],
   "third_party_service_urls": [
     "https://browser-intake-ddog-gov.com/api/v2/replay",
@@ -68,12 +67,10 @@
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/incident-management-icon.png",
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/open-data-icon.png",
     "https://wildfireweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/styles/large/public/2022-09/resource-management-icon.png",
-    "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
-    ".wildfire.gov",
     "www.wildfire.gov"
   ],
   "viewport_meta_tag": true,
@@ -113,11 +110,11 @@
   "sitemap_xml_url": "https://www.wildfire.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 52568,
+  "sitemap_xml_filesize": 53426,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-21T20:37:42.000Z",
+  "sitemap_xml_lastmod": "2025-03-28T20:48:23.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "54facb1644523a571dc98965fb78ae64",
+  "sitemap_xml_page_hash": "3f44a5ad6646566f52328062310c5d46",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -145,6 +142,7 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 65,
   "uswds_string": 17,
   "uswds_string_in_css": 20,

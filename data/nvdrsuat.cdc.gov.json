@@ -5,7 +5,7 @@
   "initial_base_domain": "cdc.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.cdc.gov/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-ea7c0537-1b13-4a2d-9e88-3342476fcb71&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=SecureProxyServerAgent&TARGET=-SM-HTTPS%3a%2f%2ftrust%2ecdc%2egov%2faffwebservices%2fredirectjsp%2fredirect%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Ftrust%2ecdc%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d54c809dd--d8ca2730--f3942dd5--63db5d39--9fc94827--4",
+  "url": "https://auth.cdc.gov/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-ea7c0537-1b13-4a2d-9e88-3342476fcb71&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=SecureProxyServerAgent&TARGET=-SM-HTTPS%3a%2f%2ftrust%2ecdc%2egov%2faffwebservices%2fredirectjsp%2fredirect%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Ftrust%2ecdc%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d1fe72e07--bb29bfe4--72163d23--904571d0--764ae454--47",
   "domain": "auth.cdc.gov",
   "base_domain": "cdc.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "00b2e35420b82b34b17a557bc0d94a8a",
+  "page_hash": "a3d9c5d68bc92fc451721a8bc4633520",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -62,7 +62,7 @@
   ],
   "third_party_service_urls": [
     "https://apigw.cdc.gov/favicon.ico",
-    "https://cdc.112.2o7.net/b/ss/devcdc/1/H.21/s27747341726562",
+    "https://cdc.112.2o7.net/b/ss/devcdc/1/H.21/s87694564254874",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -76,8 +76,7 @@
   "third_party_service_count": 6,
   "cookie_domains": [
     ".auth.cdc.gov",
-    ".cdc.gov",
-    "auth.cdc.gov"
+    ".cdc.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -131,6 +130,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

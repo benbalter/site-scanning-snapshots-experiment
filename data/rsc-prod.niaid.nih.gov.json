@@ -26,7 +26,7 @@
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d9c1ca6dea36fd3d2df86d68b91bf2d3",
+  "page_hash": "274bc67a5f63b6de45a0b5d9cc1cc3c9",
   "accessibility_violations": null,
-  "pageviews": 154,
-  "visits": 84,
+  "pageviews": 156,
+  "visits": 81,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -55,7 +55,7 @@
     "autotracker": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-C0DHE1VNWM,G-CSLL4ZEK4L,UA-75276022-9",
+  "ga_tag_id": "G-C0DHE1VNWM,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -77,18 +77,14 @@
     "https://use.fontawesome.com/releases/v4.6.3/fonts/fontawesome-webfont.woff2",
     "https://use.fontawesome.com/webfontloader/1.6.24/webfontloader.js",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/j/collect",
-    "https://www.google-analytics.com/plugins/ua/linkid.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".nih.gov",
-    ".rsc-prod.niaid.nih.gov"
+    ".nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -145,6 +141,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

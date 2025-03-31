@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "04eb40511e48fdc9f8bda2cf0d1f4afe",
-  "accessibility_violations": "{\"contrast\":1,\"lists\":1}",
+  "page_hash": "143d9afc6ee08407e9f2dda1841f3eaa",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -44,13 +44,17 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-8BFBM4Y18E",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-8BFBM4Y18E,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6294131.global.r2.siteimproveanalytics.io",
     "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
+    "dap.digitalgov.gov",
     "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
@@ -58,6 +62,8 @@
   "third_party_service_urls": [
     "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/4817/logo_square_noaaLogo_144.png",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
@@ -65,7 +71,7 @@
     "https://touchpoints.app.cloud.gov/touchpoints/eb67abe2.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -131,6 +137,7 @@
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 45,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

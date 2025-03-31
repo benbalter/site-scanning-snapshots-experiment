@@ -35,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "8601bc0c2562defa20e6ad4c10f1644d",
-  "accessibility_violations": "{\"contrast\":1,\"lists\":3}",
-  "pageviews": 1127,
-  "visits": 329,
+  "accessibility_violations": null,
+  "pageviews": 860,
+  "visits": 244,
   "ipv6": true,
   "hostname": "qipservices.com",
   "cms": null,
@@ -64,7 +64,9 @@
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ed.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about"
@@ -108,6 +110,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

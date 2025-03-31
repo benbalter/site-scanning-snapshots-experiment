@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "1498f0a45e3acc9545548b0635e29137",
-  "accessibility_violations": "{\"contrast\":1,\"frames-iframes\":1}",
-  "pageviews": 41440,
-  "visits": 19093,
+  "page_hash": "0788054cd0b39dc44c357a0da069f8af",
+  "accessibility_violations": null,
+  "pageviews": 39871,
+  "visits": 18895,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -56,6 +56,7 @@
   "dap_version": "",
   "ga_tag_id": "G-CSLL4ZEK4L,G-V6PB20VB8J",
   "third_party_service_domains": [
+    "api-private.atlassian.com",
     "api.geoplatform.gov",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
@@ -71,6 +72,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://api-private.atlassian.com/gasv3/api/v1/batch",
     "https://api.geoplatform.gov/internal/gp-banner-information",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -85,7 +87,7 @@
     "https://geoplatform.gov/assets/images/homepage-feature-icons/usa-map.webp",
     "https://geoplatform.gov/assets/images/logos/gp/full-light.svg",
     "https://geoplatform.gov/assets/images/theme/gp-backdrop.webp",
-    "https://geoplatform.gov/main.ddd5a97748e0a78b.js",
+    "https://geoplatform.gov/main.b7c0c14815eeffb4.js",
     "https://geoplatform.gov/polyfills.483331a069474bfa.js",
     "https://geoplatform.gov/runtime.2eef977649ab65e5.js",
     "https://geoplatform.gov/scripts.94f011fb13606557.js",
@@ -100,7 +102,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".geoplatform.gov"
   ],
@@ -150,6 +152,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

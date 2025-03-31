@@ -21,7 +21,8 @@
     "dap",
     "pulse",
     "omb_idea",
-    "other"
+    "other",
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0c48d1916fe5d037bb02b96c13e6d1ab",
-  "accessibility_violations": "{\"link-purpose\":1}",
-  "pageviews": 41533,
-  "visits": 37442,
+  "page_hash": "8ed70555ed830ba5d077926c59fa154c",
+  "accessibility_violations": null,
+  "pageviews": 36341,
+  "visits": 31526,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,6 +58,7 @@
     "cdn.earthdata.nasa.gov",
     "dap.digitalgov.gov",
     "disc.gsfc.nasa.gov",
+    "docserver.gesdisc.eosdis.nasa.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "maxcdn.bootstrapcdn.com",
@@ -83,7 +85,6 @@
     "https://disc.gsfc.nasa.gov/media/image/6dfc6de223d54c40ac47d65fb9fb2b8c/5a6893e5ca6d24bac24116f0",
     "https://disc.gsfc.nasa.gov/media/image/7db88f5bbae4412599a7582bd81cc9ee/dalton%20highway%20landslide.jpg",
     "https://disc.gsfc.nasa.gov/media/image/81e20a9d3b7c4169bbe18352af4793f3/5aa97896916e3a0b820d8acc",
-    "https://disc.gsfc.nasa.gov/media/image/ab32cb074c62487ab67b2d9fb6ad648a/OMTO3_004.png",
     "https://disc.gsfc.nasa.gov/media/image/b0c00e611d144c3591d86010db156a0e/5be34ba5c6789bcc1185d837",
     "https://disc.gsfc.nasa.gov/media/image/c11f166b16184c2d9edb7d68830420b7/GPCPMON_V3.3.png",
     "https://disc.gsfc.nasa.gov/media/image/cb23d7ae69894876a1049d0888e16e83/5a74e84206278e5f51fa00b1",
@@ -92,6 +93,7 @@
     "https://disc.gsfc.nasa.gov/media/image/dfa62995bbc54d9187e0ae53f044da43/5b92b5881370e9d46b67f523",
     "https://disc.gsfc.nasa.gov/media/image/e2ded074f2c84fe3bb2459b4c9f1570a/5af5f88edf90aab0eeea68f8",
     "https://disc.gsfc.nasa.gov/media/image/f123e458eb4b490fba70469574fb0bfd/591c91b79ea1b4a6882f515d",
+    "https://docserver.gesdisc.eosdis.nasa.gov/public/project/AIRS/tmp/figair1.202502.png",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -103,9 +105,9 @@
     "https://www.googleoptimize.com/optimize.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/J79K9xgfxwT6Syzx-UyWdD89/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -156,6 +158,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

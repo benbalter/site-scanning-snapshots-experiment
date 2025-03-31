@@ -1,12 +1,12 @@
 {
-  "name": "mienrollcat.usps.gov",
+  "name": "login.usps.gov",
   "initial_url": "https://mienrollcat.usps.gov",
   "initial_domain": "mienrollcat.usps.gov",
   "initial_base_domain": "usps.gov",
   "initial_top_level_domain": "gov",
-  "redirect": false,
-  "url": "https://mienrollcat.usps.gov/mifs/user/login.jsp",
-  "domain": "mienrollcat.usps.gov",
+  "redirect": true,
+  "url": "https://login.usps.gov/app/mobileIroncore/exk8sv2iievhkDUIH4h7/sso/saml?SAMLRequest=jVLLTsMwEPwVy%2FfGdh4ErKaoUCEqgahIyoELctJNa5HYwetEfD6hDx4XxHG1Mzu7Mzu9fG8bMoBDbU1GRcApAVPZjTbbjK6Lm8k5vZxNUbVN2Ml573fmEd56QE9GokF56GS0d0ZahRqlUS2g9JXM5%2Fd3Mgy47Jz1trINJXNEcH6UurYG%2BxZcDm7QFawf7zK6875DyRioATvBRdBjh8HWDjKOI9bqGtmnGsvzB0oW4wraKL9f%2B8Rs7FabLxpTXcdaW%2BoGls6ORzlg8P56jkOoNQy718V6eRvvUoZo95MpubGugv2VGa1Vg0DJcpHRl82FiOu0EmlywctECBFFtYjKtKzPElUl4QjDlULUA3wTEXtYGvTK%2BIyGPEwmPJpEvOCpjBMZiyAO%2BTMlq6M7V9ocXP%2FLyvIAQnlbFKvJ6iEvKHk6pTcC6DEruVd3P0P6e7A6JUNn%2F82hBa82yqsp%2Byk5O5a%2Fv2X2AQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=PV7o2yKQxcnyIMwIJ6alQoc6O4IDIyCnQFIAHuiNDVAa%2BkHuzVTdlPp8TYEfTZOet%2FSspyRoQgBuS3p2qMePv0gdY3XWlJqYuKDzA4uxoOGNcj5d8XePBhxF93SBoenercVM1rrEC%2BAWO1nn8wqegrenwA4lKiO%2B7MdZWkz9wNrFIxiXux8Q%2FGhLyEezMWr4Sgz9IzqfAsr9PtLORUNsGdEC2JtJ%2FMgYDzbjzORd%2BVg0Jq17wZc%2BF8YTnJYY0SZsC43Pe3e2JdIlfQ%2FgkI1bwQwG4k9XR9HMd%2B%2BarIspDwxL991A9MSudlOrdsoTxaxHk7lNd22rrHweGdL06KHoPA%3D%3D",
+  "domain": "login.usps.gov",
   "base_domain": "usps.gov",
   "top_level_domain": "gov",
   "live": true,
@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse",
-    "final_url_websites"
+    "pulse"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c081583d63cb06e0057a7dde533877f5",
+  "page_hash": "fac6581c74e98e73ebde02b5397beb6f",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -40,8 +39,7 @@
   "cms": null,
   "login_provider": null,
   "login": [
-    "\"password\"",
-    "type=\"password\""
+    "showpassword"
   ],
   "site_search": false,
   "search_dot_gov": null,
@@ -49,18 +47,32 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "login.okta.com",
+    "ok10static.oktacdn.com"
+  ],
+  "third_party_service_urls": [
+    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js",
+    "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.29.3/css/okta-sign-in.min.css",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.29.3/img/ui/forms/checkbox-sign-in-widget.png",
+    "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.29.3/js/okta-sign-in.min.js",
+    "https://ok10static.oktacdn.com/assets/loginpage/css/custom-signin.a91af2abfd04662e499bd3e151150dbf.css",
+    "https://ok10static.oktacdn.com/assets/loginpage/font/assets/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "https://ok10static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
+    "https://ok10static.oktacdn.com/fs/bco/1/fs04hdomjoINrmSiS4h7",
+    "https://ok10static.oktacdn.com/fs/bco/7/fs04hdtrclMlxUziu4h7"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
-    "mienrollcat.usps.gov"
+    "login.usps.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Ivanti User Portal: Sign In",
+  "title": "Enterprise Identity Provider - Sign In",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -71,7 +83,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": null,
   "language_link": "",
   "main_element_present": true,
   "robots_txt_detected": false,
@@ -92,16 +104,17 @@
   "sitemap_xml_page_hash": null,
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
-  "uswds_publicsans_font": 0,
+  "uswds_publicsans_font": 40,
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 0,
+  "uswds_count": 40,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

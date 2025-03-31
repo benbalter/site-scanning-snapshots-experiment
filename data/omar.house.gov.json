@@ -32,8 +32,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "02ad782b37c628b25b861038c4ef0eaa",
-  "accessibility_violations": "{\"aria\":10}",
+  "page_hash": "f9231cd50349f87cf8aaaf708718f62d",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,6 +49,7 @@
   "ga_tag_id": "G-VS5N84QJ85",
   "third_party_service_domains": [
     "api.hcaptcha.com",
+    "api.rss2json.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
@@ -60,6 +61,7 @@
   ],
   "third_party_service_urls": [
     "https://api.hcaptcha.com/checksiteconfig",
+    "https://api.rss2json.com/v1/api.json",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
@@ -76,7 +78,7 @@
     "https://www.twilik.com/assets/retainable/rss-embed/retainable.css",
     "https://www.twilik.com/assets/retainable/rss-embed/retainable.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".omar.house.gov"
   ],
@@ -129,6 +131,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

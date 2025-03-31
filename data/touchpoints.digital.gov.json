@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "67ddadd84b1cabead92adc45ee230396",
+  "page_hash": "89efc4267ebcf41a689aefba560e28f9",
   "accessibility_violations": null,
-  "pageviews": 3410,
-  "visits": 2805,
+  "pageviews": 3435,
+  "visits": 2778,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "cloud.gov Pages",
@@ -52,6 +52,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
     "dap.digitalgov.gov",
     "touchpoints.app.cloud.gov",
     "www.google-analytics.com",
@@ -59,8 +60,11 @@
     "www.performance.gov"
   ],
   "third_party_service_urls": [
+    "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/86/tag_tp-form-logo.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
+    "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0efb2db6.js",
     "https://touchpoints.app.cloud.gov/touchpoints/92b47c29.js",
     "https://www.google-analytics.com/g/collect",
@@ -81,7 +85,7 @@
     "https://www.performance.gov/assets/images/seals/usda.svg",
     "https://www.performance.gov/assets/images/seals/va.svg"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".digital.gov"
   ],
@@ -145,7 +149,9 @@
     "usa-footer",
     "usa-form",
     "usa-header",
+    "usa-icon",
     "usa-identifier",
+    "usa-input",
     "usa-intro",
     "usa-label",
     "usa-layout-docs",
@@ -157,15 +163,17 @@
     "usa-overlay",
     "usa-prose",
     "usa-skipnav",
-    "usa-sr-only"
+    "usa-sr-only",
+    "usa-textarea"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 60,
+  "uswds_banner_heres_how-2": false,
+  "uswds_usa_classes": 65,
   "uswds_string": 8,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.11.0",
   "uswds_version": 100,
-  "uswds_count": 210,
+  "uswds_count": 215,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "US Department of Energy, Office of the CIO",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse"
   ],
@@ -24,13 +24,13 @@
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "empty_response",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "empty_response",
   "www_scan_status": "completed",
-  "page_hash": "69c3f845631adc35a52bcecf5452a43e",
+  "page_hash": "e7fbd7b7c86a53c9412d39fa7a5d4d15",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,7 +46,7 @@
     "agency": "DOE"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,G-CSLL4ZEK4L,G-cJlhP",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
@@ -78,6 +78,7 @@
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -153,6 +154,7 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 60,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

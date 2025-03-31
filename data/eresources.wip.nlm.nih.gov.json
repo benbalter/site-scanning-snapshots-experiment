@@ -31,9 +31,9 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f9de0a88dafe5b9ac7c4fa94a12e5a61",
+  "page_hash": "7ddf62fbf0e2ad773426d1e1733972bb",
   "accessibility_violations": null,
-  "pageviews": 104,
+  "pageviews": 102,
   "visits": 44,
   "ipv6": true,
   "hostname": null,
@@ -58,6 +58,7 @@
     "code.jquery.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
+    "login-prod.nlm.nih.gov",
     "script.crazyegg.com",
     "www.googletagmanager.com"
   ],
@@ -97,12 +98,15 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
+    "https://login-prod.nlm.nih.gov/cas/login",
+    "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/eresources.wip.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/eresources.wip.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/4e6efdfb40bb89aaad9d548f38acbfa7.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nih.gov",
     "eresources.wip.nlm.nih.gov"
@@ -166,6 +170,7 @@
     "usa-skipnav"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 25,
   "uswds_string": 13,
   "uswds_string_in_css": 20,

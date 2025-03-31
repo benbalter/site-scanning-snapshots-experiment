@@ -26,12 +26,12 @@
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
-  "robots_txt_scan_status": "unknown_error",
+  "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a724534488f10a1007100c2fb44da431",
-  "accessibility_violations": "{\"page-titled\":1,\"language\":1,\"images\":2}",
+  "page_hash": "0172c3acf1bb3bb0927772795c1c2d71",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -46,14 +46,13 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "4247288130shutdown.relay.webvpn."
+    "2176199821shutdown.relay.webvpn."
   ],
   "third_party_service_urls": [
-    "https://4247288130shutdown.relay.webvpn./nonexistent.js"
+    "https://2176199821shutdown.relay.webvpn./nonexistent.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".fda.gov",
     "mvpn-svc-w1.fda.gov"
   ],
   "viewport_meta_tag": true,
@@ -75,10 +74,10 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": null,
-  "robots_txt_url": null,
-  "robots_txt_status_code": null,
-  "robots_txt_media_type": null,
+  "robots_txt_detected": false,
+  "robots_txt_url": "https://mvpn-svc-w1.fda.gov/robots.txt",
+  "robots_txt_status_code": 404,
+  "robots_txt_media_type": "unknown",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
@@ -97,6 +96,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

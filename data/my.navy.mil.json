@@ -32,10 +32,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "61805f8b9024dcfa1d480ac1198f834b",
-  "accessibility_violations": "{\"aria\":1,\"contrast\":2}",
-  "pageviews": 3432,
-  "visits": 4009,
+  "page_hash": "acea72f980f0f525c63f34656b717280",
+  "accessibility_violations": null,
+  "pageviews": 64330,
+  "visits": 51107,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -43,17 +43,22 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-LPFN93SMZ0,UA-87924041-3",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "defense"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-LPFN93SMZ0,UA-87924041-3,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "navynpc.my.salesforce.mil",
     "service.force.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://navynpc.my.salesforce.mil/embeddedservice/5.0/client/liveagent.esw.min.js",
     "https://navynpc.my.salesforce.mil/embeddedservice/5.0/esw.min.css",
     "https://navynpc.my.salesforce.mil/embeddedservice/5.0/esw.min.js",
@@ -67,7 +72,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".navy.mil"
   ],
@@ -122,6 +127,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

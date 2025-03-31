@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "8de8b1157c9492cb1750ee87db87e287",
-  "accessibility_violations": "{\"lists\":38}",
+  "page_hash": "6e77470fbfd9c945447487559fc8c1a5",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -115,7 +115,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 18,
   "cookie_domains": [
@@ -174,6 +174,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 10,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

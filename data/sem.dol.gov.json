@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "def54ff885d7cc397560fd8e33c54d80",
-  "accessibility_violations": "{\"contrast\":2}",
-  "pageviews": 31733,
-  "visits": 3573,
+  "page_hash": "33809765e119cb561a6463caf78d9295",
+  "accessibility_violations": null,
+  "pageviews": 31372,
+  "visits": 3413,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -56,6 +56,7 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "s7.addthis.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -63,11 +64,12 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://s7.addthis.com/js/300/addthis_widget.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".dol.gov",
     "sem.dol.gov"
@@ -121,6 +123,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

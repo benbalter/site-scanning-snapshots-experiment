@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "timeout",
-  "page_hash": "0d2b43347881cbaa8d26d7c7333a3d2b",
+  "page_hash": "456df26ea47a53ca3dc71ead8bbda629",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,7 +46,7 @@
     "agency": "hhs",
     "subagency": "aspa",
     "sitetopic": "health",
-    "siteplatform": "drupal 10 ",
+    "siteplatform": "content generator missing",
     "sdor": "hhs.gov",
     "dclink": "true",
     "yt": "true",
@@ -63,20 +63,25 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ivnXGIXuEqNtkY1,G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c19.akstat.io",
     "6282609.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
+    "gov1.siteintercept.qualtrics.com",
     "s.go-mpulse.net",
     "script.crazyegg.com",
     "search.usa.gov",
     "siteimproveanalytics.com",
     "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.youtube.com",
+    "zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c19.akstat.io/",
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
     "https://s.go-mpulse.net/boomerang/KXTEL-Y7J86-GB25A-JVVUG-FD68Q",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/www.hhs.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/site/www.hhs.gov.json",
@@ -90,12 +95,14 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js",
+    "https://zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".hhs.gov",
-    ".www.hhs.gov"
+    ".www.hhs.gov",
+    "www.hhs.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -178,12 +185,13 @@
     "usa-tooltip"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 65,
-  "uswds_string": 67,
+  "uswds_string": 66,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 172,
+  "uswds_count": 171,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -25,7 +25,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a25dd0efbb8850d65fbd63e03e56f9c4",
+  "page_hash": "2acec4bebe9183525dd3d7927622b978",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,13 +50,15 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "imp.myafn.dodmedia.osd.mil",
+    "media.myafn.dodmedia.osd.mil",
     "secure.dodmedia.osd.mil"
   ],
   "third_party_service_urls": [
     "https://imp.myafn.dodmedia.osd.mil/web/images/promoaimage.ashx",
+    "https://media.myafn.dodmedia.osd.mil/favicon.ico",
     "https://secure.dodmedia.osd.mil/cdn/scripts/gaC.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     "myafn.dodmedia.osd.mil"
   ],
@@ -103,6 +105,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

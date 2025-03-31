@@ -32,8 +32,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "timeout",
-  "page_hash": "749b2c775d47d90a515e301d319e9418",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":3,\"lists\":1}",
+  "page_hash": "a6745fbd55f93d4a38629ade7515ef44",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -58,6 +58,7 @@
     "fonts.gstatic.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -81,22 +82,22 @@
     "https://media.defense.gov/2024/Nov/22/2003592517/400/400/0/241010-A-RV157-1001.JPG",
     "https://media.defense.gov/2025/Feb/04/2003637448/400/400/0/250115-A-RV157-1001.JPG",
     "https://media.defense.gov/2025/Feb/10/2003645546/680/385/0/250210-A-AB123-001.JPG",
-    "https://media.defense.gov/2025/Mar/11/2003664269/400/400/0/240306-F-YU621-1005.PNG",
-    "https://media.defense.gov/2025/Mar/13/2003666774/400/400/0/250313-O-D0202-1001.JPG",
     "https://media.defense.gov/2025/Mar/18/2003668679/400/400/0/250318-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Mar/20/2003673107/400/400/0/250320-O-D0202-1001.PNG",
+    "https://media.defense.gov/2025/Mar/26/2003676278/400/400/0/250102-D-PF280-1008.PNG",
+    "https://media.defense.gov/2025/Mar/26/2003676725/400/400/0/250327-O-D0202-1001.PNG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
-    ".tricare.mil",
-    "lyster.tricare.mil"
+    ".tricare.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -153,6 +154,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

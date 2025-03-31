@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "431a8bb5a999b2be18e80f4e6d9c858a",
+  "page_hash": "be957173d9b7b13ab53ea616dbcc530d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,17 +47,20 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "aspr-dynatrace.hhs.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "maxcdn.bootstrapcdn.com"
   ],
   "third_party_service_urls": [
+    "https://aspr-dynatrace.hhs.gov:9999/jstag/managed/8044ca5e-e42c-4e55-ac60-1ada3c16887a/93a643a8413f0d0b_complete.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
+    ".covidtest.gov",
     "covidtest.gov"
   ],
   "viewport_meta_tag": false,
@@ -108,6 +111,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

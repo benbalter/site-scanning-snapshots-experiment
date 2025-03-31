@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "96d4b28023262b479e8fd2d3a07544fc",
+  "page_hash": "7d5d866d3cb27fa1dee7ebfe8cc7f6d8",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,13 +47,14 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-KERW0RESPC,G-JQD5BTHT4C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "touchpoints.app.cloud.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -68,9 +69,10 @@
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".fws.gov"
   ],
@@ -138,6 +140,7 @@
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 50,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

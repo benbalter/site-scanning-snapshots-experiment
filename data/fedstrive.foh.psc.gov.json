@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6c5eaed265fb74dc04d08139b108eb1b",
+  "page_hash": "548f1e9de2088121b3b8f4aca0f25a95",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,7 +46,7 @@
     "agency": "hhs",
     "subagency": "aspa",
     "sitetopic": "health",
-    "siteplatform": "drupal 10 ",
+    "siteplatform": "content generator missing",
     "sdor": "hhs.gov",
     "dclink": "true",
     "yt": "true",
@@ -64,19 +64,20 @@
   "ga_tag_id": "G-ivnXGIXuEqNtkY1,G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6282609.global.r2.siteimproveanalytics.io",
-    "c.go-mpulse.net",
     "dap.digitalgov.gov",
+    "gov1.siteintercept.qualtrics.com",
     "s.go-mpulse.net",
     "script.crazyegg.com",
     "search.usa.gov",
     "siteimproveanalytics.com",
     "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.youtube.com",
+    "zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
-    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
     "https://s.go-mpulse.net/boomerang/KXTEL-Y7J86-GB25A-JVVUG-FD68Q",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/sampling/www.hhs.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/7360/site/www.hhs.gov.json",
@@ -90,9 +91,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js",
+    "https://zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".hhs.gov",
     ".www.hhs.gov",
@@ -180,12 +182,13 @@
     "usa-tooltip"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 75,
-  "uswds_string": 73,
+  "uswds_string": 72,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 188,
+  "uswds_count": 187,
   "www_url": "https://www.hhs.gov/about/agencies/asa/foh/whps/fedstrive/index.html",
   "www_status_code": 200,
   "www_title": "FedStrive | HHS.gov"

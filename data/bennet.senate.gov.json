@@ -19,19 +19,20 @@
   "404_test": true,
   "source_list": [
     "2020_eot",
+    "final_url_websites",
     "senate_117th"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "0981f6b1cebddc4329489169e02fe574",
+  "www_scan_status": "completed",
+  "page_hash": "7707d59d9d5a2c8bec79dd6961d6d815",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,22 +48,31 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "assets.adobedtm.com",
     "code.jquery.com",
     "fonts.gstatic.com",
     "lhh-bennet.panth.com",
+    "senatesenatorpublicglobalprod.112.2o7.net",
     "static.elfsight.com"
   ],
   "third_party_service_urls": [
+    "https://assets.adobedtm.com/566dc2d26e4f/f8d2f26c1eac/launch-3a705652822d.min.js",
+    "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
+    "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js",
     "https://code.jquery.com/jquery-3.7.0.js",
     "https://fonts.gstatic.com/s/calistoga/v16/6NUU8F2OJg6MeR7l4e0fvcwB.woff2",
     "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiA.woff2",
     "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZFhiA.woff2",
     "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZFhiA.woff2",
     "https://lhh-bennet.panth.com/wp-content/uploads/2024/08/logo-mb.svg",
+    "https://senatesenatorpublicglobalprod.112.2o7.net/b/ss/senatesenatorpublicglobalprod/1/JS-2.27.0-LEWM/s48803960688782",
     "https://static.elfsight.com/platform/platform.js"
   ],
-  "third_party_service_count": 4,
-  "cookie_domains": null,
+  "third_party_service_count": 6,
+  "cookie_domains": [
+    ".bennet.senate.gov",
+    ".senate.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -114,13 +124,14 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.bennet.senate.gov",
+  "www_status_code": 200,
+  "www_title": "Home - U.S. Senator Michael Bennet"
 }

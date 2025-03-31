@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "769e2242f6bfc824d20db616fe7254ca",
-  "accessibility_violations": "{\"language\":1}",
-  "pageviews": null,
-  "visits": null,
+  "page_hash": "5bad90da0943ee3b3617b54d2785f36c",
+  "accessibility_violations": null,
+  "pageviews": 39,
+  "visits": 33,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -44,17 +44,22 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-S7YR88C677",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-S7YR88C677",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -106,6 +111,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

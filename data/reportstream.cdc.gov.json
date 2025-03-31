@@ -34,8 +34,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "81c70b2078b4694d2f81883f2083b16f",
   "accessibility_violations": null,
-  "pageviews": 1903,
-  "visits": 788,
+  "pageviews": 1753,
+  "visits": 740,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -43,23 +43,26 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS",
+    "subagency": "CDC"
+  },
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "eastus-3.in.applicationinsights.azure.com",
-    "js.monitor.azure.com"
+    "js.monitor.azure.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://eastus-3.in.applicationinsights.azure.com/v2/track",
-    "https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json"
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json",
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".cdc.gov",
     "reportstream.cdc.gov"
   ],
   "viewport_meta_tag": true,
@@ -113,6 +116,7 @@
     "usa-overlay"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 25,
   "uswds_string": 0,
   "uswds_string_in_css": 20,

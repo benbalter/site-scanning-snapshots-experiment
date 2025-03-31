@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "303f96191df86ce19cc5f8c20ba0cdb3",
+  "page_hash": "0bdd75355b46c9dff9c8d864de34372a",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -58,7 +58,9 @@
     "https://partner.archive-it.org/static/AIT_Analytics.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".wayback.archive-it.org"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -124,6 +126,7 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 45,
   "uswds_string": 4,
   "uswds_string_in_css": 20,

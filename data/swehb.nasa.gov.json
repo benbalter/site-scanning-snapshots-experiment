@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "867cffe84a66c9247efd27cc82edac85",
-  "accessibility_violations": "{\"aria\":5,\"user-control-name\":1,\"contrast\":3,\"language\":1,\"images\":1,\"link-purpose\":1}",
-  "pageviews": 885,
-  "visits": 408,
+  "page_hash": "d6fc964becee6149a7563ea62126f6c1",
+  "accessibility_violations": null,
+  "pageviews": 9406,
+  "visits": 7644,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,6 +57,7 @@
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
     "mobile.neacc.nasa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -85,9 +86,10 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://mobile.neacc.nasa.gov/pulse/track.gif",
     "https://mobile.neacc.nasa.gov/pulse/track.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nasa.gov",
     "swehb.nasa.gov"
@@ -138,6 +140,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

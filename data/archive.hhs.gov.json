@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6a0ac5314161b4472c4ab9b253e7031f",
+  "page_hash": "429618f42cd1e3761e12f2e32b71b777",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,7 +46,7 @@
     "agency": "hhs",
     "subagency": "aspa",
     "sitetopic": "health",
-    "siteplatform": "drupal 10 ",
+    "siteplatform": "content generator missing",
     "sdor": "hhs.gov",
     "dclink": "true",
     "yt": "true",
@@ -63,6 +63,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ivnXGIXuEqNtkY1,G-FD68Q,G-3YLR8EGLBW,G-8RZ83J1052,UA-36351725-9,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1f.akstat.io",
     "6282609.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
@@ -71,9 +72,11 @@
     "search.usa.gov",
     "siteimproveanalytics.com",
     "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.youtube.com",
+    "zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1f.akstat.io/",
     "https://6282609.global.r2.siteimproveanalytics.io/image.aspx",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -90,9 +93,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js",
+    "https://zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".hhs.gov",
     ".www.hhs.gov",
@@ -179,12 +183,13 @@
     "usa-tooltip"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 80,
-  "uswds_string": 55,
+  "uswds_banner_heres_how-2": true,
+  "uswds_usa_classes": 85,
+  "uswds_string": 54,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 175,
+  "uswds_count": 179,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

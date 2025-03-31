@@ -30,11 +30,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0ecd63ef38cc35d680762ca085b8801b",
-  "accessibility_violations": "{\"user-control-name\":1}",
+  "page_hash": "4d1794e2b51ea6a2489d1cce071aa56d",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -49,10 +49,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1b.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -64,7 +62,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1b.akstat.io/",
     "https://a.tile.openstreetmap.org/16/15973/25679.png",
     "https://a.tile.openstreetmap.org/16/15974/25678.png",
     "https://a.tile.openstreetmap.org/16/15975/25677.png",
@@ -73,7 +70,6 @@
     "https://b.tile.openstreetmap.org/16/15974/25679.png",
     "https://b.tile.openstreetmap.org/16/15975/25678.png",
     "https://b.tile.openstreetmap.org/16/15976/25677.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/16/15973/25678.png",
     "https://c.tile.openstreetmap.org/16/15974/25677.png",
     "https://c.tile.openstreetmap.org/16/15975/25679.png",
@@ -95,9 +91,10 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 11,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -166,6 +163,7 @@
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 55,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

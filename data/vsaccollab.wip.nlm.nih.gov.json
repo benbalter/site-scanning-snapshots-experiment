@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "833eb1350ecac5224d55824173d79b93",
+  "page_hash": "286443e411c6862aaa4eca91073e4b84",
   "accessibility_violations": null,
-  "pageviews": 72,
-  "visits": 42,
+  "pageviews": 69,
+  "visits": 40,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -53,19 +53,27 @@
     "enhlink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4",
+  "ga_tag_id": "G-7147EPK006,G-P1FPTH9PL4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "siteintercept.qualtrics.com",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "zn1xmnvtqzmigu3nn-nlmenterprise.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://siteintercept.qualtrics.com/dxjsmodule/1.63482081f3bf73c57075.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/5.76657644fe1b73dc4306.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://zn1xmnvtqzmigu3nn-nlmenterprise.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nih.gov",
     "vsaccollab.wip.nlm.nih.gov"
@@ -111,6 +119,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

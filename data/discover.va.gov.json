@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "84e8ae919d1e94b7bdb717b5ca5b2cb0",
+  "page_hash": "402f319b7bcc97f526add370851eaef8",
   "accessibility_violations": null,
-  "pageviews": 82245,
-  "visits": 50393,
+  "pageviews": 79801,
+  "visits": 50931,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -47,11 +47,12 @@
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
+    "ver": "true",
     "agency": "VA",
     "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-9csT3QsT3vhI2t2,G-oZ6D1gcaG,G-aksZSGrDqP2GsPg",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-fgebIIGN9wKDnzc,G-3QWBjb,G-BJDoL0pMJ8eFfbU,G-tzM3i",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -63,10 +64,10 @@
   ],
   "third_party_service_urls": [
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/924777a50eb4c397/1742665155622/TQ2vyxNKhUjBQ-t",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/906823626:1742660890:O-v8c3Pco6huCKxZ74Q2H89t5pmzoYwtDAWNGQAa30Q/924777a50eb4c397/VLpEcur2g4JFa2bmiH0sKyEZxXRm_cC7_HqUYQg7Rgc-1742665155-1.1.1.1-JvnPoisiZW6BGPojHG3hxJsYklZreqAmssGEv.paXC6lwMlBkLaN4v1YG7TygLjg",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/928268b1f98cdabf/1743283203112/wSo-NPgCNRzinn4",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1251136309:1743280065:_HpvksKvEVpAA0N2hHM7M9tvz6FTMdKfEwVio-aGu7c/928268b1f98cdabf/oZgrb130zzvTZ0efAS6XktFnji0gX_9Qbx4BmElJdgY-1743283202-1.1.1.1-fA4RxtlmnfJLe0QGGcLiRNeQUiA3y5g0bdKSpIVhKuatOjAvvQ.q89bvBtV1q3TR",
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/924777a50eb4c397/1742665155626/57e858cbd67ea37bb6c4fdce5861adffe3712b06c59006286b0321ab5099f8a0/S9bOijRT2zffyMs",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/928268b1f98cdabf/1743283203112/2237ed2503964110489d34696fda6c889cbd010e24620dd5d045af9a53b80a07/L66HAVRfk5Lm0fj",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
     "https://challenges.cloudflare.com/turnstile/v0/b/708f7a809116/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -77,7 +78,7 @@
     "https://scripts.withcabin.com/hello.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/69f581a5/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -108,7 +109,7 @@
   "og_title": "DiscoverVA",
   "og_description": "DiscoverVA allows visitors to find, understand, and use all of the information and tools they need to discover what they can do with the Department of Veterans Affairs.",
   "og_article_published": "2023-06-09T18:27:51.000Z",
-  "og_article_modified": "2025-03-11T20:37:52.000Z",
+  "og_article_modified": "2025-03-29T19:45:56.000Z",
   "og_image": "https://discover.va.gov/wp-content/uploads/2024/04/va-og-twitter-image.png",
   "og_type": "website",
   "og_url": "https://discover.va.gov/",
@@ -120,9 +121,10 @@
   "robots_txt_url": "https://discover.va.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 259,
+  "robots_txt_filesize": 317,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [
+    "https://discover.va.gov/events/sitemap_index.xml",
     "https://discover.va.gov/sitemap_index.xml",
     "https://discover.va.gov/transition-events/sitemap_index.xml",
     "https://discover.va.gov/transition-programs/sitemap_index.xml"
@@ -139,18 +141,19 @@
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
-  "uswds_inpage_css": 5,
+  "uswds_inpage_css": 9,
   "uswds_usa_class_list": [
     "usa-link",
     "usa-links-item"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 30,
+  "uswds_banner_heres_how-2": true,
+  "uswds_usa_classes": 35,
   "uswds_string": 5,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 120,
+  "uswds_count": 129,
   "www_url": "https://discover.va.gov",
   "www_status_code": 200,
   "www_title": "DiscoverVA"

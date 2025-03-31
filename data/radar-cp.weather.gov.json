@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "12ed78f80bef2b814886611cd9e0297c",
-  "accessibility_violations": "{\"language\":1}",
-  "pageviews": 403,
-  "visits": 68,
+  "page_hash": "fbc0d26ac2a84a501f6e293b4a9c7ba8",
+  "accessibility_violations": null,
+  "pageviews": 529,
+  "visits": 78,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -52,6 +52,7 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-9289EXGSWQ",
   "third_party_service_domains": [
     "basemaps-api.arcgis.com",
+    "basemapstyles-api.arcgis.com",
     "cdn.arcgis.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
@@ -64,7 +65,7 @@
     "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/3/2/2.pbf",
     "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/3/3/1.pbf",
     "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/3/3/2.pbf",
-    "https://basemaps-api.arcgis.com/arcgis/rest/services/styles/ArcGIS:Streets",
+    "https://basemapstyles-api.arcgis.com/arcgis/rest/services/styles/v2/styles/arcgis/streets",
     "https://cdn.arcgis.com/sharing/rest/content/items/de26a3cf4cc9451298ea173c4b324736/resources/sprites/sprite.json",
     "https://cdn.arcgis.com/sharing/rest/content/items/de26a3cf4cc9451298ea173c4b324736/resources/sprites/sprite.png",
     "https://cdn.jsdelivr.net/npm/@fontsource/arial/400-italic.css",
@@ -80,7 +81,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".weather.gov"
   ],
@@ -133,6 +134,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

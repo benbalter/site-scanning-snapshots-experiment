@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "49689f29ced8be81c0f79782dd23349f",
+  "page_hash": "8d6ecceffe3038c9ec9d9b3a34a2f40c",
   "accessibility_violations": null,
-  "pageviews": 12334,
-  "visits": 4963,
+  "pageviews": 11828,
+  "visits": 4734,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -51,14 +51,17 @@
   "ga_tag_id": "G-9Q6E14RR5V,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.hrsa.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.hrsa.gov/sites/default/files/favicon.ico",
+    "https://www.hrsa.gov/themes/hrsa/uswds_hrsa/images/favicons/favicon.ico"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".hrsa.gov"
   ],
@@ -135,6 +138,7 @@
     "usa-section"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 40,
   "uswds_string": 1,
   "uswds_string_in_css": 20,

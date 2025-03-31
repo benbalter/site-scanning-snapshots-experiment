@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ae37148a008c290878c341f7df8b2c99",
+  "page_hash": "b1dd53e35638daaa4f1621664c8350b6",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
     "https://dev-idp.nn.ornl.gov/assets/css/main.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ornl.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
@@ -94,6 +96,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "704e4cb4693a0b24472b2cd74cc49729",
-  "accessibility_violations": "{\"contrast\":3}",
-  "pageviews": 36527,
-  "visits": 14956,
+  "page_hash": "3a62a4b211df2a468574ebdd1f3def4c",
+  "accessibility_violations": null,
+  "pageviews": 34926,
+  "visits": 13958,
   "ipv6": false,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -55,16 +55,17 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".earth.gov"
   ],
@@ -108,7 +109,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "79c58e47aa3d37d88468734e47bafe71",
+  "sitemap_xml_page_hash": "4a3b0fe92d3de1004ff8887a21d9ecff",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -122,6 +123,7 @@
     "usa-icon"
   ],
   "uswds_banner_heres_how": true,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 25,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

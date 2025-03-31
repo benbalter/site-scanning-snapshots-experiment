@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c038ea66fcbbcb0898f3d46469549e79",
-  "accessibility_violations": "{\"auto-updating\":1}",
+  "page_hash": "5c1e585e8b38dfba2b0b065362a319aa",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -44,21 +44,21 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-vzQpMqGGti1J3Pn,G-yFpiGI5y6Maspuq,G-ntGqG,G-jC8ereEeUBs0qCA,G-69z8,G-QXw5dxTjQrp6uTT,G-JHtvH1,G-vN0UgwPxhnPEZIx,G-GmTtaxe",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/92473a5cfcce5ec8/1742662645512/DCBaqtuLgStwFQD",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/434953908:1742660793:GJK2iw7QGcUlPV3Knd7HYIUnYBD7MfBoo-qDFCZgwZY/92473a5cfcce5ec8/IvM_x7s6A295.EGUePOskYzaPysPFM909yvZVcOQM2M-1742662645-1.1.1.1-wQzjZJd.ma_015rRDaYfkyHg5akto03mb373Z06x3f6P0P.BoDZLJCRF5Erjfw1f",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1313793604:1743280011:90iILOffZpOLLw7YEA5-_1HiSvEtv0zwIvIIzPqGQmA/928242984d4aff1a/EhSY.RdgcENrwLu.WI4AwC18.8ggN7q9_VZoCC3NBxo-1743281642-1.1.1.1-a7nEh3JF4XJWjSbkV_YGq73EP41flOoxuscUO5ehOErCGoB7IOV_3JYdg3F7hdRQ",
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/92473a5cfcce5ec8/1742662645515/d0f6d68f2976a97db8d5379d55831c4dd0a23db0a37fec58563a5da7d3372905/yBPc01BWkKYjx6e",
     "https://challenges.cloudflare.com/turnstile/v0/b/708f7a809116/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".tva.com"
+    ".tva.com",
+    ".www.tva.com",
+    "www.tva.com"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
@@ -101,6 +101,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
