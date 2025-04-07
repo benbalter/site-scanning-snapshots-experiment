@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "54642f69f9e59924aca42d6fefdc2515",
+  "page_hash": "819bc5d93a2aaa5433464b8353a17cf9",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,7 +49,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

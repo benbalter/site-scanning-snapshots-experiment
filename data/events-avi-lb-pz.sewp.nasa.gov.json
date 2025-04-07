@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "omb_idea",
     "final_url_websites"
@@ -50,7 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nasa.gov"
+    "events-avi-lb-pz.sewp.nasa.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": null,
@@ -71,10 +71,10 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": false,
+  "robots_txt_detected": true,
   "robots_txt_url": "https://events-avi-lb-pz.sewp.nasa.gov/robots.txt",
-  "robots_txt_status_code": 403,
-  "robots_txt_media_type": "text/html",
+  "robots_txt_status_code": 200,
+  "robots_txt_media_type": "text/plain",
   "robots_txt_filesize": 297,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,

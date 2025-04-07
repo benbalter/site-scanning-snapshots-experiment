@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "46126d7139900089b45126df4ca8a5ee",
+  "page_hash": "ef79321677f6fc500c8f7f033e0672af",
   "accessibility_violations": null,
   "pageviews": 1,
   "visits": 1,
@@ -45,23 +45,22 @@
   "dap": true,
   "dap_parameters": {
     "agency": "DOC",
-    "subagency": "NOAA",
-    "pua": "UA-47217314-8"
+    "subagency": "NOAA"
   },
-  "dap_version": "20171207 v4.0 - Universal Analytics",
-  "ga_tag_id": "UA-47217314-8,UA-33523145-1",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-2VGYSG93VD,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "tidesandcurrents.noaa.gov",
-    "www.google-analytics.com"
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://tidesandcurrents.noaa.gov/includes/federated-analytics.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect"
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".prod.opendap.co-ops.nos.noaa.gov"
+    ".noaa.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [

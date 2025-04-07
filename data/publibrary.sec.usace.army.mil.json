@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e024f8e91897405574cbc73816db77ca",
+  "page_hash": "881463ff995bdbbf3671a37fd078400b",
   "accessibility_violations": null,
-  "pageviews": 2431,
-  "visits": 1175,
+  "pageviews": 2350,
+  "visits": 1171,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -56,6 +56,7 @@
   "third_party_service_domains": [
     "api.mapbox.com",
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -65,9 +66,10 @@
     "https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".army.mil",
     "publibrary.sec.usace.army.mil"

@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "Census Bureau",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "final_url_websites"
@@ -85,7 +85,7 @@
     "usa.gov"
   ],
   "https_enforced": true,
-  "hsts": false,
+  "hsts": true,
   "title": "400 Bad Request",
   "description": null,
   "keywords": null,

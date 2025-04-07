@@ -65,6 +65,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".cbp.dhs.gov",
     ".dhs.gov",
     ".eapis.cbp.dhs.gov",
     "eapis.cbp.dhs.gov"
@@ -77,7 +78,7 @@
     "vulnerability disclosure"
   ],
   "https_enforced": true,
-  "hsts": true,
+  "hsts": false,
   "title": "Welcome to eAPIS | Customs and Border Protection",
   "description": null,
   "keywords": null,

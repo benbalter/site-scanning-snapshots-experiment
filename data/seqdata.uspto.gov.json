@@ -56,7 +56,9 @@
     "https://instana-eks-prod.spb.aws.uspto.gov/eum/1.7.2/eum.min.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".uspto.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": [

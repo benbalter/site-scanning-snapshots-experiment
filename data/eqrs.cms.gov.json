@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f3abadf72dcdb478d4ae827f432a8221",
+  "page_hash": "ab6d4e035ed8ddb0dcce97fbfe97fcbc",
   "accessibility_violations": null,
-  "pageviews": 1912157,
-  "visits": 110661,
+  "pageviews": 1772789,
+  "visits": 104470,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -42,33 +42,22 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "DHHS",
-    "subagency": "CMS"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
-    "dap.digitalgov.gov",
     "qualitynet.cms.gov",
-    "tags.tiqcdn.com",
-    "www.googletagmanager.com"
+    "tags.tiqcdn.com"
   ],
   "third_party_service_urls": [
-    "https://adobe-ep.cms.gov/ee/v1/interact",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://qualitynet.cms.gov/publicgateway/public/searchQNPByProgram",
-    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.44.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.6.js",
-    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".cms.gov",
     ".eqrs.cms.gov",

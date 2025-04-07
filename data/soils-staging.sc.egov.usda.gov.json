@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c2eb44d07ce55fee592a21e8f68c5ae4",
+  "page_hash": "d0acc4a01cdddf3819acf02c1f7c7feb",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
     "https://nocapi.api.eauth.usda.gov/iab/enterprise/cms/appMessage/login"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy",

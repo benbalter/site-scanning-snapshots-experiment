@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "aefd1b29588bbdafbd5f3d3a2500cbca",
+  "page_hash": "63ce151ce8511c14e6fbbd756d105928",
   "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 67,
+  "visits": 22,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -45,20 +45,28 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-JGDJNH9854",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "fonts.gstatic.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/sourcesanspro/v12/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v12/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".hiv.gov"
   ],

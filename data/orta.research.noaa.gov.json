@@ -71,7 +71,9 @@
     "https://tpo-dev.oar.woc.noaa.gov/wp-content/uploads/2020/10/email.png"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "foia",

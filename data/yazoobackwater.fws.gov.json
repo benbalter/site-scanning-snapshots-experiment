@@ -30,11 +30,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e090a307f5ab84706a0891941da65097",
+  "page_hash": "029c2c185f45f91196c7be8e208f3518",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -72,7 +72,8 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

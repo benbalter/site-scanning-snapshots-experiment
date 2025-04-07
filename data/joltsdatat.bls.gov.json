@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "58bb5713e5514afe026f9a710e2d38f5",
+  "page_hash": "9932000de4dc90bb2ff68ec04761c218",
   "accessibility_violations": null,
-  "pageviews": 238,
-  "visits": 78,
+  "pageviews": 271,
+  "visits": 107,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -51,21 +51,23 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-4uBPJtg",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "remote.captcha.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://remote.captcha.com/include.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/20830619/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".bls.gov",
     "joltsdatat.bls.gov"

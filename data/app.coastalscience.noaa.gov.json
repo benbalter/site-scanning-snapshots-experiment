@@ -33,8 +33,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "515c5df7d754840101dc85ed2557f4af",
   "accessibility_violations": null,
-  "pageviews": 749,
-  "visits": 351,
+  "pageviews": 760,
+  "visits": 320,
   "ipv6": true,
   "hostname": "azure.com",
   "cms": null,
@@ -71,7 +71,9 @@
     "https://products.coastalscience.noaa.gov/services/coastalsciencecore/_assets/refresh/nccos-nonwp-refresh.css"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

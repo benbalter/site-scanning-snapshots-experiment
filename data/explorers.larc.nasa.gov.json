@@ -36,8 +36,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "15becdae5174c976efc34378ad81c66b",
   "accessibility_violations": null,
-  "pageviews": 3653,
-  "visits": 1778,
+  "pageviews": 3574,
+  "visits": 1743,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -55,6 +55,7 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "soma.larc.nasa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,10 +64,12 @@
     "https://soma.larc.nasa.gov/css/everyone.css",
     "https://soma.larc.nasa.gov/css/handheld.css",
     "https://soma.larc.nasa.gov/css/print.css",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
+    ".larc.nasa.gov",
     ".nasa.gov"
   ],
   "viewport_meta_tag": false,

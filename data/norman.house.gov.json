@@ -24,7 +24,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "1ae36b5f0f0bba6047c6c1f9e945e4a9",
+  "page_hash": "269839c9f2f10ccc00309befe444c753",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -65,7 +65,8 @@
   "third_party_service_count": 5,
   "cookie_domains": [
     ".house.gov",
-    ".norman.house.gov"
+    ".norman.house.gov",
+    "norman.house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

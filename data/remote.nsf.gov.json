@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0db570b09d479d1bf12996c5fcd7b049",
+  "page_hash": "6e39d4bceccaa181ed8de49aac8e7895",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -51,20 +51,25 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YTMBPD5RB8",
   "third_party_service_domains": [
+    "cdn.jsdelivr.net",
     "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
     "dap.digitalgov.gov",
+    "e6eb454b0e16.edge.sdk.awswaf.com",
     "script.crazyegg.com",
     "static.addtoany.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/2586/logo_square_NSF_Official_logo_High_Res_1200ppi.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://e6eb454b0e16.edge.sdk.awswaf.com/e6eb454b0e16/6f3acb9717ea/challenge.js",
+    "https://e6eb454b0e16.edge.sdk.awswaf.com/e6eb454b0e16/6f3acb9717ea/telemetry",
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/sampling/www.nsf.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/site/www.nsf.gov.json",
     "https://script.crazyegg.com/pages/scripts/0041/5508.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/4e6efdfb40bb89aaad9d548f38acbfa7.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js",
     "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
     "https://static.addtoany.com/menu/page.js",
@@ -72,13 +77,13 @@
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/img/usa-icons/unfold_more.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/f0b5f6ee.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 8,
   "cookie_domains": [
-    ".nsf.gov"
+    ".nsf.gov",
+    ".www.nsf.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -155,7 +160,6 @@
     "usa-overlay",
     "usa-section",
     "usa-select",
-    "usa-skipnav",
     "usa-sr-only",
     "usa-textarea"
   ],

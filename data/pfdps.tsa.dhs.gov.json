@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d6d4706c168ac8fd7736f93074eabdb9",
+  "page_hash": "bb40c2a6574b32f4e2f69b306bb50859",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,14 +45,23 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
+    ".dhs.gov",
     "pfdps.tsa.dhs.gov"
   ],
   "viewport_meta_tag": false,

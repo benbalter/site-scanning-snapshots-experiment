@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "245f866af0bec883c3c66df8b8b18344",
+  "page_hash": "898c1518f60dc7e3497a2a7c075de6a9",
   "accessibility_violations": null,
   "pageviews": 60,
   "visits": 3,
@@ -44,12 +44,12 @@
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
-    "agency": "AGENCY"
+    "agency": "DOC",
+    "subagency": "ITA"
   },
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-59RWD3R7JT,G-L884J52XQ5,G-CSLL4ZEK4L,UA-150944479-1,G-Q8YVD4PXL4",
   "third_party_service_domains": [
-    "51582.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "resources.digital-cloud-gov.medallia.com",
     "sc.lfeeder.com",
@@ -58,21 +58,18 @@
     "static.addtoany.com",
     "tr.lfeeder.com",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "{account_id}.global.siteimproveanalytics.io"
   ],
   "third_party_service_urls": [
-    "https://51582.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://resources.digital-cloud-gov.medallia.com/md-form/website/1.18.3/main.js",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/forms/660/formDataV2_1730312595884_en.json",
-    "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/onsite/domains-configuration.json",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/onsite/generic1742503710167.js",
     "https://sc.lfeeder.com/lftracker_v1_p1e024BvQ0X4GB6d.js",
     "https://script.crazyegg.com/pages/data-scripts/0088/2128/sampling/www.trade.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0088/2128/site/www.trade.gov.json",
     "https://script.crazyegg.com/pages/scripts/0088/2128.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/4e6efdfb40bb89aaad9d548f38acbfa7.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js",
     "https://siteimproveanalytics.com/js/siteanalyze_51582.js",
     "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
@@ -86,7 +83,8 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://{account_id}.global.siteimproveanalytics.io/image.aspx"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [

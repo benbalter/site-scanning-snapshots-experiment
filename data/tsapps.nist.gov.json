@@ -36,8 +36,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "95f9f1aa66642b062035c5ac193578aa",
   "accessibility_violations": null,
-  "pageviews": 2073,
-  "visits": 430,
+  "pageviews": 2102,
+  "visits": 425,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -62,7 +62,9 @@
     "https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nist.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "fear",

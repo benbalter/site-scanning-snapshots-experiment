@@ -55,7 +55,9 @@
     "https://unpkg.com/decap-cms@3.6.2/dist/decap-cms.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".digital.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

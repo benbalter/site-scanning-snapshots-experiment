@@ -62,7 +62,9 @@
     "https://secure.login.gov/api/openid_connect/certs"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dot.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

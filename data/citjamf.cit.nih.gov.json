@@ -49,12 +49,14 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": false,
+  "hsts": false,
   "title": "Not Found",
   "description": null,
   "keywords": null,

@@ -37,7 +37,7 @@
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -64,7 +64,9 @@
     "https://www.usa.gov/themes/custom/usagov/images/Logo_USAGov.png"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "usa.gov"

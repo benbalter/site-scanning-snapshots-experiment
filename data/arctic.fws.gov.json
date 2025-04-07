@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f7a7420a949bc5932b824a9cf95ee63d",
+  "page_hash": "c4a052e32fdf544719c84cf2098078b3",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,8 +49,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1d.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -62,6 +64,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1d.akstat.io/",
     "https://a.tile.openstreetmap.org/5/1/8.png",
     "https://a.tile.openstreetmap.org/5/2/7.png",
     "https://a.tile.openstreetmap.org/5/3/6.png",
@@ -70,6 +73,7 @@
     "https://b.tile.openstreetmap.org/5/2/8.png",
     "https://b.tile.openstreetmap.org/5/3/7.png",
     "https://b.tile.openstreetmap.org/5/4/6.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/5/1/7.png",
     "https://c.tile.openstreetmap.org/5/2/6.png",
     "https://c.tile.openstreetmap.org/5/3/8.png",
@@ -91,10 +95,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

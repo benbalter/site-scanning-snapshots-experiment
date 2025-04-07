@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d6bd49558c03ac8968a9f63af7381973",
+  "page_hash": "220755804cb49df2374114a4d5c0272e",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,7 +49,7 @@
     "dclink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-WXLRFJLP5B",
+  "ga_tag_id": "G-WXLRFJLP5B,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
     "dap.digitalgov.gov",
@@ -85,15 +85,21 @@
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
-    ".nasa.gov",
-    "disc.gsfc.nasa.gov"
+    ".nasa.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "fear",
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "privacy policy"
+  ],
   "https_enforced": false,
   "hsts": true,
-  "title": "GES DISC",
+  "title": "GES DISC Search: Showing 1 - 25 of 369 information associated with acdisc",
   "description": "Unified User Interface at NASA, UUI, data, GES DISC, datasets",
   "keywords": null,
   "og_title": null,

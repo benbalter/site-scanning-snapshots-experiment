@@ -68,7 +68,10 @@
     "https://www.aps.anl.gov/sites/www.aps.anl.gov/files/APS-Uploads/anl_logo_head.png"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".anl.gov",
+    ".aps.anl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

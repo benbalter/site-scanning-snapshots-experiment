@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c94e65f42026b6d800ff1ea1fe6546ce",
+  "page_hash": "e2ddb7fe41ff2b75a1ed00206418ca83",
   "accessibility_violations": null,
-  "pageviews": 474,
-  "visits": 213,
+  "pageviews": 467,
+  "visits": 179,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -63,7 +63,9 @@
     "https://prhome.defense.gov/Portals/52/css/fonts/Roboto-Medium.ttf"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".defense.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

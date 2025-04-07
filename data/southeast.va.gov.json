@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fb2f37fd013b1f067103f74495380b04",
+  "page_hash": "e4c8e0d3d4709e05f97202664f46ca3d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,10 +49,11 @@
   "dap": true,
   "dap_parameters": {
     "ver": "true",
-    "agency": "VA"
+    "agency": "VA",
+    "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-5CKJ4R6n3lErxH9,G-hVkbP,G-KrLoWDY1OdrWn8U,G-bBv3i4cz30kvMvN,G-28wxQOlDfUwAkqF,G-JBdw0p6S8DxqEQD,G-LWaoRKTQSQxys97,G-DD535WZDxG3MWBD,G-FAMvEd8cDHQFt8c,G-i0nWb9PDDvwMWWy,G-0V9TyfnLYmTrU7g",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-LNJBLxeB,G-ffx7Ny4iioh0dXl,G-v95KT36rsa,G-ksX6CCKVKeFtDCs,G-BzAhMhl0dX,G-WN89tzSpX,G-BxU0W5DYjqeHVrN,G-UV5yqQcmffUCg9u,G-7ylH4KY9,G-90iQKZtJq,G-IQhk6jP5tKVSuG3,G-GqG7gK7LULmO4Gj,G-mWSjIeRf66vGI3F,G-7B9AI7tq",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -61,16 +62,17 @@
     "s3-us-gov-west-1.amazonaws.com",
     "scripts.withcabin.com",
     "unpkg.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/92871c55f9645ef2/1743332504263/ooeFlIucD6PSibF",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1993174256:1743330445:1YFKCFhMEDVmeTknVtrUuSi8GIh3RC1kst2M0zxuOjI/92871c55f9645ef2/g9ouTyzvzEQ0n5ML1xlcKfqA6NGFZ_RHtog_lB1HG.I-1743332504-1.1.1.1-cQCC1WD2kHiMU2O16B.KujMLi_Fcslae2jTl8DxJVEVPxa9HBUZXTyTmhZQzPJtl",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/92871c55f9645ef2/1743332504262/911aaea3f382b547769b40dbc29a1b362472b31287b09fc167771e1c9c030d2b/nMVaC2RG8LAz1NN",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/92b0b198edeef820/1743768534210/LfmDq_lji5mgeER",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1408919282:1743765172:T1IhGmG76Qrz4IivKzmFE_bdPaeaVqkffTpgf96-Gk4/92b0b198edeef820/szij8.6WIPogGtybohZWqCNdXYv0cB7ciufxBk5e8Do-1743768533-1.1.1.1-RZoAt8inv.eqNsKAX7zLH.L8rPkISsTVL0k4p1cDNYwre5vVIOS6BC3oTJDiaDrM",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/92b0b198edeef820/1743768534210/cee5859645bb21cd6dfc8e097aef4724d7cb72a5c3937122d09663f6516e4976/TqXGB-KblNQtvgV",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/708f7a809116/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/64912bd87b0e/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://news.va.gov/wp-content/uploads/sites/3/2025/02/Award-medal_vp1.jpg",
     "https://news.va.gov/wp-content/uploads/sites/3/2025/02/Tai-Chi_VP1-1.jpg",
@@ -82,9 +84,11 @@
     "https://scripts.withcabin.com/hello.js",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".va.gov"
   ],

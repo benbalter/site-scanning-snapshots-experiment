@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b7124ba31f4cef4b3ad1b02a0d3b0759",
+  "page_hash": "51a8c4ef7f0ae0158013f1d762e1e5e2",
   "accessibility_violations": null,
-  "pageviews": 3,
-  "visits": 3,
+  "pageviews": 7,
+  "visits": 7,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -43,22 +43,28 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-LJ4WTELRG6",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-4K6MBHFT35,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "geodesy.noaa.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://geodesy.noaa.gov/ngsstandard/images/redbullet.gif",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".noaa.gov"
   ],

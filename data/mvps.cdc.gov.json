@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "729a6805d6049d0742e6aba7dce953ac",
+  "page_hash": "5712b6c958af39072c27f06e8dc69059",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,16 +55,21 @@
   "third_party_service_domains": [
     "cdc.112.2o7.net",
     "search.usa.gov",
+    "stats.search.usa.gov",
     "www.google-analytics.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/devcdc/1/H.21/s87268419529561",
+    "https://cdc.112.2o7.net/b/ss/devcdc/1/H.21/s85933531601473",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
+    "https://search.usa.gov/assets/stats.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://stats.search.usa.gov/stats.gif",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".auth.cdc.gov",
     ".cdc.gov"

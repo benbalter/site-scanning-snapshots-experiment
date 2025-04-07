@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "db94c2f9d05d2198751a9bc68ca33e9d",
+  "page_hash": "bcc80e8f5d96d615734898a9025781e9",
   "accessibility_violations": null,
-  "pageviews": 250,
-  "visits": 163,
+  "pageviews": 90,
+  "visits": 74,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -52,7 +52,7 @@
     "pga4": "G-DFN0H6SPPL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-kRDYkOo,G-qTFHyyk5YmL,G-mJWXZu,G-KnB18ZWYWoriJWU,G-zZCq5vWZs4,G-vIS3C,G-fJNK5IsmYSFa1Bb,G-FKU08VA9B,G-TZldOXo2xdrGJiP,G-6bM5Htmt7y724sZ,G-7nbNr1b,G-qWFR65,G-bvZuVtKvFxXGtm,G-RPt5,G-qLcaKe4u,G-cKF6GAJm7I6U,G-NsObIw7c,G-qxnJ,G-jYXxfDIjYZxoir6,G-eRTAGJx7zbRv2vx,G-xmzKkC,G-jtn0XD,G-9YKW,G-GXn3Cw,G-b5AGK4PhQ,G-asNNqynU,G-six4hvJL,G-kmBtWa4hsRK2Xbi,G-RVeo,G-QWxipCx4,G-yKvG,G-GaCnKUk5JiuG,G-MTvBvVArC1JnHpH,G-sl5Z3D,G-UWZsKUUGQWD4",
+  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-kiASzuVhlwoqMp1,G-DY1aUbZOfc2ZNqs,G-eVSaA0RmGELM2LE,G-oKOD6mBoLOp6f9E,G-bStE89AHSwV89Ri,G-Nq3wSu,G-OR57SuM9,G-3KRUy22HeULS0Sx,G-NUDtYSVYcBqnGSs,G-TP4Ho5QIpqya70R",
   "third_party_service_domains": [
     "api.parsely.com",
     "cdn.parsely.com",
@@ -68,13 +68,13 @@
   "third_party_service_urls": [
     "https://api.parsely.com/v2/profile",
     "https://cdn.parsely.com/keys/digital.va.gov/p.js",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/9286c221ef018736/1743328809496/Dv9a_YnIfsswEOm",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1172429959:1743326689:rsY2DFBNCo70s__BJQxWuuiNCkTxJZK7fgHTWjfYK5M/9286c221ef018736/M8SrDrS2y9FpuhnC_zkRyYljsJHdzX1.3gmiACkE4kQ-1743328809-1.1.1.1-UciGzyn6AMKCYSVrRi2P.6nhYG7Nc7LRqSLN7OPP8Xzt99E9EzrL5P6D9uInRSo_",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/9286c221ef018736/1743328809499/54f98e3fc91879daa55e894bafbd93ba9e82f67f570b3129c933b4827778abc7/Gdu7OITWgsXQNP5",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/92b0b1d68c0dff0e/1743768544041/aF5LUpmXcMaoWut",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1757313263:1743765369:4CLi_jtrTOmiT6plX_OboB5u0RJQL-s_wUeg3kJCkWM/92b0b1d68c0dff0e/CXdSsNSDYSfgQnE.9Db1YlHXD9fst9dLMFgr7XNOhq0-1743768543-1.1.1.1-HP7wb_BKOCsLxIC.TJvc0rn2B_s0nPVu_ICU2TrRgFVUKrFBQi3vrqSfsF1ktvBB",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/92b0b1d68c0dff0e/1743768544037/4e995c270013dd3dbe573ad3b58ee8122f93c8f77f57fff021fd2dcaea7bf7ff/dyFF8GTazYmi_d7",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/708f7a809116/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/64912bd87b0e/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/sourcesans3/v18/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
@@ -86,8 +86,7 @@
     "https://pro.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2",
     "https://pro.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2",
     "https://scripts.withcabin.com/hello.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [

@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7c3d88991b884bcdf44c84fcb8ff0437",
+  "page_hash": "a277ed6786bb6c317359199b7ee17f75",
   "accessibility_violations": null,
-  "pageviews": 322823,
-  "visits": 25465,
+  "pageviews": 376176,
+  "visits": 28356,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -42,35 +42,27 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "DHHS",
-    "subagency": "CMS"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
-    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "globalsiteanalytics.com",
-    "tags.tiqcdn.com",
-    "www.googletagmanager.com"
+    "tags.tiqcdn.com"
   ],
   "third_party_service_urls": [
     "https://adobe-ep.cms.gov/ee/v1/interact",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://globalsiteanalytics.com/resource/resource.png",
     "https://globalsiteanalytics.com/service/hdim",
-    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.44.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.6.js",
-    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://tags.tiqcdn.com/utag/cmsgov/cms-general/prod/utag.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".cms.gov"
   ],

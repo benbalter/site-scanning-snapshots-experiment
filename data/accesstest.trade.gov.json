@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ec27f1aaf1260f27148ba8d2af3a6097",
+  "page_hash": "c06614114b4a36efe0046129a3e51b32",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,6 +55,7 @@
   "dap_version": "20150519 v2.01 - Universal Analytics",
   "ga_tag_id": "UA-33523145-1,G-80848CZS0F",
   "third_party_service_domains": [
+    "csp.withgoogle.com",
     "fonts.gstatic.com",
     "resources.digital-cloud-gov.medallia.com",
     "www.google-analytics.com",
@@ -63,6 +64,7 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/onsite/generic1742503710167.js",
@@ -70,14 +72,13 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".accesstest.trade.gov",
     ".trade.gov",

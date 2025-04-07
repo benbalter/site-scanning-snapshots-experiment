@@ -50,16 +50,19 @@
   "third_party_service_domains": [
     "nihlibrary.nih.gov",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.nihlibrary.nih.gov"
   ],
   "third_party_service_urls": [
     "https://nihlibrary.nih.gov/sites/default/files/static_nihlibrary_header.png",
     "https://nihlibrary.nih.gov/sites/default/files/static_nihlibrary_links.png",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.nihlibrary.nih.gov/sites/default/files/static_nihlibrary_header.png",
+    "https://www.nihlibrary.nih.gov/sites/default/files/static_nihlibrary_links.png"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nih.gov"
   ],

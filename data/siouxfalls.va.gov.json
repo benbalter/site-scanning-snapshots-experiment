@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "0d06b16361989ed6cde416555b414c9b",
+  "page_hash": "d59c85726916e449c2f50e27fe8cb2e2",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,6 +48,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-YPB3FD0PQ9",
   "third_party_service_domains": [
+    "cdn.eo.va.gov",
     "dap.digitalgov.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
     "resource.digital.voice.va.gov",
@@ -55,6 +56,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.eo.va.gov/vendor/fa5/current/webfonts/fa-solid-900.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/bitter-bold.woff2",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/sourcesanspro-bold-webfont.woff2",
@@ -67,6 +69,7 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/web-components.entry.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/embed.js",
     "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/generic1731941049831.js",
+    "https://resource.digital.voice.va.gov/wdcvoice/2/onsite/onsiteData1742906678803.json",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/assets/content-build.css",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/arrow-right-white.svg",
     "https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/design/icons/favicon.ico",
@@ -81,7 +84,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".va.gov",
     "www.va.gov"

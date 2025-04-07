@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "60a87e6ba7ec5a1f42227a6874bf6390",
+  "page_hash": "8c45dffa95d7014b27c5a3aec83466be",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,35 +47,39 @@
   "dap": true,
   "dap_parameters": {
     "ver": "true",
-    "agency": "VA"
+    "agency": "VA",
+    "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-B2lDbeYlNZojtoc,G-72DGs7tfJlzluOq,G-AW5cITZQqpIoOw,G-dSHIA0ZABIsRrDd,G-0NMpsBT3vFAUB9A,G-xs3rYjzZtCEEjSk,G-Y7sSzw",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-rbNkG50LZUZp21O,G-xZUxmPtxVnSxRWd,G-hBiQUgOxLAQUx1x,G-FOiT4LhvZjTiG8v,G-xp3g,G-nUsteRA9DsjEgcB,G-HJb2NLxtw04V460,G-GSxyQEbH",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
     "ping.withcabin.com",
     "scripts.withcabin.com",
     "unpkg.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/92872442ee62b876/1743332828868/yJpGSQxnruKJkOC",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/532435795:1743330553:QKzdxS7yqkx_vEIVfeOpfheKsTTQDfap35ixHS35Pks/92872442ee62b876/gH2PrLouMthzVnmv9V0zyH_BrbkTMPXGPGF.F2VBR58-1743332828-1.1.1.1-V.AvNZzUWteATcY3i90CAiKIEICoQVJCgo02Tdq1eHVEDTvlc1N9efJ5akI578lj",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/92872442ee62b876/1743332828872/a35b08d1f274d24be8892dc03335b4a57bac52b638b6637b33b293f4222ae46c/HHZFnH1NX9VS7Ps",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/92b0b7a44930ef8c/1743768781769/atxgnyBPlI4yD-1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1595068457:1743765219:XjBlMVBPNCeoF4ghjucjgVnpI8mpUvSKrBYVB1Ii-VU/92b0b7a44930ef8c/dSVLU_.5BZt5eiF5_wR4GNmruQew_rDUujmyFN9OBbY-1743768781-1.1.1.1-1tSKMWb0lRfASh4ZY.5e37YyYWIRFUUyo1MQnsuT4MUj8KnI5c_7O670GDqKeHXk",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/92b0b7a44930ef8c/1743768781764/b0a8eb0db4c5f3533c2e57e6d2cecc5ad268fcc3bfac6b398a064058716eae1b/8oRHxCyTRzo1L3j",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/708f7a809116/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/64912bd87b0e/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
     "https://scripts.withcabin.com/hello.js",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css",
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".va.gov"
   ],

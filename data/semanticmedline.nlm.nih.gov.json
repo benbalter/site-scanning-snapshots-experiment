@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "aa7119c612f9af99e53157c69656a073",
+  "page_hash": "53f178d045fd82ae1b965d6ef3358f56",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -58,7 +58,9 @@
     "https://partner.archive-it.org/static/AIT_Analytics.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".wayback.archive-it.org"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -129,9 +131,9 @@
   "uswds_usa_classes": 50,
   "uswds_string": 4,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": null,
-  "uswds_version": 0,
-  "uswds_count": 114,
+  "uswds_semantic_version": "v2.11.1",
+  "uswds_version": 100,
+  "uswds_count": 214,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

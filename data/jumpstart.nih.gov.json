@@ -27,16 +27,16 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "execution_context_destroyed",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fdcb6628ba22eae609bf3485b44f98d6",
+  "page_hash": "7ac1f09d5f84b27dfd4ae7fffa4d7ec3",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -51,15 +51,13 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "fonts.googleapis.com",
-    "fonts.gstatic.com",
-    "www.nih.gov"
+    "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css2",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://www.nih.gov/favicon.ico"
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nih.gov",
     "auth.nih.gov"
