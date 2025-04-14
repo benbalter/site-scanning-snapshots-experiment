@@ -5,7 +5,7 @@
   "initial_base_domain": "usgs.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://vawv-gis.usgs.gov/portal/sharing/oauth2/authorize?client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%22%2C%22uid%22%3A%22L8cWwvBWdNGiD8B3MDggwrHFa4JFcM2XdyVL1pjR2f0%22%2C%22returnUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2F%22%2C%22useLandingPage%22%3Afalse%2C%22clientId%22%3A%22arcgisonline%22%7D&expiration=20160&locale=en&redirect_uri=https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2Faccountswitcher-callback.html&code_challenge=tdN6toSZS16x0VykoYZh3H6tSm-Ml4W2kO0Q8oaNfec&code_challenge_method=S256&display=default&force_login=false&hideCancel=true&showSignupOption=true&canHandleCrossOrgSignIn=true&signuptype=esri",
+  "url": "https://vawv-gis.usgs.gov/portal/sharing/oauth2/authorize?client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%22%2C%22uid%22%3A%22MtOj7qqSqJVhhUvnZ-HfIgQxJVcaUxnn0ysZyIByRgU%22%2C%22returnUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2F%22%2C%22useLandingPage%22%3Afalse%2C%22clientId%22%3A%22arcgisonline%22%7D&expiration=20160&locale=en&redirect_uri=https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2Faccountswitcher-callback.html&code_challenge=TA5svJpkwrGMp1WnthRWPnkpVFk2jLmVsqcYK-Po34I&code_challenge_method=S256&display=default&force_login=false&hideCancel=true&showSignupOption=true&canHandleCrossOrgSignIn=true&signuptype=esri",
   "domain": "vawv-gis.usgs.gov",
   "base_domain": "usgs.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,8 @@
     "dap",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "42a834f1a88a4ed3ce9f414dd36900f2",
-  "accessibility_violations": null,
-  "pageviews": 191,
-  "visits": 157,
+  "page_hash": "42fe44222f29d21471fa942f7595aa2f",
+  "accessibility_violations": "{\"page-titled\":1}",
+  "pageviews": 169,
+  "visits": 144,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,6 +55,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".usgs.gov",
     ".vawv-gis.usgs.gov"
   ],
   "viewport_meta_tag": true,

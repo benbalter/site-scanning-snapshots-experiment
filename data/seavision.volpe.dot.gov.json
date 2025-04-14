@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "68fddf914f576e316d3c67c8f90805f6",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -97,7 +98,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "a198a89a49cc604e2454a8e837fc1630",
+  "sitemap_xml_page_hash": "68bf869a1c93bc250dd2e737f01ae598",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

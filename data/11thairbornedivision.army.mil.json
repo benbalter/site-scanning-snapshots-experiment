@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b68a0b3bfbb76a2a84f648acdfccb46f",
-  "accessibility_violations": null,
-  "pageviews": 15569,
-  "visits": 8307,
+  "page_hash": "e6868bbf91bba80770f0c2c0f58afc89",
+  "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":3}",
+  "pageviews": 15243,
+  "visits": 8189,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -60,6 +60,7 @@
     "connect.facebook.net",
     "dap.digitalgov.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -71,9 +72,10 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".army.mil"
   ],

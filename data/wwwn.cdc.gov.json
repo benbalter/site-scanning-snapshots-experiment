@@ -25,7 +25,8 @@
     "usagov",
     "gov_man",
     "final_url_websites",
-    "gpo_fdlp"
+    "gpo_fdlp",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -38,9 +39,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "086707e4369f60afedcafb16050a7618",
-  "accessibility_violations": null,
-  "pageviews": 2154866,
-  "visits": 346037,
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
+  "pageviews": 1558790,
+  "visits": 340197,
   "ipv6": true,
   "hostname": "azurefd.net",
   "cms": null,
@@ -55,7 +56,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cdc.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

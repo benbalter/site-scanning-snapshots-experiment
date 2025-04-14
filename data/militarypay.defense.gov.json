@@ -25,7 +25,8 @@
     "mil-sites1",
     "mil-sites2",
     "dod_public",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -37,10 +38,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7efd4d902e4c5dbcc0c31b75abfb47b8",
-  "accessibility_violations": null,
-  "pageviews": 741024,
-  "visits": 436471,
+  "page_hash": "97f65f0ca2b4d1a6800a391f394c37e1",
+  "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":4}",
+  "pageviews": 719234,
+  "visits": 421005,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -66,9 +67,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],

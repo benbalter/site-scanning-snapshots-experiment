@@ -22,19 +22,20 @@
     "omb_idea",
     "2020_eot",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "228635ef96212b986e88333a5e3deb27",
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "6129cfe140d99f60e9fd7de79de13d29",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,14 +51,16 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-M8R8S3W00M",
   "third_party_service_domains": [
+    "analytics.google.com",
     "dap.digitalgov.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -122,7 +125,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://www.science.education.nih.gov",
-  "www_status_code": 200,
-  "www_title": "Homepage | STEM Teaching Resources"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

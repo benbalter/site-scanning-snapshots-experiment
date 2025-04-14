@@ -32,9 +32,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "4aa4615ada0fe4c77a3bf1f28c34d233",
-  "accessibility_violations": null,
-  "pageviews": 493,
-  "visits": 102,
+  "accessibility_violations": "{\"language\":1}",
+  "pageviews": 431,
+  "visits": 99,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -49,7 +49,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

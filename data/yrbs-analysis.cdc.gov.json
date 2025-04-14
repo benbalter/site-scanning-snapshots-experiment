@@ -21,7 +21,8 @@
     "dap",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "363d79e99d248ec84c34f467cf1f17f2",
-  "accessibility_violations": null,
-  "pageviews": 915,
-  "visits": 769,
+  "accessibility_violations": "{\"contrast\":1,\"lists\":2}",
+  "pageviews": 801,
+  "visits": 723,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -57,7 +58,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s83586413774834",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s28243253248489",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
@@ -100,7 +101,7 @@
   "robots_txt_url": "https://yrbs-analysis.cdc.gov/robots.txt",
   "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 9762,
+  "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,

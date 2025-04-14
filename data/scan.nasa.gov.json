@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "07dd8d23aa9436164d90f5a41010ce6f",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"aria\":3,\"images\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -60,11 +61,13 @@
     "https://ka-f.fontawesome.com/releases/v6.7.2/css/free-v5-font-face.min.css",
     "https://ka-f.fontawesome.com/releases/v6.7.2/css/free.min.css",
     "https://ka-f.fontawesome.com/releases/v6.7.2/webfonts/free-fa-brands-400.woff2",
+    "https://ka-f.fontawesome.com/releases/v6.7.2/webfonts/free-fa-regular-400.woff2",
     "https://ka-f.fontawesome.com/releases/v6.7.2/webfonts/free-fa-solid-900.woff2",
     "https://kit.fontawesome.com/ea2265baf5.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".nasa.gov",
     "www.scan.nasa.gov"
   ],
   "viewport_meta_tag": true,

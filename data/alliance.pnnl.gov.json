@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "a26b430fdda4f9c203a47562dae419f3",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":9,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -59,7 +60,9 @@
     "https://www.pnnl.gov/images/search_button.png"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".pnnl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

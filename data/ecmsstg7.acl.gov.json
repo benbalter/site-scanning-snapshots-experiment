@@ -18,11 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,7 +35,7 @@
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "azurefd.net",
   "cms": null,
   "login_provider": null,

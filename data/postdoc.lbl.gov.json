@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -32,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bcdfa5829033df18c9e8d7d5cdbb0782",
-  "accessibility_violations": null,
+  "page_hash": "851874cd8fa3bcf2a19a359e8ee74e7a",
+  "accessibility_violations": "{\"contrast\":17,\"link-purpose\":9}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -98,8 +99,8 @@
   "robots_txt_url": "https://postdoc.lbl.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 116,
-  "robots_txt_crawl_delay": null,
+  "robots_txt_filesize": 131,
+  "robots_txt_crawl_delay": 10,
   "robots_txt_sitemap_locations": [
     "https://postdoc.lbl.gov/wp-sitemap.xml"
   ],

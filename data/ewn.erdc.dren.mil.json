@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "958c45035e71a7b3e6d74e758deeaebf",
-  "accessibility_violations": null,
+  "page_hash": "aee7c61f148c655d8ca0b69bb5db032b",
+  "accessibility_violations": "{\"contrast\":13,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -51,7 +51,6 @@
   "ga_tag_id": "UA-122575507-3,G-92FML7RFNR",
   "third_party_service_domains": [
     "c.statcounter.com",
-    "csp.withgoogle.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "secure.statcounter.com",
@@ -62,7 +61,6 @@
   ],
   "third_party_service_urls": [
     "https://c.statcounter.com/t.php",
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/earlyaccess/opensanshebrewcondensed.css",
     "https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.woff2",
@@ -70,6 +68,7 @@
     "https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.woff2",
     "https://fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+    "https://fonts.gstatic.com/s/oswald/v53/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://secure.statcounter.com/counter/counter.js",
@@ -80,10 +79,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".dren.mil",
     ".ewn.erdc.dren.mil",

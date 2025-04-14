@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "09cf68562a3a05dcb3b819104d81caca",
-  "accessibility_violations": null,
+  "page_hash": "b19b4c1cc949ff373b18827a03d8de99",
+  "accessibility_violations": "{\"aria\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,7 +49,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-CSLL4ZEK4L,G-NQ5ZN114SB,UA-33523145-1,G-HF5V26MT25,G-0623JYSC1Q",
   "third_party_service_domains": [
-    "analytics.google.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -60,7 +60,6 @@
     "zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
@@ -83,11 +82,10 @@
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-solid-900.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".transportation.gov",
     "www.transportation.gov"

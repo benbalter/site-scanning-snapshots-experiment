@@ -20,7 +20,8 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "completed",
-  "page_hash": "15c51f0b7ec52a6874823cb7e1e65701",
-  "accessibility_violations": null,
+  "page_hash": "6e916131635687071ebbae25da7a6302",
+  "accessibility_violations": "{\"contrast\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -53,7 +54,6 @@
     "76378.global.siteimproveanalytics.io",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
-    "edit.doi.gov",
     "siteimproveanalytics.com",
     "www.googletagmanager.com"
   ],
@@ -62,12 +62,10 @@
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://edit.doi.gov/sites/default/files/2025-03/week-march-28-captions.vtt",
-    "https://edit.doi.gov/sites/default/files/styles/medium_4_3/public/images/2025-03/1main-thumb-this-week-march-28.jpg",
     "https://siteimproveanalytics.com/js/siteanalyze_76378.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".doi.gov"
   ],

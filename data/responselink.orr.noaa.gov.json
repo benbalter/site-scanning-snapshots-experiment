@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "0ade31f8f91b460a011f15f049b375bd",
-  "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "accessibility_violations": "{\"contrast\":3,\"language\":1,\"images\":1}",
+  "pageviews": 6,
+  "visits": 6,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -57,7 +58,9 @@
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -31,17 +32,15 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6ac98867c47d9cd85a5f14ca91452661",
+  "page_hash": "ac087fd013075138889cebcbdc2d7467",
   "accessibility_violations": null,
-  "pageviews": 125,
-  "visits": 32,
+  "pageviews": 104,
+  "visits": 26,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
   "login_provider": null,
-  "login": [
-    "\"password\""
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
@@ -54,8 +53,6 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "dev.madeinamerica.gov",
-    "gov-bam.nr-data.net",
-    "js-agent.newrelic.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
@@ -71,16 +68,13 @@
     "https://dev.madeinamerica.gov/media/images/sam-gov-logo.original.png",
     "https://dev.madeinamerica.gov/media/images/sba-logo.original.png",
     "https://dev.madeinamerica.gov/media/images/waivers.original.png",
-    "https://gov-bam.nr-data.net/1/NRJS-ccaae244e919a6b8126",
-    "https://gov-bam.nr-data.net/events/1/NRJS-ccaae244e919a6b8126",
-    "https://js-agent.newrelic.com/nr-spa-1.285.0.min.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/c9337227.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cloud.gov"
   ],

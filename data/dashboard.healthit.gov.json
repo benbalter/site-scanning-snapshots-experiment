@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "gpo_fdlp"
+    "gpo_fdlp",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "58b76c4eb84013c2429db83a20f47e5e",
-  "accessibility_violations": null,
-  "pageviews": 510,
-  "visits": 199,
+  "page_hash": "96ee9e99051930fd25b4bbbb11060d54",
+  "accessibility_violations": "{\"images\":6,\"link-purpose\":12}",
+  "pageviews": 29,
+  "visits": 25,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -48,7 +49,7 @@
     "subagency": "ONC"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-7SZDMS75VC,UA-65372500-1,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-7SZDMS75VC,G-CSLL4ZEK4L,UA-65372500-1",
   "third_party_service_domains": [
     "addevent.com",
     "analytics.google.com",
@@ -75,7 +76,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0062/5552/sampling/www.healthit.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0062/5552/site/www.healthit.gov.json",
     "https://script.crazyegg.com/pages/scripts/0062/5552.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
     "https://www.addevent.com/libs/atc/1.6.1/atc.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",

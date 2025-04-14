@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a488b2dac79a175c93a8092f411f0fea",
+  "page_hash": "5f11d314e73a7c120bd22841bf38ccb2",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,40 +50,40 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,UA-1698803-1,UA-27627304-1,G-RBLGN169MR,G-X6SE0724V5,G-VYRH7BQ1FL",
   "third_party_service_domains": [
-    "c.bing.com",
-    "c.clarity.ms",
-    "d.clarity.ms",
+    "6334075.global.r2.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "script.hotjar.com",
     "siteimproveanalytics.com",
     "static.hotjar.com",
+    "survey-images.hotjar.com",
+    "surveystats.hotjar.io",
     "www.clarity.ms",
     "www.google-analytics.com",
-    "www.googletagmanager.com",
-    "{account_id}.global.siteimproveanalytics.io"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://c.bing.com/c.gif",
-    "https://c.clarity.ms/c.gif",
-    "https://d.clarity.ms/collect",
+    "https://6334075.global.r2.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgDcqd10Pey7i3m4.woff",
     "https://fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ7QwOk1.woff2",
-    "https://script.hotjar.com/modules.47bdc3ea03ae568fad7d.js",
+    "https://script.hotjar.com/Roboto-Medium.ef8bb0.woff2",
+    "https://script.hotjar.com/Roboto-Regular.422781.woff2",
+    "https://script.hotjar.com/modules.f98993dba31a932bc912.js",
+    "https://script.hotjar.com/survey-v2.2425b08480075a6c25b3.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6334075.js",
     "https://static.hotjar.com/c/hotjar-3285588.js",
-    "https://www.clarity.ms/s/0.8.1/clarity.js",
+    "https://survey-images.hotjar.com/surveys/logo/3f9d966ac128452484da8d032a5a8220",
+    "https://surveystats.hotjar.io/hit",
     "https://www.clarity.ms/tag/l4qy1z9e87",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://{account_id}.global.siteimproveanalytics.io/image.aspx"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".fsa.usda.gov",
     ".usda.gov"

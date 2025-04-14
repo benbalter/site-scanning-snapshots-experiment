@@ -1,13 +1,13 @@
 {
-  "name": "treasurydirect.gov",
+  "name": "bondpro.gov",
   "initial_url": "https://bondpro.gov",
   "initial_domain": "bondpro.gov",
   "initial_base_domain": "bondpro.gov",
   "initial_top_level_domain": "gov",
-  "redirect": true,
-  "url": "https://www.treasurydirect.gov/savings-bonds/cashing-a-bond/savings-bond-pro/",
-  "domain": "www.treasurydirect.gov",
-  "base_domain": "treasurydirect.gov",
+  "redirect": false,
+  "url": "https://bondpro.gov/",
+  "domain": "bondpro.gov",
+  "base_domain": "bondpro.gov",
   "top_level_domain": "gov",
   "live": true,
   "filter": false,
@@ -19,7 +19,9 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,10 +32,10 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "connection_reset",
-  "page_hash": "ec603ab4bcdf5f10f1e25eefcd198a98",
-  "accessibility_violations": null,
-  "pageviews": 105,
+  "www_scan_status": "completed",
+  "page_hash": "a7fe8948d731c9b9c8288dcc8760b4b9",
+  "accessibility_violations": "{\"frames-iframes\":1,\"images\":1}",
+  "pageviews": 94,
   "visits": 66,
   "ipv6": true,
   "hostname": null,
@@ -57,13 +59,13 @@
     "translate-pa.googleapis.com",
     "translate.google.com",
     "translate.googleapis.com",
-    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
     "https://gateway.foresee.com/code/19.14.7-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.14.7-fs/fs.utils.js",
@@ -72,7 +74,6 @@
     "https://translate.google.com/translate_a/element.js",
     "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.wX7qQ5EH6oI.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfrNtUAtY-e6eilwMrQxoU8LiA-1Hg/m=el_main",
     "https://translate.googleapis.com/translate_static/img/te_ctrl3.gif",
-    "https://www.google-analytics.com/g/collect",
     "https://www.google.com/images/cleardot.gif",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
@@ -80,10 +81,10 @@
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
-    ".treasurydirect.gov",
-    "www.treasurydirect.gov"
+    ".bondpro.gov",
+    "bondpro.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [
@@ -124,11 +125,11 @@
   "sitemap_xml_url": "https://bondpro.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 215281,
-  "sitemap_xml_count": 1861,
+  "sitemap_xml_filesize": 215381,
+  "sitemap_xml_count": 1862,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "1d988f11954f4b368f549d28730af05c",
+  "sitemap_xml_page_hash": "866a33a5f200c55596dc1b693142dd96",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
@@ -142,7 +143,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 80,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.treasurydirect.gov/savings-bonds/cashing-a-bond/savings-bond-pro",
+  "www_status_code": 200,
+  "www_title": "Savings Bond Pro® — TreasuryDirect"
 }

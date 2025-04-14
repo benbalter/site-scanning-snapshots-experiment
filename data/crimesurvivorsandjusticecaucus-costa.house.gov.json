@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "175059bb3081c95e276be9ea2107e547",
+  "page_hash": "823fd576b10a177a1bce84c4df1bc393",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -83,7 +83,9 @@
     "https://unpkg.com/aos@next/dist/aos.js"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

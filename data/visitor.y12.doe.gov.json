@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "332134c61191b52ed6eb107af0fbc5c1",
-  "accessibility_violations": null,
+  "page_hash": "737b426a593e4a8ffd39d8a65cc284c0",
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -50,7 +51,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".doe.gov",
     "visitor.y12.doe.gov"
   ],
   "viewport_meta_tag": false,
@@ -87,7 +87,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "6dc81e239a054111f5ad91f52717f379",
+  "sitemap_xml_page_hash": "5a9d758b97719699d186c985bbe6b1e9",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

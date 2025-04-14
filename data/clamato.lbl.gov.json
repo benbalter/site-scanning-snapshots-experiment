@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "1fa139a9887eac48fc91207ec1ad375e",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -84,8 +85,8 @@
   "robots_txt_url": "https://clamato.lbl.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 116,
-  "robots_txt_crawl_delay": null,
+  "robots_txt_filesize": 131,
+  "robots_txt_crawl_delay": 10,
   "robots_txt_sitemap_locations": [
     "https://clamato.lbl.gov/wp-sitemap.xml"
   ],

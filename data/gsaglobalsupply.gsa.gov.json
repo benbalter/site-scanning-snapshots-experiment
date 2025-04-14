@@ -22,11 +22,12 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "125862d5f29b7c052cd0cd3323897e96",
+  "page_hash": "6c3f472bc7d854358e4cd939439a6a80",
   "accessibility_violations": null,
-  "pageviews": 288141,
-  "visits": 29616,
+  "pageviews": 329183,
+  "visits": 35141,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -53,7 +54,6 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-HBYXWFP794",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "gsaglobalsupply.gsa.gov",
     "gsasolutionssecure.gsa.gov",
     "img.en25.com",
     "maxcdn.bootstrapcdn.com",
@@ -62,7 +62,6 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://gsaglobalsupply.gsa.gov/favicon.ico",
     "https://gsasolutionssecure.gsa.gov/visitor/v200/svrGP",
     "https://img.en25.com/i/elqCfg.min.js",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -71,7 +70,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".gsa.gov",
     "www.gsaglobalsupply.gsa.gov"

@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "401b520b4c552784b2bcc0a4402953d4",
-  "accessibility_violations": null,
+  "page_hash": "6099770f6f232d82176d88b407213d41",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,7 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-3Y1EP04WVV,G-CSLL4ZEK4L,UA-27627304-1,UA-96909960-1,G-VYRH7BQ1FL,G-MKM7D79XFX",
   "third_party_service_domains": [
-    "10612.global.siteimproveanalytics.io",
+    "63343.global.siteimproveanalytics.io",
     "analytics.google.com",
     "c.bing.com",
     "c.clarity.ms",
@@ -63,13 +64,13 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://10612.global.siteimproveanalytics.io/image.aspx",
+    "https://63343.global.siteimproveanalytics.io/image.aspx",
     "https://analytics.google.com/g/collect",
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.clarity.ms/collect",
-    "https://script.hotjar.com/modules.47bdc3ea03ae568fad7d.js",
+    "https://script.hotjar.com/modules.f98993dba31a932bc912.js",
     "https://siteimproveanalytics.com/js/siteanalyze_10612.js",
     "https://static.hotjar.com/c/hotjar-863348.js",
     "https://us1.siteimprove.com/js/siteanalyze_63343.js",
@@ -86,7 +87,7 @@
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "foia",
+    "about",
     "privacy",
     "spanish"
   ],
@@ -105,7 +106,7 @@
   "og_title": "Beginning Farmers and Ranchers",
   "og_description": "Learn how USDA can help new farmers with a variety of programs and services like how to start a farm, farm loans, crop insurance, conservation, and disaster assistance.",
   "og_article_published": "2023-02-01T19:50:25.000Z",
-  "og_article_modified": "2025-02-20T13:17:26.000Z",
+  "og_article_modified": "2025-04-11T12:05:08.000Z",
   "og_image": "https://www.farmers.gov/sites/default/files/img/farmersgov-1440x300-farm-learning.jpg",
   "og_type": "website",
   "og_url": "https://www.farmers.gov/your-business/beginning-farmers",
@@ -137,7 +138,10 @@
     "usa-accordion",
     "usa-accordion-button",
     "usa-accordion-content",
+    "usa-alert",
     "usa-alert-body",
+    "usa-alert-heading",
+    "usa-alert-info",
     "usa-alert-link",
     "usa-alert-text",
     "usa-banner",

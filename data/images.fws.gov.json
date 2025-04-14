@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +31,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ac585a093069d71e63624d905b154364",
-  "accessibility_violations": null,
+  "page_hash": "a886717aae46fbcf63200b3c65bc2f7f",
+  "accessibility_violations": "{\"contrast\":39}",
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,

@@ -5,7 +5,7 @@
   "initial_base_domain": "hpc.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://oidc.hwss.hpc.mil/authentication?response_type=code&scope=hpcmp%20openid%20profile&client_id=Ha7KLwWfwhbS&state=weilOU6Hyx2olVZqR8Y9L137rg4&redirect_uri=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect&nonce=YoDnxGkT_CA3-d_IKYoSIbZZbUZpiaWwtE92jIZcJ1U&iss=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect",
+  "url": "https://oidc.hwss.hpc.mil/authentication?response_type=code&scope=hpcmp%20openid%20profile&client_id=Ha7KLwWfwhbS&state=hywgx3B09cLvfHMQWE2LbQJAL1A&redirect_uri=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect&nonce=75ubDIBDjA22u04l7zrNjecT_B6dOFKyKuv20Cf6DnU&iss=https%3A%2F%2Freservation.hpc.mil%2Freserve%2Fredirect",
   "domain": "oidc.hwss.hpc.mil",
   "base_domain": "hpc.mil",
   "top_level_domain": "mil",
@@ -25,7 +25,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -56,6 +56,7 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".hpc.mil",
     ".oidc.hwss.hpc.mil",
     "oidc.hwss.hpc.mil"
   ],

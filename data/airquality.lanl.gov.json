@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "72def131e3a504873d6a6d6e8a617adc",
-  "accessibility_violations": null,
+  "page_hash": "5d9e3026246c4de3d04b7442ec45d95c",
+  "accessibility_violations": "{\"contrast\":6,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -82,6 +83,7 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".lanl.gov",
     "airquality.lanl.gov"
   ],
   "viewport_meta_tag": false,

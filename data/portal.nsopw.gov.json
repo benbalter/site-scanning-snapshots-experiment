@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b4ee1001d6d72c9fd9cf6610cbab72be",
-  "accessibility_violations": null,
+  "page_hash": "e6146913f541c7f7d62f6951055a6d75",
+  "accessibility_violations": "{\"contrast\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -54,7 +55,7 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "s.clarity.ms",
+    "d.clarity.ms",
     "www.clarity.ms",
     "www.google-analytics.com",
     "www.googletagmanager.com"
@@ -62,7 +63,7 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://s.clarity.ms/collect",
+    "https://d.clarity.ms/collect",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/hganvvr47x",
     "https://www.google-analytics.com/analytics.js",

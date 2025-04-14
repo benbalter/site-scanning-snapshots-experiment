@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -32,12 +33,12 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1f07e2bfc066858a1fedf4865c340a39",
+  "page_hash": "efb9399dffc2e3e4c97e2d64ff47adb0",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
-  "hostname": "edgekey.net",
+  "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
   "login": null,
@@ -48,7 +49,6 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "analytics.foresee.com",
     "cdn.jsdelivr.net",
     "code.jquery.com",
     "fonts.googleapis.com",
@@ -57,7 +57,6 @@
     "script.crazyegg.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.foresee.com/ingest/events",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js",
     "https://code.jquery.com/jquery-2.2.4.min.js",
@@ -68,18 +67,14 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.compress.js",
-    "https://gateway.foresee.com/code/19.14.10-fs/fs.invite.js",
-    "https://gateway.foresee.com/code/19.14.10-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.utils.js",
-    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/invite___html.js",
-    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/sites/newsinhealth/production/gateway.min.js",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/sampling/devtestdomain.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/site/devtestdomain.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0011/2616.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js"
+    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nih.gov"
   ],

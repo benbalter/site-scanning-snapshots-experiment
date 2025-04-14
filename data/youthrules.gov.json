@@ -20,11 +20,12 @@
   "source_list": [
     "gov",
     "pulse",
-    "2020_eot"
+    "2020_eot",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "56bcad8089ea8c0abf1b30896d485aea",
+  "page_hash": "5dea55707b5526832dbc1df9b5b52245",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,7 +49,7 @@
     "agency": "DOL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-P7V59WHBJK,G-HZ8Y6WJF2K,UA-175033420-4,G-CSLL4ZEK4L,G-h5kotOqDeAJwPs9,G-AEoY19eXZpY",
+  "ga_tag_id": "G-LTGX1LSENR,G-988WLCRHJJ,UA-175033420-4,G-8D6G2LK2BW,G-P7V59WHBJK,G-HZ8Y6WJF2K,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6313124.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
@@ -57,6 +58,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "googleads.g.doubleclick.net",
+    "gov1.siteintercept.qualtrics.com",
     "i.ytimg.com",
     "invalid",
     "jnn-pa.googleapis.com",
@@ -70,7 +72,8 @@
     "www.googletagmanager.com",
     "www.gstatic.com",
     "www.youtube.com",
-    "yt3.ggpht.com"
+    "yt3.ggpht.com",
+    "zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
     "https://6313124.global.r2.siteimproveanalytics.io/image.aspx",
@@ -85,6 +88,9 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://googleads.g.doubleclick.net/pagead/id",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://i.ytimg.com/vi/ErhHfFEDd5U/sd2.jpg",
     "https://i.ytimg.com/vi/Si7jcXkMeeI/sd2.jpg",
     "https://i.ytimg.com/vi/YAVSET9Lqd0/sd2.jpg",
@@ -97,24 +103,26 @@
     "https://script.crazyegg.com/pages/data-scripts/0074/6572/site/www.dol.gov.json",
     "https://script.crazyegg.com/pages/scripts/0074/6572.js",
     "https://script.crazyegg.com/pages/scripts/0119/2371.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6313124.js",
     "https://static.doubleclick.net/instream/ad_status.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.google.com/js/th/mb36QiQZpRAdIpvWuLtV6guHTjebeSz1WZr8EgQuFnk.js",
+    "https://www.google.com/js/th/6hUYr2UwgSnojgK_U8DEbIJ6fZT_uRxA81qLQtTFsiU.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/73381ccc/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/73381ccc/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/73381ccc/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/73381ccc/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/73381ccc/www-player.css",
-    "https://yt3.ggpht.com/ytc/AIdro_kzW7E5QGt1Fd1-WHemmM0JqsEU-DrN2JPzQxZzjQW5M7o=s68-c-k-c0x00ffffff-no-rj"
+    "https://www.youtube.com/s/player/9599b765/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/9599b765/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/9599b765/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/9599b765/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/9599b765/www-player.css",
+    "https://yt3.ggpht.com/ytc/AIdro_kzW7E5QGt1Fd1-WHemmM0JqsEU-DrN2JPzQxZzjQW5M7o=s68-c-k-c0x00ffffff-no-rj",
+    "https://zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 21,
+  "third_party_service_count": 23,
   "cookie_domains": [
     ".dol.gov"
   ],

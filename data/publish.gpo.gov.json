@@ -31,8 +31,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1169f4233b1f39e1df238cd704e24748",
-  "accessibility_violations": null,
+  "page_hash": "3a545399d23faaf7b8127212b13c9f11",
+  "accessibility_violations": "{\"contrast\":2,\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,30 +48,27 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.gpo.gov",
+    "dc.services.visualstudio.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.gpo.gov/publish/productcategory/books.png",
-    "https://cdn.gpo.gov/publish/productcategory/brochure.png",
-    "https://cdn.gpo.gov/publish/productcategory/business-card.png",
-    "https://cdn.gpo.gov/publish/productcategory/envelope.png",
-    "https://cdn.gpo.gov/publish/productcategory/other.png",
-    "https://cdn.gpo.gov/publish/productcategory/poster.png",
+    "https://cdn.gpo.gov/publish/pages/homepage/federal-agency-customers.jpg",
+    "https://cdn.gpo.gov/publish/pages/homepage/printing-and-publishing-vendors.jpg",
+    "https://dc.services.visualstudio.com/v2/track",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"
   ],
-  "third_party_service_count": 3,
-  "cookie_domains": null,
+  "third_party_service_count": 4,
+  "cookie_domains": [
+    "publish.gpo.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "about",
-    "privacy"
+    "about"
   ],
   "required_links_text": [
-    "about us",
-    "accessibility"
+    "about us"
   ],
   "https_enforced": null,
   "hsts": null,
@@ -93,18 +90,18 @@
   "robots_txt_url": "https://publish.gpo.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 13454,
+  "robots_txt_filesize": 22107,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,
   "sitemap_xml_url": "https://publish.gpo.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": 13454,
+  "sitemap_xml_filesize": 22107,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "036f5e39ce06ad9048ddc0889a171e26",
+  "sitemap_xml_page_hash": "5e06cc002709b3ccf98930ca7a36cb9d",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -22,7 +22,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -35,9 +36,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "5c3a3d12bd7befa4e7c30942de6b75a9",
-  "accessibility_violations": null,
-  "pageviews": 147,
-  "visits": 141,
+  "accessibility_violations": "{\"contrast\":3,\"images\":14}",
+  "pageviews": 164,
+  "visits": 161,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -62,7 +63,9 @@
     "https://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4LcnbuKjk0mRUe0Aw.woff2"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "fear",

@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f4322e606e5ed5c1266f64459ab1b68c",
-  "accessibility_violations": null,
+  "page_hash": "52e7cf92e432df8f4181beb4c675286b",
+  "accessibility_violations": "{\"page-titled\":1,\"link-purpose\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -59,7 +59,9 @@
     "https://fonts.gstatic.com/s/squadaone/v18/BCasqZ8XsOrx4mcOk6Mtaac2WRJnDgo.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".army.mil"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

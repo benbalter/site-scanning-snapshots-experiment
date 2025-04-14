@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e79a5c9ec7bd3ea65b20b9cb652d835a",
-  "accessibility_violations": null,
+  "page_hash": "df80a04acbb34581f9b9b8583c85aee8",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":16}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -78,8 +79,7 @@
     "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7GxP.ttf",
     "https://fonts.gstatic.com/s/robotocondensed/v27/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQk6YvM.woff2",
     "https://s.w.org/images/core/emoji/15.0.3/svg/1f338.svg",
-    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
-    "https://script.hotjar.com/modules.47bdc3ea03ae568fad7d.js",
+    "https://script.hotjar.com/modules.f98993dba31a932bc912.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -91,13 +91,13 @@
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-v4compatibility.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td",
     "https://www.usembassy.gov/wp-content/uploads/sites/144/as-fe.jpg",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 16,
   "cookie_domains": [

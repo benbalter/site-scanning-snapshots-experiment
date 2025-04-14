@@ -24,7 +24,8 @@
     "omb_idea",
     "2020_eot",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "47ed68e36219b32e91e8e2de5710f152",
-  "accessibility_violations": null,
-  "pageviews": 14117,
-  "visits": 9157,
+  "page_hash": "263708e3a401ad277341bc633647731c",
+  "accessibility_violations": "{\"aria\":12,\"form-names\":2,\"contrast\":19,\"images\":6,\"link-purpose\":6}",
+  "pageviews": 14066,
+  "visits": 9061,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -64,13 +65,13 @@
     "fonts.gstatic.com",
     "nmspapahanaumokuakea.blob.core.windows.net",
     "nmssanctuaries.blob.core.windows.net",
+    "sanctuaries.noaa.gov",
     "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
-    "https://cdn.jsdelivr.net/blazy/latest/blazy.min.js",
     "https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css",
     "https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js",
@@ -121,11 +122,12 @@
     "https://nmspapahanaumokuakea.blob.core.windows.net/papahanaumokuakea-prod/media/img/20250327-february-newsletter-1000.jpg",
     "https://nmspapahanaumokuakea.blob.core.windows.net/papahanaumokuakea-prod/media/img/mokumanamana-1200.jpg",
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/20190618-pmnm-waa-manu-1000.jpg",
+    "https://sanctuaries.noaa.gov/media/img/20190618-pmnm-waa-manu-1000.jpg",
     "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/touchpoints/011989c3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".papahanaumokuakea.gov"
   ],

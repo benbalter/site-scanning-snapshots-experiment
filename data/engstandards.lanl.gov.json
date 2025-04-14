@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "907badf05af8176fcfd53470536e1800",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1,\"images\":1,\"lists\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -61,7 +62,8 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".engstandards.lanl.gov"
+    ".engstandards.lanl.gov",
+    ".lanl.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [

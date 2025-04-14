@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "d2cef74d415efa5a12dc793dd72669ac",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -81,7 +82,7 @@
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://integration.accelerate.hhs.gov/sitemap.xml",
   "sitemap_xml_status_code": 502,
-  "sitemap_xml_media_type": "application/json",
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,
   "sitemap_xml_count": null,
   "sitemap_xml_lastmod": null,

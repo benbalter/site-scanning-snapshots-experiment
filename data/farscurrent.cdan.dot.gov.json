@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3ece99389cc1ac9306e93a523982a55a",
+  "page_hash": "4ae5adcb357614d8c345754bfd52b578",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,7 +57,6 @@
   "dap_version": "20240711 v8.4 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "csp.withgoogle.com",
     "farscurrent.cdan.dot.gov",
     "fonts.gstatic.com",
     "www.google.com",
@@ -65,10 +65,10 @@
   ],
   "third_party_service_urls": [
     "http://farscurrent.cdan.dot.gov/login",
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://farscurrent.cdan.dot.gov/api/SecUserPreference/GetSecUserPreferences/",
     "https://farscurrent.cdan.dot.gov/api/util/GetUser",
     "https://farscurrent.cdan.dot.gov/assets/fontawesome/css/all.min.css",
+    "https://farscurrent.cdan.dot.gov/assets/fontawesome/webfonts/fa-solid-900.ttf",
     "https://farscurrent.cdan.dot.gov/assets/fontawesome/webfonts/fa-solid-900.woff",
     "https://farscurrent.cdan.dot.gov/assets/fontawesome/webfonts/fa-solid-900.woff2",
     "https://farscurrent.cdan.dot.gov/main.85b817f5b77251d5.js",
@@ -85,7 +85,7 @@
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".login.gov",
     "secure.login.gov"

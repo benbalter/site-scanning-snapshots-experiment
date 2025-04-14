@@ -20,7 +20,8 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -32,9 +33,9 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2c4f8dbcf8737580b98b9a9635a10bde",
+  "page_hash": "4d5431e362e9f2db4eea6cf85a31efe4",
   "accessibility_violations": null,
-  "pageviews": 536,
+  "pageviews": 498,
   "visits": 186,
   "ipv6": true,
   "hostname": "edgekey.net",
@@ -54,17 +55,19 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "remote.captcha.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://remote.captcha.com/include.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
     "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".bls.gov",
     "blscompdatat.bls.gov"

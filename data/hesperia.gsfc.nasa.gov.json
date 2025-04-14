@@ -22,11 +22,12 @@
     "omb_idea",
     "2020_eot",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -36,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "615c695d4969a4907e4a3b9c40ea3e82",
   "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 2,
+  "visits": 2,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -62,7 +63,9 @@
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",

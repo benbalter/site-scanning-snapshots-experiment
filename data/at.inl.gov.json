@@ -5,7 +5,7 @@
   "initial_base_domain": "inl.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://at.inl.gov/undefined/_layouts/15/AccessDenied.aspx?Source=https%3A%2F%2Fat.inl.gov%2FSitePages%2FHome.aspx&Type=list&correlation=474091a1-95e9-909f-ad61-05fd17fc8ee5",
+  "url": "https://at.inl.gov/undefined/_layouts/15/AccessDenied.aspx?Source=https%3A%2F%2Fat.inl.gov%2FSitePages%2FHome.aspx&Type=list&correlation=525d93a1-153f-909f-ad61-0117528f7738",
   "domain": "at.inl.gov",
   "base_domain": "inl.gov",
   "top_level_domain": "gov",
@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "aborted",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "5d9fca39a5873c19387b870fc5c7fdae",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,

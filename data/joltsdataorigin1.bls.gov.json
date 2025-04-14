@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -30,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "076afc58ab6e8a646109e36c4878388d",
+  "page_hash": "a6bbeabb6e80d3d9d686df593e9c2794",
   "accessibility_violations": null,
-  "pageviews": 56,
-  "visits": 28,
+  "pageviews": 48,
+  "visits": 24,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -52,19 +53,17 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "remote.captcha.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://remote.captcha.com/include.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".bls.gov",
     "joltsdata.bls.gov"

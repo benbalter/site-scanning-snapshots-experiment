@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ebc906646077418c1fcfa997d23e5ce1",
-  "accessibility_violations": null,
-  "pageviews": 167217,
-  "visits": 44581,
+  "page_hash": "7d9603286711921dbf364cc72b0017e0",
+  "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": 166894,
+  "visits": 45890,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,6 +58,7 @@
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
     "dap.digitalgov.gov",
+    "docserver.gesdisc.eosdis.nasa.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "maxcdn.bootstrapcdn.com",
@@ -76,6 +77,8 @@
     "https://cdn.earthdata.nasa.gov/tophat2/tophat2.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://docserver.gesdisc.eosdis.nasa.gov/public/project/AIRS/tmp/figair1.202502.png",
+    "https://docserver.gesdisc.eosdis.nasa.gov/public/project/AIRS/tmp/figair1.202503.png",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -89,13 +92,19 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".nasa.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "privacy policy"
+  ],
   "https_enforced": false,
   "hsts": true,
   "title": "GES DISC",

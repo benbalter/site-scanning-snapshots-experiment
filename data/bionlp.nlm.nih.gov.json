@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -61,7 +62,10 @@
     "https://www.nlm.nih.gov/images/YouTube_W.svg"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov",
+    ".nlm.nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "usa.gov"

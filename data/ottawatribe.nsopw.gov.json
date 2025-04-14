@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "27c69d50d9c64a0d669eb9ee0af9470e",
-  "accessibility_violations": null,
-  "pageviews": 112,
-  "visits": 48,
+  "accessibility_violations": "{\"contrast\":7,\"language\":1}",
+  "pageviews": 95,
+  "visits": 38,
   "ipv6": true,
   "hostname": "azurewebsites.net",
   "cms": null,
@@ -53,15 +54,17 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "ttsorsfiles.blob.core.windows.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://ttsorsfiles.blob.core.windows.net/offender/seal/OTTAWATRIBE-T.jpg",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nsopw.gov",
     ".ottawatribe.nsopw.gov",

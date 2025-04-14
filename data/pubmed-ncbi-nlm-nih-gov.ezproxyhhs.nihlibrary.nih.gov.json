@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,9 +33,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "d1bf15f01d0ae09d44d3416153f70bee",
-  "accessibility_violations": null,
-  "pageviews": 5581,
-  "visits": 860,
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
+  "pageviews": 5176,
+  "visits": 962,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -52,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": [

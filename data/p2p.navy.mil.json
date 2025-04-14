@@ -34,10 +34,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e77b10c06ebb4d78810e7275e7f78406",
-  "accessibility_violations": null,
-  "pageviews": 5,
-  "visits": 7,
+  "page_hash": "dff1168c40eee1a29300a868bab1a51d",
+  "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": 4,
+  "visits": 4,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -73,13 +73,17 @@
     "https://media.defense.gov/2022/Jan/26/2002928062/740/740/0/220126-N-LX492-1000.PNG",
     "https://media.defense.gov/2022/Jan/27/2002928937/740/740/0/220127-N-LX492-1000.PNG",
     "https://media.defense.gov/2024/Dec/02/2003595830/-1/-1/0/201014-N-UB406-0142.JPG",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".navy.mil"
+    ".navy.mil",
+    ".www.owa.navy.mil",
+    "www.owa.navy.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -115,11 +119,9 @@
   "robots_txt_url": "https://www.owa.navy.mil/Organizations/P2P-Home/",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 582,
+  "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
-  "robots_txt_sitemap_locations": [
-    "/DesktopModules/SiteData/SiteMap.ashx"
-  ],
+  "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://www.owa.navy.mil/Organizations/P2P-Home/",
   "sitemap_xml_status_code": 200,

@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,11 +31,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6ac6467dd3856fce76fc20f0ab0df124",
+  "page_hash": "e4c8aac5532efe6d71847d05986daf48",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -59,8 +60,6 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "unpkg.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
@@ -69,29 +68,20 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/invite___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/desktopredesign/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/gateway.min.js",
-    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/NICHD_FS_Invite_Horizontal.jpg",
-    "https://eex-gateway.fr011.ttecfed.com/sites/nichd-nih-gov/production/trigger/nih_nichd_logo.jpg",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
     "https://unpkg.com/web-vitals@4.2.4/dist/web-vitals.iife.js",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/plugins/ua/linkid.js",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/179bab65/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -152,6 +142,7 @@
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-button",
+    "usa-current",
     "usa-footer",
     "usa-header",
     "usa-input",

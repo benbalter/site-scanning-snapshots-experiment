@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "c11d78506f8df80f15d0eb0692d1a8cd",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -74,7 +75,7 @@
   "robots_txt_url": "https://apps2.deadiversion.usdoj.gov/robots.txt",
   "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 870,
+  "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,

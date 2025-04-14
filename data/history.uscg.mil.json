@@ -36,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "30522ae66d742838d945d8afc516dff0",
-  "accessibility_violations": null,
-  "pageviews": 53275,
-  "visits": 28441,
+  "page_hash": "6f82a48c38a3ff590b52c4ea56c45d6c",
+  "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 54716,
+  "visits": 29160,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -75,13 +75,17 @@
     "https://media.defense.gov/2022/Jan/28/2002929356/400/265/0/440606-G-CG969-1001.JPG",
     "https://media.defense.gov/2022/Jan/28/2002929386/400/265/0/031217-G-CG969-1001.PNG",
     "https://media.defense.gov/2022/Jan/31/2002930508/400/265/0/920101-G-CG969-1001.PNG",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".uscg.mil"
+    ".uscg.mil",
+    ".www.history.uscg.mil",
+    "www.history.uscg.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

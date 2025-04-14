@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0048cd896e58a75b5af217b5cf1da11e",
-  "accessibility_violations": null,
+  "page_hash": "43a80a69ecf2493e98f18e7b32ee7eb0",
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -60,6 +61,7 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
+    ".doe.gov",
     "investigatereq.ntc.doe.gov"
   ],
   "viewport_meta_tag": true,

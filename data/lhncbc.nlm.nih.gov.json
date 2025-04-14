@@ -22,7 +22,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "080c79980458c4208d848bc7fc7dccf2",
+  "page_hash": "397bc7637c5c9d1b8e88a852f62e1216",
   "accessibility_violations": null,
-  "pageviews": 33278,
-  "visits": 14741,
+  "pageviews": 32006,
+  "visits": 15217,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -61,6 +62,7 @@
     "script.crazyegg.com",
     "siteintercept.qualtrics.com",
     "use.fontawesome.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nlm.nih.gov",
     "zn3pj9o4ttqcpntvl-nlmenterprise.siteintercept.qualtrics.com"
@@ -74,7 +76,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/lhncbc.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/lhncbc.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/1.63482081f3bf73c57075.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/5.76657644fe1b73dc4306.chunk.js",
@@ -82,6 +84,7 @@
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://use.fontawesome.com/releases/v5.0.10/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nlm.nih.gov/core/nlm-notifyExternal/1.0/nlm-notifyExternal.min.js",
@@ -89,14 +92,14 @@
     "https://www.nlm.nih.gov/home_assets/vendor/bootstrap/dist/js/bootstrap.bundle.js",
     "https://www.nlm.nih.gov/images/facebook.svg",
     "https://www.nlm.nih.gov/images/linkedin.svg",
-    "https://www.nlm.nih.gov/images/mail.svg",
     "https://www.nlm.nih.gov/images/twitter.svg",
     "https://www.nlm.nih.gov/images/youtube.svg",
     "https://zn3pj9o4ttqcpntvl-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -150,10 +153,8 @@
     "usa-button",
     "usa-header",
     "usa-input",
-    "usa-logo",
     "usa-menu-btn",
     "usa-nav",
-    "usa-nav-layout",
     "usa-overlay",
     "usa-search",
     "usa-sr-only"

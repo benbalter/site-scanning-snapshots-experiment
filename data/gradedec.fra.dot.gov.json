@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "890ed9ad55b4addc695b540786aa18b5",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -61,9 +62,7 @@
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": [
-    ".dot.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

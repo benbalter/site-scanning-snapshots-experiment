@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "a16efe2bf20c822ae9142bb9be9e470d",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":2,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -90,8 +91,8 @@
   "robots_txt_url": "https://www.werri.lbl.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 118,
-  "robots_txt_crawl_delay": null,
+  "robots_txt_filesize": 133,
+  "robots_txt_crawl_delay": 10,
   "robots_txt_sitemap_locations": [
     "https://www.werri.lbl.gov/wp-sitemap.xml"
   ],

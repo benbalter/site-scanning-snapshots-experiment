@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7f53b7cfac7c8337bed5f7960e48223c",
-  "accessibility_violations": null,
+  "page_hash": "109d4015033738d5ebe9d9b1f075b405",
+  "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,24 +47,17 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "comms.omnichannelengagementhub.com",
-    "m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us",
-    "ocprodocprodnamgs.blob.core.usgovcloudapi.net",
-    "tb.pipe.aria.microsoft.com"
+    "ocprodocprodnamgs.blob.core.usgovcloudapi.net"
   ],
   "third_party_service_urls": [
-    "https://comms.omnichannelengagementhub.com/ams/0.1.8/iframe.min.js",
-    "https://m-3c5ba7b1-02e5-40a0-b557-36edd7012632.gov.omnichannelengagementhub.us/livechatconnector/config/3c5ba7b1-02e5-40a0-b557-36edd7012632/cada0593-ab18-4059-9256-6d5f05cb8a91",
-    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/WebChatControl/scripts/locale/1033.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/scripts/LiveChatBootstrapper.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2public/styles/LiveChatWidgetFrame.css",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/react-dom.production.min.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/react.production.min.js",
     "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/webchat.js",
-    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/widget.js",
-    "https://tb.pipe.aria.microsoft.com/Collector/3.0/"
+    "https://ocprodocprodnamgs.blob.core.usgovcloudapi.net/livechatwidget/v2scripts/widget.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".nih.gov",
     "onesearch.nihlibrary.ors.nih.gov"
@@ -93,7 +87,7 @@
   "robots_txt_url": "https://onesearch.nihlibrary.ors.nih.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "unknown",
-  "robots_txt_filesize": 126,
+  "robots_txt_filesize": 125,
   "robots_txt_crawl_delay": 5,
   "robots_txt_sitemap_locations": [
     "https://onesearch.nihlibrary.ors.nih.gov/view/scholar/siteindex.xml"

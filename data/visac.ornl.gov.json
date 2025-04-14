@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "c7ac6a60ced9a82ba513e343de41f9f1",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"images\":14,\"frames-iframes\":4,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -55,7 +56,9 @@
     "https://www.ornl.gov/ornl/page-not-found"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ornl.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

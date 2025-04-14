@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "3ae84b169a79986e67922a50c03e9e4b",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":16}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,9 +53,7 @@
     "https://raw.githubusercontent.com/dalg24/cap-notebooks/master/CEES-logo.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".ornl.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

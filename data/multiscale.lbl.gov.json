@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "5292cf1b7ea59148ed6d90e904f4ddaa",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -75,8 +76,8 @@
   "robots_txt_url": "https://multiscale.lbl.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 119,
-  "robots_txt_crawl_delay": null,
+  "robots_txt_filesize": 134,
+  "robots_txt_crawl_delay": 10,
   "robots_txt_sitemap_locations": [
     "https://multiscale.lbl.gov/wp-sitemap.xml"
   ],

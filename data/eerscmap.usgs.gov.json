@@ -23,7 +23,8 @@
     "omb_idea",
     "2020_eot",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,9 +37,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "b84fde75224867c35b13a09ea4d0acb8",
-  "accessibility_violations": null,
-  "pageviews": 19,
-  "visits": 19,
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
+  "pageviews": 116,
+  "visits": 84,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -53,7 +54,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

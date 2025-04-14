@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "86b925b1e703e3cbd6b744064f389603",
-  "accessibility_violations": null,
-  "pageviews": 3628,
-  "visits": 2703,
+  "page_hash": "1281b2358c39b4c14f29e0c9e069b0be",
+  "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 3560,
+  "visits": 2497,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -97,7 +97,9 @@
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".army.mil"
+    ".army.mil",
+    ".cyber.army.mil",
+    "cyber.army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

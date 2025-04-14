@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "40eb763f18220f4f9cc50d6851be3479",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":1,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -68,6 +69,7 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
+    ".commerce.gov",
     ".dir.commerce.gov",
     "dir.commerce.gov"
   ],

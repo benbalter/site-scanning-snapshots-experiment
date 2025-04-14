@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -56,7 +57,9 @@
     "https://www.ncbi.nlm.nih.gov/style-guide/static/django_uswds/uswds/img/angle-arrow-down-primary.svg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "usa.gov"

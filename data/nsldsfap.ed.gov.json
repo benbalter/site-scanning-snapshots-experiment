@@ -5,7 +5,7 @@
   "initial_base_domain": "ed.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://nsldsfap.ed.gov/login",
+  "url": "https://nsldsfap.ed.gov/",
   "domain": "nsldsfap.ed.gov",
   "base_domain": "ed.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e834b974c2fe74b070cb88df01dab8b6",
-  "accessibility_violations": null,
+  "page_hash": "d533a1444db9ec386b6dc8955af5fd01",
+  "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -47,25 +48,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-VR5PJ22V1X,UA-87838515-7",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "script.crazyegg.com",
-    "tags.tiqcdn.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "tags.tiqcdn.com"
   ],
   "third_party_service_urls": [
-    "https://script.crazyegg.com/pages/data-scripts/0066/3719/site/nsldsfap.ed.gov.json",
-    "https://script.crazyegg.com/pages/scripts/0066/3719.js",
     "https://tags.tiqcdn.com/utag/fsa/fsa-nsldsfap/prod/utag.1.js",
     "https://tags.tiqcdn.com/utag/fsa/fsa-nsldsfap/prod/utag.16.js",
     "https://tags.tiqcdn.com/utag/fsa/fsa-nsldsfap/prod/utag.8.js",
-    "https://tags.tiqcdn.com/utag/fsa/fsa-nsldsfap/prod/utag.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://tags.tiqcdn.com/utag/fsa/fsa-nsldsfap/prod/utag.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".ed.gov",
     "nsldsfap.ed.gov"
@@ -83,7 +76,7 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "NSLDS: National Student Loan Data System",
+  "title": "NSLDS",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -112,7 +105,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "e2b169340ff53d7319dd7e894df31fdf",
+  "sitemap_xml_page_hash": "5ea9dccfa1f58e44b8224adafa844bb6",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

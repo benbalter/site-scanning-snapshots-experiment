@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "604d7b065408851d4de9a46da6c76972",
-  "accessibility_violations": null,
+  "page_hash": "d344e1ecd2c813c039562cb5c5b13b80",
+  "accessibility_violations": "{\"aria\":6,\"contrast\":1,\"language\":1,\"link-purpose\":7,\"form-names\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -52,7 +53,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".ornl.gov",
     "sprucedata.ornl.gov"
   ],
   "viewport_meta_tag": true,

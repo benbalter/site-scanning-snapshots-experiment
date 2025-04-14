@@ -23,7 +23,8 @@
     "omb_idea",
     "other",
     "final_url_websites",
-    "gpo_fdlp"
+    "gpo_fdlp",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,9 +37,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0662f93ff9a8a2d1c29bda017c99bb8d",
-  "accessibility_violations": null,
-  "pageviews": 2648,
-  "visits": 1454,
+  "accessibility_violations": "{\"lists\":1,\"form-names\":1}",
+  "pageviews": 2438,
+  "visits": 1064,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -58,8 +59,8 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.googletagmanager.com/a",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [

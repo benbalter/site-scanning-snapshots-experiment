@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fa54ecdde0dc2a3af4fe9099b6666fdf",
-  "accessibility_violations": null,
+  "page_hash": "4e2f5bd90c69145d0bc222939fb52170",
+  "accessibility_violations": "{\"aria\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,7 +49,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-18660041-1,G-CSLL4ZEK4L,G-NQ5ZN114SB,UA-33523145-1,G-HF5V26MT25,G-0623JYSC1Q",
   "third_party_service_domains": [
-    "analytics.google.com",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -60,7 +60,6 @@
     "zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -87,7 +86,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".transportation.gov",
     "www.transportation.gov"
@@ -138,9 +137,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 1264,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-04T04:22:00.000Z",
+  "sitemap_xml_lastmod": "2025-04-11T04:14:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "7025857d8a9e5c072f965f8eff244ebe",
+  "sitemap_xml_page_hash": "e705c34f3ecde4cdb1aae29f51385b0f",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0cd1a872e147be63dc1b4c540c1d87d7",
-  "accessibility_violations": null,
+  "page_hash": "754da36bf7d9bd970633be62f58a37ed",
+  "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -103,8 +104,7 @@
     "https://a.rfihub.com/cm",
     "https://aa.agkn.com/adscores/g.pixel",
     "https://acdn.adnxs.com/dmp/up/pixie.js",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CIWglajEvowDFaO3jggddowYkA;src=14431394;type=invmedia;cat=takeb0;ord=6978372979758.997",
-    "https://adservice.google.com/ddm/fls/z/dc_pre=CKOQtqjEvowDFfO-jggdDxIa3Q;src=14431394;type=invmedia;cat=takeb0;ord=6978372979758.997",
+    "https://adservice.google.com/ddm/fls/z/dc_pre=CPf50MX7zowDFRqhjggdQ6E6AQ;src=14431394;type=invmedia;cat=takeb0;ord=7616367230921.666",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Offc%20Pro%20Bold",
     "Arial%20Unicode%20MS%20Bold/0-255.pbf",
     "https://api.mapbox.com/fonts/v1/mapbox/DIN%20Offc%20Pro%20Italic",
@@ -141,7 +141,7 @@
     "https://d.turn.com/r/dd/id/L21rdC8xOTcxL2NpZC8xNzQ5ODczMjc1L3QvMg/url/https://i.liadm.com/s/53233",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dpm.demdex.net/demconf.jpg",
-    "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=1783777344155858504&redir=",
+    "https://dpm.demdex.net/ibs:dpid=1121&dpuuid=1783777344411893255&redir=",
     "https://dsum-sec.casalemedia.com/rum",
     "https://events.mapbox.com/events/v2",
     "https://fonts.googleapis.com/css2",
@@ -164,7 +164,6 @@
     "https://partners.tremorhub.com/sync",
     "https://pippio.com/api/sync",
     "https://ps.eyeota.net/match",
-    "https://ps.eyeota.net/match/bounce/",
     "https://px.ads.linkedin.com/attribution_trigger",
     "https://px.ads.linkedin.com/collect",
     "https://px.ads.linkedin.com/wa/",
@@ -190,8 +189,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js",
-    "https://x.bidswitch.net/sync"
+    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js",
+    "https://x.bidswitch.net/sync",
+    "https://x.bidswitch.net/ul_cb/sync"
   ],
   "third_party_service_count": 47,
   "cookie_domains": [
@@ -252,17 +252,20 @@
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-banner",
+    "usa-combo-box",
+    "usa-label",
     "usa-overlay",
+    "usa-select",
     "usa-skipnav"
   ],
   "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,
-  "uswds_usa_classes": 20,
+  "uswds_usa_classes": 30,
   "uswds_string": 3,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.9.0",
   "uswds_version": 100,
-  "uswds_count": 203,
+  "uswds_count": 213,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

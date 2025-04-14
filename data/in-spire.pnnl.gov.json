@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "6e86f17e139dcff74cc2e90ffe41c131",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":7,\"lists\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -65,9 +66,7 @@
     "https://www.pnnl.gov/shared/print.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".pnnl.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "about"

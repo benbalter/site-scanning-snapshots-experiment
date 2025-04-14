@@ -21,7 +21,8 @@
     "dap",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "1ce1a231529e79e018caf68fb8310868",
-  "accessibility_violations": null,
-  "pageviews": 2175,
-  "visits": 2084,
+  "accessibility_violations": "{\"contrast\":193}",
+  "pageviews": 2161,
+  "visits": 2102,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -51,7 +52,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "fear",

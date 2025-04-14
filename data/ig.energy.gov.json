@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f96f71498b4e8423edbf6e6ebf9c2570",
+  "page_hash": "58c7e8deca491ba60faa9839d416e071",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,29 +47,25 @@
     "agency": "DOE"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,G-CSLL4ZEK4L,G-cJlhP",
+  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
     "d.clarity.ms",
     "dap.digitalgov.gov",
-    "fonts.gstatic.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
     "ssl.google-analytics.com",
     "use.fontawesome.com",
     "www.clarity.ms",
     "www.google-analytics.com",
-    "www.google.com",
-    "www.googletagmanager.com",
-    "www.gstatic.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
     "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://ka-p.fontawesome.com/assets/24bc2d8eeb/66491680/custom-icons.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
@@ -82,15 +79,11 @@
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google.com/recaptcha/api.js",
-    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/styles__ltr.css"
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".energy.gov"
   ],
@@ -152,9 +145,7 @@
     "usa-button",
     "usa-footer",
     "usa-header",
-    "usa-hint",
     "usa-input",
-    "usa-input-required",
     "usa-label",
     "usa-logo",
     "usa-megamenu",
@@ -165,12 +156,12 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,
-  "uswds_usa_classes": 65,
+  "uswds_usa_classes": 60,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 85,
+  "uswds_count": 80,
   "www_url": "https://www.energy.gov/ig/office-inspector-general",
   "www_status_code": 200,
   "www_title": "Office of the Inspector General | Department of Energy"

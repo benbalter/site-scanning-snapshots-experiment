@@ -20,7 +20,8 @@
   "source_list": [
     "dap",
     "2020_eot",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3c91f689025554eb45dd72469e372598",
-  "accessibility_violations": null,
-  "pageviews": 5026,
-  "visits": 1926,
+  "page_hash": "d9392eea5e86d2c0ba26136bd8afebcd",
+  "accessibility_violations": "{\"user-control-name\":7,\"images\":1,\"link-purpose\":1}",
+  "pageviews": 4407,
+  "visits": 1638,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -50,11 +51,9 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-9Y0FY1HP4V,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "content.hotjar.io",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "metrics.hotjar.io",
     "script.hotjar.com",
     "static.hotjar.com",
     "touchpoints.app.cloud.gov",
@@ -62,7 +61,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://content.hotjar.io/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -71,11 +69,9 @@
     "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
-    "https://fonts.gstatic.com/s/materialsymbolsoutlined/v232/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOelbd5zrDAt.woff",
+    "https://fonts.gstatic.com/s/materialsymbolsoutlined/v236/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOelbd5zrDAt.woff",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://metrics.hotjar.io/",
-    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
-    "https://script.hotjar.com/modules.47bdc3ea03ae568fad7d.js",
+    "https://script.hotjar.com/modules.f98993dba31a932bc912.js",
     "https://static.hotjar.com/c/hotjar-3690697.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
@@ -83,7 +79,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".usgs.gov",
     "whispers.usgs.gov"
@@ -126,7 +122,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "420a5401993072c19e4584b94742dfb7",
+  "sitemap_xml_page_hash": "6bb19f67d36491dbddf5f050b0b07dc5",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

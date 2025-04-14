@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -50,9 +51,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".hhs.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
@@ -76,11 +75,9 @@
   "robots_txt_url": "https://maptest.acf.hhs.gov/robots.txt",
   "robots_txt_status_code": 400,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 52,
+  "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
-  "robots_txt_sitemap_locations": [
-    "/api/vtl/sitemap"
-  ],
+  "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://maptest.acf.hhs.gov/sitemap.xml",
   "sitemap_xml_status_code": 400,

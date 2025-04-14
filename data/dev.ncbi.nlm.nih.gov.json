@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "page_hash": "eb171e9a2553ee2df85fac1e9e2c3401",
   "accessibility_violations": null,
   "pageviews": 0,
-  "visits": 49,
+  "visits": 39,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -57,7 +58,9 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".nih.gov"
+    ".ncbi.nlm.nih.gov",
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

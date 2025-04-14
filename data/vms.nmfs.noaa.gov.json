@@ -21,11 +21,12 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -61,7 +62,6 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".noaa.gov",
     "vms.nmfs.noaa.gov"
   ],
   "viewport_meta_tag": false,

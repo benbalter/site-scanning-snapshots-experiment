@@ -20,7 +20,8 @@
   "source_list": [
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,7 +34,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0def2d55b477d69fbcc5c59005d7f917",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":8}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -64,7 +65,9 @@
     "https://i.ytimg.com/vi/5Ak9U3eZqbY/hqdefault.jpg"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".hhs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

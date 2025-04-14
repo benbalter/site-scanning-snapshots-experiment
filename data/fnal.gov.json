@@ -24,7 +24,8 @@
     "2020_eot",
     "usagov",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,8 +37,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "54e383b6ee2a3317c273e6a7b2036d6f",
-  "accessibility_violations": null,
+  "page_hash": "d0f975e91e5055087e42551d2e65947d",
+  "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -50,27 +51,22 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-HD524RDNJD,G-8TVTvyVDxwd7iA9",
+  "ga_tag_id": "G-HD524RDNJD",
   "third_party_service_domains": [
     "ep1.adtrafficquality.google",
-    "ep2.adtrafficquality.google",
     "fonts.googleapis.com",
     "pagead2.googlesyndication.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ep1.adtrafficquality.google/getconfig/sodar",
-    "https://ep2.adtrafficquality.google/generate_204",
-    "https://ep2.adtrafficquality.google/sodar/sodar2.js",
     "https://fonts.googleapis.com/css",
-    "https://pagead2.googlesyndication.com/bg/cWG-8TVTvyVDxwd7iA9NMhPLfNhM2hMfYAi7_ZJOV6E.js",
     "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
-    "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202504010101/show_ads_impl.js",
-    "https://pagead2.googlesyndication.com/pagead/sodar",
+    "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202504080101/show_ads_impl.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".fnal.gov"
   ],

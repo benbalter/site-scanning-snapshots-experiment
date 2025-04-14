@@ -22,7 +22,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8c19b46feda270a93443a0890e0bdd1b",
-  "accessibility_violations": null,
-  "pageviews": 599,
-  "visits": 306,
+  "page_hash": "8bcf1cac32db7d93fd61f2eb010380e5",
+  "accessibility_violations": "{\"contrast\":21,\"language\":1,\"images\":1}",
+  "pageviews": 750,
+  "visits": 294,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -53,21 +54,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
-    "code.jquery.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.6.0/flatly/bootstrap.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.6.2/flatly/bootstrap.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/luxon/1.27.0/luxon.min.js",
-    "https://code.jquery.com/jquery-3.5.1.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/luxon/3.5.0/luxon.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
@@ -76,7 +75,7 @@
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nasa.gov",
     "genesis.jpl.nasa.gov"

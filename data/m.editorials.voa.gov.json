@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "91928c0c6c6103359d3c4cc133364da9",
-  "accessibility_violations": null,
+  "page_hash": "c3bdc716ede32e66cfbdc70d77320001",
+  "accessibility_violations": "{\"contrast\":1,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -63,7 +64,7 @@
   ],
   "third_party_service_urls": [
     "https://bbg.sc.omtrdc.net/b/ss/bbgprod",
-    "bbgentityvoa/1/JS-2.23.0/s72981527062414",
+    "bbgentityvoa/1/JS-2.23.0/s77738613785643",
     "https://connect.facebook.net/en_US/fbevents.js",
     "https://gdb.voanews.com/01000000-0a00-0242-107e-08db890ec238_cx0_cy3_cw0_w144_r1.jpg",
     "https://gdb.voanews.com/01000000-0aff-0242-27d4-08dc60186396_cx0_cy18_cw0_w408_r1.jpg",
@@ -74,7 +75,7 @@
     "https://gdb.voanews.com/d2e47e08-9af0-44fc-0f08-08dd5c8d307c_tv_w144_r1.jpg",
     "https://mab.chartbeat.com/mab_strategy/headline_testing/get_strategy/",
     "https://ping.chartbeat.net/ping",
-    "https://pixel.quantserve.com/pixel;r=2037794855;rf=0;a=p-BgErSP_RLcMf_;url=https%3A%2F%2Feditorials.voa.gov%2F;ns=0;ce=1;qjs=1;qv=4ce77a9a-20250403165047;ref=;dst=0;et=1743743762649;tzo=0;ogl=type.article%2Ctitle.Editorials%20on%20Voice%20of%20America%2Cdescription.Editorials%20on%20Voice%20of%20America%2Cimage.https%3A%2F%2Feditorials%252Evoa%252Egov%2FContent%2Fresponsive%2FVOA%2Fimg%2Ftop_logo_news%252Epng%2Cimage%3Awidth.640%2Cimage%3Aheight.640%2Cimage%3Aalt.site%20logo%2Curl.https%3A%2F%2Feditorials%252Evoa%252Egov%2F%2Csite_name.Voice%20of%20America;d=voa.gov;uht=2;fpan=1;fpa=P1-bfd74e20-d64f-4461-9999-ca70e52e6f01;pbc=;_ses=092c32a7-024a-42ab-9f88-607ac8871325;_seg=1;gdpr=0;mdl=",
+    "https://pixel.quantserve.com/pixel;r=507431418;rf=0;a=p-BgErSP_RLcMf_;url=https%3A%2F%2Feditorials.voa.gov%2F;ns=0;ce=1;qjs=1;qv=4ce77a9a-20250403165047;ref=;dst=0;et=1744389667063;tzo=0;ogl=type.article%2Ctitle.Editorials%20on%20Voice%20of%20America%2Cdescription.Editorials%20on%20Voice%20of%20America%2Cimage.https%3A%2F%2Feditorials%252Evoa%252Egov%2FContent%2Fresponsive%2FVOA%2Fimg%2Ftop_logo_news%252Epng%2Cimage%3Awidth.640%2Cimage%3Aheight.640%2Cimage%3Aalt.site%20logo%2Curl.https%3A%2F%2Feditorials%252Evoa%252Egov%2F%2Csite_name.Voice%20of%20America;d=voa.gov;uht=2;fpan=1;fpa=P1-bd504208-9acd-473f-9b3a-14fb3f5c1801;pbc=;_ses=7ead2603-0ec5-4213-b481-ae94c300cb59;_seg=1;gdpr=0;mdl=",
     "https://rules.quantcount.com/rules-p-BgErSP_RLcMf_.js",
     "https://sb.scorecardresearch.com/b",
     "https://sb.scorecardresearch.com/b2",
@@ -83,7 +84,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0110/3540/sampling/editorials.voa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0110/3540/site/editorials.voa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0110/3540.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/4e6efdfb40bb89aaad9d548f38acbfa7.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
     "https://secure.quantserve.com/quant.js",
     "https://static.chartbeat.com/js/chartbeat_mab.js",
     "https://static.chartbeat.com/js/chartbeat_video.js",
@@ -98,7 +99,7 @@
     "https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 14,
   "cookie_domains": [
@@ -139,11 +140,11 @@
   "sitemap_xml_url": "https://editorials.voa.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 695,
+  "sitemap_xml_filesize": 694,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-03-31T02:37:46.832Z",
+  "sitemap_xml_lastmod": "2025-04-07T02:37:47.048Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "536a19861b6a1ef5490fa82b0541adfa",
+  "sitemap_xml_page_hash": "8ddd5e6460179a02bdf1adfad3310b5b",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

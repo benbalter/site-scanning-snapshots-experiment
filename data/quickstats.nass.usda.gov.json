@@ -20,7 +20,8 @@
   "source_list": [
     "dap",
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -33,9 +34,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "b61b479fcd53c844819ec69c6bb0e2e4",
-  "accessibility_violations": null,
-  "pageviews": 129171,
-  "visits": 45422,
+  "accessibility_violations": "{\"language\":1}",
+  "pageviews": 129229,
+  "visits": 43357,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -53,7 +54,6 @@
     "10240.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "siteimproveanalytics.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,10 +61,9 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://siteimproveanalytics.com/js/siteanalyze_10240.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".usda.gov"
   ],

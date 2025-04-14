@@ -16,10 +16,11 @@
   "agency": "Department of Housing and Urban Development",
   "bureau": "Department of Housing and Urban Development",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "62f3bf7628014381a060681bfe226ab4",
+  "page_hash": "0f200a07c9b53d1702e9e6619497a9ed",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -57,7 +58,6 @@
     "services.arcgisonline.com",
     "static.arcgis.com",
     "utility.arcgisonline.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.hud.gov"
   ],
@@ -103,11 +103,10 @@
     "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tilemap/4/0/0/8/8",
     "https://static.arcgis.com/attribution/World_Topo_Map",
     "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer/project",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.hud.gov/sites/all/themes/bootstrap_hudgov/bootstrap/js/Univ-Federated-Analytics.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".hud.gov"
   ],

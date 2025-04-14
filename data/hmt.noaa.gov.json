@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "30999907a6a63b8090bd17d4caa667fd",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":12,\"images\":2,\"link-purpose\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -57,7 +58,9 @@
     "https://fonts.googleapis.com/css"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

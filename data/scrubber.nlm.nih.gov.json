@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ca60efe29318dfc7b707e6bd71a65e4f",
-  "accessibility_violations": null,
+  "page_hash": "a74caccbba3b4997d4cbf132c5b3c9fd",
+  "accessibility_violations": "{\"images\":3,\"link-purpose\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,9 +53,10 @@
   "third_party_service_domains": [
     "assets.nlm.nih.gov",
     "dap.digitalgov.gov",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "siteintercept.qualtrics.com",
     "use.fontawesome.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nlm.nih.gov",
     "zn3pj9o4ttqcpntvl-nlmenterprise.siteintercept.qualtrics.com"
@@ -62,6 +64,8 @@
   "third_party_service_urls": [
     "https://assets.nlm.nih.gov/jquery/jquery-latest.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://fonts.googleapis.com/css2",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/1.63482081f3bf73c57075.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/5.76657644fe1b73dc4306.chunk.js",
@@ -69,7 +73,6 @@
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://use.fontawesome.com/releases/v5.0.10/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nlm.nih.gov/core/nlm-notifyExternal/1.0/nlm-notifyExternal.min.js",
@@ -77,12 +80,11 @@
     "https://www.nlm.nih.gov/home_assets/vendor/bootstrap/dist/js/bootstrap.bundle.js",
     "https://www.nlm.nih.gov/images/facebook.svg",
     "https://www.nlm.nih.gov/images/linkedin.svg",
-    "https://www.nlm.nih.gov/images/mail.svg",
     "https://www.nlm.nih.gov/images/twitter.svg",
     "https://www.nlm.nih.gov/images/youtube.svg",
     "https://zn3pj9o4ttqcpntvl-nlmenterprise.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nih.gov"
   ],

@@ -5,7 +5,7 @@
   "initial_base_domain": "usda.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://www.eauth.usda.gov/eauth/b/usda/login?TYPE=33554433&REALMOID=06-155dd0a1-2711-4447-84aa-d85856e84259&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=ADX2WUP7GiLWThJKQsVsvXsitglZStp82t9L5k1LicgLGw6lGWQjmi7ok6ptnybeUQgBg89iNjUfBrK6WUGmuHpupr8UZmdsicSSohRIyDjePO0UjoqndsNRiPLNlY6w&TARGET=-SM-HTTPS:%2F%2Fwww.eauth.usda.gov%2Faffwebservices%2Fsecure%2Fsecureredirect%2FauthUrl%2Foption08%2Flogin%3FSAMLRequest%3DfJFfT4MwFMW-%2FCuk7UP7IXDOWTJfokhmXgT74Yi5QtibQIrcd-%2Bu0tm8v0wSV9aXvP6fmdzhDapmMLo-%2Fdyyz8MR-%2B18to1EdrxIieklU4ACmYSWI9MlyxZPaxZ6lHW90qpUDfklua4ARN5roSRxVsuUvN-%2FShEJZBW5cBpEbB2XtQlLEblBBQmkcTepJQpxX3qPVpMRaWCGi4SuJGqS2RzS8cWlsVx4GLJqyIPKmUfJGnKVlERLG11Ky17pD5vvDMHgcLK1nsAJvpw4-%2B1PXAC5vrIEqOfmeKRpT-%2ByBIiKuIszpnvlUTT8j47jb5s1xffBgG92kJffEfoB9B8gC9-%2F7Nf-%2Fz4g4m58i74SshNxd77A4DSF7zPONu3nOcjKfjXHZsZl-%2BfiXT7Mh1Hjzt-%2Fv7-%2B-%2FBsAAP-%2F-%2FAwA-%3D%26RelayState%3DReturnUrl-%3Dhttps-%253A-%252F-%252Flsas.fsis.usda.gov-%252FLSAS-%252F%26SMPORTALURL%3D8XoRVX8h2LRCO1ZXZmIJNxTdCa-%2B9ogbkURgE51-%2F5oBM7-%2BskoANXK5-%2F4qlBmMIytOJ6-%2BXJyppVzhCDmYfMp12mWeqbLm-%2FMOhfc786kdnWuZdj-%2Bc5Q0-%2BXcndC7RACIEz4D%26SAMLTRANSACTIONID%3Dfc105b69--c569df36--c3bbc770--038aa590--b18ac2bb--f7",
+  "url": "https://www.eauth.usda.gov/eauth/b/usda/login?TYPE=33554433&REALMOID=06-155dd0a1-2711-4447-84aa-d85856e84259&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=ADX2WUP7GiLWThJKQsVsvXsitglZStp82t9L5k1LicgLGw6lGWQjmi7ok6ptnybeUQgBg89iNjUfBrK6WUGmuHpupr8UZmdsicSSohRIyDjePO0UjoqndsNRiPLNlY6w&TARGET=-SM-HTTPS:%2F%2Fwww.eauth.usda.gov%2Faffwebservices%2Fsecure%2Fsecureredirect%2FauthUrl%2Foption08%2Flogin%3FSAMLRequest%3DfJFfT8IwFMW-%2FytL3resoog0jQUmUBCOB6YMvpht30GRr527L9Nvb8Sfogzy2vef0-%2FM4do6yrRkyd3ekVfDpAG3zVlUZxeEiJa7UwEhUKLWtAYQuxnj4vRBLFommNNYWpyC-%2FJdYVEhNYqo0kwn6XkIx9APLzhMswLYCHPYRDejcoivGVxDCPOgBcbErxBi16TEm-%2FhhYgO5hqt1NZfxckwjHnIWMaGIuEiYdGI83cSzDyL0rL-%2FLSU7axsUlHZdF4H0tJHDjYy2Zk9lWXaQ-%2B1x7VQDSxuWVKmjPkiAaEkzPmR-%2BMRldDuz6Ovq4WF98KJUalh7749tCP0kInv2nfL-%2F3PiATLU5H3Sm-%2BU3l7vMD8OoXjKsmW4fFlnZDLu44pDM-%2B3kSqbxges8eDz93f7kBwAA-%2F-%2F8DAA-%3D-%3D%26RelayState%3DReturnUrl-%3Dhttps-%253A-%252F-%252Flsas.fsis.usda.gov-%252FLSAS-%252F%26SMPORTALURL%3D8XoRVX8h2LRCO1ZXZmIJNxTdCa-%2B9ogbkURgE51-%2F5oBM7-%2BskoANXK5-%2F4qlBmMIytOJ6-%2BXJyppVzhCDmYfMp12mWeqbLm-%2FMOhfc786kdnWuZdj-%2Bc5Q0-%2BXcndC7RACIEz4D%26SAMLTRANSACTIONID%3D1a35a8d5--b4b9a4f4--51970dc5--21c8e165--7bee294c--26",
   "domain": "www.eauth.usda.gov",
   "base_domain": "usda.gov",
   "top_level_domain": "gov",
@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e246ac5b9da309bfd621866fa507e581",
+  "page_hash": "add6d79efd7c2d9c688913c520b66bb8",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,7 +53,9 @@
     "https://nocapi.api.eauth.usda.gov/iab/enterprise/cms/appMessage/login"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usda.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy",

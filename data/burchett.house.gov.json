@@ -32,8 +32,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6a373d5a43845b6cc52b6579d93ea17f",
-  "accessibility_violations": null,
+  "page_hash": "62365d4b86833928afc142dafdaab476",
+  "accessibility_violations": "{\"aria\":5,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -83,7 +83,8 @@
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
-    ".burchett.house.gov"
+    ".burchett.house.gov",
+    ".house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

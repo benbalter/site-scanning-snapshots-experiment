@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "302c7afbe040d58e1961e9cfd06769a8",
-  "accessibility_violations": null,
+  "page_hash": "f32abebebcfee5724fb7bf52e0bb730c",
+  "accessibility_violations": "{\"user-control-name\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -59,7 +59,9 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".osd.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": [

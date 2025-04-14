@@ -19,11 +19,12 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "gpo_fdlp"
+    "gpo_fdlp",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "connection_refused",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "connection_refused",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "connection_refused",

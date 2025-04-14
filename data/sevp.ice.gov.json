@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "c11d78506f8df80f15d0eb0692d1a8cd",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -102,6 +103,6 @@
   "uswds_version": 0,
   "uswds_count": 0,
   "www_url": "https://www.sevp.ice.gov",
-  "www_status_code": 520,
-  "www_title": "www.sevp.ice.gov | 520: Web server is returning an unknown error"
+  "www_status_code": 403,
+  "www_title": "Error"
 }

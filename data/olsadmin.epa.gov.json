@@ -5,7 +5,7 @@
   "initial_base_domain": "epa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://wamssoprd.epa.gov/oam/server/obrareq.cgi?encquery%3DyD%2FiCv63KYftrJA52EVR3gqFy1AMyoliWFjt9CwQzHj0mUNzOHXjBsgipTZeQYd6DydSBchNNS6%2F5LA8fdVcCPjc%2FkvRIcfBqwh40jVsoiyicUEdKiVe4Sp2msWSbIsEBY4iT5V%2Fh0IyZKf7AHnTeZ0Fz6PJ%2FVb57qZG4ePTUTYof3ncG%2FbOP9hfC2X4FPXu9Qd8LfpyZc7IV1oaZKjez0ujgcGzy6R3drVx7UBmHXimzIJ4tnlHZwoB8vK%2B%2Fj38ld2%2B6OgyzIlIyfCMZiq52OSOQZVRQLX1fwl34k4nxRA%3D%20agentid%3DWebgateEPADomain%20ver%3D1%20crmethod%3D2%26cksum%3Dd3c83919158e14a34cf54f886195be64c5624350",
+  "url": "https://wamssoprd.epa.gov/oam/server/obrareq.cgi?encquery%3DuttJvkNpBjzYTwKDCzUSCat797q54WfZ5QeQWwMy3QhVGmjiqDR%2BDbO1quaxGLZF6sx2HfzE8fCRtrS7OGoeRW%2FfxTbj46D5rQscAttBIPyy1U0gHngdWiCHmng6IjvICigL3x22OsXeSDVwbKO4ppQjilX%2BvTQof2ApxaLa0GbBs0OSwhPSUkKyoK8CJfVPTk8z%2BBxSmffpQ%2Fxz6sFShvLh%2FaPk%2FzUcpXHqLa53k6X6BrKNGttQAM5VCtYQew1Qc4nULxPZvIYPoDF6t5WQ5IfCIYWXFmUkRwN18zmprEg%3D%20agentid%3DWebgateEPADomain%20ver%3D1%20crmethod%3D2%26cksum%3D1691e9cc16ddf56f8bfd2bcffbc87b3c627009f3",
   "domain": "wamssoprd.epa.gov",
   "base_domain": "epa.gov",
   "top_level_domain": "gov",
@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "dap"
+    "dap",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "39dbab4ce3501e889ef4370d634e2cd7",
+  "page_hash": "25d27f377f372d812547d0e00bb5e769",
   "accessibility_violations": null,
-  "pageviews": 7547,
-  "visits": 370,
+  "pageviews": 8850,
+  "visits": 378,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,12 +59,13 @@
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/wamssoprd.epa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/wamssoprd.epa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0005/9240.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [

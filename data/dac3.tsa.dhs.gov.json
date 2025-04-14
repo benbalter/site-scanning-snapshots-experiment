@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d2b115ab77ee7354cf83431db407121e",
-  "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "page_hash": "3b845816f521d5b59d91d93f302b34fd",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"language\":1}",
+  "pageviews": 9,
+  "visits": 8,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -47,14 +48,23 @@
   ],
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
+    ".dhs.gov",
     "dac3.tsa.dhs.gov"
   ],
   "viewport_meta_tag": false,
@@ -63,7 +73,7 @@
   "https_enforced": true,
   "hsts": true,
   "title": "Mobile Assure DAC",
-  "description": null,
+  "description": "Portal for Telos Designated Aviation Channeler (DAC)",
   "keywords": null,
   "og_title": null,
   "og_description": null,

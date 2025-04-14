@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "gov"
+    "gov",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -29,9 +30,9 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "3a42c34674afa4a3b4110ad4107ff241",
-  "accessibility_violations": null,
+  "www_scan_status": "completed",
+  "page_hash": "5d2b6e4523d6be9a6d74d52969a6614d",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -64,9 +65,9 @@
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.css",
     "https://cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.js",
-    "https://cdn.socrata.com/frontend/F25-HF-2/javascripts/build/shared-with-jquery/visualizationIframe.js",
-    "https://cdn.socrata.com/frontend/F25-HF-2/javascripts/build/style-packages/visualizations.75dfd4e0303110d75c4a.css",
-    "https://cdn.socrata.com/frontend/F25-HF-2/javascripts/build/style-packages/viz_embed.e025f3e6244640b34216.css",
+    "https://cdn.socrata.com/frontend/G25-HF-1/javascripts/build/shared-with-jquery/visualizationIframe.js",
+    "https://cdn.socrata.com/frontend/G25-HF-1/javascripts/build/style-packages/visualizations.75dfd4e0303110d75c4a.css",
+    "https://cdn.socrata.com/frontend/G25-HF-1/javascripts/build/style-packages/viz_embed.e025f3e6244640b34216.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://data.permits.performance.gov//api/views/vcxp-6qfw",
@@ -178,7 +179,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 197,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.permitting.gov",
+  "www_status_code": 200,
+  "www_title": "Where Projects See Progress | Permitting Council"
 }

@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a5b9259752ad8972ce817c2989d18dc6",
+  "page_hash": "fc8340fabf3f6507a0b9baa0418344ee",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,11 +48,10 @@
     "subagency": "TTS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-48605964-1",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-7Y2K4BBMX6",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "search.usa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -61,10 +61,9 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".gsa.gov"
   ],

@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c4b87029cdfc6dda73416a98bfaeed5",
+  "page_hash": "c2d626ee2ecfc72fb39ee16ec38d34b4",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -54,7 +55,6 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "touchpoints.app.cloud.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -69,13 +69,11 @@
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

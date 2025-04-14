@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "b793bc7493cfdd30385028de8d38376f",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"images\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -55,8 +56,7 @@
     "https://code.jquery.com/ui/1.13.2/jquery-ui.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [

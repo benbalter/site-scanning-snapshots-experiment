@@ -18,19 +18,21 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "execution_context_destroyed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "dd94ce27a23aedfff8ffe096b7faa948",
+  "page_hash": "67a8324fdb568efe0dc687b2761f940b",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,7 +52,7 @@
     "exts": "aac,arc,arj,asf,asx,bin,flv,gif,gzip,hqx,jar,mp2,msp,phps,qt,qutm,mxd,ram,sea,sit,tar,torrent,tsv,wav,wpd,xml,z"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-93J4YEC73J,G-CSLL4ZEK4L,G-3F1Q7TDF2C",
+  "ga_tag_id": "G-93J4YEC73J,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6294131.global.r2.siteimproveanalytics.io",
     "ajax.googleapis.com",
@@ -60,7 +62,6 @@
     "siteimproveanalytics.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
-    "www.habitat.noaa.gov",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
@@ -71,25 +72,16 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.feedback.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.survey.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/badge___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/epilogue___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/main.css",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
-    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/noaafisheries/production/gateway.min.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.habitat.noaa.gov/favicon.ico",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".noaa.gov"
   ],

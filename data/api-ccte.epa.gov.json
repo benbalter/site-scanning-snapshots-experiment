@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,9 +33,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0c423b0c0d5f1d0108c805b24613f34f",
-  "accessibility_violations": null,
-  "pageviews": 253,
-  "visits": 172,
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
+  "pageviews": 281,
+  "visits": 195,
   "ipv6": true,
   "hostname": "cloud.gov",
   "cms": null,
@@ -49,9 +50,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".epa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

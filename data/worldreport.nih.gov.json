@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea"
+    "omb_idea",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "execution_context_destroyed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": null,
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1,\"auto-updating\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -44,20 +45,18 @@
   "search_dot_gov": null,
   "dap": null,
   "dap_parameters": null,
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap_version": null,
+  "ga_tag_id": null,
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": [
-    ".nih.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "",
+  "title": null,
   "description": null,
   "keywords": null,
   "og_title": null,

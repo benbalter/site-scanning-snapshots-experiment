@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "1c9fc9b187d47670bd447bab4b2e8cab",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":2,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -53,6 +54,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".hhs.gov",
     ".stage-cmsmanager.digitalmedia.hhs.gov"
   ],
   "viewport_meta_tag": true,

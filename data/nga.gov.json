@@ -23,7 +23,8 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -35,8 +36,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fd2cc8bd658d7264cebc01dd2ca6590e",
-  "accessibility_violations": null,
+  "page_hash": "a13d3b75bd22fac32b493e8f0aeaf870",
+  "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -49,17 +50,15 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-GHV9J3QQQ0,UA-31577529-1",
+  "ga_tag_id": "G-GHV9J3QQQ0",
   "third_party_service_domains": [
     "cdn.mouseflow.com",
     "dev.visualwebsiteoptimizer.com",
     "googleads.g.doubleclick.net",
     "media.nga.gov",
-    "rum-collector-2.pingdom.net",
     "rum-static.pingdom.net",
     "sadmin.brightcove.com",
     "unpkg.com",
-    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
   ],
@@ -70,13 +69,10 @@
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16447778284/",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/617821322/",
     "https://media.nga.gov/js/BrightcoveExperiences.js",
-    "https://rum-collector-2.pingdom.net/img/beacon.gif",
     "https://rum-static.pingdom.net/pa-6144c0c97214f200110000ea.js",
     "https://sadmin.brightcove.com/js/BrightcoveExperiences.js",
     "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
     "https://unpkg.com/web-vitals@4.2.4/dist/web-vitals.iife.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
     "https://www.google.com/ccm/collect",
     "https://www.google.com/pagead/1p-user-list/16447778284/",
     "https://www.google.com/pagead/1p-user-list/617821322/",
@@ -84,15 +80,14 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nga.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "privacy",
-    "spanish"
+    "privacy"
   ],
   "required_links_text": [
     "accessibility",
@@ -129,9 +124,9 @@
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 1219,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-03T10:49:06.221Z",
+  "sitemap_xml_lastmod": "2025-04-11T10:48:33.795Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "56734ec741f82151f3270eaa53a4bbb7",
+  "sitemap_xml_page_hash": "79b9359cc1b2897fbc0b14eed1094278",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

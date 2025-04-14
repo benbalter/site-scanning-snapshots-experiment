@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -33,7 +34,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "f92f067c1046a2182c5a19c792a9ccca",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":1,\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -51,6 +52,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".bls.gov",
     ".fedstate.bls.gov"
   ],
   "viewport_meta_tag": true,

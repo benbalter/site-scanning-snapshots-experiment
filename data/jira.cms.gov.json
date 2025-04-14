@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bc4b04706e115da1b5fc7f8196586764",
-  "accessibility_violations": null,
+  "page_hash": "d8e5fb3ef5e1a37b637fa25aaad71ef2",
+  "accessibility_violations": "{\"contrast\":5,\"language\":1}",
   "pageviews": 0,
   "visits": 1,
   "ipv6": true,
@@ -53,6 +54,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".cms.gov",
     "mo-idp.cms.gov"
   ],
   "viewport_meta_tag": true,

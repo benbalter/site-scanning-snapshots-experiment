@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "ab6258ce1c59de5d5cd935a0fd09f44d",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -59,6 +60,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".sec.gov",
     "auth-bravo.edgarfiling.sec.gov"
   ],
   "viewport_meta_tag": false,

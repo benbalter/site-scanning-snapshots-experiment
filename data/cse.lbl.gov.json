@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4458945443f76a88bd082a8d8909cfef",
-  "accessibility_violations": null,
+  "page_hash": "a504b98de7c26332ad9f8a55422b446a",
+  "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -44,10 +45,11 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-KXL8L1LY7Z,G-fKH5lg8uxMPj,G-zjtPnsXPqiS9kKb,G-t7ehEL,G-vEZTkVv9J8WSXs2,G-MVUPjgG0nhoQ,G-H5tF52NOCfqT8Y4",
+  "ga_tag_id": "G-KXL8L1LY7Z,G-rHGy1DTSn2upOne,G-kGExu9ZrPQ7dKAL,G-3TL0RVeyPIdnrMo,G-wuUtxZqksUKYcTh",
   "third_party_service_domains": [
     "cdn.lbl.gov",
     "cdnjs.cloudflare.com",
+    "csp.withgoogle.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "listgrowth.ctctcdn.com",
@@ -67,6 +69,7 @@
     "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/zooming/2.1.1/zooming.min.js",
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
@@ -85,12 +88,13 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "https://www.gstatic.com/recaptcha/api2/canonical_car.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".emp.lbl.gov",
     ".lbl.gov",

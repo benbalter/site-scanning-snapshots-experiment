@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "815950391549db8a5d877c979d8d7ebb",
+  "page_hash": "0be1719af3dd125c47d723e4bc8a259f",
   "accessibility_violations": null,
-  "pageviews": 171,
-  "visits": 78,
+  "pageviews": 136,
+  "visits": 58,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -50,7 +51,6 @@
   "ga_tag_id": "G-17CPVFFKS8,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
-    "analytics.google.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -61,7 +61,6 @@
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js",
-    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
@@ -78,7 +77,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.oig.dhs.gov/sites/default/files/img/oig-hotline.png"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".fema.gov",
     "prd-msc.msc.fema.gov"

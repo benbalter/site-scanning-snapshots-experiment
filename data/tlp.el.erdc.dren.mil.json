@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fcceb9ee845de3303a28a0f1609ba698",
-  "accessibility_violations": null,
+  "page_hash": "b1ace025b7131a941a7613a9d1e3d360",
+  "accessibility_violations": "{\"contrast\":14,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,7 +48,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-3npvu3GulvtBJeu,G-Cqg5ycEgO,G-ZmOZEEpc,G-VzI9GTMLppBfBeD",
+  "ga_tag_id": "G-FE3yQUGreeAxqPx,G-I7dHSCdMeK5hee0,G-0WkQaEKo",
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -72,7 +72,9 @@
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dren.mil"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

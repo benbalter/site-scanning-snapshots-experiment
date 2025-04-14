@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -32,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a9aa50ca5c135cc8cab80f3ffb9b6229",
-  "accessibility_violations": null,
+  "page_hash": "686b7544cf3f18f52e6174d2e1849f59",
+  "accessibility_violations": "{\"contrast\":3,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -56,6 +57,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".noaa.gov",
     "sftp.afsc.noaa.gov"
   ],
   "viewport_meta_tag": true,

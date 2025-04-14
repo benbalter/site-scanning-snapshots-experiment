@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "07b03989213ff7882d6097f12ff71a48",
-  "accessibility_violations": null,
+  "page_hash": "8699ea2b876c84ac56bf0ec1e78b7766",
+  "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -77,8 +78,7 @@
     "https://www.google.com/pagead/1p-user-list/617821322/",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
@@ -87,8 +87,7 @@
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "privacy",
-    "spanish"
+    "privacy"
   ],
   "required_links_text": [
     "accessibility",

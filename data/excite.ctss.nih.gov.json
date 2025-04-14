@@ -21,11 +21,12 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,8 +36,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "cc36b6ffe8b45c718ad76f8d9cfe36ee",
   "accessibility_violations": null,
-  "pageviews": 100,
-  "visits": 43,
+  "pageviews": 104,
+  "visits": 49,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,6 +59,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,

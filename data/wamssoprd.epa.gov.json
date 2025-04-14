@@ -20,7 +20,8 @@
   "source_list": [
     "dap",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -33,9 +34,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "79c71624bc643a075bfd47eb6fc9d7f6",
-  "accessibility_violations": null,
-  "pageviews": 225661,
-  "visits": 143434,
+  "accessibility_violations": "{\"language\":1,\"lists\":1}",
+  "pageviews": 229601,
+  "visits": 149621,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -50,7 +51,10 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".epa.gov",
+    "wamssoprd.epa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

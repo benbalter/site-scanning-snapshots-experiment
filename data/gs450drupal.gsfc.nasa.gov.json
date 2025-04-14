@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3b066075c8cbedc94d471abc8d89bfce",
-  "accessibility_violations": null,
+  "page_hash": "10fe379733990d3d73e49761b67658bf",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":16,\"images\":1,\"link-purpose\":1}",
   "pageviews": 2,
   "visits": 2,
   "ipv6": false,
@@ -47,7 +48,7 @@
     "subagency": "GSFC"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-90841195-1,G-EVXQ30YQT5",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.google-analytics.com",
@@ -57,6 +58,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
@@ -75,10 +77,10 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Health Check | ESC Public Site",
+  "title": "Home ESC | ESC Public Site",
   "description": "ESC Public Site",
   "keywords": "Exploration and Space Communications, ESC, space communications, space navigation,human exploration, robotic exploration, space exploration, relay satellites, ground stations",
-  "og_title": "Health Check",
+  "og_title": "Home ESC",
   "og_description": "ESC Public Site",
   "og_article_published": null,
   "og_article_modified": null,

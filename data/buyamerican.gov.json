@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "44bc9664377fbd7b599c54cf8e1fbe26",
+  "page_hash": "be2fe07bce2b4790edb0663cdf2e4005",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -39,9 +40,7 @@
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": [
-    "\"password\""
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
@@ -53,24 +52,19 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-VTJJ2YFEQB",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "gov-bam.nr-data.net",
-    "js-agent.newrelic.com",
     "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://gov-bam.nr-data.net/1/NRJS-ccaae244e919a6b8126",
-    "https://gov-bam.nr-data.net/events/1/NRJS-ccaae244e919a6b8126",
-    "https://js-agent.newrelic.com/nr-spa-1.286.0.min.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/c9337227.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".madeinamerica.gov"
   ],

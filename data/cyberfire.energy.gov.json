@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "86efef6cdce637ba841bf27a3d9da35d",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -93,6 +94,7 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".energy.gov",
     "cyberfire.energy.gov"
   ],
   "viewport_meta_tag": true,
@@ -130,10 +132,10 @@
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
   "sitemap_xml_filesize": 0,
-  "sitemap_xml_count": 142,
+  "sitemap_xml_count": 143,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "a8e1f4f456a10a8554a80f739c3334c5",
+  "sitemap_xml_page_hash": "5ed5b1ff2229b3256f7d5de63a36955b",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

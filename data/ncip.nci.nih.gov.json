@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "dd0f2474548c80a25ce2d63cced9b515",
+  "page_hash": "e3890e081177d0bfd6f94a3adbecf8cd",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,16 +56,15 @@
     "fonts.gstatic.com",
     "gov1.qualtrics.com",
     "gov1.siteintercept.qualtrics.com",
+    "metrics.cancer.gov",
     "script.crazyegg.com",
     "use.fontawesome.com",
     "www.googletagmanager.com",
     "zn2mmno1n4c3smeoc-ncidccpssurveys.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/7fcfe8cf7e5b/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
-    "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
-    "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
+    "https://assets.adobedtm.com/6a4249cd0a2c/9d422d6cad08/25be3507c63e/RCe7c47238c4fa4fea840ccb85dbf35cd6-source.min.js",
     "https://assets.adobedtm.com/f1bfa9f7170c81b1a9a9ecdcc6c5215ee0b03c84/satelliteLib-5b9e3ac44703470653bb9ed571575dc0232775ef.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -79,10 +79,11 @@
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/WebResponsiveDialogModule.js",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s55753473716924",
     "https://script.crazyegg.com/pages/data-scripts/0076/1527/sampling/datascience.cancer.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0076/1527/site/datascience.cancer.gov.json",
     "https://script.crazyegg.com/pages/scripts/0076/1527.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/0b999d0737ea1b102aaee4140b6880af.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-brands-400.woff2",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-regular-400.woff2",
@@ -91,7 +92,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://zn2mmno1n4c3smeoc-ncidccpssurveys.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".cancer.gov"
   ],

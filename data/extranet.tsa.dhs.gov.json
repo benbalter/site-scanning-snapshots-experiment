@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "50971ebc2f05e5beaf166c2544861cfd",
-  "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "page_hash": "e40be7fc5e0ec0fa9b9575d6882ee2d6",
+  "accessibility_violations": "{\"contrast\":1,\"images\":12}",
+  "pageviews": 55,
+  "visits": 3,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -44,13 +45,24 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHS",
+    "subagency": "TSA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".dhs.gov",
     "extranet.tsa.dhs.gov"
@@ -65,7 +77,7 @@
   "https_enforced": true,
   "hsts": true,
   "title": "Warning: Sensitive Security Information. See 49 CFR Part 1520.",
-  "description": null,
+  "description": "Security Threat Assessment Tool (STAT) is a web-based application used to facilitate the Security Threat Assessment (STA) process for various facilities and organizations.",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -82,7 +94,7 @@
   "robots_txt_url": "https://extranet.tsa.dhs.gov/robots.txt",
   "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 337,
+  "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,

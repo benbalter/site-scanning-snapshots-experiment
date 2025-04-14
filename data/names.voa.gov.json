@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "de164a7f6c6547714151b7bd11ae503b",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":24,\"link-purpose\":10}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -54,7 +55,8 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".pronounce.voanews.com"
+    ".pronounce.voanews.com",
+    ".voanews.com"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

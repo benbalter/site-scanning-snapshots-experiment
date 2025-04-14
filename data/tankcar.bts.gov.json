@@ -5,8 +5,8 @@
   "initial_base_domain": "bts.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://tankcar.bts.gov/",
-  "domain": "tankcar.bts.gov",
+  "url": "https://www.tankcar.bts.gov/tankcar/",
+  "domain": "www.tankcar.bts.gov",
   "base_domain": "bts.gov",
   "top_level_domain": "gov",
   "live": true,
@@ -19,11 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "fd736ed460d3a5b56df445aa457d03d3",
+  "page_hash": "18d599158d8d8c68f6d837c1488382b9",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,22 +46,34 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-TS9639848Y,UA-18660041-1,UA-62812739-1,G-T5W6KLZ0FB",
   "third_party_service_domains": [
-    "cdnjs.cloudflare.com",
-    "www.tankcar.bts.gov"
+    "unpkg.com",
+    "use.fontawesome.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com",
+    "www.safeocs.gov"
   ],
   "third_party_service_urls": [
-    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js",
-    "https://www.tankcar.bts.gov/index.htm",
-    "https://www.tankcar.bts.gov/tankcar/resources/app/images/favicon.png"
+    "https://unpkg.com/popper.js@1",
+    "https://unpkg.com/popper.js@1.16.1/dist/umd/popper.min.js",
+    "https://unpkg.com/tippy.js@5",
+    "https://unpkg.com/tippy.js@5.2.1/dist/tippy-bundle.iife.min.js",
+    "https://use.fontawesome.com/releases/v5.8.2/css/all.css",
+    "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.woff2",
+    "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.safeocs.gov/image/template_gov_icon.svg",
+    "https://www.safeocs.gov/image/template_https_icon.svg",
+    "https://www.safeocs.gov/image/template_us_flag.svg"
   ],
-  "third_party_service_count": 2,
-  "cookie_domains": null,
+  "third_party_service_count": 5,
+  "cookie_domains": [
+    ".bts.gov",
+    "www.tankcar.bts.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -135,7 +148,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 46,
-  "www_url": "https://www.tankcar.bts.gov",
+  "www_url": "https://www.tankcar.bts.gov/tankcar",
   "www_status_code": 200,
   "www_title": "Tank Car Facility Survey"
 }

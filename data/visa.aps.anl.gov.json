@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2b267b975d0c9edc8e0681b8e6f61baa",
-  "accessibility_violations": null,
+  "page_hash": "dd31bdc0e706be1006c687793463ee2a",
+  "accessibility_violations": "{\"language\":1,\"images\":2,\"form-names\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,6 +53,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".anl.gov",
     "visa.aps.anl.gov"
   ],
   "viewport_meta_tag": true,

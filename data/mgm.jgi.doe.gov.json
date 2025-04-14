@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "65bde0481d400d5f60c84b9e8f270b0e",
-  "accessibility_violations": null,
+  "page_hash": "7b8710b42f17192fb6a43106ce7345b8",
+  "accessibility_violations": "{\"contrast\":3,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -55,7 +56,9 @@
     "http://fonts.googleapis.com/css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".doe.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": [
@@ -81,8 +84,8 @@
   "robots_txt_url": "https://mgm.jgi.doe.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 171,
-  "robots_txt_crawl_delay": null,
+  "robots_txt_filesize": 187,
+  "robots_txt_crawl_delay": 10,
   "robots_txt_sitemap_locations": [
     "https://mgm.jgi.doe.gov/wp-sitemap.xml"
   ],

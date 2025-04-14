@@ -20,7 +20,8 @@
   "source_list": [
     "dap",
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -33,9 +34,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "4ea968f3c7e7c08b9fa54f5cf570e59e",
-  "accessibility_violations": null,
-  "pageviews": 1383,
-  "visits": 238,
+  "accessibility_violations": "{\"language\":1}",
+  "pageviews": 1155,
+  "visits": 236,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,7 +51,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".commerce.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
@@ -81,9 +84,9 @@
   "sitemap_xml_url": "https://edit.commerce.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 3251689,
+  "sitemap_xml_filesize": 3252979,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-03T18:42:20.000Z",
+  "sitemap_xml_lastmod": "2025-04-09T16:08:33.000Z",
   "sitemap_xml_pdf_count": 1,
   "sitemap_xml_page_hash": "1b1b4baf1949f7648e8e7607180a4022",
   "uswds_favicon": 0,

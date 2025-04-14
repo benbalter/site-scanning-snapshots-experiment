@@ -18,19 +18,20 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "execution_context_destroyed",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "bcfd8fec651d92b93223bdb4a45aa3a7",
+  "www_scan_status": "dns_resolution_error",
+  "page_hash": "da7d969958d78beaade4bccb79026a9b",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -59,7 +60,7 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s04654669719343",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s27665265691108",
     "https://platform.twitter.com/js/button.856debeac157d9669cf51e73a08fbc93.js",
     "https://platform.twitter.com/widgets.js",
     "https://static.cancer.gov/webanalytics/WA_DCCPS_PageLoad.js",
@@ -69,8 +70,7 @@
     "https://syndication.twitter.com/i/jot/embeds",
     "https://syndication.twitter.com/settings",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.google-analytics.com/j/collect",
+    "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 7,
@@ -136,7 +136,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 5,
-  "www_url": "https://seer.cancer.gov/canques",
-  "www_status_code": 200,
-  "www_title": "SEER Cancer Query Systems (CanQues)"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

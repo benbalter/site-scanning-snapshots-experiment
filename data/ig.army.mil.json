@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "874f97cf1c732a24b42f8ca65fb9af89",
-  "accessibility_violations": null,
-  "pageviews": 16904,
-  "visits": 10777,
+  "page_hash": "6da8beff05e2e7932015c6834f91b378",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
+  "pageviews": 17460,
+  "visits": 11071,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -61,6 +61,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -76,11 +77,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/73381ccc/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".army.mil"
   ],

@@ -27,12 +27,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
-  "page_hash": "81220a9e889be97f833cf6128b0a1c91",
+  "www_scan_status": "completed",
+  "page_hash": "fcc9b04d0db83b64471cea9fbb98084d",
   "accessibility_violations": "{\"link-purpose\":1}",
-  "ipv6": false,
+  "pageviews": null,
+  "visits": null,
+  "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
   "login_provider": null,
@@ -44,8 +46,9 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-4S1f3,G-tqmhl4Z4bVxSQC8,G-CYEMpRjUV9RoHta,G-y6jZ6tiM0pfpDfL",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-m2UN,G-CVXB3fzl9Q2dtoR,G-alZTuOvi0nqv5s6,G-QhM6k4CPWRuIWnS",
   "third_party_service_domains": [
+    "csp.withgoogle.com",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "script.crazyegg.com",
@@ -55,6 +58,7 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
@@ -69,13 +73,12 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
-    "https://www.gstatic.com/recaptcha/api2/canonical_car.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/rW64dpMGAGrjU7JJQr9xxPl8/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -92,8 +95,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "The BRAIN Blog | BRAIN Initiative",
   "description": null,
   "keywords": null,
@@ -137,13 +140,14 @@
     "usa-text-wrapper"
   ],
   "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 20,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://braininitiative.nih.gov/news-events/blog",
+  "www_status_code": 200,
+  "www_title": "The BRAIN Blog | BRAIN Initiative"
 }

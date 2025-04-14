@@ -36,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "connection_reset",
-  "page_hash": "7872d49871be5a4b3324a2e545ce05d1",
-  "accessibility_violations": null,
-  "pageviews": 86024,
-  "visits": 40411,
+  "page_hash": "2d1963945004d889f82f336ddb732c53",
+  "accessibility_violations": "{\"user-control-name\":1,\"frames-iframes\":2,\"link-purpose\":1}",
+  "pageviews": 86930,
+  "visits": 38887,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -62,23 +62,25 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
+    "upload.wikimedia.org",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://d34w7g4gy10iej.cloudfront.net/audio/2503/DOD_110860357.mp3",
     "https://d34w7g4gy10iej.cloudfront.net/audio/2503/DOD_110877467.mp3",
+    "https://d34w7g4gy10iej.cloudfront.net/audio/2504/DOD_110902287.mp3",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".army.mil",
-    ".history.army.mil"
+    ".army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

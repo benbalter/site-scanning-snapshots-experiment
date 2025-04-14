@@ -20,7 +20,8 @@
   "source_list": [
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -32,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c3b5d6995c17314d3ff0ea0ced3153c",
-  "accessibility_violations": null,
-  "pageviews": 251,
-  "visits": 34,
+  "page_hash": "12e986ceb928774efd89f6e0fd008661",
+  "accessibility_violations": "{\"user-control-name\":1}",
+  "pageviews": 179,
+  "visits": 24,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -48,15 +49,17 @@
   "dap_version": "",
   "ga_tag_id": "G-Q047R12NHE",
   "third_party_service_domains": [
+    "fonts.googleapis.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://fonts.googleapis.com/icon",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -72,7 +75,7 @@
   "og_description": null,
   "og_article_published": null,
   "og_article_modified": null,
-  "og_image": "assets/img/Background/SDE-Preview-Default.png",
+  "og_image": "assets/img/SDE-Cover.png",
   "og_type": null,
   "og_url": null,
   "canonical_link": null,

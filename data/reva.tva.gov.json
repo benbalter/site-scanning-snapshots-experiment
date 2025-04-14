@@ -21,7 +21,8 @@
     "dap",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "fd14e5456aab9511e2d25b22d022c2cc",
-  "accessibility_violations": null,
-  "pageviews": 7632,
-  "visits": 5493,
+  "accessibility_violations": "{\"contrast\":2}",
+  "pageviews": 8030,
+  "visits": 5980,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,6 +55,7 @@
     "dap.digitalgov.gov",
     "js.arcgis.com",
     "tva-azr-eastus-cdn-ep-tvawcm-prd.azureedge.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.tva.com"
   ],
@@ -64,12 +66,13 @@
     "https://js.arcgis.com/4.24/esri/themes/light/main.css",
     "https://js.arcgis.com/4.24/init.js",
     "https://tva-azr-eastus-cdn-ep-tvawcm-prd.azureedge.net/cdn-tvawcma/images/default-source/backend-images/tva-logo-small-white.png",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.tva.com/ResourcePackages/Bootstrap4/assets/dist/css/main.min.css",
     "https://www.tva.com/ResourcePackages/Bootstrap4/assets/dist/css/main5.min.css",
     "https://www.tva.com/ResourcePackages/Bootstrap4/assets/dist/js/main4.min.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".tva.gov",
     "reva.tva.gov"

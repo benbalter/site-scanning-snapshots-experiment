@@ -25,7 +25,8 @@
     "mil-sites1",
     "mil-sites2",
     "dod_public",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -37,10 +38,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "59589544a1284265fc9521348d4e5acd",
-  "accessibility_violations": null,
-  "pageviews": 4151,
-  "visits": 1839,
+  "page_hash": "c52d9182e4b08e8039321398fa510797",
+  "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":6}",
+  "pageviews": 3958,
+  "visits": 1806,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -71,13 +72,17 @@
     "https://media.defense.gov/2018/Sep/26/2002045160/990/382/0/180926-D-SA267-1002.JPG",
     "https://media.defense.gov/2018/Sep/26/2002045162/990/382/0/180926-D-SA267-1003.JPG",
     "https://media.defense.gov/2018/Sep/26/2002045163/990/382/0/180926-D-SA267-1004.JPG",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".nsa.gov"
+    ".nsa.gov",
+    ".oig.nsa.gov",
+    "oig.nsa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

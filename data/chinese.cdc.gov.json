@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "2020_eot",
-    "gpo_fdlp"
+    "gpo_fdlp",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4271a1da5d12d35e42b4dd77cfc80f44",
+  "page_hash": "f664d823bf89c7b9e6d5ea3620f8544d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -57,7 +58,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s88643453694080",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s24265562955743",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
     "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/cdc/production/gateway.min.js",
@@ -66,7 +67,8 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".cdc.gov"
+    ".cdc.gov",
+    ".www.cdc.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

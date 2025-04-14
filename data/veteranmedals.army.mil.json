@@ -31,10 +31,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "354950b4b8e9d93774fa640a5095bb87",
-  "accessibility_violations": null,
-  "pageviews": 149,
-  "visits": 151,
+  "page_hash": "50a5b39aa9ddf2854570e74d2ad2ea39",
+  "accessibility_violations": "{\"aria\":7,\"lists\":6}",
+  "pageviews": 35,
+  "visits": 39,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -46,9 +46,13 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "www.army.mil"
+  ],
+  "third_party_service_urls": [
+    "https://www.army.mil/e2/images/rv7/universal/army_logo_horizontal.svg"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     "veteranmedals.army.mil"
   ],

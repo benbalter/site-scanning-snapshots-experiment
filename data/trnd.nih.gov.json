@@ -18,11 +18,12 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fd6934dfd5df17574d4b37958ed9859b",
+  "page_hash": "00d85aed9f76a05475e17ce4dcc93894",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,24 +48,21 @@
     "subagency": "NIH"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-ZZQ8H5G8ZX,G-6B4VPMQDGK",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-ZZQ8H5G8ZX",
   "third_party_service_domains": [
-    "analytics.google.com",
     "c.bing.com",
     "c.clarity.ms",
     "cdn.jsdelivr.net",
     "content.hotjar.io",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
-    "s.clarity.ms",
     "s3.amazonaws.com",
     "script.hotjar.com",
     "static.hotjar.com",
     "www.clarity.ms",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
     "https://cdn.jsdelivr.net/npm/@uswds/uswds@3.3.0/dist/css/uswds.min.css",
@@ -77,19 +75,17 @@
     "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/fonts/bootstrap-icons.woff2",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css",
     "https://content.hotjar.io/",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://s.clarity.ms/collect",
     "https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js",
-    "https://script.hotjar.com/modules.47bdc3ea03ae568fad7d.js",
+    "https://script.hotjar.com/modules.f98993dba31a932bc912.js",
     "https://static.hotjar.com/c/hotjar-3086545.js",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/ku0m8m6kx8",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".nih.gov"
   ],

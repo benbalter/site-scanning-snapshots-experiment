@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ec18731aa1d3d20990594f96d5d7cbbf",
-  "accessibility_violations": null,
-  "pageviews": 2061,
-  "visits": 419,
+  "page_hash": "f60169e8927e2b68b8bb2988c659a3f3",
+  "accessibility_violations": "{\"contrast\":3,\"language\":1}",
+  "pageviews": 3050,
+  "visits": 464,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -55,16 +56,15 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-MGL20C6RGF",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nasa.gov",
     "omisips1.omisips.eosdis.nasa.gov"

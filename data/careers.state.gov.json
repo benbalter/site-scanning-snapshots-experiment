@@ -22,7 +22,9 @@
     "pulse",
     "omb_idea",
     "gov_man",
-    "other"
+    "other",
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,11 +35,11 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "80c9601b98520df4eb4f672db84560f3",
-  "accessibility_violations": null,
-  "pageviews": 338728,
-  "visits": 151669,
+  "www_scan_status": "completed",
+  "page_hash": "d34a300cec8ffa8d44b3318f804e31ed",
+  "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":1}",
+  "pageviews": 334485,
+  "visits": 145712,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -51,7 +53,7 @@
     "siteplatform": "Careers"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-120142580-1,G-LW2KLK9Q3F,G-H8YTPXTFNF,UA-21807698-1,G-CSLL4ZEK4L,G-Tt1E1QzX2uY07Bk",
+  "ga_tag_id": "UA-120142580-1,G-LW2KLK9Q3F,G-H8YTPXTFNF,UA-21807698-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
@@ -73,14 +75,10 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
-    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
-    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/api.js",
-    "https://www.google.com/recaptcha/api2/clr",
-    "https://www.google.com/recaptcha/api2/reload",
-    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gsa.gov/sites/gsa.gov/templates/styles/dist/img/icon-dot-gov.svg",
@@ -89,13 +87,12 @@
     "https://www.gsa.gov/themes/custom/cmpmigrationassets/assets//sites/gsa.gov/templates/styles/dist/img/icon-dot-gov.svg",
     "https://www.gsa.gov/themes/custom/cmpmigrationassets/assets//sites/gsa.gov/templates/styles/dist/img/icon-https.svg",
     "https://www.gsa.gov/themes/custom/cmpmigrationassets/assets//sites/gsa.gov/templates/styles/dist/img/us_flag_small.png",
-    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
-    ".state.gov"
+    ".state.gov",
+    "careers.state.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -155,7 +152,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 20,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://careers.state.gov",
+  "www_status_code": 200,
+  "www_title": "Home - Careers"
 }

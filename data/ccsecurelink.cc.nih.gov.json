@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "182d945c756574513cfbf8ac2ea1e104",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"aria\":1,\"contrast\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -49,6 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".nih.gov",
     "ccsecurelink.cc.nih.gov"
   ],
   "viewport_meta_tag": true,
@@ -81,11 +83,11 @@
   "sitemap_xml_url": "https://ccsecurelink.cc.nih.gov/rss-servlet/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": 15819,
+  "sitemap_xml_filesize": 15260,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "73f3edfb92bdf81814b8cfb7ff6d55fb",
+  "sitemap_xml_page_hash": "540f78163604b444417df06d704515b8",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

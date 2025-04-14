@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "b2742ae45cd94c2c4283485110db3b52",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"frames-iframes\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,44 +53,14 @@
   "dap_version": "",
   "ga_tag_id": "G-XYR4NRWFH3",
   "third_party_service_domains": [
-    "fonts.gstatic.com",
-    "googleads.g.doubleclick.net",
-    "i.ytimg.com",
-    "invalid",
-    "jnn-pa.googleapis.com",
-    "play.google.com",
-    "static.doubleclick.net",
     "www.google-analytics.com",
-    "www.google.com",
-    "www.googletagmanager.com",
-    "www.gstatic.com",
-    "www.youtube.com",
-    "yt3.ggpht.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
-    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://googleads.g.doubleclick.net/pagead/id",
-    "https://i.ytimg.com/vi_webp/42xGsGIrqJk/default.webp",
-    "https://i.ytimg.com/vi_webp/4NUkHY8GSE4/default.webp",
-    "https://i.ytimg.com/vi_webp/PV7JCcEKjA8/default.webp",
-    "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
-    "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-    "https://play.google.com/log",
-    "https://static.doubleclick.net/instream/ad_status.js",
     "https://www.google-analytics.com/g/collect",
-    "https://www.google.com/js/th/mb36QiQZpRAdIpvWuLtV6guHTjebeSz1WZr8EgQuFnk.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
-    "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/73381ccc/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/73381ccc/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/73381ccc/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/73381ccc/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/73381ccc/www-player.css",
-    "https://yt3.ggpht.com/ytc/AIdro_nxaeCU3B3PY8TBnKicCHvf_K-z_PSiFX-kx8BqBjO2T3s=s68-c-k-c0x00ffffff-no-rj"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".ed.gov",
     "iesreview.ed.gov"

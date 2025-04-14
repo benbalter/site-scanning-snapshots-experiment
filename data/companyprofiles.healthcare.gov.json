@@ -22,7 +22,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e30d80b3ad11dbedaac2cd205d69af3f",
+  "page_hash": "bf25a694defb572b33873d52627847a2",
   "accessibility_violations": null,
-  "pageviews": 1833,
-  "visits": 1146,
+  "pageviews": 1600,
+  "visits": 1005,
   "ipv6": true,
   "hostname": "akadns.net",
   "cms": null,
@@ -57,6 +58,7 @@
     "bam.nr-data.net",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
+    "ds-aksb-a.akamaihd.net",
     "js-agent.newrelic.com",
     "ping.chartbeat.net",
     "static.chartbeat.com",
@@ -71,6 +73,8 @@
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://ds-aksb-a.akamaihd.net/2/250088/b",
+    "https://ds-aksb-a.akamaihd.net/aksb.min.js",
     "https://js-agent.newrelic.com/nr-spa-1059.min.js",
     "https://ping.chartbeat.net/ping",
     "https://static.chartbeat.com/js/chartbeat.js",
@@ -81,7 +85,7 @@
     "https://tealium-tags.healthcare.gov/healthcare-companyprofiles/prod/utag.sync.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".healthcare.gov",
     "companyprofiles.healthcare.gov"

@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "8a30273fe3d72fba3e771c6e97308f2c",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"aria\":1,\"contrast\":19,\"language\":1,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,

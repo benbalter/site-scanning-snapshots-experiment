@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a66c2e114ed3f29908a19f9854004116",
-  "accessibility_violations": null,
+  "page_hash": "d7ee668fddf61ac21988ee5013515396",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -44,13 +45,21 @@
   ],
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".dhs.gov",
     "saml.tsa.dhs.gov"
@@ -61,7 +70,7 @@
   "https_enforced": false,
   "hsts": false,
   "title": "Mobile Assure DAC",
-  "description": null,
+  "description": "Portal for Telos Designated Aviation Channeler (DAC)",
   "keywords": null,
   "og_title": null,
   "og_description": null,

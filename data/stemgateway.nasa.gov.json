@@ -21,7 +21,8 @@
     "dap",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "19bd942999a4b2ce2ccc07cffa5f401e",
-  "accessibility_violations": null,
-  "pageviews": 1055169,
-  "visits": 360837,
+  "page_hash": "3ad3db6de979cb7b6af8ba4364eb03f4",
+  "accessibility_violations": "{\"aria\":1,\"images\":9,\"lists\":1}",
+  "pageviews": 979040,
+  "visits": 337717,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -65,10 +66,15 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjp-Ek-_EeA.woff",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/enterprise.js",
+    "https://www.google.com/recaptcha/enterprise/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [

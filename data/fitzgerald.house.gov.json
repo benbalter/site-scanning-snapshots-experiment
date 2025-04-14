@@ -26,13 +26,13 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3d89717b10558ecab7be23cf3ad762cc",
-  "accessibility_violations": null,
+  "page_hash": "dccf7d7cefd77ed8aeac49ec1d7e9a6d",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -66,7 +66,6 @@
   "third_party_service_urls": [
     "https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg",
     "https://abs-0.twimg.com/emoji/v2/svg/1f6a8.svg",
-    "https://abs-0.twimg.com/emoji/v2/svg/2705.svg",
     "https://abs-0.twimg.com/emoji/v2/svg/2b07.svg",
     "https://abs.twimg.com/sticky/animations/like.4.json",
     "https://api.hcaptcha.com/checksiteconfig",
@@ -77,9 +76,7 @@
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/WI-5/shape.kml",
     "https://newassets.hcaptcha.com/c/5fef759e34a955dd56ceddd805e6a87d3f7d854c8c695bf797d43331bebfee3f/hsw.js",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1894897519047430144/pu/img/yA7Bg8JP7ol285tE.jpg",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1895480846355779584/pu/img/NfyQcdeG76XjJXpt.jpg",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1897109927728140288/pu/img/4EnjsK6axmv7y-db.jpg",
+    "https://pbs.twimg.com/amplify_video_thumb/1910110611616206848/img/BT1Y3jqGZ7CwPdTB.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1900361264355745792/pu/img/9ZSa7Pw-1FVem7jc.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1904645316890030080/pu/img/1cTXJxFTm77ji9gs.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1904994581378195456/pu/img/RXLwgOF3Wg1RET8l.jpg",
@@ -91,6 +88,7 @@
     "https://pbs.twimg.com/media/GnYJnfbWIAAP6WP",
     "https://pbs.twimg.com/media/GndnL0CXEAcLgAS.jpg",
     "https://pbs.twimg.com/media/GnnbMXkXAAA1Upc",
+    "https://pbs.twimg.com/media/GoNO56iX0AAYjJX",
     "https://pbs.twimg.com/profile_images/1369069308714885121/ClZOcu0z_normal.jpg",
     "https://pbs.twimg.com/profile_images/1610657349399678976/W0jOnmpF_mini.jpg",
     "https://pbs.twimg.com/profile_images/1721922548416294912/If6Fz0DZ_mini.jpg",
@@ -130,8 +128,7 @@
   ],
   "third_party_service_count": 15,
   "cookie_domains": [
-    ".fitzgerald.house.gov",
-    ".house.gov"
+    ".fitzgerald.house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

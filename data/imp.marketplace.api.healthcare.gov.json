@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e4f3514b8c321bfa06311904abe3ded6",
-  "accessibility_violations": null,
+  "page_hash": "a7c880211f5d278cd850778df8c19e53",
+  "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -50,7 +51,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".healthcare.gov",
     ".marketplace.api.healthcare.gov"
   ],
   "viewport_meta_tag": false,

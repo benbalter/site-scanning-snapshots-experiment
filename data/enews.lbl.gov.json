@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "f3b0acc48ff490b68120a702005ea148",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":4,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -55,7 +56,7 @@
   ],
   "third_party_service_urls": [
     "https://edge.quantserve.com/quant.js",
-    "https://pixel.quantserve.com/pixel;r=1378167297;rf=0;a=p-cbQmBHFpf2Ukg;url=https%3A%2F%2Fenews.lbl.gov%2F;ns=0;ce=1;qjs=1;qv=4ce77a9a-20250403165047;ref=;dst=0;et=1743790420837;tzo=0;ogl=;d=lbl.gov;uht=2;fpan=1;fpa=P1-7c2da224-dfa4-46ed-b874-b2ce4df94a96;pbc=;_ses=0bbda54e-de31-4811-a0b9-31a305824b65;_seg=1;gdpr=0;mdl=",
+    "https://pixel.quantserve.com/pixel;r=1674660749;rf=0;a=p-cbQmBHFpf2Ukg;url=https%3A%2F%2Fenews.lbl.gov%2F;ns=0;ce=1;qjs=1;qv=4ce77a9a-20250403165047;ref=;dst=0;et=1744391974795;tzo=0;ogl=;d=lbl.gov;uht=2;fpan=1;fpa=P1-e2571ca2-967d-447b-ba79-0b928acf6aa6;pbc=;_ses=994bc9d4-83d9-4829-8d7e-21962a02f1e5;_seg=1;gdpr=0;mdl=",
     "https://rules.quantcount.com/rules-p-cbQmBHFpf2Ukg.js",
     "https://ssl.google-analytics.com/__utm.gif",
     "https://ssl.google-analytics.com/ga.js",

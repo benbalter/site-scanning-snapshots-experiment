@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c9ad6cbb462c6fb5b256b7790845385e",
-  "accessibility_violations": null,
-  "pageviews": 3507,
-  "visits": 1903,
+  "page_hash": "1d4c37f709ef99b2ba9249f22969aa9a",
+  "accessibility_violations": "{\"lists\":1}",
+  "pageviews": 3265,
+  "visits": 1823,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -78,13 +79,12 @@
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
-    "https://siteintercept.qualtrics.com/static/q-siteintercept/c56e5a7d495d79cc4f4ca994a160c4e8068fbce7/img/wr-dialog-close-btn-black.png",
+    "https://siteintercept.qualtrics.com/static/q-siteintercept/0c677b398ceeae2769448a739bb2bdc13f7eb735/img/wr-dialog-close-btn-black.png",
     "https://siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nlm.nih.gov/images/facebook.svg",
     "https://www.nlm.nih.gov/images/linkedin.svg",
-    "https://www.nlm.nih.gov/images/mail.svg",
     "https://www.nlm.nih.gov/images/twitter.svg",
     "https://www.nlm.nih.gov/images/youtube.svg",
     "https://zne5mphwz93lb4gge-nlmenterprise.siteintercept.qualtrics.com/SIE/",
@@ -92,7 +92,8 @@
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    "discoverwhr.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

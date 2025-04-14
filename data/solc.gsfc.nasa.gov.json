@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0aa89c96bb971bb5eb5df1c23fe92aca",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":4,\"link-purpose\":17}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -67,6 +68,7 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".nasa.gov",
     ".solc.gsfc.nasa.gov"
   ],
   "viewport_meta_tag": true,

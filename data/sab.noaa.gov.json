@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -33,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "2bb49c4f7ef18c9e3e5786a526abe8bb",
-  "accessibility_violations": null,
+  "page_hash": "698a61f3e61d31bf9800dfadc2b97a2c",
+  "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -54,8 +55,6 @@
   "third_party_service_domains": [
     "46ff9d09ced0.edge.sdk.awswaf.com",
     "cdnjs.cloudflare.com",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "tpo-dev.oar.woc.noaa.gov",
     "www.googletagmanager.com"
   ],
@@ -68,14 +67,10 @@
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/img/usa-icons/expand_more.svg",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/js/uswds-init.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/js/uswds.min.js",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/exo/v21/4UaOrEtFpBISc36j2jDu5w.woff2",
-    "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://tpo-dev.oar.woc.noaa.gov/wp-content/uploads/2020/10/email.png",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".noaa.gov",
     ".sab.noaa.gov"

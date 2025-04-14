@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": true,
   "source_list": [
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -30,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cb859f7d43d335d43e10810b4995a705",
-  "accessibility_violations": null,
+  "page_hash": "9cd6e2e62b3b07b0273132200a7142c8",
+  "accessibility_violations": "{\"frames-iframes\":1,\"language\":1,\"images\":7,\"link-purpose\":6,\"lists\":11}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,15 +50,13 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nasa.gov"
   ],

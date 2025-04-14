@@ -21,19 +21,20 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8f6321e14b045d13409536698dadffa3",
+  "page_hash": "9de923263e43b7df34cf386e847b93c2",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,12 +48,17 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "UA-28019997-1,UA-19491314-1,G-9GFN757Q2T,G-M3XE3GHE12",
   "third_party_service_domains": [
     "code.ctpprojects.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "style.ctpprojects.com"
+    "google.com",
+    "googleads.g.doubleclick.net",
+    "style.ctpprojects.com",
+    "www.google-analytics.com",
+    "www.google.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://code.ctpprojects.com/anyre.min.js",
@@ -60,12 +66,20 @@
     "https://code.ctpprojects.com/loader.min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdMPmDaZRbrw.woff2",
+    "https://google.com/ccm/form-data/1031453926",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031453926/",
     "https://style.ctpprojects.com/anyre.base.css",
     "https://style.ctpprojects.com/client/lbl.embed.css",
     "https://style.ctpprojects.com/fontawesome/6.5.1-free/css/brands.min.css",
-    "https://style.ctpprojects.com/fontawesome/css/all.min.css"
+    "https://style.ctpprojects.com/fontawesome/css/all.min.css",
+    "https://style.ctpprojects.com/fontawesome/webfonts/fa-regular-400.woff2",
+    "https://style.ctpprojects.com/fontawesome/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.google.com/ccm/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".lbl.gov"
   ],

@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "gov",
-    "pulse"
+    "pulse",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "009ca0d67d0d7c3d0741d9e102041a1f",
-  "accessibility_violations": null,
+  "page_hash": "52475f88f5017ce9ee8836dd63dd4d9b",
+  "accessibility_violations": "{\"aria\":1}",
   "pageviews": 1,
   "visits": 1,
   "ipv6": true,
@@ -77,6 +78,7 @@
     "https://cdn.ncbi.nlm.nih.gov/pubmed/7e7ad262-b370-490b-9751-e68ac1c1c5b4/core/images/learn.svg",
     "https://cdn.ncbi.nlm.nih.gov/pubmed/7e7ad262-b370-490b-9751-e68ac1c1c5b4/core/images/pubmed-logo-white.svg",
     "https://cdn.ncbi.nlm.nih.gov/pubmed/7e7ad262-b370-490b-9751-e68ac1c1c5b4/uswds/dist/fonts/merriweather-bold-webfont.woff2",
+    "https://cdn.ncbi.nlm.nih.gov/pubmed/7e7ad262-b370-490b-9751-e68ac1c1c5b4/uswds/dist/fonts/merriweather-regular-webfont.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",

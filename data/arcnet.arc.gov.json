@@ -9,9 +9,9 @@
   "domain": "arcnet.arc.gov",
   "base_domain": "arc.gov",
   "top_level_domain": "gov",
-  "live": true,
+  "live": false,
   "filter": false,
-  "status_code": 200,
+  "status_code": 404,
   "media_type": "text/html",
   "agency": "Appalachian Regional Commission",
   "bureau": "Appalachian Regional Commission",
@@ -19,7 +19,8 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -31,45 +32,35 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "134720cf956a30cde1133e74e322a476",
-  "accessibility_violations": null,
+  "page_hash": "1b582d7cd70c24b00a9c923eb53a2f17",
+  "accessibility_violations": "{\"contrast\":6,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": [
-    "\"password\"",
-    "type=\"password\""
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "UA-65183049-2,G-ZKHCBPMN6Z",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "static.cloudflareinsights.com",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "static.cloudflareinsights.com"
   ],
   "third_party_service_urls": [
-    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
   ],
-  "third_party_service_count": 3,
-  "cookie_domains": [
-    ".arc.gov"
-  ],
+  "third_party_service_count": 1,
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": false,
-  "title": "ARCnet 2.0 - ARC Grant Management System",
+  "title": "Microsoft Azure Web App - Error 404",
   "description": null,
   "keywords": null,
   "og_title": null,

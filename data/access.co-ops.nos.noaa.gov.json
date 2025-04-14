@@ -19,7 +19,8 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -32,9 +33,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0691d0708c875238578a9b5576ec05bb",
-  "accessibility_violations": null,
-  "pageviews": 1354,
-  "visits": 123,
+  "accessibility_violations": "{\"language\":1}",
+  "pageviews": 5474,
+  "visits": 708,
   "ipv6": true,
   "hostname": "co-ops-aws-east1.net",
   "cms": null,
@@ -49,7 +50,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

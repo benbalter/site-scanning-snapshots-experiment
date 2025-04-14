@@ -22,7 +22,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -36,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "33a38c867c68d63c3b858e8b8d1390b1",
   "accessibility_violations": null,
-  "pageviews": 762,
-  "visits": 342,
+  "pageviews": 1614,
+  "visits": 761,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -52,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nist.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

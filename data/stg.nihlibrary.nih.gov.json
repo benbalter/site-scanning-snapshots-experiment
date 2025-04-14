@@ -19,11 +19,12 @@
   "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -75,7 +76,7 @@
   "robots_txt_url": "https://stg.nihlibrary.nih.gov/robots.txt",
   "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 2027,
+  "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,

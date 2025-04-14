@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "6b4a034c45323e4f2002abd4471d437f",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":12,\"language\":1,\"images\":5}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -62,6 +63,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".nasa.gov",
     "jplwater.nasa.gov"
   ],
   "viewport_meta_tag": false,

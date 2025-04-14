@@ -31,7 +31,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0457e38432de6d6a9ebbb9e5e1ab3016",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":147,\"language\":1,\"link-purpose\":37,\"lists\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -61,7 +61,9 @@
     "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".lanl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
