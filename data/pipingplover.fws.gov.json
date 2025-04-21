@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e5c7c028c102ab1338d6e0e0d855fac0",
+  "page_hash": "e317ba37bbac244ce9ac2e51ff8c5876",
   "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -48,12 +48,10 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C",
+  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c15.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
-    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdn.knightlab.com",
     "cdnjs.cloudflare.com",
@@ -66,7 +64,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c15.akstat.io/",
     "https://a.tile.openstreetmap.org/4/2/4.png",
     "https://a.tile.openstreetmap.org/4/2/7.png",
     "https://a.tile.openstreetmap.org/4/3/6.png",
@@ -78,7 +75,6 @@
     "https://b.tile.openstreetmap.org/4/3/7.png",
     "https://b.tile.openstreetmap.org/4/4/6.png",
     "https://b.tile.openstreetmap.org/4/5/5.png",
-    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/4/2/6.png",
     "https://c.tile.openstreetmap.org/4/3/5.png",
     "https://c.tile.openstreetmap.org/4/4/4.png",
@@ -104,21 +100,22 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18S0xR41.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
-    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_map82562d1b09304a3abd10d53533fa287c.png",
-    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_map98381904519446c38aa2da156ceb8f5b.png",
-    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_mapb079b457756840e18c513884f142910d.png",
+    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_map3712f03ae1944abea20f81f4a89b8a53.png",
+    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_map78d4d782989c4bc4a5f2606fbebf99a4.png",
+    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_mapef110db0837e4dee979a4ab1c1a5ba87.png",
+    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_mapfede630ea1f346a0a325568b2b13831a.png",
     "https://maps.ecosphere.fws.gov/server/rest/services/ecos_tess/RangeMap/MapServer/",
     "https://maps.ecosphere.fws.gov/server/rest/services/ecos_tess/RangeMap/MapServer/export",
     "https://s.go-mpulse.net/boomerang/QPMY6-HX4DG-C5T6C-P2FE6-TUAP7",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

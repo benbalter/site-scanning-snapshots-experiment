@@ -52,7 +52,9 @@
     "https://accounts.swim.faa.gov/realms/swim/protocol/openid-connect/login-status-iframe.html/init"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".faa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

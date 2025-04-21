@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e6e89bd7df83fcd8d0b59a11619c19d4",
+  "page_hash": "e187d0ae20ac3ffcf4c8a5a9f41c2d97",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -40,6 +40,7 @@
   "login_provider": null,
   "login": [
     "\"password\"",
+    "\"userid\"",
     "type=\"password\""
   ],
   "site_search": false,
@@ -48,9 +49,13 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "cdn.jsdelivr.net"
+  ],
+  "third_party_service_urls": [
+    "https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     "inecp.learning.ornl.gov"
   ],

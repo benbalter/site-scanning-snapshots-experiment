@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "26810dd1ae5706189a0723e8eef5d3c9",
+  "page_hash": "4d8c4db4d35eea220eafd47d2379146e",
   "accessibility_violations": "{\"contrast\":7}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".pnnl.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about"

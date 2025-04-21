@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2e07b5b8dae082c297fe15cae8604ff1",
+  "page_hash": "21f594c5848ffe5e997827a77efae66c",
   "accessibility_violations": "{\"aria\":10,\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -48,10 +48,12 @@
   "dap_version": "",
   "ga_tag_id": "G-3HCXKZC7W4",
   "third_party_service_domains": [
+    "api.hcaptcha.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kit.fontawesome.com",
+    "newassets.hcaptcha.com",
     "translate-pa.googleapis.com",
     "translate.google.com",
     "translate.googleapis.com",
@@ -60,12 +62,14 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kit.fontawesome.com/e02478940c.js",
+    "https://newassets.hcaptcha.com/c/7e4aa90329fe7d457c69369bb6cbcb914f524f40b8c0720fb36b517a1da9d6e8/hsw.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
     "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.wX7qQ5EH6oI.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfrNtUAtY-e6eilwMrQxoU8LiA-1Hg/m=el_main",
@@ -76,8 +80,9 @@
     "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.NJgGN_yGIWM.L.W.O/am=AAY/d=0/rs=AN8SPfrTSMIvWAFISYN4u74dPJrX0HgUsw/m=el_main_css",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
+    ".house.gov",
     ".soto.house.gov"
   ],
   "viewport_meta_tag": true,

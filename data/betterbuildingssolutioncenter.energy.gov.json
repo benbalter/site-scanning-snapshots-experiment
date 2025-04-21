@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e4522780b7d312cce6c7a8d660925a26",
+  "page_hash": "cc492bc3698f943f7e1736d0537b6017",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
-  "pageviews": 1579044,
-  "visits": 46986,
+  "pageviews": 826618,
+  "visits": 44053,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -56,8 +56,8 @@
     "c.bing.com",
     "c.clarity.ms",
     "cdn.jsdelivr.net",
-    "d.clarity.ms",
     "dap.digitalgov.gov",
+    "s.clarity.ms",
     "www.clarity.ms",
     "www.googletagmanager.com"
   ],
@@ -65,9 +65,9 @@
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
-    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://s.clarity.ms/collect",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.googletagmanager.com/gtag/js",
@@ -80,12 +80,10 @@
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "fear",
     "privacy"
   ],
   "required_links_text": [
     "accessibility",
-    "no fear act",
     "vulnerability disclosure"
   ],
   "https_enforced": true,

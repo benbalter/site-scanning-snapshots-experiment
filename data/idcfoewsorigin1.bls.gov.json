@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1fc1be60bf79179b764a8dd307bc838d",
+  "page_hash": "bb4ce875c7a587c1ceac8608419cbc4b",
   "accessibility_violations": null,
-  "pageviews": 53,
-  "visits": 27,
+  "pageviews": 45,
+  "visits": 23,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -49,25 +49,28 @@
     "yt": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,G-YyjvNErCdGMZ4Dv",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "bam.nr-data.net",
     "dap.digitalgov.gov",
     "js-agent.newrelic.com",
     "remote.captcha.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://bam.nr-data.net/1/e28325a005",
+    "https://bam.nr-data.net/events/1/e28325a005",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://js-agent.newrelic.com/nr-spa-1153.min.js",
     "https://remote.captcha.com/include.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".bls.gov",
     "idcfoews.bls.gov"

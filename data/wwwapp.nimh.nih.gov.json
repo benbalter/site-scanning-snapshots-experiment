@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "52f79a817f1b7c6e150f6bdd54d95a32",
-  "accessibility_violations": "{\"contrast\":1,\"language\":1}",
-  "pageviews": 6054,
-  "visits": 3872,
+  "page_hash": "45e4a988f82ab8f7e87a82a254bad9cf",
+  "accessibility_violations": "{\"language\":1,\"link-purpose\":6}",
+  "pageviews": 6016,
+  "visits": 3788,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -43,33 +43,19 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
+  "dap": false,
   "dap_parameters": "",
-  "dap_version": "20181010 v4.1 - Universal Analytics",
-  "ga_tag_id": "UA-33523145-1",
-  "third_party_service_domains": [
-    "www.google-analytics.com"
-  ],
-  "third_party_service_urls": [
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect"
-  ],
-  "third_party_service_count": 1,
+  "dap_version": "",
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
-    ".nih.gov",
-    ".wwwapp.nimh.nih.gov"
+    ".nih.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": [
-    "foia",
-    "privacy",
-    "usa.gov"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "foia",
-    "vulnerability disclosure"
-  ],
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
   "title": "wwwapp.nimh.nih.gov",

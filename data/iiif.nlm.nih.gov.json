@@ -24,7 +24,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,10 +33,10 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "8221cdb2117e3a7cd096a8d3cc8b5d01",
-  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "cloudfront.net",
   "cms": null,
   "login_provider": null,
@@ -51,7 +51,8 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": null,

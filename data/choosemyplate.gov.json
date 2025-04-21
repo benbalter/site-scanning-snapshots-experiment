@@ -35,7 +35,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f042f99d66a925405b8de02aa0b483f3",
+  "page_hash": "16bae5dd238bbfebdd376788a2d38509",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,8 +55,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7N8H8BHH84,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c19.akstat.io",
-    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "myplate-prod.azureedge.us",
@@ -66,8 +64,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c19.akstat.io/",
-    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -100,9 +96,10 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".myplate.gov",
+    ".www.myplate.gov",
     "www.myplate.gov"
   ],
   "viewport_meta_tag": true,

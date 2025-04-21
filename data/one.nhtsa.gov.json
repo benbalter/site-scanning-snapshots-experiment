@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7cb47908b2b64be2ef26ddeb435c76b8",
+  "page_hash": "c62ea30e22dd81d37418756e583bbc42",
   "accessibility_violations": "{\"aria\":15,\"form-names\":1}",
   "pageviews": 0,
   "visits": 4,
@@ -78,8 +78,10 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://accdn.lpsnmedia.net/api/account/10024689/configuration/engagement-window/window-confs/69487512",
+    "https://accdn.lpsnmedia.net/api/account/10024689/configuration/le-campaigns/campaigns/69486112/engagements/1894707030/revision/284",
     "https://accdn.lpsnmedia.net/api/account/10024689/configuration/le-campaigns/zones",
-    "https://accdn.lpsnmedia.net/api/account/10024689/configuration/setting/accountproperties/",
+    "https://accdn.lpsnmedia.net/api/account/10024689/configuration/setting/accountproperties",
     "https://bam.nr-data.net/1/c1904f93fe",
     "https://c.amazon-adsystem.com/aat/amzn.js",
     "https://c2.ktxlytics.io/com.snowplowanalytics.iglu/v1",
@@ -95,10 +97,13 @@
     "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
     "https://ib.adnxs.com/getuid",
     "https://js-agent.newrelic.com/nr-1044.min.js",
-    "https://lpcdn.lpsnmedia.net/le_secure_storage/3.32.3-release_1655932912/storage.secure.min.js",
-    "https://lpcdn.lpsnmedia.net/le_unified_window/10.41.1-release_1638513975/desktopEmbedded.js",
-    "https://lpcdn.lpsnmedia.net/le_unified_window/10.41.1-release_1638513975/surveylogicinstance.min.js",
-    "https://lpcdn.lpsnmedia.net/le_unified_window/10.41.1-release_1638513975/ui-framework.js",
+    "https://lpcdn.lpsnmedia.net/gallery/libraries/chat/images/assets/live-chat.png",
+    "https://lpcdn.lpsnmedia.net/le_re/3.63.0-release_1687066194/jsv2/UISuite.js",
+    "https://lpcdn.lpsnmedia.net/le_re/3.63.0-release_1687066194/jsv2/overlay.js",
+    "https://lpcdn.lpsnmedia.net/le_secure_storage/3.33.0-release_1686610351/storage.secure.min.js",
+    "https://lpcdn.lpsnmedia.net/le_unified_window/10.42.2-release_1752789171/desktopEmbedded.js",
+    "https://lpcdn.lpsnmedia.net/le_unified_window/10.42.2-release_1752789171/surveylogicinstance.min.js",
+    "https://lpcdn.lpsnmedia.net/le_unified_window/10.42.2-release_1752789171/ui-framework.js",
     "https://lptag.liveperson.net/lptag/api/account/10024689/configuration/applications/taglets/.jsonp",
     "https://lptag.liveperson.net/tag/tag.js",
     "https://o66680.ingest.sentry.io/api/142080/store/",
@@ -120,7 +125,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/179bab65/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 24,
   "cookie_domains": [

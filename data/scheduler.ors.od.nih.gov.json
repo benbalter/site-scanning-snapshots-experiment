@@ -26,7 +26,7 @@
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a19f0cd651104e4fa267a7ce5a05bf80",
-  "accessibility_violations": null,
+  "page_hash": "3b2eb620408434af1186eee5eb064c55",
+  "accessibility_violations": "{\"contrast\":3,\"language\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -53,7 +53,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nih.gov",
     "scheduler.ors.od.nih.gov"
   ],
   "viewport_meta_tag": false,

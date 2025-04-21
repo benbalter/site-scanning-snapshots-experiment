@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8d8b758fc45646635937f70bddc85327",
+  "page_hash": "8d0d204969923b62fc755f8986c156f9",
   "accessibility_violations": "{\"contrast\":17,\"link-purpose\":3,\"lists\":2}",
-  "pageviews": 29601,
-  "visits": 17420,
+  "pageviews": 29947,
+  "visits": 17857,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -65,6 +65,7 @@
     "translate-pa.googleapis.com",
     "translate.google.com",
     "translate.googleapis.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
@@ -117,14 +118,17 @@
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
     "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.wX7qQ5EH6oI.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfrNtUAtY-e6eilwMrQxoU8LiA-1Hg/m=el_main",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.NJgGN_yGIWM.L.W.O/am=AAY/d=0/rs=AN8SPfrTSMIvWAFISYN4u74dPJrX0HgUsw/m=el_main_css",
     "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
     "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".navy.mil"
+    ".cnrnw.cnic.navy.mil",
+    ".navy.mil",
+    "cnrnw.cnic.navy.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

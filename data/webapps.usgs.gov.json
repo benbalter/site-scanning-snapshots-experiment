@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5c3a3d12bd7befa4e7c30942de6b75a9",
-  "accessibility_violations": "{\"contrast\":3,\"images\":14}",
-  "pageviews": 164,
-  "visits": 161,
+  "page_hash": "815ada64e983da9fc952aec5be466d87",
+  "accessibility_violations": "{\"contrast\":3,\"images\":10}",
+  "pageviews": 148,
+  "visits": 146,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -51,18 +51,23 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "cdn.amcharts.com",
     "cdnjs.cloudflare.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.amcharts.com/lib/4/charts.js",
+    "https://cdn.amcharts.com/lib/4/core.js",
+    "https://cdn.amcharts.com/lib/4/plugins/venn.js",
+    "https://cdn.amcharts.com/lib/4/themes/animated.js",
     "https://cdnjs.cloudflare.com/ajax/libs/packery/1.4.1/packery.pkgd.min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/antonio/v19/gNMEW3NwSYq_9WD3yHQiFaWw9MM.woff2",
     "https://fonts.gstatic.com/s/oxygen/v15/2sDcZG1Wl4LcnbuCNWgzaGW5Kb8VZA.woff2",
     "https://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4LcnbuKjk0mRUe0Aw.woff2"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".usgs.gov"
   ],

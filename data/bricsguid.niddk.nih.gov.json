@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://bricsguid.niddk.nih.gov/portal/sso/ssoAction!login.action?service=http%3A%2F%2Fniddk-host-prod.cit.nih.gov%3A8081%2Fportal%2FbaseAction%21landing.action",
+  "url": "https://bricsguid.niddk.nih.gov/portal/sso/ssoAction!login.action?service=http%3A%2F%2Fniddk-host-prod.cit.nih.gov%3A8081%2Fportal%2FbaseAction%21landing.action%3Fcontinue",
   "domain": "bricsguid.niddk.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0e09526171560c18be45ad506a0a5814",
+  "page_hash": "9a03dbf4e7448ae2373e4d523fd52a3e",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -63,7 +63,6 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".nih.gov",
     "bricsguid.niddk.nih.gov"
   ],
   "viewport_meta_tag": false,

@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "a4ee9707469f6004791324ff83f08f24",
-  "accessibility_violations": "{\"contrast\":4,\"language\":1}",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,9 +49,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".nih.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "usa.gov"

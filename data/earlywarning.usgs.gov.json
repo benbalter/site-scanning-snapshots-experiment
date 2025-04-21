@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -35,8 +35,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "449f18b7fe351d1f33a9fb229f6f86b6",
-  "accessibility_violations": "{\"contrast\":1}",
+  "page_hash": "56a08c808578e267393373757522f2c9",
+  "accessibility_violations": "{\"lists\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,17 +49,10 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-883MF2PSEB",
-  "third_party_service_domains": [
-    "edcintl.cr.usgs.gov",
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://edcintl.cr.usgs.gov/piwik/matomo.js",
-    "https://edcintl.cr.usgs.gov/piwik/matomo.php",
-    "https://www.googletagmanager.com/gtag/js"
-  ],
-  "third_party_service_count": 2,
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     ".usgs.gov",
     "earlywarning.usgs.gov"
@@ -72,12 +65,13 @@
   ],
   "required_links_text": [
     "accessibility",
-    "foia"
+    "foia",
+    "privacy policy"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Home | Early Warning and Environmental Monitoring Program",
-  "description": "",
+  "title": "FEWS Home | Early Warning and Environmental Monitoring Program",
+  "description": "FEWS home page",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -90,10 +84,10 @@
   "language": "en",
   "language_link": "",
   "main_element_present": true,
-  "robots_txt_detected": true,
+  "robots_txt_detected": false,
   "robots_txt_url": "https://earlywarning.usgs.gov/robots.txt",
-  "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/plain",
+  "robots_txt_status_code": 404,
+  "robots_txt_media_type": "text/html",
   "robots_txt_filesize": 26,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,

@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1a77775421fbc0cb3258c46912ce6333",
+  "page_hash": "ea60ec923fadd04ea7d0224c1b86ffdc",
   "accessibility_violations": "{\"aria\":4}",
   "pageviews": null,
   "visits": null,
@@ -61,12 +61,14 @@
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4KLg.woff",
     "https://hcaptcha.com/1/api.js",
-    "https://newassets.hcaptcha.com/c/5fef759e34a955dd56ceddd805e6a87d3f7d854c8c695bf797d43331bebfee3f/hsw.js",
+    "https://newassets.hcaptcha.com/c/7e4aa90329fe7d457c69369bb6cbcb914f524f40b8c0720fb36b517a1da9d6e8/hsw.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

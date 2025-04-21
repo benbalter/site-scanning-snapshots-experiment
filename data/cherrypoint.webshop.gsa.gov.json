@@ -16,7 +16,7 @@
   "agency": "General Services Administration",
   "bureau": "GSA, IDI, ECAS II",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "final_url_websites",
@@ -32,54 +32,36 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6b12bdf6bfe7d8affa08823cd16f64bd",
+  "page_hash": "2013f62bd6a5b2538304003ed75389be",
   "accessibility_violations": null,
-  "pageviews": 152,
-  "visits": 93,
+  "pageviews": 126,
+  "visits": 76,
   "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": [
-    "Create Account"
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "GSA",
-    "subagency": "FAS"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
-  "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
-  ],
-  "third_party_service_count": 3,
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     ".gsa.gov",
     "cherrypoint.webshop.gsa.gov"
   ],
-  "viewport_meta_tag": true,
-  "required_links_url": [
-    "privacy"
-  ],
-  "required_links_text": [
-    "privacy policy"
-  ],
+  "viewport_meta_tag": false,
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "GSA Store Portal",
-  "description": "enter your site description here",
-  "keywords": "enter your site keywords here",
+  "title": "",
+  "description": null,
+  "keywords": null,
   "og_title": null,
   "og_description": null,
   "og_article_published": null,
@@ -94,8 +76,8 @@
   "robots_txt_detected": true,
   "robots_txt_url": "https://cherrypoint.webshop.gsa.gov/robots.txt",
   "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 26,
+  "robots_txt_media_type": "text/html",
+  "robots_txt_filesize": 947,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,

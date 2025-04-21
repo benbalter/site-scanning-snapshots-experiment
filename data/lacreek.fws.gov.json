@@ -31,11 +31,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6059e6d1addc62b8867f2a6c5ff3eef6",
+  "page_hash": "09d3c19c326bc740bfd1a19e72a0c90d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -69,11 +69,13 @@
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

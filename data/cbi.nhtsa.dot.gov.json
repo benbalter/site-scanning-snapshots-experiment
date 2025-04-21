@@ -48,7 +48,7 @@
   "dap_version": "",
   "ga_tag_id": "G-EHCY7",
   "third_party_service_domains": [
-    "17de4c0f.akstat.io",
+    "17de4c0e.akstat.io",
     "artemis-user-api.nhtsa.gov",
     "c.go-mpulse.net",
     "cbi.nhtsa.dot.gov",
@@ -59,7 +59,7 @@
     "use.fontawesome.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0f.akstat.io/",
+    "https://17de4c0e.akstat.io/",
     "https://artemis-user-api.nhtsa.gov/external-menu-config-info",
     "https://c.go-mpulse.net/api/config.json",
     "https://cbi.nhtsa.dot.gov/Latin-Merriweather-Bold.df0181f132a2b97d.woff2",
@@ -74,7 +74,7 @@
     "https://cbi.nhtsa.dot.gov/assets/img/us_flag_small.png",
     "https://cbi.nhtsa.dot.gov/assets/nr.js",
     "https://cbi.nhtsa.dot.gov/expand_more.96ff6211e33a6e57.svg",
-    "https://cbi.nhtsa.dot.gov/main.f3e736881bde2e79.js",
+    "https://cbi.nhtsa.dot.gov/main.231a989eb5b65897.js",
     "https://cbi.nhtsa.dot.gov/polyfills.0cf8f6d0b5524e3d.js",
     "https://cbi.nhtsa.dot.gov/runtime.2093825c0f98920e.js",
     "https://cbi.nhtsa.dot.gov/sourcesanspro-bold-webfont.90a4ec2bebe3c77f.woff2",
@@ -87,7 +87,9 @@
     "https://use.fontawesome.com/releases/v5.0.6/js/all.js"
   ],
   "third_party_service_count": 9,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nhtsa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
@@ -136,9 +138,9 @@
   "uswds_usa_classes": 20,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": "v3.8.0",
-  "uswds_version": 100,
-  "uswds_count": 200,
+  "uswds_semantic_version": null,
+  "uswds_version": 0,
+  "uswds_count": 100,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

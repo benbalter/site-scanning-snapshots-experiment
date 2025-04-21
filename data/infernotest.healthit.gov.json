@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cfde9e8219cd22bab89c5068d54c806b",
-  "accessibility_violations": "{\"keyboard-access\":2}",
+  "page_hash": "298d8591764e364518fddd7f290efa2c",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -51,6 +51,7 @@
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -60,10 +61,10 @@
     "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.3/umd/popper.min.js",
-    "https://www.googletagmanager.com/a",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".healthit.gov"
   ],

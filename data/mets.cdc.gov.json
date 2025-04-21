@@ -34,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5eb4116ceae49aa5c9829a23b5c071e7",
-  "accessibility_violations": null,
+  "page_hash": "3dbafff3ec5213723df7e592ede27070",
+  "accessibility_violations": "{\"aria\":4}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,37 +49,28 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "cdc.112.2o7.net",
-    "www.cdc.gov"
-  ],
-  "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s72412923058143",
-    "https://www.cdc.gov/JScript/metrics/adobe/analytics_cdcgov.js",
-    "https://www.cdc.gov/JScript/metrics/topic_levels.js",
-    "https://www.cdc.gov/TemplatePackage/3.0/css/app.min.css",
-    "https://www.cdc.gov/TemplatePackage/3.0/fonts/lato-regular-webfont.woff",
-    "https://www.cdc.gov/TemplatePackage/3.0/images/sm.png",
-    "https://www.cdc.gov/TemplatePackage/3.0/images/ss.png",
-    "https://www.cdc.gov/TemplatePackage/3.0/images/su.png"
-  ],
-  "third_party_service_count": 2,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     ".cdc.gov"
   ],
-  "viewport_meta_tag": false,
+  "viewport_meta_tag": true,
   "required_links_url": [
     "about",
     "fear",
     "foia",
     "privacy",
-    "usa.gov"
+    "usa.gov",
+    "spanish"
   ],
   "required_links_text": [
+    "accessibility",
     "no fear act",
     "foia",
     "vulnerability disclosure",
-    "usa.gov"
+    "usa.gov",
+    "español"
   ],
   "https_enforced": true,
   "hsts": true,

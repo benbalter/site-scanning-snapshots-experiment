@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "a24fd8d934b0a75900de3e8e3172866c",
-  "accessibility_violations": null,
-  "pageviews": 1675,
-  "visits": 709,
+  "page_hash": "e1996e281bc79d19d7d6823e5dc97129",
+  "accessibility_violations": "{\"contrast\":1}",
+  "pageviews": 1627,
+  "visits": 707,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -69,7 +69,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/sampling/datasetcatalog.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0027/2050/site/datasetcatalog.nlm.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0027/2050.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/571bc4dba8365065824a41e9e429f02f.js",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
@@ -78,6 +78,7 @@
     "https://siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://znciopv4tg7tmo2jo-nlmenterprise.siteintercept.qualtrics.com/SIE/"
@@ -88,14 +89,12 @@
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "about",
-    "usa.gov"
+    "about"
   ],
   "required_links_text": [
     "accessibility",
     "foia",
-    "vulnerability disclosure",
-    "usa.gov"
+    "vulnerability disclosure"
   ],
   "https_enforced": true,
   "hsts": true,

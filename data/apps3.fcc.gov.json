@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "271a4bf73db05782e1829eb1f11995bc",
+  "page_hash": "4c586ba60a04df5f86bf6752ebce8800",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -59,7 +59,9 @@
     "https://transition.fcc.gov/images/fcc-logo-lg.png"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fcc.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

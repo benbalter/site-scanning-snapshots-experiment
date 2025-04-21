@@ -33,12 +33,12 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
+  "www_scan_status": "completed",
   "page_hash": "3fd0f45143c7602497cc1e154f18feb1",
   "accessibility_violations": "{\"contrast\":4,\"language\":1,\"images\":19,\"link-purpose\":11}",
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -52,9 +52,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".nih.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "about"
@@ -107,7 +105,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.amri.ninds.nih.gov",
+  "www_status_code": 200,
+  "www_title": "Advanced MRI section, Laboratory of Functional and Molecular Imaging, NINDS, NIH"
 }

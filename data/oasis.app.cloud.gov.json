@@ -30,8 +30,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "9bbe3a48a1238a073fd574720bc4b981",
-  "accessibility_violations": "{\"contrast\":3}",
+  "page_hash": "7a9efa9ceda36854c93e107ee9fef42f",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -56,7 +56,9 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cloud.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

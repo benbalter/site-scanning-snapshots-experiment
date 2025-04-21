@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "300822ea3653d0c7475706b38ec4626c",
+  "page_hash": "4aee1900e2be487f7f5d0bc71b6a13a3",
   "accessibility_violations": null,
-  "pageviews": 3,
-  "visits": 3,
+  "pageviews": 1,
+  "visits": 1,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "Drupal",
@@ -63,7 +63,7 @@
     "github.com",
     "public.govdelivery.com",
     "t1.gstatic.com",
-    "t2.gstatic.com",
+    "t3.gstatic.com",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
@@ -94,7 +94,7 @@
     "https://public.govdelivery.com/accounts/USGSA/signup/34948/form",
     "https://public.govdelivery.com/assets/Signup.js",
     "https://t1.gstatic.com/faviconV2",
-    "https://t2.gstatic.com/faviconV2",
+    "https://t3.gstatic.com/faviconV2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
@@ -106,8 +106,7 @@
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
-    ".digital.gov",
-    "digital.gov"
+    ".digital.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -163,6 +162,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-banner",
     "usa-breadcrumb",
     "usa-button",
@@ -182,6 +182,7 @@
     "usa-nav",
     "usa-navbar",
     "usa-overlay",
+    "usa-prose",
     "usa-search",
     "usa-section",
     "usa-sign-up",

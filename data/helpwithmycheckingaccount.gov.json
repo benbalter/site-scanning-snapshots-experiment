@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "94a427d7082585ad13ff6cf5c985393d",
+  "page_hash": "79a4293488f89379dcdc10f7f332ce5a",
   "accessibility_violations": null,
-  "pageviews": 234,
-  "visits": 139,
+  "pageviews": 246,
+  "visits": 159,
   "ipv6": false,
   "hostname": null,
   "cms": "Percussion",
@@ -52,7 +52,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-62E4EH1JK2",
   "third_party_service_domains": [
-    "50215.global.siteimproveanalytics.io",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
@@ -65,10 +64,10 @@
     "translate.googleapis.com",
     "www.google.com",
     "www.googletagmanager.com",
-    "www.gstatic.com"
+    "www.gstatic.com",
+    "{account_id}.global.siteimproveanalytics.io"
   ],
   "third_party_service_urls": [
-    "https://50215.global.siteimproveanalytics.io/image.aspx",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
@@ -89,7 +88,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0012/5812/sampling/helpwithmycheckingaccount.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0012/5812/site/helpwithmycheckingaccount.gov.json",
     "https://script.crazyegg.com/pages/scripts/0012/5812.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/1b1962de2647e033f54932b114f6d04c.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/571bc4dba8365065824a41e9e429f02f.js",
     "https://siteimproveanalytics.com/js/siteanalyze_50215.js",
     "https://translate-pa.googleapis.com/v1/supportedLanguages",
     "https://translate.google.com/translate_a/element.js",
@@ -102,7 +101,8 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.NJgGN_yGIWM.L.W.O/am=AAY/d=0/rs=AN8SPfrTSMIvWAFISYN4u74dPJrX0HgUsw/m=el_main_css",
     "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
-    "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
+    "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
+    "https://{account_id}.global.siteimproveanalytics.io/image.aspx"
   ],
   "third_party_service_count": 14,
   "cookie_domains": [
@@ -163,6 +163,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
+    "usa-alert",
     "usa-banner",
     "usa-button",
     "usa-card",

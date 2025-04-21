@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "46a4fba5857fa387f40c392804bb5145",
+  "page_hash": "dbde665da5d7a997d8e5bf745ebee445",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -67,7 +67,9 @@
     "https://www.house.gov/sites/default/themes/housegov/logo.svg"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

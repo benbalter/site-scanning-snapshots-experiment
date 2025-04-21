@@ -19,7 +19,6 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites",
     "cisa"
   ],
   "public": null,
@@ -28,7 +27,7 @@
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "connection_reset",
-  "robots_txt_scan_status": "completed",
+  "robots_txt_scan_status": "connection_reset",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "connection_reset",
   "www_scan_status": "dns_resolution_error",
@@ -36,7 +35,7 @@
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -51,7 +50,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nih.gov",
     "soa.nih.gov"
   ],
   "viewport_meta_tag": false,
@@ -73,10 +71,10 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": false,
-  "robots_txt_url": "https://soa.nih.gov/robots.txt",
-  "robots_txt_status_code": 404,
-  "robots_txt_media_type": "text/html",
+  "robots_txt_detected": null,
+  "robots_txt_url": null,
+  "robots_txt_status_code": null,
+  "robots_txt_media_type": null,
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,

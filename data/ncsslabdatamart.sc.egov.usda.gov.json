@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ffbfe124063784c8ed18669eae81e365",
+  "page_hash": "bffdd54dc5335b39f6c8df2fd26a4f5b",
   "accessibility_violations": "{\"aria\":5,\"contrast\":1,\"link-purpose\":4,\"form-names\":4}",
   "pageviews": null,
   "visits": null,
@@ -52,6 +52,7 @@
     "server.arcgisonline.com",
     "services.arcgisonline.com",
     "static.arcgis.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -68,10 +69,11 @@
     "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/4/7/2",
     "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/4/7/4",
     "https://static.arcgis.com/attribution/World_Topo_Map",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".usda.gov",
     "ncsslabdatamart.sc.egov.usda.gov"

@@ -26,7 +26,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "connection_reset",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ff2c193747eab9a5b38c98ac3fb81150",
-  "accessibility_violations": null,
+  "page_hash": "db7e3a9a65e1f2e64c312f79a78af41e",
+  "accessibility_violations": "{\"language\":1,\"images\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -56,7 +56,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".jten.mil",
     "jkodirectqa.jten.mil"
   ],
   "viewport_meta_tag": true,

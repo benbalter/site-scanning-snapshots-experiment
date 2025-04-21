@@ -27,7 +27,7 @@
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "74c4bf644752826d6ca5aba1d11be77e",
-  "accessibility_violations": null,
-  "pageviews": 4335,
-  "visits": 2311,
+  "page_hash": "e6596eadfba9ebfbd2c046bf0de211af",
+  "accessibility_violations": "{\"lists\":2}",
+  "pageviews": 4339,
+  "visits": 2303,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -52,7 +52,7 @@
     "subagency": "NCI"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-62346354-1,G-HQQSY2XG10,G-CSLL4ZEK4L",
+  "ga_tag_id": "UA-62346354-1,G-CSLL4ZEK4L,G-HQQSY2XG10",
   "third_party_service_domains": [
     "assets.adobedtm.com",
     "cbiit.github.io",
@@ -63,7 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/7fcfe8cf7e5b/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
+    "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/9f28b4bd9000/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
@@ -72,14 +72,15 @@
     "https://cbiit.github.io/nci-softwaresolutions-elements/components/include-html.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s25184903693414",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s82583334860895",
     "https://static.cancer.gov/webanalytics/WA_RAT_PageLoad.js",
     "https://static.cancer.gov/webanalytics/WA_RAT_post.js",
     "https://static.cancer.gov/webanalytics/WA_RAT_pre.js",
     "https://static.cancer.gov/webanalytics/s_code.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [

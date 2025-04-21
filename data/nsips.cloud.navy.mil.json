@@ -21,7 +21,6 @@
     "omb_idea",
     "other",
     "dod_public",
-    "final_url_websites",
     "dod_2025"
   ],
   "public": true,
@@ -29,7 +28,7 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "execution_context_destroyed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
@@ -53,12 +52,11 @@
     "nsips.cloud.navy.mil"
   ],
   "third_party_service_urls": [
-    "https://nsips.cloud.navy.mil/TSPD/08dcd13408ab20001f05ae8b4a05630e21cfbfc713cafdde0db63df88775cb304d2b19b8e4c7ca86",
+    "https://nsips.cloud.navy.mil/TSPD/08dcd13408ab200098986c312e08438fb2b6f36280cd185d80f5fdc7abf58849b585169bb02032f2",
     "https://nsips.cloud.navy.mil/favicon.ico"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".navy.mil",
     ".nsips.cloud.navy.mil",
     "www.nsips.cloud.navy.mil"
   ],

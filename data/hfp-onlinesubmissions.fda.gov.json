@@ -5,7 +5,7 @@
   "initial_base_domain": "fda.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://hfp-onlinesubmissions.fda.gov/",
+  "url": "https://hfp-onlinesubmissions.fda.gov/farmonline/#/login",
   "domain": "hfp-onlinesubmissions.fda.gov",
   "base_domain": "fda.gov",
   "top_level_domain": "gov",
@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "73a9cb484c8581d835e7c1b4b4bbd64a",
+  "page_hash": "578639ef24628f67f6ef39b5d6eca381",
   "accessibility_violations": "{\"language\":1,\"images\":4}",
-  "pageviews": 1499,
-  "visits": 1395,
+  "pageviews": 1476,
+  "visits": 1364,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -43,22 +43,40 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS",
+    "subagency": "FDA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-EQDFRP3JEX,G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "fonts.gstatic.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".fda.gov"
   ],
-  "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "viewport_meta_tag": true,
+  "required_links_url": [
+    "about"
+  ],
+  "required_links_text": [
+    "privacy policy",
+    "vulnerability disclosure"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Oracle HTTP Server 12c",
+  "title": "Online Submission",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -69,7 +87,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": null,
+  "language": "en",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

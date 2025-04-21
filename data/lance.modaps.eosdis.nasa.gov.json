@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cb20bdbf968333e517285bab66d0782a",
-  "accessibility_violations": "{\"contrast\":84,\"link-purpose\":1}",
-  "pageviews": 1728,
-  "visits": 999,
+  "page_hash": "3a9d3d76131eddf5a69a3e5cdd603843",
+  "accessibility_violations": "{\"contrast\":8,\"images\":15}",
+  "pageviews": 1642,
+  "visits": 938,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -66,6 +66,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://earthdata.nasa.gov/favicon.ico",
+    "https://fbm.earthdata.nasa.gov/for/LANCE/feedback.css",
     "https://fbm.earthdata.nasa.gov/for/LANCE/feedback.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
@@ -81,9 +82,14 @@
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "about"
+    "about",
+    "foia",
+    "privacy"
   ],
-  "required_links_text": null,
+  "required_links_text": [
+    "accessibility",
+    "privacy policy"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "LANCE",
@@ -99,7 +105,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": false,
   "robots_txt_url": "https://lance.modaps.eosdis.nasa.gov/robots.txt",
   "robots_txt_status_code": 404,

@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d3a53801e5c70beaaedbb20c03d98b6f",
+  "page_hash": "bf19a8683ed6724b1aa70337f1a7a46d",
   "accessibility_violations": null,
-  "pageviews": 35036,
-  "visits": 7270,
+  "pageviews": 34672,
+  "visits": 7286,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,15 +54,17 @@
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
     "https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".fema.gov",
     ".rtlt.preptoolkit.fema.gov",

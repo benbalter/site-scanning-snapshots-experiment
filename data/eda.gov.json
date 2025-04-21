@@ -39,10 +39,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "72e1bad5d57021727d69b67089823ad9",
+  "page_hash": "3aca5bf63dc251a7d82134b6fda02a81",
   "accessibility_violations": "{\"contrast\":1}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 268,
+  "visits": 91,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -50,12 +50,16 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-gqUEGneV3kUIer3,G-DMVRQPVGPJ",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "EDA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-gqUEGneV3kUIer3,G-CSLL4ZEK4L,G-DMVRQPVGPJ",
   "third_party_service_domains": [
     "content.govdelivery.com",
+    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "www.googletagmanager.com"
@@ -63,13 +67,15 @@
   "third_party_service_urls": [
     "https://content.govdelivery.com/attachments/fancy_images/USEDA/2019/02/2395447/overlay_original.png",
     "https://content.govdelivery.com/overlay/js/7077.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEL3UM_YeJGY9T6M.woff2",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".eda.gov",
     "www.eda.gov"
@@ -116,9 +122,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 965631,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-10T17:44:14.000Z",
+  "sitemap_xml_lastmod": "2025-04-15T18:43:31.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "a49e427517b2d500e081aec36d8ee398",
+  "sitemap_xml_page_hash": "7ac6456171e784e287bc0b75a03f5c5e",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,

@@ -17,9 +17,7 @@
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
   "404_test": true,
-  "source_list": [
-    "final_url_websites"
-  ],
+  "source_list": null,
   "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
@@ -30,7 +28,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c30eb54cb659c417995fa0b82162341",
+  "page_hash": "2690a18e67e993a8b4f99177f054f170",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -41,17 +39,25 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-4M4CJVKWYN",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-4M4CJVKWYN",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov"
   ],

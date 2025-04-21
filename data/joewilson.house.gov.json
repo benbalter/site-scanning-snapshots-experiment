@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "157674d42c47c6da298f962d190ac590",
+  "page_hash": "1006463d5fbc16dc6459078c286f6f12",
   "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,26 +49,30 @@
   "dap_version": "",
   "ga_tag_id": "G-YYQSTEGGWY",
   "third_party_service_domains": [
+    "api.hcaptcha.com",
     "connect.facebook.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
+    "newassets.hcaptcha.com",
     "platform.twitter.com",
     "syndication.twitter.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://connect.facebook.net/en_US/sdk.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
+    "https://newassets.hcaptcha.com/c/7e4aa90329fe7d457c69369bb6cbcb914f524f40b8c0720fb36b517a1da9d6e8/hsw.js",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".house.gov",
     ".joewilson.house.gov"

@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "071c9a45c3b9a73b32be0df65ace512e",
+  "page_hash": "56fbc65d47c209ea01d98a1a4af4a606",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
-  "pageviews": 987,
-  "visits": 536,
+  "pageviews": 971,
+  "visits": 539,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -61,6 +61,7 @@
     "fonts.gstatic.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -81,28 +82,29 @@
     "https://media.defense.gov/2023/Aug/15/2003285739/740/740/0/230815-A-AB123-010.JPG",
     "https://media.defense.gov/2023/Feb/12/2003161311/400/400/0/230212-N-VY489-0966.JPG",
     "https://media.defense.gov/2024/Aug/15/2003542599/680/385/0/240815-A-AB123-001.JPG",
-    "https://media.defense.gov/2025/Apr/01/2003680272/400/400/0/040125-O-D0202-1001.JPG",
-    "https://media.defense.gov/2025/Apr/03/2003681712/400/400/0/250403-O-D0202-1001.JPG",
     "https://media.defense.gov/2025/Apr/08/2003685232/400/400/0/250408-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Apr/10/2003686948/400/400/0/250410-O-D0202-1001.PNG",
+    "https://media.defense.gov/2025/Apr/15/2003689650/400/400/0/250303-D-D0514-2274.PNG",
+    "https://media.defense.gov/2025/Apr/17/2003690743/400/400/0/250417-O-D0202-1001.PNG",
     "https://media.defense.gov/2025/Feb/10/2003645457/680/385/0/250210-A-AB123-001.JPG",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9599b765/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
-    ".tricare.mil"
+    ".tricare.mil",
+    "incirlik.tricare.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
     "foia",
-    "inspector",
     "privacy",
     "usa.gov"
   ],

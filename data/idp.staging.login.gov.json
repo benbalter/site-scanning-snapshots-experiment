@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9995f29f6e4e919b5639d715a15313a0",
+  "page_hash": "1f15ab615815817cf068597a8afc8d1f",
   "accessibility_violations": null,
-  "pageviews": 7230,
-  "visits": 2099,
+  "pageviews": 8270,
+  "visits": 2113,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -59,12 +59,14 @@
   "dap_version": "20240711 v8.4 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "csp.withgoogle.com",
     "fonts.gstatic.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://www.google.com/recaptcha/enterprise.js",
@@ -74,7 +76,7 @@
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".login.gov",
     "idp.staging.login.gov"

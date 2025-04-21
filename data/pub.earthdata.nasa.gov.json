@@ -71,7 +71,9 @@
     "https://status.earthdata.nasa.gov/api/v1/notifications"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

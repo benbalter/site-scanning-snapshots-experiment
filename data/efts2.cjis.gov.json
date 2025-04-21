@@ -16,14 +16,14 @@
   "agency": "Department of Justice",
   "bureau": "Federal Bureau of Investigation",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "119739afcd9229d9a8c5a62f6280134d",
-  "accessibility_violations": null,
+  "page_hash": "51a7036762e6c8cea10407190ea9ea07",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -53,6 +53,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".cjis.gov",
     "efts2.cjis.gov"
   ],
   "viewport_meta_tag": false,

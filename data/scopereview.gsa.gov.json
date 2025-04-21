@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "aa8bf920d1e4771755050e6e097896b6",
+  "page_hash": "379dd2bb8f32512a4102016e042d2615",
   "accessibility_violations": "{\"contrast\":4}",
-  "pageviews": 1796,
-  "visits": 1340,
+  "pageviews": 2123,
+  "visits": 1583,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -60,6 +60,7 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td",
     "https://www.gstatic.com/charts/loader.js"
   ],
   "third_party_service_count": 3,
@@ -67,8 +68,20 @@
     ".gsa.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "no fear act",
+    "foia",
+    "inspector general",
+    "privacy policy",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "GWAC | Sign In",
@@ -109,16 +122,19 @@
     "usa-accordion",
     "usa-alert",
     "usa-banner",
+    "usa-button",
+    "usa-footer",
+    "usa-identifier",
     "usa-link"
   ],
   "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,
-  "uswds_usa_classes": 25,
+  "uswds_usa_classes": 40,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": "v3.11.0",
+  "uswds_semantic_version": "v3.12.0",
   "uswds_version": 100,
-  "uswds_count": 145,
+  "uswds_count": 160,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

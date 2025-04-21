@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://impl.home.idm.cms.gov/sso/signin/login.html?fromURI=https%3A%2F%2Fimpl.idp.idm.cms.gov%2Fapp%2Fcmsimpl_cerrscciioenrollmentresolutionandreconciliationsystemv2_1%2Fexk5g76grg3xrjs3j297%2Fsso%2Fsaml%3FSAMLRequest%3DjVNda9swFP0rRu%252b2ZMdxEuEYQsIgsI3SjT3spSjydapOH56unKb%252ffrKzsJbSsAcjc%252b7HuefoqkZhdM83Q3i09%252fB7AAzJfrcmqk0FY3ku5SpdLEuZlodqmR5AtOnqwDpYVjIv5xVJfoBH5eyaFBkjyR5xgL3FIGyIECvmKSvTPP%252fOCl6seBmTGPtJkl3kUVaEqfIxhB45pcr0OlNtHz%252bTSYPZ0Z2o6Hsa%252f8fYgwTvUUqlHFjvtDZggwd0ehgbCdt6kM5KpdXUGV8wgDkVDzmF86%252f5cVEd%252fXF29k84eypWC4ro6CifJNuYDOPEg7fcCVTIrTCAPEj%252bbfPlM49zc3lJ4oPFHqTqFLQkORttkU8m3q7uvQtOOk2aejLJX0pvFwlE8KMU0owmRY8mC9pZNR8NSTFgNiH%252f7Go7pLHopCQgDX7AUNMLYVNf7vprpNnv7pxW8iX55LwRN4TnWT4hcR%252b6KfWt%252fI3W7nnrQQRYk8gGJKFXnr%252frBO20XNHiAOdwDb7GtjrqvIfu%252f8185cvNNMnl2DvCd%252fF4dr6t6cf8zTX4weT0%252fVtp%252fgA%253d%26RelayState%3Da6493b1d-f492-42e7-8e06-cda394e74c95%26client-request-id%3D208c970a-5c3f-4f1e-4800-0080000000f5",
+  "url": "https://impl.home.idm.cms.gov/sso/signin/login.html?fromURI=https%3A%2F%2Fimpl.idp.idm.cms.gov%2Fapp%2Fcmsimpl_cerrscciioenrollmentresolutionandreconciliationsystemv2_1%2Fexk5g76grg3xrjs3j297%2Fsso%2Fsaml%3FSAMLRequest%3DjVNda%252bMwEPwrRu%252b2bDkfrXAMIeEgcFdKW%252b7hXoosrVP1ZMmnldP031d2LlxLaTiwsL27s6MZrSoUnen5eghP9g7%252bDIAh2W1XRKv0qskbUc7adMlYm85mSqSiXKi0YC1rrhsGrMlJ8hM8amdXhGXxb4c4wM5iEDbEUM7maT5Li6uHnHEWn3mW5%252fkvkmwjj7YiTMinEHrklOquN5lWfVxdJjvM9u5ARd%252fT%252bD3mHiV4j1Jq7cB6Z0wHNnhAZ4axkbDKg3RWaqOnzviKAboDeywoHH%252fP98vF3u%252fLo3%252fG8pldLymio6N8kmxiMYw7HrzlTqBGbkUHyIPk9%252bsf33kUx%252bWpiA8We5C61aBIcuyMRT6ZeBndexecdIbU1WSSP0EvgwQi%252bFEKqUeTokeTBapczEdDUgyYTZF%252fdqkWaQQdtASkwQ8YKnoirKvTWd9Emt321hktX5NvznfigvAiK6ZInId2Kv0of22Me9l4EAFWJLIBSeiZ5%252b84gZqGK1oc4BjOyfexjYk676D9fzPf%252bXKxTHI59o7h2%252fh6cV5V9Gv%252b%252bpz8Yuf0812p3wA%253d%26RelayState%3D11e84bf5-f960-45cf-871d-a7c59f818356%26client-request-id%3D2c706960-70da-476e-4f02-0080000000ad",
   "domain": "impl.home.idm.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -72,7 +72,9 @@
     "https://ok5static.oktacdn.com/fs/bco/7/fs0255cy5sGlKLAcn297"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cms.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

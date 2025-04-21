@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "927a49cf0ea9a1b0c596534bcc054ac8",
+  "page_hash": "461fe762e0bbe4aaecf6981a2fe28200",
   "accessibility_violations": "{\"contrast\":1}",
-  "pageviews": 16323,
-  "visits": 12085,
+  "pageviews": 16191,
+  "visits": 12059,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -54,6 +54,7 @@
   "dap_version": "20240624 v8 - GA4",
   "ga_tag_id": "UA-44308701-2,G-ENTZWZZ7TM,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c11.akstat.io",
     "c.go-mpulse.net",
     "cdn.appdynamics.com",
     "fonts.googleapis.com",
@@ -62,7 +63,9 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c11.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
+    "https://cdn.appdynamics.com/adrum-ext.bf71fe39e20d2aa8ad53d37ab6377745.js",
     "https://cdn.appdynamics.com/adrum/adrum-23.3.0.4265.js",
     "https://fonts.googleapis.com/css2",
     "https://s.go-mpulse.net/boomerang/FT92X-RBUKH-P8A6W-J43UW-YP7DR",
@@ -70,9 +73,10 @@
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".dhs.gov"
+    ".dhs.gov",
+    "tripwire.dhs.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

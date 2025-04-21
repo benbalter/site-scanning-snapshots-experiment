@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f70313f1caca8ff41944285f8f7fa552",
+  "page_hash": "fa7bcf75b599d2d4ce13dfb05223614e",
   "accessibility_violations": "{\"aria\":13,\"link-purpose\":4,\"lists\":11}",
-  "pageviews": 2,
-  "visits": 3,
+  "pageviews": 1,
+  "visits": 1,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,9 +50,13 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "www.army.mil"
+  ],
+  "third_party_service_urls": [
+    "https://www.army.mil/e2/images/rv7/universal/army_logo_horizontal.svg"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".army.mil",
     "anad.army.mil"

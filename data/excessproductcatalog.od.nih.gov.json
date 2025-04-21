@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://excessproductcatalog.od.nih.gov/",
+  "url": "https://excessproductcatalog.od.nih.gov/ec",
   "domain": "excessproductcatalog.od.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -30,11 +30,11 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c9b7975515f7b54b3bb5bdcc41bfc25a",
-  "accessibility_violations": null,
+  "page_hash": "9e523c894869df19ca1a066c3f8b61a5",
+  "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": null,
   "login_provider": null,
@@ -54,7 +54,8 @@
   "third_party_service_count": 1,
   "cookie_domains": [
     ".nih.gov",
-    ".od.nih.gov"
+    ".od.nih.gov",
+    "excessproductcatalog.od.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,

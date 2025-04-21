@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "39d9971e55f77e11e038bc73c7736354",
+  "page_hash": "c42e0d03e03f83c063e5a4ec11e8780a",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":9}",
   "pageviews": null,
   "visits": null,
@@ -53,10 +53,14 @@
     "cdn.jsdelivr.net",
     "code.jquery.com",
     "d2rcltyodjzmvo.cloudfront.net",
+    "f.vimeocdn.com",
+    "i.vimeocdn.com",
+    "invalid",
     "p.typekit.net",
     "use.typekit.net",
     "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.googletagmanager.com",
+    "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
@@ -91,6 +95,11 @@
     "https://d2rcltyodjzmvo.cloudfront.net/wp-content/uploads/2021/12/16054855/Henry-Clay_01-DS.jpeg",
     "https://d2rcltyodjzmvo.cloudfront.net/wp-content/uploads/2023/03/21130248/RR-1971.0118.2_03.jpg",
     "https://d2rcltyodjzmvo.cloudfront.net/wp-content/uploads/2023/06/02085540/John-Quincy-Adams_03-DS.jpg",
+    "https://f.vimeocdn.com/p/4.40.43/css/player.css",
+    "https://f.vimeocdn.com/p/4.40.43/js/player.module.js",
+    "https://f.vimeocdn.com/p/4.40.43/js/vendor.module.js",
+    "https://i.vimeocdn.com/portrait/57637139_60x60",
+    "https://i.vimeocdn.com/video/1203341686-3af8b71339e8171e9d4add878929873832615bd5328fac97d53d72c489f71a74-d",
     "https://p.typekit.net/p.css",
     "https://use.typekit.net/af/200aad/000000000000000000012d67/27/l",
     "https://use.typekit.net/af/37a4b2/00000000000000007735afd8/30/l",
@@ -101,9 +110,11 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+    "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".state.gov"
   ],

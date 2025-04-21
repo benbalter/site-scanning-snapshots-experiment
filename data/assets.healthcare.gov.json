@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0b242d95383ee953bf3ff48e718e3109",
+  "page_hash": "8f7ae8ba275ea8f273372e80af68d731",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -44,20 +44,27 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHHS",
+    "subagency": "CMS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
+    "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
     "js-agent.newrelic.com",
-    "tags.tiqcdn.com"
+    "tags.tiqcdn.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://adobe-ep.cms.gov/ee/v1/interact",
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/5a79be86db",
     "https://gov-bam.nr-data.net/events/1/5a79be86db",
     "https://gov-bam.nr-data.net/resources/1/5a79be86db",
@@ -73,10 +80,12 @@
     "https://js-agent.newrelic.com/session_trace-aggregate.6e2218bf-current.min.js",
     "https://js-agent.newrelic.com/spa-aggregate.6c038a0a-current.min.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.10.js",
+    "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.15.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.js",
-    "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.sync.js"
+    "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.sync.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".cms.gov"
   ],

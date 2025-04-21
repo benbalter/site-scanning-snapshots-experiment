@@ -30,7 +30,7 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
+  "www_scan_status": "dns_resolution_error",
   "page_hash": "dfd1efbbb846b4b46e6b915a1b08dc39",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
@@ -50,7 +50,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".health.mil",
     ".hearing.health.mil",
     "hearing.health.mil"
   ],
@@ -102,7 +101,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://www.hearing.health.mil",
-  "www_status_code": 404,
-  "www_title": "Not Found"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

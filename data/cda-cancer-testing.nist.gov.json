@@ -56,7 +56,9 @@
     "https://cda-validation.nist.gov/cda-validation/images/bg_external.gif"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nist.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "privacy"

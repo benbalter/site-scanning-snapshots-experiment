@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "06f0d6520a7371d4dd3946492e23abe5",
-  "accessibility_violations": "{\"user-control-name\":2,\"contrast\":51,\"keyboard-access\":1}",
+  "page_hash": "f67e355982ff3446b8cd4964b96a87a7",
+  "accessibility_violations": "{\"user-control-name\":2,\"contrast\":49,\"keyboard-access\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -49,7 +49,6 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
-    "cdnjs.cloudflare.com",
     "domewatch.us",
     "firestore.googleapis.com",
     "fonts.googleapis.com",
@@ -58,7 +57,7 @@
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css",
+    "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
     "https://domewatch.us/_nuxt/11200ba.js",
     "https://domewatch.us/_nuxt/452ace2.js",
     "https://domewatch.us/_nuxt/6be5c74.js",
@@ -71,11 +70,13 @@
     "https://domewatch.us/api/v3/events",
     "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel",
     "https://fonts.googleapis.com/css",
+    "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/googlesans/v60/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvbQoi-E.woff2",
     "https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvbQoi-E.woff2",
+    "https://fonts.gstatic.com/s/urbanist/v15/L0x-DF02iFML4hGCyMqlbS1miXK2.woff2",
     "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [

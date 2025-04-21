@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "ssl_protocol_error",
-  "page_hash": "61eebb68534bd25af51ed9c72f904cfd",
+  "page_hash": "2060fd2d35b9fbf02257550c028f8645",
   "accessibility_violations": null,
   "pageviews": 0,
   "visits": 2,
@@ -66,7 +66,6 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".test.usajobs.gov",
     ".usajobs.gov",
     "ssaiatlanta.test.usajobs.gov"
   ],
@@ -125,15 +124,18 @@
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
   "uswds_inpage_css": 0,
-  "uswds_usa_class_list": null,
+  "uswds_usa_class_list": [
+    "usa-accordion-button",
+    "usa-accordion-content"
+  ],
   "uswds_banner_heres_how": false,
   "uswds_banner_heres_how-2": true,
-  "uswds_usa_classes": 0,
+  "uswds_usa_classes": 15,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 80,
+  "uswds_count": 95,
   "www_url": null,
   "www_status_code": null,
   "www_title": null
