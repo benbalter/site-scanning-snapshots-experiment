@@ -16,24 +16,23 @@
   "agency": "Library of Congress",
   "bureau": "Library of Congress",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "gov",
-    "2020_eot",
-    "final_url_websites"
+    "2020_eot"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "36ea6664f0a4614b73db6acf8a986917",
-  "accessibility_violations": "{\"contrast\":1,\"language\":1}",
+  "www_scan_status": "timeout",
+  "page_hash": "1161b3747dcf737c21b617803f4fcc23",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -152,7 +151,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": "https://www.digitalpreservation.gov",
-  "www_status_code": 200,
-  "www_title": "Digital Preservation (Library of Congress)"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6078bb6637237596fef4e85125a629e3",
+  "page_hash": "ba8d7e70521211b72d1ccafdc666ad72",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,6 +49,7 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "analytics.foresee.com",
     "cdn.jsdelivr.net",
     "code.jquery.com",
     "fonts.googleapis.com",
@@ -57,6 +58,7 @@
     "script.crazyegg.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.foresee.com/ingest/events",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css",
     "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js",
     "https://code.jquery.com/jquery-2.2.4.min.js",
@@ -67,14 +69,18 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.compress.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.10-fs/fs.utils.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.14.10-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/sites/newsinhealth/production/gateway.min.js",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/sampling/devtestdomain.nih.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0011/2616/site/devtestdomain.nih.gov.json",
     "https://script.crazyegg.com/pages/scripts/0011/2616.js",
     "https://script.crazyegg.com/pages/versioned/common-scripts/571bc4dba8365065824a41e9e429f02f.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov"
   ],

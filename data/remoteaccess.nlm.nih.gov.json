@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a4d68f02577b410aab005c05ecdcb9da",
-  "accessibility_violations": "{\"language\":1,\"images\":1}",
+  "page_hash": "201a4a9621f8d25459ec4705c2f308dc",
+  "accessibility_violations": "{\"contrast\":3,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,7 +52,8 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,

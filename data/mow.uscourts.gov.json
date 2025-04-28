@@ -16,7 +16,7 @@
   "agency": "Administrative Office of the U.S. Courts",
   "bureau": "U.S. Courts",
   "branch": "Judicial",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "uscourts",
     "final_url_websites"
@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6aa192d8ba16a7f74cf36e53715ae8c2",
+  "page_hash": "32860117d515d0232d98a43649d33a49",
   "accessibility_violations": "{\"aria\":2}",
   "pageviews": null,
   "visits": null,
@@ -51,6 +51,7 @@
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "code.jquery.com",
+    "search.usa.gov",
     "search.uscourts.gov",
     "speedcdnjs.com",
     "www.google-analytics.com",
@@ -59,13 +60,16 @@
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/jquery-migrate@3.4.1/dist/jquery-migrate.min.js",
     "https://code.jquery.com/jquery-3.7.0.js",
+    "https://search.usa.gov/assets/sayt.css",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
+    "https://search.uscourts.gov/assets/sayt_loader.js",
     "https://search.uscourts.gov/javascripts/remote.loader.js",
     "https://speedcdnjs.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".mow.uscourts.gov",
     ".uscourts.gov",
@@ -107,11 +111,11 @@
   "sitemap_xml_url": "https://www.mow.uscourts.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 34555,
+  "sitemap_xml_filesize": 34553,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-17T20:21:00.000Z",
+  "sitemap_xml_lastmod": "2025-04-24T21:29:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "29d1ac9bb9a532a47c53dee2a4c1dae0",
+  "sitemap_xml_page_hash": "1dac5230f4df459c10ab2039625ddd03",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

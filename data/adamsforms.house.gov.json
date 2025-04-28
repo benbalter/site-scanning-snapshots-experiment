@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9b957293ab4e7b145e14594b7f1b793d",
+  "page_hash": "afb22a2ca953c702166e18c819220bd0",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -45,14 +45,16 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-CWT12BWHF8",
+  "ga_tag_id": "G-CWT12BWHF8,G-QRERXTXZW0,G-247XCPBRBZ",
   "third_party_service_domains": [
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".adamsforms.house.gov",
     ".house.gov",

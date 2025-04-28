@@ -16,9 +16,10 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Disease Control and Prevention",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
+    "final_url_websites",
     "cisa"
   ],
   "public": null,
@@ -50,6 +51,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".cdc.gov",
     "vtrcks-grantee2-s1.cdc.gov"
   ],
   "viewport_meta_tag": false,

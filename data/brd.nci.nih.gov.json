@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -26,7 +26,7 @@
   ],
   "public": true,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "b73753d57257cb59814acdcaaf072856",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"contrast\":2,\"language\":1,\"lists\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -62,6 +62,7 @@
   "third_party_service_count": 2,
   "cookie_domains": [
     ".brd.nci.nih.gov",
+    ".nih.gov",
     "brd.nci.nih.gov"
   ],
   "viewport_meta_tag": false,

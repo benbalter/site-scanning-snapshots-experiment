@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Fish and Wildlife Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2b8a586fe63d4020829315072520fce9",
+  "page_hash": "ee3f45f8812902c9aa84554dada2856c",
   "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
@@ -50,8 +50,10 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c0d.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -63,12 +65,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c0d.akstat.io/",
     "https://a.tile.openstreetmap.org/12/1135/1727.png",
     "https://a.tile.openstreetmap.org/12/1136/1726.png",
     "https://a.tile.openstreetmap.org/12/1137/1728.png",
     "https://b.tile.openstreetmap.org/12/1135/1728.png",
     "https://b.tile.openstreetmap.org/12/1136/1727.png",
     "https://b.tile.openstreetmap.org/12/1137/1726.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/12/1135/1726.png",
     "https://c.tile.openstreetmap.org/12/1136/1728.png",
     "https://c.tile.openstreetmap.org/12/1137/1727.png",
@@ -90,10 +94,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

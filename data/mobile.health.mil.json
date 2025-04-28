@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "final_url_websites"
@@ -31,10 +31,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0f3dc53d1aa99bf3c946f64744d2c532",
+  "page_hash": "69f74452fb9cf963545c4fc9ddb95ed2",
   "accessibility_violations": "{\"images\":1}",
-  "pageviews": 7433,
-  "visits": 1734,
+  "pageviews": 6934,
+  "visits": 1582,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,6 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".health.mil",
     ".mobile.health.mil",
     "mobile.health.mil"
   ],
@@ -88,13 +89,11 @@
   "robots_txt_url": "https://mobile.health.mil/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 324,
+  "robots_txt_filesize": 215,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": [
     "https://health.mil/sitemap/mhs-sitemap.xml",
-    "https://health.mil/sitemap/mobile-sitemap.xml",
-    "https://mobile/sitemap/mobile-sitemap.xml",
-    "https://www.health.mil/sitemap/mhs-sitemap.xml"
+    "https://health.mil/sitemap/mobile-sitemap.xml"
   ],
   "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://mobile.health.mil/sitemap.xml",

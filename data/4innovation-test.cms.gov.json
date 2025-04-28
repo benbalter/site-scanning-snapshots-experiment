@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0b5e90ce82348f0e7e609b593c28dab2",
+  "page_hash": "6f9f1565258fd5e14c1fda930ad0a404",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": 0,
   "visits": 1,
@@ -49,7 +49,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cms.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

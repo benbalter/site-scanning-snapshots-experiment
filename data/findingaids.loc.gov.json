@@ -16,7 +16,7 @@
   "agency": "Library of Congress",
   "bureau": "Library of Congress",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b3a287b9a7f88ace8797b2e32631d173",
+  "page_hash": "2afb5818ca9c58d8373bf25621d1deaf",
   "accessibility_violations": "{\"form-names\":2}",
   "pageviews": null,
   "visits": null,
@@ -48,6 +48,7 @@
   "third_party_service_domains": [
     "assets.adobedtm.com",
     "cdn.loc.gov",
+    "dpm.demdex.net",
     "smon.loc.gov",
     "www.loc.gov"
   ],
@@ -69,12 +70,13 @@
     "https://cdn.loc.gov/share/share-1.9.15.min.js",
     "https://cdn.loc.gov/suggest/library-of-congress.js",
     "https://cdn.loc.gov/suggest/loc.suggest-1.1.0.min.js",
-    "https://smon.loc.gov/b/ss/locgovprod/1/JS-2.27.0-LEWM/s01927052527507",
+    "https://dpm.demdex.net/id",
+    "https://smon.loc.gov/b/ss/locgovprod/1/JS-2.27.0-LEWM/s62679326225990",
     "https://www.loc.gov/img-std/bullet.gif",
     "https://www.loc.gov/img-std/i_arrow.gif",
     "https://www.loc.gov/img-std/i_arrow_o.gif"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".loc.gov"
   ],

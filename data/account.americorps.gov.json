@@ -16,7 +16,7 @@
   "agency": "Corporation for National and Community Service",
   "bureau": "AmeriCorps",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -53,9 +53,7 @@
     "https://cdn.plyr.io/3.7.3/plyr.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".americorps.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

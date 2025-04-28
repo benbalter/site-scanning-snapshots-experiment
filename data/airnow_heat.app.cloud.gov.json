@@ -16,7 +16,7 @@
   "agency": "General Services Administration",
   "bureau": "GSA,FAS,Technology Transformation Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -32,8 +32,8 @@
   "www_scan_status": "completed",
   "page_hash": "c9a8cb7c39d2091a9627a57fcca05f8b",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
-  "pageviews": 20,
-  "visits": 5,
+  "pageviews": 19,
+  "visits": 4,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -48,7 +48,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cloud.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

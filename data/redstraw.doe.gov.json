@@ -25,7 +25,7 @@
   ],
   "public": false,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7b0c9735a69318c746acacfb5a934b55",
-  "accessibility_violations": "{\"images\":1}",
+  "page_hash": "8bf9f8f29af84beb618ee71d10d0da3a",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -52,7 +52,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".doe.gov",
     "redstraw.doe.gov"
   ],
   "viewport_meta_tag": true,

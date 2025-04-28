@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -24,7 +24,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "808f41626d1a3fc7053f696668275cec",
-  "accessibility_violations": "{\"contrast\":4,\"language\":1}",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -54,9 +54,7 @@
     "https://droughtmonitor.unl.edu/data/png/current/current_usdm.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".noaa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "foia",

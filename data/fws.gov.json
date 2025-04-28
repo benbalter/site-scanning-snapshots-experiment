@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Fish and Wildlife Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "gov",
     "dap",
@@ -41,10 +41,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "bbae3fad83ee0686460fef22762c3aa5",
+  "page_hash": "475825222fe43f5c5dda9c53b7873b83",
   "accessibility_violations": "{\"user-control-name\":2}",
-  "pageviews": 2950231,
-  "visits": 1631177,
+  "pageviews": 2953024,
+  "visits": 1626434,
   "ipv6": false,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -60,6 +60,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1e.akstat.io",
+    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -69,6 +71,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1e.akstat.io/",
+    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -84,10 +88,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 9,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -135,9 +138,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 2502,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-18T03:00:22.000Z",
+  "sitemap_xml_lastmod": "2025-04-24T18:00:21.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "d3d0493a704d46afe0dbb5282e79b7a0",
+  "sitemap_xml_page_hash": "bd76771a170e3834533848aa73f7ad64",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

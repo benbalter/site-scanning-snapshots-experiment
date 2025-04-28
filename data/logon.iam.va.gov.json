@@ -16,7 +16,7 @@
   "agency": "Department of Veterans Affairs",
   "bureau": "Office of Information and Technology, IT Operations and Services (ITOPS)",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -53,9 +53,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".va.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "foia",

@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -52,6 +52,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".nasa.gov",
     "hst-view-ap.hst.nasa.gov"
   ],
   "viewport_meta_tag": false,

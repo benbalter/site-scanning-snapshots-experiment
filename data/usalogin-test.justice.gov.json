@@ -5,7 +5,7 @@
   "initial_base_domain": "justice.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://usalogin-test.justice.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=PdtoCidjXOBGO1gkOksHc9OvR4Sl-bwOCQ2_4WfC3mo&code_challenge_method=S256&nonce=ePbSkof1vyhMI4Vo5qFcYq5YaWHA2KehKEkID4FszPHOeYbCAB1JnyD1ujNYjJnM&redirect_uri=https%3A%2F%2Fusalogin-test.justice.gov%2Fenduser%2Fcallback&response_type=code&state=5twRZTXvtE9lyVfwq9zY4wSGwPpvMUB4IhAx02OGwyPNzF5E7so03szlZJ0cnL6a&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://usalogin-test.justice.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=viNF9vbcZO8R0uYFJ2PedPqddfGgvFl1-mnMOIGZeCU&code_challenge_method=S256&nonce=luOqAoQ0iioBaS7Z0LE5S61q5kXLEs4gu0Y1UsBP29ZQAjF1KO7hYMFoDcLpUtsK&redirect_uri=https%3A%2F%2Fusalogin-test.justice.gov%2Fenduser%2Fcallback&response_type=code&state=Y1UMI0s509gYOWKZpikP6skEk4Ksoqd7O31GililMH1lR5ZghWbkR5B2b3WJKwL8&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "usalogin-test.justice.gov",
   "base_domain": "justice.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Department of Justice",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "916582ae0dc275a5b16e000b9a2a7320",
+  "page_hash": "6f4cfd9cb38fb221964b3e1a20620e54",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -54,7 +54,7 @@
     "usalogin-public.s3-us-gov-east-1.amazonaws.com"
   ],
   "third_party_service_urls": [
-    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js",
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/6.2.0/css/okta-sign-in.min.css",
     "https://usalogin-public.s3-us-gov-east-1.amazonaws.com/EOUSA-USAlogin-logo-combo-web.png"
   ],

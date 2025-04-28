@@ -16,7 +16,7 @@
   "agency": "Department of Transportation",
   "bureau": "Department of Transportation",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -162,7 +162,9 @@
     "https://js.arcgis.com/4.28/@arcgis/core/assets/esri/themes/light/main.css"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dot.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

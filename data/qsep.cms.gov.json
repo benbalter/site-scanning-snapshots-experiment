@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Medicare and Medicaid Services",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d2d5617c43f7d940f752492d0357f6b8",
+  "page_hash": "c71cba2e26d9555788ccbb08831213e4",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -39,9 +39,7 @@
   "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": null,
-  "login": [
-    "\"password\""
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
@@ -53,8 +51,6 @@
     "cdn.datatables.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "gov-bam.nr-data.net",
-    "js-agent.newrelic.com",
     "maxcdn.bootstrapcdn.com",
     "www.googletagmanager.com"
   ],
@@ -64,14 +60,11 @@
     "https://cdn.datatables.net/fixedheader/3.1.4/js/dataTables.fixedHeader.min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
-    "https://gov-bam.nr-data.net/1/NRJS-58b3346b1ee03b372fe",
-    "https://gov-bam.nr-data.net/events/1/NRJS-58b3346b1ee03b372fe",
-    "https://js-agent.newrelic.com/nr-spa-1.286.0.min.js",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.woff",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cms.gov",
     ".qsep.cms.gov",

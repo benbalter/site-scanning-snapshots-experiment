@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4b03c8de33fe312d13051ccd830cbd5b",
-  "accessibility_violations": "{\"user-control-name\":2,\"images\":10,\"link-purpose\":7}",
+  "page_hash": "b2ee5ee9df052367e085304426245b5d",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,29 +46,19 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-qMR43jbrIeGS69,G-djOxHMwTv0,G-bEbJ0k9w0jVA7v4,G-s3qbdEHzJWJg6G1,G-oFb0j0Su6Z0krGc,G-GJO0w0q0IJU7Pur,G-Abj4y0wTrGeH0Ok",
-  "third_party_service_domains": [
-    "challenges.cloudflare.com"
-  ],
-  "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/93248c0d7b1bff01/1744983344459/pEusGqifD7I6BbU",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/147674712:1744982241:PThVPQGTlbCx4eab-nkxsCnD9ke10E_w33CV7Hn_-fI/93248c0d7b1bff01/GrfCUeSMnfKjdIweAdsoMy5Dyl8zF1tNh.64c.MwdTA-1744983344-1.1.1.1-jjlb_6hjETPuweeM4P2HYGS28Abd.eLJPKkFrMHdUf7E5v1a2WLfJqFLf6Nh9W_q",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/93248c0d7b1bff01/1744983344467/88e8cc1cd043c6cd27dee122cda84850cc01e36a545b051f24c37d050562aec9/Y35EHG6Sg1FJwg0",
-    "https://challenges.cloudflare.com/turnstile/v0/g/44e6f86df4dc/api.js"
-  ],
-  "third_party_service_count": 1,
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
-    ".fbi.gov",
-    "fbibiospecs.fbi.gov"
+    ".fbi.gov"
   ],
-  "viewport_meta_tag": true,
+  "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Just a moment...",
+  "title": "This site has determined a security issue with your request.",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -79,7 +69,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en-US",
+  "language": "en",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -113,5 +103,5 @@
   "uswds_count": 0,
   "www_url": "https://www.fbi.gov/about-us/cjis/fingerprints_biometrics/biometric-center-of-excellence",
   "www_status_code": 403,
-  "www_title": "Just a moment..."
+  "www_title": "This site has determined a security issue with your request."
 }

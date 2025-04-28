@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": null,
+  "404_test": false,
   "source_list": [
     "pulse"
   ],
@@ -24,7 +24,7 @@
   "primary_scan_status": "timeout",
   "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
-  "not_found_scan_status": "unknown_error",
+  "not_found_scan_status": "completed",
   "performance_scan_status": "timeout",
   "robots_txt_scan_status": "timeout",
   "security_scan_status": "completed",

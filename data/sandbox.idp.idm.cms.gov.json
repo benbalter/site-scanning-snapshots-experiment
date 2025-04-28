@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://sandbox.idp.idm.cms.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=PcCMYn2llFkVRENS7aXf0QL-F87c9B3xDBR1swpPHdY&code_challenge_method=S256&nonce=bvUuWGB4aUNIYdtYAS2QaOzDipD3VRdFQXeif8Wp1R4Ya6Ofo9jBIOH5IFt4HwE1&redirect_uri=https%3A%2F%2Fsandbox.idp.idm.cms.gov%2Fenduser%2Fcallback&response_type=code&state=XLMs6vCp2vqnY0bSHhoYWeyY5Nx1kgyo82O26DcaIxrY7cMiuNowvzSA3FtQ7Obk&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://sandbox.idp.idm.cms.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=Sa5i-w2mxZxeFIqkzTROTELFbFDfQz55kCw_3zvhYoU&code_challenge_method=S256&nonce=MAHHHKp7tVXjNnL1YVIz7tbKXqT0p5h3PHLkfrB4IDPxt2n080Yka2s6uugKGAHo&redirect_uri=https%3A%2F%2Fsandbox.idp.idm.cms.gov%2Fenduser%2Fcallback&response_type=code&state=yhVyU5gy7YqpyfFcQ92N6iAJhhXXu2VdHaZfJZcZZ9H008bYvN5eEQa9VFEUn1sk&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "sandbox.idp.idm.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Medicare and Medicaid Services",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ee06e27971cc1e4111324a3074f67d0b",
+  "page_hash": "2a9153bc2ea9009dd16fedb88b986fee",
   "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
@@ -60,7 +60,7 @@
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
-    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js",
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://op1static.oktacdn.com/assets/apps/enduser-v2.enduser/0.0.1-2421-gefdb705/static/css/main.css",
     "https://op1static.oktacdn.com/assets/apps/enduser-v2.enduser/0.0.1-2421-gefdb705/static/js/main.js",
     "https://op1static.oktacdn.com/assets/js/common/web-font.ef697a337741148376a6d9ebf3554c02.js",
@@ -78,7 +78,6 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".cms.gov",
     "sandbox.idp.idm.cms.gov"
   ],
   "viewport_meta_tag": true,

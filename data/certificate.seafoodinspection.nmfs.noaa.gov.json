@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b4831b7ae8b3ae2c9e8a12ab1d50014f",
+  "page_hash": "c6c8cebfe8b95980ed9ad5ef36168fa0",
   "accessibility_violations": "{\"contrast\":2,\"language\":1,\"form-names\":5}",
   "pageviews": null,
   "visits": null,
@@ -45,17 +45,28 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-RSBZ7L43YG",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA",
+    "pga4": "G-RSBZ7L43YG",
+    "yt": "true",
+    "exts": "aac,arc,arj,asf,asx,bin,flv,gif,gzip,hqx,jar,mp2,msp,phps,qt,qutm,mxd,ram,sea,sit,tar,torrent,tsv,wav,wpd,xml,z"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-RSBZ7L43YG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "www.googletagmanager.com"
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com",
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://www.googletagmanager.com/gtag/js"
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov",
     "certificate.seafoodinspection.nmfs.noaa.gov"

@@ -16,7 +16,7 @@
   "agency": "Department of Veterans Affairs",
   "bureau": "Office of Information and Technology, IT Operations and Services (ITOPS)",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4ff82f3ff60cbc84a35e8e21f0ebe5e1",
+  "page_hash": "eb8e138e0a132c2a6a70be0156320f85",
   "accessibility_violations": "{\"images\":1}",
-  "pageviews": 751,
-  "visits": 415,
+  "pageviews": 679,
+  "visits": 413,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -59,6 +59,7 @@
     "dap.digitalgov.gov",
     "digital.va.gov",
     "prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.oit.va.gov",
     "www.va.gov",
@@ -78,6 +79,7 @@
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/styleConsolidated.css",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/vendor.entry.js",
     "https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/vendor/uswds.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.oit.va.gov/_media/img/uswds/arrow-right.svg",
@@ -96,9 +98,9 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".va.gov",
     "chic.research.va.gov"

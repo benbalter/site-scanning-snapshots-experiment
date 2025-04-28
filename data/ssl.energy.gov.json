@@ -16,21 +16,21 @@
   "agency": "Department of Energy",
   "bureau": "US Department of Energy, Office of the CIO",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "cd8888156caa5e256e2cced54f330cfa",
+  "www_scan_status": "completed",
+  "page_hash": "034f86085e94e4419231f09e0fdeeef5",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,14 +46,14 @@
     "agency": "DOE"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,UA-24103967-1,G-CSLL4ZEK4L,G-HSY7VPGCD6",
+  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,G-CSLL4ZEK4L,UA-24103967-1,G-HSY7VPGCD6",
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
     "code.jquery.com",
     "dap.digitalgov.gov",
-    "s.clarity.ms",
     "ssl.google-analytics.com",
+    "w.clarity.ms",
     "www.clarity.ms",
     "www.google-analytics.com",
     "www.googletagmanager.com"
@@ -63,8 +63,8 @@
     "https://c.clarity.ms/c.gif",
     "https://code.jquery.com/jquery-migrate-3.3.0.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
+    "https://w.clarity.ms/collect",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.google-analytics.com/analytics.js",
@@ -156,7 +156,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 85,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.energy.gov/eere/ssl/solid-state-lighting",
+  "www_status_code": 200,
+  "www_title": "Solid-State Lighting | Department of Energy"
 }

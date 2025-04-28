@@ -5,7 +5,7 @@
   "initial_base_domain": "ginniemae.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://access.ginniemae.gov/auth?bmctx=21B9BD0FB7F1DF211D16B47C89EF7D016EA6750BE78367E759826F5C5D09FD15&password=secure_string&contextType=external&ssoCookie=secure&username=string&challenge_url=https%3A%2F%2Faccess.ginniemae.gov%2Fauth&request_id=3059131951564702218&authn_try_count=0&locale=en_US&resource_url=%252Fuser%252Floginsso",
+  "url": "https://access.ginniemae.gov/auth?bmctx=21B9BD0FB7F1DF211D16B47C89EF7D016EA6750BE78367E759826F5C5D09FD15&password=secure_string&contextType=external&ssoCookie=secure&username=string&challenge_url=https%3A%2F%2Faccess.ginniemae.gov%2Fauth&request_id=7970660323282285195&authn_try_count=0&locale=en_US&resource_url=%252Fuser%252Floginsso",
   "domain": "access.ginniemae.gov",
   "base_domain": "ginniemae.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Housing and Urban Development",
   "bureau": "Government National Mortgage Association",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -55,7 +55,6 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "gmars.ginniemae.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -95,10 +94,9 @@
     "https://gmars.ginniemae.gov/vizportal/api/web/v1/getServerSettingsUnauthenticated",
     "https://gmars.ginniemae.gov/vizportal/api/web/v1/getSessionInfo",
     "https://gmars.ginniemae.gov/vizportal/api/web/v1/recordNavigationTiming",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".ginniemae.gov",
     "access.ginniemae.gov"

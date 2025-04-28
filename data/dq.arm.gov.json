@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Battelle Pacific Northwest National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1510a4561b3832790413b6166c71f732",
+  "page_hash": "ee725f6faf23bda69c54b7dbc70b8da9",
   "accessibility_violations": "{\"contrast\":5,\"frames-iframes\":1,\"images\":3}",
   "pageviews": null,
   "visits": null,
@@ -45,11 +45,14 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOE"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "googleads.g.doubleclick.net",
@@ -58,12 +61,16 @@
     "jnn-pa.googleapis.com",
     "play.google.com",
     "static.doubleclick.net",
+    "www.google-analytics.com",
     "www.google.com",
+    "www.googletagmanager.com",
     "www.gstatic.com",
     "www.youtube.com",
     "yt3.ggpht.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/merriweathersans/v26/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4ViesBzRRXnKOr.woff",
     "https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYySUhiCXAA.woff",
@@ -75,18 +82,22 @@
     "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
     "https://play.google.com/log",
     "https://static.doubleclick.net/instream/ad_status.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google.com/js/th/zy9rNhS9wlhNVTKoH2dvsgD5_XMSUSRS4-UwaGEJmsU.js",
+    "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/9a279502/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/9a279502/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/9a279502/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/9a279502/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/9a279502/www-player.css",
+    "https://www.youtube.com/s/player/22f02d3d/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/22f02d3d/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/22f02d3d/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/22f02d3d/www-embed-player-cc.vflset/www-embed-player-cc.js",
+    "https://www.youtube.com/s/player/22f02d3d/www-player.css",
     "https://yt3.ggpht.com/oDhfnNIh09QDAYBgx5dX6-Is_PMJeMZWx0boiM_2fgczwSTGgPjBi3qDby3aj0zU-p7h1GW_iy0=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 12,
-  "cookie_domains": null,
+  "third_party_service_count": 15,
+  "cookie_domains": [
+    ".arm.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

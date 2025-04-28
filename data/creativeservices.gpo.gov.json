@@ -1,24 +1,23 @@
 {
-  "name": "creativeservices.gpo.gov",
+  "name": "governmentdesign.gpo.gov",
   "initial_url": "https://creativeservices.gpo.gov",
   "initial_domain": "creativeservices.gpo.gov",
   "initial_base_domain": "gpo.gov",
   "initial_top_level_domain": "gov",
-  "redirect": false,
-  "url": "https://creativeservices.gpo.gov/",
-  "domain": "creativeservices.gpo.gov",
+  "redirect": true,
+  "url": "https://governmentdesign.gpo.gov/",
+  "domain": "governmentdesign.gpo.gov",
   "base_domain": "gpo.gov",
   "top_level_domain": "gov",
-  "live": false,
+  "live": true,
   "filter": false,
-  "status_code": 429,
+  "status_code": 200,
   "media_type": "text/html",
   "agency": "Government Publishing Office",
   "bureau": "Government Publishing Office",
   "branch": "Legislative",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
     "gpo_fdlp"
   ],
   "public": null,
@@ -31,8 +30,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "ec91e0320464977c074c5267d534ab54",
-  "accessibility_violations": "{\"auto-updating\":1}",
+  "page_hash": "cfb8a6508df0a2b40ccc36edc0eb1cac",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":10}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -45,27 +44,35 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-F4rdPZMTjoF4,G-9PfRLpcY4r,G-tMDwyMv4PTqW,G-HwuT,G-lfCiUl,G-YYMRLd6gE8tCndj,G-C5i5OI,G-dFiY558sCBBQgUL,G-RKYZcryqtSeJBl8,G-BFaqGmziA9knBKJ",
+  "ga_tag_id": "UA-20264661-1,G-VEWTQRL8P0",
   "third_party_service_domains": [
-    "challenges.cloudflare.com"
+    "fonts.googleapis.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9321cdaa4c0cff19/1744954574710/mM4UfMZRkH9XKnl",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/199442736:1744953165:fiJ7VWgGQlm4-vvgFv2NsuCvIJx0uDnHMC5R719hLVs/9321cdaa4c0cff19/4jILLsPsUKZBSgZK_M79T1lCUMfgjbD4yyqLwFdgDzc-1744954574-1.1.1.1-SI_jbVIcSce8GSgg.md7bXaW42ZhsFUzSRQRgcgcdXpi8rIu.8gakMYOmRae_.bx",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9321cdaa4c0cff19/1744954574702/917b13a363101846b1f1feb63daab6321e15c8e347812cfe8ca1204ea548e94b/K5BX-p131myYIrz",
-    "https://challenges.cloudflare.com/turnstile/v0/g/44e6f86df4dc/api.js"
+    "https://fonts.googleapis.com/css",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
-  "cookie_domains": null,
+  "third_party_service_count": 3,
+  "cookie_domains": [
+    ".gpo.gov"
+  ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "privacy"
+  ],
+  "required_links_text": [
+    "about us",
+    "privacy policy"
+  ],
   "https_enforced": null,
   "hsts": null,
-  "title": "Just a moment...",
-  "description": null,
+  "title": "GPO | Government Design Services",
+  "description": "Government Design Services is an award-winning design team within the federal government that offers branding, illustration, and design services and has extensive experience supporting the missions of federal agencies, commissions, and Congress.",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -75,7 +82,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en-US",
+  "language": "en",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
@@ -108,6 +115,6 @@
   "uswds_version": 0,
   "uswds_count": 0,
   "www_url": "https://governmentdesign.gpo.gov",
-  "www_status_code": 200,
-  "www_title": "GPO | Government Design Services"
+  "www_status_code": 429,
+  "www_title": "Just a moment..."
 }

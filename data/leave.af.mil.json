@@ -5,7 +5,7 @@
   "initial_base_domain": "af.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://af.okta.mil/sso/idps/MTLS/mtlscallback?state=VjRvYWNqQ3hWNkFDZStmOXYzUTI4VWRSc3VXTGlrcGlqT1VuUGs0KzhzV0szWnRueTh1SjUyZDlGY2RIWkxHdA&error=empty_cert_error&errorDescription=No%20certificate%20selected",
+  "url": "https://af.okta.mil/sso/idps/MTLS/mtlscallback?state=SWZzeVVTT2dwaFVEWVNUbW92c2o2R25HbFBqVlMvaWJLTXpHVzhpemtVUGVSVThjMUZUSGw3TzBheDYxUE9WYQ&error=empty_cert_error&errorDescription=No%20certificate%20selected",
   "domain": "af.okta.mil",
   "base_domain": "okta.mil",
   "top_level_domain": "mil",
@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "Air Force",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": null,
   "public": null,
   "primary_scan_status": "completed",
@@ -28,7 +28,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "74e5d2362d4a639554c7c0761051a664",
+  "page_hash": "8eea1bca91330dbb5e46193ad221ccdf",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,7 +49,7 @@
     "login.okta.com"
   ],
   "third_party_service_urls": [
-    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js"
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [

@@ -5,7 +5,7 @@
   "initial_base_domain": "faa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://myaccessxtl-dev.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa2kevqjjtz3gACq1d7&scope=openid%20profile%20email&state=dkLMrNYdmagJzNOWrZPdxjodK_0B9zsWBSXcBRU-jyA%3D&redirect_uri=https://myaccessreg-stage.faa.gov/profile/login/oauth2/code/okta&nonce=vV9AxMo6felR5AomGz9tRaKqB1dE5DzPlPHidsCOWNY",
+  "url": "https://myaccessxtl-dev.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa2kevqjjtz3gACq1d7&scope=openid%20profile%20email&state=3qwTstBi3rUfzOxgEn0V3e8EMZ3tYmdWBoz9VIXUwE4%3D&redirect_uri=https://myaccessreg-stage.faa.gov/profile/login/oauth2/code/okta&nonce=jyTqFPqMhdTnNMzHiGGIGYPbL_DGzmG74gLf-wJmrFE",
   "domain": "myaccessxtl-dev.faa.gov",
   "base_domain": "faa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Transportation",
   "bureau": "Federal Aviation Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1c779a4093c28eaca2f0a3f7d1578558",
+  "page_hash": "28cec9ad0aacd52aa16e2ae1f4f8544a",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-v3fqU224",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn-staging.myaccess.faa.gov",
     "login.okta.com",
@@ -68,7 +68,7 @@
     "https://cdn-staging.myaccess.faa.gov/assets/uswds/img/icon-https.svg",
     "https://cdn-staging.myaccess.faa.gov/assets/uswds/img/us_flag_small.png",
     "https://cdn-staging.myaccess.faa.gov/assets/uswds/img/usa-icons/expand_more.svg",
-    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js",
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://op3static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
     "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.1/css/okta-sign-in.min.css",
     "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.1/font/montserrat-okta-light-webfont.woff",
@@ -84,7 +84,6 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".faa.gov",
     "myaccessxtl-dev.faa.gov"
   ],
   "viewport_meta_tag": true,

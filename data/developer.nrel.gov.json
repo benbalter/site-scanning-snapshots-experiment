@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "National Renewable Energy Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7e0ebcda584841c8539f8ce3b0e85167",
+  "page_hash": "cc83d70c90ac38cceb6fb4c3b43f928c",
   "accessibility_violations": null,
-  "pageviews": 18862,
-  "visits": 7761,
+  "pageviews": 17456,
+  "visits": 7506,
   "ipv6": true,
   "hostname": "data.gov",
   "cms": null,
@@ -55,8 +55,8 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "d.clarity.ms",
     "dap.digitalgov.gov",
+    "s.clarity.ms",
     "www.clarity.ms",
     "www.google-analytics.com",
     "www.googletagmanager.com"
@@ -64,9 +64,9 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://s.clarity.ms/collect",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/jqyludgwnn",
     "https://www.google-analytics.com/g/collect",

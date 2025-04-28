@@ -16,11 +16,12 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
     "oira",
+    "final_url_websites",
     "cisa"
   ],
   "public": false,
@@ -55,7 +56,10 @@
     "https://fonts.googleapis.com/css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ams.usda.gov",
+    ".usda.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

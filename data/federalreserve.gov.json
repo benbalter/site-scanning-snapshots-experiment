@@ -16,7 +16,7 @@
   "agency": "Federal Reserve Board of Governors",
   "bureau": "Federal Reserve Bank",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "gov",
     "pulse",
@@ -38,7 +38,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "6fff552a6390728912c1b3c68681abeb",
+  "page_hash": "eb76b294c4fff81f40ae8508d5b932f7",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,6 +55,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cf-images.us-east-1.prod.boltdns.net",
+    "designsystem.digital.gov",
     "edge.api.brightcove.com",
     "house-fastly-signed-us-east-1-prod.brightcovecdn.com",
     "manifest.prod.boltdns.net",
@@ -63,6 +64,8 @@
   ],
   "third_party_service_urls": [
     "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66043936001/d05e0110-d603-4f90-abc4-dc31be61d224/2d7d8eac-cf69-464f-902e-2906b73ff765/640x360/match/image.jpg",
+    "https://designsystem.digital.gov/assets/img/icon-dot-gov.svg",
+    "https://designsystem.digital.gov/assets/img/icon-https.svg",
     "https://edge.api.brightcove.com/playback/v1/accounts/66043936001/videos/6370246460112",
     "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/hls/v4/clear/66043936001/d05e0110-d603-4f90-abc4-dc31be61d224/402207d8-fbcd-466c-b2f7-4677f67666fc/5x/segment0.ts",
     "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/hls/v4/clear/66043936001/d05e0110-d603-4f90-abc4-dc31be61d224/d8d2bfc7-9cf4-4268-ba24-6a74c0e7aafd/5x/segment0.ts",
@@ -74,7 +77,7 @@
     "https://metrics.brightcove.com/v2/tracker",
     "https://players.brightcove.net/66043936001/default_default/index.min.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".federalreserve.gov"
   ],
@@ -132,7 +135,7 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
+  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

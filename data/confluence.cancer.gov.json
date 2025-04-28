@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Cancer Institute, NIH",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "omb_idea",
     "other",
@@ -79,9 +79,7 @@
     "https://unpkg.com/docx@8.0.4/build/index.js"
   ],
   "third_party_service_count": 11,
-  "cookie_domains": [
-    ".cancer.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

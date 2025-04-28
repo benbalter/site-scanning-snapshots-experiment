@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Battelle Pacific Northwest National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -35,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "a89b177eb9649815c16b765bb4474124",
-  "accessibility_violations": "{\"language\":1}",
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,7 +52,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    "db.arm.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
@@ -102,6 +104,6 @@
   "uswds_version": 0,
   "uswds_count": 0,
   "www_url": "https://www.db.arm.gov",
-  "www_status_code": 500,
-  "www_title": "500 Internal Server Error"
+  "www_status_code": 200,
+  "www_title": ""
 }

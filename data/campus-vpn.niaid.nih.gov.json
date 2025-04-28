@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
   ],
   "public": false,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "8fe1e23f977254a4d853bce57b5167a5",
-  "accessibility_violations": "{\"contrast\":1,\"lists\":1}",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -54,7 +54,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".nih.gov",
     "campus-vpn.niaid.nih.gov"
   ],
   "viewport_meta_tag": true,

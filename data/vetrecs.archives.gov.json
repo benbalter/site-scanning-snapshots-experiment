@@ -16,7 +16,7 @@
   "agency": "National Archives and Records Administration",
   "bureau": "National Archives and Records Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3a49f29f1e76c8fde31234b48462c9a0",
-  "accessibility_violations": null,
-  "pageviews": 884437,
-  "visits": 160225,
+  "page_hash": "5eb1e41f48e90e6f9ebb4c22d70813d1",
+  "accessibility_violations": "{\"link-purpose\":1}",
+  "pageviews": 424305,
+  "visits": 77825,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -55,18 +55,27 @@
   ],
   "third_party_service_urls": [
     "https://www.google.com/recaptcha/api.js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJDHuTkOhlT3zHpB/recaptcha__en.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".archives.gov",
     "vetrecs.archives.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "foia",
+    "privacy"
+  ],
+  "required_links_text": [
+    "about us",
+    "accessibility",
+    "freedom of information act",
+    "privacy policy"
+  ],
   "https_enforced": false,
   "hsts": true,
-  "title": "eVetRecs",
+  "title": "Home",
   "description": null,
   "keywords": null,
   "og_title": null,

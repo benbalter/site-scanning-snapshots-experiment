@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -26,7 +26,7 @@
     "cisa"
   ],
   "public": true,
-  "primary_scan_status": "unknown_error",
+  "primary_scan_status": "timeout",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": null,
   "accessibility_violations": null,
-  "pageviews": 88263,
-  "visits": 22640,
+  "pageviews": 84287,
+  "visits": 22891,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,9 +54,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": null,
   "cookie_domains": [
-    ".nih.gov",
-    ".nlm.nih.gov",
-    "vsac.nlm.nih.gov"
+    ".nih.gov"
   ],
   "viewport_meta_tag": null,
   "required_links_url": null,

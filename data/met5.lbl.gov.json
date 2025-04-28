@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Lawrence Berkeley National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -48,21 +48,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "cdnjs.cloudflare.com",
-    "lh7-rt.googleusercontent.com"
+    "cdnjs.cloudflare.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcToZvxuTgGEv62A3Pp3wo2P9dXZ_UqMk4GEeKaJmhmrI9M6dlH3V6ZenJxJyqPs5VGpdoM4t-yOWqtdjg9zSV_9uqcZ-jK1dZXwptaDHXHYuRaI2emUPAgv1vdBz87Nr4aPpBR6I7K0qET2SI",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdEhvKEksioQTswDPkuVij6smTU-834ETWJLeUFxh3oWoLz4yztXnk5BRKOvdCsT9KYX2vIV4mvjobMa3-EYkvvxoBPQ2AJkLuMuVuP-T5Kfj-BxzVRIsWxsQ8cKH8OkOb8tlXsfksT4aRYH5c",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxTMm9dM0CDTN8GDL3ERa0hpXx_OlqHjrAedEKINkLllcPmyXf-lrcoFPkAUkPM7-3NlbvILUrop--0FTrUwpqKD5jNz1wb542RaTdFBrimh0w9KiAiv_SaCJss8AvTybxDqu2fGXmuKMOHrBY",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZVKQ0y3HvunTk1dwe2uVNiEgne1Rno8f858FU4SehiKYuAw3luXHjFCu23zgsA8M9JoCFVOjyWmEX5eRAT91LjXPcgHLwNgcnnwajfMcqVXCJvvMM9Na-6DgX8C07Ay98ugi_3ygJRruhBVI1",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQmuC8OubFCTftB-klEpmQIFU7n5R-U3pl5g1DZfFiUy-auj0eIB6Ghz53LW3BiKlJdVjfS3Cky9culCRFaB-EpZ6scO7Py_X2GTGMMzcsVP6ebtrMY15Ht9g70AZlEnZdMzaoQAZpSytpkEbo",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUCqxyIHT-ltT683pRx5WqX5kY_Aowg-kk8f013Al-dfJwpPDIgwdbXV6oVxmopGizZ_tFTftuui0aXBIn-Mgehp7U0PDM47TpWQfu3MGb42jAJ3GMCNH_2RkCWj-yxIOBtU1jrxDhaskWHwiY"
+    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".lbl.gov",
     "met5.lbl.gov"

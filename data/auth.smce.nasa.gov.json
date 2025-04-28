@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://auth.smce.nasa.gov/realms/master/protocol/openid-connect/auth?client_id=security-admin-console&redirect_uri=https%3A%2F%2Fauth.smce.nasa.gov%2Fadmin%2Fmaster%2Fconsole%2F&state=792e8443-7a03-40f4-a372-f7f09232cdb8&response_mode=query&response_type=code&scope=openid&nonce=235be749-3dd2-49a4-971d-832264aa60c6&code_challenge=ejj354yqcd0iN3buH2Ebp3YlP5Ehkxi6vUogA0PZjtI&code_challenge_method=S256",
+  "url": "https://auth.smce.nasa.gov/realms/master/protocol/openid-connect/auth?client_id=security-admin-console&redirect_uri=https%3A%2F%2Fauth.smce.nasa.gov%2Fadmin%2Fmaster%2Fconsole%2F&state=9dfc3030-d183-4a0e-b197-8180f7d98484&response_mode=query&response_type=code&scope=openid&nonce=8cb00f40-2d44-4903-b766-126ef80235c0&code_challenge=PJ-r4LLkwR2IhMzQNVLY6bSroBuAH2MUxuIiewFBy9E&code_challenge_method=S256",
   "domain": "auth.smce.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "72d10abf8e6f16971eae8f01e6616043",
-  "accessibility_violations": "{\"user-control-name\":1}",
+  "page_hash": "b141006c857d60c653ceeef3bfa0388a",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -53,6 +53,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".nasa.gov",
     "auth.smce.nasa.gov"
   ],
   "viewport_meta_tag": true,

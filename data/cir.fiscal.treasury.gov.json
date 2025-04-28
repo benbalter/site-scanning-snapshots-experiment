@@ -16,7 +16,7 @@
   "agency": "Department of the Treasury",
   "bureau": "Department of the Treasury - OCIO",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -59,6 +59,7 @@
   "third_party_service_count": 2,
   "cookie_domains": [
     ".cir.fiscal.treasury.gov",
+    ".treasury.gov",
     "www.cir.fiscal.treasury.gov"
   ],
   "viewport_meta_tag": true,

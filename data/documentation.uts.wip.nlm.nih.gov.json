@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3512c321476a6e97768685ed159f380e",
+  "page_hash": "d62193477509fe5ea6f02a80c37ea6cf",
   "accessibility_violations": null,
-  "pageviews": 122,
-  "visits": 38,
+  "pageviews": 105,
+  "visits": 37,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -85,12 +85,17 @@
     "https://www.nlm.nih.gov/home_assets/css/nlm_main.css",
     "https://www.nlm.nih.gov/home_assets/v5/css/nlm_main.css",
     "https://www.nlm.nih.gov/home_assets/v5/js/bootstrap.bundle.min.js",
+    "https://www.nlm.nih.gov/images/facebook.svg",
+    "https://www.nlm.nih.gov/images/linkedin.svg",
     "https://www.nlm.nih.gov/images/nlm_logo.png",
+    "https://www.nlm.nih.gov/images/twitter.svg",
+    "https://www.nlm.nih.gov/images/youtube.svg",
     "https://www.nlm.nih.gov/scripts/home.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    ".nlm.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

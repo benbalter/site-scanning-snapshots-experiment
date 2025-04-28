@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -35,7 +35,7 @@
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -58,7 +58,9 @@
     "https://search.usa.gov/javascripts/remote.loader.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",

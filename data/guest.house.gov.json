@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "2020_eot",
     "final_url_websites",
@@ -32,8 +32,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5ad860465d2e39938c373d65102c2f15",
-  "accessibility_violations": null,
+  "page_hash": "617157bb00ece31c4b4772ab8fe0d687",
+  "accessibility_violations": "{\"user-control-name\":1,\"aria\":7,\"contrast\":3,\"link-purpose\":12}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,31 +48,27 @@
   "dap_version": "",
   "ga_tag_id": "G-Y8XH3MQHE7,G-TN9342YTE2",
   "third_party_service_domains": [
-    "api.hcaptcha.com",
     "connect.facebook.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
-    "newassets.hcaptcha.com",
     "platform.twitter.com",
     "syndication.twitter.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://api.hcaptcha.com/checksiteconfig",
     "https://connect.facebook.net/en_US/sdk.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/nunito/v26/XRXV3I6Li01BKofINeaBTMnFcQ.woff2",
     "https://hcaptcha.com/1/api.js",
-    "https://newassets.hcaptcha.com/c/7e4aa90329fe7d457c69369bb6cbcb914f524f40b8c0720fb36b517a1da9d6e8/hsw.js",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".guest.house.gov",
     ".house.gov"

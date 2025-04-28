@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Medicare and Medicaid Services",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -72,7 +72,9 @@
     "https://test.idp.idm.cms.gov/api/v1/sessions/me"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cms.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

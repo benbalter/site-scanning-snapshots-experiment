@@ -16,7 +16,7 @@
   "agency": "Executive Office of the President",
   "bureau": "National Nanotechnology Coordination Office",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "gov",
     "pulse",
@@ -35,8 +35,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "ca2e0c0160bf24363f083f68b9b2dea5",
-  "accessibility_violations": "{\"link-purpose\":4}",
+  "page_hash": "9deb472e75823ed30567401225b25718",
+  "accessibility_violations": "{\"contrast\":10,\"link-purpose\":4}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -51,7 +51,6 @@
   "dap_version": "",
   "ga_tag_id": "G-W686LXQFQS",
   "third_party_service_domains": [
-    "analytics.google.com",
     "cdn-images.mailchimp.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -60,7 +59,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://cdn-images.mailchimp.com/embedcode/classic-061523.css",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
@@ -73,7 +71,7 @@
     "https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nano.gov"
   ],

@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "604b260b7a457f601cecbc9000e1a4a1",
-  "accessibility_violations": "{\"user-control-name\":1}",
+  "page_hash": "f89c781157e3fbab85cb20757b37fadc",
+  "accessibility_violations": "{\"aria\":1,\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -53,6 +53,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HBYXWFP794,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "d.la11-core2.sfdc-pu91w7.salesforceliveagent.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "gov1.siteintercept.qualtrics.com",
@@ -65,9 +66,17 @@
     "zn8bnv9kwmsfqph3w-cemgsa.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://d.la11-core2.sfdc-pu91w7.salesforceliveagent.com/chat/rest/Visitor/Settings.jsonp",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.faadef8bceb94e053f79.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.d3874cd52b47a77b4475.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b8b768ed34bc7505f919.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-shims.min.css",
     "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro.min.css",
@@ -90,7 +99,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://zn8bnv9kwmsfqph3w-cemgsa.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".gsa.gov",
     "buy.gsa.gov"
@@ -144,7 +153,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "9b8dacd554ff65da4feeb380f2ddbabe",
+  "sitemap_xml_page_hash": "1c9c26744374463531b1b889a88f17e0",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

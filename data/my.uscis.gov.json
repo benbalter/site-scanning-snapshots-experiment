@@ -16,7 +16,7 @@
   "agency": "Department of Homeland Security",
   "bureau": "USCIS",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "be1d77ff144c7cd56f8632716b03f261",
+  "page_hash": "eab93029fe0fd65aa1bbb47a359680b3",
   "accessibility_violations": "{\"aria\":1}",
-  "pageviews": 11579595,
-  "visits": 9432188,
+  "pageviews": 11398379,
+  "visits": 9212288,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -61,7 +61,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-12572986-2,G-CSLL4ZEK4L,G-GHG7XR2CMP,G-WENZ0N4TZX",
   "third_party_service_domains": [
-    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
     "gov1.siteintercept.qualtrics.com",
@@ -73,14 +72,13 @@
     "zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/75cfd1dfd9",
     "https://gov-bam.nr-data.net/events/1/75cfd1dfd9",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.7128e66c4069227926d7.chunk.js",
-    "https://js-agent.newrelic.com/nr-spa-1.286.0.min.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b8b768ed34bc7505f919.chunk.js",
+    "https://js-agent.newrelic.com/nr-spa-1.288.1.min.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
@@ -90,7 +88,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".uscis.gov",
     "my.uscis.gov"

@@ -23,16 +23,16 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "dns_resolution_error",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "938c574db1378aa388da15b26aece8d7",
-  "accessibility_violations": null,
+  "page_hash": "f43e9e41b8cd4a88fa47080fb6747d11",
+  "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -52,12 +52,14 @@
     "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.appdynamics.com/adrum-ext.396a4a3598e4fdd54b8073a93c951462.js",
     "https://cdn.appdynamics.com/adrum/adrum-4.5.15.2691.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
+    ".digitalspace.net",
     "hostingemail.digitalspace.net"
   ],
   "viewport_meta_tag": true,

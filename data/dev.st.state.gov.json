@@ -16,9 +16,10 @@
   "agency": "Department of State",
   "bureau": "Bureau of Global Public Affairs (GPA)",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
+    "final_url_websites",
     "cisa"
   ],
   "public": null,
@@ -49,9 +50,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".state.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

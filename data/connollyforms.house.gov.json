@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "cisa"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8ea645dfdbe94f932125e22b1ddf8166",
+  "page_hash": "2d27f6a80049e1c453b10bcfa6491dfa",
   "accessibility_violations": "{\"contrast\":6}",
   "pageviews": null,
   "visits": null,
@@ -54,7 +54,8 @@
   "third_party_service_count": 1,
   "cookie_domains": [
     ".connolly.house.gov",
-    ".house.gov"
+    ".house.gov",
+    "connolly.house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -62,6 +63,7 @@
     "spanish"
   ],
   "required_links_text": [
+    "foia",
     "privacy policy",
     "spanish"
   ],

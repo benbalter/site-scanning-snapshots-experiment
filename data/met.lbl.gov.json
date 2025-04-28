@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Lawrence Berkeley National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -49,21 +49,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "cdnjs.cloudflare.com",
-    "lh7-rt.googleusercontent.com"
+    "cdnjs.cloudflare.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdP4m2Sczpp46nzWvLml0h4KBGK6K6CEfPevddqwtKo4QNgo6YuCDLFcDwh3fxQEbmlt4tkmixzTKQEo24LeoxtAi1f0qX2bgqNgtScvvpwjYXJHAcN6pt1WLUg6kSncXH57kunxR5AxtB8uF6p",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQhRL89B8z56JI-UQ8lSAyoRRgbZiBix-SjqgWbFK_9wMwcX4j1TAS0ptaTyO9BlOd78Mq97_UUi5gqO0ar2ELsutR1CAzDrhKxosE5LTQAD8BPxXlA5ptrun5Dcjchxk-HOsrYl_AHHUgUBS0",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe33Aefi4yItUnuyPVjWg2qig64cGODCeUFJ7oHaKDZfjuLfSI0YfRe1p-y6nTUXGv-cRI56dU0oT50tnV156Xc1WQK5IBj4bwcLB0NCOawY_OtWG2KTfIlP-i9dzxuEkbhb-y1t_LvZaSoU6jX",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8QnMyAUiTuho5DHGNh4wziV9SZLEl1Q8pnpbWPBIX8jshgguDxqef-akfGtSR8WKVDfvk_0ArX5d_71B5fjw_JF187SQHw5PkgaAq8k_TO6AnbBoj1F9Wo_Ri_FPyPbB0_TRfRjfzDw7Qgt7K",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9k8BLlqAzSbEasQswTempELCg4C9MCIwvBuNgjppS-XU5Pwj2KrOoxiCOkOqGEzGd_K_1b0fDAb46TCklMnTgRkR7Q9ePN_UY6mLIn4ihip-lhrAMCnYUKJ4qZJ3Ad6vnptN_z-unUuc6dJA",
-    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXftcQ_H-R_X_PWv4kQzFR57DKW-5RZK1r47PO3ms9tppLUJdfz9ehV_YHRcQ2yG0Mt2MrTfrUyOJoEytHLFly--qbzWaxgCNueoMSuSqN8OM3wZyYLBkng5KxwN05mqJ4-7fbT10guXwCViajE"
+    "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".lbl.gov",
     "met.lbl.gov"

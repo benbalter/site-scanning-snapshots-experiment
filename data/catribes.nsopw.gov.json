@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Office of Justice Programs",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "624e26bbe9ef696c434c2528b8e37cf8",
   "accessibility_violations": "{\"contrast\":7,\"language\":1}",
-  "pageviews": 203,
-  "visits": 40,
+  "pageviews": 196,
+  "visits": 36,
   "ipv6": true,
   "hostname": "azurewebsites.net",
   "cms": null,
@@ -55,15 +55,17 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "ttsorsfiles.blob.core.windows.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://ttsorsfiles.blob.core.windows.net/offender/seal/CATRIBES-T.jpg",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".catribes.nsopw.gov",
     ".nsopw.gov",

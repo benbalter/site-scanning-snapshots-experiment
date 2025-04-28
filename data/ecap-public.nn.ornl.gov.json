@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Oak Ridge National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -57,9 +57,7 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    ".ornl.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

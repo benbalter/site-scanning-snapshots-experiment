@@ -16,7 +16,7 @@
   "agency": "United States Agency for Global Media",
   "bureau": "Broadcasting Board of Governors",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,8 +30,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "a1f3161ff0971897e200b79d6f0ee60f",
-  "accessibility_violations": "{\"link-purpose\":12}",
+  "page_hash": "e4dc338859cc38b8a8e4ea4f62a53281",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":9,\"link-purpose\":12}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,6 +46,7 @@
   "dap_version": "",
   "ga_tag_id": "G-GMMC9NXK69,UA-190558401-1,G-NNBS1FS2Z7",
   "third_party_service_domains": [
+    "17de4c10.akstat.io",
     "c.go-mpulse.net",
     "directcontent.imagencloud.com",
     "directoriginals.blob.core.windows.net",
@@ -56,6 +57,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c10.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://directcontent.imagencloud.com/storage/v1/file/0x060a2b340101010201010f12131f09b31f85c202700406808d63000D3A4F72E9",
     "https://directcontent.imagencloud.com/storage/v1/file/0x060a2b340101010201010f121322b011ba180c04700406802550000D3A4F72E9",
@@ -91,14 +93,14 @@
     "https://directoriginals.blob.core.windows.net/imagen-imagenweb-resources/0x060a2b340101010201010f1213fc8b5233bcc202700406802017000D3A4F72E9",
     "https://s.go-mpulse.net/boomerang/83MYJ-Q2HNW-U257U-L8JHE-CWWU9",
     "https://sscusagm.gov/b/ss/bbgrfedirect",
-    "bbgprod/1/JS-2.23.0/s15239914167490",
+    "bbgprod/1/JS-2.23.0/s67315144825853",
     "https://tags.tiqcdn.com/utag/bbg/affiliates-direct/dev/utag.3.js",
     "https://tags.tiqcdn.com/utag/bbg/affiliates-direct/dev/utag.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".usagm.gov",
     "direct.usagm.gov"

@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.smce.nasa.gov/realms/SMCE/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Foss.ocw.smce.nasa.gov%2Fhub%2Foauth_callback&client_id=ocw-oss&state=eyJzdGF0ZV9pZCI6ICI5NjRlNDE3OGViNTc0ZDExODE1ZWY5Zjc3NzMzMGVmZSIsICJuZXh0X3VybCI6ICIvaHViLyJ9&scope=openid+phone+profile+email",
+  "url": "https://auth.smce.nasa.gov/realms/SMCE/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Foss.ocw.smce.nasa.gov%2Fhub%2Foauth_callback&client_id=ocw-oss&state=eyJzdGF0ZV9pZCI6ICJlYjQ0ODM2YzU0NzU0MDAzODRlOTQyYjBlODY0MmYwMiIsICJuZXh0X3VybCI6ICIvaHViLyJ9&scope=openid+phone+profile+email",
   "domain": "auth.smce.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "cisa"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c175dae67e2f07c20ecc0eb3415653b7",
+  "page_hash": "8ed911c09c6680757b21c1159730b091",
   "accessibility_violations": "{\"contrast\":3}",
   "pageviews": null,
   "visits": null,

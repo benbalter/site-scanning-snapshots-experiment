@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "36b4c29207d4c84e9abdb083ff51a075",
+  "page_hash": "e4e130456bf195bf29fbf87f406b8214",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -40,7 +40,7 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
@@ -63,11 +63,16 @@
     ".nasa.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "privacy"
+  ],
+  "required_links_text": [
+    "privacy policy"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Index of /docs/software/ftools/fv",
+  "title": "fv FITS Viewer",
   "description": null,
   "keywords": null,
   "og_title": null,

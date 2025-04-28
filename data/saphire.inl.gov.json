@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Idaho National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -35,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "53804e3cb165bbaea1dc049d262a14f3",
-  "accessibility_violations": "{\"user-control-name\":5,\"contrast\":2,\"link-purpose\":5}",
+  "accessibility_violations": "{\"user-control-name\":2,\"contrast\":2,\"link-purpose\":5}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -59,7 +59,9 @@
     "https://saphireug-api.inl.gov/api/users/userInfo/null"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".inl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

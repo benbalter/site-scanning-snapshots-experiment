@@ -16,7 +16,7 @@
   "agency": "Department of Labor",
   "bureau": "Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6815aad72cd6e599f77396154df7e17c",
+  "page_hash": "cf21aa39d4b2dffcd3ab421305b1c23e",
   "accessibility_violations": null,
-  "pageviews": 102482,
-  "visits": 20346,
+  "pageviews": 100229,
+  "visits": 19920,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -65,15 +65,18 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
     ".dol.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "privacy"
+  ],
   "required_links_text": [
+    "accessibility",
     "inspector general"
   ],
   "https_enforced": true,

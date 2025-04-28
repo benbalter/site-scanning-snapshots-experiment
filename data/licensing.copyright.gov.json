@@ -16,11 +16,11 @@
   "agency": "Library of Congress",
   "bureau": "Library of Congress",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": null,
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "timeout",
@@ -28,8 +28,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8c32aa87265df84f23d4094c0a3c594e",
-  "accessibility_violations": null,
+  "page_hash": "540a86e2ec4bfd468a48ffc22374c070",
+  "accessibility_violations": "{\"contrast\":8,\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,6 +49,7 @@
     "cdn.loc.gov",
     "code.jquery.com",
     "search.usa.gov",
+    "smon.copyright.gov",
     "stackpath.bootstrapcdn.com"
   ],
   "third_party_service_urls": [
@@ -64,11 +65,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://smon.copyright.gov/b/ss/loccopyright/1/JS-2.25.0-LEWM/s41153737247310",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
     "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".copyright.gov"
   ],

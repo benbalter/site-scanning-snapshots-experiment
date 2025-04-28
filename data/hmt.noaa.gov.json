@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -58,7 +58,9 @@
     "https://fonts.googleapis.com/css"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

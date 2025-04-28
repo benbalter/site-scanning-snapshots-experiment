@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -66,7 +66,9 @@
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Medicare and Medicaid Services",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -25,7 +25,7 @@
   ],
   "public": false,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1ba2575eefdf2ff4642d24eeee189208",
-  "accessibility_violations": "{\"language\":1,\"lists\":1}",
+  "page_hash": "e7a66a131753a033fb3b7cf876a7852b",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -48,16 +48,9 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "gov-bam.nr-data.net",
-    "js-agent.newrelic.com"
-  ],
-  "third_party_service_urls": [
-    "https://gov-bam.nr-data.net/1/75c8eb9ade",
-    "https://gov-bam.nr-data.net/resources/1/75c8eb9ade",
-    "https://js-agent.newrelic.com/nr-1216.min.js"
-  ],
-  "third_party_service_count": 2,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     "mbescbesdev.medicaid.gov"
   ],

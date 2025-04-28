@@ -16,13 +16,13 @@
   "agency": "Library of Congress",
   "bureau": "Library of Congress",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "gov"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,8 +30,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "502c7eb6730db402ad189cae8ac17d4f",
-  "accessibility_violations": "{\"lists\":2,\"form-names\":2}",
+  "page_hash": "bd8a48caeada5e32381d66177343a10f",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -60,7 +60,7 @@
     "https://assets.adobedtm.com/f94f5647937d/53b92aa882be/b1086c19fe36/EX784e89a9b8f343cd97740cbe35969cbd-libraryCode_source.min.js",
     "https://assets.adobedtm.com/f94f5647937d/53b92aa882be/launch-7c3c843ec308.min.js",
     "https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer",
-    "https://blogs.loc.gov/law/files/2025/03/congressdotgov-crs-report-e1741302918232.jpg",
+    "https://blogs.loc.gov/law/files/2025/04/Filter-CRS-Product-Search-Results-by-Topic.png",
     "https://cdn-na.readspeaker.com/script/6927/webReader/r/r2728/ReadSpeaker.Styles-Button.css",
     "https://cdn-na.readspeaker.com/script/6927/webReader/webReader.js",
     "https://cdn.arcgis.com/sharing/rest/content/items/63c47b7177f946b49902c24129b87252/resources/sprites/sprite.json",
@@ -99,10 +99,10 @@
     "https://js.arcgis.com/4.31/esri/widgets/Zoom/t9n/Zoom_en.json",
     "https://js.arcgis.com/4.31/esri/widgets/support/components/assets/button/t9n/messages_en.json",
     "https://js.arcgis.com/4.31/init.js",
-    "https://smon.congress.gov/b/ss/loclegislative/1/JS-2.5.0-LDQM/s33774165505974",
+    "https://smon.congress.gov/b/ss/loclegislative/1/JS-2.5.0-LDQM/s75460594647590",
     "https://www.arcgis.com/sharing/rest/portals/self",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [

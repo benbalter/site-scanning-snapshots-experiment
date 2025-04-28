@@ -16,7 +16,7 @@
   "agency": "Department of the Treasury",
   "bureau": "Bureau of the Fiscal Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -49,15 +49,13 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "fonts.googleapis.com",
-    "stackpath.bootstrapcdn.com",
-    "www.usaspending.gov"
+    "stackpath.bootstrapcdn.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
-    "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css",
-    "https://www.usaspending.gov/img/favicon.ico"
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     "servicedesk.usaspending.gov"
   ],

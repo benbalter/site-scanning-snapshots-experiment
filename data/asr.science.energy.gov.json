@@ -25,16 +25,16 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
-  "www_scan_status": "timeout",
-  "page_hash": "c38b4bda625754c8b93bfa33ad5e9b66",
-  "accessibility_violations": null,
+  "www_scan_status": "completed",
+  "page_hash": "e437218e41b63fe03711a730005f04fa",
+  "accessibility_violations": "{\"language\":1,\"images\":3,\"link-purpose\":8}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -59,8 +59,8 @@
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOnlU-7cpgBoAJHb/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -120,7 +120,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.asr.science.energy.gov",
+  "www_status_code": 200,
+  "www_title": "ASR - Atmospheric System Research"
 }

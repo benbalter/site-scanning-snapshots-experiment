@@ -1,12 +1,12 @@
 {
-  "name": "tele.fnal.gov",
+  "name": "pingprod.fnal.gov",
   "initial_url": "https://www-tele.fnal.gov",
   "initial_domain": "www-tele.fnal.gov",
   "initial_base_domain": "fnal.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://tele.fnal.gov/cgi-bin/telephone.script",
-  "domain": "tele.fnal.gov",
+  "url": "https://pingprod.fnal.gov/idp/SSO.saml2?SAMLRequest=hZJdT8IwFIb%2FytL7fQIKDVsyNkhIUAlTL7wxzThAk66tPR3qv7cbUTAxeNXk9Lw9z9N2iqwRmuatPcgNvLWA1vtohETab6SkNZIqhhypZA0gtTWt8rsVTYKIaqOsqpUgF5HrCYYIxnIlibcsU%2FIa34wHk7KYjZP5pLidLMZRPM%2BLuBzMink5jCPiPYNB158SF3chxBaWEi2T1pWiZORHQz8ZPcYJTRI6GL4Qr3QOXDLbpw7WaqRhqLncO9xtsJNMBHt1DPlWh1X1EHTQCfEKJRG6Q6%2Fh16cmWrfGuNXnjRa85pZ4C2Vq6G8xJTsmEDrWtdPlR%2Fip5N%2F23bC2AVOBOfIanjarM6kFAWfKBoRQMtQK7QZQd%2FNJNu2YaX8XJvszNw0vW6anR753PstyrRzyZwfcsH90uwrf%2Bru%2BlVrDJHKn7UQc1HthgFknZ00LJMxOI39%2FpewL&RelayState=https%3A%2F%2Ftele.fnal.gov%2Fcgi-bin%2Ftelephone.script&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=mqA21VSkYFncA03MyqiyyAC2IIV6Jgk30Wi%2BdACUON9SHu4Vqt0evcm%2B451bW4Po1OCqWBGEGlXpc5FnYsQKUpHJSd%2FFhkhdNrenHy1IZGx8AugZKa5l9TS1kOZO4Yb6rbfc%2FsJhSOfTh%2BFrU6%2BHkxrJGp1uSqfoz78lTmNERIzO02w5jQ%2FzqpIytzIsR6xShAGLpbHgObbGFZvEmptkeFyf7BdxNNLAD4faW4%2BRRAwTevHjpbf563kAu5YeK1kFtI4U2KoVioXBiP6KA%2FA6GOOLk7N6U4fjgkTgtlB28AKclHnAFvi%2FiTOeGfdcHYiBBUos1jM0HWFN0t6mTWx%2Bbg%3D%3D",
+  "domain": "pingprod.fnal.gov",
   "base_domain": "fnal.gov",
   "top_level_domain": "gov",
   "live": true,
@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Fermi National Accelerator Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f5d500eff88cf14f9f7412198435db97",
+  "page_hash": "bad573307bc3a82124d6c4a5943b75cd",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -40,31 +40,25 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": true,
+  "site_search": false,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-HD524RDNJD",
-  "third_party_service_domains": [
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
-  ],
-  "third_party_service_count": 1,
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
-    ".fnal.gov"
+    ".fnal.gov",
+    "pingprod.fnal.gov"
   ],
-  "viewport_meta_tag": true,
-  "required_links_url": [
-    "about"
-  ],
+  "viewport_meta_tag": false,
+  "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Fermilab | Telephone Directory",
+  "title": "Multiple Sign-On Delay",
   "description": null,
   "keywords": null,
   "og_title": null,

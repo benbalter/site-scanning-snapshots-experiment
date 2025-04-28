@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "omb_idea",
     "other",
@@ -85,7 +85,9 @@
     "https://www.arcgis.com/sharing/rest/portals/self"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".army.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

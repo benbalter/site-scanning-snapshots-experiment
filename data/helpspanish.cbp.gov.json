@@ -16,7 +16,7 @@
   "agency": "Department of Homeland Security",
   "bureau": "U.S. Customs and Border Protection",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,11 +35,11 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "d3651904ad153ea2b29be37ad319c4e1",
+  "www_scan_status": "timeout",
+  "page_hash": "9e62646416dac3bcb8eedf53c7b52b27",
   "accessibility_violations": null,
-  "pageviews": 35587,
-  "visits": 34518,
+  "pageviews": 39483,
+  "visits": 38532,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -55,7 +55,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-9DAC4,G-CSLL4ZEK4L,G-BQWG01TFJ8,G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -67,7 +66,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
@@ -80,7 +78,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".cbp.gov",
     ".helpspanish.cbp.gov",
@@ -149,7 +147,7 @@
   "uswds_semantic_version": "v2.8.0",
   "uswds_version": 100,
   "uswds_count": 200,
-  "www_url": "https://www.helpspanish.cbp.gov/s/?language=es",
-  "www_status_code": 200,
-  "www_title": "Home"
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

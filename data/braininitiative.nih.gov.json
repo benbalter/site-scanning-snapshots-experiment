@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,11 +35,11 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
-  "page_hash": "257694a934c923d693de81aebefc95b8",
+  "www_scan_status": "completed",
+  "page_hash": "5f40829f6fd9d06b562eaa17d9894fbb",
   "accessibility_violations": null,
-  "pageviews": 32916,
-  "visits": 15647,
+  "pageviews": 31199,
+  "visits": 14946,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -52,8 +52,9 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-43bQEHewBx6d5aB",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1",
   "third_party_service_domains": [
+    "csp.withgoogle.com",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "script.crazyegg.com",
@@ -63,6 +64,7 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
@@ -80,10 +82,10 @@
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJCsN5gUMmHbpLEb/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJCsN5gUMmHbpLEb/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -128,9 +130,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 9033,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-08T13:05:45.000Z",
+  "sitemap_xml_lastmod": "2025-04-24T18:32:18.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "2b74ec525b2aab82cb841ae56ba10edb",
+  "sitemap_xml_page_hash": "f9046417882e7f3e35eff43e1937a05f",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -151,7 +153,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 40,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.braininitiative.nih.gov",
+  "www_status_code": 200,
+  "www_title": "Home | BRAIN Initiative"
 }

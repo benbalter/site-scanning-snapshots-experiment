@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,8 +35,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "bb63106cdd04486adae97ed7667f8bc3",
   "accessibility_violations": null,
-  "pageviews": 268067,
-  "visits": 71848,
+  "pageviews": 604,
+  "visits": 395,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -51,7 +51,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

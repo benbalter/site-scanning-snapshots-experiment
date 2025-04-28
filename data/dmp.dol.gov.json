@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4ceffe05832e066e318b076e5f53eea7",
+  "page_hash": "16567c681787db9803722c4417aeacfe",
   "accessibility_violations": null,
-  "pageviews": 20092,
-  "visits": 20006,
+  "pageviews": 21999,
+  "visits": 21190,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -66,15 +66,20 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
     ".dol.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "inspector general"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "Terms of Use",

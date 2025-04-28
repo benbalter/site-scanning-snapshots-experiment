@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Office of the National Coordinator, Office of the Secretary",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -51,6 +51,7 @@
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -60,9 +61,10 @@
     "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.3/umd/popper.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".healthit.gov"
   ],

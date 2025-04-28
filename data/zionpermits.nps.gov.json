@@ -1,12 +1,12 @@
 {
-  "name": "home.nps.gov",
+  "name": "nps.gov",
   "initial_url": "https://zionpermits.nps.gov",
   "initial_domain": "zionpermits.nps.gov",
   "initial_base_domain": "nps.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://home.nps.gov/zion/planyourvisit/permitsandreservations.htm/index.htm",
-  "domain": "home.nps.gov",
+  "url": "https://www.nps.gov/zion/planyourvisit/permitsandreservations.htm/index.htm",
+  "domain": "www.nps.gov",
   "base_domain": "nps.gov",
   "top_level_domain": "gov",
   "live": true,
@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "National Park Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "79a7a05ca5b10348069990a3450b4a69",
+  "page_hash": "4305cdecae35985ba76a4da12c763c75",
   "accessibility_violations": "{\"aria\":3,\"user-control-name\":3}",
   "pageviews": null,
   "visits": null,
@@ -58,18 +58,19 @@
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "touchpoints.app.cloud.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMR7eS2Ao.woff2",
+    "https://touchpoints.app.cloud.gov/assets/us_flag_small-9c507b1ff21f65c4b8f0c45d0e0d0a10bb5c9864c1a76e07aa3293da574968a1.png",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
-    ".nps.gov",
-    "home.nps.gov"
+    ".nps.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -127,15 +128,22 @@
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
-  "uswds_usa_class_list": null,
+  "uswds_usa_class_list": [
+    "usa-banner",
+    "usa-button",
+    "usa-fieldset",
+    "usa-label",
+    "usa-sr-only",
+    "usa-textarea"
+  ],
   "uswds_banner_heres_how": false,
   "uswds_banner_heres_how-2": false,
-  "uswds_usa_classes": 0,
+  "uswds_usa_classes": 25,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v2.1.0",
   "uswds_version": 100,
-  "uswds_count": 120,
+  "uswds_count": 145,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

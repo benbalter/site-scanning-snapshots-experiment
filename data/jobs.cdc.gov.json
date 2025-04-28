@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Disease Control and Prevention",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -32,15 +32,15 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e1bfb269e792247f3f56738ce2732a14",
+  "page_hash": "d9555f5d1d992f07cfa6e55ae316dc9d",
   "accessibility_violations": "{\"frames-iframes\":1}",
-  "pageviews": 62964,
-  "visits": 24899,
+  "pageviews": 60057,
+  "visits": 24276,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -54,7 +54,7 @@
     "amp;subagency": "CDC"
   },
   "dap_version": "20240925 v8.3 - GA4",
-  "ga_tag_id": "G-ArjZzxr3L2QmJa9,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-trIJEhKpQyGuBgo,G-nADQBEArZ1PD5L2,G-4VlXQJ5PBVLeERi,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdc.112.2o7.net",
     "fonts.gstatic.com",
@@ -70,7 +70,7 @@
     "yt3.ggpht.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s83829625071264",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.26.0-LEWM/s46959592772417",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://i.ytimg.com/vi/0ZB6Mdzh6ak/default.jpg",
@@ -101,19 +101,18 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube-nocookie.com/generate_204",
-    "https://www.youtube-nocookie.com/s/player/9a279502/player_ias.vflset/en_US/base.js",
-    "https://www.youtube-nocookie.com/s/player/9a279502/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube-nocookie.com/s/player/9a279502/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube-nocookie.com/s/player/9a279502/www-embed-player-cc.vflset/www-embed-player-cc.js",
-    "https://www.youtube-nocookie.com/s/player/9a279502/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube-nocookie.com/s/player/9a279502/www-player.css",
+    "https://www.youtube-nocookie.com/s/player/22f02d3d/player_ias.vflset/en_US/base.js",
+    "https://www.youtube-nocookie.com/s/player/22f02d3d/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube-nocookie.com/s/player/22f02d3d/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube-nocookie.com/s/player/22f02d3d/wasm/lib.wasm",
+    "https://www.youtube-nocookie.com/s/player/22f02d3d/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube-nocookie.com/s/player/22f02d3d/www-player.css",
     "https://www.youtube-nocookie.com/youtubei/v1/log_event",
     "https://yt3.ggpht.com/R9PJB3tDxvsHEzZ4DDWslsM9YJvFZGiFkxYUNOtGkmppNQVhYe6wdO1-jASR0IrksD81zYcIWBQ=s68-c-k-c0x00ffffff-no-rj"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
-    ".cdc.gov",
-    "jobs.cdc.gov"
+    ".cdc.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

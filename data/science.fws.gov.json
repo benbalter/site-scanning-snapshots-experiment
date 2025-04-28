@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Fish and Wildlife Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,11 +31,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3d1ed6c42ec229d754c3087b640c91c8",
-  "accessibility_violations": "{\"user-control-name\":2}",
+  "page_hash": "5f8ac7009b05a0e9fb52b5eb95e0ff30",
+  "accessibility_violations": "{\"user-control-name\":2,\"contrast\":3}",
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -50,7 +50,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-zXOvA,G-WY5j,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -60,7 +59,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -76,7 +74,7 @@
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".fws.gov",
     ".www.fws.gov"

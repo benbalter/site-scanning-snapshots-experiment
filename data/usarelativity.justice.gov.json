@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Department of Justice",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -52,6 +52,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".justice.gov",
     "usarelativity.justice.gov"
   ],
   "viewport_meta_tag": false,

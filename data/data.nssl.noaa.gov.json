@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8f3953650f189ba484f2be4e999724f8",
+  "page_hash": "d9c97b705ea3bb66c11a0e49ae59b47c",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 105,
+  "visits": 16,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -45,21 +45,49 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA",
+    "sitetopic": "weather",
+    "exts": "kmz,json,csv",
+    "yt": "true",
+    "sdor": "nssl.noaa.gov",
+    "dclink": "true",
+    "enhlink": "true"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-F4V85WDKFZ,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "www.nssl.noaa.gov"
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com",
+    "www.nssl.noaa.gov",
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://www.nssl.noaa.gov/img/noaa_notext.svg"
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.nssl.noaa.gov/img/noaa-emblem-wt-rgb-2022.svg",
+    "https://www.nssl.noaa.gov/img/noaa-logo-rgb-2022.svg",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 1,
-  "cookie_domains": null,
+  "third_party_service_count": 4,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "TDS Catalog",

@@ -16,7 +16,7 @@
   "agency": "Department of Homeland Security",
   "bureau": "USCIS",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "final_url_websites",
@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "22c8e82a9f93434862d72e4611ac6aae",
+  "page_hash": "c82f3d4357f2b186413385cf62fa0c74",
   "accessibility_violations": null,
-  "pageviews": 9950,
-  "visits": 4576,
+  "pageviews": 9699,
+  "visits": 4399,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -52,6 +52,7 @@
   "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api.uscis.gov",
+    "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
     "touchpoints.app.cloud.gov",
@@ -62,6 +63,7 @@
   "third_party_service_urls": [
     "https://api.uscis.gov/xanalytics/matomo.php",
     "https://api.uscis.gov/xanalytics/plugins/HeatmapSessionRecording/configs.php",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
@@ -73,7 +75,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".developer.uscis.gov",
     ".uscis.gov",
@@ -163,12 +165,12 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,
-  "uswds_usa_classes": 55,
+  "uswds_usa_classes": 60,
   "uswds_string": 43,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 138,
+  "uswds_count": 143,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

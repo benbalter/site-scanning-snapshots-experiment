@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Office of Justice Programs",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "final_url_websites",
@@ -34,8 +34,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "3b4510a1bfe4dd65eab8e611a4807663",
   "accessibility_violations": null,
-  "pageviews": 2862,
-  "visits": 6743,
+  "pageviews": 20,
+  "visits": 19,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,8 +57,8 @@
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
     "https://bjs.ojp.gov/themes/custom/ojp/assets/dist/img/close-white.svg",
     "https://charts.ojp.usdoj.gov/sidecar/scripts.js",
-    "https://charts.ojp.usdoj.gov/vizql/t/public/w/FJSP-Home/v/Home/bootstrapSession/sessions/10CF04941AC34DADAF8803BA5829DCD3-1:1",
-    "https://charts.ojp.usdoj.gov/vizql/t/public/w/FJSP-Home/v/Home/startSession/viewing",
+    "https://charts.ojp.usdoj.gov/vizql/t/public/w/FJSP-Home/v/Home/bootstrapSession/sessions/CED290183BAD48AC9986A22BE9B9892D-1:2",
+    "https://charts.ojp.usdoj.gov/vizql/t/public/w/FJSP-Home/v/Home/startSession/sessions/1BB39E4EF30C4A31825E443D3A365B53-1:2/viewing",
     "https://charts.ojp.usdoj.gov/vizql/v_202422412131118/css/vqlweb.css",
     "https://charts.ojp.usdoj.gov/vizql/v_202422412131118/javascripts/PreBootstrap.min.js",
     "https://charts.ojp.usdoj.gov/vizql/v_202422412131118/javascripts/ViewerBootstrap.js",
@@ -73,6 +73,7 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".ojp.gov",
     "fccps.bjs.ojp.gov"
   ],
   "viewport_meta_tag": true,

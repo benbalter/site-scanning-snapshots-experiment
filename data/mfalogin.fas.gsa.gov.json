@@ -16,7 +16,7 @@
   "agency": "General Services Administration",
   "bureau": "GSA, IDI, ECAS II",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -56,7 +56,7 @@
   ],
   "third_party_service_urls": [
     "https://global.oktacdn.com/okta-auth-js/7.7.0/okta-auth-js.polyfill.js",
-    "https://login.okta.com/lib/discoveryIframe-d1950dc7d0436ebba78f.min.js",
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://ok5static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
     "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.1/css/okta-sign-in.min.css",
     "https://ok5static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.1/img/ui/forms/checkbox-sign-in-widget.png",
@@ -69,7 +69,6 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".gsa.gov",
     "mfalogin.fas.gsa.gov"
   ],
   "viewport_meta_tag": true,

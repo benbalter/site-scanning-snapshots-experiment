@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "2020_eot",
     "final_url_websites",
@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5584dbbf13d81269470a4e0e2e76e881",
+  "page_hash": "8da952496006ea496aa44b94c94d19c3",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,17 +49,20 @@
   "ga_tag_id": "G-FLFYH5GQ0X",
   "third_party_service_domains": [
     "a.basemaps.cartocdn.com",
+    "api.hcaptcha.com",
     "b.basemaps.cartocdn.com",
     "c.basemaps.cartocdn.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kml.house.gov",
+    "newassets.hcaptcha.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://a.basemaps.cartocdn.com/light_all/6/19/23.png",
     "https://a.basemaps.cartocdn.com/light_all/6/20/22.png",
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://b.basemaps.cartocdn.com/light_all/6/18/22.png",
     "https://b.basemaps.cartocdn.com/light_all/6/20/23.png",
     "https://b.basemaps.cartocdn.com/light_all/6/21/22.png",
@@ -70,12 +73,14 @@
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/ME-2/shape.kml",
+    "https://newassets.hcaptcha.com/c/342711ff34c338d323ab986ce8b82354fd18a9ca118ef5916eeab43fbdb1ab36/hsw.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
-    ".golden.house.gov"
+    ".golden.house.gov",
+    ".house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

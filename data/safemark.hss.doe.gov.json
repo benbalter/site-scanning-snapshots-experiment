@@ -22,15 +22,15 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "empty_response",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "empty_response",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9c91bf567c182055ef8455acec4bb959",
+  "page_hash": "661d3e71b0e572a60062aed5b6d2c54c",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,7 +50,6 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
-    "csp.withgoogle.com",
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "s.clarity.ms",
@@ -64,7 +63,6 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
-    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://s.clarity.ms/collect",
@@ -78,10 +76,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/hbAq-YhJxOlTnqb9r_mc_r5R/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".energy.gov"
   ],

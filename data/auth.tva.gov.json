@@ -16,7 +16,7 @@
   "agency": "Tennessee Valley Authority",
   "bureau": "TVA IT",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "041e7bdc3719d6865a2bdc81c5dbe3f9",
-  "accessibility_violations": "{\"auto-updating\":1}",
+  "page_hash": "cf23f4f6a523e92bc2abc6e54ab5a930",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,21 +46,23 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-EYYEuvJI2gsvPRF,G-8z9U3f,G-spsfX,G-tMUsLLa26O0hsw2,G-ML2q,G-sOTdzGdTRb0bTnE",
+  "ga_tag_id": "G-zuFyp,G-KGKmXeX,G-xl4bY,G-q5XFs1PjWzam0xK,G-sJi0yVHy9I4YyJY,G-jlqe4ed,G-9mAUWpPiVjQycZu,G-4cUUwR6ADI,G-iJacV,G-FJW9QcJZ4RbO52q,G-Ruhf27RAJDj2Eaf",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9322d1f10921ef10/1744965235598/cuLDUjHtGVigmk9",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1984157306:1744964409:M8jg6VdpnKlR8EelAdBQZaUvy4Lns0VCZhK4oJ4MgsI/9322d1f10921ef10/bX4w7UT9VfkPtQvtBaqpgq7zEuTGPgdm_kEseLQa2G8-1744965235-1.1.1.1-cPMvagTw7wwLOZKWkQ.AOB7sukQ5xWoxLRqm1jC72Smx4il5qnaeqipTjr6du6qn",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/935bc649f9fa0024/1745562446618/WYlL_o7keXyvkms",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/445520474:1745558635:ZnkKYJgH4MP-AS83zXQC8oY8p0EZE4IU6jtvAR3PLxk/935bc649f9fa0024/QCnl1r2zj3BkG33il0anOIFZ3_sLGAIxVHuy6wGSJyQ-1745562446-1.1.1.1-fFTw_5g2qe4aimBo_Sm8WP6JDAwpMwSo8hnLm8kH0xZ4j8b3bbi7HqDO0OACXzJK",
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9322d1f10921ef10/1744965235596/3fa3e228cf77fde0f9fd0abf71f3627b4b18b573ff58c3afea08cbf77597a244/KscqnvT9MZCHpzg",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/935bc649f9fa0024/1745562446620/715f4d82af21e36bc750ee36301f5a32a036d609aef5dd9da98b31939f753c77/nb6ushY6SvvJkEh",
     "https://challenges.cloudflare.com/turnstile/v0/g/44e6f86df4dc/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".tva.com"
+    ".tva.com",
+    ".www.tva.com",
+    "www.tva.com"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,

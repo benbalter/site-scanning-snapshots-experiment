@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "US Department of Energy, Office of the CIO",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cc492bc3698f943f7e1736d0537b6017",
+  "page_hash": "58141dc6ff0cc717d216784a2f35f7aa",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
-  "pageviews": 826618,
-  "visits": 44053,
+  "pageviews": 171996,
+  "visits": 41642,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -53,8 +53,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VEJ5DJ7LND,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "c.bing.com",
-    "c.clarity.ms",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "s.clarity.ms",
@@ -62,8 +60,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://c.bing.com/c.gif",
-    "https://c.clarity.ms/c.gif",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -73,7 +69,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".energy.gov"
   ],

@@ -5,7 +5,7 @@
   "initial_base_domain": "ornl.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://nancy.ornl.gov/#self-assessment",
+  "url": "https://nancy.ornl.gov/",
   "domain": "nancy.ornl.gov",
   "base_domain": "ornl.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Oak Ridge National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5712573739bf3f0e8eeb1a0441715a3e",
-  "accessibility_violations": "{\"contrast\":3}",
+  "page_hash": "17a549b9b7fe5f948181fffd242d8856",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -47,30 +47,27 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "6024880.global.siteimproveanalytics.io",
-    "cdn.jsdelivr.net",
-    "siteimproveanalytics.com"
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://6024880.global.siteimproveanalytics.io/image.aspx",
-    "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css",
-    "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js",
-    "https://siteimproveanalytics.com/js/siteanalyze_6024880.js"
+    "https://fonts.googleapis.com/css2",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
+    ".nancy.ornl.gov",
     ".ornl.gov",
     "nancy.ornl.gov"
   ],
-  "viewport_meta_tag": true,
-  "required_links_url": [
-    "privacy"
-  ],
+  "viewport_meta_tag": false,
+  "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
   "title": "National Assessment Nuclear Cybersecurity (NANCY) Tool",
-  "description": null,
+  "description": "Webpage description goes here",
   "keywords": null,
   "og_title": null,
   "og_description": null,

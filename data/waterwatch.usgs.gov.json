@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fc9362bb29a07977506c3644542f67c4",
+  "page_hash": "b0f29ef99b64b8f5da3ab20d609664ab",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 155235,
-  "visits": 86472,
+  "pageviews": 162820,
+  "visits": 92337,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -64,18 +64,21 @@
   "ga_tag_id": "G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-CSLL4ZEK4L,G-Q3BG15MFSR",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/753b1819/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".usgs.gov"
   ],

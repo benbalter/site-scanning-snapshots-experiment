@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Argonne National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "720143cc8ee0cfd92583a4fda2b7e14d",
+  "page_hash": "97152aeb82fd938da40214bc33f51a49",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -99,10 +99,11 @@
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "privacy"
+    "about",
+    "privacy",
+    "/es"
   ],
   "required_links_text": [
-    "about us",
     "accessibility",
     "vulnerability disclosure"
   ],

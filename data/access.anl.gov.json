@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5053cdd62dbc3c903e2a79988c063af7",
-  "accessibility_violations": "{\"aria\":2,\"link-purpose\":2}",
+  "page_hash": "2bbd69242cfa55b07b21650cf3b4dda1",
+  "accessibility_violations": "{\"aria\":4,\"link-purpose\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -45,7 +45,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-M9BCZNFFEW,UA-18847572-8",
+  "ga_tag_id": "G-1oAS7pIa,G-M9BCZNFFEW,UA-18847572-8",
   "third_party_service_domains": [
     "85888.global.siteimproveanalytics.io",
     "buttons-config.sharethis.com",
@@ -88,7 +88,8 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 12,
   "cookie_domains": [
@@ -97,19 +98,19 @@
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "privacy"
+    "privacy",
+    "/es"
   ],
   "required_links_text": [
-    "about us",
     "accessibility",
     "vulnerability disclosure"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Argonne Collaborative Center for Energy Storage Science | Argonne National Laboratory",
+  "title": "Energy Storage | Argonne National Laboratory",
   "description": null,
   "keywords": null,
-  "og_title": "Argonne Collaborative Center for Energy Storage Science",
+  "og_title": "Energy Storage",
   "og_description": "Composed of scientists and engineers across Argonne, ACCESS aims to tackle complex energy storage challenges through multidisciplinary research.",
   "og_article_published": null,
   "og_article_modified": null,

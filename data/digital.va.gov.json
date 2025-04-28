@@ -16,7 +16,7 @@
   "agency": "Department of Veterans Affairs",
   "bureau": "Office of Information and Technology, IT Operations and Services (ITOPS)",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "omb_idea",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4626bce61fc174c34931f4b53fffda07",
+  "page_hash": "627cabb49a7902bafa0814b087ede5c2",
   "accessibility_violations": "{\"contrast\":1}",
-  "pageviews": 131598,
-  "visits": 89032,
+  "pageviews": 130862,
+  "visits": 89057,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -54,7 +54,7 @@
     "pga4": "G-DFN0H6SPPL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-GsGeRSvRSdGRL1W,G-SM4MF0MBSBswkeF,G-2AwLjoGVSry2giW,G-3BdA,G-RwUiuMb,G-LBsXMxn9cVB9M,G-cREWeF1MZui,G-RFMCxJJfHxj7NVR,G-ARsPBEFuG6aFQ3,G-JwEaaB0SdS8uTMw,G-q8R1siWS1MSQS1S,G-ahgg8MNavg,G-GusSrG,G-jSmc86IZunShS8M,G-jRxSYqNiSLdXNvR,G-G8jECSiSQLs,G-ausSjwrwuiSmG,G-ZfASBJUWSNSHGQT,G-iuxQsS81BWSbTEI,G-MsdbrL8WG4iWjJa,G-wSoSvL1eBTdCT8G,G-wRNddTeM1vAeSke,G-MSaSPSAqB7dWSR6,G-g0MBW1xMpGcqSRS,G-iSnm,G-jueSWSu4RJoh0ar,G-eEKgZSnSuiuWGRN,G-t82xj3,G-iSnSHEnZu,G-wSJ4KEBE,G-wRm0HLeBs,G-Gt2AaomSQSBJdLS,G-c6LSs2ViRPhtNP9,G-Jaj1yuOBkwSbSwa,G-6nwWwZnw1pdaQDv,G-iSDM13iP0uLSbXc,G-3oLCc,G-pWHLS2S8yDgR2Uu",
+  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "api.parsely.com",
     "cdn.parsely.com",
@@ -71,10 +71,8 @@
     "https://api.parsely.com/v2/profile",
     "https://cdn.parsely.com/keys/digital.va.gov/p.js",
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9322d27118dfa509/1744965256063/WT_HSAyrrOOQVDD",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/2036206623:1744964377:Iumalsk4pwC84w1bXKHDdQuTv79wJzt6_bF-FgAhv5A/9322d27118dfa509/tOr7E6dSVKqqe5mJvSgkQv7aYr4_XjmqG30sYqPH_EY-1744965255-1.1.1.1-.QfSd.NYD90cxXOAN0LgNPV4v11qTvIJWh2DMBf2uTHPuFzr.CmlHGm8KORt.Ka4",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1714700722:1745558692:ko9hcxNRRStBOx6WfAZNRn_0RBvutw1M3bsGQZuszlI/935bc7375dcdef20/Yfjr.zWklpI9IfPWJfGHsqAZ6h2I8ILBukH3Oly348c-1745562484-1.1.1.1-1X9RmgF4uvLjKHdpNqxJEsfh864vtoqugSnX8tOJ4h.W40Yg6YyuDoN8iR9uSMtu",
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9322d27118dfa509/1744965256065/9718f944f3140ade3a87d3fe71c28e7bcd8835af035183607e7eb9d92b9ba0a1/IQSqvHCn3A0mBO4",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
     "https://challenges.cloudflare.com/turnstile/v0/g/44e6f86df4dc/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -92,7 +90,8 @@
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".va.gov"
+    ".va.gov",
+    "digital.va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

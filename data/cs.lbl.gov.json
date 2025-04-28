@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Lawrence Berkeley National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "a21625b470924a2fc97d55c7f763e65c",
+  "page_hash": "2c00cea259895e2a38b3be26866a6b99",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,6 @@
   "third_party_service_domains": [
     "cdn.lbl.gov",
     "p.typekit.net",
-    "unpkg.com",
     "use.typekit.net",
     "www.googletagmanager.com"
   ],
@@ -78,10 +77,6 @@
     "https://cdn.lbl.gov/stable/3/css/global.css",
     "https://cdn.lbl.gov/stable/3/js/lblFullComponents.js",
     "https://p.typekit.net/p.css",
-    "https://unpkg.com/@popperjs/core@2",
-    "https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.min.js",
-    "https://unpkg.com/tippy.js@6",
-    "https://unpkg.com/tippy.js@6.3.7/dist/tippy-bundle.umd.min.js",
     "https://use.typekit.net/af/2e6f07/000000000000000000011ce6/27/l",
     "https://use.typekit.net/af/801a74/000000000000000000012126/27/l",
     "https://use.typekit.net/af/9cb78a/0000000000000000000118ad/27/l",
@@ -89,7 +84,7 @@
     "https://use.typekit.net/evi6dpc.css",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".lbl.gov",
     "cs.lbl.gov"

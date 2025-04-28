@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZFPb4MwDMW%2FCsodEmgKnVWQWHtYpU5Dhe2wy5SmoWWChMWh28df%2F2xae6m0o%2BX3nu2fpyi6tod8cDu9Uh%2BDQud9da1GODVSMlgNRmCDoEWnEJyEMn9cQhQw6K1xRpqWeDmisq4xemY0Dp2ypbL7Rqrn1TIlO%2Bd6BEr3vfa3n%2BE6eO%2FbQAsUwdbsgfMRPSZGjJYFzWcl8eaHLRotjnl%2FbkQzunJSsamRtkiJt5in5I3XEeNJLOV6o5JRPY6jkIeTOJRJPKkl4wcZ4qAWGp3QLiURi8Y%2B4344qcI7YAmM716JV%2FzcdN%2FoTaO3twGszyKEh6oq%2FOKprIj3oiyeFj8ISDY9YoTTYHsB9nas%2BKVJsn%2Bwm9KLWdm5uv5s9g0%3D&RelayState=tAfzAQwmSGYxZTQ0ZDQ2OWU2NjIwZWZhOTQ5YWM3ZWFjMmY4ZTIyZA%3D%3D",
+  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZFPT4NAEMW%2FCtk7LN2lWieFBNuDTWokBT14MQtMWwzs4s5S%2Ffj2j8b20sTjZN57M%2FObKamu7SEd3Fav8GNAct5X12qCYyNmg9VgFDUEWnVI4CrI08cliCCE3hpnKtMyLyVC6xqjZ0bT0KHN0e6aCp9Xy5htnesJON%2F12t98jsrgvW8DrUgFG7ODKJL8kChCnmc8neXMm%2B%2B3aLQ65P25iYy8cHJVr4m3xJm3mMfsraplPalwEil1hygjlOG6kmu8EVKKCMu9jGjAhSantIuZCMXYDyNfjIuRBHkLYvzKvOznpvtG143eXAdQnkQED0WR%2BdlTXjDvBS0dF98LWDI9YITjYHsG9nqs%2BqXJkn%2Bwm%2FKzWcmpuvxs8g0%3D&RelayState=gWD5AQwmSGZjMzdmOTkwYzNjMzZhYjZkYWQ5MGU2ODhhN2JhMGYxNQ%3D%3D",
   "domain": "sso3.jpl.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "cisa"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ba6256a79244c691a48124102e729b0d",
+  "page_hash": "7c670faa76bf79310523ce62519fa2fe",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,7 +48,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

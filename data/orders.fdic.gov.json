@@ -16,7 +16,7 @@
   "agency": "Federal Deposit Insurance Corporation",
   "bureau": "Federal Deposit Insurance Corporation",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites",
     "gpo_fdlp"
@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4b05565002eb3d41dbe40dfa82ac7b25",
+  "page_hash": "85be18ef67968712333e31f1fabe22fd",
   "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -54,7 +54,10 @@
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/fontawesome/css/all.min.css",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/fontawesome/webfonts/fa-solid-900.woff2",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/fonts/open-sans/opensans-regular.ttf",
+    "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/images/arrow-right-white.svg",
+    "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/images/fdic-logo-seal.svg",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/images/fdic-logo-white-noseal.svg",
+    "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/images/icon-search.svg",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/javascript/custom-v34.js",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/javascript/glider/glider.min.css",
     "https://cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6.s3.us-gov-west-1.amazonaws.com/assets/javascript/jquery-3.7.1.min.js",
@@ -89,6 +92,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".fdic.gov",
     "orders.fdic.gov"
   ],
   "viewport_meta_tag": false,
@@ -159,9 +163,9 @@
   "uswds_usa_classes": 65,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
-  "uswds_semantic_version": "v2.6.0",
-  "uswds_version": 100,
-  "uswds_count": 185,
+  "uswds_semantic_version": null,
+  "uswds_version": 0,
+  "uswds_count": 85,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

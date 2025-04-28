@@ -5,7 +5,7 @@
   "initial_base_domain": "uspto.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://pwdservice.uspto.gov/+CSCOE+/logon.html?a0=86&a1=&a2=&a3=1&reason=1#form_title_text",
+  "url": "https://pwdservice.uspto.gov/CACHE/sdesktop/install/start.htm",
   "domain": "pwdservice.uspto.gov",
   "base_domain": "uspto.gov",
   "top_level_domain": "gov",
@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "36cffb27b762ac11becdaedce8a8d2e9",
-  "accessibility_violations": "{\"language\":1,\"images\":2}",
+  "page_hash": "953c4408c2b38e97f37126aa1db80002",
+  "accessibility_violations": "{\"contrast\":5,\"frames-iframes\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -48,22 +48,18 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "1173053146shutdown.relay.webvpn."
-  ],
-  "third_party_service_urls": [
-    "https://1173053146shutdown.relay.webvpn./nonexistent.js"
-  ],
-  "third_party_service_count": 1,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     "pwdservice.uspto.gov"
   ],
-  "viewport_meta_tag": true,
+  "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "SSL VPN Service",
+  "title": "Installation",
   "description": null,
   "keywords": null,
   "og_title": null,

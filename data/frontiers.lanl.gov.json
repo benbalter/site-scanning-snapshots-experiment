@@ -16,14 +16,14 @@
   "agency": "Department of Energy",
   "bureau": "Los Alamos National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f3a3d82da8b9d16dc67d505a44f55744",
+  "page_hash": "8924379e7ca6d01ddd02236f68a5f461",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -53,6 +53,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cdn.lanl.gov/doe_white_seal_325.webp",
     "https://cdn.lanl.gov/optimized/lg/37bb0820-7e80-4b30-ba19-50b62ee90da3_768.webp",
     "https://cdn.lanl.gov/optimized/lg/59bdacfb-2026-4e7a-9fd9-3706a10d4663_768.webp",
     "https://cdn.lanl.gov/optimized/lg/6f286e68-b89a-4d5a-8578-c5f443b420da_768.webp",

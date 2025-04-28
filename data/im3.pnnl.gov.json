@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Pacific Northwest National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "omb_idea",
     "other",
@@ -49,12 +49,14 @@
   "dap_version": "",
   "ga_tag_id": "G-CPEH9DH23B",
   "third_party_service_domains": [
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".pnnl.gov"
   ],

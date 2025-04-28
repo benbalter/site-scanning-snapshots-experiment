@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Fish and Wildlife Service",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,11 +31,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "345e27a2cc73235af2457f347bc94584",
+  "page_hash": "5e312102c890a4d5dac6d0c05f1b36b5",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -73,7 +73,8 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

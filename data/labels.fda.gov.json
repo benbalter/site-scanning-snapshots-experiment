@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "U. S. Food and Drug Administration",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7fabac66b1068bd4b4065c3709a72ea1",
+  "page_hash": "30f4311c90fb305d52627b63493444a2",
   "accessibility_violations": "{\"language\":1,\"link-purpose\":1}",
-  "pageviews": 112832,
-  "visits": 107489,
+  "pageviews": 98421,
+  "visits": 90289,
   "ipv6": true,
   "hostname": "akadns.net",
   "cms": null,
@@ -58,17 +58,15 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "s7.addthis.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://s7.addthis.com/static/r07/widget71.css",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".fda.gov",
     "labels.fda.gov"

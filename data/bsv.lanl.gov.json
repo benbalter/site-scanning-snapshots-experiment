@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Los Alamos National Laboratory",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "36ab3ac9d64494318b9bfe54d0022b4b",
+  "page_hash": "6de36d699a7370ff6bee9212002186f9",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,12 +47,14 @@
   "dap_version": "",
   "ga_tag_id": "G-WD0986RWM9",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.lanl.gov",
     "p.typekit.net",
     "use.typekit.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.lanl.gov/doe_white_seal_325.webp",
     "https://cdn.lanl.gov/optimized/lg/8c8af050-3cfc-449e-83a9-53136fa30c68_1024.webp",
     "https://cdn.lanl.gov/optimized/lg/a2a91e45-1b3e-4cad-a7a2-768fcefd288e_1024.webp",
@@ -64,7 +66,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".lanl.gov"
   ],

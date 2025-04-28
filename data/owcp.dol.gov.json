@@ -16,7 +16,7 @@
   "agency": "Department of Labor",
   "bureau": "Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c1ff9e0a25c97c2dc92730cfa6d3c2b",
+  "page_hash": "6583bbc6d556258ab4ea31f56a651dd9",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,7 +56,9 @@
     ".dol.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "privacy"
+  ],
   "required_links_text": [
     "accessibility",
     "inspector general"

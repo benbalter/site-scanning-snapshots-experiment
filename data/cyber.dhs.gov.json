@@ -16,7 +16,7 @@
   "agency": "Department of Homeland Security",
   "bureau": "Headquarters",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "2020_eot",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0dafc9ec3b02253da8b16dfdce50f422",
+  "page_hash": "17a6549c943fe8d10b4227ae641f6dc6",
   "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,G-9MDR73GM0K",
   "third_party_service_domains": [
-    "c.go-mpulse.net",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
@@ -65,7 +64,6 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://c.go-mpulse.net/api/config.json",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
@@ -81,9 +79,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".cisa.gov"
   ],

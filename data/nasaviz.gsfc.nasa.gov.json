@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2b73d50b7e1906faad0e89be662013ca",
-  "accessibility_violations": "{\"contrast\":43,\"lists\":1}",
+  "page_hash": "3f2af7c94c50a1a78073a2dc68c8502a",
+  "accessibility_violations": "{\"contrast\":65,\"lists\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -58,6 +58,7 @@
     "cdn.parsely.com",
     "dap.digitalgov.gov",
     "p1.parsely.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -68,14 +69,14 @@
     "https://cdn.parsely.com/keys/svs.gsfc.nasa.gov/p.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://p1.parsely.com/px/",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/9a279502/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".nasa.gov",
-    "svs.gsfc.nasa.gov"
+    ".nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -36,9 +36,9 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "abef08fecb0149c5f217b34c6850a5d8",
   "accessibility_violations": null,
-  "pageviews": 41,
-  "visits": 35,
-  "ipv6": true,
+  "pageviews": 44,
+  "visits": 39,
+  "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
   "login_provider": null,
@@ -59,6 +59,7 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".usgs.gov",
     "itsupport.usgs.gov"
   ],
   "viewport_meta_tag": true,

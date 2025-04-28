@@ -34,8 +34,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b5b2942e34f12c264127aeb94e8b4225",
-  "accessibility_violations": null,
+  "page_hash": "e44684fa1087b86bb3fb0a1e31007c56",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -48,7 +48,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-Y8P36QLVJS",
+  "ga_tag_id": "G-JFWYN9JFCK",
   "third_party_service_domains": [
     "www.googletagmanager.com"
   ],
@@ -56,7 +56,9 @@
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".dso.mil"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
@@ -82,7 +84,7 @@
   "robots_txt_url": "https://afscsoftware.dso.mil/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 7082,
+  "robots_txt_filesize": 7206,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,

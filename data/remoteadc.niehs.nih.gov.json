@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.nih.gov/CertAuthV3/forms/mfa/Signin_AuthApp.aspx?TYPE=33554433&REALMOID=06-5d472277-382a-4f20-b29a-adab02a872b1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectAzureMFA%2ejsp%3fSAMLRequest%3dhVLPb9owFP5XIt-%2BJkxQItQgSK5qG1HaosB12QS-%2FOC1hybM-%2FPodt-%2FPydsbXdYd-%2FHB-%2Ft7363lJ0Gkn1n04myf83iOF5EenDYnxoWK9N8ICKRIGOiQRpNivH-%2B5FkWbCeRustJolayL0QVlzZw31Hfo9-%2BouS-%2BOXpvmLnEBwJzj12NiA0MjUKzxTPc3qyFz4ocXI80rVKI3eWAgdJLNlEO8rAQPxKA9Hryyy07TPWdFUj7vpaKzkyFkSWJdtNxY5lnRX1vF3MZHnbyHKGUOAU5jXctIvbeQnlTN400wgm6nFrKIAJFSuyYjbJppN8cchzUcxFlqVZVnxjyUfrJY6VVawFTciS3e8qPijTKHN6v7f6CiLx6XDYTXaf94eR4KIa9I8RXbEY76jtSZmjahxLvqKnsYM4zVbLIZ4Yzfo3y3pfE-%2F5siK3-%2Bs48lf8N-%2FFXNisLXd7Gxs9-%2BeQv4Pwb708zccb1UzaESp6Qw6lahU28bNobZ-%2FvPEKISYPvkfHVVfTvj7j6BQ-%3D-%3D%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d8a802ac3--1c47253f--6a73142a--328821f0--af890d61--066",
+  "url": "https://auth.nih.gov/CertAuthV3/forms/mfa/Signin_AuthApp.aspx?TYPE=33554433&REALMOID=06-5d472277-382a-4f20-b29a-adab02a872b1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectAzureMFA%2ejsp%3fSAMLRequest%3dhVJLj9sgEP4rFvcYjNZJjOJI6UZVI23baJPuoZcI43GChIEyONv-%2B-%2B2Knj91DtxcOw8z3mlmh7I0XmyFe7CN8GwBj9r03FsX0UZMhWOEkahRW9oAiKnHYfHwQPGfCBxedcoZkG0QIUTt77ywOPYQDhKtW8OXxoSaXGD0KSgP0LoJsVW41XDC9l-%2FzsrnRkouhpguu0AeodRioVkmyb5GgrR-%2BC-%2FMDJp-%2FTMru-%2B4ZGryxIfVDY7SaEDmiI9luW5MTKzks5wtVQVkVrFo0Sygq1sxTsWlVMb8DXqoqNSMOsLMYpY014YyXM3Y34-%2BWRLQVfiLLKGeNfSfbeBQVTZDXppEEg2f5XFO-%2B0bbU9v51bc2tC8eF43M-%2F2nw-%2FHCeCqWwifUndNkr2TcWdtT7r1JHuCgFMGaZqsV6M9MYkNL5b1Nqf8vSGy-%2Fs8-%2BVvQF-%2Fo3Mi1HWbrt3Kd0fo-%2F9exn-%2FzFXkxVXQ766ZWMVj0oHSnoU3HYox7vg8gY3IawwCErm-%2Bkrw9x-%2FRM-%3D%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d209160c7--fe8edd34--1a3efa2c--227b5331--c9c761a8--06b",
   "domain": "auth.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -24,7 +24,7 @@
   ],
   "public": false,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2aaf007c98035044dfb79e8e8125b4eb",
+  "page_hash": "52067a66ed9d75edbc75f40a0af2ff3a",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -53,13 +53,15 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "fonts.googleapis.com",
-    "fonts.gstatic.com"
+    "fonts.gstatic.com",
+    "www.nih.gov"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css2",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://www.nih.gov/favicon.ico"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nih.gov",
     "auth.nih.gov"

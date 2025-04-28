@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Internet Crime Complaint Center",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8840a07d9eaa3fe7a6b7530035202f9a",
+  "page_hash": "9db8fe87a717a3cdff12a99999e25baa",
   "accessibility_violations": "{\"user-control-name\":1,\"lists\":1}",
-  "pageviews": 163161,
-  "visits": 113744,
+  "pageviews": 154390,
+  "visits": 109048,
   "ipv6": true,
   "hostname": "azurefd.us",
   "cms": null,
@@ -53,17 +53,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "csp.withgoogle.com",
     "dap.digitalgov.gov",
     "www.google.com",
     "www.gstatic.com",
     "www.ic3.gov"
   ],
   "third_party_service_urls": [
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
-    "https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJCsN5gUMmHbpLEb/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJCsN5gUMmHbpLEb/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css",
     "https://www.ic3.gov/assets/css/uswds.min.css",
     "https://www.ic3.gov/assets/fonts/merriweather/Latin-Merriweather-Bold.woff2",
     "https://www.ic3.gov/assets/fonts/merriweather/Latin-Merriweather-Regular.woff2",
@@ -86,7 +88,7 @@
     "https://www.ic3.gov/img/fbi_seal_new.webp",
     "https://www.ic3.gov/img/ic3_logo.webp"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     "complaint.ic3.gov"
   ],

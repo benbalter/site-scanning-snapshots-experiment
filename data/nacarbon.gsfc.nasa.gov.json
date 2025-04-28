@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "pulse",
     "cisa"
@@ -47,6 +47,7 @@
   "dap_version": "",
   "ga_tag_id": "UA-15624782-1,G-QHS2QG0PVF",
   "third_party_service_domains": [
+    "cce-datasharing.gsfc.nasa.gov",
     "cce-signin.gsfc.nasa.gov",
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
@@ -56,6 +57,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://cce-datasharing.gsfc.nasa.gov/programs/announcements/12/m/0/",
     "https://cce-signin.gsfc.nasa.gov/shared/assets/js/Util_Obj.js",
     "https://cdn.jsdelivr.net/leaflet.esri/1.0.0/esri-leaflet.js",
     "https://cdn.jsdelivr.net/leaflet/0.7.3/leaflet.js",
@@ -64,17 +66,16 @@
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/webfonts/fa-solid-900.woff2",
     "https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
-    "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2",
-    "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
-    "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
-    "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+    "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+    "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2",
+    "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
+    "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
+    "https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nacarbon.org"
   ],

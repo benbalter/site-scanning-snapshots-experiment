@@ -16,7 +16,7 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "U.S. Department of Agriculture",
   "branch": "Executive",
-  "404_test": true,
+  "404_test": false,
   "source_list": [
     "dap",
     "pulse",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ac1e6448b05bff8f01eddde80f5bb6fd",
+  "page_hash": "3330a1337a5f3c5344086d2a88d947ca",
   "accessibility_violations": null,
-  "pageviews": 1654,
-  "visits": 567,
+  "pageviews": 1646,
+  "visits": 577,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -52,7 +52,7 @@
     "subagency": "ARS-NAL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CHR2SEE3DR,G-CSLL4ZEK4L,G-ER98FFN75C",
+  "ga_tag_id": "G-CHR2SEE3DR,G-ER98FFN75C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.googletagmanager.com"
@@ -64,6 +64,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".nal.usda.gov",
     ".usda.gov"
   ],
   "viewport_meta_tag": true,
