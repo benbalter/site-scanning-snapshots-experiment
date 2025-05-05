@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5f89f76d435c2bd860b2df3d47320626",
+  "page_hash": "96e94f30b0dcc77c1bbc8803952b8881",
   "accessibility_violations": "{\"contrast\":4}",
   "pageviews": null,
   "visits": null,
@@ -47,20 +47,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "benchmark.1e100cdn.net",
-    "cedexis-test.akamaized.net",
-    "p29.cedexis-test.com",
-    "performance.radar.cloudflare.com",
-    "ptcfc.com"
+    "ipv6-check-perf.radar.cloudflare.com",
+    "performance.radar.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://benchmark.1e100cdn.net/r20-100KB.png",
-    "https://cedexis-test.akamaized.net/img/r20-100KB.png",
-    "https://p29.cedexis-test.com/img/r20-100KB.png",
-    "https://performance.radar.cloudflare.com/beacon.js",
-    "https://ptcfc.com/img/284/r20-100KB.png"
+    "https://ipv6-check-perf.radar.cloudflare.com/api/info",
+    "https://performance.radar.cloudflare.com/beacon.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 2,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,

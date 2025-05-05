@@ -53,13 +53,14 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".noaa.gov",
     "cftp.nssl.noaa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
-  "hsts": false,
+  "hsts": true,
   "title": "NSSL FTP WebInterface",
   "description": "CrushFTP - Login",
   "keywords": null,

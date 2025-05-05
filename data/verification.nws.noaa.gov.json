@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "other"
+    "other",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "execution_context_destroyed",
@@ -54,8 +55,8 @@
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": false,
-  "hsts": false,
+  "https_enforced": true,
+  "hsts": true,
   "title": null,
   "description": null,
   "keywords": null,

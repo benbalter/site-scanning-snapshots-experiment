@@ -65,7 +65,9 @@
     "https://www.niehs.nih.gov/themes/custom/niehs_cms/web-resources/javascript/standalones/jwSupplements.js"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

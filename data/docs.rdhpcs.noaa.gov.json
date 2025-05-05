@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "15ee723b15828098780edffbbbac9ae6",
+  "page_hash": "1862f0ba09ebd5700c76de87d557e963",
   "accessibility_violations": "{\"contrast\":102,\"link-purpose\":5}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
     "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

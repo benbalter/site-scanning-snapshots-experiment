@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3a3d46641141c5b6c172ec17ca85b29f",
+  "page_hash": "3e83e56ca57af9553e72d12867d2e357",
   "accessibility_violations": "{\"aria\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,7 +49,7 @@
     "dapdev": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-X10C0SX7L7,G-9TNNMGP8WJ,G-hqsursZTFjMsDGF",
+  "ga_tag_id": "G-X10C0SX7L7,G-9TNNMGP8WJ",
   "third_party_service_domains": [
     "app.launchdarkly.com",
     "cdn.recreation.gov",
@@ -63,15 +63,16 @@
     "resources.digital-cloud-gov.medallia.com",
     "script.hotjar.com",
     "static.hotjar.com",
+    "unpkg.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://app.launchdarkly.com/sdk/evalx/588a570044b03e0b32112cfc/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF84NSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiI4NSIsInVyaSI6Ii8ifQ",
+    "https://app.launchdarkly.com/sdk/evalx/588a570044b03e0b32112cfc/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF83MSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiI3MSIsInVyaSI6Ii8ifQ",
     "https://app.launchdarkly.com/sdk/goals/588a570044b03e0b32112cfc",
     "https://cdn.recreation.gov/public/2025/02/18/21/50/621751_6bac99b2-5d27-404f-9b22-4b1068aa2d87_700.jpeg",
-    "https://clientstream.launchdarkly.com/eval/588a570044b03e0b32112cfc/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF84NSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiI4NSIsInVyaSI6Ii8ifQ",
+    "https://clientstream.launchdarkly.com/eval/588a570044b03e0b32112cfc/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF83MSIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiI3MSIsInVyaSI6Ii8ifQ",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -91,9 +92,9 @@
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/forms/690/formDataV2_1738109356476_en.json",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/generic1745368765111.js",
-    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
-    "https://script.hotjar.com/modules.0157df8a158a106f0dc5.js",
+    "https://script.hotjar.com/modules.e8a4a0ad0c33518716fb.js",
     "https://static.hotjar.com/c/hotjar-2219619.js",
+    "https://unpkg.com/web-vitals@0.2.4/dist/web-vitals.es5.umd.min.js",
     "https://www.google.com/ccm/collect",
     "https://www.google.com/pagead/1p-user-list/751332302/",
     "https://www.google.com/recaptcha/api.js",
@@ -103,10 +104,10 @@
     "https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js",
     "https://www.gstatic.com/dialogflow-console/fast/messenger/messenger-internal.min.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJDHuTkOhlT3zHpB/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJDHuTkOhlT3zHpB/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 16,
   "cookie_domains": [
     ".recreation.gov",
     "www.recreation.gov"

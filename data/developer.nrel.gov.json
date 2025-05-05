@@ -35,16 +35,16 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cc83d70c90ac38cceb6fb4c3b43f928c",
+  "page_hash": "38a3e7ad95449d2c2199afe43f9082fe",
   "accessibility_violations": null,
-  "pageviews": 17456,
-  "visits": 7506,
+  "pageviews": 16561,
+  "visits": 7181,
   "ipv6": true,
   "hostname": "data.gov",
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
@@ -55,31 +55,33 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
-    "s.clarity.ms",
     "www.clarity.ms",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://s.clarity.ms/collect",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/jqyludgwnn",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nrel.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about"
+  ],
+  "required_links_text": [
+    "accessibility"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "NREL: Developer Network",
@@ -95,7 +97,7 @@
   "canonical_link": "https://developer.nrel.gov/",
   "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": true,
   "robots_txt_url": "https://developer.nrel.gov/robots.txt",
   "robots_txt_status_code": 200,

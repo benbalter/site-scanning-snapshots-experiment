@@ -50,14 +50,15 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".cms.gov",
     ".sbx.qnettestrail.cms.gov",
     "sbx.qnettestrail.cms.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": false,
+  "hsts": false,
   "title": "503 Service Temporarily Unavailable",
   "description": null,
   "keywords": null,

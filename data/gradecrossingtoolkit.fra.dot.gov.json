@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6600802e9f5450ea05ce3101914fa4c5",
-  "accessibility_violations": "{\"contrast\":2,\"language\":1,\"link-purpose\":3,\"form-names\":1}",
+  "page_hash": "e93b52ebd03af9561e1afdf189038838",
+  "accessibility_violations": "{\"contrast\":2,\"language\":1,\"link-purpose\":3,\"lists\":107,\"form-names\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -88,8 +87,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Grade Crossing Toolkit Document Center Search | Federal Railroad Administration",
   "description": "The public homepage for the Federal Railroad Administration, an operating mode of the Department of Transportation.",
   "keywords": "Federal Railroad Administration, FRA, trains, train tracks, railroad crossing, freight railroading, passenger rail, tiger, arra, railroad safety, research & development, grants, licenses, certificates",

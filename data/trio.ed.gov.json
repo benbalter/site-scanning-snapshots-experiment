@@ -22,8 +22,7 @@
     "omb_idea",
     "oira",
     "other",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -60,14 +59,13 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".ed.gov",
     "trio.ed.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": false,
+  "hsts": false,
   "title": "TRIO Login",
   "description": null,
   "keywords": null,

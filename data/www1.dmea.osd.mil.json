@@ -34,7 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1e9346e5f05c72e625d452eda44c5db5",
+  "page_hash": "3c2ec7a9f785cac2a70f49ab7cbf16b0",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".osd.mil"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "fear",

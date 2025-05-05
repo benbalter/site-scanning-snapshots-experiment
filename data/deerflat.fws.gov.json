@@ -28,14 +28,14 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8079432be212f0b821b2e8ee79ab7d17",
+  "page_hash": "378d06608b94d66df2742c6c91ad566c",
   "accessibility_violations": "{\"user-control-name\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -48,10 +48,12 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C",
   "third_party_service_domains": [
+    "17de4c14.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -63,6 +65,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c14.akstat.io/",
     "https://a.tile.openstreetmap.org/9/88/185.png",
     "https://a.tile.openstreetmap.org/9/89/187.png",
     "https://a.tile.openstreetmap.org/9/90/186.png",
@@ -71,6 +74,7 @@
     "https://b.tile.openstreetmap.org/9/89/185.png",
     "https://b.tile.openstreetmap.org/9/90/187.png",
     "https://b.tile.openstreetmap.org/9/91/186.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/9/88/187.png",
     "https://c.tile.openstreetmap.org/9/89/186.png",
     "https://c.tile.openstreetmap.org/9/90/185.png",
@@ -92,10 +96,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -112,8 +115,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "Deer Flat National Wildlife Refuge | U.S. Fish & Wildlife Service",
   "description": "In southwest Idaho’s Treasure Valley, surrounded by suburban homes and farmlands, Deer Flat National Wildlife Refuge provides refuge for both wildlife and people. The refuge protects the Lake Lowell Unit and the Snake River Islands Unit to provide oases for resident and migratory wildlife, including spectacular concentrations of mallards and Canada geese. The refuge also provides a place for people to slow down, relax and unwind. Stop by and enjoy an adventure for your experience level on your public lands!",
   "keywords": null,

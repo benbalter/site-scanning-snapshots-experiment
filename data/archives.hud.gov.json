@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "258be46ed3ba1e605493b55345ed8ea7",
+  "page_hash": "ab674853639982fbd74c011e7967b19e",
   "accessibility_violations": "{\"contrast\":3,\"language\":1,\"images\":8,\"link-purpose\":1}",
-  "pageviews": 26968,
-  "visits": 18860,
+  "pageviews": 19529,
+  "visits": 13199,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -46,27 +46,18 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": true,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "HUD"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "dap.digitalgov.gov"
   ],
   "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js"
   ],
-  "third_party_service_count": 3,
-  "cookie_domains": [
-    ".hud.gov"
-  ],
+  "third_party_service_count": 1,
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",

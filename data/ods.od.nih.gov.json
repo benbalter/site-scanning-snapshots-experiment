@@ -35,11 +35,11 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "dns_resolution_error",
-  "page_hash": "7246cb3b80a7cce95f97905f1fb661ac",
+  "www_scan_status": "completed",
+  "page_hash": "90f6923ad1b10179fda401f04f39c12d",
   "accessibility_violations": "{\"aria\":38,\"contrast\":3,\"images\":1,\"link-purpose\":1}",
-  "pageviews": 1357510,
-  "visits": 1119051,
+  "pageviews": 1292887,
+  "visits": 1053926,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": null,
@@ -62,6 +62,7 @@
     "fonts.gstatic.com",
     "search.usa.gov",
     "static.cloudflareinsights.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -82,9 +83,10 @@
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".nih.gov",
     ".od.nih.gov",
@@ -102,7 +104,7 @@
     "español"
   ],
   "https_enforced": true,
-  "hsts": true,
+  "hsts": false,
   "title": "Office of Dietary Supplements (ODS)",
   "description": null,
   "keywords": "dietary supplement, vitamin, mineral, herbal, botanical, health information, health, research, NIH, ODS, Office of Dietary Supplements, National Institutes of Health, government, federal government",
@@ -128,11 +130,11 @@
   "sitemap_xml_url": "https://ods.od.nih.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 290756,
-  "sitemap_xml_count": 2394,
-  "sitemap_xml_lastmod": "2025-04-24T00:00:00.000Z",
+  "sitemap_xml_filesize": 342011,
+  "sitemap_xml_count": 2816,
+  "sitemap_xml_lastmod": "2025-05-01T00:00:00.000Z",
   "sitemap_xml_pdf_count": 315,
-  "sitemap_xml_page_hash": "69ab13bf722757fb78e0e2f7c3503156",
+  "sitemap_xml_page_hash": "a4bd2ef4d71d858ac2268cddf82d7167",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -146,7 +148,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://ods.od.nih.gov",
+  "www_status_code": 200,
+  "www_title": "Office of Dietary Supplements (ODS)"
 }

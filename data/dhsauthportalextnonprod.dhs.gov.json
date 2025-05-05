@@ -5,7 +5,7 @@
   "initial_base_domain": "dhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://dhsauthportalextnonprod.dhs.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=2byLMJEEI7-wv2Y794G_Au5G-v9lydlZqTspX96-afA&code_challenge_method=S256&nonce=kpBsMNewj72kQyrLSQygUJfYYGZzYuNCf9Lo9JyzZufJJOBV015cDfr2IXyGkApE&redirect_uri=https%3A%2F%2Fdhsauthportalextnonprod.dhs.gov%2Fenduser%2Fcallback&response_type=code&state=UEAwi1kBO7Wro3MV0q9PR6zyYgxuABBPuaHezeUGhJU67rlGeaOnFS2561MMqj0X&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://dhsauthportalextnonprod.dhs.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=pmtKbEhCfEDBgYBajKYoGm8y3jrDQvYtZOdB4VPi_mU&code_challenge_method=S256&nonce=Uujc7Mh4oJd5blSrfjG8tdHGpYeb7Apfp4MnPQCyU91Bir6Pt3UuC4ZX2EXfu7kU&redirect_uri=https%3A%2F%2Fdhsauthportalextnonprod.dhs.gov%2Fenduser%2Fcallback&response_type=code&state=EcfPTcynJXPrKJDIhF2JptTvi2uifv0f6UuVJl53GGDzrQ0LYycWvN8TOQXrUgtp&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "dhsauthportalextnonprod.dhs.gov",
   "base_domain": "dhs.gov",
   "top_level_domain": "gov",
@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "029b885d3466c066bfc1066386682679",
+  "page_hash": "2cb213b93d2452dc50108cae8b03666c",
   "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
@@ -47,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-v9lydlZqTspX96",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "login.gov",
@@ -74,6 +74,7 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".dhs.gov",
     "dhsauthportalextnonprod.dhs.gov"
   ],
   "viewport_meta_tag": true,

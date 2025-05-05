@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,11 +27,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "565183835321074d2ad97db07b0f8ff5",
-  "accessibility_violations": "{\"link-purpose\":6}",
+  "page_hash": "0093010981f93134661e989f3db05608",
+  "accessibility_violations": "{\"contrast\":2,\"link-purpose\":6}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -67,8 +66,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "NextGenLandingPage",
   "description": null,
   "keywords": null,

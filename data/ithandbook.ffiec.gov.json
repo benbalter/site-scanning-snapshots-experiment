@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9ad364d5190cc756945b6e1d6ca85761",
-  "accessibility_violations": "{\"contrast\":31,\"link-purpose\":4}",
+  "page_hash": "230f71c0e87a6f962ddf9f18d719d848",
+  "accessibility_violations": "{\"contrast\":20,\"link-purpose\":4}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -47,10 +47,11 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-E4TY5NJ9J3",
   "third_party_service_domains": [
     "fonts.googleapis.com",
-    "fonts.gstatic.com"
+    "fonts.gstatic.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
@@ -59,10 +60,14 @@
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
     "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2",
-    "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2"
+    "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
-  "cookie_domains": null,
+  "third_party_service_count": 3,
+  "cookie_domains": [
+    ".ffiec.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "foia",

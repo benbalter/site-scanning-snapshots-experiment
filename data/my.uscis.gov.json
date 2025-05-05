@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "eab93029fe0fd65aa1bbb47a359680b3",
+  "page_hash": "f30c1d724244d8acb952521ccf914e3a",
   "accessibility_violations": "{\"aria\":1}",
-  "pageviews": 11398379,
-  "visits": 9212288,
+  "pageviews": 10753111,
+  "visits": 8759982,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -59,8 +59,9 @@
     "PUA": "UA-12572986-24"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-12572986-2,G-CSLL4ZEK4L,G-GHG7XR2CMP,G-WENZ0N4TZX",
+  "ga_tag_id": "UA-12572986-2,G-CSLL4ZEK4L,G-WENZ0N4TZX,G-GHG7XR2CMP",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
     "gov1.siteintercept.qualtrics.com",
@@ -72,6 +73,7 @@
     "zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/75cfd1dfd9",
@@ -88,7 +90,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".uscis.gov",
     "my.uscis.gov"

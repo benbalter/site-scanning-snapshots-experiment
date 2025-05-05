@@ -21,7 +21,8 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -65,6 +66,7 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
+    ".noaa.gov",
     "www.roc.noaa.gov"
   ],
   "viewport_meta_tag": true,
@@ -83,7 +85,7 @@
     "privacy policy",
     "usa.gov"
   ],
-  "https_enforced": false,
+  "https_enforced": true,
   "hsts": false,
   "title": "NEXRAD Radar Operations Center - Home",
   "description": "Welcome to the Radar Operations Center.  We are based in Norman, Oklahoma and support the National Weather Service radar sites throughout the United States",

@@ -21,8 +21,7 @@
     "dap",
     "pulse",
     "omb_idea",
-    "other",
-    "cisa"
+    "other"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3b7ddb7321b6b4435857357bddc37a12",
+  "page_hash": "61c963a625cd44818258ca45a374eb84",
   "accessibility_violations": null,
-  "pageviews": 1304,
-  "visits": 787,
+  "pageviews": 797,
+  "visits": 532,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -64,7 +63,8 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".ed.gov"
+    ".ed.gov",
+    ".www.ed.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -86,8 +86,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": false,
+  "hsts": false,
   "title": "Hearings and Appeals | U.S. Department of Education",
   "description": "Learn more about the hearings and appeals process at the U.S. Department of Education, and find searchable decision databases and information on filing procedures.",
   "keywords": null,

@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e7f77bf8397ea6d62fc4c4385fbbf5d0",
+  "page_hash": "96e7879364c04ee65d2c8a318f11b723",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"link-purpose\":5}",
   "pageviews": null,
   "visits": null,
@@ -46,9 +46,13 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "rum.browser-intake-ddog-gov.com"
+  ],
+  "third_party_service_urls": [
+    "https://rum.browser-intake-ddog-gov.com/api/v2/rum"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".usda.gov",
     "vdr.fs2c.usda.gov"

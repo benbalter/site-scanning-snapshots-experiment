@@ -5,7 +5,7 @@
   "initial_base_domain": "cdc.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fintune.microsoft.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3DAyuKpWYDfRH9inclW6QFSSWaz_3baYqm3L3xVofVP5pzpZDNUCOY1FFpE8M3K3021QGtok4LDN94DdwggaNL7v789widWBh5XPexG4jqLHvG0AyyvsJtYQgJbYyZ0sdu59W6cVDF2YxxGq9gYNQ9YaEm-QBnhJqnHEIQjEMYFj2Evy2kbMwzeUpH8QIYO2-E-lhb-tnw7NDd1hTsLd9-44w3GfTAa6r_1CPqf3_LWJJinOxzFD1MBklVoah5-O1WDnJa0pg_zTUMfqq26f2jYR_zCCy9NXDZBoHZvKtHK2pJQZIY5YEFxt-OSq6A_F7d7YUK8B21ZGwveSuZSvkDC_6mqt4Gzov0A6Wz4FHJypY29vVOvLWoiAirdRzc6e37VH_7mg6gXmWKTiP9hPC1eDXXQ-WC70UmTjCwzihWZEcsGwRjUzgM0PlSoMIqPudLpPataS5RaMyi2zrr8XxU7w&response_mode=form_post&nonce=638811821664528611.MWZkM2ZlNmQtY2QwMi00ZTRmLWE2YzUtOTBjMDAyMmExMWU2Y2Q5MDI3ZDQtZjQyYi00M2I5LWI0YmEtZmQ5NGI0NmZhYWMx&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=b303cf8f-eae8-4894-bb53-aae595669183&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0",
+  "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fintune.microsoft.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3Dp5z6JqlYEeOWaYd_8Vnps6klTKZG0Xtrnudq_zMw0e_Gy1S_KgcEFidl2DfHSUE2bELWAYT9UpEwQ4w_4WUVBXPJB9l3N0QjU5sES0mSZhEOTXYkX1OOUFwvxTSXvlMBxFQ3po8SwIJePCva008pXC3Gk2RihB2wiZKjfoh1PZZ688CaUHGDhYk8TCXe1B52C4EDkzZazG877c9vP7FA4xHdC5WvKx_zEEFZeX0AYdqvmC8sKIbrfghrP1P8Vgd0owXQHPO5TfxDCLl_O25uQ789cR_YzZo2YytKAEn-ljbLn0AEYeX7xqrNmYjP7uNEgyKHS1qjrIiG2ZqyXFfzy0YHoplUCnpUXY240IgKNZ5Hbd5cCkwjBWUzaBrzGLnVLVNRlJ1VSdANYwme2Gf2W297pDkQ5hkmxo-1jI79EYeDkvdbQWvoK5uGav06vmTTiv6WOdJbWsmT3mdksfDkJA&response_mode=form_post&nonce=638817878145524195.Yjk3YmIwOTQtMTE3My00MjI5LTgyNmYtNGRhYTQxZGRjMDUxNzU1ZTgyZTMtMjg5NC00ZTEwLTlhMWYtNjQyMGMyZDc0NDBm&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=ecd6b6ca-fdee-492b-8b6c-e11ad7e6271c&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0",
   "domain": "login.microsoftonline.com",
   "base_domain": "microsoftonline.com",
   "top_level_domain": "com",
@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ade922d29e96460e14314039f6b55f62",
-  "accessibility_violations": "{\"contrast\":7}",
+  "page_hash": "8be3d595b147705b1475cbf67c8d00f9",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -47,7 +47,8 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "aadcdn.msftauth.net",
-    "intune.microsoft.com"
+    "intune.microsoft.com",
+    "login.live.com"
   ],
   "third_party_service_urls": [
     "https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
@@ -56,14 +57,15 @@
     "https://aadcdn.msftauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg",
     "https://aadcdn.msftauth.net/shared/1.0/content/images/signin-github_4f133e101999f0f9f726427324505c7b.svg",
     "https://aadcdn.msftauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_EA9_0LNszQ27kSRR18wFAw2.js",
+    "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore__OkOHhDAge-kXElPJJGl1g2.js",
     "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_41f36656d3c0bb04c90c.js",
     "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_4f75990aeef30238698e.js",
     "https://aadcdn.msftauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js",
     "https://intune.microsoft.com/",
-    "https://intune.microsoft.com/signin/idpRedirect.js/"
+    "https://intune.microsoft.com/signin/idpRedirect.js/",
+    "https://login.live.com/Me.htm"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".login.microsoftonline.com",
     "login.microsoftonline.com"

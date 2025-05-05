@@ -41,10 +41,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "completed",
-  "page_hash": "682748f9b873a4703f7419f74bda6df7",
+  "page_hash": "b019b9a68a8153efb164c6f2b65125bd",
   "accessibility_violations": "{\"frames-iframes\":2,\"lists\":9}",
-  "pageviews": 8901550,
-  "visits": 4852276,
+  "pageviews": 8949806,
+  "visits": 4879604,
   "ipv6": true,
   "hostname": null,
   "cms": "Adobe Experience Manager",
@@ -60,7 +60,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-VY5XG9XWGG,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "17de4c1a.akstat.io",
+    "17de4c12.akstat.io",
     "assets.adobedtm.com",
     "c.go-mpulse.net",
     "census.gov",
@@ -74,7 +74,7 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1a.akstat.io/",
+    "https://17de4c12.akstat.io/",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC071e17725fad44a3bb14e8123456b9af-source.min.js",
     "https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/e26ef233dfde/RC87bbffc6ff9e42928a26e90bc8ce59ba-source.min.js",
     "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.min.js",
@@ -91,9 +91,11 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
     "https://s.go-mpulse.net/boomerang/8DCFX-TQ8VD-TWDGB-7ETWJ-HY5CJ",
-    "https://smetrics.census.gov/b/ss/cebucensusglobalprod/1/JS-2.23.0-LEWM/s48641584294299",
+    "https://smetrics.census.gov/b/ss/cebucensusglobalprod/1/JS-2.23.0-LEWM/s04736128104463",
     "https://www.google.com/jsapi",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/charts/loader.js"
@@ -129,7 +131,7 @@
   "keywords": null,
   "og_title": "Census.gov | U.S. Census Bureau Homepage",
   "og_description": "The Census Bureau's mission is to serve as the nation's leading provider of quality data about its people and economy.",
-  "og_article_published": "2025-04-24T14:56:48.282Z",
+  "og_article_published": "2025-04-24T14:56:47.748Z",
   "og_article_modified": "2025-04-21T11:47:44.902Z",
   "og_image": "https://www.census.gov/content/dam/Census/public/brand/census-logo-sharing-card.jpg",
   "og_type": "article",
@@ -142,10 +144,9 @@
   "robots_txt_url": "https://www.census.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 1154,
+  "robots_txt_filesize": 1085,
   "robots_txt_crawl_delay": 3,
   "robots_txt_sitemap_locations": [
-    "https://www.census.gov/quickfacts/fact/sitemap/US/PST045217",
     "https://www.census.gov/sitemapindex/sitemap.xml"
   ],
   "sitemap_xml_detected": null,
@@ -164,7 +165,8 @@
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-banner",
-    "usa-banner-container"
+    "usa-banner-container",
+    "usa-banner-print"
   ],
   "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,

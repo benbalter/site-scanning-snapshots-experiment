@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c39fc0ddca5367053a468d5367cd6652",
+  "page_hash": "5c59daf241b213b29b806d7c3a51fa82",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,17 +45,22 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-SWPG03SHFV,G-YS1DZ5BGF4",
   "third_party_service_domains": [
     "d12t4t5x3vyizu.cloudfront.net",
     "fonts.googleapis.com",
-    "sessions.bugsnag.com"
+    "fonts.gstatic.com",
+    "sessions.bugsnag.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2021/09/us_house_of_reps_seal.svg",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/20210618_VP_Atlanta_6641-5-2-1.jpg",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/Voting-Rights-2.jpeg",
+    "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/atlanta-office-map.png",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/capitol_trees-scaled.jpg",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/iStock_000022593710Small.jpeg",
+    "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/longworth-hob-map.png",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/modal.jpg",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/03/williams-logo.svg",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2022/07/District-Slideshow-3.0-11.mp4",
@@ -67,19 +72,30 @@
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2024/02/Art-Competition-1.png",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2024/03/March-option-1-e1711742832830.jpg",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2025/03/Share-Your-Story.png",
+    "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2025/03/williams-district_2025.svg",
     "https://d12t4t5x3vyizu.cloudfront.net/nikemawilliams.house.gov/uploads/2025/04/WestHunterReno_41.jpg.webp",
     "https://fonts.googleapis.com/css",
-    "https://sessions.bugsnag.com/"
+    "https://fonts.gstatic.com/s/barlowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2slqZ6GfQ.woff2",
+    "https://fonts.gstatic.com/s/barlowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_B2slqZ6GfQ.woff2",
+    "https://fonts.gstatic.com/s/barlowsemicondensed/v15/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXeIqqKkkogw.woff2",
+    "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://sessions.bugsnag.com/",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".house.gov",
     ".nikemawilliams.house.gov",
     "nikemawilliams.house.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility"
+  ],
   "https_enforced": null,
   "hsts": null,
   "title": "Home",

@@ -30,10 +30,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d26e26fd4ba04024155645bae69231b2",
+  "page_hash": "51b2f4c586fd4ef3da102151e6d04d0e",
   "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":1}",
-  "pageviews": 7195,
-  "visits": 3804,
+  "pageviews": 6148,
+  "visits": 3374,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -50,14 +50,16 @@
   "ga_tag_id": "G-M34CM7Y75F,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nist.gov",
     "bbddata.nist.gov"

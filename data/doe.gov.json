@@ -32,8 +32,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "1f9f0d21c37e9e39d430b9837b3fc190",
+  "www_scan_status": "completed",
+  "page_hash": "dfa54044d9bf3f9cd13897b86896a6cf",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -53,8 +53,8 @@
   "third_party_service_domains": [
     "c.bing.com",
     "c.clarity.ms",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
-    "s.clarity.ms",
     "ssl.google-analytics.com",
     "www.clarity.ms",
     "www.google-analytics.com",
@@ -63,9 +63,9 @@
   "third_party_service_urls": [
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
     "https://www.clarity.ms/s/0.8.1/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
@@ -154,7 +154,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 80,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.energy.gov",
+  "www_status_code": 200,
+  "www_title": "Department of Energy"
 }

@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d869759fb3cb5008a1ea1c3c4ab4ffd7",
+  "page_hash": "2429e095e6f876a2e6c38db207686a57",
   "accessibility_violations": null,
-  "pageviews": 4281,
-  "visits": 1604,
+  "pageviews": 4203,
+  "visits": 1593,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -48,10 +48,11 @@
   "dap": true,
   "dap_parameters": {
     "agency": "USDA",
-    "subagency": "ARS-NAL"
+    "subagency": "ARS-NAL",
+    "siteplatform": "Drupal"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-4D9QG5RNH8,G-CSLL4ZEK4L,G-ER98FFN75C",
+  "ga_tag_id": "G-5LXSCN8AFP08brL,G-4D9QG5RNH8,G-CSLL4ZEK4L,G-ER98FFN75C",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.googletagmanager.com"
@@ -80,7 +81,7 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Welcome to the NAREEE Board | NAREEE Advisory Board",
+  "title": "Welcome to the NAREEE Board | National Agricultural Research, Extension, Education, and Economics Advisory Board",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -98,7 +99,7 @@
   "robots_txt_url": "https://nareeeab.ree.usda.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 2106,
+  "robots_txt_filesize": 2084,
   "robots_txt_crawl_delay": 2,
   "robots_txt_sitemap_locations": [
     "/sitemap.xml"
@@ -111,23 +112,36 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "21c128d01bcb294b302f83177b242280",
+  "sitemap_xml_page_hash": "84787c6100cdea80fdd4dd972cd466b1",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 1,
   "uswds_usa_class_list": [
-    "usa-button"
+    "usa-accordion",
+    "usa-banner",
+    "usa-button",
+    "usa-current",
+    "usa-footer",
+    "usa-header",
+    "usa-icon",
+    "usa-label",
+    "usa-menu-btn",
+    "usa-nav",
+    "usa-nav-link",
+    "usa-navbar",
+    "usa-sign-up",
+    "usa-sr-only"
   ],
-  "uswds_banner_heres_how": false,
+  "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,
-  "uswds_usa_classes": 10,
-  "uswds_string": 0,
-  "uswds_string_in_css": 0,
+  "uswds_usa_classes": 45,
+  "uswds_string": 9,
+  "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 31,
+  "uswds_count": 95,
   "www_url": "https://nareeeab.ree.usda.gov",
   "www_status_code": 200,
-  "www_title": "Welcome to the NAREEE Board | NAREEE Advisory Board"
+  "www_title": "Welcome to the NAREEE Board | National Agricultural Research, Extension, Education, and Economics Advisory Board"
 }

@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "13d580f2f53aa719cc73e18f7566f74a",
+  "page_hash": "704b12ef2b255bc8411c20872685365e",
   "accessibility_violations": "{\"images\":4}",
-  "pageviews": 491,
-  "visits": 131,
+  "pageviews": 496,
+  "visits": 120,
   "ipv6": false,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -54,7 +54,8 @@
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
-    "power.larc.nasa.gov"
+    "power.larc.nasa.gov",
+    "science.data.nasa.gov"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.11.0/css/uswds.min.css",
@@ -65,11 +66,17 @@
     "https://fonts.googleapis.com/css2",
     "https://power.larc.nasa.gov/api/website/header/nasa-logo.svg",
     "https://power.larc.nasa.gov/api/website/header/power-icon.ico",
+    "https://power.larc.nasa.gov/api/website/header/preview-api.png",
     "https://power.larc.nasa.gov/api/website/header/preview-dav.png",
-    "https://power.larc.nasa.gov/api/website/header/us-flag-small.png"
+    "https://power.larc.nasa.gov/api/website/header/preview-gis.png",
+    "https://power.larc.nasa.gov/api/website/header/preview-pruve.png",
+    "https://power.larc.nasa.gov/api/website/header/us-flag-small.png",
+    "https://science.data.nasa.gov/sites/default/files/styles/square/public/2024-09/highend_computing.png"
   ],
-  "third_party_service_count": 4,
-  "cookie_domains": null,
+  "third_party_service_count": 5,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

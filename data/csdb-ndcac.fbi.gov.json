@@ -5,7 +5,7 @@
   "initial_base_domain": "fbi.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://login-ndcac.fbi.gov/adfs/ls/?wtrealm=uri%3andcac%3acsdb&wctx=WsFedOwinState%3d8TP25O9ZFLW3yooQ5DYSXfSOpC059FuVUCMssvKORiG9JUw19LodO3pBzJAH-OODYiSfKP1LBkb0y9XtX2mlpCOb0Z6yve0mAkdaQ6JHCcLEbb4s-6zsRSnA7VUSjYEt&wa=wsignin1.0",
+  "url": "https://login-ndcac.fbi.gov/adfs/ls/?wtrealm=uri%3andcac%3acsdb&wctx=WsFedOwinState%3dIlaVXqISCPcTS86feeGx0pe7a1UmGO-f_tl0UjyjczcLO_NX9WOnPqsieZ8X6owhyUvx2Nxez_LFEI4FkOHNEvzwCwbmN6epJFf1sJDyq3nnYHEEg2SDRDTjoaPkQReV&wa=wsignin1.0",
   "domain": "login-ndcac.fbi.gov",
   "base_domain": "fbi.gov",
   "top_level_domain": "gov",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9623da8d5e6e165244635ab63de9760e",
+  "page_hash": "5695f692c7d326c99dcd85b0a735d419",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -53,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fbi.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

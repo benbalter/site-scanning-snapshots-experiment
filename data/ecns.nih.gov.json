@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://otp.nih.gov/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Defpr.user%26response_type%3Did_token%2520token%26scope%3Dopenid%2520otp.user.profile%26redirect_uri%3Dhttps%253A%252F%252Fecns.nih.gov%252FOtp%252FOtp%252Fcallback%26state%3DG-KoS1_diNjpFyOke7IbIl3Dzee9qOT7NKFuvnUfB9Y%26nonce%3DeLVp2tnIYTAcWM8M07JJpv_F0oPBuVMzQuLWQyOufnM%26response_mode%3Dform_post",
+  "url": "https://otp.nih.gov/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Defpr.user%26response_type%3Did_token%2520token%26scope%3Dopenid%2520otp.user.profile%26redirect_uri%3Dhttps%253A%252F%252Fecns.nih.gov%252FOtp%252FOtp%252Fcallback%26state%3D2uEMwbQ1-dME64QCObaOTp5hCH_jxmPmOqOJwcMWEL4%26nonce%3D4yHq1qL2aF-S9Ut9A7-7VilIR1xAabG3rVEPYZhdNXE%26response_mode%3Dform_post",
   "domain": "otp.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9fa947b6af040e18d1921160ecefe4c7",
+  "page_hash": "3b1c39866c4ed1e2230fa784e54e5612",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,7 +45,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-KoS1",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -69,6 +69,7 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
+    ".nih.gov",
     ".otp.nih.gov",
     "otp.nih.gov"
   ],

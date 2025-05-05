@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "85254180f0db95ca54ba0c7101b3f7d2",
+  "page_hash": "c3e24d11e053778fbd7d78fb30a7f340",
   "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,13 +49,13 @@
     "search.usa.gov"
   ],
   "third_party_service_urls": [
-    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
-    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".af.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "privacy"

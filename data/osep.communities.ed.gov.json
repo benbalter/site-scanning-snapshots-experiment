@@ -5,7 +5,7 @@
   "initial_base_domain": "ed.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://osep.communities.ed.gov/#program",
+  "url": "https://osep.communities.ed.gov/",
   "domain": "osep.communities.ed.gov",
   "base_domain": "ed.gov",
   "top_level_domain": "gov",
@@ -21,8 +21,7 @@
     "dap",
     "omb_idea",
     "other",
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -34,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8846c3264ab8289a8164aa7c66f3f0aa",
+  "page_hash": "19f6fc31f18a6312367c36f834540adf",
   "accessibility_violations": null,
-  "pageviews": 826,
-  "visits": 697,
+  "pageviews": 1700,
+  "visits": 1587,
   "ipv6": true,
   "hostname": "qipservices.com",
   "cms": null,
@@ -61,7 +60,6 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
@@ -74,8 +72,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": false,
+  "hsts": false,
   "title": "Communities360°",
   "description": "Grantee Records and Assistance Database System",
   "keywords": "GRADS",

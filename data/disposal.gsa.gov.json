@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4ecd9b0edb16df0c8542690dd969b899",
+  "page_hash": "61b231a329955684f88aaba87b8b4b17",
   "accessibility_violations": null,
-  "pageviews": 92721,
-  "visits": 28157,
+  "pageviews": 84706,
+  "visits": 25463,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -54,6 +54,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-39076408-1,G-YF8VSCD172",
   "third_party_service_domains": [
+    "ka-f.fontawesome.com",
     "kit.fontawesome.com",
     "server.arcgisonline.com",
     "www.google-analytics.com",
@@ -62,6 +63,11 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-font-face.min.css",
+    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-shims.min.css",
+    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free.min.css",
+    "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff2",
+    "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff2",
     "https://kit.fontawesome.com/4fe7aa5c65.js",
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/4/5/2",
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/4/5/3",
@@ -78,7 +84,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".gsa.gov",
     "disposal.gsa.gov"

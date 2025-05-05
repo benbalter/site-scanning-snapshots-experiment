@@ -38,10 +38,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "9a20a45a4fda8d8c7a002f1bf312980b",
+  "page_hash": "4edc46470c8c1d502763d3d647e0e6ea",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 1614,
-  "visits": 1032,
+  "pageviews": 1576,
+  "visits": 1052,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -52,13 +52,13 @@
   "dap": true,
   "dap_parameters": {
     "agency": "DOC",
-    "sub-agency": "NOAA",
-    "pua": "G-TVG2PNDWLR"
+    "subagency": "NOAA"
   },
-  "dap_version": "20230818 v6.8 - Dual Tracking",
-  "ga_tag_id": "G-TVG2PNDWLR,G-CSLL4ZEK4L,UA-33523145-1",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-TVG2PNDWLR,UA-33523145-1",
   "third_party_service_domains": [
     "coast.noaa.gov",
+    "dap.digitalgov.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -67,11 +67,13 @@
     "https://coast.noaa.gov/js/federated-analytics.js",
     "https://coast.noaa.gov/js/google-tag-manager/index.js",
     "https://coast.noaa.gov/js/lastupdated/timestamp.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".coralreef.gov"
   ],

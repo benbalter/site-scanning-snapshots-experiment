@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b282a33d9c6066057bdeb061e7afb328",
+  "page_hash": "2cd7cea3e3cff20cc44f71eb9bf2f2ea",
   "accessibility_violations": "{\"contrast\":41}",
   "pageviews": null,
   "visits": null,
@@ -57,6 +57,7 @@
     "dap.digitalgov.gov",
     "osc.llnl.gov",
     "static.cloudflareinsights.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -69,9 +70,10 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://osc.llnl.gov/ping/",
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".llnl.gov",
     "engineering.llnl.gov"

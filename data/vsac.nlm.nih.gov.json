@@ -27,7 +27,7 @@
   ],
   "public": true,
   "primary_scan_status": "timeout",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "timeout",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": null,
   "accessibility_violations": null,
-  "pageviews": 84287,
-  "visits": 22891,
+  "pageviews": 81800,
+  "visits": 21787,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,7 +54,8 @@
   "third_party_service_urls": null,
   "third_party_service_count": null,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    "vsac.nlm.nih.gov"
   ],
   "viewport_meta_tag": null,
   "required_links_url": null,

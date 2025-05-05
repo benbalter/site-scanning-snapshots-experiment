@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "gov"
+    "gov",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -27,10 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "caa7806ecda8870192c6e49b29cf6d42",
+  "page_hash": "7caff8c7e845b8f98587100b34dd33f3",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,20 +47,38 @@
     "agency": "GSA"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-25499422-7,G-JGTFN0MKWK,G-mNi2uFA,G-ADHpsR,G-OYCsaVRghSh5ysO,G-MNvQ,G-ejBYY5VDY1YnTaU,G-F0zjZgXyU,G-Bplr01193oganfF,G-0qM2Wj6ZicEDEUC,G-yyjbYAurbH7YCJK,G-D8RemzdQ6",
   "third_party_service_domains": [
     "api.regulations.gov",
+    "challenges.cloudflare.com",
+    "d1isnucjfhyio4.cloudfront.net",
     "dap.digitalgov.gov",
+    "touchpoints.app.cloud.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://api.regulations.gov/v4/agencies",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/93940ad3a89d121f/1746152456491/rPK9pcmH8s_JWlv",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/1597459837:1746149842:L-GxjpNvk1ny2A7XWO85x2kFKNQEaT3xEYjjI0eXQdw/93940ad3a89d121f/bv0Ejq_e1yHs5jg23Y4T.roMPu_lAAlKyE1JTR66Ozo-1746152456-1.2.1.1-lhtNjJ3Kxg1t_VB_P3z.s09G8d0fqtZsknnPCEDLy78G01GhbtnajvVaiYPJ8CX7",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/93940ad3a89d121f/1746152456493/5a253626dff713ae4421c44212772ca90fefb9919412a34c3add92ea8fdba5a4/aez3Y4f68OGYj9l",
+    "https://challenges.cloudflare.com/turnstile/v0/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/a51d7b3d53cb/api.js",
+    "https://d1isnucjfhyio4.cloudfront.net/banner.md",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://touchpoints.app.cloud.gov/assets/quill-b50f91f6723f2853ae1b8dcc09263bc0326720c4309148f1a462b19c6f2f4857.js",
+    "https://touchpoints.app.cloud.gov/assets/quill-snow-45344a41b9a7437ebbfaf7982c3b3bcd40a94d7796243f65df2f0e93315f1a38.css",
+    "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
+    "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
+    "https://touchpoints.app.cloud.gov/touchpoints/1b23d9cc.js",
+    "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
+    "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".regulations.gov"
   ],
@@ -73,8 +92,8 @@
     "accessibility",
     "foia"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": false,
   "title": "Regulations.gov",
   "description": "",
   "keywords": null,

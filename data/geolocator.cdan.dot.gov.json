@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "185ebe541eac17d8bba1918883131fa9",
+  "page_hash": "a2f005ba72fe8f7c3e0bc26db34bbef8",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -58,6 +58,7 @@
   "dap_version": "20240711 v8.4 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "fonts.gstatic.com",
     "geolocator.cdan.dot.gov",
     "js.arcgis.com",
     "www.google.com",
@@ -65,6 +66,9 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
+    "https://geolocator.cdan.dot.gov/CalciteWebCoreIcons.050e768b441054d8.ttf",
     "https://geolocator.cdan.dot.gov/api/util/GetAppSettings",
     "https://geolocator.cdan.dot.gov/main.37ca8e6f5ed2c99a.js",
     "https://geolocator.cdan.dot.gov/polyfills.d0730534a7d61983.js",
@@ -73,10 +77,13 @@
     "https://js.arcgis.com/4.29/@arcgis/core/assets/esri/themes/base/icons/fonts/CalciteWebCoreIcons.ttf",
     "https://js.arcgis.com/4.29/@arcgis/core/assets/esri/themes/light/main.css",
     "https://www.google.com/recaptcha/enterprise.js",
+    "https://www.google.com/recaptcha/enterprise/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".login.gov",
     "secure.login.gov"

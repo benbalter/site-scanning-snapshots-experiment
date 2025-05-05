@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4cf78d52eb73aaad0671862689344620",
-  "accessibility_violations": null,
+  "page_hash": "013150b77315833a47b3d9023a372dd5",
+  "accessibility_violations": "{\"aria\":10,\"contrast\":31,\"link-purpose\":20}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -56,7 +56,9 @@
     "https://afni.nimh.nih.gov/pub/dist/image/banner_v3b.jpg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -97,9 +99,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 427,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-25T01:12:22.000Z",
+  "sitemap_xml_lastmod": "2025-05-02T02:26:58.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "6c005dad3363250f1df3c801fec3df85",
+  "sitemap_xml_page_hash": "bef028371af7534503ce138782c81851",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

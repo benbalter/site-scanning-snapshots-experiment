@@ -9,9 +9,9 @@
   "domain": "urs.earthdata.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
-  "live": false,
+  "live": true,
   "filter": true,
-  "status_code": 500,
+  "status_code": 200,
   "media_type": "text/html",
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
@@ -31,15 +31,18 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5982e05e613eb045240ab94d58a81f70",
-  "accessibility_violations": null,
+  "page_hash": "823e4d3efaa540831bfcfae4b3fcd716",
+  "accessibility_violations": "{\"contrast\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\"",
+    "type=\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": true,
@@ -49,7 +52,7 @@
     "dclink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-T0WYSFJPBT,G-M3PE7MJ3XR,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-T0WYSFJPBT,G-CSLL4ZEK4L,G-M3PE7MJ3XR",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
     "dap.digitalgov.gov",
@@ -60,7 +63,6 @@
     "netdna.bootstrapcdn.com",
     "sample-api-v2.crazyegg.com",
     "status.earthdata.nasa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -76,22 +78,26 @@
     "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
     "https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcviYwYZ8UA3.woff2",
     "https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+    "https://netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2",
     "https://sample-api-v2.crazyegg.com/n/132090/all",
     "https://status.earthdata.nasa.gov/api/v1/notifications",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
-    ".nasa.gov"
+    ".nasa.gov",
+    "urs.earthdata.nasa.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "about",
+    "privacy"
+  ],
   "required_links_text": [
-    "accessibility"
+    "accessibility",
+    "privacy policy"
   ],
   "https_enforced": true,
   "hsts": true,

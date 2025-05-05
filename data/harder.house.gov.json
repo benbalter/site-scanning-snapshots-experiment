@@ -32,8 +32,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "37d941659a8356f51c28407ceb3fafdb",
-  "accessibility_violations": "{\"aria\":3}",
+  "page_hash": "98e0aa36fc13c8334efd081a1fdcc9c1",
+  "accessibility_violations": "{\"aria\":3,\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,33 +49,31 @@
   "ga_tag_id": "G-5HGJP1W7Q8,G-EJQCV2JBHT",
   "third_party_service_domains": [
     "a.basemaps.cartocdn.com",
-    "api.hcaptcha.com",
     "b.basemaps.cartocdn.com",
     "c.basemaps.cartocdn.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kml.house.gov",
-    "newassets.hcaptcha.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://a.basemaps.cartocdn.com/light_all/8/42/99.png",
-    "https://api.hcaptcha.com/checksiteconfig",
     "https://b.basemaps.cartocdn.com/light_all/8/41/98.png",
     "https://c.basemaps.cartocdn.com/light_all/8/41/99.png",
     "https://c.basemaps.cartocdn.com/light_all/8/42/98.png",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lXYi128m0g.woff",
+    "https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N1X5pKvaPz7se4Q.woff",
     "https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5XpjLdSL17o.woff",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/CA-9/shape.kml",
-    "https://newassets.hcaptcha.com/c/342711ff34c338d323ab986ce8b82354fd18a9ca118ef5916eeab43fbdb1ab36/hsw.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".harder.house.gov"
   ],

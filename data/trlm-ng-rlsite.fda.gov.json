@@ -18,8 +18,7 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites",
-    "cisa"
+    "final_url_websites"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -28,10 +27,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ffe6f415ecb07ad0a486b93748740552",
+  "page_hash": "441699eea389531963a152dcb08210b3",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"lists\":1}",
   "pageviews": null,
   "visits": null,
@@ -64,8 +63,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "TRLM-NG",
   "description": null,
   "keywords": null,
@@ -95,7 +94,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "2e254d9ef833ee10b4ffba91231df958",
+  "sitemap_xml_page_hash": "d57b0a3a6c2d6572d37cf221461b5ea6",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

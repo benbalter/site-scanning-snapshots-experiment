@@ -28,7 +28,7 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "cf78eb9fe3a99e8819379c178b24a82f",
@@ -71,8 +71,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": true,
-  "hsts": false,
+  "https_enforced": null,
+  "hsts": null,
   "title": "BNL | Training | Login",
   "description": null,
   "keywords": null,

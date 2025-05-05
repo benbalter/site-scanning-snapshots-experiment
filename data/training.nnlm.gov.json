@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cf63a95b4caf8dfd2cd04230fd93caac",
+  "page_hash": "949388567199a7b8336f9b5ebad497c1",
   "accessibility_violations": null,
-  "pageviews": 2457,
-  "visits": 209,
+  "pageviews": 2409,
+  "visits": 178,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -53,6 +53,7 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdn.jsdelivr.net",
+    "fonts.gstatic.com",
     "ka-p.fontawesome.com",
     "kit.fontawesome.com",
     "www.gstatic.com",
@@ -60,6 +61,7 @@
   ],
   "third_party_service_urls": [
     "https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-font-face.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v4-shims.min.css",
     "https://ka-p.fontawesome.com/releases/v6.7.2/css/pro-v5-font-face.min.css",
@@ -69,10 +71,13 @@
     "https://ka-p.fontawesome.com/releases/v6.7.2/webfonts/pro-fa-solid-900-12.woff2",
     "https://kit.fontawesome.com/64fb4c3b24.js",
     "https://kit.fontawesome.com/64fb4c3b24/90939167/kit-upload.css",
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
-    "https://www.recaptcha.net/recaptcha/api.js"
+    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css",
+    "https://www.recaptcha.net/recaptcha/api.js",
+    "https://www.recaptcha.net/recaptcha/api2/webworker.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     "training.nnlm.gov"
   ],

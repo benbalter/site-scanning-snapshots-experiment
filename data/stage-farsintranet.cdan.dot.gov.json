@@ -50,6 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".dot.gov",
     "stage-farsintranet.cdan.dot.gov"
   ],
   "viewport_meta_tag": false,
@@ -57,8 +58,8 @@
   "required_links_text": [
     "accessibility"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": false,
+  "hsts": false,
   "title": "Intranet: Home",
   "description": null,
   "keywords": null,

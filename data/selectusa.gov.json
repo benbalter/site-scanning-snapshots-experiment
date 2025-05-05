@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "53dc31e8ca13d85cd898016bb77112b3",
+  "page_hash": "c9806173763344e50b8968ed330f4ce4",
   "accessibility_violations": "{\"aria\":5}",
   "pageviews": null,
   "visits": null,
@@ -53,6 +53,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-59RWD3R7JT,G-L884J52XQ5,G-CSLL4ZEK4L,UA-150944479-1,G-Q8YVD4PXL4",
   "third_party_service_domains": [
+    "51582.global.siteimproveanalytics.io",
     "dap.digitalgov.gov",
     "resources.digital-cloud-gov.medallia.com",
     "sc.lfeeder.com",
@@ -61,10 +62,10 @@
     "static.addtoany.com",
     "tr.lfeeder.com",
     "www.google-analytics.com",
-    "www.googletagmanager.com",
-    "{account_id}.global.siteimproveanalytics.io"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://51582.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/31449/onsite/generic1742503710167.js",
@@ -72,10 +73,10 @@
     "https://script.crazyegg.com/pages/data-scripts/0088/2128/sampling/www.trade.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0088/2128/site/www.trade.gov.json",
     "https://script.crazyegg.com/pages/scripts/0088/2128.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/571bc4dba8365065824a41e9e429f02f.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/86f4b1d8cd35a9f9deb63e8a2361eb96.js",
     "https://siteimproveanalytics.com/js/siteanalyze_51582.js",
     "https://static.addtoany.com/cdn-cgi/speculation",
-    "https://static.addtoany.com/menu/modules/core.gfvbdf8m.js",
+    "https://static.addtoany.com/menu/modules/core.pt5ow5lr.js",
     "https://static.addtoany.com/menu/page.js",
     "https://static.addtoany.com/menu/svg/icons/email.js",
     "https://static.addtoany.com/menu/svg/icons/facebook.js",
@@ -86,8 +87,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://{account_id}.global.siteimproveanalytics.io/image.aspx"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -107,7 +107,7 @@
     "foia",
     "usa.gov"
   ],
-  "https_enforced": true,
+  "https_enforced": false,
   "hsts": false,
   "title": "SelectUSA",
   "description": "SelectUSA works with the U.S. and Foreign Commercial Service and entities across government to facilitate job-creating business investment into the U.S.",

@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -27,11 +28,11 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2758be5979b2affc07a2878a6e486390",
-  "accessibility_violations": null,
+  "page_hash": "980806bd406397cfd2bbde7864a7f948",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -50,7 +51,6 @@
   "third_party_service_count": 0,
   "cookie_domains": [
     ".code.pnnl.gov",
-    ".pnnl.gov",
     "code.pnnl.gov"
   ],
   "viewport_meta_tag": true,
@@ -58,8 +58,8 @@
     "about"
   ],
   "required_links_text": null,
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Sign in · GitLab",
   "description": "PNNL Code",
   "keywords": null,

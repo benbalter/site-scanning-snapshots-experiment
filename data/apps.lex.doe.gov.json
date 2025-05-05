@@ -20,7 +20,8 @@
   "source_list": [
     "pulse",
     "omb_idea",
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": false,
   "primary_scan_status": "completed",
@@ -50,16 +51,14 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".doe.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": false,
-  "hsts": false,
+  "https_enforced": true,
+  "hsts": true,
   "title": "PPPO Application",
   "description": null,
   "keywords": null,

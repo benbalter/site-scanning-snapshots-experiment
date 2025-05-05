@@ -5,7 +5,7 @@
   "initial_base_domain": "uscg.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://enoad.nvmc.uscg.gov/",
+  "url": "https://enoad.nvmc.uscg.gov/eNOAD_CE.aspx?aspxerrorpath=/default.aspx",
   "domain": "enoad.nvmc.uscg.gov",
   "base_domain": "uscg.gov",
   "top_level_domain": "gov",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "72ee42020198035e43eef75e8254520a",
-  "accessibility_violations": "{\"frames-iframes\":1,\"language\":1}",
-  "pageviews": 33758,
-  "visits": 22249,
+  "page_hash": "96aef3bf1b408393e7ec0560167ea054",
+  "accessibility_violations": "{\"language\":1}",
+  "pageviews": 33905,
+  "visits": 22497,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -46,34 +46,27 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "DHS",
-    "subagency": "USCG"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-wTzY1XbAqne1Rox,G-CSLL4ZEK4L",
-  "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
-  ],
-  "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
-  ],
-  "third_party_service_count": 3,
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
-    ".uscg.gov"
+    "enoad.nvmc.uscg.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy"
+  ],
+  "required_links_text": [
+    "privacy policy"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Electronic Notice of Arrival/Departure - eNOAD",
-  "description": "This web application is provided by the United States Coast Guard to facilitate required reporting of vessel movements to the National Vessel Movement Center (NVMC).",
+  "title": "Application Error",
+  "description": null,
   "keywords": null,
   "og_title": null,
   "og_description": null,

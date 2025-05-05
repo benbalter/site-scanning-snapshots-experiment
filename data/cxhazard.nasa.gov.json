@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "31e537b5bba8feff81ef3008c72fe2aa",
+  "page_hash": "76d32687c879f435ef94d2e87195d4be",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -58,7 +58,9 @@
     "https://launchpad.nasa.gov/icam/api/assets/icam-api-hsts.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

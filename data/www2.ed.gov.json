@@ -24,8 +24,7 @@
     "2020_eot",
     "usagov",
     "gov_man",
-    "other",
-    "cisa"
+    "other"
   ],
   "public": true,
   "primary_scan_status": "completed",
@@ -37,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ca1ebd2dc240ae95467c7e31161c6e34",
+  "page_hash": "9497c80313b8920913da1fecbf402b3a",
   "accessibility_violations": null,
-  "pageviews": 2,
-  "visits": 18,
+  "pageviews": 9,
+  "visits": 25,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -64,12 +63,12 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".ed.gov"
+    ".ed.gov",
+    ".www.ed.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -91,8 +90,8 @@
     "usa.gov",
     "español"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": false,
+  "hsts": false,
   "title": "Home | U.S. Department of Education",
   "description": null,
   "keywords": null,
@@ -118,11 +117,11 @@
   "sitemap_xml_url": "https://www.ed.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 879187,
+  "sitemap_xml_filesize": 879996,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-23T21:38:28.000Z",
+  "sitemap_xml_lastmod": "2025-05-01T21:18:43.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "14a8f9172345c70f7f3548d2817bdcf8",
+  "sitemap_xml_page_hash": "b2083c6aa768fb81eb3746f0eebbb160",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

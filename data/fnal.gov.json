@@ -37,7 +37,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "cbae3b36a8f41e4cca70495b87826dbb",
+  "page_hash": "011be8c9bdf508eddf52475b7648223f",
   "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":2}",
   "pageviews": null,
   "visits": null,
@@ -53,18 +53,26 @@
   "dap_version": "",
   "ga_tag_id": "G-HD524RDNJD",
   "third_party_service_domains": [
+    "ep1.adtrafficquality.google",
+    "ep2.adtrafficquality.google",
     "fonts.googleapis.com",
     "pagead2.googlesyndication.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://ep1.adtrafficquality.google/getconfig/sodar",
+    "https://ep1.adtrafficquality.google/pagead/sodar",
+    "https://ep2.adtrafficquality.google/generate_204",
+    "https://ep2.adtrafficquality.google/sodar/sodar2.js",
     "https://fonts.googleapis.com/css",
+    "https://pagead2.googlesyndication.com/bg/1AFXW9k7lwem599Lox6riuMcnernOzfm7hQJTS9sUg0.js",
     "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
-    "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202504210101/show_ads_impl.js",
+    "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202504290101/show_ads_impl.js",
+    "https://pagead2.googlesyndication.com/pagead/sodar",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".fnal.gov"
   ],

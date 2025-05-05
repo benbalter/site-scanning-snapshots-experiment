@@ -34,8 +34,8 @@
   "www_scan_status": "completed",
   "page_hash": "b8e868e7b9f96c9c40701e79c9d3a461",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 168,
-  "visits": 58,
+  "pageviews": 112,
+  "visits": 46,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -50,7 +50,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".cloud.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

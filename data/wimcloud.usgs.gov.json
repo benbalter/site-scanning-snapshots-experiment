@@ -50,9 +50,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".usgs.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "fear",
@@ -66,7 +64,7 @@
     "inspector general",
     "privacy policy"
   ],
-  "https_enforced": false,
+  "https_enforced": true,
   "hsts": true,
   "title": "WIM",
   "description": "A simple static page for WIM with zero resources.",

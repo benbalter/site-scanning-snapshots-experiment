@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d75ab52ce30a47bb077c6fb34ed12a18",
+  "page_hash": "289c305ab3f68883177cd3ba352090d0",
   "accessibility_violations": "{\"contrast\":2,\"language\":1,\"images\":1}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 852,
+  "visits": 643,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -48,17 +48,28 @@
   ],
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-0C7KHLYLFD",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA",
+    "pga4": "G-0C7KHLYLFD",
+    "yt": "true",
+    "exts": "aac,arc,arj,asf,asx,bin,flv,gif,gzip,hqx,jar,mp2,msp,phps,qt,qutm,mxd,ram,sea,sit,tar,torrent,tsv,wav,wpd,xml,z"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-0C7KHLYLFD,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "www.googletagmanager.com"
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com",
+    "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://www.googletagmanager.com/gtag/js"
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/aa3fc80b/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov",
     "dsfa.nmfs.noaa.gov"

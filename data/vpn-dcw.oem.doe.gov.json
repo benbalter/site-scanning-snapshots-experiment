@@ -18,7 +18,8 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "final_url_websites"
+    "final_url_websites",
+    "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
@@ -27,10 +28,10 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4e7504e2a68fb50e13d4c0c74a4c3cbe",
+  "page_hash": "70ef8097ea5306bfc4dc3bcd01298a7c",
   "accessibility_violations": "{\"language\":1,\"images\":2,\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -51,6 +52,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".doe.gov",
     "vpn-dcw.oem.doe.gov"
   ],
   "viewport_meta_tag": true,
@@ -58,8 +60,8 @@
   "required_links_text": [
     "vulnerability disclosure"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "SSL VPN Service",
   "description": null,
   "keywords": null,

@@ -23,8 +23,8 @@
     "house_117th"
   ],
   "public": null,
-  "primary_scan_status": "timeout",
-  "accessibility_scan_status": "completed",
+  "primary_scan_status": "unknown_error",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -50,7 +50,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,

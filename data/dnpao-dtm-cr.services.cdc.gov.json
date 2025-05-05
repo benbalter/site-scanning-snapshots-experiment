@@ -5,7 +5,7 @@
   "initial_base_domain": "cdc.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://dnpao-dtm-cr.services.cdc.gov/",
+  "url": "https://dnpao-dtm-cr.services.cdc.gov/?locationIds=59",
   "domain": "dnpao-dtm-cr.services.cdc.gov",
   "base_domain": "cdc.gov",
   "top_level_domain": "gov",
@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8c610c349c5a98ec14f84a72ecd6a2fc",
+  "page_hash": "925605c70861e2e85af12c1457aa55c7",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -42,22 +42,37 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "cdc.112.2o7.net"
+  ],
+  "third_party_service_urls": [
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s36580764203260",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/JS-2.22.2/s37383736190213"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".cdc.gov",
     "dnpao-dtm-cr.services.cdc.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "fear",
+    "foia",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "no fear act",
+    "foia",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "DNPAO Data, Trends and Maps: Comparison Report | CDC",
@@ -73,7 +88,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": true,
   "robots_txt_url": "https://dnpao-dtm-cr.services.cdc.gov/robots.txt",
   "robots_txt_status_code": 200,

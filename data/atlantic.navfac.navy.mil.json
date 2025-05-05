@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f1ef535202fe17fc31ed908aa35a1b73",
+  "page_hash": "448ebf825be59d4fddf9b16b38442323",
   "accessibility_violations": "{\"contrast\":13,\"images\":1}",
-  "pageviews": 11003,
-  "visits": 6042,
+  "pageviews": 11539,
+  "visits": 6421,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -59,6 +59,7 @@
     "dap.digitalgov.gov",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -69,12 +70,14 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/aa3fc80b/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
+    ".atlantic.navfac.navy.mil",
     ".navy.mil"
   ],
   "viewport_meta_tag": true,

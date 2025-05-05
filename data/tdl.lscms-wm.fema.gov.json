@@ -19,6 +19,7 @@
   "404_test": false,
   "source_list": [
     "pulse",
+    "final_url_websites",
     "cisa"
   ],
   "public": null,
@@ -49,13 +50,15 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": null,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fema.gov"
+  ],
   "viewport_meta_tag": null,
   "required_links_url": null,
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "503 Service Unavailable",
+  "title": "502 Bad Gateway",
   "description": null,
   "keywords": null,
   "og_title": null,

@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "e7cf6479bd5584012c40525a94a7e867",
+  "page_hash": "69eaa01dd56675ba5979e4ba1a426c1f",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -39,7 +39,9 @@
   "hostname": null,
   "cms": "WordPress",
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\""
+  ],
   "site_search": true,
   "search_dot_gov": null,
   "dap": false,
@@ -47,13 +49,18 @@
   "dap_version": "",
   "ga_tag_id": "G-5S5VLE733W",
   "third_party_service_domains": [
+    "bam.nr-data.net",
+    "js-agent.newrelic.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://bam.nr-data.net/1/NRJS-478cab472aef3db5069",
+    "https://bam.nr-data.net/events/1/NRJS-478cab472aef3db5069",
+    "https://js-agent.newrelic.com/nr-spa-1.288.1.min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".whitehouse.gov"
   ],

@@ -32,13 +32,13 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "completed",
+  "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "df278f68ba1e9817b6156e7aeaa6f0b8",
+  "page_hash": "1b94fa9b480e446975326cf3d51173dd",
   "accessibility_violations": null,
-  "pageviews": 4587,
-  "visits": 3783,
+  "pageviews": 4513,
+  "visits": 3668,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -91,7 +91,7 @@
     "https://www.va.gov/va_files/2014/responsive/images/social-twitter.png",
     "https://www.va.gov/va_files/2014/responsive/images/social-youtube.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/22f02d3d/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/14cfd4c0/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
@@ -113,8 +113,8 @@
     "inspector general",
     "usa.gov"
   ],
-  "https_enforced": true,
-  "hsts": true,
+  "https_enforced": null,
+  "hsts": null,
   "title": "VA Federal Supply Schedule Service",
   "description": "Apply for and manage the VA benefits and services you’ve earned as a Veteran, Servicemember, or family member—like health care, disability, education, and more.",
   "keywords": "FSS,Pharmaceuticals,Commodity Contracts,Service Contracts",
