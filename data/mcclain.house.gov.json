@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "house_117th"
@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "278942e609e4ee0448ba11c0642e5cc2",
+  "page_hash": "898f19c43de620acdd55c2f71821bc8a",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -65,7 +65,6 @@
     "https://core.service.elfsight.com/p/boot/",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
-    "https://fonts.gstatic.com/s/heebo/v26/NGS6v5_NC0k9P9GYTbFhsqMA6aw.woff2",
     "https://fonts.gstatic.com/s/heebo/v26/NGS6v5_NC0k9P9H2TbFhsqMA.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
@@ -82,7 +81,9 @@
     "https://widget-data.service.elfsight.com/api/twitter/profile"
   ],
   "third_party_service_count": 10,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -118,11 +119,11 @@
   "sitemap_xml_url": "https://mcclain.house.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 53762,
-  "sitemap_xml_count": 369,
-  "sitemap_xml_lastmod": "2025-05-01T00:00:00.000Z",
+  "sitemap_xml_filesize": 54854,
+  "sitemap_xml_count": 375,
+  "sitemap_xml_lastmod": "2025-05-08T00:00:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "5a2436be89dd88dffca33d2c0c07bdd2",
+  "sitemap_xml_page_hash": "fc0746e454840cf6a9734b9414e1be60",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Los Alamos National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites"
   ],
@@ -61,7 +61,9 @@
     "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".lanl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

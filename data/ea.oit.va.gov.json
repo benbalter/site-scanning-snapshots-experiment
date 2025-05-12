@@ -20,10 +20,9 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "1473c3bc32596ec564ea1e00f7b57734",
+  "page_hash": "41bc36c688729101b088657ed3f56df4",
   "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 1,
+  "visits": 1,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -53,7 +52,7 @@
     "pga4": "G-DFN0H6SPPL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-XoDV9VJ7o0TmfiH,G-n7VOV6rcQ04gjSW,G-RG5VYaxtO3J9Wuw,G-6WkJFFDFSPUDTYk,G-3Hdly,G-0a1zVy7",
+  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-S9rGvOX5aHjPgvJ,G-RcGrk7gEYiG,G-co0m0PvW8kEpGfe,G-e01kjGfDOASx,G-bAj4BK,G-NkQAUPAw5HuSWI,G-HxumcyheAXPUIAH,G-zJul",
   "third_party_service_domains": [
     "api.parsely.com",
     "cdn.parsely.com",
@@ -70,12 +69,12 @@
     "https://api.parsely.com/v2/profile",
     "https://cdn.parsely.com/keys/digital.va.gov/p.js",
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/93956b6cbc9fb876/1746166898971/B48cG2-BLrdmHwp",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/210989989:1746164307:C8vAghSgr9drxXUnHVvYFEVWIzzVkZBZt6KOEju39So/93956b6cbc9fb876/T1wMQnIVJb4zm6s9_YNmUxC5NLKgWJY_8E4O3oxe5SE-1746166898-1.2.1.1-haJfdMPJHsUbQnUtEQHFPodOot9xrFJg4wsfMZTSgOcP_Cfj9H9m__jlDacBWYAu",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/93cf3221faa21f9b/1746772726287/-u2357JxWgjvjR0",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/658195530:1746771178:awUHtX6WHGIBB26sjpRwuXXzZKKMzA_6LtH9vTGs_wk/93cf3221faa21f9b/322Dc0FOvaqt8hTwLHnSJdgwApkAeC9QtOsiwYUlOPA-1746772726-1.2.1.1-ZF.BKn0DwPa5zPmP.5VwTeTw8W1Ba.HcpbclXgRJ90QT.D9lwvDz501L.PY21TIw",
     "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/93956b6cbc9fb876/1746166898973/7dc37d13cba09522bc80098d769986690a06ab3f9ed764137aba51ae3c0ca5fe/L6VDsiaA5ei_esG",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/93cf3221faa21f9b/1746772726292/0b59a6aefc76c7dc2592f63b7fd06c3814aadd07ee3a37d15f062b68351f867b/yFYOHLp0DbqTmNt",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/a51d7b3d53cb/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/b/701fd2559006/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/sourcesans3/v18/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
@@ -91,8 +90,7 @@
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".va.gov",
-    "digital.va.gov"
+    ".va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -119,7 +117,7 @@
   "og_title": "DigitalVA",
   "og_description": "News and information about digital strategy, programs, and initiatives at VA being implemented to serve Veterans, caregivers, staff, and other key stakeholders.",
   "og_article_published": "2022-09-16T12:52:39.000Z",
-  "og_article_modified": "2025-04-29T12:17:12.000Z",
+  "og_article_modified": "2025-05-02T11:46:39.000Z",
   "og_image": "https://digital.va.gov/wp-content/uploads/2022/10/oit-opengraph.jpg",
   "og_type": "website",
   "og_url": "https://digital.va.gov/",
@@ -146,7 +144,7 @@
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
-  "uswds_inpage_css": 9,
+  "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-button",
@@ -160,11 +158,11 @@
   "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 40,
-  "uswds_string": 8,
+  "uswds_string": 7,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 137,
+  "uswds_count": 127,
   "www_url": "https://digital.va.gov",
   "www_status_code": 200,
   "www_title": "DigitalVA"

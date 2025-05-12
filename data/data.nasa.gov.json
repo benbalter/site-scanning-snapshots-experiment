@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,11 +35,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "be46256449f3a5b76fafa68a0001ec94",
+  "page_hash": "9de57ade6147cb8e03cc5ce6a12dddd4",
   "accessibility_violations": null,
-  "pageviews": 96423,
-  "visits": 42320,
-  "ipv6": true,
+  "pageviews": 75384,
+  "visits": 26970,
+  "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
   "login_provider": null,
@@ -54,18 +54,16 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nasa.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nasa.gov",
     "data.nasa.gov"

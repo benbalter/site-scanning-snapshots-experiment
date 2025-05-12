@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Ffed%2Fiwa%2F%3FfedData%3DP3R5cGU9c29jaWFsJlNQSUQ9dmlzaXRvci5uYXNhLmdvdiZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLm5hc2EuZ292JTJGYWZmd2Vic2VydmljZXMlMkZwdWJsaWMlMkZzYW1sMnNzbyZTQU1MVFJBTlNBQ1RJT05JRD0xNzJkNGNmNy0xNzJjNTVjNS1mNGIwNWU4ZC0yYmRkNmI3ZC1jNTZkMjhjYy0xMmQ%3D",
+  "url": "https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Ffed%2Fiwa%2F%3FfedData%3DP3R5cGU9c29jaWFsJlNQSUQ9dmlzaXRvci5uYXNhLmdvdiZTTVBPUlRBTFVSTD1odHRwcyUzQSUyRiUyRmF1dGgubGF1bmNocGFkLm5hc2EuZ292JTJGYWZmd2Vic2VydmljZXMlMkZwdWJsaWMlMkZzYW1sMnNzbyZTQU1MVFJBTlNBQ1RJT05JRD02MjdjN2RlMS01MzYxYmM5Zi0wYzhiNjI3Yi1kNGY0OTIxYS02ZjllNGExYS1lYWI%3D",
   "domain": "auth.launchpad.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "cisa"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9665a931d43f38c8fb7e1937f543360f",
+  "page_hash": "9cf39c446d38890bf7e291a291b9097d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,9 +56,7 @@
     "https://launchpad.nasa.gov/icam/api/assets/icam-api-hsts.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

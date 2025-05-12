@@ -19,12 +19,11 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea",
     "gov_man",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2228e87afcd2bfa5227a1a13fd889ad6",
+  "page_hash": "54b8bc199fc956003ff4712edfbb5c00",
   "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -52,9 +51,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".bls.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

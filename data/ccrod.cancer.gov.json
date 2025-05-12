@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Cancer Institute, NIH",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f38bae6de1f7811d41c146c2836f35a5",
+  "page_hash": "314a294859f52ed2d8548c442a790d60",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -51,6 +51,7 @@
   "ga_tag_id": "G-NKJ4QXQG8K,G-CSLL4ZEK4L,UA-46812095-2",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "fonts.googleapis.com",
     "metrics.cancer.gov",
     "static.addtoany.com",
     "www.google-analytics.com",
@@ -58,7 +59,8 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s45894371128713",
+    "https://fonts.googleapis.com/icon",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/H.26.2/s09237370864133",
     "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.pt5ow5lr.js",
     "https://static.addtoany.com/menu/page.js",
@@ -71,7 +73,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".cancer.gov"
   ],
@@ -143,11 +145,11 @@
   "uswds_banner_heres_how": false,
   "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 45,
-  "uswds_string": 5,
+  "uswds_string": 3,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 70,
+  "uswds_count": 68,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

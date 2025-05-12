@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "6696e7896f0337b5252ab72f57a59bb5",
+  "page_hash": "4440abe44c7084ec72415aebd78e2cad",
   "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"lists\":1}",
-  "pageviews": 468,
-  "visits": 443,
+  "pageviews": 473,
+  "visits": 449,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -85,7 +85,6 @@
     "usa.gov"
   ],
   "required_links_text": [
-    "privacy policy",
     "usa.gov"
   ],
   "https_enforced": true,

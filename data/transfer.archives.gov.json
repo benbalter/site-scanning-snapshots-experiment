@@ -16,7 +16,7 @@
   "agency": "National Archives and Records Administration",
   "bureau": "National Archives and Records Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "timeout",
-  "page_hash": "1a414cf79ad30abd87300c1156c39f72",
+  "page_hash": "86af0492bb04eee34081d4dcc5e8407f",
   "accessibility_violations": "{\"language\":1,\"images\":14,\"link-purpose\":1,\"form-names\":1}",
-  "pageviews": 1008,
-  "visits": 834,
+  "pageviews": 980,
+  "visits": 811,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -56,6 +56,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".archives.gov",
     "transfer.archives.gov"
   ],
   "viewport_meta_tag": true,

@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Lawrence Livermore National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -34,8 +34,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "e5c84a32b9a0fc18df03a0a40788ecf3",
   "accessibility_violations": "{\"aria\":1,\"contrast\":5,\"images\":5,\"link-purpose\":5}",
-  "pageviews": 780,
-  "visits": 682,
+  "pageviews": 846,
+  "visits": 729,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -63,7 +63,8 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [

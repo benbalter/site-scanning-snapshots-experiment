@@ -1,14 +1,14 @@
 {
-  "name": "permits.fws.gov",
+  "name": "fwsepermits.servicenowservices.com",
   "initial_url": "https://permits.fws.gov",
   "initial_domain": "permits.fws.gov",
   "initial_base_domain": "fws.gov",
   "initial_top_level_domain": "gov",
-  "redirect": false,
-  "url": "https://permits.fws.gov/fws",
-  "domain": "permits.fws.gov",
-  "base_domain": "fws.gov",
-  "top_level_domain": "gov",
+  "redirect": true,
+  "url": "https://fwsepermits.servicenowservices.com/fws",
+  "domain": "fwsepermits.servicenowservices.com",
+  "base_domain": "servicenowservices.com",
+  "top_level_domain": "com",
   "live": true,
   "filter": false,
   "status_code": 200,
@@ -19,7 +19,6 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "final_url_websites",
     "cisa"
   ],
   "public": null,
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c49775b6f664756ec2cfe3bbaeeb3dc1",
+  "page_hash": "63664ec9358b4e368b672119e6dde8f3",
   "accessibility_violations": "{\"aria\":5,\"lists\":2}",
   "pageviews": null,
   "visits": null,
@@ -62,8 +61,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".fws.gov",
-    "permits.fws.gov"
+    "fwsepermits.servicenowservices.com"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -100,7 +98,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://login.microsoftonline.com/0693b5ba-4b18-4d7b-9341-f32f400a5494/saml2?SAMLRequest=jVJbb9sgFP4rFu%2B%2BO06M4kheoqqRus5q0j3sDZvjFAmDx8HO9u%2FnkkRtH1pN4gHBx%2FlurJH1MhloNdoX9QS%2FR0Dr%2FemlQnq5KcloFNUMBVLFekBqW3qovj%2FQJIjoYLTVrZbEqxDBWKHVViscezAHMJNo4fnpoSQv1g5Iw3AA0wuLQXfG4KSnULFpYCcIuCbebmYWir2OeHsg9UmooBet0ag7q5UUCoJW92GUF2mzaJifNfHKz%2Fiy8Ys0i%2F0uTbositgiK7LQWSDenTYtOIcl6ZhEIN5%2BV5LD4zbpEmDNindRm7I4hWWeNyxbxLxIgcdtPgOxZohigreniCPsFVqmbEmSKFn40bySY5TRJKNREazy5S%2Fi1ddsvgnFhTp9HWRzASG9Px5rv%2F5xOLoBk%2BBgHmf0%2F2X4Ewy6%2FOaRZLN29qnTa96X%2BrUUdmuSbG6cMxfcePHSq9Ln6w5dH%2BvwPduVe6Cv2ve7WkvR%2FvUqKfV5a4DZ2Y81I7hqemY%2FFxQHsTsR3O8clELPhKw4N4BIws2V9%2BMP3vwD&RelayState=https%3A%2F%2Fpermits.fws.gov%2Fsaml_redirector.do%3Fsysparm_nostack%3Dtrue%26sysparm_uri%3D%252Fnav_to.do%253Furi%253D%25252Fsitemap.xml&sso_reload=true",
+  "sitemap_xml_url": "https://login.microsoftonline.com/0693b5ba-4b18-4d7b-9341-f32f400a5494/saml2?SAMLRequest=jVJdi9swEPwrRu%2F%2BdmJbxAE3oTRwvYZLeg99k%2BV1TiBLrlZ22n9fR0m4u4ceBxIIaXZmdkcrZL1MBlqP9kU9we8R0Hp%2FeqmQXl8qMhpFNUOBVLEekFpOD%2FX3B5oEER2MtpprSbwaEYwVWm20wrEHcwAzCQ4%2Fnx4q8mLtgDQMBzC9sBh0ZwxOegoVmwZ2gqDVxNvOykKxC8VrgdQnoYJecKNRd1YrKRQEXPdhtCzTZtEwP2viws%2FavPHLNIv9Lk26LIrYIiuz0LVAvK%2FacHAdVqRjEoF4u21FDo%2BbuMgvNPm8ocgZj9IsSaEsc84jWEbxDMQ9QxQTvJYijrBTaJmyFUmiZOFH8yqPUUaTJU3KoEiKX8Tb32bzRahWqNPHg2yuIKTfjse9v%2F9xODqCSbRgHmf052b4DAbd%2FGZKsl659qnza96G%2BrEVdk%2BSrO%2BasxbcdfGaq9Ln2wldHqvwrdpNe6AX77vtXkvB%2F3q1lPq8McDs3I81I7hoemb%2FbygOYncjWr9zUAo9E7JuWwOIJFzfdN%2F%2F4PU%2F&RelayState=https%3A%2F%2Fpermits.fws.gov%2Fsaml_redirector.do%3Fsysparm_nostack%3Dtrue%26sysparm_uri%3D%252Fnav_to.do%253Furi%253D%25252Fsitemap.xml&sso_reload=true",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

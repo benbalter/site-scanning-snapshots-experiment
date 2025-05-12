@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "house_117th"
@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ecd19dbf92e1885f03bb97a20b0f82bd",
+  "page_hash": "30359c56fe6089af4067105fc4347143",
   "accessibility_violations": null,
   "pageviews": 1,
   "visits": 1,
@@ -48,6 +48,7 @@
   "ga_tag_id": "G-6PQ8C7GE92",
   "third_party_service_domains": [
     "a.basemaps.cartocdn.com",
+    "api.hcaptcha.com",
     "b.basemaps.cartocdn.com",
     "c.basemaps.cartocdn.com",
     "connect.facebook.net",
@@ -55,6 +56,7 @@
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kml.house.gov",
+    "newassets.hcaptcha.com",
     "platform.twitter.com",
     "syndication.twitter.com",
     "www.googletagmanager.com"
@@ -63,6 +65,7 @@
     "https://a.basemaps.cartocdn.com/light_all/6/12/24.png",
     "https://a.basemaps.cartocdn.com/light_all/6/13/23.png",
     "https://a.basemaps.cartocdn.com/light_all/6/15/24.png",
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://b.basemaps.cartocdn.com/light_all/6/13/24.png",
     "https://b.basemaps.cartocdn.com/light_all/6/14/23.png",
     "https://c.basemaps.cartocdn.com/light_all/6/12/23.png",
@@ -73,16 +76,16 @@
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/CO-4/shape.kml",
+    "https://newassets.hcaptcha.com/c/b758a9be00a912a96d78509f327f60c00836f00dba55d8e572c348ac17889645/hsw.js",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".boebert.house.gov",
-    ".house.gov"
+    ".boebert.house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

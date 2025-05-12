@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Los Alamos National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -55,7 +55,9 @@
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".lanl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": [

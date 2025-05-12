@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Lawrence Berkeley National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -58,6 +58,7 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".lbl.gov",
     "api-dev.ess-dive.lbl.gov"
   ],
   "viewport_meta_tag": false,

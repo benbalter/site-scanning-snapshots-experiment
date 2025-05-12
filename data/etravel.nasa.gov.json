@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Ffed%2Fiwa%2F%3FfedData%3DP1NQSUQ9aHR0cHM6Ly91c2cuYXBpLmNvbmN1cnNvbHV0aW9ucy5jb20vc2FtbDImU01QT1JUQUxVUkw9aHR0cHMlM0ElMkYlMkZhdXRoLmxhdW5jaHBhZC5uYXNhLmdvdiUyRmFmZndlYnNlcnZpY2VzJTJGcHVibGljJTJGc2FtbDJzc28mU0FNTFRSQU5TQUNUSU9OSUQ9NjMzZGY2MjItNDI1NjFmZDMtZjFhM2Y0Y2QtNmVlNjU0ZDItYWIxOTBiYzMtODA%3D",
+  "url": "https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Ffed%2Fiwa%2F%3FfedData%3DP1NQSUQ9aHR0cHM6Ly91c2cuYXBpLmNvbmN1cnNvbHV0aW9ucy5jb20vc2FtbDImU01QT1JUQUxVUkw9aHR0cHMlM0ElMkYlMkZhdXRoLmxhdW5jaHBhZC5uYXNhLmdvdiUyRmFmZndlYnNlcnZpY2VzJTJGcHVibGljJTJGc2FtbDJzc28mU0FNTFRSQU5TQUNUSU9OSUQ9ZmYzNTQwYjQtMzk5MTYyMmItMWE0N2M5MzktYzg4OWI1OTUtMTA1NzE4YTQtNDU5",
   "domain": "auth.launchpad.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "065e78d192211561ae019127c9faa4ae",
+  "page_hash": "8c4b75edb2bd68a28b975e4b8ad6a19c",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,7 +56,9 @@
     "https://launchpad.nasa.gov/icam/api/assets/icam-api-hsts.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

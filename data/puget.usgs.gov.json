@@ -16,14 +16,14 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "cisa"
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fca11eeeb85d8f3795c12f2846d017ed",
-  "accessibility_violations": null,
+  "page_hash": "c300df7408294a14deff9201bafce5d5",
+  "accessibility_violations": "{\"aria\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -91,7 +91,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/aa3fc80b/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [

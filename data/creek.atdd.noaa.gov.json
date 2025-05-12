@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,10 +30,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9dc7e1a3afbdf239e19fe2b78c2634b0",
+  "page_hash": "fbd1bd800acd6985eee9fd8d485d4afa",
   "accessibility_violations": "{\"contrast\":1,\"auto-updating\":1}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 3,
+  "visits": 1,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -41,17 +41,25 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "oculus.atdd.noaa.gov"
+    "dap.digitalgov.gov",
+    "oculus.atdd.noaa.gov",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://oculus.atdd.noaa.gov/arboretum/UTMet.txt"
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://oculus.atdd.noaa.gov/arboretum/UTMet.txt",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov"
   ],

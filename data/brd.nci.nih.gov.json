@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -62,6 +62,7 @@
   "third_party_service_count": 2,
   "cookie_domains": [
     ".brd.nci.nih.gov",
+    ".nih.gov",
     "brd.nci.nih.gov"
   ],
   "viewport_meta_tag": false,

@@ -16,7 +16,7 @@
   "agency": "Department of Transportation",
   "bureau": "Department of Transportation",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -61,7 +61,9 @@
     "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-logo-small-viewport.svg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nhtsa.dot.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

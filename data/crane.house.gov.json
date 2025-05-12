@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "302c0096c4b71ce04e4c01f309f03ef2",
+  "page_hash": "62dcc6c47e9155794f0ef6d4267e77c4",
   "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -44,21 +44,25 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-LXdLrQQ7kNvwHBc",
   "third_party_service_domains": [
     "admin-crane.house.gov",
     "fonts.googleapis.com",
     "pbs.twimg.com",
-    "scontent-bos5-1.xx.fbcdn.net"
+    "scontent-hou1-1.xx.fbcdn.net",
+    "video.twimg.com"
   ],
   "third_party_service_urls": [
     "https://admin-crane.house.gov/wp-admin/admin-ajax.php",
     "https://fonts.googleapis.com/css",
-    "https://pbs.twimg.com/profile_images/1600626158319833088/3FiWWbDI_normal.jpg",
-    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/335260698_902223787565984_5818284501031069735_n.jpg"
+    "https://pbs.twimg.com/amplify_video_thumb/1920223805563174912/img/iScccAHUPmnl212J.jpg",
+    "https://pbs.twimg.com/profile_images/1633488230690484227/Isj-2-Lc_normal.jpg",
+    "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/335260698_902223787565984_5818284501031069735_n.jpg",
+    "https://video.twimg.com/amplify_video/1920223805563174912/vid/avc1/1280x720/PZHmaOk2Lw-_WYuC.mp4"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
+    ".house.gov",
     "crane.house.gov"
   ],
   "viewport_meta_tag": true,

@@ -26,7 +26,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "40645dfb7e83707f00e6b98912da47e5",
+  "page_hash": "594af629f0b16c8c6109bc00962bcec0",
   "accessibility_violations": "{\"contrast\":6,\"lists\":3}",
-  "pageviews": 298353,
-  "visits": 83853,
+  "pageviews": 14536,
+  "visits": 7209,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -61,18 +61,14 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-YBB0QQ5E3J,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "bam.nr-data.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "js-agent.newrelic.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://bam.nr-data.net/1/3f776c1fa0",
-    "https://bam.nr-data.net/events/1/3f776c1fa0",
     "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/ajax-loader.gif",
     "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/fonts/slick.woff",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -80,13 +76,12 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://js-agent.newrelic.com/nr-spa-1.288.1.min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/14cfd4c0/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -115,7 +110,7 @@
   "main_element_present": false,
   "robots_txt_detected": false,
   "robots_txt_url": "https://swot.jpl.nasa.gov/robots.txt",
-  "robots_txt_status_code": 404,
+  "robots_txt_status_code": 500,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,

@@ -16,7 +16,7 @@
   "agency": "Federal Energy Regulatory Commission",
   "bureau": "Federal Energy Regulatory Commission",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -27,7 +27,7 @@
     "gpo_fdlp",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "eb8805c1e3eb966e1561b4d0753e1fa7",
+  "page_hash": "d8aac6aaac79b5e8e2ea64280f7805d8",
   "accessibility_violations": null,
-  "pageviews": 659026,
-  "visits": 235705,
+  "pageviews": 642943,
+  "visits": 220276,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -62,7 +62,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://browser-intake-ddog-gov.com/api/v2/replay",
     "https://browser-intake-ddog-gov.com/api/v2/rum",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://use.fontawesome.com/releases/v5.8.1/css/all.css",

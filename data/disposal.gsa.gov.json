@@ -16,7 +16,7 @@
   "agency": "General Services Administration",
   "bureau": "GSA, IDI, ECAS II",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -26,7 +26,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "61b231a329955684f88aaba87b8b4b17",
+  "page_hash": "e5eba8e9fe55cd3e23c2e2a598486931",
   "accessibility_violations": null,
-  "pageviews": 84706,
-  "visits": 25463,
+  "pageviews": 82247,
+  "visits": 24552,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -47,14 +47,11 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "GSA"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
   "ga_tag_id": "UA-39076408-1,G-YF8VSCD172",
   "third_party_service_domains": [
-    "ka-f.fontawesome.com",
     "kit.fontawesome.com",
     "server.arcgisonline.com",
     "www.google-analytics.com",
@@ -63,11 +60,6 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-font-face.min.css",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-shims.min.css",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/css/free.min.css",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff2",
-    "https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff2",
     "https://kit.fontawesome.com/4fe7aa5c65.js",
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/4/5/2",
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/4/5/3",
@@ -82,9 +74,9 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".gsa.gov",
     "disposal.gsa.gov"

@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Office of the National Coordinator, Office of the Secretary",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +35,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3cb35e65a4ade920d8ba566046f6e78e",
+  "page_hash": "7b2f587b2aaacd048e1ba1907fe45735",
   "accessibility_violations": "{\"contrast\":4,\"images\":12}",
   "pageviews": null,
   "visits": null,
@@ -59,6 +59,7 @@
     "kit.fontawesome.com",
     "maxcdn.bootstrapcdn.com",
     "unpkg.com",
+    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
@@ -88,14 +89,15 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
     "https://unpkg.com/jspdf-autotable@3.5.15/dist/jspdf.plugin.autotable.js",
     "https://unpkg.com/jspdf-autotable@3.5.23/dist/jspdf.plugin.autotable.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/styles__ltr.css"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
     ".healthit.gov"
   ],
@@ -140,9 +142,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 816,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-05-02T02:50:55.000Z",
+  "sitemap_xml_lastmod": "2025-05-09T03:51:37.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "a52dd93138c0cd32af29e81c74593b7f",
+  "sitemap_xml_page_hash": "b96cbc1f6a738c9dc51f31c832a9d5ba",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

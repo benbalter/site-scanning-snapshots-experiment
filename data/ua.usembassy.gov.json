@@ -16,7 +16,7 @@
   "agency": "Department of State",
   "bureau": "Bureau of Global Public Affairs (GPA)",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a1e0c41b3e4ffc2ee71b20343a3e466c",
+  "page_hash": "8514d82e041f51aa7455669420eed9ac",
   "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":14,\"lists\":1}",
-  "pageviews": 283018,
-  "visits": 51908,
+  "pageviews": 271473,
+  "visits": 60345,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -80,6 +80,7 @@
     "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfChc9.ttf",
     "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7GxP.ttf",
     "https://fonts.gstatic.com/s/robotocondensed/v27/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQk6YvM.woff2",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
     "https://script.hotjar.com/modules.e8a4a0ad0c33518716fb.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
@@ -92,12 +93,11 @@
     "https://use.fontawesome.com/releases/v6.4.2/webfonts/fa-v4compatibility.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/14cfd4c0/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 14,
   "cookie_domains": [

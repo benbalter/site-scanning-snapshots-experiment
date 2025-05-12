@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -26,7 +26,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "563560e203b7bca9d998fad9221b0ed0",
+  "page_hash": "acaa4934a62fcf02190c424af395084e",
   "accessibility_violations": "{\"contrast\":17,\"lists\":2}",
-  "pageviews": 11,
-  "visits": 92,
+  "pageviews": 149,
+  "visits": 121,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -47,13 +47,17 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": true,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-E6TFXZ6TWB",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-E6TFXZ6TWB,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
     "code.jquery.com",
+    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "maxcdn.bootstrapcdn.com",
@@ -62,13 +66,16 @@
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js",
     "https://code.jquery.com/jquery-3.2.1.slim.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff",
     "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".noaa.gov"
   ],

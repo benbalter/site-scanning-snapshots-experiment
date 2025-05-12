@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "too_many_redirects",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b77d63fff1c816c03e71e3b470ce1670",
-  "accessibility_violations": "{\"contrast\":2,\"page-titled\":1,\"language\":1}",
+  "page_hash": "028b036bd47c8c33d564eb4326e55d50",
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -53,6 +53,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".nist.gov",
     "hl7v2-iz-cdc-testing.nist.gov"
   ],
   "viewport_meta_tag": false,

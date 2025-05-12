@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -26,7 +26,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -38,8 +38,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "3bfbe22727a6460c850f9fc27af4ab5d",
   "accessibility_violations": "{\"contrast\":18,\"link-purpose\":1}",
-  "pageviews": 4995,
-  "visits": 3089,
+  "pageviews": 5042,
+  "visits": 3036,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -86,7 +86,9 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 8,

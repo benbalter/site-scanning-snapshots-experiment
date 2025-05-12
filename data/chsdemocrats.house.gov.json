@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3d350543d6ba7c503a92a336d69058e0",
-  "accessibility_violations": null,
+  "page_hash": "168850287b56218d3ab327005647de5f",
+  "accessibility_violations": "{\"contrast\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,7 +46,6 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "cdnjs.cloudflare.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "img.youtube.com",
@@ -55,8 +54,6 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.8/angular.min.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
     "https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMR7eS2Ao.woff2",
@@ -65,13 +62,10 @@
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/aa3fc80b/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 7,
-  "cookie_domains": [
-    ".house.gov",
-    "democrats-homeland.house.gov"
-  ],
+  "third_party_service_count": 6,
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -107,11 +101,11 @@
   "sitemap_xml_url": "https://chsdemocrats.house.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 533084,
-  "sitemap_xml_count": 3964,
+  "sitemap_xml_filesize": 534454,
+  "sitemap_xml_count": 3974,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "53d88ca3100c9421df2cd217c8c0d5a1",
+  "sitemap_xml_page_hash": "ff4886af73350e7711287ca34c7b15b4",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

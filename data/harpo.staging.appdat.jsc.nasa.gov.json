@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://harpo.staging.appdat.jsc.nasa.gov/ui/vault/auth?with=token",
+  "url": "https://harpo.staging.appdat.jsc.nasa.gov/ui/",
   "domain": "harpo.staging.appdat.jsc.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b01c30a247bb868f86752053f6d8dc4d",
+  "page_hash": "63592c7d77910424c907ead3422ec715",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,7 +49,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

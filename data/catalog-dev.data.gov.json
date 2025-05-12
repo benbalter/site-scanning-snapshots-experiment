@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5d8730e0e1e019d82a9544da4e671351",
+  "page_hash": "2800145d3798b61fcd2ae6a3860424af",
   "accessibility_violations": "{\"contrast\":9,\"link-purpose\":1}",
   "pageviews": 0,
   "visits": 8,
@@ -62,7 +62,8 @@
     "https://s3-us-gov-west-1.amazonaws.com/cg-0817d6e3-93c4-4de8-8b32-da6919464e61/logo.png",
     "https://s3-us-gov-west-1.amazonaws.com/cg-0817d6e3-93c4-4de8-8b32-da6919464e61/us_flag_small.png",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
@@ -103,9 +104,11 @@
   "robots_txt_url": "https://catalog-dev.data.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/plain",
-  "robots_txt_filesize": 25,
-  "robots_txt_crawl_delay": null,
-  "robots_txt_sitemap_locations": null,
+  "robots_txt_filesize": 220,
+  "robots_txt_crawl_delay": 10,
+  "robots_txt_sitemap_locations": [
+    "https://catalog.data.gov/sitemap.xml"
+  ],
   "sitemap_xml_detected": true,
   "sitemap_xml_url": "https://catalog-dev.data.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,

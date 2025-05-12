@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=jVHBboJAEP0VsnfZdQFbJkJC9VATmxKhPfTSrLgqDczSncX084vapnoxTeYymTdv3nszJdU2HWS92%2BNKf%2FaanPfVNkhwGiSstwhGUU2AqtUEroIie1qC9AV01jhTmYZ5GZG2rjY4M0h9q22h7aGu9MtqmbC9cx0B54cO%2FVYK%2F6NrfFSk%2FJ05QBgG%2FEgoBS9yns0K5s0HETWqI93fMpEJrja52myJN8SZt5gn7F1uIrW9m1QqjrciklF0L1S0DsJJFcSxXI8HGFGvF0hOoUuYFDIaiaFkOZYgJYjwjXn5j6WHGjc17m77X59BBI9lmY%2Fy56Jk3qu2dBI%2BAFg6PaYIp8P2ItfbtOo3TJb%2BP7opvziVnrvrv6bf&RelayState=93M3AiDJ82VkMDNlZDIyYzJkN2Q4NTI4YWQzMjM4NDVkNjljYTNkMQ%3D%3D",
+  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=jVHBboJAEP0VsnfZdcFYJkJC9VATmxKhPfTSLLBVGpilO4vp5xe1TfVimsxlMm%2FevPdmQapre0gHt8et%2Fhw0Oe%2Bra5HgNIjZYBGMooYAVacJXAV5%2BrgB6QvorXGmMi3zUiJtXWNwaZCGTttc20NT6eftJmZ753oCzg89%2Bp0U%2Fkff%2BqhI%2BTtzgDAM%2BJFQCp5nPF3mzFuNIhpUR7q%2FZSITXG1yVb8Tb4kzb72K2dtURzoKdBjOVSlkOL%2BTSlQy0FEdRNOqLkcY0aDXSE6hi5kUcjYRY0XFVI4yQM5emZf9WLpvsG5wd9t%2FeQYRPBRFNsme8oJ5L9rSSfgIYMnimCKcDtuLXG%2FTqt8wWfL%2F6Bb84lRy7q7%2FmnwD&RelayState=DGQ8AiDJ82U1MzI2NzEyNDQ4YmQ0YzhhNGRmNmFlNTYzZjY5NzhiZQ%3D%3D",
   "domain": "sso3.jpl.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "cisa"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "49f2ffdf9489ec6aa52a2ca7b740fc56",
+  "page_hash": "6b52657789d0509753327f9955f73149",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,9 +48,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

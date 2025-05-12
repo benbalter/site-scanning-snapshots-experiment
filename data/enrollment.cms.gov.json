@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Medicare and Medicaid Services",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "cisa"
   ],
@@ -49,6 +49,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".my.site.com",
     "spidr.my.site.com"
   ],
   "viewport_meta_tag": true,

@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "cisa"
@@ -47,7 +47,6 @@
   "dap_version": "",
   "ga_tag_id": "UA-15624782-1,G-QHS2QG0PVF",
   "third_party_service_domains": [
-    "cce-datasharing.gsfc.nasa.gov",
     "cce-signin.gsfc.nasa.gov",
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
@@ -57,7 +56,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cce-datasharing.gsfc.nasa.gov/programs/announcements/12/m/0/",
     "https://cce-signin.gsfc.nasa.gov/shared/assets/js/Util_Obj.js",
     "https://cdn.jsdelivr.net/leaflet.esri/1.0.0/esri-leaflet.js",
     "https://cdn.jsdelivr.net/leaflet/0.7.3/leaflet.js",
@@ -75,7 +73,7 @@
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nacarbon.org"
   ],

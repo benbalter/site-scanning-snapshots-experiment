@@ -16,7 +16,7 @@
   "agency": "Office of Personnel Management",
   "bureau": "OPM Human Resource Solutions",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "cisa"
@@ -61,6 +61,7 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
+    ".test.usajobs.gov",
     ".usajobs.gov",
     "developer.test.usajobs.gov"
   ],

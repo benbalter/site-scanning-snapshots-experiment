@@ -5,7 +5,7 @@
   "initial_base_domain": "fnal.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://pingprod.fnal.gov/idp/SSO.saml2?SAMLRequest=fZFRT4MwFIX%2FCun7aNeBc80gwe3BJdORgT74YgqU0aS02Fum%2FnvZ0DgfXHLf7ul3zj1dAm9Vx5LeNXov3noBzvtolQZ2XkSot5oZDhKY5q0A5kqWJQ9bRn3COmucKY1CXgIgrJNGr4yGvhU2E%2FYoS%2FG030aoca4DhnEta9Ea7deaK%2F9gjjhrZFEYJVzjAxh84lKc7rIceeshiNT8hPwFdFIfBs%2FqlyCrDmfZzj%2BFpcjbrCP0GhCyEDOyuA2mNAwpLW%2FIvKirgAQLXofVbJAB9GKjwXHtIkQJDSdkGJqTgE3nbDZ%2FQV76fdud1NVge72IYhQBu8%2FzdDJe8CwsnNMPAhQvTwnZ2dheFHwdy39aRfF%2FHS7xBXh06djjQNqsU6Nk%2BeklSpn3lRXciQhNEY7HJ3%2F%2FPP4C&RelayState=ss%3Amem%3A5913ddb1b5efc0e424dd32708b06563a11eed2a44c0248652cdff2056dbb5871",
+  "url": "https://pingprod.fnal.gov/idp/SSO.saml2?SAMLRequest=fZFRT4MwFIX%2FCun7KOtAt2aQ4PbgkunIQB98MR1cRpPSIrdM%2FffC0DgfXHLf7ul3zj1doqhVw%2BPOVnoPbx2gdT5qpZGfFyHpWs2NQIlcixqQ25yn8cOWM9fjTWusyY0iTowIrZVGr4zGroY2hfYkc3jab0NSWdsgp7SUJdRGu6UWyj2aE00reTgYBbZyEQ0duIwmuzQjzroPIrUYkL%2BARupj71n8EmTR0DTduUNYRpzNOiSvwLyZXwazecCCYMoAinkJwU2%2B8PP81vcHGWIHG41WaBsS5rFg4vWzyDyfT%2Bd8FrwQJ%2Fm%2B7U7qore9XsRhFCG%2Fz7JkMl7wDC2e0%2FcCEi2HhPxs3F4UfB0rflol0X8dLukFeHRp%2BGNP2qwTo2T%2B6cRKmfdVC8JCSKaERuOTv38efQE%3D&RelayState=ss%3Amem%3A5b509c3cb3db225728533a6fc1ab2b0b4ba0d6723fa457bc5fcec438de6641d9",
   "domain": "pingprod.fnal.gov",
   "base_domain": "fnal.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Fermi National Accelerator Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "cisa"
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "dfdda185ec6b6bed43201eaca21e44be",
+  "page_hash": "5a9b8f57ce046a1cb875c986c2f5d82f",
   "accessibility_violations": "{\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -50,6 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".fnal.gov",
     "pingprod.fnal.gov"
   ],
   "viewport_meta_tag": false,

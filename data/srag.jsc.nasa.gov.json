@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,8 +36,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "8abc6f12322e81ff2074c9494e704abe",
   "accessibility_violations": null,
-  "pageviews": 26,
-  "visits": 14,
+  "pageviews": 20,
+  "visits": 15,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -63,7 +63,6 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".nasa.gov",
     "srag.jsc.nasa.gov"
   ],
   "viewport_meta_tag": false,

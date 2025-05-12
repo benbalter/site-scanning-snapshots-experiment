@@ -16,14 +16,14 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "omb_idea",
     "other",
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "382adc92853cfaaf904d07374a48b05b",
+  "page_hash": "f2a01fbfdceb55ba9816e50c86f126f1",
   "accessibility_violations": "{\"contrast\":11}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 143,
+  "visits": 106,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -47,12 +47,16 @@
   ],
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
+    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "www.googletagmanager.com"
@@ -64,12 +68,14 @@
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/img/usa-icons/expand_more.svg",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/js/uswds-init.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/js/uswds.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/exo/v21/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPXws9Iq2uA.woff",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".noaa.gov"
   ],

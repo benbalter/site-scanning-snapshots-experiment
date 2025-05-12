@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "omb_idea",
     "other",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "dod_2025"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -53,7 +53,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".osd.mil",
     "mla.dmdc.osd.mil"
   ],
   "viewport_meta_tag": true,

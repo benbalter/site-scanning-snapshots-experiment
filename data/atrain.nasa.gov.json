@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "90eec5e345274df8e8a58349e1008b51",
+  "page_hash": "2605d8ba3fc838081efd940d2356b611",
   "accessibility_violations": "{\"lists\":1,\"images\":1,\"link-purpose\":3}",
-  "pageviews": 901,
-  "visits": 611,
+  "pageviews": 895,
+  "visits": 589,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -57,15 +57,17 @@
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nasa.gov"
   ],

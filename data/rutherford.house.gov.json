@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "2020_eot",
     "final_url_websites",
@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c70ae8dc82bf8f6c9eeca7a490960c7d",
+  "page_hash": "37cdc57d67d3e63677050f7b3c30266f",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,6 +49,7 @@
   "ga_tag_id": "G-HEYYH2E28Z",
   "third_party_service_domains": [
     "a.basemaps.cartocdn.com",
+    "api.hcaptcha.com",
     "b.basemaps.cartocdn.com",
     "c.basemaps.cartocdn.com",
     "connect.facebook.net",
@@ -56,6 +57,7 @@
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kml.house.gov",
+    "newassets.hcaptcha.com",
     "platform.twitter.com",
     "syndication.twitter.com",
     "www.googletagmanager.com",
@@ -65,6 +67,7 @@
     "https://a.basemaps.cartocdn.com/light_all/9/138/210.png",
     "https://a.basemaps.cartocdn.com/light_all/9/140/211.png",
     "https://a.basemaps.cartocdn.com/light_all/9/141/210.png",
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://b.basemaps.cartocdn.com/light_all/9/138/211.png",
     "https://b.basemaps.cartocdn.com/light_all/9/139/210.png",
     "https://b.basemaps.cartocdn.com/light_all/9/141/211.png",
@@ -75,6 +78,7 @@
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/FL-5/shape.kml",
+    "https://newassets.hcaptcha.com/c/b758a9be00a912a96d78509f327f60c00836f00dba55d8e572c348ac17889645/hsw.js",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
@@ -82,9 +86,8 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.instagram.com/embed.js"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 14,
   "cookie_domains": [
-    ".house.gov",
     ".rutherford.house.gov"
   ],
   "viewport_meta_tag": true,

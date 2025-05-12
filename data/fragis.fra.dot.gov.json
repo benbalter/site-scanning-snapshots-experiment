@@ -16,7 +16,7 @@
   "agency": "Department of Transportation",
   "bureau": "Department of Transportation",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -162,9 +162,7 @@
     "https://js.arcgis.com/4.28/@arcgis/core/assets/esri/themes/light/main.css"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    ".dot.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

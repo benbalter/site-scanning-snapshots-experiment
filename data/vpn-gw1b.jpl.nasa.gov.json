@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZHBboMwDIZfBeVeEgJUqlWQWHtYpU5DhfWwyxTS0DJBwuLQ7fFH201rL5Um%2BWL592%2F78xxF1%2FaQDe6gN%2BpjUOi8r67VCOdCQgarwQhsELToFIKTUGRPa%2BA%2Bg94aZ6RpiZchKusaoxdG49ApWyh7bKR62awTcnCuR6D02OvJ%2FjOo%2FPe%2B9bVA4e%2FNEaIopCdHzmiR02xREG85btFocfL760Y04U0nFbsaaYuUeKtlQt6YiKO6kiyqJZNShYGoZ7uKV9NZFfCZCkcZ4qBWGp3QLiGc8XjCxuBlEEI0hTh%2BJV7%2Bc9NDo3eN3t8HUF1ECI9lmU%2Fy56Ik3lZZPC8%2BCkg6P2GE82B7Bfa%2BrfilSdJ%2FsJvTq1npJbv9bPoN&RelayState=L%2Fj8AQwmSGY5YzNmOTBhMGU4MGQ1ZTBlOTFkZWFmMmM3ZmI3YzExMg%3D%3D",
+  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZHBboMwDIZfBeVeEkgqtVZBYu1hlToNFdbDLlOA0DJBwuLQ7fFH201rL5Um%2BWL592%2F78wJl1%2FaQDO6gt%2BpjUOi8r67VCOdCRAarwUhsELTsFIIrIUueNhD6DHprnClNS7wEUVnXGL00GodO2UzZY1Oql%2B0mIgfnegRKj72e7D%2BDwn%2FvW19LlP7eHEEITk%2BOIaNZSpNlRrzVuEWj5cnvrxvR8JtOKqsaaYuUeOtVRN5UxXmoRFArxjifsVBUYlYE8%2BmM16wsqlGGOKi1Rie1i0jIwumEjTHPAwFsDoF4JV76c9NDo6tG7%2B8DKC4ihMc8Tyfpc5YTb6csnhcfBSRenDDCebC9AnvfVv7SJPE%2F2C3o1az4kt1%2BNv4G&RelayState=P00AAgwmSGY2NDQ1YjU3ZjU3ODE3Y2VjNzZjNjAyMGUzNTJmYjBkNA%3D%3D",
   "domain": "sso3.jpl.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "cisa"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e6a1d8e08918fce91f88959a5f68dedf",
+  "page_hash": "fa8bd3e62bcd09cd85a355e35e704f63",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,7 +48,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

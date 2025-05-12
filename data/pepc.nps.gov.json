@@ -16,15 +16,14 @@
   "agency": "Department of the Interior",
   "bureau": "National Park Service",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,8 +35,8 @@
   "www_scan_status": "completed",
   "page_hash": "9915d4743e332f8355b932f2fe3c9b93",
   "accessibility_violations": "{\"images\":1}",
-  "pageviews": 238145,
-  "visits": 22647,
+  "pageviews": 230169,
+  "visits": 22185,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -60,7 +59,6 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
-    ".nps.gov",
     "pepc.nps.gov"
   ],
   "viewport_meta_tag": false,

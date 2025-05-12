@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,9 +35,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "dfda08545b5a8c217e5557d9a5f8b253",
-  "accessibility_violations": "{\"user-control-name\":1}",
-  "pageviews": 237,
-  "visits": 204,
+  "accessibility_violations": "{\"contrast\":1,\"images\":1}",
+  "pageviews": 220,
+  "visits": 191,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -60,7 +60,6 @@
     "metrics.cancer.gov",
     "rsms.me",
     "static.cancer.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -76,18 +75,17 @@
     "https://fonts.gstatic.com/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYySUhiCXAA.woff",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrcVIT9d0c8.woff",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s03999295486276",
-    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s0589280640651",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s61604688599925",
+    "https://metrics.cancer.gov/b/ss/ncienterprise/1/JS-2.27.0-LEWM/s6518517260514",
     "https://rsms.me/inter/font-files/Inter-Bold.woff2",
     "https://rsms.me/inter/font-files/Inter-ExtraBold.woff2",
     "https://rsms.me/inter/font-files/Inter-Light.woff2",
     "https://rsms.me/inter/font-files/Inter-Regular.woff2",
     "https://rsms.me/inter/inter.css",
     "https://static.cancer.gov/launchables/launch-banner-adminreview/v1.0.0/assets/index-CoFPPetr.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".cancer.gov",
     "studycatalog.cancer.gov"

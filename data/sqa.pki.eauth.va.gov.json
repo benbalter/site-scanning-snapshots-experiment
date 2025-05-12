@@ -19,11 +19,10 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,8 +34,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "7c38288cfe5fa00a40c63b66f9fafb67",
   "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 2,
+  "visits": 2,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -63,7 +62,6 @@
   "third_party_service_count": 1,
   "cookie_domains": [
     ".eauth.va.gov",
-    ".va.gov",
     "sqa.pki.eauth.va.gov"
   ],
   "viewport_meta_tag": true,

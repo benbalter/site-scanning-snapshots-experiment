@@ -16,7 +16,7 @@
   "agency": "Department of Labor",
   "bureau": "Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "cisa"
@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f0fdc0603e5197bb561520148a437e99",
+  "page_hash": "a3083f17c9e96a4f6ce1c1b8e1822ed4",
   "accessibility_violations": null,
-  "pageviews": 86656,
-  "visits": 24734,
+  "pageviews": 82905,
+  "visits": 23203,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -49,6 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-LTGX1LSENR,G-988WLCRHJJ,G-8D6G2LK2BW,G-HZ8Y6WJF2K,UA-175033420-4,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c18.akstat.io",
     "6313124.global.r2.siteimproveanalytics.io",
     "c.go-mpulse.net",
     "cdn.jsdelivr.net",
@@ -64,6 +65,7 @@
     "zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c18.akstat.io/",
     "https://6313124.global.r2.siteimproveanalytics.io/image.aspx",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
@@ -82,10 +84,8 @@
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://s.go-mpulse.net/boomerang/E68AF-EQ2CX-6PS4U-GPXGV-5A3RP",
-    "https://script.crazyegg.com/pages/data-scripts/0074/6572/sampling/www.dol.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0074/6572/site/www.dol.gov.json",
     "https://script.crazyegg.com/pages/scripts/0074/6572.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/86f4b1d8cd35a9f9deb63e8a2361eb96.js",
     "https://siteimproveanalytics.com/js/siteanalyze_6313124.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
@@ -93,7 +93,7 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://zn8bbezhnvcwb7dlk-usdol.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".dol.gov"
   ],

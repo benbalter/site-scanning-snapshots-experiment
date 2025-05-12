@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "National Renewable Energy Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "03a33885b8a37236b06ba38d5b26d026",
+  "page_hash": "edc2fcd942a8c6679f48580c7e3945be",
   "accessibility_violations": "{\"contrast\":3,\"frames-iframes\":1,\"images\":1,\"link-purpose\":1}",
-  "pageviews": 23532,
-  "visits": 8370,
+  "pageviews": 22631,
+  "visits": 8483,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -51,7 +51,7 @@
     "agency": "NREL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-24106045-1,G-D36B6EXMET,G-HFDNVE0DSC,G-5S1DJ7NPZ2,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-D36B6EXMET,G-HFDNVE0DSC,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "c.bing.com",
@@ -67,7 +67,6 @@
     "script.crazyegg.com",
     "use.fontawesome.com",
     "www.clarity.ms",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nrel.gov"
   ],
@@ -90,21 +89,18 @@
     "https://script.crazyegg.com/pages/data-scripts/0011/5883/sampling/midcdmz.nrel.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0011/5883/site/midcdmz.nrel.gov.json",
     "https://script.crazyegg.com/pages/scripts/0011/5883.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/86f4b1d8cd35a9f9deb63e8a2361eb96.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/8ec331a9c219b59c6d7180c82a423f79.js",
     "https://use.fontawesome.com/83c5c68c25.css",
     "https://use.fontawesome.com/83c5c68c25.js",
     "https://use.fontawesome.com/releases/v4.7.0/css/font-awesome-css.min.css",
     "https://use.fontawesome.com/releases/v4.7.0/fonts/fontawesome-webfont.woff2",
-    "https://www.clarity.ms/s/0.8.1/clarity.js",
+    "https://www.clarity.ms/s/0.8.8/clarity.js",
     "https://www.clarity.ms/tag/jqyludgwnn",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nrel.gov/includes/ga/nrel.js"
   ],
-  "third_party_service_count": 17,
+  "third_party_service_count": 16,
   "cookie_domains": [
     ".midcdmz.nrel.gov",
     ".nrel.gov"

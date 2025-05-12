@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Department of Justice, Office of e-Government",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -53,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".foia.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": [
@@ -86,11 +88,11 @@
   "sitemap_xml_url": "https://admin.foia.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/xml",
-  "sitemap_xml_filesize": 82645,
+  "sitemap_xml_filesize": 82344,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-05-01T16:56:00.000Z",
+  "sitemap_xml_lastmod": "2025-05-08T14:22:00.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "064d3f251444ccab1ec36dff2c4f5246",
+  "sitemap_xml_page_hash": "f5b43da9964a81d9b056fd8566287000",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

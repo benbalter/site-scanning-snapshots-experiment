@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -26,7 +26,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "61e6eaf51c0519dc4c83886c6991d310",
+  "page_hash": "1efd76fe053b1d065ac2e6a5f2b13615",
   "accessibility_violations": null,
-  "pageviews": 309008,
-  "visits": 210873,
+  "pageviews": 321654,
+  "visits": 217066,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -62,7 +62,7 @@
     "palinteractiontypedim": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-10113280-1,G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-47RPZPWDT7,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-0HCSRRZZVP,G-FH5X1PMV8C,UA-77708142-1,G-47RPZPWDT7,UA-10113280-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "www.google-analytics.com",
@@ -75,11 +75,10 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/14cfd4c0/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js",
     "https://www2.usgs.gov/scripts/analytics/usgs-analytics.js"
   ],
   "third_party_service_count": 5,

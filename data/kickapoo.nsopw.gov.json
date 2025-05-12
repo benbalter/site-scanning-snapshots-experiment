@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Office of Justice Programs",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "186be2706ecfd14a0a7d660b4b70a1c7",
   "accessibility_violations": "{\"contrast\":7,\"language\":1}",
-  "pageviews": 272,
-  "visits": 72,
+  "pageviews": 297,
+  "visits": 83,
   "ipv6": true,
   "hostname": "azurewebsites.net",
   "cms": null,
@@ -61,8 +61,7 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://ttsorsfiles.blob.core.windows.net/offender/seal/KICKAPOO-T.jpg",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [

@@ -19,11 +19,10 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,7 +54,9 @@
     "https://bsp-web.s3.amazonaws.com/GSAlogo.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".gsa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

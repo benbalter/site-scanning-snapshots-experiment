@@ -16,7 +16,7 @@
   "agency": "Department of Labor",
   "bureau": "Employment and Training Administration (ETA) - Office of Job Corps",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "456d8e8ccfe165c77dd7d68a73996f00",
-  "accessibility_violations": "{\"language\":1}",
-  "pageviews": 1177,
-  "visits": 567,
+  "page_hash": "2854a4e3e2596a8fa4c4fda9eeceded8",
+  "accessibility_violations": "{\"frames-iframes\":1,\"images\":4}",
+  "pageviews": 1139,
+  "visits": 538,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -53,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".jobcorps.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

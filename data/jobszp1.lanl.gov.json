@@ -1,12 +1,12 @@
 {
-  "name": "jobszp1.lanl.gov",
+  "name": "jobsp1.lanl.gov",
   "initial_url": "https://jobszp1.lanl.gov",
   "initial_domain": "jobszp1.lanl.gov",
   "initial_base_domain": "lanl.gov",
   "initial_top_level_domain": "gov",
-  "redirect": false,
-  "url": "https://jobszp1.lanl.gov/OA_HTML/IrcVisitor.jsp",
-  "domain": "jobszp1.lanl.gov",
+  "redirect": true,
+  "url": "https://jobsp1.lanl.gov/OA_HTML/RF.jsp?function_id=14320&resp_id=51616&resp_appl_id=800&security_group_id=0&lang_code=US&oas=DvvLyaZlSm5eDPvwjPtYEQ..&params=vslL0WSfkBi.Y-okc9t12SUxK.zQ4WlYra3ckvzARGfLXXUxA.AIcyBcFDNqZ8Xp",
+  "domain": "jobsp1.lanl.gov",
   "base_domain": "lanl.gov",
   "top_level_domain": "gov",
   "live": true,
@@ -16,10 +16,9 @@
   "agency": "Department of Energy",
   "bureau": "Los Alamos National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
-    "final_url_websites",
     "cisa"
   ],
   "public": null,
@@ -33,7 +32,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "3429abe7923967274f9fe88b320113a6",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -51,9 +50,9 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".jobszp1.lanl.gov",
+    ".jobsp1.lanl.gov",
     ".lanl.gov",
-    "jobszp1.lanl.gov"
+    "jobsp1.lanl.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": null,

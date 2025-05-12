@@ -23,7 +23,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -48,21 +48,15 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
-    "nci.122.2o7.net"
+    "fonts.googleapis.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/outdated-browser-rework/3.0.1/outdated-browser-rework.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/outdated-browser-rework/3.0.1/style.min.css",
     "https://fonts.googleapis.com/css",
-    "https://fonts.googleapis.com/icon",
-    "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
-    "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
-    "https://nci.122.2o7.net/b/ss/ncienterprise",
-    "ncidctd-cancertreatmentdiagnosis/1/JS-2.17.0/s07767928209105"
+    "https://fonts.googleapis.com/icon"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".cancer.gov"
   ],

@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2093d4bc15439eb6f05bd15054058096",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":3}",
+  "page_hash": "1b7d974cc9a190d28242db0840ae1bd4",
+  "accessibility_violations": "{\"aria\":2,\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,21 +49,23 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c0e.akstat.io",
+    "17de4c1e.akstat.io",
     "c.go-mpulse.net",
     "maps.googleapis.com",
     "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c0e.akstat.io/",
+    "https://17de4c1e.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://maps.googleapis.com/maps-api-v3/api/js/60/10/main.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/60/12/main.js",
     "https://maps.googleapis.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
     "https://s.go-mpulse.net/boomerang/WML98-GYVVQ-3XWUN-5GQQV-HHWYV"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".faa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "foia",
@@ -97,7 +99,7 @@
   "robots_txt_url": "https://wildlife.faa.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 57488,
+  "robots_txt_filesize": 57383,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,
@@ -108,7 +110,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "4c92c59e924f011f2648f2856c795e6e",
+  "sitemap_xml_page_hash": "f6dc5be9dce062670407585f7113f4bd",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

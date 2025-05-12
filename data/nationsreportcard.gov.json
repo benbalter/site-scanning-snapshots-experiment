@@ -16,7 +16,7 @@
   "agency": "Department of Education",
   "bureau": "Office of Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "gov",
     "dap",
@@ -27,7 +27,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "64fc4c0691bfba0c7201e57e3ec7d7d3",
+  "page_hash": "56ab9a39751863a6c87987b1a642599b",
   "accessibility_violations": null,
-  "pageviews": 1138,
-  "visits": 1005,
+  "pageviews": 1132,
+  "visits": 1011,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -59,7 +59,6 @@
     "ssl.google-analytics.com",
     "syndication.twitter.com",
     "use.fontawesome.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -73,11 +72,10 @@
     "https://use.fontawesome.com/releases/v5.0.6/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.9/css/all.css",
     "https://use.fontawesome.com/releases/v5.0.9/webfonts/fa-solid-900.woff2",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nationsreportcard.gov",
     "www.nationsreportcard.gov"

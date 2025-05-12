@@ -25,7 +25,7 @@
     "final_url_websites",
     "dod_2025"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "092934cd77128695d6f3389e48f4ebca",
+  "page_hash": "b56a1bf54ebe2f704657081c41e96a26",
   "accessibility_violations": "{\"link-purpose\":1}",
-  "pageviews": 107,
-  "visits": 60,
+  "pageviews": 102,
+  "visits": 61,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -62,15 +62,16 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
     ".army.mil",
-    ".eeo.amedd.army.mil",
-    "eeo.amedd.army.mil"
+    ".eeo.amedd.army.mil"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [

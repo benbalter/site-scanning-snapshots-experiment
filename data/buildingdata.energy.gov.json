@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "US Department of Energy, Office of the CIO",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "20bccdb4d4108c51ea17a9aa2367f75c",
+  "page_hash": "4d91da5b920a47f83734a97ce5877eaa",
   "accessibility_violations": "{\"aria\":1}",
   "pageviews": null,
   "visits": null,
@@ -56,7 +56,9 @@
     "https://www.energy.gov/themes/particle/dist/app-drupal/assets/energy_white.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".energy.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Oak Ridge National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -57,7 +57,9 @@
     "https://daac.ornl.gov/js/jquery-ui/ornldaac-jquery-ui.min.css"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ornl.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "2020_eot",
     "final_url_websites",
@@ -32,8 +32,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "15adf1efb476d455d4fc649f480ffa93",
-  "accessibility_violations": "{\"aria\":6,\"contrast\":4}",
+  "page_hash": "ce16135b46c5969b7ee2f12abc78b70d",
+  "accessibility_violations": "{\"aria\":7,\"contrast\":4,\"lists\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -55,7 +55,6 @@
     "hcaptcha.com",
     "newassets.hcaptcha.com",
     "platform.twitter.com",
-    "static.xx.fbcdn.net",
     "syndication.twitter.com",
     "www.googletagmanager.com",
     "www.instagram.com"
@@ -67,20 +66,17 @@
     "https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJh1Zyc61YA.woff",
     "https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
     "https://hcaptcha.com/1/api.js",
-    "https://newassets.hcaptcha.com/c/04244aeb9cc29b0d712a2f614978a813010adc9f82431166ca6e6a77ae454b8e/hsw.js",
+    "https://newassets.hcaptcha.com/c/b758a9be00a912a96d78509f327f60c00836f00dba55d8e572c348ac17889645/hsw.js",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
-    "https://static.xx.fbcdn.net/rsrc.php/v5/yJ/l/0",
-    "cross/m4YrYGQAY6V.css",
     "https://syndication.twitter.com/settings",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.instagram.com/embed.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
-    ".evans.house.gov",
-    ".house.gov"
+    ".evans.house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

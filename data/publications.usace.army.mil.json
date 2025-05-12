@@ -26,7 +26,7 @@
     "final_url_websites",
     "dod_2025"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,10 +36,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "05b022d855d5ef526935ee54315857e9",
+  "page_hash": "dffa28a8cec7c70fc39b11b835cdaa48",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 56253,
-  "visits": 25713,
+  "pageviews": 56157,
+  "visits": 25014,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -54,7 +54,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".army.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

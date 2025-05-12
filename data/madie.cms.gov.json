@@ -22,7 +22,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,8 +30,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7dae4d1bec779ae8fc31fcf17d1f2a95",
-  "accessibility_violations": null,
+  "page_hash": "6dde64fa22e4fc1d6b08362178f989e5",
+  "accessibility_violations": "{\"contrast\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -60,10 +60,12 @@
     "https://cdn.jsdelivr.net/npm/systemjs@6.8.3/dist/system.min.js",
     "https://global.oktacdn.com/okta-signin-widget/5.10.1/css/okta-sign-in.min.css",
     "https://qnetmatomo.cms.gov/matomo.js",
-    "https://qnetmatomo.cms.gov/matomo.php"
+    "https://qnetmatomo.cms.gov/matomo.php",
+    "https://qnetmatomo.cms.gov/plugins/HeatmapSessionRecording/configs.php"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
+    ".cms.gov",
     ".madie.cms.gov",
     "madie.cms.gov"
   ],
@@ -101,7 +103,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "7dae4d1bec779ae8fc31fcf17d1f2a95",
+  "sitemap_xml_page_hash": "f83070ab244e67f75219ee26526f08d1",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

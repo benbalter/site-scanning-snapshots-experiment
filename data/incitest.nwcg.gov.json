@@ -16,13 +16,12 @@
   "agency": "U.S. Department of Agriculture",
   "bureau": "National Wildfire Coordinating Group",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ec5be3299690d5e8682e6cfd42866f28",
+  "page_hash": "1b205a92019a69b9a741b1bcc0a88043",
   "accessibility_violations": "{\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -57,7 +56,6 @@
     "services3.arcgis.com",
     "static.arcgis.com",
     "www.datadoghq-browser-agent.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -85,10 +83,9 @@
     "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Interagency_Perimeters_YearToDate/FeatureServer/0",
     "https://static.arcgis.com/attribution/World_Topo_Map",
     "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".wildfire.gov",
     "inciweb-stg.wildfire.gov"
@@ -125,11 +122,11 @@
   "sitemap_xml_url": "https://inciweb-stg.wildfire.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 709,
+  "sitemap_xml_filesize": 673,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-04-28T13:32:43.000Z",
+  "sitemap_xml_lastmod": "2025-05-07T19:23:01.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "9bc6d3f1852d94ac1915acdb1e0319a8",
+  "sitemap_xml_page_hash": "ab403c788ef99e8f4cace5b5d6a49c02",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

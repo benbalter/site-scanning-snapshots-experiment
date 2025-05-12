@@ -16,7 +16,7 @@
   "agency": "United States Postal Service",
   "bureau": "U.S. Postal Service",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -51,6 +51,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".usps.gov",
     "epfws-cat.usps.gov"
   ],
   "viewport_meta_tag": false,

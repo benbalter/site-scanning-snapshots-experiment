@@ -5,7 +5,7 @@
   "initial_base_domain": "epa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://edap.epa.gov/internal_forms_authentication/?targetId=11e4f44e-2d5f-4c2d-a3dd-fe23cb4abc69",
+  "url": "https://edap.epa.gov/internal_forms_authentication/?targetId=0e70a1dc-372e-47f3-81b9-c68bb576c1f9",
   "domain": "edap.epa.gov",
   "base_domain": "epa.gov",
   "top_level_domain": "gov",
@@ -20,11 +20,10 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,8 +35,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0516ca2f1915fc9522dd48faf5723087",
   "accessibility_violations": null,
-  "pageviews": 27803,
-  "visits": 17783,
+  "pageviews": 28481,
+  "visits": 18713,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -55,9 +54,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".epa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

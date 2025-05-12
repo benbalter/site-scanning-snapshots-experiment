@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "2020_eot",
     "final_url_websites",
@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "98e0aa36fc13c8334efd081a1fdcc9c1",
+  "page_hash": "aac419d781703aa71c903182cbdc6b23",
   "accessibility_violations": "{\"aria\":3,\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,16 +49,19 @@
   "ga_tag_id": "G-5HGJP1W7Q8,G-EJQCV2JBHT",
   "third_party_service_domains": [
     "a.basemaps.cartocdn.com",
+    "api.hcaptcha.com",
     "b.basemaps.cartocdn.com",
     "c.basemaps.cartocdn.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "hcaptcha.com",
     "kml.house.gov",
+    "newassets.hcaptcha.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://a.basemaps.cartocdn.com/light_all/8/42/99.png",
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://b.basemaps.cartocdn.com/light_all/8/41/98.png",
     "https://c.basemaps.cartocdn.com/light_all/8/41/99.png",
     "https://c.basemaps.cartocdn.com/light_all/8/42/98.png",
@@ -69,11 +72,11 @@
     "https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5XpjLdSL17o.woff",
     "https://hcaptcha.com/1/api.js",
     "https://kml.house.gov/current/CA-9/shape.kml",
+    "https://newassets.hcaptcha.com/c/b758a9be00a912a96d78509f327f60c00836f00dba55d8e572c348ac17889645/hsw.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".harder.house.gov"
   ],

@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d65ade13f7f5bddac3ac57ef71e3ccc7",
+  "page_hash": "06506dbc45e1aed7daa1a24d7c6e99f1",
   "accessibility_violations": "{\"contrast\":40,\"language\":1,\"link-purpose\":7}",
-  "pageviews": 12620,
-  "visits": 8457,
+  "pageviews": 53495,
+  "visits": 26551,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -88,7 +88,7 @@
     "https://script.crazyegg.com/pages/data-scripts/0013/2090/sampling/lance.nsstc.nasa.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0013/2090/site/lance.nsstc.nasa.gov.json",
     "https://script.crazyegg.com/pages/scripts/0013/2090.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/86f4b1d8cd35a9f9deb63e8a2361eb96.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/8ec331a9c219b59c6d7180c82a423f79.js",
     "https://status.earthdata.nasa.gov/api/v1/notifications",
     "https://status.earthdata.nasa.gov/assets/banner_widget-38837808518d354941986023e80aa775ed5eda527af68e43ffbc8b4e3f4221da.css",
     "https://www.google-analytics.com/analytics.js",
@@ -96,7 +96,8 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [

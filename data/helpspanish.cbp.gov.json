@@ -16,7 +16,7 @@
   "agency": "Department of Homeland Security",
   "bureau": "U.S. Customs and Border Protection",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -26,7 +26,7 @@
     "gpo_fdlp",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4466a27c0c35b00ab9e0f90bfb982145",
+  "page_hash": "9d12df0efc9f66f7b8ae85fa1a63e3fb",
   "accessibility_violations": null,
-  "pageviews": 42026,
-  "visits": 41031,
+  "pageviews": 42593,
+  "visits": 41236,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -55,7 +55,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-9DAC4,G-CSLL4ZEK4L,G-BQWG01TFJ8,G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -67,7 +66,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
@@ -80,7 +78,7 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".cbp.gov",
     ".helpspanish.cbp.gov",

@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "U. S. Food and Drug Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -50,6 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".fda.gov",
     "gudid-mig.fda.gov"
   ],
   "viewport_meta_tag": false,

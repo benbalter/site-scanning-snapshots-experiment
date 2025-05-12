@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +35,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
   "page_hash": "9d4df844efaf13bd3c9eef5ddd0e27a3",
-  "accessibility_violations": "{\"contrast\":1,\"link-purpose\":8}",
+  "accessibility_violations": "{\"contrast\":14,\"link-purpose\":8}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -61,7 +61,9 @@
     "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/config/TeX-AMS-MML_HTMLorMML.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ornl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

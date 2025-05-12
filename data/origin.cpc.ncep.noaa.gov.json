@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1baf0c0fc19a559a5cd56202f0924951",
+  "page_hash": "9ba504aec1bb1eb2e3578fdb08668aba",
   "accessibility_violations": "{\"contrast\":4,\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -43,17 +43,25 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "droughtmonitor.unl.edu"
+    "dap.digitalgov.gov",
+    "droughtmonitor.unl.edu",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://droughtmonitor.unl.edu/data/png/current/current_usdm.png"
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://droughtmonitor.unl.edu/data/png/current/current_usdm.png",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov"
   ],

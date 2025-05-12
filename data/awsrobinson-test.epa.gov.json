@@ -16,7 +16,7 @@
   "agency": "Environmental Protection Agency",
   "bureau": "Environmental Protection Agency",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -53,9 +53,7 @@
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": [
-    ".epa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

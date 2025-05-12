@@ -27,7 +27,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1fe8354c5d092f3bd6729c7be2923868",
+  "page_hash": "59b44ff493ee67aa2bb80dc42120d97e",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "pageviews": 2115,
-  "visits": 1712,
+  "pageviews": 1944,
+  "visits": 1539,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -75,12 +75,15 @@
     "https://media.defense.gov/2021/Jan/25/2002570271/646/214/0/210125-D-QH554-1006.PNG",
     "https://media.defense.gov/2021/Jan/25/2002570272/646/214/0/210125-D-QH554-1007.PNG",
     "https://media.defense.gov/2021/Jan/25/2002570273/646/214/0/210125-D-QH554-1008.PNG",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".actuary.defense.gov",
     ".defense.gov"
   ],
   "viewport_meta_tag": true,

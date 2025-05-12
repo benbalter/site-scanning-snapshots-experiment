@@ -16,14 +16,14 @@
   "agency": "Department of Commerce",
   "bureau": "National Institute of Standards and Technology",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "omb_idea",
     "other",
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -55,7 +55,9 @@
     "https://dap.digitalgov.gov/Universal%C2%ADFederated%C2%ADAnalytics%C2%ADMin.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nist.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "privacy",

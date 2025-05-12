@@ -25,7 +25,7 @@
     "dod_public",
     "final_url_websites"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "301cd94d21dc6255ba48f8ff103a9d5b",
+  "page_hash": "3bee357288dca669aeb678a5b6db3446",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 31300,
-  "visits": 29685,
+  "pageviews": 30908,
+  "visits": 29077,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -53,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".af.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

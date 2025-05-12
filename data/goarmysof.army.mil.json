@@ -25,7 +25,7 @@
     "dod_public",
     "final_url_websites"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "631b30393721fc24d8eb732e2bde8c5c",
+  "page_hash": "c75babb7698748b196ccd7a629e509b8",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 41887,
-  "visits": 28571,
+  "pageviews": 39695,
+  "visits": 26795,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -53,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".army.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

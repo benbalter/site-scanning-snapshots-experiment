@@ -16,7 +16,7 @@
   "agency": "Department of Veterans Affairs",
   "bureau": "Office of Information and Technology, IT Operations and Services (ITOPS)",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "7c249260ceb1375179ec3b2e00c4e070",
+  "page_hash": "7b543174951a7b2157e5f597385c59a5",
   "accessibility_violations": null,
-  "pageviews": 957,
-  "visits": 846,
+  "pageviews": 931,
+  "visits": 808,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -56,6 +56,7 @@
     "dap.digitalgov.gov",
     "maxcdn.bootstrapcdn.com",
     "pro.fontawesome.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -68,10 +69,10 @@
     "https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.woff2",
     "https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.woff2",
     "https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.woff2",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".va.gov",
     "www.innovation.va.gov"

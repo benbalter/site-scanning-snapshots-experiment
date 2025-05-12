@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "35a8ea1d487ee6c9a30e16f3b0a08302",
+  "page_hash": "514226076e7e5e5b67e0d0c471e18e76",
   "accessibility_violations": "{\"aria\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -54,6 +54,7 @@
     "app.launchdarkly.com",
     "cdn.recreation.gov",
     "clientstream.launchdarkly.com",
+    "csp.withgoogle.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -68,10 +69,11 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://app.launchdarkly.com/sdk/evalx/588a570044b03e0b32112cfc/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF8zOCIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiIzOCIsInVyaSI6Ii8ifQ",
+    "https://app.launchdarkly.com/sdk/evalx/588a570044b03e0b32112cfc/contexts/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF83IiwiYW5vbnltb3VzIjp0cnVlLCJ1c2VyX2J1Y2tldCI6IjciLCJ1cmkiOiIvIn0",
     "https://app.launchdarkly.com/sdk/goals/588a570044b03e0b32112cfc",
     "https://cdn.recreation.gov/public/2025/02/18/21/50/621751_6bac99b2-5d27-404f-9b22-4b1068aa2d87_700.jpeg",
-    "https://clientstream.launchdarkly.com/eval/588a570044b03e0b32112cfc/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF8zOCIsImFub255bW91cyI6dHJ1ZSwidXNlcl9idWNrZXQiOiIzOCIsInVyaSI6Ii8ifQ",
+    "https://clientstream.launchdarkly.com/eval/588a570044b03e0b32112cfc/eyJraW5kIjoidXNlciIsImtleSI6ImJ1Y2tldDEwMF83IiwiYW5vbnltb3VzIjp0cnVlLCJ1c2VyX2J1Y2tldCI6IjciLCJ1cmkiOiIvIn0",
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -91,6 +93,7 @@
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/forms/690/formDataV2_1738109356476_en.json",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/embed.js",
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/15123/onsite/generic1745368765111.js",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
     "https://script.hotjar.com/modules.e8a4a0ad0c33518716fb.js",
     "https://static.hotjar.com/c/hotjar-2219619.js",
     "https://www.google.com/ccm/collect",
@@ -102,10 +105,10 @@
     "https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js",
     "https://www.gstatic.com/dialogflow-console/fast/messenger/messenger-internal.min.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/styles__ltr.css"
   ],
-  "third_party_service_count": 15,
+  "third_party_service_count": 16,
   "cookie_domains": [
     ".recreation.gov",
     "www.recreation.gov"
@@ -123,8 +126,7 @@
     "foia",
     "privacy policy",
     "vulnerability disclosure",
-    "usa.gov",
-    "español"
+    "usa.gov"
   ],
   "https_enforced": true,
   "hsts": true,

@@ -24,7 +24,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "76fa5c66a0c8643fc84924481933cf1f",
-  "accessibility_violations": null,
+  "page_hash": "2e61df19ee11bd046045be994b85ba7b",
+  "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -51,7 +51,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".doe.gov",
     "olympus.doe.gov"
   ],
   "viewport_meta_tag": true,

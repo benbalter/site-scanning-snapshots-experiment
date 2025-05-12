@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "abf14cc84ff1c8b8d35877d609e523d9",
-  "accessibility_violations": null,
+  "page_hash": "59ad6106791c1fea09b575171e16ebc8",
+  "accessibility_violations": "{\"aria\":4,\"user-control-name\":5,\"contrast\":11,\"lists\":3,\"images\":12}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -41,7 +41,7 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
@@ -55,8 +55,7 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [

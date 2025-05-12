@@ -16,15 +16,14 @@
   "agency": "Department of Homeland Security",
   "bureau": "Federal Emergency Management Agency",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea",
     "oira",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -53,6 +52,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".fema.gov",
     "portal.fema.gov"
   ],
   "viewport_meta_tag": false,

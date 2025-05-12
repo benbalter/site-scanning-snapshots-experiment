@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "42a43ade7135248c4815717419bb4a59",
+  "page_hash": "cf3c054df842ec23ac6afc6b14ad7a66",
   "accessibility_violations": "{\"contrast\":9,\"images\":10}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 1836,
+  "visits": 1829,
   "ipv6": false,
   "hostname": "cloudfront.net",
   "cms": "WordPress",
@@ -48,12 +48,16 @@
   ],
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-XNP0X4BRN7",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-XNP0X4BRN7,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
+    "dap.digitalgov.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,9 +67,11 @@
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/img/usa-icons/expand_more.svg",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/js/uswds-init.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.3.0/js/uswds.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -118,7 +124,8 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
-    "usa-banner"
+    "usa-banner",
+    "usa-js-loading"
   ],
   "uswds_banner_heres_how": true,
   "uswds_banner_heres_how-2": true,

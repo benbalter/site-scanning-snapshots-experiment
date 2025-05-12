@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Office of Justice Programs",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "2d27865b6718236774bbf757d59c7f06",
   "accessibility_violations": "{\"contrast\":7,\"language\":1}",
-  "pageviews": 923,
-  "visits": 97,
+  "pageviews": 915,
+  "visits": 105,
   "ipv6": true,
   "hostname": "azurewebsites.net",
   "cms": null,
@@ -55,17 +55,15 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "ttsorsfiles.blob.core.windows.net",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://ttsorsfiles.blob.core.windows.net/offender/seal/LAGUNA-T.jpg",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".laguna.nsopw.gov",
     ".nsopw.gov",

@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Energy Information Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -83,7 +83,7 @@
   "main_element_present": false,
   "robots_txt_detected": false,
   "robots_txt_url": "https://ir.eia.gov/robots.txt",
-  "robots_txt_status_code": 502,
+  "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,

@@ -24,7 +24,7 @@
     "final_url_websites",
     "dod_2025"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -62,7 +62,8 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".cw-environment.erdc.dren.mil"
+    ".cw-environment.erdc.dren.mil",
+    ".dren.mil"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [

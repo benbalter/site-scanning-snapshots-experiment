@@ -16,7 +16,7 @@
   "agency": "Department of State",
   "bureau": "Bureau of Global Public Affairs (GPA)",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "2c68792227b7acba7d72d2e1d7e8b08f",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 197,
-  "visits": 86,
+  "pageviews": 177,
+  "visits": 84,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -53,9 +53,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".state.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

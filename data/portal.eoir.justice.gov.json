@@ -16,14 +16,13 @@
   "agency": "Department of Justice",
   "bureau": "Department of Justice",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f5f6b4a0e6326298dc3709510b35f324",
+  "page_hash": "53ff256961882cc808e5b8ad244afe02",
   "accessibility_violations": "{\"contrast\":3,\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -50,23 +49,15 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "az416426.vo.msecnd.net",
-    "fonts.gstatic.com",
-    "usgovvirginia-0.in.applicationinsights.azure.us",
     "www.google.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js",
-    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
-    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://usgovvirginia-0.in.applicationinsights.azure.us/v2/track",
     "https://www.google.com/recaptcha/api.js",
-    "https://www.google.com/recaptcha/api2/webworker.js",
-    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 3,
   "cookie_domains": [
     "portal.eoir.justice.gov"
   ],

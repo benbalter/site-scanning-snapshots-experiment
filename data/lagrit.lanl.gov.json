@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Los Alamos National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -66,8 +66,7 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".lagrit.lanl.gov",
-    ".lanl.gov"
+    ".lagrit.lanl.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

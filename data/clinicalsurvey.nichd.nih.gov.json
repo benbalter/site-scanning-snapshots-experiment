@@ -16,14 +16,13 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -67,7 +66,8 @@
     "https://kit.fontawesome.com/0ae6d0e1d0.js",
     "https://use.fontawesome.com/25d5060cb4.css",
     "https://use.fontawesome.com/25d5060cb4.js",
-    "https://use.fontawesome.com/releases/v4.7.0/css/font-awesome-css.min.css"
+    "https://use.fontawesome.com/releases/v4.7.0/css/font-awesome-css.min.css",
+    "https://use.fontawesome.com/releases/v4.7.0/fonts/fontawesome-webfont.woff2"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [

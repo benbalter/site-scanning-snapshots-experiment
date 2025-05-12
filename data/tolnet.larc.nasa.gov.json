@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "79d6fc221bb8e7bbdc1b081ab5c3d91f",
+  "page_hash": "f381126e4edc6dc24465b858875c70a1",
   "accessibility_violations": "{\"contrast\":11,\"frames-iframes\":1,\"images\":3,\"link-purpose\":3}",
-  "pageviews": 1302,
-  "visits": 579,
+  "pageviews": 1592,
+  "visits": 791,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -53,27 +53,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "cdn.bsky.app",
     "dap.digitalgov.gov",
     "embed.bsky.app",
-    "public.api.bsky.app",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.bsky.app/img/avatar/plain/did:plc:dqrupxfzetfxmen6biqlrkls/bafkreicq5zxb5xki7eetbkfohw6jkalraugknl2ko4nukhyaclwnhzmv4q@jpeg",
-    "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dqrupxfzetfxmen6biqlrkls/bafkreibdatn4ebevpk7jdtfdgi4epiophndgkgbu3rwyjmwk7hfj5otyvu@jpeg",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://embed.bsky.app/static/embed.js",
-    "https://embed.bsky.app/static/post-B5tuE6hl.js",
-    "https://embed.bsky.app/static/post-DbtsuDBE.css",
-    "https://embed.bsky.app/static/post-l22DtRDc.js",
-    "https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nasa.gov",
     "tolnet.larc.nasa.gov"

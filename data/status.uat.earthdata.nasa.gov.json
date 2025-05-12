@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ad3a1c6f28cc5fc5fb7cf1b7b999a576",
+  "page_hash": "0f0664ef89ee34e25c3eb07d14459827",
   "accessibility_violations": "{\"user-control-name\":3,\"contrast\":1}",
-  "pageviews": 119,
-  "visits": 45,
+  "pageviews": 111,
+  "visits": 46,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -50,7 +50,7 @@
     "dclink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GF01QXRMZ4,G-CSLL4ZEK4L,G-M3PE7MJ3XR",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-GF01QXRMZ4,G-M3PE7MJ3XR",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
     "cdn.jsdelivr.net",
@@ -64,6 +64,8 @@
   ],
   "third_party_service_urls": [
     "https://cdn.earthdata.nasa.gov/eui/1.1.3/stylesheets/application.css",
+    "https://cdn.earthdata.nasa.gov/tophat3/Inter-VariableFont_opsz",
+    "wght.ttf",
     "https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js",
     "https://cdn.uat.earthdata.nasa.gov/tophat3/Tophat3Widget.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -74,7 +76,6 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
-    "https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcviYwYZ8UA3.woff2",
     "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",

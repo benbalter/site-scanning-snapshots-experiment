@@ -16,7 +16,7 @@
   "agency": "Department of State",
   "bureau": "Bureau of East Asian and Pacific Affairs (EAP)",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "gov",
     "dap",
@@ -27,7 +27,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -39,8 +39,8 @@
   "www_scan_status": "completed",
   "page_hash": "a62747d3c51310f2e8efd056cb923f53",
   "accessibility_violations": "{\"contrast\":3}",
-  "pageviews": 2284,
-  "visits": 1671,
+  "pageviews": 2386,
+  "visits": 1670,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -64,8 +64,7 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 3,
   "cookie_domains": [

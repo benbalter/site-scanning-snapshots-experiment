@@ -5,7 +5,7 @@
   "initial_base_domain": "justice.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://usalogin-test.justice.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=rG6yF63rl3LLnmAYSmxbs4C6d0uhr9JBHVXG7ikCkpk&code_challenge_method=S256&nonce=7pgG3ycFZWKzZMdlvRYpLnsTbWwPMNjinfQKYhKh3Xx479fj5He3aHYaHJ0tfdqk&redirect_uri=https%3A%2F%2Fusalogin-test.justice.gov%2Fenduser%2Fcallback&response_type=code&state=p6B0izd44xiwVDtgO37213PnFavEAHSjMWDBRsyZMkfXWcQRiqy0UVbqHjsYdkTV&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://usalogin-test.justice.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=PNlEEbY5R1qPJUel57jviaNdFT_yZgjTnrQwjQyqVwM&code_challenge_method=S256&nonce=Bk7rQtNjYDZCxeIX4J0GOtZMA3IJWdFIy2A06I3EQwz4Ht8XizhoEQYlXGuiusrV&redirect_uri=https%3A%2F%2Fusalogin-test.justice.gov%2Fenduser%2Fcallback&response_type=code&state=eeWg9jWQVQXBIMUwat6IMSY7qJJMhrnYqLSo9fFx4b9ogjUNIk44u0QVMPpAeLaY&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "usalogin-test.justice.gov",
   "base_domain": "justice.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Department of Justice",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites"
   ],
@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a083fe82ef0781878e927a2d0002ebde",
+  "page_hash": "1245743bc1311b291ae7cf1a952e6210",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,7 +47,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-K7S8N9g47goZ1fB",
+  "ga_tag_id": "G-DS0z1,G-vu5nuw5yl3vmwIN",
   "third_party_service_domains": [
     "127.0.0.1",
     "login.okta.com",
@@ -67,7 +67,6 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".justice.gov",
     "usalogin-test.justice.gov"
   ],
   "viewport_meta_tag": true,

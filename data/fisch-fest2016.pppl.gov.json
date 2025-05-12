@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Princeton Plasma Physics Lab",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -54,12 +54,12 @@
     "maps.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://maps.googleapis.com/maps-api-v3/api/js/60/10/geometry.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/60/10/main.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/60/10/search.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/60/12/geometry.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/60/12/main.js",
+    "https://maps.googleapis.com/maps-api-v3/api/js/60/12/search.js",
     "https://maps.googleapis.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
-    "https://maps.gstatic.com/maps-api-v3/embed/js/60/10/init_embed.js"
+    "https://maps.gstatic.com/maps-api-v3/embed/js/60/12/init_embed.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": null,

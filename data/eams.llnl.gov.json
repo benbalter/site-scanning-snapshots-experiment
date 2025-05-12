@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Lawrence Livermore National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -64,6 +64,7 @@
   "third_party_service_count": 5,
   "cookie_domains": [
     ".eams.llnl.gov",
+    ".llnl.gov",
     "eams.llnl.gov"
   ],
   "viewport_meta_tag": true,

@@ -16,7 +16,7 @@
   "agency": "Department of Defense",
   "bureau": "Army",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "omb_idea",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "dod_2025"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "dfe37f7bd6be8c8c21973238c1b325ea",
+  "page_hash": "3c9d3d8304761463a0d27de2e7f32f24",
   "accessibility_violations": "{\"link-purpose\":4}",
-  "pageviews": 2077425,
-  "visits": 1298830,
+  "pageviews": 2053807,
+  "visits": 1280844,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -60,6 +60,7 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -69,11 +70,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/aa3fc80b/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".army.mil",
     "home.army.mil"

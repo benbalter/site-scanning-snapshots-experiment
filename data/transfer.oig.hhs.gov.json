@@ -19,11 +19,10 @@
   "404_test": false,
   "source_list": [
     "pulse",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "4a4bc3aaf9d31e5fd12583b90bc65503",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -51,7 +50,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".hhs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

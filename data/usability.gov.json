@@ -20,13 +20,12 @@
   "source_list": [
     "gov",
     "pulse",
-    "omb_idea",
     "2020_eot",
     "other",
     "gpo_fdlp",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,7 +35,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "4007060d5651d04ca317fb0806e4935e",
+  "page_hash": "788e94c7aae1290f54ec1226c0940a8e",
   "accessibility_violations": null,
   "pageviews": 1,
   "visits": 1,
@@ -56,20 +55,17 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HBYXWFP794,G-CSLL4ZEK4L,UA-47271808-1",
   "third_party_service_domains": [
-    "api.govdelivery.com",
     "avatars.githubusercontent.com",
-    "content.govdelivery.com",
     "dap.digitalgov.gov",
     "github.com",
     "public.govdelivery.com",
-    "t0.gstatic.com",
     "t1.gstatic.com",
+    "t2.gstatic.com",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://api.govdelivery.com/api/v2/public/accounts/13243/signups/34948/impressions",
     "https://avatars.githubusercontent.com/u/109311838",
     "https://avatars.githubusercontent.com/u/11297460",
     "https://avatars.githubusercontent.com/u/11577248",
@@ -79,8 +75,6 @@
     "https://avatars.githubusercontent.com/u/31708849",
     "https://avatars.githubusercontent.com/u/400690",
     "https://avatars.githubusercontent.com/u/91757276",
-    "https://content.govdelivery.com/assets/SignupForm-d2c7e0c1f649b8acbff534de15579347be898fae9cabb9a0205ca9a9fc2b7560.js",
-    "https://content.govdelivery.com/assets/signup_form-f6371d2d2a16ca90c52c6f09308a1e9df1e8f064a71cefd805f8443e8f6341b0.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://github.com/AKM399.png",
     "https://github.com/AshleyO85.png",
@@ -93,8 +87,8 @@
     "https://github.com/sarah-sch.png",
     "https://public.govdelivery.com/accounts/USGSA/signup/34948/form",
     "https://public.govdelivery.com/assets/Signup.js",
-    "https://t0.gstatic.com/faviconV2",
     "https://t1.gstatic.com/faviconV2",
+    "https://t2.gstatic.com/faviconV2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
@@ -104,7 +98,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".digital.gov"
   ],

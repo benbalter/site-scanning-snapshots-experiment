@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "US Department of Energy, Office of the CIO",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "64231609bde2935431a617f513eb7393",
-  "accessibility_violations": "{\"language\":1}",
+  "page_hash": "e81bb80839f3357e7b48c250d1dff528",
+  "accessibility_violations": "{\"contrast\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,

@@ -16,7 +16,7 @@
   "agency": "Corporation for National and Community Service",
   "bureau": "AmeriCorps Office of Inspector General",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "gov",
     "final_url_websites",
@@ -53,6 +53,7 @@
     "kit.fontawesome.com",
     "maxcdn.bootstrapcdn.com",
     "use.fontawesome.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -63,9 +64,10 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://use.fontawesome.com/releases/v5.10.0/js/v4-shims.js",
     "https://use.fontawesome.com/releases/v6.4.2/js/all.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".americorpsoig.gov",
     "www.americorpsoig.gov"
@@ -113,7 +115,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-04-24T13:35:01.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "1fb6f045546aa0c6c9ba0f101cbfbd35",
+  "sitemap_xml_page_hash": "ab9df2230b3188c745b0505e891b4db7",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

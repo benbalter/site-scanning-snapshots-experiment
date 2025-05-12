@@ -50,7 +50,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".census.gov",
     "npc-sra-vpn.census.gov"
   ],
   "viewport_meta_tag": true,
@@ -72,10 +71,10 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": true,
+  "robots_txt_detected": false,
   "robots_txt_url": "https://npc-sra-vpn.census.gov/robots.txt",
-  "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/plain",
+  "robots_txt_status_code": 404,
+  "robots_txt_media_type": "unknown",
   "robots_txt_filesize": 26,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,

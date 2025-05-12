@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Idaho National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "87a7bb1ed32a6cde2be5b1256c1f7d95",
+  "page_hash": "d14a8dcf010287bd3d84f6e3cd1349a8",
   "accessibility_violations": "{\"link-purpose\":7}",
   "pageviews": null,
   "visits": null,
@@ -54,7 +54,6 @@
   "third_party_service_domains": [
     "dmztheme19.inl.gov",
     "fonts.gstatic.com",
-    "inl.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -63,35 +62,24 @@
     "https://dmztheme19.inl.gov/Branding%20Assets/dmz.css",
     "https://dmztheme19.inl.gov/Branding%20Assets/dmz.js",
     "https://dmztheme19.inl.gov/Branding%20Assets/ga.js",
-    "https://dmztheme19.inl.gov/Branding%20Assets/images/Logo.png",
     "https://dmztheme19.inl.gov/Branding%20Assets/images/Search_Icon.png",
-    "https://dmztheme19.inl.gov/Branding%20Assets/images/social-sprite.png",
-    "https://dmztheme19.inl.gov/Branding%20Assets/images/titletest.jpg",
     "https://dmztheme19.inl.gov/Branding%20Assets/imgix.js",
     "https://dmztheme19.inl.gov/Branding%20Assets/jquery.js",
     "https://dmztheme19.inl.gov/Branding%20Assets/jquery.xdomainrequest.min.js",
     "https://fonts.gstatic.com/s/roboto/v15/2UX7WLTfW3W8TclTUvlFyQ.woff",
     "https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff",
-    "https://inl.gov/content/uploads/2023/04/departmentofenergy.png",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".inl.gov",
     "portal.inl.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": [
-    "about",
-    "privacy"
-  ],
-  "required_links_text": [
-    "about us",
-    "accessibility",
-    "vulnerability disclosure"
-  ],
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
   "title": "INL Portal - Home",
@@ -101,7 +89,7 @@
   "og_description": null,
   "og_article_published": null,
   "og_article_modified": null,
-  "og_image": "https://dmztheme19.inl.gov/Branding%20Assets/Images/INL Logo Blue.png",
+  "og_image": null,
   "og_type": null,
   "og_url": null,
   "canonical_link": null,

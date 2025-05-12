@@ -5,7 +5,7 @@
   "initial_base_domain": "usgs.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://vawv-gis.usgs.gov/portal/sharing/oauth2/authorize?client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%22%2C%22uid%22%3A%22nxN6MCZIZLuTGRs7Gy7SGDkUAb_1i6VouzXKJaZLurY%22%2C%22returnUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2F%22%2C%22useLandingPage%22%3Afalse%2C%22clientId%22%3A%22arcgisonline%22%7D&expiration=20160&locale=en&redirect_uri=https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2Faccountswitcher-callback.html&code_challenge=VYB1BPyR2iYnU0YBDBFHmJzXCnHJWD1tWEmqmv0pmvw&code_challenge_method=S256&display=default&force_login=false&hideCancel=true&showSignupOption=true&canHandleCrossOrgSignIn=true&signuptype=esri",
+  "url": "https://vawv-gis.usgs.gov/portal/sharing/oauth2/authorize?client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%22%2C%22uid%22%3A%22DkuMR40dajLdWMVoraMps5FXlWvE16Fmz6U7lPOUAh4%22%2C%22returnUrl%22%3A%22https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2F%22%2C%22useLandingPage%22%3Afalse%2C%22clientId%22%3A%22arcgisonline%22%7D&expiration=20160&locale=en&redirect_uri=https%3A%2F%2Fvawv-gis.usgs.gov%2Fportal%2Fhome%2Faccountswitcher-callback.html&code_challenge=lJFwf9iVUKRET8h6hOQBQd35EkLaDUPhPgmDbA3ifqo&code_challenge_method=S256&display=default&force_login=false&hideCancel=true&showSignupOption=true&canHandleCrossOrgSignIn=true&signuptype=esri",
   "domain": "vawv-gis.usgs.gov",
   "base_domain": "usgs.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of the Interior",
   "bureau": "U.S. Geological Survey",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bb9800eec28e75412609a7a82823df72",
+  "page_hash": "f288e8adf9c7712abe35ea67c47945fe",
   "accessibility_violations": "{\"page-titled\":1}",
-  "pageviews": 184,
-  "visits": 141,
+  "pageviews": 160,
+  "visits": 124,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -55,7 +55,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".usgs.gov",
     ".vawv-gis.usgs.gov"
   ],
   "viewport_meta_tag": true,

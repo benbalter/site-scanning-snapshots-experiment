@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Fermi National Accelerator Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -59,7 +59,9 @@
     "https://www.fnal.gov/fnalincludes/v6_0/images/logo-fnal.png"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".fnal.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "/es"

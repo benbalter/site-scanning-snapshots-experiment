@@ -26,7 +26,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "edb6d788147095d1336fbc779805e0d9",
+  "page_hash": "2c28a7cf42f77b6cf5e112ef82518a31",
   "accessibility_violations": "{\"contrast\":2}",
-  "pageviews": 538903,
-  "visits": 116190,
+  "pageviews": 534887,
+  "visits": 116515,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -52,16 +52,12 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "ajax.googleapis.com",
-    "sewpprod.servicenowservices.com",
-    "www.sewp.nasa.gov"
+    "ajax.googleapis.com"
   ],
   "third_party_service_urls": [
-    "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js",
-    "https://sewpprod.servicenowservices.com/api/global/agent_availability",
-    "https://www.sewp.nasa.gov/images/chatnow.png"
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".nasa.gov",
     "sewp.nasa.gov"
@@ -72,7 +68,6 @@
     "privacy"
   ],
   "required_links_text": [
-    "about us",
     "accessibility"
   ],
   "https_enforced": true,
@@ -91,17 +86,17 @@
   "language": "en",
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": true,
+  "robots_txt_detected": false,
   "robots_txt_url": "https://sewp.nasa.gov/robots.txt",
-  "robots_txt_status_code": 200,
-  "robots_txt_media_type": "text/plain",
+  "robots_txt_status_code": 403,
+  "robots_txt_media_type": "text/html",
   "robots_txt_filesize": 297,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": true,
+  "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://sewp.nasa.gov/sitemap.xml",
-  "sitemap_xml_status_code": 200,
-  "sitemap_xml_media_type": "text/xml",
+  "sitemap_xml_status_code": 403,
+  "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 5112,
   "sitemap_xml_count": 25,
   "sitemap_xml_lastmod": "2024-10-31T00:00:00.000Z",

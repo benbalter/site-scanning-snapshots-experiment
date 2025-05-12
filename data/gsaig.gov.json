@@ -16,7 +16,7 @@
   "agency": "General Services Administration",
   "bureau": "GSA Office of Inspector General",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "gov",
     "pulse",
@@ -27,7 +27,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,7 +37,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "605792af902a2c2962c143419411dd7e",
+  "page_hash": "d693cc3245a71e0f5342f83a88da1535",
   "accessibility_violations": "{\"user-control-name\":2}",
   "pageviews": null,
   "visits": null,
@@ -73,6 +73,7 @@
     "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js",
     "https://syndication.twitter.com/settings",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 7,

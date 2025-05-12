@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "53098b9138dbad5983af3aacb347bb69",
+  "page_hash": "1139663aefb0744a656462be917c8354",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -46,25 +46,29 @@
     "agency": "DOE"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-VEJ5DJ7LND,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-VEJ5DJ7LND",
   "third_party_service_domains": [
+    "c.bing.com",
+    "c.clarity.ms",
     "cdn.jsdelivr.net",
-    "d.clarity.ms",
     "dap.digitalgov.gov",
+    "s.clarity.ms",
     "www.clarity.ms",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.bing.com/c.gif",
+    "https://c.clarity.ms/c.gif",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
-    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.clarity.ms/s/0.8.1/clarity.js",
+    "https://s.clarity.ms/collect",
+    "https://www.clarity.ms/s/0.8.8/clarity.js",
     "https://www.clarity.ms/tag/k92idz2uaf",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".energy.gov"
   ],
@@ -134,11 +138,11 @@
   "uswds_banner_heres_how": false,
   "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 65,
-  "uswds_string": 81,
+  "uswds_string": 79,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 166,
+  "uswds_count": 164,
   "www_url": "https://www.betterbuildings.energy.gov",
   "www_status_code": 404,
   "www_title": "Not Found"

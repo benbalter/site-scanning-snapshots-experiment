@@ -19,11 +19,10 @@
   "404_test": false,
   "source_list": [
     "dap",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "53c31582744f949223005bb1e5673e07",
+  "page_hash": "ec7c5844e85be724228716c6bd253b1f",
   "accessibility_violations": null,
-  "pageviews": 363,
-  "visits": 67,
+  "pageviews": 307,
+  "visits": 63,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -58,7 +57,6 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "touchpoints.app.cloud.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -70,13 +68,13 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2",
+    "https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
     "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".cloud.gov"
   ],
@@ -142,16 +140,17 @@
     "usa-icon",
     "usa-label",
     "usa-legend",
+    "usa-link",
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
   "uswds_banner_heres_how-2": false,
-  "uswds_usa_classes": 35,
+  "uswds_usa_classes": 50,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 35,
+  "uswds_count": 50,
   "www_url": "https://www.preview-onrr-frontend.app.cloud.gov",
   "www_status_code": 404,
   "www_title": ""

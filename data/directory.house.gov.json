@@ -16,7 +16,7 @@
   "agency": "The Legislative Branch",
   "bureau": "US House of Representatives",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites"
   ],
@@ -31,7 +31,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "86f27cf26f4c2a89f96d32a04839da29",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"user-control-name\":2,\"contrast\":1,\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,9 +48,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".house.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

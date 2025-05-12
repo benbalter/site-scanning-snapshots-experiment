@@ -5,7 +5,7 @@
   "initial_base_domain": "research.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://identity.research.gov/sso/XUI/?realm=/research&goto=https://identity.research.gov:443/sso/oauth2/authorize?response_type%3Dcode%26client_id%3Drgov-research.aws-prod.oauth%26scope%3Dprofile%26state%3D6PCh0SQUdfAOFtJo3aXqGRQsdBXBn6p882BeKPFLkRg%253D%26redirect_uri%3Dhttps://www.research.gov/research-web/login/oauth2/code/nsf#login/",
+  "url": "https://identity.research.gov/sso/XUI/?realm=/research&goto=https://identity.research.gov:443/sso/oauth2/authorize?response_type%3Dcode%26client_id%3Drgov-research.aws-prod.oauth%26scope%3Dprofile%26state%3D-JbJEj9J0UXnRnNoLFkL8Wd_tASm3vRM1zdH_aMnBdo%253D%26redirect_uri%3Dhttps://www.research.gov/research-web/login/oauth2/code/nsf#login/",
   "domain": "identity.research.gov",
   "base_domain": "research.gov",
   "top_level_domain": "gov",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "79eed87319a5d4259b90197635e77ed0",
+  "page_hash": "325713cca557f33783b88e19a44d19c3",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -39,7 +39,7 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
@@ -48,6 +48,7 @@
   "third_party_service_domains": [
     "apps.research.gov",
     "script.crazyegg.com",
+    "wt.research.gov",
     "www.research.gov"
   ],
   "third_party_service_urls": [
@@ -68,22 +69,32 @@
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/sampling/apps.research.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/site/apps.research.gov.json",
     "https://script.crazyegg.com/pages/scripts/0041/5508.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/86f4b1d8cd35a9f9deb63e8a2361eb96.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/8ec331a9c219b59c6d7180c82a423f79.js",
+    "https://wt.research.gov/dcsdnk61n1pdfnrido9thdr8t_7i2p/dcs.gif",
     "https://www.research.gov/semantic-content/footer",
     "https://www.research.gov/semantic-content/header",
     "https://www.research.gov/semantic-content/navigation"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".research.gov",
     "identity.research.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "NSF | Research.gov",
+  "title": "Research.gov - User Log In",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -112,7 +123,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "555bb599fcd2dad5329ede36baba1bbd",
+  "sitemap_xml_page_hash": "0fd1b0fcca752bf7889bddf8017bdc32",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -5,7 +5,7 @@
   "initial_base_domain": "inl.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://nrcoe.inl.gov/",
+  "url": "https://nrcoe.inl.gov/#/",
   "domain": "nrcoe.inl.gov",
   "base_domain": "inl.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Energy",
   "bureau": "Idaho National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c8b65722151a4883a4ac56018e6bb453",
+  "page_hash": "01cc1dcd12f856c34c304378adeb7bf5",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,26 +46,30 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "UA-33523145-1",
   "third_party_service_domains": [
-    "ajax.googleapis.com",
-    "cdn.jsdelivr.net",
+    "nrc.gov",
+    "nrcgovsamediadev.blob.core.windows.net",
+    "www.google-analytics.com",
+    "www.googletagmanager.com",
     "www.nrc.gov"
   ],
   "third_party_service_urls": [
-    "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
-    "https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css",
-    "https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js",
+    "https://nrc.gov/cdn/legacy/admin/img/icon-exit.gif",
+    "https://nrcgovsamediadev.blob.core.windows.net/dev/libraries/media/nrcweb/site/logo/logo.png",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.nrc.gov/",
     "https://www.nrc.gov/CMSPages/GetResource.ashx",
     "https://www.nrc.gov/cdn/site/logo/logo-nrc-banner-print.jpg",
-    "https://www.nrc.gov/cdn/site/logo/logo.png",
     "https://www.nrc.gov/cdn/site/logo/pr-seal.png",
-    "https://www.nrc.gov/template/search.png"
+    "https://www.nrc.gov/template/search.png",
+    "https://www.nrc.gov/working/nrcweb/js/bundler.9A3D40CC17FDF68BB735E82E04473A13.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".inl.gov",
-    "nrcoe.inl.gov"
+    ".inl.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -75,7 +79,6 @@
     "usa.gov"
   ],
   "required_links_text": [
-    "accessibility",
     "foia",
     "inspector general",
     "privacy policy",
@@ -83,10 +86,10 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "NRC: Reactor Operational Experience Results and Databases",
+  "title": "Reactor Operational Experience Results and Databases | NRC.gov",
   "description": null,
   "keywords": null,
-  "og_title": "Operating Experience Results and Databases",
+  "og_title": "Reactor Operational Experience Results and Databases",
   "og_description": null,
   "og_article_published": null,
   "og_article_modified": null,
@@ -96,7 +99,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": true,
+  "main_element_present": false,
   "robots_txt_detected": false,
   "robots_txt_url": "https://nrcoe.inl.gov/robots.txt",
   "robots_txt_status_code": 404,

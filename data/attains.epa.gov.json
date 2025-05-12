@@ -16,7 +16,7 @@
   "agency": "Environmental Protection Agency",
   "bureau": "Environmental Protection Agency",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "e48952b6feafe683600352a0b320a7d5",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 1559,
-  "visits": 1337,
+  "pageviews": 1431,
+  "visits": 1234,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -53,7 +53,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".epa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

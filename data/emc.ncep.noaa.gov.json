@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "cbfeac90658e5cf5a95307fbfed2868d",
+  "page_hash": "95a2e4d600d40052ea81c30f84432b40",
   "accessibility_violations": "{\"contrast\":4,\"link-purpose\":8,\"lists\":6}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 276,
+  "visits": 108,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -46,16 +46,21 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": true,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "cdn.oceanservice.noaa.gov",
     "cdnjs.cloudflare.com",
+    "dap.digitalgov.gov",
     "oceanservice.noaa.gov",
-    "www.emc.ncep.noaa.gov"
+    "www.emc.ncep.noaa.gov",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js",
@@ -64,6 +69,7 @@
     "https://cdn.oceanservice.noaa.gov/oceanserviceprod/bootstrap/img/noaa_logo_circle_72x72.svg",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://oceanservice.noaa.gov/bootstrap/img/noaa_logo_circle_72x72.svg",
     "https://www.emc.ncep.noaa.gov/emc/css/bootstrap-3.3.7/bootstrap.min.css",
     "https://www.emc.ncep.noaa.gov/emc/css/main/emc-footer.css",
@@ -76,9 +82,10 @@
     "https://www.emc.ncep.noaa.gov/emc/js/bootstrap-3.4.1/bootstrap.min.js",
     "https://www.emc.ncep.noaa.gov/emc/js/main/bootstrap-notify-3.1.3/bootstrap-notify.js",
     "https://www.emc.ncep.noaa.gov/emc/js/main/jquery-dateFormat-master/dist/jquery-dateFormat.js",
-    "https://www.emc.ncep.noaa.gov/emc/js/main/main.js"
+    "https://www.emc.ncep.noaa.gov/emc/js/main/main.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".noaa.gov"
   ],

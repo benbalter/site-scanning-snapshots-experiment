@@ -18,7 +18,6 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea",
     "usagov",
     "other",
     "dod_public",
@@ -26,7 +25,7 @@
   ],
   "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "82bf54493b5315aaec35668abb8cfb8d",
+  "page_hash": "55b95eef989ec76cb5580bfe00fe54c3",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,6 +55,7 @@
     "fonts.gstatic.com",
     "media.blubrry.com",
     "unpkg.com",
+    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
@@ -68,12 +68,13 @@
     "https://media.blubrry.com/voices_from_darpa/content.blubrry.com/voices_from_darpa/20250408_VFD_BETR_to_BEST_Release.mp3",
     "https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js",
     "https://unpkg.com/react@18.3.1/umd/react.production.min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/w0_qmZVSdobukXrBwYd9dTF7/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".darpa.mil"
   ],

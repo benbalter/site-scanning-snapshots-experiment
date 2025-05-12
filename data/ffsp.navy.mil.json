@@ -18,7 +18,6 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea",
     "other",
     "mil-sites1",
     "dod_public",
@@ -35,7 +34,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "05ab77a91a715924a9069c0567a75b24",
+  "page_hash": "60ee8ba62c35b3a9a5ad93bb9bead27d",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -53,7 +52,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".navy.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

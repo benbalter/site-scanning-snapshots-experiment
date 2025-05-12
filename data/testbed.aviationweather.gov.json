@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7a85dfdd889f04a076745299b773fbf6",
+  "page_hash": "e9686bbdde58a633ec0fc77a5e1fd9b1",
   "accessibility_violations": "{\"aria\":1,\"contrast\":1}",
-  "pageviews": 3,
-  "visits": 3,
+  "pageviews": 30,
+  "visits": 19,
   "ipv6": true,
   "hostname": "akadns.net",
   "cms": null,
@@ -49,14 +49,27 @@
   ],
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
-  "cookie_domains": null,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "AWC",
+    "pua": "ua-33523145-2"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 2,
+  "cookie_domains": [
+    ".aviationweather.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "foia",

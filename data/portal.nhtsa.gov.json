@@ -5,7 +5,7 @@
   "initial_base_domain": "nhtsa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://portal.nhtsa.gov/",
+  "url": "https://portal.nhtsa.gov/manufacturer/login",
   "domain": "portal.nhtsa.gov",
   "base_domain": "nhtsa.gov",
   "top_level_domain": "gov",
@@ -23,7 +23,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e96f44ed6d5816452f13070c731797eb",
+  "page_hash": "e672536ac6bc7e8f155f24db0a5ee208",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -51,20 +51,39 @@
   "third_party_service_domains": [
     "artemis-user-api.nhtsa.gov",
     "fonts.googleapis.com",
+    "fonts.gstatic.com",
     "maxcdn.bootstrapcdn.com",
-    "use.fontawesome.com"
+    "ok1static.oktacdn.com",
+    "use.fontawesome.com",
+    "webcomponent.nhtsa.gov"
   ],
   "third_party_service_urls": [
     "https://artemis-user-api.nhtsa.gov/external-menu-config-info",
     "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQmz24.woff",
     "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css",
-    "https://use.fontawesome.com/releases/v5.0.6/js/all.js"
+    "https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/5.16.0/css/okta-sign-in.min.css",
+    "https://use.fontawesome.com/releases/v5.0.6/js/all.js",
+    "https://webcomponent.nhtsa.gov/custom-element.min.js",
+    "https://webcomponent.nhtsa.gov/document-register-element.js",
+    "https://webcomponent.nhtsa.gov/navfootersimple.js",
+    "https://webcomponent.nhtsa.gov/navheadsimple.js",
+    "https://webcomponent.nhtsa.gov/restyle.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 7,
   "cookie_domains": null,
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "privacy policy",
+    "vulnerability disclosure"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "Enterprise Portals",

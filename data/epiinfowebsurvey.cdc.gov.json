@@ -16,13 +16,12 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Centers for Disease Control and Prevention",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
-    "omb_idea",
     "final_url_websites"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -51,6 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".cdc.gov",
     ".epiinfowebsurvey.cdc.gov"
   ],
   "viewport_meta_tag": false,

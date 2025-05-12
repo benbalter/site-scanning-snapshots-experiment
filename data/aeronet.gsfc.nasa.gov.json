@@ -16,7 +16,7 @@
   "agency": "National Aeronautics and Space Administration",
   "bureau": "NASA Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,8 +37,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "589aace0f884749a3a6a68d4908dfda9",
   "accessibility_violations": "{\"contrast\":4,\"lists\":23}",
-  "pageviews": 79346,
-  "visits": 13299,
+  "pageviews": 75969,
+  "visits": 13110,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -56,16 +56,14 @@
   "ga_tag_id": "UA-53781545-1,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nasa.gov"
   ],

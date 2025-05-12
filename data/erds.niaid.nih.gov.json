@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -38,7 +38,7 @@
   "accessibility_violations": "{\"contrast\":2}",
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": null,
   "login_provider": null,
@@ -63,6 +63,7 @@
   "third_party_service_count": 2,
   "cookie_domains": [
     ".erds.niaid.nih.gov",
+    ".nih.gov",
     "erds.niaid.nih.gov"
   ],
   "viewport_meta_tag": true,

@@ -16,7 +16,7 @@
   "agency": "Department of the Treasury",
   "bureau": "Department of the Treasury - OCIO",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "77914cafea2ba1c0a942e6dd22937019",
+  "page_hash": "4198c07aad489885dfc645826934ec6c",
   "accessibility_violations": null,
-  "pageviews": 612035,
-  "visits": 473344,
+  "pageviews": 524312,
+  "visits": 385608,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -53,6 +53,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-ME8TBPZYXP,UA-168882758-1,G-CSLL4ZEK4L,G-icon,G-Overview",
   "third_party_service_domains": [
+    "analytics.foresee.com",
     "api.fiscaldata.treasury.gov",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -62,6 +63,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.foresee.com/ingest/events",
     "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/deposits_withdrawals_operating_cash",
     "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/operating_cash_balance",
     "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_2",
@@ -75,17 +77,23 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://gateway.foresee.com/code/19.14.9-fs/fs.compress.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/fs.invite.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.14.9-fs/fs.utils.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/templates/trigger/desktopredesign/invite___html.js",
+    "https://gateway.foresee.com/code/19.14.9-fs/templates/trigger/desktopredesign/main.css",
     "https://gateway.foresee.com/sites/fiscaldata/production/gateway.min.js",
+    "https://gateway.foresee.com/sites/fiscaldata/production/trigger/fiscal_data_banner.png",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".treasury.gov",
     "fiscaldata.treasury.gov"

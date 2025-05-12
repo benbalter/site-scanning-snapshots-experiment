@@ -16,7 +16,7 @@
   "agency": "Environmental Protection Agency",
   "bureau": "Environmental Protection Agency",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3bcc94028ee5bf6d520071609b5918b9",
+  "page_hash": "22ed9301e739f50dd0f9548a07f02c50",
   "accessibility_violations": "{\"language\":1,\"link-purpose\":1}",
-  "pageviews": 372434,
-  "visits": 154634,
+  "pageviews": 365829,
+  "visits": 155353,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -64,7 +64,9 @@
     "https://www.epa.gov/epafiles/images/epafiles_misc_space.gif"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".epa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "foia"

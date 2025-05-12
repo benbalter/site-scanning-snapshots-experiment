@@ -18,24 +18,23 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": [
-    "omb_idea",
     "other"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "dns_resolution_error",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "92d48262a26dcc4db60a6cfd351efbc2",
+  "page_hash": "ed2b9a67e1bbcc4d5acccc37817902e8",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -47,14 +46,12 @@
   "dap_version": "",
   "ga_tag_id": "G-TKY52QRW43",
   "third_party_service_domains": [
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".nih.gov"
   ],

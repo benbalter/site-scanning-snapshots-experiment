@@ -16,7 +16,7 @@
   "agency": "Department of Homeland Security",
   "bureau": "U.S. Customs and Border Protection",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "gpo_fdlp"
@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3c1165afaf73d294995cba696a1e4c8f",
+  "page_hash": "11d1f408e726e1797693663dbb2d7dc4",
   "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -47,24 +47,16 @@
   "dap_version": "",
   "ga_tag_id": "G-VYQAB",
   "third_party_service_domains": [
-    "17de4c18.akstat.io",
-    "52-222-122-97_s-23-32-75-29_ts-1746185016-clienttons-s.akamaihd.net",
+    "17de4c1b.akstat.io",
     "c.go-mpulse.net",
-    "gtphuyixydta42auvm4a-p7li4q-b1956e39e-clientnsv4-s.akamaihd.net",
-    "s.go-mpulse.net",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net"
+    "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c18.akstat.io/",
-    "https://52-222-122-97_s-23-32-75-29_ts-1746185016-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c1b.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuyixydta42auvm4a-p7li4q-b1956e39e-clientnsv4-s.akamaihd.net/eum/results.txt",
-    "https://s.go-mpulse.net/boomerang/N6LXG-VYQAB-6SGJD-9EMTP-F7N9P",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
+    "https://s.go-mpulse.net/boomerang/N6LXG-VYQAB-6SGJD-9EMTP-F7N9P"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".cbp.gov",
     "publicstats.cbp.gov"

@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "Bureau of Economic Analysis",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "gov",
     "pulse",
@@ -30,7 +30,7 @@
     "gpo_fdlp",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -40,10 +40,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "dcee9a4a36e064dd1ae696fe1cf0ae73",
+  "page_hash": "72ecc6ab9e066837accfb26b3d2f392f",
   "accessibility_violations": "{\"link-purpose\":10}",
-  "pageviews": 953377,
-  "visits": 444182,
+  "pageviews": 1263070,
+  "visits": 590608,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -59,7 +59,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-J4698JNNFT,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "cdn.gov.cfigroup.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -68,7 +67,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/7cb2eb55971115/webmon.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
@@ -79,13 +77,11 @@
     "https://search.bea.gov/javascripts/remote.loader.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".bea.gov",
-    "www.bea.gov"
+    ".bea.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -131,7 +127,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-02-11T15:01:41.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "24f0c3708329dc85a5c9046b5683726d",
+  "sitemap_xml_page_hash": "632d621ef3a2a1d73609bc12bc311d69",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

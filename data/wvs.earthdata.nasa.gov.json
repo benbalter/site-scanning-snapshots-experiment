@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a0af7a328cb0d3d326e085bee4178515",
+  "page_hash": "75774593fe4c0c32aafe769d72b76359",
   "accessibility_violations": "{\"aria\":3,\"contrast\":1,\"form-names\":2}",
-  "pageviews": 37360,
-  "visits": 13342,
+  "pageviews": 35741,
+  "visits": 10997,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -46,20 +46,35 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-GSYWLWGJBS",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "NASA",
+    "subagency": "GSFC",
+    "dclink": "true"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-GSYWLWGJBS,G-M3PE7MJ3XR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "fbm.earthdata.nasa.gov",
+    "gibs-a.earthdata.nasa.gov",
+    "gibs-b.earthdata.nasa.gov",
+    "status.earthdata.nasa.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://fbm.earthdata.nasa.gov/for/Worldview%20Snapshots/feedback.css",
     "https://fbm.earthdata.nasa.gov/for/Worldview%20Snapshots/feedback.js",
+    "https://gibs-a.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi",
+    "https://gibs-b.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi",
+    "https://status.earthdata.nasa.gov/api/v1/notifications",
+    "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nasa.gov"
   ],

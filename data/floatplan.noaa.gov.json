@@ -5,7 +5,7 @@
   "initial_base_domain": "noaa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://floatplan.noaa.gov/vop/r/pub_workspace/vop/login?session=15282077441251&tz=0:00",
+  "url": "https://floatplan.noaa.gov/vop/r/pub_workspace/vop/login?session=8565493865372&tz=0:00",
   "domain": "floatplan.noaa.gov",
   "base_domain": "noaa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Commerce",
   "bureau": "National Oceanic and Atmospheric Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "omb_idea",
@@ -24,7 +24,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "82ab5b4f15e1f0639853cab6b2fdafca",
+  "page_hash": "cb681a9a2032ddd5735ac390c783b44d",
   "accessibility_violations": "{\"contrast\":2,\"images\":1}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 9,
+  "visits": 3,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -48,14 +48,20 @@
   ],
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "static.oracle.com"
+    "dap.digitalgov.gov",
+    "static.oracle.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://static.oracle.com/cdn/apex/24.2.3/",
     "https://static.oracle.com/cdn/apex/24.2.3/app_ui/css/Core.min.css",
     "https://static.oracle.com/cdn/apex/24.2.3/app_ui/css/Theme-Standard.min.css",
@@ -72,10 +78,12 @@
     "https://static.oracle.com/cdn/apex/24.2.3/pkgapp_ui/css/5.0.min.css",
     "https://static.oracle.com/cdn/apex/24.2.3/themes/theme_42/1.1/css/Core.min.css",
     "https://static.oracle.com/cdn/apex/24.2.3/themes/theme_42/1.1/js/modernizr-custom.min.js",
-    "https://static.oracle.com/cdn/apex/24.2.3/themes/theme_42/1.1/js/theme42.min.js"
+    "https://static.oracle.com/cdn/apex/24.2.3/themes/theme_42/1.1/js/theme42.min.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
+    ".noaa.gov",
     "floatplan.noaa.gov"
   ],
   "viewport_meta_tag": true,

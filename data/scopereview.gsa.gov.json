@@ -25,7 +25,7 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": true,
+  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f43cf73a4bcd629f1ca0abb5cb6dce71",
+  "page_hash": "d4b610a2d35b1f502487d870392ef022",
   "accessibility_violations": "{\"contrast\":4}",
-  "pageviews": 2107,
-  "visits": 1596,
+  "pageviews": 2184,
+  "visits": 1630,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -54,15 +54,17 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-4LCBHM3DQJ",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/charts/loader.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".gsa.gov"
   ],

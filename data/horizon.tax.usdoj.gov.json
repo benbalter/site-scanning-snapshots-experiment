@@ -16,7 +16,7 @@
   "agency": "Department of Justice",
   "bureau": "Office of the Chief Information Officer",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites",
     "cisa"
@@ -50,6 +50,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".usdoj.gov",
     "horizon.tax.usdoj.gov"
   ],
   "viewport_meta_tag": false,

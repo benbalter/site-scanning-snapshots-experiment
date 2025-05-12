@@ -20,13 +20,12 @@
   "source_list": [
     "dap",
     "pulse",
-    "omb_idea",
     "final_url_websites",
     "cisa"
   ],
-  "public": false,
+  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,9 +34,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "da5fcfe5bb0f233f7530803d84f3991d",
-  "accessibility_violations": "{\"language\":1}",
-  "pageviews": 265,
-  "visits": 137,
+  "accessibility_violations": null,
+  "pageviews": 245,
+  "visits": 135,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -74,8 +73,7 @@
     "https://ocg.cancer.gov/sites/all/themes/ocg/images/bkg-tile.png",
     "https://www.cancer.gov/ccg/",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
