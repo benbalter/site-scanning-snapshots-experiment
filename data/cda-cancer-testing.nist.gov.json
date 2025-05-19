@@ -22,7 +22,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ff4afab319edb5eeda599f1fe414a941",
+  "page_hash": "f8bc92b8580bd33edc1d740538baf1ed",
   "accessibility_violations": "{\"contrast\":3,\"frames-iframes\":1,\"language\":1,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -48,14 +47,16 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "cda-validation.nist.gov"
+    "cda-validation.nist.gov",
+    "static.cloudflareinsights.com"
   ],
   "third_party_service_urls": [
     "https://cda-validation.nist.gov/cda-validation/css/main.css",
     "https://cda-validation.nist.gov/cda-validation/images/bg_body4.jpg",
-    "https://cda-validation.nist.gov/cda-validation/images/bg_external.gif"
+    "https://cda-validation.nist.gov/cda-validation/images/bg_external.gif",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nist.gov"
   ],
@@ -102,7 +103,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

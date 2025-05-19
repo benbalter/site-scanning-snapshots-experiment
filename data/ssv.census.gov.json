@@ -5,7 +5,7 @@
   "initial_base_domain": "census.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://respond.census.gov/ssv/login",
+  "url": "https://respond.census.gov/ssv",
   "domain": "respond.census.gov",
   "base_domain": "census.gov",
   "top_level_domain": "gov",
@@ -21,9 +21,8 @@
     "other",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4a64c8221785b9fa77d6069f31f5873a",
+  "page_hash": "a9fd761cefd72d806f8a01ae1575e496",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -39,10 +38,7 @@
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": [
-    "\"password\"",
-    "type=\"password\""
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
@@ -50,30 +46,21 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c1b.akstat.io",
-    "52-222-122-97_s-23-213-175-145_ts-1746790207-clienttons-s.akamaihd.net",
+    "17de4c20.akstat.io",
     "c.go-mpulse.net",
-    "gtphuyix2wxyw2a5447q-p72u5v-a2ea1c4a9-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
-    "ssv.census.gov",
-    "trial-eum-clientnsv4-s.akamaihd.net",
-    "trial-eum-clienttons-s.akamaihd.net"
+    "ssv.census.gov"
   ],
   "third_party_service_urls": [
-    "https://17de4c1b.akstat.io/",
-    "https://52-222-122-97_s-23-213-175-145_ts-1746790207-clienttons-s.akamaihd.net/eum/results.txt",
+    "https://17de4c20.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://gtphuyix2wxyw2a5447q-p72u5v-a2ea1c4a9-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/2RHWJ-MDWEM-2Q8VY-MNC3N-UGP9B",
-    "https://ssv.census.gov/favicon.ico",
-    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
-    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt"
+    "https://ssv.census.gov/favicon.ico"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".census.gov",
-    ".respond.census.gov",
-    "respond.census.gov"
+    ".respond.census.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -85,7 +72,7 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Login | SSV",
+  "title": "SSV Survey Closed",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -114,14 +101,13 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "30aa044a08464f0aa922874fee2a4aff",
+  "sitemap_xml_page_hash": "94c184b63d23c31ef74d597575ea6fc3",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

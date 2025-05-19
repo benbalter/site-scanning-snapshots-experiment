@@ -25,7 +25,6 @@
     "gpo_fdlp",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "788e94c7aae1290f54ec1226c0940a8e",
+  "page_hash": "54a7ae80ff6240c63c6122b3ca9503e8",
   "accessibility_violations": null,
   "pageviews": 1,
   "visits": 1,
@@ -55,17 +54,20 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HBYXWFP794,G-CSLL4ZEK4L,UA-47271808-1",
   "third_party_service_domains": [
+    "api.govdelivery.com",
     "avatars.githubusercontent.com",
+    "content.govdelivery.com",
     "dap.digitalgov.gov",
     "github.com",
     "public.govdelivery.com",
-    "t1.gstatic.com",
+    "t0.gstatic.com",
     "t2.gstatic.com",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://api.govdelivery.com/api/v2/public/accounts/13243/signups/34948/impressions",
     "https://avatars.githubusercontent.com/u/109311838",
     "https://avatars.githubusercontent.com/u/11297460",
     "https://avatars.githubusercontent.com/u/11577248",
@@ -75,6 +77,8 @@
     "https://avatars.githubusercontent.com/u/31708849",
     "https://avatars.githubusercontent.com/u/400690",
     "https://avatars.githubusercontent.com/u/91757276",
+    "https://content.govdelivery.com/assets/SignupForm-74afc2704b7f400b90713049c031843d52712031a0b411a51e0aa96ff8c70d5a.js",
+    "https://content.govdelivery.com/assets/signup_form-f6371d2d2a16ca90c52c6f09308a1e9df1e8f064a71cefd805f8443e8f6341b0.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://github.com/AKM399.png",
     "https://github.com/AshleyO85.png",
@@ -87,7 +91,7 @@
     "https://github.com/sarah-sch.png",
     "https://public.govdelivery.com/accounts/USGSA/signup/34948/form",
     "https://public.govdelivery.com/assets/Signup.js",
-    "https://t1.gstatic.com/faviconV2",
+    "https://t0.gstatic.com/faviconV2",
     "https://t2.gstatic.com/faviconV2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
@@ -98,7 +102,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".digital.gov"
   ],
@@ -182,7 +186,6 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 75,
   "uswds_string": 43,
   "uswds_string_in_css": 20,

@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f8af4f4522247daf7cba46bc8570423a",
+  "page_hash": "3afc9f069d8ff86e61376d34fb020b8b",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -61,6 +60,7 @@
   "third_party_service_urls": [
     "https://51567.global.siteimproveanalytics.io/image.aspx",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b8b768ed34bc7505f919.chunk.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
@@ -73,8 +73,7 @@
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
-    ".usa.gov",
-    "www.usa.gov"
+    ".usa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -135,14 +134,12 @@
     "usa-button",
     "usa-card-group",
     "usa-footer",
-    "usa-form",
     "usa-header",
     "usa-hero",
     "usa-icon",
     "usa-identifier",
     "usa-input",
     "usa-intro",
-    "usa-label",
     "usa-link",
     "usa-list",
     "usa-logo",
@@ -153,13 +150,10 @@
     "usa-overlay",
     "usa-prose",
     "usa-search",
-    "usa-sign-up",
     "usa-skipnav",
-    "usa-social-link",
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 60,
   "uswds_string": 2,
   "uswds_string_in_css": 20,

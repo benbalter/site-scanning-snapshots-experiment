@@ -19,10 +19,8 @@
   "404_test": true,
   "source_list": [
     "dap",
-    "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -32,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "07f75c8fb6e27b2e33321cffd34c6269",
+  "page_hash": "0ea47d5c9673e02d12a4d891da42e589",
   "accessibility_violations": null,
-  "pageviews": 135,
-  "visits": 56,
+  "pageviews": 1121,
+  "visits": 328,
   "ipv6": false,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -43,23 +41,27 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "G-8P2TQ193NX",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHS",
+    "subagency": "FEMA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-GGN6LY8D9J,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "www.google-analytics.com",
+    "analytics.google.com",
+    "dap.digitalgov.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://www.google-analytics.com/g/collect",
+    "https://analytics.google.com/g/collect",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".fema.gov",
-    ".uat-hazards.msc.fema.gov",
     "uat-hazards.msc.fema.gov"
   ],
   "viewport_meta_tag": true,
@@ -108,7 +110,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

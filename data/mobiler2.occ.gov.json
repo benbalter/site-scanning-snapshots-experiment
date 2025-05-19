@@ -20,7 +20,6 @@
   "source_list": [
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fa773863d678af7e08699a995b9edab1",
+  "page_hash": "489452b31119423223a35f4793594c8f",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -68,11 +67,13 @@
     "https://mobiler2.occ.gov/logon/LogonPoint/custom/strings.en.json",
     "https://mobiler2.occ.gov/logon/LogonPoint/custom/style.css",
     "https://mobiler2.occ.gov/logon/LogonPoint/init.js",
-    "https://mobiler2.occ.gov/logon/LogonPoint/none",
     "https://mobiler2.occ.gov/logon/LogonPoint/plugins/ns-gateway/ns-nfactor.js",
     "https://mobiler2.occ.gov/logon/LogonPoint/plugins/ns-gateway/nsg-epa.js",
     "https://mobiler2.occ.gov/logon/LogonPoint/plugins/ns-gateway/nsg-setclient.js",
     "https://mobiler2.occ.gov/logon/LogonPoint/receiver/css/ctxs.large-ui.min.css",
+    "https://mobiler2.occ.gov/logon/LogonPoint/receiver/images/1x/actionSprite.png",
+    "https://mobiler2.occ.gov/logon/LogonPoint/receiver/images/1x/folder_template.png",
+    "https://mobiler2.occ.gov/logon/LogonPoint/receiver/images/1x/viewSprite.png",
     "https://mobiler2.occ.gov/logon/LogonPoint/receiver/images/common/wspinner@2x.gif",
     "https://mobiler2.occ.gov/logon/LogonPoint/receiver/js/ctxs.core.min.js",
     "https://mobiler2.occ.gov/logon/LogonPoint/receiver/js/ctxs.webui.min.js",
@@ -110,6 +111,7 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".occ.gov",
     "login.occ.gov"
   ],
   "viewport_meta_tag": true,
@@ -165,7 +167,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 5,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

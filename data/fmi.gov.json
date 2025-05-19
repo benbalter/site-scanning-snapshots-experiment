@@ -22,7 +22,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "3f428ebe747c28e89d2ce93331db6758",
+  "page_hash": "25635a22388d092b956b421b7ebf670a",
   "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,9 +48,10 @@
     "subagency": "OGP"
   },
   "dap_version": "20231212 v6.9 - Dual Tracking",
-  "ga_tag_id": "G-PVSEB2W38E,G-CSLL4ZEK4L,UA-33523145-1,G-dwwszYg8VjFd2EN,G-nADQBEArZ1K4pUz,G-xSs8wT0ngAAACTO",
+  "ga_tag_id": "G-PVSEB2W38E,G-CSLL4ZEK4L,UA-33523145-1,G-A5E2r27AJ1aMSYZ,G-aLNGYInYlTyxLE3",
   "third_party_service_domains": [
     "code.jquery.com",
+    "csp.withgoogle.com",
     "fonts.gstatic.com",
     "googleads.g.doubleclick.net",
     "i.ytimg.com",
@@ -68,6 +68,7 @@
   ],
   "third_party_service_urls": [
     "https://code.jquery.com/jquery-migrate-3.0.1.min.js",
+    "https://csp.withgoogle.com/csp/script-inclusions/1a74b362328347702024274e29d77eb5",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://googleads.g.doubleclick.net/pagead/id",
@@ -89,20 +90,20 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
-    "https://www.google.com/js/th/C7ca_iEteRiA1IJ44IkEPBSOTBt5k8gdXoH4tV9dwsc.js",
+    "https://www.google.com/js/th/B7fFkE-JpM2EuIrsux0Lo4xADHiTy-sdJ7YMLkAi70c.js",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/ab11fe69/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/ab11fe69/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/ab11fe69/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/ab11fe69/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/ab11fe69/www-player.css",
+    "https://www.youtube.com/s/player/b2858d36/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/b2858d36/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/b2858d36/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/b2858d36/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/b2858d36/www-player.css",
     "https://www.youtube.com/youtubei/v1/log_event"
   ],
-  "third_party_service_count": 14,
+  "third_party_service_count": 15,
   "cookie_domains": [
     ".sftool.gov",
     "sftool.gov"
@@ -172,7 +173,6 @@
     "usa-social-link"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 45,
   "uswds_string": 3,
   "uswds_string_in_css": 20,

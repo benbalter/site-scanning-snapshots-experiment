@@ -23,7 +23,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "afbee98a710d018b5d269ded2c4a1ebe",
-  "accessibility_violations": "{\"auto-updating\":1}",
+  "page_hash": "a43387d9ae36dde8f5cbc2e9f0e58ac0",
+  "accessibility_violations": "{\"contrast\":32,\"lists\":1,\"images\":1,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -47,21 +46,23 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-wZdF6znqO,G-y0HZ,G-hjOuRXgbPh4luOu,G-6YfGp,G-1QOdSyZ5TO0Sb,G-y4kzw7LHdOTcM,G-hfBdZ4WZSzuUvke",
   "third_party_service_domains": [
     "challenges.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/93cd4b44aefbef83/1746752784351/A0n2-Q-VDPsJKFa",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/931963235:1746749653:MpIUU42IWAZ6GRBIEcBohWUd7W0q-UoUGkESp98acIE/93cd4b44aefbef83/m33.ez67ALSUdkqv_X_SF030vNwnzXdGlwHBxGHs_6A-1746752784-1.2.1.1-Xm3bFdAAsACUfXD056LxNIM82QsDQsqaWvmOhU94IzSQak0WNLB.rbk5kTH.ng7g",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/93cd4b44aefbef83/1746752784350/3de3b9ee6fb9d3a6ded3aed4900637a862aafd71fb35c0e696e56f675fc4c34d/0w_k34QvnN-gAzL",
-    "https://challenges.cloudflare.com/turnstile/v0/b/701fd2559006/api.js"
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/9419efe18cb8fefe/1747556444633/1Da5MBjtt4U5xg1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1502579697:1747552465:Rg2z9EUgHQA9lOLgnB31BQOcf38I7HxKWseeFhR2Sqg/9419efe18cb8fefe/wpCWgvqmmEImlMZ5vD_7_IfZ_ScfeO2JictGt1ba6jA-1747556444-1.2.1.1-1Q7.xZrSZn1vbNQ2FY8ttvTOlJ8Se0xPcQ9cnGOXvekh0xaWGvD._OxSu2jA0H5e",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9419efe18cb8fefe/1747556444636/67e6f89aff747805233638c69f5b76c63b3af2c2c636d21382a86b1230c2e406/GQ23oxpwqLi0noa",
+    "https://challenges.cloudflare.com/turnstile/v0/g/6fab0cec561d/api.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".fbi.gov"
+    ".fbi.gov",
+    ".vault.fbi.gov",
+    "vault.fbi.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
@@ -106,7 +107,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

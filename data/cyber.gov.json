@@ -22,7 +22,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "3b6fc69ca6fbda27a2bd4fe3ba2dfdca",
+  "page_hash": "79bddaef2ed08162c353281b2f73c1ce",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,6 +51,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GHG7XR2CMP,G-CSLL4ZEK4L,G-9MDR73GM0K",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "clients1.google.com",
     "cse.google.com",
     "dap.digitalgov.gov",
@@ -64,6 +64,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
     "https://cse.google.com/cse.js",
@@ -74,15 +75,15 @@
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
     "https://www.dhs.gov/xlibrary/graphics/ntas_03_noadvisories.svg",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google.com/cse/static/element/75c56d121cde450a/cse_element__en.js",
-    "https://www.google.com/cse/static/element/75c56d121cde450a/default+en.css",
+    "https://www.google.com/cse/static/element/9d4779bf0a3053cc/cse_element__en.js",
+    "https://www.google.com/cse/static/element/9d4779bf0a3053cc/default+en.css",
     "https://www.google.com/cse/static/style/look/v4/default.css",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/d71837c8/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".cisa.gov"
   ],
@@ -131,9 +132,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 553,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-05-08T22:32:09.000Z",
+  "sitemap_xml_lastmod": "2025-05-18T03:02:10.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "5307fd9e03189ca8458793755a584855",
+  "sitemap_xml_page_hash": "51e392f8169fa1da98a80bd84d75cad8",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 40,
@@ -151,7 +152,6 @@
     "usa-search"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 60,
   "uswds_string": 6,
   "uswds_string_in_css": 20,

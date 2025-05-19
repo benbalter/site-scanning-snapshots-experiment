@@ -25,7 +25,6 @@
     "dod_public",
     "final_url_websites"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,11 +33,11 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "26fa0ca8e0e134c1fccebc1115f163d5",
+  "www_scan_status": "completed",
+  "page_hash": "340fe1933fb4fb25d00764efcc17db4d",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": 6697,
-  "visits": 4417,
+  "pageviews": 6608,
+  "visits": 4396,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -53,7 +52,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".af.mil"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,
@@ -95,14 +96,13 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.1af.acc.af.mil",
+  "www_status_code": 200,
+  "www_title": "CONR-1AF (AFNORTH & AFSPACE) > Home"
 }

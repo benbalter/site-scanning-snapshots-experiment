@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -56,7 +55,9 @@
     "https://www.ncbi.nlm.nih.gov/style-guide/static/django_uswds/uswds/img/angle-arrow-down-primary.svg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "usa.gov"
@@ -129,7 +130,6 @@
     "usa-width-one-whole"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 25,
   "uswds_string": 31,
   "uswds_string_in_css": 0,

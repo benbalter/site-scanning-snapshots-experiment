@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "416c280af3085b1d7a886c3882fc020f",
+  "page_hash": "2271ad07145daf571c39ddd0eec5e20b",
   "accessibility_violations": "{\"user-control-name\":3}",
   "pageviews": null,
   "visits": null,
@@ -48,10 +47,12 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-CSLL4ZEK4L,G-C5T6C",
+  "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c11.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -63,12 +64,14 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c11.akstat.io/",
     "https://a.tile.openstreetmap.org/18/50194/93614.png",
     "https://a.tile.openstreetmap.org/18/50196/93615.png",
     "https://a.tile.openstreetmap.org/18/50197/93614.png",
     "https://b.tile.openstreetmap.org/18/50194/93615.png",
     "https://b.tile.openstreetmap.org/18/50195/93614.png",
     "https://b.tile.openstreetmap.org/18/50197/93615.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/18/50195/93615.png",
     "https://c.tile.openstreetmap.org/18/50196/93614.png",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
@@ -88,10 +91,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 13,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -160,7 +162,6 @@
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 55,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -24,7 +24,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "eef7a31a93760dc20bbc2b9b861f89a0",
+  "page_hash": "381158b6dc82dee85a21b6f9639cd963",
   "accessibility_violations": "{\"images\":1}",
-  "pageviews": 351518,
-  "visits": 105625,
+  "pageviews": 337023,
+  "visits": 106019,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -69,11 +68,20 @@
     ".cjis.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "privacy policy",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "",
+  "title": "CDE",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -109,7 +117,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

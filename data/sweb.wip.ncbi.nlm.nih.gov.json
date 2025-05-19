@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,7 +48,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "usa.gov"
@@ -122,7 +123,6 @@
     "usa-width-one-whole"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 25,
   "uswds_string": 31,
   "uswds_string_in_css": 0,

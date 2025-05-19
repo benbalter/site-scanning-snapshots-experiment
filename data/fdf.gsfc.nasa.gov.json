@@ -23,7 +23,6 @@
     "other",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fc540cb5d336aa8063fa8d55f71d6899",
-  "accessibility_violations": "{\"user-control-name\":6,\"link-purpose\":10}",
+  "page_hash": "86886797eb1d74bc6c26abbdb7f291f5",
+  "accessibility_violations": "{\"user-control-name\":6,\"contrast\":3,\"link-purpose\":10}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -55,6 +54,7 @@
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
     "use.fontawesome.com",
+    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com"
@@ -65,14 +65,15 @@
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://use.fontawesome.com/releases/v6.5.1/css/v4-shims.css",
     "https://use.fontawesome.com/releases/v6.5.1/webfonts/fa-solid-900.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/X-oVtzDcTGjZVms4LEgykmCV/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/X-oVtzDcTGjZVms4LEgykmCV/styles__ltr.css"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -125,7 +126,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

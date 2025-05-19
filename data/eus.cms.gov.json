@@ -20,7 +20,6 @@
   "source_list": [
     "final_url_websites"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,10 +29,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "36bf6b65a6da7c840e19b756d89772b9",
+  "page_hash": "e77a5b5a22bc8a55207e6acb84c72de8",
   "accessibility_violations": null,
-  "pageviews": 84369,
-  "visits": 37271,
+  "pageviews": 92482,
+  "visits": 40275,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -48,14 +47,15 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "2d1eee74c799.ac9a9e33.us-east-1.token.awswaf.com",
     "api.eus.cms.gov",
     "dap.digitalgov.gov",
     "web-modules-de-na2.nicecxone-gov.com",
     "www.cms.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://2d1eee74c799.ac9a9e33.us-east-1.token.awswaf.com/2d1eee74c799/challenge.js",
     "https://api.eus.cms.gov/public/v1/activeAnnouncements",
     "https://api.eus.cms.gov/public/v1/helpdesk",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -63,12 +63,12 @@
     "https://web-modules-de-na2.nicecxone-gov.com/loader/1/loader.js",
     "https://www.cms.gov/themes/custom/cms_evo/images/hhslogo.png",
     "https://www.cms.gov/themes/custom/cms_evo/logo.svg",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".cms.gov"
+    ".cms.gov",
+    ".eus.cms.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,
@@ -95,18 +95,18 @@
   "robots_txt_url": "https://eus.cms.gov/robots.txt",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": 2977,
+  "robots_txt_filesize": 2954,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": true,
   "sitemap_xml_url": "https://eus.cms.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
-  "sitemap_xml_filesize": 2977,
+  "sitemap_xml_filesize": 2954,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "bf6b82eb1e2e24e2d8a4f274860f7e49",
+  "sitemap_xml_page_hash": "8592d60bdf03eb49529cf5e000d5409c",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -135,7 +135,6 @@
     "usa-summary-box"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 60,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -27,7 +27,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f8c4d349e8d69bc4a7740a083e92e92d",
-  "accessibility_violations": "{\"contrast\":4,\"lists\":5}",
-  "pageviews": 1893746,
-  "visits": 655503,
+  "page_hash": "22d3a23b34842988cad057a9628c4472",
+  "accessibility_violations": "{\"aria\":3,\"contrast\":9,\"lists\":5}",
+  "pageviews": 1711884,
+  "visits": 602177,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,7 +57,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-C641SBQBBJ,UA-60737492-1",
   "third_party_service_domains": [
-    "analytics.google.com",
     "api.usaspending.gov",
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
@@ -67,11 +65,20 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://api.usaspending.gov/api/v2/references/glossary/",
     "https://api.usaspending.gov/api/v2/references/submission_periods/",
+    "https://api.usaspending.gov/api/v2/spending/",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.feedback.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.survey.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/badge___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/epilogue___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/main.css",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/serviceunavailable___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/feedback/default/surveycontents___html.js",
     "https://eex-gateway.fr011.ttecfed.com/sites/usaspending/production/gateway.min.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
@@ -79,9 +86,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".usaspending.gov",
     "www.usaspending.gov"
@@ -152,7 +159,6 @@
     "usa-dt-tab-list"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 45,
   "uswds_string": 0,
   "uswds_string_in_css": 20,

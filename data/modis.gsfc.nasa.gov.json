@@ -25,7 +25,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8c93db39d4e634b3824fefed3e306db2",
+  "page_hash": "e1e61b7be623458a26ed3ea18d628c4c",
   "accessibility_violations": "{\"language\":1,\"link-purpose\":1}",
-  "pageviews": 2,
-  "visits": 3,
+  "pageviews": 1,
+  "visits": 2,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -52,13 +51,15 @@
   "ga_tag_id": "G-8RKM9FM7G7",
   "third_party_service_domains": [
     "code.jquery.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://code.jquery.com/jquery-1.10.2.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -108,7 +109,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

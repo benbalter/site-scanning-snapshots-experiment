@@ -24,7 +24,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ab0e5f0148e4a662803e9d7aa093fdde",
+  "page_hash": "a5d3798a8d5ca7bb8d10a9ef6a9d2d76",
   "accessibility_violations": "{\"contrast\":9,\"images\":1,\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -54,13 +53,15 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "fonts.googleapis.com",
-    "fonts.gstatic.com"
+    "fonts.gstatic.com",
+    "static.cloudflareinsights.com"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2"
+    "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nist.gov",
     "cnst-training.nist.gov"
@@ -110,7 +111,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

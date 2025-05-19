@@ -22,7 +22,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "77dc3a170274e9331fa66dab185961d9",
+  "page_hash": "439c013d0b420796e4e7983e89ee3f56",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -53,6 +52,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-GHG7XR2CMP",
   "third_party_service_domains": [
+    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
     "www.dhs.gov",
@@ -60,6 +60,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
@@ -67,10 +68,9 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".awt.qa.cbp.gov",
-    ".cbp.gov",
     "awt.qa.cbp.gov"
   ],
   "viewport_meta_tag": true,
@@ -119,7 +119,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

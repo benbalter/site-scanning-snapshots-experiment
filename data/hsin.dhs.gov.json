@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "20d1ce83e4e26265829d55d5df807a77",
+  "page_hash": "af38f6acad1d77bc1e01d3a30b6b692b",
   "accessibility_violations": null,
-  "pageviews": 1,
-  "visits": 1,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -52,11 +51,13 @@
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "login.gov",
+    "login.okta.com",
     "ok10static.oktacdn.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
     "https://login.gov/assets/img/logo_sign_in.svg",
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
     "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.3/css/okta-sign-in.min.css",
     "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.3/font/montserrat-okta-light-webfont.woff",
@@ -67,7 +68,7 @@
     "https://ok10static.oktacdn.com/fs/bco/1/fs04kpdhcawgoEDWw4h7",
     "https://ok10static.oktacdn.com/fs/bco/7/fs04kpdhd50R3nFWb4h7"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".dhs.gov",
     "dhsauthportalext.dhs.gov"
@@ -113,7 +114,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

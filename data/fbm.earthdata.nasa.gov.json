@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2ca69d1dcf79ec0a41eda5210038dce4",
+  "page_hash": "0d7f158014e275895bcd32c7ab4bf27b",
   "accessibility_violations": "{\"contrast\":2}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +51,7 @@
     "dclink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-T0WYSFJPBT,G-CSLL4ZEK4L,G-M3PE7MJ3XR",
+  "ga_tag_id": "G-T0WYSFJPBT,G-M3PE7MJ3XR,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "cdn.earthdata.nasa.gov",
     "dap.digitalgov.gov",
@@ -67,6 +66,8 @@
   ],
   "third_party_service_urls": [
     "https://cdn.earthdata.nasa.gov/eui/1.1.3/stylesheets/application.css",
+    "https://cdn.earthdata.nasa.gov/tophat3/Inter-VariableFont_opsz",
+    "wght.ttf",
     "https://cdn.earthdata.nasa.gov/tophat3/Tophat3Widget.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2090.js",
@@ -76,15 +77,13 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
-    "https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcviYwYZ8UA3.woff2",
     "https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
     "https://netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2",
     "https://sample-api-v2.crazyegg.com/n/132090/all",
     "https://status.earthdata.nasa.gov/api/v1/notifications",
     "https://www.googletagmanager.com/gtag/destination",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
@@ -138,7 +137,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

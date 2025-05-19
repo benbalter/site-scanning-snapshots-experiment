@@ -24,9 +24,8 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a981a87edd31d91b43477ad06b020202",
+  "page_hash": "c42ca310491a4dbe703a0f6cdeb43750",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -53,21 +52,21 @@
   "dap_version": "20150423 v2.0 - Universal Analytics",
   "ga_tag_id": "UA-33523145-1",
   "third_party_service_domains": [
+    "ajax.googleapis.com",
     "cdc.112.2o7.net",
-    "www.amcharts.com",
     "www.google-analytics.com",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s01658903905387",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s03559055302284",
-    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s04919731675665",
-    "https://www.amcharts.com/lib/3/plugins/export/export.css",
-    "https://www.amcharts.com/lib/3/plugins/export/export.min.js",
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.js",
+    "https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.js",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s62277604319193",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s67903899901259",
+    "https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21/s69986138687692",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.youtube.com/player_api",
-    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
@@ -125,7 +124,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

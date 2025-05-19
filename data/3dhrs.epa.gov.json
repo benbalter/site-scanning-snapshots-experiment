@@ -23,7 +23,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -33,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "14a35d8942a5a00012854ada0585efcd",
+  "page_hash": "4404880c129cb28c5cccfdba83c00dc9",
   "accessibility_violations": "{\"aria\":3,\"frames-iframes\":1,\"link-purpose\":1,\"images\":2}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 45,
+  "visits": 33,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -44,18 +43,30 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "EPA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
     "cdnjs.cloudflare.com",
-    "www.epa.gov"
+    "dap.digitalgov.gov",
+    "script.crazyegg.com",
+    "www.epa.gov",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.0.0-beta.3/css/uswds.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.0.0-beta.3/js/uswds-init.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.0.0-beta.3/js/uswds.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/3dhrs.epa.gov.json",
+    "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/3dhrs.epa.gov.json",
+    "https://script.crazyegg.com/pages/scripts/0005/9240.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/4d7eb60e555fd0fed44d8cedec286919.js",
     "https://www.epa.gov/core/themes/stable/css/system/components/ajax-progress.module.css",
     "https://www.epa.gov/core/themes/stable/css/system/components/autocomplete-loading.module.css",
     "https://www.epa.gov/core/themes/stable/css/system/components/js.module.css",
@@ -77,9 +88,13 @@
     "https://www.epa.gov/themes/epa_theme/images/icon-https.svg",
     "https://www.epa.gov/themes/epa_theme/images/sprite.artifact.svg",
     "https://www.epa.gov/themes/epa_theme/images/us_flag_small.png",
-    "https://www.epa.gov/themes/epa_theme/images/usa-icons/expand_more.svg"
+    "https://www.epa.gov/themes/epa_theme/images/usa-icons/expand_more.svg",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".epa.gov",
     "3dhrs.epa.gov"
@@ -148,7 +163,6 @@
     "usa-tag"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 30,
   "uswds_string": 6,
   "uswds_string_in_css": 20,

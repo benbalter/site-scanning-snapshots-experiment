@@ -21,9 +21,8 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "41bc0f227ae623fe903f4b91468520e6",
+  "page_hash": "d29b82601a8197b5ab2f5031fb28ed57",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,7 +44,7 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-OYpgNVeorTaxqpF,G-LHFDF6K2NB,G-9N26W4812N",
+  "ga_tag_id": "G-LHFDF6K2NB,G-9N26W4812N",
   "third_party_service_domains": [
     "8343.global.siteimproveanalytics.io",
     "arclight.vimeo.com",
@@ -89,9 +88,9 @@
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js",
     "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js",
     "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
-    "https://f.vimeocdn.com/p/4.40.57/css/player.css",
-    "https://f.vimeocdn.com/p/4.40.57/js/player.module.js",
-    "https://f.vimeocdn.com/p/4.40.57/js/vendor.module.js",
+    "https://f.vimeocdn.com/p/4.40.60/css/player.css",
+    "https://f.vimeocdn.com/p/4.40.60/js/player.module.js",
+    "https://f.vimeocdn.com/p/4.40.60/js/vendor.module.js",
     "https://i.vimeocdn.com/player/417077",
     "https://i.vimeocdn.com/video/1674583045-f2c3d7a83850ed32dc9cff942262a5805095b3f5afb74889e267a9cfa02f49ab-d",
     "https://lbl.cloudflareaccess.com/cdn-cgi/access/login/www.lbl.gov",
@@ -110,11 +109,12 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
-    "https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/releases/X-oVtzDcTGjZVms4LEgykmCV/recaptcha__en.js"
   ],
   "third_party_service_count": 16,
   "cookie_domains": [
     ".lbl.gov",
+    ".www.lbl.gov",
     "www.lbl.gov"
   ],
   "viewport_meta_tag": true,
@@ -158,7 +158,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

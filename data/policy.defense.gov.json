@@ -30,7 +30,6 @@
     "cisa",
     "dod_2025"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -40,10 +39,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "02f6e5bb5e9e3912c1d235444f087412",
+  "page_hash": "c80f380b624f1ea325c31c188b7de126",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "pageviews": 39867,
-  "visits": 21161,
+  "pageviews": 37782,
+  "visits": 20727,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -69,13 +68,17 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
+    "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
+    "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
-    ".defense.gov"
+    ".defense.gov",
+    ".policy.defense.gov",
+    "policy.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -130,7 +133,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

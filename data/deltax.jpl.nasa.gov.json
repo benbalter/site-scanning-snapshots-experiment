@@ -24,7 +24,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -36,8 +35,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "aadbedc2e604e9979ec2e37bc0cad725",
   "accessibility_violations": "{\"aria\":2,\"contrast\":1}",
-  "pageviews": 11,
-  "visits": 11,
+  "pageviews": 10,
+  "visits": 10,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -66,7 +65,9 @@
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -111,7 +112,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -24,7 +24,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c377de7436e446462a04f2d86b531c85",
+  "page_hash": "f4c75dfaf41d2c6fc89625e5895e11b6",
   "accessibility_violations": "{\"lists\":1}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 10,
+  "visits": 4,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -45,17 +44,31 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "EPA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-2SEC4V3SK9,G-CSLL4ZEK4L,UA-32633028-1",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "script.crazyegg.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://script.crazyegg.com/pages/data-scripts/0005/9240/sampling/opendata.epa.gov.json",
+    "https://script.crazyegg.com/pages/data-scripts/0005/9240/site/opendata.epa.gov.json",
+    "https://script.crazyegg.com/pages/scripts/0005/9240.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/4d7eb60e555fd0fed44d8cedec286919.js",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".epa.gov"
   ],
@@ -100,7 +113,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

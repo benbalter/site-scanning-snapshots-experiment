@@ -21,7 +21,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -49,9 +48,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".nih.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "usa.gov"
@@ -78,11 +75,11 @@
   "language": "en",
   "language_link": "",
   "main_element_present": true,
-  "robots_txt_detected": false,
+  "robots_txt_detected": true,
   "robots_txt_url": "https://cdn.ncbi.nlm.nih.gov/robots.txt",
-  "robots_txt_status_code": 404,
+  "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
-  "robots_txt_filesize": null,
+  "robots_txt_filesize": 119140,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
@@ -108,7 +105,6 @@
     "usa-width-one-whole"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 15,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

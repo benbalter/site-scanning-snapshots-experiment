@@ -5,7 +5,7 @@
   "initial_base_domain": "af.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://af.okta.mil/oauth2/aus5i3gzqhygGjx9z0k6/v1/authorize?client_id=0oab6i6qaraSLaQbf0k6&redirect_uri=https%3A%2F%2Fvmpf.us.af.mil%2FvMPFNet40%2FDefault.aspx&response_type=code&scope=openid%20profile%20email%20PII%20CRMData&code_challenge=b3h3ybozUhO6ShiNnV1_jAAc5beqrBdQMa_Xi29hqr8&code_challenge_method=S256&state=OpenIdConnect.AuthenticationProperties%3DBDlSdH7rc-W7g6yNAKIstkJG7drswyWpfSTYRntHYpDH-LZUPlV9DKUGsNbwHA3tzi4w25uJhPWsXWy_0bhrkgw5rNSPVpga2tcy1meQCfH321fTw__TkDC8xo_G_uf7WzXHSSjahwBpBzXscZM-t6Y4Abn81IgJYsGG8kttQXb_gHAkUC77DQuJ6rvHPCMM3HT553LpQiFBJ3Knc_TfqweFN5F1LozzzsqY5UHCLnf4_FEgsi5C-xfe03LULjoKC2_3hsk8TiojfHoVkOqRcXlviqwY-1uBpiuZ6M0N8pil_r3aXoJj-mLnysl7S2Me&response_mode=form_post&nonce=638823469817183645.Yzc1MGJmYzctMzdmZi00ZTdmLWE2MzktYWU4MGJkZTQ4MWJlYzhiMDdlODYtMzU3ZS00YmI5LThlZDItYjhkOTVjM2JkM2Y3&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0",
+  "url": "https://af.okta.mil/oauth2/aus5i3gzqhygGjx9z0k6/v1/authorize?client_id=0oab6i6qaraSLaQbf0k6&redirect_uri=https%3A%2F%2Fvmpf.us.af.mil%2FvMPFNet40%2FDefault.aspx&response_type=code&scope=openid%20profile%20email%20PII%20CRMData&code_challenge=eH4g173qBDHtgYoXWc5dxRso-7zakY5G1jtzACbJBsI&code_challenge_method=S256&state=OpenIdConnect.AuthenticationProperties%3DNhxG_3EW8tFLKkBaAXKA-4O3FiRJBBYsYZ9jdKu0sN7d1cFgtgDRKVsATnhk_r5CZEDMj-a6NFBUrXPm3eljVHoMhdBnXhauVxOR1jGcS2K_hgp6qrUitO7TI4JUACxZLdViAzIhK-Pk2KXeuN-93k-VrOuvtOMwl0iK9eb2eUIAdrHJBCfZwgxEL_n5EhLtVqhaQa9ogKXePWYBWSOkb-QeUZ9lM_nLzYjU8-iBRZNCoBK-j8pgb9eESMJB1XB8s95c7mIAzvjm3GLzJKiXhqEXA1boVRpicytdD77n93acyhH7UrF7-1mizXwbdBL_&response_mode=form_post&nonce=638831352532629068.ZTE4Y2U2ZjQtNzY0YS00MmExLWIyMWItNmU2ODYyMWRjOTYzZjU1ZjE5NWItMGVhNC00MGIyLTk4MDktODc0YzA2MDA2MDhl&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0",
   "domain": "af.okta.mil",
   "base_domain": "okta.mil",
   "top_level_domain": "mil",
@@ -18,7 +18,6 @@
   "branch": "Executive",
   "404_test": false,
   "source_list": null,
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -28,7 +27,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3789df17e041dc2ad2c0759a6ecb6ec2",
+  "page_hash": "d45f631922ea7775b87befdae3906508",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,9 +44,13 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "login.okta.com"
+  ],
+  "third_party_service_urls": [
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     "af.okta.mil"
   ],
@@ -73,7 +76,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": false,
   "robots_txt_url": "https://vmpf.us.af.mil/robots.txt",
   "robots_txt_status_code": 404,
@@ -96,7 +99,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

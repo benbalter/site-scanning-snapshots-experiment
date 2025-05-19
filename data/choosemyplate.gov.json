@@ -25,7 +25,6 @@
     "gov_man",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,7 +34,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d851014e773e55fe37d9b1cf34105eca",
+  "page_hash": "154e7b7b38d31137b13af0bb4902510c",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,6 +54,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-7N8H8BHH84,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c15.akstat.io",
+    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "myplate-prod.azureedge.us",
@@ -64,6 +65,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c15.akstat.io/",
+    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -94,12 +97,12 @@
     "https://resources.digital-cloud-gov.medallia.com/wdcgov/13330/onsite/generic1742928069380.js",
     "https://s.go-mpulse.net/boomerang/KVTBP-DLDEB-HKTBK-N3TQ5-SSVJN",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".myplate.gov",
-    ".www.myplate.gov",
     "www.myplate.gov"
   ],
   "viewport_meta_tag": true,
@@ -178,7 +181,6 @@
     "usa-width-one-sixth"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 55,
   "uswds_string": 0,
   "uswds_string_in_css": 20,

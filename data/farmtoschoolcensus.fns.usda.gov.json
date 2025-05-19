@@ -24,7 +24,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cc23339483245665dc9806f5a71011ef",
+  "page_hash": "3fd8059d22d1d8c241935daf8e04398a",
   "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 469,
+  "visits": 360,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -45,16 +44,23 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
+  "dap": true,
   "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
-    ".farmtoschoolcensus.fns.usda.gov",
-    ".fns.usda.gov"
+    ".fns.usda.gov",
+    ".usda.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -117,7 +123,6 @@
     "usa-tooltip"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 30,
   "uswds_string": 3,
   "uswds_string_in_css": 20,

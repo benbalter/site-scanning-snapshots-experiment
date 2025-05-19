@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "Agency for Healthcare Research and Quality",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -27,7 +27,6 @@
     "gpo_fdlp",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -37,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "9f4a068c7037c1d5a03d19119f3b6c5c",
+  "page_hash": "94ba3fc0b2be90cd83462edbf0a0d89f",
   "accessibility_violations": "{\"aria\":1,\"images\":10}",
-  "pageviews": 61920,
-  "visits": 22789,
+  "pageviews": 57180,
+  "visits": 22586,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -58,6 +57,7 @@
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
+    "gateway.foresee.com",
     "stackpath.bootstrapcdn.com",
     "www.ahrq.gov",
     "www.googletagmanager.com"
@@ -65,13 +65,14 @@
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://gateway.foresee.com/sites/ahrq/production/gateway.min.js",
     "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css",
     "https://www.ahrq.gov/resources/js/libs/jquery.simplemodal.js",
     "https://www.ahrq.gov/resources/js/plugins.js",
     "https://www.ahrq.gov/resources/js/script.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".ahrq.gov",
     "meps.ahrq.gov"
@@ -138,7 +139,6 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 15,
   "uswds_string": 1,
   "uswds_string_in_css": 20,

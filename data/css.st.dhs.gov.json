@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a896875e5ae3bbe0bc359992e21daeaf",
+  "page_hash": "d0aa07f97b57a3e5cec6eb385356fa1d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -60,7 +59,6 @@
     "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
     "https://css.st.dhs.gov/favicon.ico",
     "https://css.st.dhs.gov/login",
-    "https://css.st.dhs.gov/saml/login",
     "https://login.gov/assets/img/logo_sign_in.svg",
     "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
@@ -75,6 +73,7 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".dhs.gov",
     "dhsauthportalext.dhs.gov"
   ],
   "viewport_meta_tag": true,
@@ -118,7 +117,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

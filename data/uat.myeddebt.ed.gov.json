@@ -22,7 +22,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a511516adb7d76c8bd3784eb1243d92b",
-  "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":2}",
+  "page_hash": "8f7086cad0f56ae10cb7247eda69115c",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,23 +47,24 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c11.akstat.io",
+    "17de4c15.akstat.io",
     "c.go-mpulse.net",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c11.akstat.io/",
+    "https://17de4c15.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
-    "https://fonts.googleapis.com/css",
+    "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/newscycle/v25/CSR64z1Qlv-GDxkbKVQ_fOAKTfl8tOQ.woff2",
     "https://fonts.gstatic.com/s/notoserif/v30/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZqFCTx8cMpKrCzi0i.woff",
-    "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2",
     "https://s.go-mpulse.net/boomerang/64YXT-27G9W-PNY9D-ECLRK-5HNP7"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ed.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "foia",
@@ -114,7 +114,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

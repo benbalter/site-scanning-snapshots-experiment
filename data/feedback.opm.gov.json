@@ -21,9 +21,8 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bde5e2e93176083aa382da18825aa38a",
+  "page_hash": "1435c35814ccbd20356dfd1ac0df18da",
   "accessibility_violations": null,
   "pageviews": 1,
   "visits": 1,
@@ -50,22 +49,17 @@
   "ga_tag_id": "G-1QQK83MZ36,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
-    "analytics.google.com",
     "dap.digitalgov.gov",
-    "feedback.opm.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "p.typekit.net",
     "use.typekit.net",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js",
-    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://feedback.opm.gov/favicon.ico",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/merriweather/v31/u-4e0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiSeqqJ-mXq1Gi.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
@@ -73,11 +67,10 @@
     "https://p.typekit.net/p.css",
     "https://use.typekit.net/af/a19ad7/00000000000000003b9b4051/27/l",
     "https://use.typekit.net/vgn7vpt.css",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".opm.gov"
   ],
@@ -155,7 +148,6 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 70,
   "uswds_string": 5,
   "uswds_string_in_css": 20,

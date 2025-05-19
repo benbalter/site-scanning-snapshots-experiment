@@ -5,7 +5,7 @@
   "initial_base_domain": "research.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://identity.research.gov/sso/XUI/?realm=/research&goto=https://identity.research.gov:443/sso/oauth2/authorize?response_type%3Dcode%26client_id%3Drgov-research.aws-prod.oauth%26scope%3Dprofile%26state%3D-JbJEj9J0UXnRnNoLFkL8Wd_tASm3vRM1zdH_aMnBdo%253D%26redirect_uri%3Dhttps://www.research.gov/research-web/login/oauth2/code/nsf#login/",
+  "url": "https://identity.research.gov/sso/XUI/?realm=/research&goto=https://identity.research.gov:443/sso/oauth2/authorize?response_type%3Dcode%26client_id%3Drgov-research.aws-prod.oauth%26scope%3Dprofile%26state%3DqlV14eB9BebXcEpQpj006nTsMe6sJ2-Av-6v9UP3qDA%253D%26redirect_uri%3Dhttps://www.research.gov/research-web/login/oauth2/code/nsf#login/",
   "domain": "identity.research.gov",
   "base_domain": "research.gov",
   "top_level_domain": "gov",
@@ -20,9 +20,8 @@
   "source_list": [
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "325713cca557f33783b88e19a44d19c3",
+  "page_hash": "23839f077c1692df6871f0f1546bf66c",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,7 +47,6 @@
   "third_party_service_domains": [
     "apps.research.gov",
     "script.crazyegg.com",
-    "wt.research.gov",
     "www.research.gov"
   ],
   "third_party_service_urls": [
@@ -69,29 +67,19 @@
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/sampling/apps.research.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0041/5508/site/apps.research.gov.json",
     "https://script.crazyegg.com/pages/scripts/0041/5508.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/8ec331a9c219b59c6d7180c82a423f79.js",
-    "https://wt.research.gov/dcsdnk61n1pdfnrido9thdr8t_7i2p/dcs.gif",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/4d7eb60e555fd0fed44d8cedec286919.js",
     "https://www.research.gov/semantic-content/footer",
     "https://www.research.gov/semantic-content/header",
     "https://www.research.gov/semantic-content/navigation"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".research.gov",
     "identity.research.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": [
-    "about",
-    "foia",
-    "privacy",
-    "usa.gov"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "foia",
-    "usa.gov"
-  ],
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
   "title": "Research.gov - User Log In",
@@ -123,14 +111,13 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "0fd1b0fcca752bf7889bddf8017bdc32",
+  "sitemap_xml_page_hash": "58e71a629df5f7f3f573c8acf9285fd7",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

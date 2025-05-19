@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ab276319961172e24abb90b3a253100f",
-  "accessibility_violations": "{\"user-control-name\":2,\"contrast\":3}",
+  "page_hash": "03ec9aa0147758afd40d7ebdcce4b57b",
+  "accessibility_violations": "{\"user-control-name\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,20 +47,25 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-zXOvA,G-WY5j,G-C5T6C,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-KERW0RESPC,G-zXOvA,G-WY5j,G-CSLL4ZEK4L,G-C5T6C",
   "third_party_service_domains": [
-    "17de4c1d.akstat.io",
+    "17de4c11.akstat.io",
+    "52-222-123-172_s-23-213-175-163_ts-1747553516-clienttons-s.akamaihd.net",
     "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "gtphxlax3ciz42bjrtwa-pr82rt-03ad3a7c5-clientnsv4-s.akamaihd.net",
     "s.go-mpulse.net",
     "touchpoints.app.cloud.gov",
+    "trial-eum-clientnsv4-s.akamaihd.net",
+    "trial-eum-clienttons-s.akamaihd.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c1d.akstat.io/",
+    "https://17de4c11.akstat.io/",
+    "https://52-222-123-172_s-23-213-175-163_ts-1747553516-clienttons-s.akamaihd.net/eum/results.txt",
     "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
@@ -72,13 +76,16 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2",
+    "https://gtphxlax3ciz42bjrtwa-pr82rt-03ad3a7c5-clientnsv4-s.akamaihd.net/eum/results.txt",
     "https://s.go-mpulse.net/boomerang/QPMY6-HX4DG-C5T6C-P2FE6-TUAP7",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
+    "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt",
+    "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 13,
   "cookie_domains": [
     ".fws.gov",
     "www.fws.gov"
@@ -147,7 +154,6 @@
     "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 50,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "782cc189362ba275f65e57f7d0c6b994",
+  "page_hash": "0463dfea1a4eaf6b09f89723e16b0a21",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -71,7 +70,8 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".usa.gov"
+    ".usa.gov",
+    "www.usa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -128,13 +128,11 @@
     "usa-banner_expand_arrow",
     "usa-button",
     "usa-footer",
-    "usa-form",
     "usa-header",
     "usa-icon",
     "usa-identifier",
     "usa-input",
     "usa-intro",
-    "usa-label",
     "usa-link",
     "usa-list",
     "usa-logo",
@@ -146,13 +144,10 @@
     "usa-prose",
     "usa-search",
     "usa-sidenav",
-    "usa-sign-up",
     "usa-skipnav",
-    "usa-social-link",
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 60,
   "uswds_string": 2,
   "uswds_string_in_css": 20,

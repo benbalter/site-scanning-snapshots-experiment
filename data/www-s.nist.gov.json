@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b14a4e2c1cfd02dc215118cbfd51e805",
+  "page_hash": "3bebbe13320bf7976648fd501371043b",
   "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -46,24 +45,22 @@
   "dap_parameters": {
     "id": "G-CSLL4ZEK4L",
     "cx": "c",
-    "gtm": "45je5571v895826815za200",
-    "tag_exp": "101509157~102015666~103101750~103101752~103116026~103130495~103130497~103200004~103233427~103251618~103251620~103284320~103284322~103301114~103301116"
+    "gtm": "45je55g2h2v895826815za200",
+    "tag_exp": "101509157~102015666~103116025~103130495~103130497~103136993~103136995~103200001~103207802~103233427~103252644~103252646~103263073~103301114~103301116"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "6017546.global.siteimproveanalytics.io",
     "bam.nr-data.net",
     "js-agent.newrelic.com",
-    "siteimproveanalytics.com",
+    "static.cloudflareinsights.com",
     "time.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://6017546.global.siteimproveanalytics.io/image.aspx",
     "https://bam.nr-data.net/1/37b7ccb661",
-    "https://js-agent.newrelic.com/nr-rum-1.289.0.min.js",
-    "https://siteimproveanalytics.com/js/siteanalyze_6017546.js",
+    "https://js-agent.newrelic.com/nr-rum-1.290.0.min.js",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://time.gov/web/auxdata.xml",
     "https://time.gov/web/css/main.css",
     "https://time.gov/web/nist_use_only.cgi",
@@ -72,7 +69,7 @@
     "https://time.gov/web/scripts/jquery-2.1.1.min.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nist.gov",
     ".www.nist.gov"
@@ -144,7 +141,6 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 75,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

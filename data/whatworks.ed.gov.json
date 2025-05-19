@@ -20,7 +20,6 @@
   "source_list": [
     "pulse"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,8 +29,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8e91f3d90a84399f3fecd91eca3ec4fb",
-  "accessibility_violations": "{\"images\":1,\"link-purpose\":8}",
+  "page_hash": "6cea2cb33af174def5f31d774679e5f0",
+  "accessibility_violations": "{\"link-purpose\":5}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -70,7 +69,9 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2"
   ],
   "third_party_service_count": 6,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ed.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
@@ -116,7 +117,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

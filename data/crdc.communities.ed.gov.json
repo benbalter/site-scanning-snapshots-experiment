@@ -24,7 +24,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9a1ff2cdbf82f89727b6a494cc486cf1",
+  "page_hash": "f3c52ee7edc841cca8d6cae32d13d8da",
   "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
@@ -57,7 +56,9 @@
     "https://use.fontawesome.com/releases/v6.4.0/js/v4-shims.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ed.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "usa.gov"
@@ -124,7 +125,6 @@
     "usa-stepper"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 45,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

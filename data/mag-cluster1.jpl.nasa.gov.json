@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZHBboMwDIZfBeUOgQBjtQCJtYdV6jRU2A67TIGmlAkSFodqjz9KN629VJrki%2BXfv%2B3PMfK%2BGyAbzUFuxeco0FhffScR5kJCRi1BcWwRJO8FgqmhyJ42wBwXBq2MqlVHrAxRaNMquVQSx17oQuhjW4uX7SYhB2MGBEp73th1N6IR2nM%2Bhs6RHLnTqCMEgU9PrsylRU6zZUGs1bRJK%2FnJ888BUflXnZTv9kg7pMRarxLy7obBIgo4i6pqUe0jPwxqEXHvPvSmpLqrJhniKNYSDZcmIcxloe1OsSg9BlOw4I1Y%2Bc9dD63ctbK5DaE6ixAeyzK38%2BeiJNar0DgvPglIGp9QwjxYX8C9bct%2FiZL0n%2FxiejEvPWfXH06%2FAQ%3D%3D&RelayState=m2I8AiDJ82VlNWFjMWM1ZmQ1ZjlkOTdhYTcwNTM0NDI0ODhiYjhjNw%3D%3D",
+  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZHLboMwEEV%2FBXkPBvNqRwGJJotGSlUUaBfdVMa4CRXY1GOifn7zaNRkE6nL0dy5d%2BbMDPnQj1BMdqvW8muSaJ3voVcIx0ZGJqNAc%2BwQFB8kghVQFU8rYJ4Po9FWC90Tp0CUxnZazbXCaZCmkmbXCfmyXmVka%2B2IQOnAN67oJ7TSBN7n2HuKI%2Fc2egdRFNKDK%2FNpVdJiXhFnsd%2BkU%2Fzg%2BeeAqMOrScrbD6Q9UuIsFxl5bwVvmiiNWi4ki9hdGDGWiKYRQRrzOLnfyxAnuVRoubIZYT6LXT92g6QOGPghsPSNOOXvXQ%2Bdaju1uQ2hOYkQHuu6dMvnqibOqzR4XHwvIPnsgBKOweYC7m1bfiZK8n%2Fym9GLvPxUXX84%2FwE%3D&RelayState=BglBAiDJ82ViMDdjMDlkMWIxZGRlMGRjM2YyMGE4OWFmN2NhMDk0MA%3D%3D",
   "domain": "sso3.jpl.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -20,7 +20,6 @@
   "source_list": [
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fd95adf382b67db8b305a58318999d88",
+  "page_hash": "09375c334e7034c845d0aa2715139a2b",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,7 +47,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,
@@ -90,7 +91,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -16,12 +16,11 @@
   "agency": "Environmental Protection Agency",
   "bureau": "Environmental Protection Agency",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0332adb2c479a6e3079dc75ae6b4923e",
+  "page_hash": "8676385f7a25fcd0df82aba6fec986b1",
   "accessibility_violations": "{\"contrast\":10,\"images\":2}",
-  "pageviews": 720095,
-  "visits": 328987,
+  "pageviews": 699742,
+  "visits": 331095,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": "Drupal",
@@ -117,7 +116,6 @@
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/30.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/Weather_Degree_F.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_icon_fair_day.svg",
-    "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_icon_overcast_day.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_mi.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/weather_mph.svg",
     "https://widget.airnow.gov/aq-dial-widget-pollutant-weather/images/weather/wind-direction.png",
@@ -188,9 +186,9 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 13,
   "cookie_domains": [
@@ -199,7 +197,8 @@
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
-    "spanish"
+    "spanish",
+    "/es"
   ],
   "required_links_text": [
     "accessibility",
@@ -243,7 +242,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

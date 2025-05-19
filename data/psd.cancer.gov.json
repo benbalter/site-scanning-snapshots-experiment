@@ -16,7 +16,7 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Cancer Institute, NIH",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "pulse",
@@ -25,9 +25,8 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "51683aaa327108e5ebd4cb43352c721d",
-  "accessibility_violations": "{\"language\":1,\"images\":2,\"form-names\":7}",
-  "pageviews": 238,
-  "visits": 136,
+  "page_hash": "f2c93d5f55b96d8cf3146db8eef61314",
+  "accessibility_violations": null,
+  "pageviews": 240,
+  "visits": 113,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -55,20 +54,23 @@
   "ga_tag_id": "G-FSP3VWG2NL,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".cancer.gov",
     "psd.cancer.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [
+    "about",
     "foia",
     "usa.gov"
   ],
@@ -114,15 +116,16 @@
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
-  "uswds_usa_class_list": null,
+  "uswds_usa_class_list": [
+    "usa-header"
+  ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
-  "uswds_usa_classes": 0,
-  "uswds_string": 0,
-  "uswds_string_in_css": 0,
+  "uswds_usa_classes": 5,
+  "uswds_string": 6,
+  "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 0,
+  "uswds_count": 31,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

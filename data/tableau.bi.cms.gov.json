@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://bi.cms.gov/?fromURI=https%3A%2F%2Fidm.cms.gov%2Fapp%2Fcms_biatableau_1%2Fexk55p33n1ZMvtaZa297%2Fsso%2Fsaml%3FRelayState%3Ddest%253D%25252F%2526forceSitePick%253Dfalse%2526sendPodInfo%253Dfalse%2526authSetting%253D%2526siteLuid%253D%2526embedded%253Dfalse",
+  "url": "https://bi.cms.gov/?fromURI=https%3A%2F%2Fidm.cms.gov%2Fapp%2Fcms_biatableau_1%2Fexk55p33n1ZMvtaZa297%2Fsso%2Fsaml%3FRelayState%3Ddest%253D%25252F%2526forceSitePick%253Dfalse%2526sendPodInfo%253Dfalse%2526authSetting%253D%2526siteLuid%253D%2526embedded%253Dfalse%2526idpConfigurationId%253D",
   "domain": "bi.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -20,7 +20,6 @@
   "source_list": [
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -98,6 +97,7 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
+    ".bi.cms.gov",
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
@@ -141,7 +141,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

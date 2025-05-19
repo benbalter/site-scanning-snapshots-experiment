@@ -25,7 +25,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f5ba0aca47bb6c0eaa18f54bda9dd234",
+  "page_hash": "c0439dad5004757c2b4cb0aa8b6886ae",
   "accessibility_violations": null,
-  "pageviews": 4348,
-  "visits": 3580,
+  "pageviews": 4355,
+  "visits": 3649,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,34 +57,35 @@
     "enhlink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-5VGKQYWSRN,G-CSLL4ZEK4L,UA-44924221-9",
+  "ga_tag_id": "G-5VGKQYWSRN,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "6294131.global.r2.siteimproveanalytics.io",
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
     "jwpltx.com",
+    "siteimproveanalytics.com",
     "ssl.p.jwpcdn.com",
-    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nssl.noaa.gov",
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
     "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js",
     "https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://jwpltx.com/v1/jwplayer6/ping.gif",
+    "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://ssl.p.jwpcdn.com/6/8/jwpsrv.js",
     "https://ssl.p.jwpcdn.com/6/8/sharing.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.nssl.noaa.gov/news/video/bite-sized-mping/Bite_Sized_mPING_YouTube_2016.srt",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -135,7 +135,6 @@
     "usa-banner"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 20,
   "uswds_string": 9,
   "uswds_string_in_css": 20,

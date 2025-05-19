@@ -24,7 +24,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -34,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bd5008dacec59477ac30996d536a4762",
-  "accessibility_violations": "{\"language\":1,\"images\":1,\"lists\":1,\"form-names\":1}",
-  "pageviews": null,
-  "visits": null,
+  "page_hash": "39a918398c94940bd0360428e68b10c8",
+  "accessibility_violations": "{\"language\":1,\"images\":1,\"lists\":1,\"form-names\":41}",
+  "pageviews": 1,
+  "visits": 1,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -50,6 +49,7 @@
   "dap_version": "",
   "ga_tag_id": "UA-33523145-1",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "js.arcgis.com",
     "server.arcgisonline.com",
     "services.arcgisonline.com",
@@ -58,6 +58,7 @@
     "utility.arcgis.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://js.arcgis.com/3.46/",
     "https://js.arcgis.com/3.46/dijit/_Contained.js",
     "https://js.arcgis.com/3.46/dijit/form/HorizontalRule.js",
@@ -105,7 +106,7 @@
     "https://static.arcgis.com/attribution/World_Imagery",
     "https://utility.arcgis.com/sharing/kml"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".ntwc.arh.noaa.gov"
   ],
@@ -159,7 +160,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

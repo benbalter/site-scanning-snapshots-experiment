@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://accounts.sb.biodatacatalyst.nhlbi.nih.gov/auth/login?next=https%3A%2F%2Faccounts.sb.biodatacatalyst.nhlbi.nih.gov%2Foauth2%2Fauthorization%3Fresponse_type%3Dcode%26client_id%3D74735b722c33498cb981b6b6e24f659f%26redirect_uri%3Dhttps%253A%252F%252Fplatform.sb.biodatacatalyst.nhlbi.nih.gov%252Foauth2%252Fredirect%26state%3Dq2qIezXJMkUK0undySNAoTwenoYxZ6%26client_next%3Dhttps%253A%252F%252Fplatform.sb.biodatacatalyst.nhlbi.nih.gov%252F%26scope%3Dopenid%26nonce%3D22266693792737471431746752281",
+  "url": "https://accounts.sb.biodatacatalyst.nhlbi.nih.gov/auth/login?next=https%3A%2F%2Faccounts.sb.biodatacatalyst.nhlbi.nih.gov%2Foauth2%2Fauthorization%3Fresponse_type%3Dcode%26client_id%3D74735b722c33498cb981b6b6e24f659f%26redirect_uri%3Dhttps%253A%252F%252Fplatform.sb.biodatacatalyst.nhlbi.nih.gov%252Foauth2%252Fredirect%26state%3DxTNcUFUz3bxLCwD34THmltQNfsm2oY%26client_next%3Dhttps%253A%252F%252Fplatform.sb.biodatacatalyst.nhlbi.nih.gov%252F%26scope%3Dopenid%26nonce%3D4741973230683003791747540361",
   "domain": "accounts.sb.biodatacatalyst.nhlbi.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -16,11 +16,10 @@
   "agency": "Department of Health and Human Services",
   "bureau": "National Institutes of Health",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b5a3ac6fb24dc995e635d0762c4f0612",
+  "page_hash": "7947b6b89bfb76261c1482fef408f83f",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -59,6 +58,7 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".nih.gov",
     ".sb.biodatacatalyst.nhlbi.nih.gov",
     "accounts.sb.biodatacatalyst.nhlbi.nih.gov"
   ],
@@ -115,7 +115,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

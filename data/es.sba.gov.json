@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "76279f4ef539ccf661cb806d4a3cb9bf",
+  "page_hash": "0358715c8989af5ea41cb90b268ef719",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,6 +51,7 @@
     "analytics.google.com",
     "connect.facebook.net",
     "dap.digitalgov.gov",
+    "www.facebook.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
@@ -61,11 +61,13 @@
     "https://connect.facebook.net/signals/config/1601132503528457",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/",
+    "https://www.facebook.com/tr/",
     "https://www.google-analytics.com/privacy-sandbox/register-conversion",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".sba.gov"
   ],
@@ -156,7 +158,6 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 120,
   "uswds_string": 8,
   "uswds_string_in_css": 20,

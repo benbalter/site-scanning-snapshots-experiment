@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://authtest.nih.gov/certauthv3/forms/hrl/LoginMFA.aspx?TYPE=33554433&REALMOID=06-e4facb96-8c9f-493c-8d36-de9e322ceba1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=KBOVzJPmg7U9p2DaNAD3qDXdXMgspkc0na0nj5mEHO0BNjfVBVkwRJb6LR9zr7VV&TARGET=-SM-HTTPS%3a%2f%2fauthtest%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectWAYFAzureMFANOSL%2ejsp%3fSPID%3de567a1ab--9fd8--4b2a--9947--171ef229d530%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauthtest%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d176d11cc--9dde277d--e0938518--ceaff31e--062eaeb0--a2f5",
+  "url": "https://authtest.nih.gov/certauthv3/forms/hrl/LoginMFA.aspx?TYPE=33554433&REALMOID=06-e4facb96-8c9f-493c-8d36-de9e322ceba1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=KBOVzJPmg7U9p2DaNAD3qDXdXMgspkc0na0nj5mEHO0BNjfVBVkwRJb6LR9zr7VV&TARGET=-SM-HTTPS%3a%2f%2fauthtest%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectWAYFAzureMFANOSL%2ejsp%3fSPID%3de567a1ab--9fd8--4b2a--9947--171ef229d530%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauthtest%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d17e7979f--84adc08e--01ce3dc2--3ec1232d--52225c34--a58e",
   "domain": "authtest.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -20,7 +20,6 @@
   "source_list": [
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -30,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "799a744bd96dfa21abc959b0d4c81dce",
+  "page_hash": "166bbfc919324ee0375ad9b65c5428a2",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -58,9 +57,7 @@
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": [
-    ".nih.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"
@@ -107,7 +104,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -21,7 +21,6 @@
     "other",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fe0ce076dcaded9513594464f48c2ae9",
+  "page_hash": "92e579d46a95a4880891458a9301607f",
   "accessibility_violations": "{\"link-purpose\":8}",
   "pageviews": null,
   "visits": null,
@@ -42,23 +41,29 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "UA-65328837-1,G-909F7THTW1",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "UA-65328837-1,G-CSLL4ZEK4L,G-909F7THTW1",
   "third_party_service_domains": [
+    "dap.digitalgov.gov",
     "use.fontawesome.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/all.js",
     "https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -127,7 +132,6 @@
     "usa-sr-only"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 60,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

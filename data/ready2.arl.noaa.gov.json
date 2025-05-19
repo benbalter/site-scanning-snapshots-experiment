@@ -21,7 +21,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -31,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4c90b242e634e1031da64b9d7f3a7c01",
+  "page_hash": "278d344ee52a4ca35da1cd72441e3081",
   "accessibility_violations": null,
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 87,
+  "visits": 16,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -42,18 +41,30 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "code.jquery.com"
+    "code.jquery.com",
+    "dap.digitalgov.gov",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://code.jquery.com/jquery-1.11.0.min.js"
+    "https://code.jquery.com/jquery-1.11.0.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
-  "cookie_domains": null,
+  "third_party_service_count": 4,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",
@@ -102,7 +113,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

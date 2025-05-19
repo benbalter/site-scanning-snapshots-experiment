@@ -22,7 +22,6 @@
     "other",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d7489ea0bfb3170e6e543da7810e86bd",
+  "page_hash": "d44a89dc78541133dc6a51f237dea743",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -53,7 +52,7 @@
     "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-LlSL,G-FfCBC6wl6TrrNdc,G-mNsHwQunXuNO9qA,G-21Nwxa3t6iwGS1,G-XDxJ6xRQrxJR,G-tGb6yUEIFo8XL,G-7hxrtF63fPt61GU,G-3zcwRxtAOcD1s63,G-RxXsU6k2oE6rRVE,G-7URvV2jWtWeRRF,G-32nR8hh0z9ggrR7",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -64,8 +63,13 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/941a56f09d6d9935/1747560665925/m13R_Pa3Uww6e7L",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/157235757:1747559661:hyvGInsdTn8vFCy5oiXZD3FbjGTwqcCvvvzi607jf_c/941a56f09d6d9935/11E0maVNWzDK76Hu6r_kKeIVdLh7Cnc1HOCs_ZLIvcQ-1747560665-1.2.1.1-NxAY.14LUKSMlnFlU1hmwK2mi53pGyj._POY2L16KXENe79BOcXy6OsBMKE3DJiS",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/941a56f09d6d9935/1747560665925/2617633f97289aa164095474537c90482cc8b76975e6791d0cc609487db24862/CU96zlaxzlTuigi",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/701fd2559006/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/6fab0cec561d/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
@@ -74,7 +78,7 @@
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -139,7 +143,6 @@
     "usa-table"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 35,
   "uswds_string": 5,
   "uswds_string_in_css": 20,

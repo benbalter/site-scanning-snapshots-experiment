@@ -5,7 +5,7 @@
   "initial_base_domain": "faa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://myaccessxtl.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa17z4mznpA5LEUV4h7&redirect_uri=https%3A%2F%2Fcaps.faa.gov%2Fauth%2Flogin%2Fcallback&scope=openid%20openid&state=c5w8MyFhA%2B0%2FrythvSx%2BapBV",
+  "url": "https://myaccessxtl.faa.gov/oauth2/default/v1/authorize?response_type=code&client_id=0oa17z4mznpA5LEUV4h7&redirect_uri=https%3A%2F%2Fcaps.faa.gov%2Fauth%2Flogin%2Fcallback&scope=openid%20openid&state=bFU7zvPPW9zeVcOgQKF6x1L5",
   "domain": "myaccessxtl.faa.gov",
   "base_domain": "faa.gov",
   "top_level_domain": "gov",
@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3923d273ca0b4824bfec41125abc62c0",
+  "page_hash": "2c2a7d50afe631edae4c7a075e5bcd28",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,10 +47,11 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-7HCtfoZMKgoPm81",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "caps.faa.gov",
     "cdn.myaccess.faa.gov",
+    "login.okta.com",
     "ok10static.oktacdn.com",
     "use.fontawesome.com"
   ],
@@ -80,6 +80,7 @@
     "https://cdn.myaccess.faa.gov/assets/uswds/img/icon-https.svg",
     "https://cdn.myaccess.faa.gov/assets/uswds/img/us_flag_small.png",
     "https://cdn.myaccess.faa.gov/assets/uswds/img/usa-icons/expand_more.svg",
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://ok10static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
     "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.3/css/okta-sign-in.min.css",
     "https://ok10static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.30.3/font/montserrat-okta-light-webfont.woff",
@@ -92,7 +93,7 @@
     "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
     "https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".faa.gov",
     "myaccessxtl.faa.gov"
@@ -146,7 +147,6 @@
     "usa-banner"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 20,
   "uswds_string": 4,
   "uswds_string_in_css": 0,

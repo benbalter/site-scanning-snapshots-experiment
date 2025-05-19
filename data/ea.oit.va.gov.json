@@ -22,7 +22,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "41bc36c688729101b088657ed3f56df4",
+  "page_hash": "813ec76b208d2070ee8d47135dda7ed7",
   "accessibility_violations": null,
   "pageviews": 1,
   "visits": 1,
@@ -52,7 +51,7 @@
     "pga4": "G-DFN0H6SPPL"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-S9rGvOX5aHjPgvJ,G-RcGrk7gEYiG,G-co0m0PvW8kEpGfe,G-e01kjGfDOASx,G-bAj4BK,G-NkQAUPAw5HuSWI,G-HxumcyheAXPUIAH,G-zJul",
+  "ga_tag_id": "G-DFN0H6SPPL,G-CSLL4ZEK4L,G-pH626T6S1B,G-QoB4eJr2JIufX6F,G-tVZPgaZR5tbQ4zh,G-in1bvEPZK3SzIrC,G-oRizX3hRUWKpsjh,G-SvatD3QaxpIFHkc,G-KQ68ouh7eLK0vEP,G-U4WzjKKzFM2Aro3,G-z570tQa",
   "third_party_service_domains": [
     "api.parsely.com",
     "cdn.parsely.com",
@@ -68,13 +67,13 @@
   "third_party_service_urls": [
     "https://api.parsely.com/v2/profile",
     "https://cdn.parsely.com/keys/digital.va.gov/p.js",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/d/93cf3221faa21f9b/1746772726287/-u2357JxWgjvjR0",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/flow/ov1/658195530:1746771178:awUHtX6WHGIBB26sjpRwuXXzZKKMzA_6LtH9vTGs_wk/93cf3221faa21f9b/322Dc0FOvaqt8hTwLHnSJdgwApkAeC9QtOsiwYUlOPA-1746772726-1.2.1.1-ZF.BKn0DwPa5zPmP.5VwTeTw8W1Ba.HcpbclXgRJ90QT.D9lwvDz501L.PY21TIw",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/93cf3221faa21f9b/1746772726292/0b59a6aefc76c7dc2592f63b7fd06c3814aadd07ee3a37d15f062b68351f867b/yFYOHLp0DbqTmNt",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/941a89691cafef67/1747562733214/L51Z7zVAzYuLdlu",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/945526957:1747559696:6SVDAbU4F-GFEUkrRoyNFlFgX3U4umC4LZS-uCFH84Q/941a89691cafef67/BPbzi9pEf5AMX7f9Ut5mDLuRPmwLHhVNBT1LaysPq14-1747562732-1.2.1.1-MPMQ_M_5nmU2FpC.3VevyJBlNNoOe8O8doIHbTQKpwQVz.G.Opd8NM5Ncpdcxqwn",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/941a89691cafef67/1747562733210/2ce1cb80376658f3bc75f60b215961247302d62173608643e96b78391828e675/O9qVm5npbad6pAM",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/701fd2559006/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/6fab0cec561d/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.gstatic.com/s/sourcesans3/v18/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
@@ -90,7 +89,8 @@
   ],
   "third_party_service_count": 10,
   "cookie_domains": [
-    ".va.gov"
+    ".va.gov",
+    "digital.va.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -156,7 +156,6 @@
     "usa-modal-overlay"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 40,
   "uswds_string": 7,
   "uswds_string_in_css": 20,

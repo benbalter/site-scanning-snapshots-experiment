@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "d19522407c8ef4e4b53b22ecb24d6e4d",
+  "page_hash": "c4135694002840e2ea4edf1a7360877f",
   "accessibility_violations": null,
-  "pageviews": 18,
-  "visits": 15,
+  "pageviews": 24,
+  "visits": 18,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -52,7 +51,7 @@
     "yt": "1"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "ga_tag_id": "G-CSLL4ZEK4L,G-yAixclnGvpZT57J,G-g5qWtkx3aB2JDrC",
   "third_party_service_domains": [
     "challenges.cloudflare.com",
     "dap.digitalgov.gov",
@@ -63,8 +62,13 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/940b5ae218e8ef8c/1747403541080/qsfQgqiMs9ClBOl",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1183733945:1747401196:POHbPPfiXS_dDC1QCsX7xaVd07XdCaqBSTIdMxJDL04/940b5ae218e8ef8c/XK_j7Kh_L7F0jSr3cxV3S894I7u1zgy4Cg341GakKbk-1747403540-1.2.1.1-NMJMebOE00KyoC1j9Toji3UWoGIc1nkTMMJOJs80WB0jTKE_P6iAVlgGiE8Rc9l2",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
+    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/940b5ae218e8ef8c/1747403541080/676e4044742014aadcb2bb23b496517f51b0d0d65d7aaf051efefac51a8162fc/Xgo7ScjPLU0w7CG",
     "https://challenges.cloudflare.com/turnstile/v0/api.js",
-    "https://challenges.cloudflare.com/turnstile/v0/b/701fd2559006/api.js",
+    "https://challenges.cloudflare.com/turnstile/v0/g/6fab0cec561d/api.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://ping.withcabin.com/cache",
     "https://ping.withcabin.com/hello",
@@ -73,7 +77,7 @@
     "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -138,7 +142,6 @@
     "usa-table"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 35,
   "uswds_string": 5,
   "uswds_string_in_css": 20,

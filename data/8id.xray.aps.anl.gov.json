@@ -16,12 +16,11 @@
   "agency": "Department of Energy",
   "bureau": "Argonne National Laboratory",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5e288c1b67974f97ae9722b4a4d1af64",
+  "page_hash": "b5c2f502da04e2ff63c5e60b62f6094b",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -72,6 +71,7 @@
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 6,
@@ -124,7 +124,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

@@ -16,7 +16,7 @@
   "agency": "Department of the Treasury",
   "bureau": "Department of the Treasury - OCIO",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "dap",
     "omb_idea",
@@ -25,7 +25,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -35,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "756ce59553215c5c86ef69745ef75f86",
+  "page_hash": "1da0a4f5e006d86dd88a09793f7c4613",
   "accessibility_violations": "{\"link-purpose\":1}",
-  "pageviews": 49453,
-  "visits": 19760,
+  "pageviews": 48459,
+  "visits": 18470,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": "Drupal",
@@ -54,7 +53,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-19138737-2,G-CSLL4ZEK4L,G-3MYR72QDBZ",
   "third_party_service_domains": [
-    "17de4c20.akstat.io",
+    "17de4c1d.akstat.io",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "s.go-mpulse.net",
@@ -63,7 +62,7 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c20.akstat.io/",
+    "https://17de4c1d.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
@@ -71,8 +70,9 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
+    "https://www.googletagmanager.com/td",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/ab11fe69/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
@@ -128,7 +128,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-04-15T19:20:27.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "cef5e0a8155ffb17bf9de61ba2e39511",
+  "sitemap_xml_page_hash": "e3263b25dd756d24a4a83c595383c3c5",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -142,7 +142,6 @@
     "usa-section"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 30,
   "uswds_string": 0,
   "uswds_string_in_css": 20,

@@ -24,9 +24,8 @@
     "final_url_websites",
     "dod_2025"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,8 +33,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1ab8daa8cba730c5826a58ea39b898ef",
-  "accessibility_violations": "{\"page-titled\":1}",
+  "page_hash": "e308a378971bf279f7938d569fc18f16",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -49,13 +48,9 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "navfacapplicationoutage.z2.web.core.usgovcloudapi.net"
-  ],
-  "third_party_service_urls": [
-    "https://navfacapplicationoutage.z2.web.core.usgovcloudapi.net/"
-  ],
-  "third_party_service_count": 1,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     "ecms.navfac.navy.mil"
   ],
@@ -77,7 +72,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": false,
   "robots_txt_url": "https://ecms.navfac.navy.mil/robots.txt",
   "robots_txt_status_code": 404,
@@ -100,7 +95,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

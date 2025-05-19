@@ -22,9 +22,8 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "97d3e60bbf468d77a9984c0f6bace51e",
-  "accessibility_violations": "{\"language\":1,\"lists\":1}",
+  "page_hash": "3674ca3c9ae2f30d59debc1b56913018",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -47,16 +46,9 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": [
-    "gov-bam.nr-data.net",
-    "js-agent.newrelic.com"
-  ],
-  "third_party_service_urls": [
-    "https://gov-bam.nr-data.net/1/75c8eb9ade",
-    "https://gov-bam.nr-data.net/resources/1/75c8eb9ade",
-    "https://js-agent.newrelic.com/nr-1216.min.js"
-  ],
-  "third_party_service_count": 2,
+  "third_party_service_domains": null,
+  "third_party_service_urls": null,
+  "third_party_service_count": 0,
   "cookie_domains": [
     "mbescbesdev.medicaid.gov"
   ],
@@ -101,7 +93,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": false,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,

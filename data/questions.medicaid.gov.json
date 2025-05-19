@@ -21,7 +21,6 @@
     "pulse",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -31,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2c58ca93ce7ce51c0e8ed9840abfd725",
+  "page_hash": "b0576951929c3896484acce1758cdea6",
   "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":1,\"lists\":3}",
   "pageviews": null,
   "visits": null,
@@ -42,15 +41,19 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHHS",
+    "subagency": "CMS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "adobe-ep.medicaid.gov",
     "cdn.jsdelivr.net",
     "cdn1.adoberesources.net",
     "cdnjs.cloudflare.com",
+    "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "gov1.siteintercept.qualtrics.com",
     "ping.chartbeat.net",
@@ -58,6 +61,7 @@
     "tags.tiqcdn.com",
     "tealium-tags.medicaid.gov",
     "use.fontawesome.com",
+    "www.googletagmanager.com",
     "zn8l8cpoikvit3t6c-medicare.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
@@ -68,17 +72,14 @@
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.4.4/polyfill.min.js",
     "https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/icon",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.faadef8bceb94e053f79.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.d3874cd52b47a77b4475.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b8b768ed34bc7505f919.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
     "https://ping.chartbeat.net/ping",
     "https://static.chartbeat.com/js/chartbeat.js",
+    "https://tags.tiqcdn.com/utag/cmsgov/medicaid-www/prod/utag.13.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicaid-www/prod/utag.2.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicaid-www/prod/utag.25.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicaid-www/prod/utag.27.js",
@@ -87,9 +88,10 @@
     "https://tealium-tags.medicaid.gov/medicaid-www/prod/utag.sync.js",
     "https://use.fontawesome.com/releases/v5.5.0/js/all.js",
     "https://use.fontawesome.com/releases/v5.5.0/js/v4-shims.js",
+    "https://www.googletagmanager.com/gtag/js",
     "https://zn8l8cpoikvit3t6c-medicare.gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 12,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".medicaid.gov"
   ],
@@ -200,7 +202,6 @@
     "usa-width-three-fourths"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 130,
   "uswds_string": 1,
   "uswds_string_in_css": 0,

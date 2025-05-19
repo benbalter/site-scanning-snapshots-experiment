@@ -22,7 +22,6 @@
     "final_url_websites",
     "cisa"
   ],
-  "public": null,
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -32,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "ssl_protocol_error",
-  "page_hash": "3bae8d22acce0b2d1e471d84144429e7",
+  "page_hash": "a443f154eefbda39a983d1b0208ae08c",
   "accessibility_violations": null,
   "pageviews": 0,
   "visits": 2,
@@ -52,17 +51,27 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eex-gateway.fr011.ttecfed.com",
+    "static.foresee.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.compress.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.invite.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.trigger.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/fs.utils.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/invite___html.js",
+    "https://eex-gateway.fr011.ttecfed.com/code/19.18.0-fs/templates/trigger/classicdesktop/main.css",
     "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/staging/gateway.min.js",
+    "https://eex-gateway.fr011.ttecfed.com/sites/usajobs-gov/staging/trigger/sitelogo.gif",
+    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.png",
+    "https://static.foresee.com/logos/foresee/white/verint_foresee_logo.svg",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".test.usajobs.gov",
     ".usajobs.gov",
@@ -125,7 +134,6 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_banner_heres_how-2": true,
   "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 20,
