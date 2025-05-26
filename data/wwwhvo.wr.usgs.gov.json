@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d0e0bab43c234e03f49e9956311021e8",
+  "page_hash": "081b36efce797c0a4618389e1321897d",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": 27,
   "visits": 14,
@@ -84,7 +84,9 @@
     "https://volcanoes.usgs.gov/vsc/js/vscutils.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".usgs.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

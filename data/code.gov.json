@@ -34,9 +34,9 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "a244ab54c4aeae75b9460d89e58da97a",
+  "page_hash": "de85e4230f14021f6979322b34e77be3",
   "accessibility_violations": null,
-  "pageviews": 5,
+  "pageviews": 6,
   "visits": 3,
   "ipv6": true,
   "hostname": "cloudfront.net",
@@ -54,7 +54,9 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-HBYXWFP794,G-CSLL4ZEK4L,UA-47271808-1",
   "third_party_service_domains": [
+    "api.govdelivery.com",
     "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
+    "content.govdelivery.com",
     "dap.digitalgov.gov",
     "public.govdelivery.com",
     "touchpoints.app.cloud.gov",
@@ -62,8 +64,12 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://api.govdelivery.com/api/v2/public/accounts/13243/signups/34948/impressions",
     "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/2021/tag_for_Touchpoints_342x80.png",
+    "https://content.govdelivery.com/assets/SignupForm-74afc2704b7f400b90713049c031843d52712031a0b411a51e0aa96ff8c70d5a.js",
+    "https://content.govdelivery.com/assets/signup_form-f6371d2d2a16ca90c52c6f09308a1e9df1e8f064a71cefd805f8443e8f6341b0.css",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://public.govdelivery.com/accounts/USGSA/signup/34948/form",
     "https://public.govdelivery.com/assets/Signup.js",
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
@@ -76,7 +82,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".digital.gov"
   ],

@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7beba6c37171e152b19a6cc0b5161de6",
-  "accessibility_violations": "{\"contrast\":5}",
+  "page_hash": "9ad46f58ec736db6e80205bb27869f30",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,6 +52,7 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "fonts.gstatic.com",
     "use.fontawesome.com",
     "www.google.com",
     "www.googletagmanager.com",
@@ -59,13 +60,17 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://use.fontawesome.com/releases/v6.5.1/css/v4-shims.css",
     "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.gstatic.com/recaptcha/releases/X-oVtzDcTGjZVms4LEgykmCV/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/styles__ltr.css"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".nasa.gov"
   ],
@@ -88,7 +93,7 @@
   "og_title": "Integrated Design Center | Goddard Engineering and Technology Directorate",
   "og_description": "Enabling Future Space Exploration through Innovative Design Solutions The Integrated Design Center (IDC) is a multi-disciplinary, concurrent EngineeringFacility that specializes in rapid conceptual mission and instrument design. Strategic Focus Areas The IDC Serves the Following Science Mission Directorate and Enabling Technologies IDC Lab Facilities The Instrument Design Lab (IDL), Mission Design Lab (MDL) and Mission …",
   "og_article_published": null,
-  "og_article_modified": "2025-04-08T16:34:57.000Z",
+  "og_article_modified": "2025-05-20T19:24:20.000Z",
   "og_image": "https://etd.gsfc.nasa.gov/wp-content/uploads/2025/01/idc-header.png",
   "og_type": "article",
   "og_url": "https://etd.gsfc.nasa.gov/capabilities/integrated-design-center/",

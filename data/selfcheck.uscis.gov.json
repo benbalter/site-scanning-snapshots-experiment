@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "96fd6da08eed0b1ede4694e41e72533e",
+  "page_hash": "035ae5ec0ffa22b1ebeb75b602b429e2",
   "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
@@ -39,7 +39,7 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": true,
+  "site_search": false,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
@@ -48,10 +48,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-2MXYFJTNKW,G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "analytics.google.com",
     "dap.digitalgov.gov",
-    "gov-bam.nr-data.net",
-    "gov1.siteintercept.qualtrics.com",
     "js-agent.newrelic.com",
     "s.go-mpulse.net",
     "www.dhs.gov",
@@ -60,13 +57,8 @@
     "znbju1slut2xcmuls-uscisomnichannel.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://gov-bam.nr-data.net/1/7985b5eefd",
-    "https://gov-bam.nr-data.net/events/1/7985b5eefd",
-    "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b8b768ed34bc7505f919.chunk.js",
     "https://js-agent.newrelic.com/nr-spa-1216.min.js",
     "https://s.go-mpulse.net/boomerang/A3WTK-PERZP-2W77L-XJ2AR-542NX",
     "https://www.dhs.gov/profiles/dhsd8_gov/modules/custom/dhs_ntas/css/dhs_ntas.ntas.css",
@@ -77,10 +69,9 @@
     "https://www.googletagmanager.com/gtm.js",
     "https://znbju1slut2xcmuls-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 7,
   "cookie_domains": [
-    ".uscis.gov",
-    "myeverify.uscis.gov"
+    ".uscis.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -141,12 +132,8 @@
     "usa-card-group",
     "usa-hero",
     "usa-icon",
-    "usa-input",
-    "usa-label",
     "usa-overlay",
-    "usa-search",
-    "usa-skipnav",
-    "usa-sr-only"
+    "usa-skipnav"
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 40,

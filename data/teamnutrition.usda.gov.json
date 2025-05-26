@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "b8982acff42d935fadb66c5cd8ac0507",
+  "page_hash": "670c6999d6790beae67c201271fc730e",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -43,8 +43,8 @@
   "search_dot_gov": true,
   "dap": true,
   "dap_parameters": {
-    "agency": "United States Department of  Agriculture",
-    "subagency": "Food and Nutrition Service",
+    "agency": "USDA",
+    "subagency": "FNS",
     "siteplatform": "Drupal",
     "autotracker": "false",
     "pga4": "G-SRH9HMWJ3W"
@@ -91,11 +91,13 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [
+    ".fns.usda.gov",
     ".usda.gov"
   ],
   "viewport_meta_tag": true,

@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.nih.gov/CertAuthV3/forms/mfa/Signin_AuthApp.aspx?TYPE=33554433&REALMOID=06-5d472277-382a-4f20-b29a-adab02a872b1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectAzureMFA%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3dbcc80256--24361a57--6956a11e--0999f812--061d3c7d--ea1",
+  "url": "https://auth.nih.gov/CertAuthV3/forms/mfa/Signin_AuthApp.aspx?TYPE=33554433&REALMOID=06-5d472277-382a-4f20-b29a-adab02a872b1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectAzureMFA%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d10e78711--749ff7b1--31f6e307--6e8fc815--7b812a47--c641",
   "domain": "auth.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "71feb925103e0b30ae2e970beef83409",
+  "page_hash": "56508b5e3aeb341f51dcf00339d560d0",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -65,7 +65,9 @@
     "auth.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "privacy"
+  ],
   "required_links_text": [
     "privacy policy",
     "vulnerability disclosure"
@@ -94,7 +96,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://auth.nih.gov/CertAuthV3/forms/mfa/Signin_AuthApp.aspx?TYPE=33554433&REALMOID=06-5d472277-382a-4f20-b29a-adab02a872b1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectAzureMFA%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d58bfb6e6--515f65d8--09310246--78712411--b00e16fd--76",
+  "sitemap_xml_url": "https://auth.nih.gov/CertAuthV3/forms/mfa/Signin_AuthApp.aspx?TYPE=33554433&REALMOID=06-5d472277-382a-4f20-b29a-adab02a872b1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectAzureMFA%2ejsp%3fSMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d171633b4--7c7a9a22--d6722927--15d6fdee--fbaa4b94--ab75",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

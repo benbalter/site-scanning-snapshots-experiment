@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "cde07afcc5e33e816df8f1f393aea5fd",
+  "page_hash": "699404e5927f49fc1dfb711f547cfd1f",
   "accessibility_violations": "{\"aria\":4,\"contrast\":7,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -62,7 +62,9 @@
     "https://syndication.twitter.com/settings"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -35,10 +35,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "db24f4489af7fc0138bc6cd6acc7e587",
+  "page_hash": "83eeee267d74840a256ec7a3fb63c74b",
   "accessibility_violations": "{\"aria\":1}",
-  "pageviews": 10687,
-  "visits": 2539,
+  "pageviews": 15095,
+  "visits": 3171,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -58,7 +58,7 @@
     "enhlink": "true"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-7Q1VD68XLD,G-CSLL4ZEK4L,UA-44924221-2",
+  "ga_tag_id": "G-7Q1VD68XLD,UA-44924221-2,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
@@ -84,11 +84,12 @@
     "https://ssl.p.jwpcdn.com/player/v/8.2.3/jwpsrv.js",
     "https://ssl.p.jwpcdn.com/player/v/8.2.3/polyfills.webvtt.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/59b252b9/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -144,7 +145,8 @@
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
     "usa-accordion",
-    "usa-banner"
+    "usa-banner",
+    "usa-js-loading"
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 20,

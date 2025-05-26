@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0056949aec1d653ec670dbb6087c5077",
+  "page_hash": "f899c7dd58294ca38d994d9e28f84f88",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -55,7 +55,9 @@
     "https://www.nimh.nih.gov/themes/nimhtheme/logo.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": [

@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "40d3ae67180b6f8bed5348262f979ebf",
+  "page_hash": "c51c006bdd72777b9e5a24531699db5c",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -40,25 +40,41 @@
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": false,
+  "site_search": true,
   "search_dot_gov": null,
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "wt.research.gov",
+    "www.research.gov"
+  ],
+  "third_party_service_urls": [
+    "https://wt.research.gov/dcsdnk61n1pdfnrido9thdr8t_7i2p/dcs.gif",
+    "https://www.research.gov/semantic-content/footer",
+    "https://www.research.gov/semantic-content/header"
+  ],
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".research.gov",
     "identity.research.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "NSF | Research.gov",
+  "title": "Research.gov - User Log In",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -69,7 +85,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": "en-US",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

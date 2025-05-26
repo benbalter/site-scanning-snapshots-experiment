@@ -1,12 +1,12 @@
 {
-  "name": "qavetrecs.archives.gov",
+  "name": "qavetrecsplus.archives.gov",
   "initial_url": "https://qaedelivery.archives.gov",
   "initial_domain": "qaedelivery.archives.gov",
   "initial_base_domain": "archives.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://qavetrecs.archives.gov/VeteranRequest/home.html",
-  "domain": "qavetrecs.archives.gov",
+  "url": "https://qavetrecsplus.archives.gov/s/",
+  "domain": "qavetrecsplus.archives.gov",
   "base_domain": "archives.gov",
   "top_level_domain": "gov",
   "live": true,
@@ -29,8 +29,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a3a07f08e8c25c69c5a636a1466efb54",
-  "accessibility_violations": "{\"contrast\":1}",
+  "page_hash": "4798f98d08e51195f9013abc58fac0af",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -40,35 +40,37 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": true,
-  "dap_parameters": {
-    "agency": "NARA"
-  },
-  "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-0KHCNR6KSZ,G-CSLL4ZEK4L,UA-182127501-1",
+  "dap": false,
+  "dap_parameters": "",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
-    "dap.digitalgov.gov",
-    "www.google-analytics.com",
-    "www.googletagmanager.com"
+    "www.google.com",
+    "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.google.com/recaptcha/api.js",
+    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".archives.gov",
-    ".qavetrecs.archives.gov"
+    "qavetrecsplus.archives.gov"
   ],
   "viewport_meta_tag": false,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "foia",
+    "privacy"
+  ],
+  "required_links_text": [
+    "about us",
+    "accessibility",
+    "freedom of information act",
+    "privacy policy"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "NARA | e-Vetrecs .",
+  "title": "Home",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -79,7 +81,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en",
+  "language": "en-US",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

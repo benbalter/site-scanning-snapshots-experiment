@@ -23,7 +23,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "01e9834c10317a019e9efae4ae181848",
+  "page_hash": "9307ea37cafa2da2ce719a1bd7fdd4d8",
   "accessibility_violations": null,
-  "pageviews": 3754,
-  "visits": 2893,
+  "pageviews": 3821,
+  "visits": 2996,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -45,7 +45,7 @@
   "dap": true,
   "dap_parameters": {
     "agency": "DOC",
-    "subagency": "NOAA"
+    "subagency": "CPO"
   },
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-69P3KT57C3,G-287344532,G-CSLL4ZEK4L",
@@ -68,7 +68,8 @@
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".climate.gov"
+    ".climate.gov",
+    ".content-drupal.climate.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
@@ -113,9 +114,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 556,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-05-17T06:05:16.000Z",
+  "sitemap_xml_lastmod": "2025-05-22T06:06:19.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "64dc33de41d409cd0badf24a362c9018",
+  "sitemap_xml_page_hash": "5214c4cd2e718cca88ff101560e13065",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

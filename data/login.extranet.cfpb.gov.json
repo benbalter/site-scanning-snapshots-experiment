@@ -5,7 +5,7 @@
   "initial_base_domain": "cfpb.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://login.extranet.cfpb.gov/fileintake/?SAMLRequest=jZNPj9owEMXv%2FRSW7%2FkDlJZaJCsKWhVp26aQ7aE3r5mwVh079UxY9tvXCaRC6gpxzPh53pufJ%2FO7Y23YATxqZzM%2BilPOwCq303af8cfyPprxu%2FzdHGVtGrFo6dlu4E8LSGyBCJ7CtaWz2Nbgt%2BAPWsHj5iHjz0QNiiSBI3lpgWJVNU%2Fx3h04W4XL2krqDQedcXtt4%2F%2FUSaUNaEvyN3B277yCPkLGybehsl5lfDKTnz7KySh8YSER9QEyXkmD3TliC2uLJC1lfJyOp1E6jUazMn0vphMx%2BRCPZuNfnBXekVPOfNb2NHjrrXASNQora0BBSmwXXx%2FEOE7F00mE4ktZFlHxfVty9nMAOO4ABqQWRY%2Fseqvm7MvzM%2BA%2BsL%2B9gRzegOe3k5wnl2aD9bfQfL0qnNHqlS2McS9LD5JgYB3o15Kux%2BkqehdVvVQ0HRQksMTZtuj6%2F2il0ZUGn%2FGTOU8G%2B%2FNWwa5%2F4LBSFEZgS1c30mvs0MJRKjqTEpeqpQkYNlBdYLuZ2lWZEqprHcrdYr04v%2BsWBVRIWQa62DhPJ5hv5skH0G%2FO9u%2F08qfK%2FwI%3D",
+  "url": "https://login.extranet.cfpb.gov/fileintake/?SAMLRequest=jZPNbtswEITvfQqBd%2F2EgYuUsBS4NoIaSFvFVnLIjaZXDlGKVLkrx337UrJVGGhg%2BKjlcGf242p6f2hMtAeP2tmc3SQZi8Aqt9V2l7Pn6iG%2BY%2FfFpynKxrRi1tGbXcHvDpCiGSJ4CtfmzmLXgF%2BD32sFz6vHnL0RtSjSFA7kpQVKVN1ukp3bs2gRLmsraTAcdcbttE3%2BU6e1NqAtyV%2FAogfnFQwRcka%2BC5XlIme3E75Rn9Vd%2BMJSIuo95KyWBvtzxA6WFklayhnP%2BCTOJjG%2FrTIusi%2BC3yR8wl9ZVHpHTjnzVdvj4J23wknUKKxsAAUpsZ59fxQ8ycTmKELxrarKuPy5rlj0MgLkPcCA1KIYkF1u1Z58WXECPAT21zeQ4xuw4nqS0%2FTcbLT%2BEZovF6UzWv2JZsa497kHSTCyDvQbSZfj9BW9jetBKtoeChJYYtG67Ps%2FddLoWoPP2dGcpaP9aatgOzxwWCkKI0Rz17TSa%2BzRwkEqOpES56q5CRhWUJ9hu5raRZkSqm8dyv1ivTu%2F7RcFVEhZBbrYOk9HmB%2FmKUbQH8727%2FT8pyr%2BAg%3D%3D",
   "domain": "login.extranet.cfpb.gov",
   "base_domain": "cfpb.gov",
   "top_level_domain": "gov",
@@ -23,7 +23,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "beced8f48e7da89aef9cb41d4e324a88",
+  "page_hash": "e9c554a5136651adf479583d0229a416",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -54,6 +54,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".cfpb.gov",
     "login.extranet.cfpb.gov"
   ],
   "viewport_meta_tag": true,

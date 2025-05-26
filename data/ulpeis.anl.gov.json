@@ -22,7 +22,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "timeout",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "835cf92a8e52b26b5fa9dcb0dfaaf9ff",
+  "page_hash": "edebb871c8f299338586de153f453c00",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -68,7 +68,8 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js"
+    "https://www.googletagmanager.com/gtm.js",
+    "https://www.googletagmanager.com/td"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -129,11 +130,8 @@
     "usa-accordion",
     "usa-banner",
     "usa-breadcrumb",
-    "usa-button",
     "usa-footer",
     "usa-header",
-    "usa-input",
-    "usa-label",
     "usa-logo",
     "usa-megamenu",
     "usa-menu-btn",

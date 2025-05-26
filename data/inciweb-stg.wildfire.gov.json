@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "15c4559cda4232dbbdb3d5f8d25c522e",
+  "page_hash": "8ebef00cb100018011037f1578a2d7f7",
   "accessibility_violations": "{\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -54,6 +54,7 @@
     "services3.arcgis.com",
     "static.arcgis.com",
     "www.datadoghq-browser-agent.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -81,9 +82,10 @@
     "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Interagency_Perimeters_YearToDate/FeatureServer/0",
     "https://static.arcgis.com/attribution/World_Topo_Map",
     "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".wildfire.gov",
     "inciweb-stg.wildfire.gov"
@@ -120,11 +122,11 @@
   "sitemap_xml_url": "https://inciweb-stg.wildfire.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 670,
+  "sitemap_xml_filesize": 709,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-05-15T21:46:00.000Z",
+  "sitemap_xml_lastmod": "2025-05-21T18:09:23.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "242938464c46dbfd72804db8d48c509a",
+  "sitemap_xml_page_hash": "e3070cddeee5d4c28e3937976f083366",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -146,11 +148,11 @@
   ],
   "uswds_banner_heres_how": true,
   "uswds_usa_classes": 35,
-  "uswds_string": 82,
+  "uswds_string": 38,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 162,
+  "uswds_count": 118,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

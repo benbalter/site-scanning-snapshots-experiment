@@ -5,7 +5,7 @@
   "initial_base_domain": "noaa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://cope.ctc.nwave.noaa.gov/shibboleth-ds/index.html?entityID=https%3A%2F%2Fcope.bldc.nwave.noaa.gov%2Fshibboleth&return=https%3A%2F%2Fcope.ctc.nwave.noaa.gov%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A21bf938036f114dd239dd883353541cbb00944585b8ca47588366af109818067",
+  "url": "https://cope.ctc.nwave.noaa.gov/shibboleth-ds/index.html?entityID=https%3A%2F%2Fcope.bldc.nwave.noaa.gov%2Fshibboleth&return=https%3A%2F%2Fcope.ctc.nwave.noaa.gov%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A82436448ace1e2535dc6b03d6d21962d493d86939ff55480da6b3b8f4ca7ca7a",
   "domain": "cope.ctc.nwave.noaa.gov",
   "base_domain": "noaa.gov",
   "top_level_domain": "gov",
@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "5b12442a17c01c6d4a30bd255494c567",
+  "page_hash": "ce37c956059e950631ed982b14b82af2",
   "accessibility_violations": "{\"aria\":1,\"contrast\":6}",
   "pageviews": null,
   "visits": null,
@@ -62,7 +62,9 @@
     "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"
@@ -85,14 +87,14 @@
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,
-  "robots_txt_url": "https://cope.ctc.nwave.noaa.gov/shibboleth-ds/index.html?entityID=https%3A%2F%2Fcope.bldc.nwave.noaa.gov%2Fshibboleth&return=https%3A%2F%2Fcope.ctc.nwave.noaa.gov%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A337c90df7632413144c5e58f14bf175b77ecb5fb6eec5cccedc7fae5334daa3d",
+  "robots_txt_url": "https://cope.ctc.nwave.noaa.gov/shibboleth-ds/index.html?entityID=https%3A%2F%2Fcope.bldc.nwave.noaa.gov%2Fshibboleth&return=https%3A%2F%2Fcope.ctc.nwave.noaa.gov%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253Aee84397006627cd0461c061c1373cdb1bb0f3141d8e98b2cc391b1660ffc10fe",
   "robots_txt_status_code": 200,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://cope.ctc.nwave.noaa.gov/shibboleth-ds/index.html?entityID=https%3A%2F%2Fcope.bldc.nwave.noaa.gov%2Fshibboleth&return=https%3A%2F%2Fcope.ctc.nwave.noaa.gov%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253Ae9d0a404d8ba8fd1bee5af00f322749059690fade73b0476e390f23110a150f9",
+  "sitemap_xml_url": "https://cope.ctc.nwave.noaa.gov/shibboleth-ds/index.html?entityID=https%3A%2F%2Fcope.bldc.nwave.noaa.gov%2Fshibboleth&return=https%3A%2F%2Fcope.ctc.nwave.noaa.gov%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A27191b0854ef5c13c137fc48d7c3fce75559e9dbedc6a79aeb1a4175acc3fdcf",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

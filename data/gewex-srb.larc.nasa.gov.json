@@ -30,10 +30,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "90b088049daaadc186fe447bc2268744",
+  "page_hash": "2fb9e73c8cbd6f43c59c947b640b9b8b",
   "accessibility_violations": null,
-  "pageviews": 26,
-  "visits": 24,
+  "pageviews": 28,
+  "visits": 26,
   "ipv6": true,
   "hostname": null,
   "cms": "WordPress",
@@ -55,6 +55,7 @@
     "fonts.gstatic.com",
     "sites-e.larc.nasa.gov",
     "use.fontawesome.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -65,9 +66,10 @@
     "https://fonts.gstatic.com/s/newscycle/v25/CSR64z1Qlv-GDxkbKVQ_fOAKTfl8tOQ.woff2",
     "https://sites-e.larc.nasa.gov/science/wp-content/uploads/sites/147/2022/02/NASA-LaRC-Lidar-Timeline.png",
     "https://use.fontawesome.com/releases/v5.12.0/css/all.css",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".nasa.gov",
     "science.larc.nasa.gov"
@@ -121,6 +123,7 @@
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 13,
   "uswds_usa_class_list": [
+    "usa-accordion",
     "usa-content",
     "usa-footer",
     "usa-footer-contact-links",
@@ -141,8 +144,11 @@
     "usa-logo-text",
     "usa-menu-btn",
     "usa-nav",
+    "usa-nav-close",
     "usa-nav-container",
     "usa-nav-dark",
+    "usa-nav-link",
+    "usa-nav-primary",
     "usa-navbar",
     "usa-section",
     "usa-serif-body",
@@ -151,12 +157,12 @@
     "usa-width-one-whole"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 20,
+  "uswds_usa_classes": 25,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 53,
+  "uswds_count": 58,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

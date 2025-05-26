@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c4a94b34c21ae7a804c99a7587b3c6fa",
+  "page_hash": "b40a78a3e32b16eebf047e66b4c38c5c",
   "accessibility_violations": "{\"user-control-name\":2}",
   "pageviews": null,
   "visits": null,
@@ -47,11 +47,8 @@
     "subagency": "USFWS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-KERW0RESPC,G-WY5j,G-C5T6C,G-CSLL4ZEK4L,G-60yv0ecebFwehV,G-JQD5BTHT4C",
+  "ga_tag_id": "G-KERW0RESPC,G-WY5j,G-C5T6C,G-CSLL4ZEK4L,G-8Sd7ISXIeUgj1bb",
   "third_party_service_domains": [
-    "17de4c19.akstat.io",
-    "17de4c1d.akstat.io",
-    "c.go-mpulse.net",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
@@ -64,7 +61,6 @@
     "s.go-mpulse.net",
     "static.doubleclick.net",
     "touchpoints.app.cloud.gov",
-    "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com",
     "www.gstatic.com",
@@ -72,9 +68,6 @@
     "yt3.ggpht.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c19.akstat.io/",
-    "https://17de4c1d.akstat.io/",
-    "https://c.go-mpulse.net/api/config.json",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
@@ -96,22 +89,21 @@
     "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
     "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
-    "https://www.google-analytics.com/g/collect",
-    "https://www.google.com/js/th/C7ca_iEteRiA1IJ44IkEPBSOTBt5k8gdXoH4tV9dwsc.js",
+    "https://www.google.com/js/th/_VDXCD0HLVFgufV9_8MJNoYikNqi0CVCKOlDntAKsag.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
     "https://www.youtube.com/generate_204",
-    "https://www.youtube.com/s/player/b2858d36/player_ias.vflset/en_US/base.js",
-    "https://www.youtube.com/s/player/b2858d36/player_ias.vflset/en_US/embed.js",
-    "https://www.youtube.com/s/player/b2858d36/player_ias.vflset/en_US/remote.js",
-    "https://www.youtube.com/s/player/b2858d36/www-embed-player.vflset/www-embed-player.js",
-    "https://www.youtube.com/s/player/b2858d36/www-player.css",
-    "https://www.youtube.com/youtubei/v1/log_event",
+    "https://www.youtube.com/s/player/59b252b9/player_ias.vflset/en_US/base.js",
+    "https://www.youtube.com/s/player/59b252b9/player_ias.vflset/en_US/embed.js",
+    "https://www.youtube.com/s/player/59b252b9/player_ias.vflset/en_US/remote.js",
+    "https://www.youtube.com/s/player/59b252b9/www-embed-player.vflset/www-embed-player.js",
+    "https://www.youtube.com/s/player/59b252b9/www-player.css",
     "https://yt3.ggpht.com/ytc/AIdro_nnb_-jDuGW2QQhuTXC7QomGdd0zs25rJihLmaZGpUtRw=s68-c-k-c0x00ffffff-no-rj"
   ],
-  "third_party_service_count": 21,
+  "third_party_service_count": 17,
   "cookie_domains": [
-    ".fws.gov"
+    ".fws.gov",
+    ".www.fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

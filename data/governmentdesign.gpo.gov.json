@@ -9,9 +9,9 @@
   "domain": "governmentdesign.gpo.gov",
   "base_domain": "gpo.gov",
   "top_level_domain": "gov",
-  "live": false,
+  "live": true,
   "filter": false,
-  "status_code": 429,
+  "status_code": 200,
   "media_type": "text/html",
   "agency": "Government Publishing Office",
   "bureau": "Government Publishing Office",
@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "ssl_version_cipher_mismatch",
-  "page_hash": "e4edae51610a439039fb31c28693cba7",
+  "page_hash": "1955cb8a6ab1bd020c4403f513894924",
   "accessibility_violations": "{\"aria\":1,\"contrast\":10}",
   "pageviews": null,
   "visits": null,
@@ -43,29 +43,35 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-SAQqSZxpE,G-RyX8qOwMJE,G-O7qEemmPq66UdL9,G-E8TZa6odnLuMNJF,G-1pJHqMPJrHJ7Muz",
+  "ga_tag_id": "UA-20264661-1,G-VEWTQRL8P0",
   "third_party_service_domains": [
-    "challenges.cloudflare.com"
+    "fonts.googleapis.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/940b84da095e4b01/1747405260063/tgOJK5EwSJmu4MZ",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/730227420:1747404772:Mu3OnxtNhkzdByk56k1MXQzrwit0_1MKw3FPRrPqXgA/940b84da095e4b01/gzRDElOZmUFEYQ1WH9MDTp3dNBj3b3.c9p7drUkwsFY-1747405259-1.2.1.1-_bxhEvfVouWJFs2411QN.YcudljozI9U45zNXxeM4yJIEc6RBvMT4k6qlcZYP4Jg",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/940b84da095e4b01/1747405260064/be1bbfa137428f0da2b914f5d26446ebd7840ba35f7de09450f831a2924ee36c/dP_PBLHN4uLLLjy",
-    "https://challenges.cloudflare.com/turnstile/v0/g/6fab0cec561d/api.js"
+    "https://fonts.googleapis.com/css",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".gpo.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "privacy"
+  ],
+  "required_links_text": [
+    "about us",
+    "privacy policy"
+  ],
   "https_enforced": null,
   "hsts": null,
-  "title": "Just a moment...",
-  "description": null,
+  "title": "GPO | Creative Services",
+  "description": "",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -75,7 +81,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en-US",
+  "language": "en",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

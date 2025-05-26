@@ -21,7 +21,7 @@
     "final_url_websites"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -29,11 +29,11 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d93680fb217bbbb95cb39acea69031b1",
+  "page_hash": "bbb6ad4c4258b2306612c12abe22dec9",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": true,
+  "ipv6": false,
   "hostname": "cloudflare.net",
   "cms": null,
   "login_provider": null,
@@ -52,7 +52,8 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".nih.gov"
+    ".nih.gov",
+    "nih-e-bidboard.nih.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,

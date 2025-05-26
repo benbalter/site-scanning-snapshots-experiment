@@ -5,7 +5,7 @@
   "initial_base_domain": "hhs.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://pecos.cms.hhs.gov/PecosWebMaintenanceSysMntc.htm",
+  "url": "https://pecos.cms.hhs.gov/pecos/login.do",
   "domain": "pecos.cms.hhs.gov",
   "base_domain": "hhs.gov",
   "top_level_domain": "gov",
@@ -33,15 +33,19 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4e1d85d4c74f1bf31c6ec52f58a32d5c",
-  "accessibility_violations": "{\"language\":1}",
+  "page_hash": "293e86308f73c273d6d3ce2a28b2fb72",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
-  "login": null,
+  "login": [
+    "\"password\"",
+    "\"userid\"",
+    "type=\"password\""
+  ],
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
@@ -52,16 +56,19 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".pecos.cms.hhs.gov"
+    ".pecos.cms.hhs.gov",
+    "pecos.cms.hhs.gov"
   ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about"
   ],
-  "required_links_text": null,
+  "required_links_text": [
+    "accessibility"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "PECOS System Undergoing Maintenance",
+  "title": "Welcome to the Medicare Provider Enrollment, Chain, and Ownership System (PECOS)",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -72,7 +79,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": null,
+  "language": "en-US",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

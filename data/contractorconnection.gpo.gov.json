@@ -9,14 +9,14 @@
   "domain": "contractorconnection.gpo.gov",
   "base_domain": "gpo.gov",
   "top_level_domain": "gov",
-  "live": false,
+  "live": true,
   "filter": false,
-  "status_code": 429,
+  "status_code": 200,
   "media_type": "text/html",
   "agency": "Government Publishing Office",
   "bureau": "Government Publishing Office",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "gov_man",
     "final_url_websites",
@@ -31,8 +31,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c02b3ac9d672b257c69d1c53e47ea8a9",
-  "accessibility_violations": "{\"auto-updating\":1}",
+  "page_hash": "ce30e618d5a81ebbf7bfbbd243987195",
+  "accessibility_violations": "{\"contrast\":20,\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -47,25 +47,28 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "challenges.cloudflare.com"
+    "ajax.googleapis.com"
   ],
   "third_party_service_urls": [
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/941906608acdb298/1747546880316/NOt8BZPxrYn22Pf",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/490522744:1747545332:lb8KKpzFOEaHcRrsYIK_7O6RWL5Q-fuuIE1lyGnmKdk/941906608acdb298/D6qN9z_ayOR8fihDQbkRDE_NewhwA8lT8.gbg.t9b8o-1747546880-1.2.1.1-qoSRSi6888aEfPL.QvuL8AWcpmosDceTqcWjuLoBB6j.HAKPSxhwWP_q_41CO13T",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1",
-    "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/941906608acdb298/1747546880317/09c378e6a6084b251daa78337f3d7cb44b3a3d168f84d3f2d8865e77862cdd6a/1buLoImkw_dSl3W",
-    "https://challenges.cloudflare.com/turnstile/v0/g/6fab0cec561d/api.js"
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".gpo.gov",
+    "contractorconnection.gpo.gov"
+  ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "privacy policy"
+  ],
   "https_enforced": null,
   "hsts": null,
-  "title": "Just a moment...",
-  "description": null,
+  "title": "Contractor Connect",
+  "description": "",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -75,7 +78,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": "en-US",
+  "language": "en",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

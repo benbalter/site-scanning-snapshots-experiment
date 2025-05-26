@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/idme/Loginmfa.aspx?TYPE=33554433&REALMOID=06-183edace-59dc-4e01-8f0d-525267968e15&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectWAYFAzureMFAidme%2ejsp%3fSAMLRequest%3djZJPT4MwGMa-%2FCukdCl0KsRkkuB1cMpUIevBiCiujCbTYt2z67YWhc14Wz33e588vXQLv2p6lg23Uk3gfBFjno2sVsNNDjAajmOYggSneCWC2Ynl6v2XE81lvtNWVbpGTAghjpVYrrWDohMmFOchKPD9tY9RY2wPDeJKLyrrWcKmk2ntV5SnZeHt9wHkjy1K3wjYegMZTBMHZY14gZz12kopP7r9efCx8PuZ1fRQlzJGA-%2B6FsZYWnAWQ0Q85mHaM3Sm-%2FqkJZRWIt6QaOA0nBXcp9HCxLuQlKOMoBBbBRYrmyMiE-%2Bo61M3CItgwWjESPiKnOx78q1Uu3HCdT7lLAJ2VxSZO695EQZOS0YBSpZTSXYKNhfcr9vyH9go-%2BQ9aOKNd4ou4ObtnD6P-%2FZp3pEdmnk7atPq6M4FbEKEA4mU-%2F-%2BfpDkCw-%3D-%3D%26RelayState%3dss-%3Amem-%3Acfaf6606641bcb106c9e35833d25988e0d5796455d085b9fe6e18fa0622f2dd8%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3de7279221--9df75334--897cdede--ba23e192--ff85a43a--299",
+  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/idme/Loginmfa.aspx?TYPE=33554433&REALMOID=06-183edace-59dc-4e01-8f0d-525267968e15&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2fSAML2redirectWAYFAzureMFAidme%2ejsp%3fSAMLRequest%3djZJNT4MwGMe-%2FCul9lLfJaAYJbgeXTCWCHryY0pXRBFrsUzb99sLQOS-%2BL5-%2F6f-%2F8svXQJtm46kvanlE3-%2FvORjro20kkNNDjHotiaIggEjaciCGkTy93xLPdkinlVFMNchKAbg2QsmVktC3XOdcHwTjz0-%2FbGNXGdEAwHuWcmZnRVEgh9zZjthS1vVcHnNeiLFXDTW0DKDxGeDh7zAtkrYdOQtLR-%2FdeLDoXPx7SqjryEKRJw15eNYHgc4A1myNqsY-%2FR2E4VBVFVzFri03LlOGHqVX0UuW-%2FDQjxbeIAPo-%2BUaCodLEyHO8-%2BcyZzzy-%2FcAPiBMQPXpGVfU-%2B-%2BFXI3TLjOp5xEQO6KIptNa164htOSQYCS5ViSnIL1BffrtvQHNkr-%2BgxbOaJf4Im7K7sjD4L9ZZ2pA9mmlTaOOK82p4TFyEU6mk78fJPkC%26RelayState%3dss-%3Amem-%3Ac082e328dfe35b2e811e6721c520eebe7bac20a14bf97b1b1d8f432b03d8a36f%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3df78fab58--448d19ad--f367c048--aaf3d891--d94f9180--067",
   "domain": "auth.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -29,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f9ccc1bed199f927adaaa1e4ecfbec3f",
+  "page_hash": "02be8f939e751bc56ed4bfe0847dff7a",
   "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -62,7 +62,9 @@
     "auth.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "privacy"
+  ],
   "required_links_text": [
     "privacy policy",
     "vulnerability disclosure"

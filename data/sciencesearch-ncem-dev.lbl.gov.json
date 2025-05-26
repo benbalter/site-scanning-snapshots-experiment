@@ -46,13 +46,16 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "fonts.googleapis.com"
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
   ],
   "third_party_service_urls": [
-    "https://fonts.googleapis.com/css"
+    "https://fonts.googleapis.com/css",
+    "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 2,
   "cookie_domains": [
+    ".lbl.gov",
     "sciencesearch-ncem-dev.lbl.gov"
   ],
   "viewport_meta_tag": true,

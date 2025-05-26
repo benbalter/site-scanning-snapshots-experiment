@@ -29,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "095b7371987af1f508f5dd468d5f5044",
+  "page_hash": "62fb3cf6377e9b358aabf6c7a38925e6",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -58,10 +58,13 @@
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".nih.gov",
     "auth.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "privacy"
+  ],
   "required_links_text": [
     "privacy policy",
     "vulnerability disclosure"

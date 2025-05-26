@@ -29,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "dns_resolution_error",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "963b7b0af39945e91c195b31ac2c9b0b",
+  "page_hash": "c12426b1e7bd7a28ce209f0e55fc2505",
   "accessibility_violations": "{\"aria\":1,\"contrast\":2,\"frames-iframes\":1}",
   "pageviews": null,
   "visits": null,
@@ -43,8 +43,9 @@
   "dap": true,
   "dap_parameters": "",
   "dap_version": "20240503 v7.03 - Dual Tracking",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-33523145-1,G-7SZDMS75VC,UA-65372500-1,UA-57449445-6,G-H1XL0P51MP",
+  "ga_tag_id": "G-7SZDMS75VC,G-CSLL4ZEK4L,UA-65372500-1,UA-33523145-1,UA-57449445-6,G-H1XL0P51MP",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
     "script.crazyegg.com",
@@ -52,20 +53,21 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://script.crazyegg.com/pages/data-scripts/0062/5552/sampling/oncprojectracking.healthit.gov.json",
     "https://script.crazyegg.com/pages/data-scripts/0062/5552/site/oncprojectracking.healthit.gov.json",
     "https://script.crazyegg.com/pages/scripts/0062/5552.js",
-    "https://script.crazyegg.com/pages/versioned/common-scripts/4d7eb60e555fd0fed44d8cedec286919.js",
+    "https://script.crazyegg.com/pages/versioned/common-scripts/8b77522b6fd906dd178911744234052c.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".healthit.gov",
     ".oncprojectracking.healthit.gov"

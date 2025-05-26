@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9a399b3a604c95d6ea7e0903f1fb2b1e",
+  "page_hash": "00653d0384cfdcdb88e52f8706380aea",
   "accessibility_violations": null,
-  "pageviews": 8538,
-  "visits": 3294,
+  "pageviews": 8468,
+  "visits": 3422,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": null,
@@ -45,17 +45,28 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHHS",
+    "subagency": "CMS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "adobe-ep.cms.gov",
+    "cdn1.adoberesources.net",
+    "dap.digitalgov.gov",
     "gov-bam.nr-data.net",
     "js-agent.newrelic.com",
     "tags.tiqcdn.com",
-    "tealium-tags.cms.gov"
+    "tealium-tags.cms.gov",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://adobe-ep.cms.gov/ee/v1/interact",
+    "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://gov-bam.nr-data.net/1/5a79be86db",
     "https://gov-bam.nr-data.net/events/1/5a79be86db",
     "https://gov-bam.nr-data.net/resources/1/5a79be86db",
@@ -72,10 +83,12 @@
     "https://js-agent.newrelic.com/spa-aggregate.6c038a0a-current.min.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.10.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.15.js",
-    "https://tealium-tags.cms.gov/cms-design//utag.sync.js",
-    "https://tealium-tags.cms.gov/cms-design/prod/utag.js"
+    "https://tags.tiqcdn.com/utag/cmsgov/cms-design/prod/utag.js",
+    "https://tealium-tags.cms.gov/cms-design/prod/utag.js",
+    "https://tealium-tags.cms.gov/cms-design/prod/utag.sync.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".cms.gov"
   ],

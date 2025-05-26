@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "887299b2ed4e9543731751f3dd6fe49e",
+  "page_hash": "352a4e617a7913b67935ecc996849add",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -63,7 +63,9 @@
     "https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyNPYZvgw.woff2"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".hhs.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

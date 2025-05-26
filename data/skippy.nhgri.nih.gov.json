@@ -57,7 +57,9 @@
     "https://search.usa.gov/javascripts/remote.loader.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": [
     "about",

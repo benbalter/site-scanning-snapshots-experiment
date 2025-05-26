@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "009b3a0cfccd7943e2c78e0a683d6a2f",
+  "page_hash": "6ece1d597d9a9027a4a91a36f1d5e6aa",
   "accessibility_violations": null,
-  "pageviews": 86138,
-  "visits": 37974,
+  "pageviews": 90623,
+  "visits": 39770,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -49,12 +49,14 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "assets.nlm.nih.gov",
     "siteintercept.qualtrics.com",
     "www.googletagmanager.com",
     "www.nlm.nih.gov",
     "zn57pfzwwkw4fmsup-nlmenterprise.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://assets.nlm.nih.gov/uswds/img/usa-icons/expand_more.svg",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
     "https://siteintercept.qualtrics.com/dxjsmodule/1.faadef8bceb94e053f79.chunk.js",
     "https://siteintercept.qualtrics.com/dxjsmodule/5.d3874cd52b47a77b4475.chunk.js",
@@ -67,7 +69,7 @@
     "https://www.nlm.nih.gov/images/youtube.svg",
     "https://zn57pfzwwkw4fmsup-nlmenterprise.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nlm.nih.gov",
     "catalog.nlm.nih.gov"
@@ -120,14 +122,16 @@
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
-  "uswds_usa_class_list": null,
-  "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 0,
+  "uswds_usa_class_list": [
+    "usa-banner"
+  ],
+  "uswds_banner_heres_how": true,
+  "uswds_usa_classes": 20,
   "uswds_string": 0,
-  "uswds_string_in_css": 0,
+  "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 0,
+  "uswds_count": 40,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b2e5c91e405d566dfe017cb201314aa0",
-  "accessibility_violations": "{\"aria\":1,\"images\":3,\"lists\":2}",
-  "pageviews": 294651,
-  "visits": 115779,
+  "page_hash": "9a61c360e369f5ab86f42fa82de13f57",
+  "accessibility_violations": "{\"aria\":1,\"images\":13,\"lists\":15}",
+  "pageviews": 310869,
+  "visits": 123272,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -53,12 +53,16 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-VRV6SB9XW1",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "service.force.com",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.hud.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://service.force.com/embeddedservice/5.0/client/liveagent.esw.min.js",
+    "https://service.force.com/embeddedservice/5.0/esw.min.js",
+    "https://service.force.com/embeddedservice/5.0/utils/common.min.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.hud.gov/sites/dfiles/Main/images/hamburger_nav.png",
@@ -66,7 +70,7 @@
     "https://www.hud.gov/sites/dfiles/Main/images/icon-https.svg",
     "https://www.hud.gov/sites/dfiles/Main/images/socialmedia_topnav.png"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".hud.gov",
     "answers.hud.gov"

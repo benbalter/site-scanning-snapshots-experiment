@@ -26,7 +26,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f2c93d5f55b96d8cf3146db8eef61314",
-  "accessibility_violations": null,
-  "pageviews": 240,
-  "visits": 113,
+  "page_hash": "cbb5ddbfa797dc0f6c0e33bcda765dcc",
+  "accessibility_violations": "{\"language\":1,\"images\":1}",
+  "pageviews": 255,
+  "visits": 116,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -54,16 +54,14 @@
   "ga_tag_id": "G-FSP3VWG2NL,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".cancer.gov",
     "psd.cancer.gov"

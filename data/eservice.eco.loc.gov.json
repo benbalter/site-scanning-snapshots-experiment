@@ -16,7 +16,7 @@
   "agency": "Library of Congress",
   "bureau": "Library of Congress",
   "branch": "Legislative",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "final_url_websites"
   ],
@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e3c49db50d1e97d4d03c90b8ccf6ab21",
+  "page_hash": "0f2419d24e26373d56da456191d154b8",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,28 +49,26 @@
   ],
   "third_party_service_urls": [
     "http://www.copyright.gov/images/favicon_cop.ico",
-    "http://www.copyright.gov/includes/global.css",
     "http://www.copyright.gov/includes/global_head.js",
     "http://www.copyright.gov/includes/print.css",
     "https://www.copyright.gov/images/blank.gif",
     "https://www.copyright.gov/images/lev3_bg.jpg",
     "https://www.copyright.gov/images/lev3_btn_loc.jpg",
-    "https://www.copyright.gov/images/lev3_cop.jpg",
-    "https://www.copyright.gov/images/lev3_topper_bg.jpg",
-    "https://www.copyright.gov/images/offline.gif"
+    "https://www.copyright.gov/images/lev3_cop.jpg"
   ],
   "third_party_service_count": 1,
   "cookie_domains": null,
   "viewport_meta_tag": false,
   "required_links_url": [
-    "foia"
+    "foia",
+    "/es"
   ],
   "required_links_text": [
     "foia"
   ],
   "https_enforced": null,
   "hsts": null,
-  "title": "U.S. Copyright Office - eCO Status of the Electronic Copyright Office (eCO) Status",
+  "title": "U.S. Copyright Office - eCO Registration System",
   "description": "U.S. Copyright Office is an office of public record for copyright registration and deposit of copyright material.",
   "keywords": "copyright registration, copyright applications, copyright forms, copyright legislation, copyright regulations",
   "og_title": null,
@@ -84,16 +82,16 @@
   "language": null,
   "language_link": "",
   "main_element_present": false,
-  "robots_txt_detected": true,
+  "robots_txt_detected": false,
   "robots_txt_url": "https://eservice.eco.loc.gov/robots.txt",
-  "robots_txt_status_code": 200,
+  "robots_txt_status_code": 404,
   "robots_txt_media_type": "text/html",
   "robots_txt_filesize": 4506,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
-  "sitemap_xml_detected": true,
+  "sitemap_xml_detected": false,
   "sitemap_xml_url": "https://eservice.eco.loc.gov/sitemap.xml",
-  "sitemap_xml_status_code": 200,
+  "sitemap_xml_status_code": 404,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": 4506,
   "sitemap_xml_count": 0,

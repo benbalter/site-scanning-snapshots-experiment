@@ -17,7 +17,9 @@
   "bureau": "Office of Information and Technology, IT Operations and Services (ITOPS)",
   "branch": "Executive",
   "404_test": true,
-  "source_list": null,
+  "source_list": [
+    "final_url_websites"
+  ],
   "primary_scan_status": "completed",
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
@@ -27,10 +29,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4f96cfa29a0a7133c5efb6fa01616504",
-  "accessibility_violations": "{\"contrast\":13}",
-  "pageviews": 8054,
-  "visits": 7295,
+  "page_hash": "7dca18fd97969b572a4ca50c90213d42",
+  "accessibility_violations": "{\"contrast\":14}",
+  "pageviews": 8212,
+  "visits": 7621,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -97,8 +99,7 @@
     "https://gov.content.powerapps.us/resource/powerappsportal/dist/pwa-style.bundle-2739c60227.css",
     "https://gov.content.powerapps.us/resource/powerappsportal/img/close.png",
     "https://gov.content.powerapps.us/resource/powerappsportal/img/web.png",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
   "third_party_service_count": 8,
   "cookie_domains": [
@@ -140,7 +141,7 @@
   "robots_txt_detected": false,
   "robots_txt_url": "https://portal.vetbiz.va.gov/robots.txt",
   "robots_txt_status_code": 404,
-  "robots_txt_media_type": "unknown",
+  "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,

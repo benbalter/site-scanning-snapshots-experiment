@@ -26,7 +26,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bcc7c2ff740ff9bcea046163a9de38eb",
-  "accessibility_violations": "{\"language\":1}",
+  "page_hash": "ccb793c2789ad32c6d0934e45187bcbf",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -53,7 +53,6 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
-    ".hhs.gov",
     "hclsig.thinkculturalhealth.hhs.gov"
   ],
   "viewport_meta_tag": false,

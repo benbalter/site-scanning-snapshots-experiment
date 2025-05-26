@@ -23,7 +23,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d718d07784116b47040f91219431e351",
-  "accessibility_violations": null,
+  "page_hash": "74396c7de49a5296a38d5fbd8e189f62",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":1,\"link-purpose\":21}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -47,7 +47,7 @@
     "agency": "DOS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L,UA-30736178-1,UA-22995010-2,G-YQ9SQKQWXS,G-RH13VY8T2N,UA-30736178-3,G-GMYmRFfE2Z7A15c,G-iZOn5jx4kxYtNLH",
+  "ga_tag_id": "G-CSLL4ZEK4L,UA-30736178-1,UA-22995010-2,G-YQ9SQKQWXS,G-RH13VY8T2N,UA-30736178-3,G-Inhn0SXWLOylBX6,G-TaFJHYw0V8tXQxr",
   "third_party_service_domains": [
     "cdn-3.convertexperiments.com",
     "cdnjs.cloudflare.com",
@@ -80,7 +80,7 @@
     "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfChc9.ttf",
     "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7GxP.ttf",
     "https://fonts.gstatic.com/s/robotocondensed/v27/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQk6YvM.woff2",
-    "https://script.hotjar.com/modules.c04774c5aa909f60fd61.js",
+    "https://script.hotjar.com/modules.f5772d147096c4644991.js",
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
@@ -100,10 +100,10 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/X-oVtzDcTGjZVms4LEgykmCV/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/X-oVtzDcTGjZVms4LEgykmCV/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/styles__ltr.css",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/b2858d36/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/59b252b9/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 16,
   "cookie_domains": [

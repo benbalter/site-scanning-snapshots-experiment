@@ -5,7 +5,7 @@
   "initial_base_domain": "census.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://auth-dev.census.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=mN5yNZXZF3tFOtDMd0WfwZoMq2JaKN5_hU8_x0LtYi8&code_challenge_method=S256&nonce=8N6JhxO4NHfMsktYzIWa5P1A17qkgOrABIDcFcQ5EYe3PeMCDfWBuMCAXU46YgTr&redirect_uri=https%3A%2F%2Fauth-dev.census.gov%2Fenduser%2Fcallback&response_type=code&state=Ii3UnFjHCTw92vz9Ycg1Ub4MDseBEhiQdyaqirecPKhu2flHTTBx9X91aLczWHb0&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
+  "url": "https://auth-dev.census.gov/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=67rutNi7gDaQ0E9epXanSLADjv3VjNZl3bmV9_ENl6o&code_challenge_method=S256&nonce=pCtVvjeglik9aWepwlo4pDxKNVB7yBlAjthgWsQhvzGhZ8OBzPOofGIxohgcJZUr&redirect_uri=https%3A%2F%2Fauth-dev.census.gov%2Fenduser%2Fcallback&response_type=code&state=piYR14dKj8dyfOApBLcYCf1Go58sCj79nOau6vSxFkyEMG4pkaoilfkNFPGClHPO&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage%20okta.myAccount.sessions.manage",
   "domain": "auth-dev.census.gov",
   "base_domain": "census.gov",
   "top_level_domain": "gov",
@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "22514be85a50e75087b3ff7bf5e7d479",
+  "page_hash": "a4f38bbbf1b3249fecad460c47163671",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,6 +55,7 @@
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
+    ".census.gov",
     "auth-dev.census.gov"
   ],
   "viewport_meta_tag": true,

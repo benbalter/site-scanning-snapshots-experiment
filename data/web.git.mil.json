@@ -5,7 +5,7 @@
   "initial_base_domain": "git.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://login.microsoftonline.us/51edc690-0c62-44a7-8d38-959b4c7113af/oauth2/v2.0/authorize?client_id=a4ff11f8-abf3-4ef7-943d-169d1e058869&code_challenge=0oQjzCeC5L9ZsO0UEFig3Lgy8sAhyas0BhjDH0xSfmM&code_challenge_method=S256&nonce=b58f7fddc532cb6677acc0e064ffdeb7&redirect_uri=https%3A%2F%2Fweb.git.mil%2Fusers%2Fauth%2Fopenid_connect%2Fcallback&response_type=code&scope=openid%20profile%20email&state=01bf00dcf6cf49e2eb9091956556dc7a",
+  "url": "https://login.microsoftonline.us/51edc690-0c62-44a7-8d38-959b4c7113af/oauth2/v2.0/authorize?client_id=a4ff11f8-abf3-4ef7-943d-169d1e058869&code_challenge=FXXwgZVv0AUIfrt4Ofh8uf4yncFMs0BPoJ0zFjsubag&code_challenge_method=S256&nonce=cdf44e8f3f7f0a37a20ea71fd7fc1bd0&redirect_uri=https%3A%2F%2Fweb.git.mil%2Fusers%2Fauth%2Fopenid_connect%2Fcallback&response_type=code&scope=openid%20profile%20email&state=db9c6c6cf18abcc1460efe313e09df2d",
   "domain": "login.microsoftonline.us",
   "base_domain": "microsoftonline.us",
   "top_level_domain": "us",
@@ -24,7 +24,7 @@
     "dod_2025"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "da8b164f6f76c5f2d38196800ee7e95c",
+  "page_hash": "756889be273dfbb1a44c7527294879dd",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,10 +56,10 @@
     "https://aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/2_11d9e3bcdfede9ce5ce5ace2d129f1c4.svg",
     "https://aadcdn.msftauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg",
     "https://aadcdn.msftauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore__OkOHhDAge-kXElPJJGl1g2.js",
+    "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_k4QdCmHtAxG2-1HsSIy8zw2.js",
     "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_41f36656d3c0bb04c90c.js",
     "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_4f75990aeef30238698e.js",
-    "https://aadcdn.msftauth.net/shared/1.0/content/js/oneDs_f2e0f4a029670f10d892.js"
+    "https://aadcdn.msftauth.net/shared/1.0/content/js/oneDs_486f0cce3c3db211da28.js"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [

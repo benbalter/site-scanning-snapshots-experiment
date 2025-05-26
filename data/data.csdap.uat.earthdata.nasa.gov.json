@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a4af8340fb163953efbadcf3cd65d99f",
+  "page_hash": "56d00dd3cd5bc2ee857111fb8804c4a9",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
     "https://auth.csdap.uat.earthdatacloud.nasa.gov/oauth/authorize"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

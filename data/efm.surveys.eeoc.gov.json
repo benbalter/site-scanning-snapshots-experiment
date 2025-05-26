@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7b62b0c1cb462dd587fd74e21fb11d5a",
+  "page_hash": "2094d043d723c576910b22fbc2e19d8e",
   "accessibility_violations": "{\"frames-iframes\":2,\"language\":1,\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -50,9 +50,29 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "images.info.verintsystemsinc.com",
+    "play.vidyard.com",
+    "www.verint.com"
+  ],
+  "third_party_service_urls": [
+    "https://images.info.verintsystemsinc.com/EloquaImages/clients/VerintSystems/%7B0bc2942a-db8b-45e3-a848-ee7bd4c6d63a%7D_VoC_Login_Banner_small_May2025.png",
+    "https://images.info.verintsystemsinc.com/EloquaImages/clients/VerintSystems/%7Ba1a99020-9f6f-465f-a0a9-c6784783047c%7D_Verint-VOC-Login-Graphic_082724.jpg",
+    "https://play.vidyard.com/v0/google-analytics.js",
+    "https://www.verint.com/web_resources/cm/common/js/PercGlobalVariables.js",
+    "https://www.verint.com/web_resources/cm/common/js/PercGlobalVariablesData.js",
+    "https://www.verint.com/web_resources/cm/common/js/perc_common_ui.js",
+    "https://www.verint.com/web_resources/cm/jslib/jquery-ui.js",
+    "https://www.verint.com/web_resources/cm/jslib/jquery.cookie.min.js",
+    "https://www.verint.com/web_resources/cm/jslib/jquery.js",
+    "https://www.verint.com/web_resources/cm/themes/smoothness/jquery-ui-1.8.9.custom.css",
+    "https://www.verint.com/web_resources/themes/percussion/perc_theme.css",
+    "https://www.verint.com/web_resources/widgets/image/tinyLightbox/jquery.tinyLightbox.css",
+    "https://www.verint.com/web_resources/widgets/navBar/css/superfish-navbar.css",
+    "https://www.verint.com/web_resources/widgets/navBar/css/superfish-vertical.css",
+    "https://www.verint.com/web_resources/widgets/navBar/css/superfish.css"
+  ],
+  "third_party_service_count": 3,
   "cookie_domains": [
     "efm.surveys.eeoc.gov"
   ],

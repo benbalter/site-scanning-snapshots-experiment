@@ -25,12 +25,12 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1f1454ac39cf761ef29fb3819816af3f",
+  "page_hash": "be9d716cc7de4084689de3faa5c64eba",
   "accessibility_violations": "{\"link-purpose\":3}",
   "pageviews": null,
   "visits": null,
@@ -63,7 +63,6 @@
     "https://b.basemaps.cartocdn.com/light_all/2/2/2.png",
     "https://c.basemaps.cartocdn.com/light_all/2/0/2.png",
     "https://c.basemaps.cartocdn.com/light_all/2/1/1.png",
-    "https://c.basemaps.cartocdn.com/light_all/2/2/0.png",
     "https://carto.bldc.nwave.noaa.gov/mb/public/get_atlas",
     "https://carto.bldc.nwave.noaa.gov/mb/public/get_interface_data",
     "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_week_age_link.geojson",
@@ -73,10 +72,13 @@
     "https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/2/0/2.png",
     "https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/2/1/0.png",
     "https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/2/1/1.png",
-    "https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/2/1/2.png"
+    "https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/2/1/2.png",
+    "https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/2/2/1.png",
+    "https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/2/2/2.png"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [
+    ".noaa.gov",
     "carto-new.ctc.nwave.noaa.gov"
   ],
   "viewport_meta_tag": true,

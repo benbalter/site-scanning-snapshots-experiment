@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e113dc920dbba00add12a9abfd70b474",
+  "page_hash": "d06f1a452f851f6e8ef0f311af42a6bc",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,30 +49,31 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-23560114-3,G-CSLL4ZEK4L,G-GQKKTMMT8V",
   "third_party_service_domains": [
+    "88289.global.siteimproveanalytics.io",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "siteimproveanalytics.com",
+    "static.cloudflareinsights.com",
     "www.google-analytics.com",
-    "www.googletagmanager.com",
-    "{account_id}.global.siteimproveanalytics.io"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://88289.global.siteimproveanalytics.io/image.aspx",
     "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css",
     "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/fonts/bootstrap-icons.woff2",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://siteimproveanalytics.com/js/siteanalyze_88289.js",
+    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
-    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/plugins/ua/linkid.js",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://{account_id}.global.siteimproveanalytics.io/image.aspx"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".blm.gov",
     "www.blm.gov"

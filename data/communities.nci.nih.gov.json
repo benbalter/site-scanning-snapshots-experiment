@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d1ce245c7--2495e572--739d9bd1--ae5ff849--77adf5b3--251",
+  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d261b0ca3--f7d9a224--8daf8c98--ea3dc3d7--f5e6093f--f8d",
   "domain": "auth.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -22,7 +22,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "page_frame_not_ready",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "85bcc9329a7adfc738d1e0914898036d",
+  "page_hash": "ccfc8226c7f64a251d8d900e28f4c7d1",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -71,11 +71,12 @@
   ],
   "third_party_service_count": 3,
   "cookie_domains": [
-    ".nih.gov",
     "auth.nih.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "privacy"
+  ],
   "required_links_text": [
     "privacy policy",
     "vulnerability disclosure"
@@ -104,7 +105,7 @@
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,
   "sitemap_xml_detected": false,
-  "sitemap_xml_url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252FPages-%252FPageNotFoundError-%252Easpx-%253FrequestUrl-%253Dhttps-%253A-%252F-%252Fcommunities-%252Enci-%252Enih-%252Egov-%252Fsitemap-%252Exml%26wreply%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d1e4a38ee--f23ab0f6--35aa27e1--f53a3b80--6e100705--8c3",
+  "sitemap_xml_url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252FPages-%252FPageNotFoundError-%252Easpx-%253FrequestUrl-%253Dhttps-%253A-%252F-%252Fcommunities-%252Enci-%252Enih-%252Egov-%252Fsitemap-%252Exml%26wreply%3dhttps-%3a-%2f-%2fcommunities%2enci%2enih%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3d2281a9d2--25a75f6e--02365473--783a98ed--3c90bfba--d7d",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "text/html",
   "sitemap_xml_filesize": null,

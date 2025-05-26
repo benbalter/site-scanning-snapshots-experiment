@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZFBb4JAEIX%2FCtk77LJAKxMhoXqoiU2J0B56aVZdkAZ26c5i%2B%2FMralO9mPQ4mffezHwzRdG1PWSD3amV%2FBwkWue7axXCsZGQwSjQAhsEJTqJYDdQZE9L4B6D3mirN7olToYojW20mmmFQydNIc2%2B2ciX1TIhO2t7BEr3vXLrL3%2FtffStpwQKr9Z7CMOAjomc0SKn2awgzvywRaPEmPfnRtTBlZOKbYW0RUqcxTwh74JNwiq6jwPOIxZvKxmHfjwRIeNVIOIgPsgQB7lQaIWyCeGMRy6LXP%2Bu9EPwI4gmb8TJzzc9NGrbqPo2gPVJhPBYlrmbPxclcV6lwePiBwFJpyNGOA42F2Bvx4pfmiT9B7spvZiVnqrrz6Y%2F&RelayState=KHMEAgwmSGYwYzVkZGQ5OWViZWQ3ZTdjOWM0ZTk2ODI3ODQ3ZDcxNQ%3D%3D",
+  "url": "https://sso3.jpl.nasa.gov/adfs/ls/?SAMLRequest=lZHBboMwDIZfBeUOgUA7ZhUk1h5WqdNQYTvsMoUmtEyQsDh0e%2FyVttPaS6UdfLD8%2B7f9eYa8a3vIBrtTa%2Fk5SLTOd9cqhGMhIYNRoDk2CIp3EsFuoMieVsA8H3qjrd7oljgZojS20WquFQ6dNIU0%2B2YjX9arhOys7REo3ffK3X4FlffRt57iyL2t3kMUhXR0ZD4tcprNC%2BIsDls0io9%2Bf92IOrzqpFzUSFukxFkuEvIuRCTqmMX3VR0EkziO75gYo64En07r6iBDHORSoeXKJoT5bOL6E5eFZRAB8yGYvhEnP9%2F00CjRqO1tANVJhPBYlrmbPxclcV6lwePiBwFJZyNGOA42F2Bv2%2FJfmiT9B7sZvZiVnrLrz6Y%2F&RelayState=DZgLAgwmSGZiOWJlZTQwYjU2MzFlNDhiNDNjYjMzMzBjY2JjYjcwYg%3D%3D",
   "domain": "sso3.jpl.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -29,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "285a6d50cdb7c85fbac072e687f3f72c",
+  "page_hash": "5f02a63cb77bf3096e596a29ffbe26fb",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,7 +47,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

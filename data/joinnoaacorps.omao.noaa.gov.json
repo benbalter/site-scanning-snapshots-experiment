@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d67f3aa6b8013a2c59f6456df0af3a03",
+  "page_hash": "3131f28029ada80aa434fec0c0a71609",
   "accessibility_violations": "{\"contrast\":2}",
   "pageviews": null,
   "visits": null,
@@ -50,11 +50,13 @@
   "dap_version": "",
   "ga_tag_id": "G-7F29W3C9Z4",
   "third_party_service_domains": [
+    "dc.services.visualstudio.com",
     "js.monitor.azure.com",
     "kendo.cdn.telerik.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://dc.services.visualstudio.com/v2/track",
     "https://js.monitor.azure.com/scripts/b/ai.2.min.js",
     "https://kendo.cdn.telerik.com/2022.1.301/js/jquery.min.js",
     "https://kendo.cdn.telerik.com/2022.1.301/js/kendo.all.min.js",
@@ -62,7 +64,7 @@
     "https://kendo.cdn.telerik.com/themes/6.4.0/classic/classic-opal.css",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".joinnoaacorps.omao.noaa.gov",
     ".noaa.gov",

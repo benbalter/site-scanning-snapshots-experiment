@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "4dd6e86a39f07d22f80f81a8d39619aa",
+  "page_hash": "85bfcd4b7ce5df28c27dab4a9a6d487f",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -48,20 +48,37 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "plausible.io",
     "sservi.directus.app"
   ],
   "third_party_service_urls": [
+    "https://fonts.googleapis.com/css2",
+    "https://fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ7QwOk1.woff2",
+    "https://plausible.io/js/script.js",
+    "https://sservi.directus.app/assets/2102823b-5cb6-41bb-9cab-e9e193212e51",
+    "https://sservi.directus.app/assets/59358a3c-2c05-455b-898f-8ff617f8abb0",
     "https://sservi.directus.app/assets/753c2f69-c689-44c2-9ed8-c15aaf01f93e.png",
+    "https://sservi.directus.app/assets/a9125570-f328-4a7e-94e8-8fe077bb3237",
+    "https://sservi.directus.app/assets/aaa176e5-0b3a-4ef4-a101-1cf4d559f3d7",
+    "https://sservi.directus.app/assets/ac0490b7-df89-471f-af74-1537122142d1",
+    "https://sservi.directus.app/assets/b8e83e24-5e9f-4faf-9608-3577afddff59",
+    "https://sservi.directus.app/assets/d40ad874-78e6-4838-8fe8-67b81c7768a7",
+    "https://sservi.directus.app/assets/fdf208e9-b1ba-4fce-be92-d5b93ee81637",
     "https://sservi.directus.app/items/menus/1",
     "https://sservi.directus.app/items/sservi_home"
   ],
-  "third_party_service_count": 1,
-  "cookie_domains": [
-    ".nasa.gov"
-  ],
+  "third_party_service_count": 4,
+  "cookie_domains": null,
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "privacy"
+  ],
+  "required_links_text": [
+    "privacy policy"
+  ],
   "https_enforced": true,
   "hsts": true,
   "title": "Solar System Exploration Research Institute (SSERVI) - SSERVI",

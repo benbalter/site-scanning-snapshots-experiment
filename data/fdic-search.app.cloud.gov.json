@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "f2ac2fb79f1ab25479f63e142ec32990",
+  "page_hash": "f9fc9efebac22abc0a736c7e9ac69f9d",
   "accessibility_violations": "{\"aria\":1,\"user-control-name\":10}",
-  "pageviews": 43496,
-  "visits": 20624,
+  "pageviews": 42889,
+  "visits": 20392,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "Drupal",
@@ -49,6 +49,8 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c0d.akstat.io",
+    "c.go-mpulse.net",
     "cdn.jsdelivr.net",
     "dap.digitalgov.gov",
     "fdic.122.2o7.net",
@@ -61,20 +63,22 @@
     "znbesceujpuk56ypk-fdicfedramp.gov1.siteintercept.qualtrics.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c0d.akstat.io/",
+    "https://c.go-mpulse.net/api/config.json",
     "https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://fdic.122.2o7.net/b/ss/fdicgovprod/1/JS-2.1.0/s9131746354980",
+    "https://fdic.122.2o7.net/b/ss/fdicgovprod/1/JS-2.1.0/s83003093877328",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11137896577/",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.faadef8bceb94e053f79.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.d3874cd52b47a77b4475.chunk.js",
-    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.b8b768ed34bc7505f919.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.f285b832c657f9989ab7.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.dced7c59e38f6c5e287c.chunk.js",
+    "https://gov1.siteintercept.qualtrics.com/dxjsmodule/8.571f965df765e09a8d38.chunk.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
     "https://gov1.siteintercept.qualtrics.com/dxjsmodule/SliderModule.js",
     "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/.blob/0d6982ac7481f3ca850a1b72fa5c3e56597a71cc_svg-close-btn-black-5.svg",
-    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/46dae377f59f266333c0c0d5492761552f3ea736/img/svg-close-btn-black-5.svg",
+    "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/1e7148085d17fcd23645f6c087cd44562b7c9707/img/svg-close-btn-black-5.svg",
     "https://gov1.siteintercept.qualtrics.com/static/q-siteintercept/~/img/svg-close-btn-black-5.svg",
     "https://s.go-mpulse.net/boomerang/CUQED-YPH6N-MJ9LJ-NAC89-WQR4D",
     "https://s3-us-gov-west-1.amazonaws.com/cg-7ce3a684-2bed-464c-8d1c-1a0e4cba69c6/assets/includes/components/carousels/data-insight.json",
@@ -83,10 +87,9 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://znbesceujpuk56ypk-fdicfedramp.gov1.siteintercept.qualtrics.com/SIE/"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".fdic.gov",
-    ".www.fdic.gov"
+    ".fdic.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
