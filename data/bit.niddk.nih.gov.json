@@ -78,7 +78,9 @@
     "https://www.niddk.nih.gov/_ux/niddk/9.32.0/styles/niddk-web.css"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

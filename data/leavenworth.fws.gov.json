@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bd048960621cfdf4ce0f83533c83c080",
+  "page_hash": "10b87b9c2cb932aaf844d50391a3b666",
   "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
@@ -51,6 +51,7 @@
   "third_party_service_domains": [
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
+    "c.go-mpulse.net",
     "c.tile.openstreetmap.org",
     "cdnjs.cloudflare.com",
     "dap.digitalgov.gov",
@@ -66,6 +67,7 @@
     "https://a.tile.openstreetmap.org/12/675/1431.png",
     "https://b.tile.openstreetmap.org/12/673/1431.png",
     "https://b.tile.openstreetmap.org/12/675/1432.png",
+    "https://c.go-mpulse.net/api/config.json",
     "https://c.tile.openstreetmap.org/12/673/1432.png",
     "https://c.tile.openstreetmap.org/12/674/1431.png",
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
@@ -85,10 +87,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/cd6851e3.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 11,
+  "third_party_service_count": 12,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

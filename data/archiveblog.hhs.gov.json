@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bd6f7ed4fe0d28921e9311fe4fd5ceaa",
+  "page_hash": "603d60c75ee0b028409e57551a142701",
   "accessibility_violations": "{\"contrast\":5}",
   "pageviews": null,
   "visits": null,
@@ -46,22 +46,16 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "d37vlkgj6jn9t1.cloudfront.net",
-    "exactly-huge-arachnid.edgecompute.app",
-    "performance.radar.cloudflare.com",
-    "serverless-benchmarks-js.compute-pipe.com",
-    "serverless-benchmarks-rust.compute-pipe.com",
-    "uniquely-peaceful-hagfish.edgecompute.app"
+    "ipv4-check-perf.radar.cloudflare.com",
+    "ipv6-check-perf.radar.cloudflare.com",
+    "performance.radar.cloudflare.com"
   ],
   "third_party_service_urls": [
-    "https://d37vlkgj6jn9t1.cloudfront.net/",
-    "https://exactly-huge-arachnid.edgecompute.app/",
-    "https://performance.radar.cloudflare.com/beacon.js",
-    "https://serverless-benchmarks-js.compute-pipe.com/",
-    "https://serverless-benchmarks-rust.compute-pipe.com/",
-    "https://uniquely-peaceful-hagfish.edgecompute.app/"
+    "https://ipv4-check-perf.radar.cloudflare.com/api/info",
+    "https://ipv6-check-perf.radar.cloudflare.com/api/info",
+    "https://performance.radar.cloudflare.com/beacon.js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 3,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,

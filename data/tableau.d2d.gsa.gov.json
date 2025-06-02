@@ -5,7 +5,7 @@
   "initial_base_domain": "gsa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.gsa.gov/oauth2/v1/authorize?scope=openid+email+profile&response_type=code&redirect_uri=https%3A%2F%2Ftableau.d2d.gsa.gov%2Fvizportal%2Fapi%2Fweb%2Fv1%2Fauth%2FopenIdLogin&state=cGF0aD0lMkYmWFNSRi1UT0tFTj00bzdReXYzaWszdXhmZ3FUWVNsaGtxWFRnN3VSc1RiYQ&nonce=0wHqvkH7oGI&client_id=0oac2k9ld78pzZ7GF4h7",
+  "url": "https://auth.gsa.gov/oauth2/v1/authorize?scope=openid+email+profile&response_type=code&redirect_uri=https%3A%2F%2Ftableau.d2d.gsa.gov%2Fvizportal%2Fapi%2Fweb%2Fv1%2Fauth%2FopenIdLogin&state=cGF0aD0lMkYmWFNSRi1UT0tFTj1Oc0hDNjNNZ2NwMUhPQUpPenI5cGg2S0NweFA4ajZuMg&nonce=yU_BA_YTqYo&client_id=0oac2k9ld78pzZ7GF4h7",
   "domain": "auth.gsa.gov",
   "base_domain": "gsa.gov",
   "top_level_domain": "gov",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d356d87f844c4450cf4535108d95eeef",
+  "page_hash": "54a04557e6a3409099bd935edc3dd854",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -95,6 +95,7 @@
   ],
   "third_party_service_count": 4,
   "cookie_domains": [
+    ".gsa.gov",
     "auth.gsa.gov"
   ],
   "viewport_meta_tag": true,

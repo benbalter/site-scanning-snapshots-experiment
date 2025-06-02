@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "26b84f4efabe33d609d0673d7bb6e77a",
+  "page_hash": "a111cb6a7772f760e445d772d3c678de",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -51,6 +51,7 @@
   "ga_tag_id": "G-6DZS6R2KVV,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "6294131.global.r2.siteimproveanalytics.io",
+    "cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -61,10 +62,12 @@
   ],
   "third_party_service_urls": [
     "https://6294131.global.r2.siteimproveanalytics.io/image.aspx",
+    "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/4803/logo_square_noaaLogo_144.png",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css2",
-    "https://fonts.gstatic.com/s/nunitosans/v15/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.woff2",
+    "https://fonts.gstatic.com/s/nunitosans/v18/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
     "https://marine-debris-site-s3fs.s3.us-west-1.amazonaws.com/s3fs-public/noaaLogo_600w_2022.png",
     "https://marine-debris-site-s3fs.s3.us-west-1.amazonaws.com/s3fs-public/styles/1400x300/public/regions/plastic_GL.jpg",
     "https://marine-debris-site-s3fs.s3.us-west-1.amazonaws.com/s3fs-public/styles/crop400x175/public/regions/Fordson%20Island%20ADV%20vessel%20removal%20Credit.jpg",
@@ -72,10 +75,13 @@
     "https://marine-debris-site-s3fs.s3.us-west-1.amazonaws.com/s3fs-public/styles/crop400x175/public/regions/Resized_20230807_142910.jpeg",
     "https://marine-debris-site-s3fs.s3.us-west-1.amazonaws.com/s3fs-public/styles/crop400x175/public/regions/Ziploc%20bag-Port%20Clinton%20Ohio%20%281%29.JPG",
     "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
+    "https://touchpoints.app.cloud.gov/img/us_flag_small.png",
+    "https://touchpoints.app.cloud.gov/img/usa-icons/launch.svg",
+    "https://touchpoints.app.cloud.gov/img/usa-icons/unfold_more.svg",
     "https://touchpoints.app.cloud.gov/touchpoints/6c527f62.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".noaa.gov"
   ],
@@ -132,15 +138,24 @@
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
   "uswds_usa_class_list": [
-    "usa-banner"
+    "usa-banner",
+    "usa-button",
+    "usa-fieldset",
+    "usa-form",
+    "usa-icon",
+    "usa-label",
+    "usa-legend",
+    "usa-select",
+    "usa-skipnav",
+    "usa-textarea"
   ],
   "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 5,
+  "uswds_usa_classes": 40,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 5,
+  "uswds_count": 40,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

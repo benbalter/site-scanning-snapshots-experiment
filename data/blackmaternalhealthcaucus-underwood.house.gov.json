@@ -31,7 +31,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3a1213e621a483f5262e2217794bc376",
+  "page_hash": "01f62a0e5513a93046ea66cb4e20af98",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,8 +55,8 @@
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css2",
-    "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4KLg.woff",
-    "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aXx-p7K4KLg.woff",
+    "https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4KLg.woff",
+    "https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aXx-p7K4KLg.woff",
     "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
     "https://syndication.twitter.com/settings",
@@ -64,7 +64,9 @@
     "https://www.googletagmanager.com/gtm.js"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".house.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

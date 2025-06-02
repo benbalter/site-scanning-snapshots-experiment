@@ -5,7 +5,7 @@
   "initial_base_domain": "cms.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://4innovation-impl2.cms.gov/",
+  "url": "https://4innovation-impl2.cms.gov/landing",
   "domain": "4innovation-impl2.cms.gov",
   "base_domain": "cms.gov",
   "top_level_domain": "gov",
@@ -29,10 +29,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3702961250f83be6742133996fc341e1",
+  "page_hash": "27c327643c98b439fac164a03d574b92",
   "accessibility_violations": null,
-  "pageviews": 148,
-  "visits": 47,
+  "pageviews": 139,
+  "visits": 48,
   "ipv6": true,
   "hostname": "cloudfront.net",
   "cms": null,
@@ -52,6 +52,7 @@
     "adobe-ep.cms.gov",
     "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
+    "impl.idp.idm.cms.gov",
     "ping.chartbeat.net",
     "static.chartbeat.com",
     "tags.tiqcdn.com",
@@ -66,6 +67,7 @@
     "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://impl.idp.idm.cms.gov/api/v1/sessions/me",
     "https://ping.chartbeat.net/ping",
     "https://static.chartbeat.com/js/chartbeat.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-innovations/qa/utag.2.js",
@@ -76,13 +78,17 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".cms.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility"
+  ],
   "https_enforced": null,
   "hsts": null,
   "title": "Innovation (4i)",
@@ -98,7 +104,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": false,
+  "main_element_present": true,
   "robots_txt_detected": true,
   "robots_txt_url": "https://4innovation-impl2.cms.gov/robots.txt",
   "robots_txt_status_code": 200,

@@ -33,7 +33,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "44eee76d72bf12628073894f3343cf51",
+  "page_hash": "b64d3c5f98391669eb255f80078b3db2",
   "accessibility_violations": "{\"form-names\":1}",
   "pageviews": null,
   "visits": null,
@@ -49,7 +49,6 @@
   "dap_version": "",
   "ga_tag_id": "UA-4036375-1,G-EW0FMFYKFQ",
   "third_party_service_domains": [
-    "analytics.google.com",
     "c.bing.com",
     "c.clarity.ms",
     "connect.facebook.net",
@@ -59,7 +58,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
     "https://connect.facebook.net/en_US/sdk.js",
@@ -71,12 +69,13 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
+    "about",
     "privacy"
   ],
   "required_links_text": [

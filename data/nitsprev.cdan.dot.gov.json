@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "288753151c80dbd62556e3cea15ff9a6",
+  "page_hash": "d572afa6a25de9d598b90f1664324be1",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -56,6 +56,7 @@
   "dap_version": "20240711 v8.4 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "csp.withgoogle.com",
     "fonts.gstatic.com",
     "nitsprev.cdan.dot.gov",
     "www.google.com",
@@ -63,12 +64,12 @@
     "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "http://nitsprev.cdan.dot.gov/login",
+    "https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://nitsprev.cdan.dot.gov/fa-solid-900.7a5aa5abd625137f.ttf",
     "https://nitsprev.cdan.dot.gov/fa-solid-900.ee6983981ffcbb41.woff2",
-    "https://nitsprev.cdan.dot.gov/main.bbcfc49cae0185d9.js",
+    "https://nitsprev.cdan.dot.gov/login",
+    "https://nitsprev.cdan.dot.gov/main.76cce24b29130b05.js",
     "https://nitsprev.cdan.dot.gov/polyfills.167ae9274d0ec481.js",
     "https://nitsprev.cdan.dot.gov/runtime.eb2647053a062d47.js",
     "https://nitsprev.cdan.dot.gov/scripts.72b33274040865bb.js",
@@ -80,7 +81,7 @@
     "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js",
     "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/styles__ltr.css"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".login.gov",
     "secure.login.gov"
@@ -97,7 +98,7 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Welcome | Login.gov",
+  "title": "Sign in | Login.gov",
   "description": "Login.gov",
   "keywords": null,
   "og_title": null,

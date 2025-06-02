@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f6d420a43bee8eed578def7b73837e2b",
+  "page_hash": "6bf821e5d05a0ce30f10b181554b94d8",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -44,23 +44,27 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "G-WD0986RWM9",
+  "ga_tag_id": "G-WD0986RWM9,G-5JMPLM1BGT",
   "third_party_service_domains": [
+    "analytics.google.com",
     "cdn.lanl.gov",
     "p.typekit.net",
     "use.typekit.net",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://cdn.lanl.gov/doe_white_seal_325.webp",
     "https://cdn.lanl.gov/optimized/lg/error-storm-clouds_1024.webp",
     "https://p.typekit.net/p.css",
     "https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/l",
     "https://use.typekit.net/zbj3hfy.css",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".lanl.gov"
   ],

@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "5ed449ac38573bd2d4fb2d0b2c58791d",
+  "page_hash": "0a014f48e63478988da4803bb538b4b8",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":1}",
-  "pageviews": 122561,
-  "visits": 52397,
+  "pageviews": 122774,
+  "visits": 53819,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -60,6 +60,7 @@
     "fonts.googleapis.com",
     "media.defense.gov",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -75,13 +76,12 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".uscg.mil",
-    ".www.atlanticarea.uscg.mil",
-    "www.atlanticarea.uscg.mil"
+    ".uscg.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

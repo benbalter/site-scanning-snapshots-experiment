@@ -33,7 +33,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "e968b0e1dfe81758ffb9e0db62ad7a26",
+  "page_hash": "4e3644f91098b9572f212bf4e5ccba72",
   "accessibility_violations": "{\"contrast\":11,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -60,19 +60,21 @@
     "nmssanctuaries.blob.core.windows.net",
     "sanctuaries.noaa.gov",
     "touchpoints.app.cloud.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lC2xcZqTFUw.woff",
-    "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+    "https://fonts.gstatic.com/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://nmsmontereybay.blob.core.windows.net/montereybay-prod/media/img/20100723-cdc-front-1000.jpg",
     "https://nmsmontereybay.blob.core.windows.net/montereybay-prod/media/img/20250424-mbnms-divers-1000.jpg",
     "https://nmsmontereybay.blob.core.windows.net/montereybay-prod/media/img/homepage-mother-calf-ed-lyman-noaa-permit-14682-800.jpg",
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/img/dashed-rule.jpg",
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/20210910-brijonnaysnorkeling-1000.jpg",
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/20220128-taggedabalone-1000.jpg",
+    "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/20250423-pnms-dive-sampling-1000.jpg",
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/logos/noaa-logo.png",
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/logos/onms-logo-no-text-74.png",
     "https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/img/mbnms-octogarden-cover-1000.jpg",
@@ -87,6 +89,7 @@
     "https://sanctuaries.noaa.gov/js/scripts.js",
     "https://sanctuaries.noaa.gov/media/img/20210910-brijonnaysnorkeling-1000.jpg",
     "https://sanctuaries.noaa.gov/media/img/20220128-taggedabalone-1000.jpg",
+    "https://sanctuaries.noaa.gov/media/img/20250423-pnms-dive-sampling-1000.jpg",
     "https://sanctuaries.noaa.gov/media/img/logos/noaa-logo.png",
     "https://sanctuaries.noaa.gov/media/img/logos/onms-logo-no-text-74.png",
     "https://sanctuaries.noaa.gov/media/img/mbnms-octogarden-cover-1000.jpg",
@@ -94,14 +97,16 @@
     "https://sanctuaries.noaa.gov/media/videos/2020-mbnms-header.jpg",
     "https://sanctuaries.noaa.gov/media/videos/2020-mbnms-header.mp4",
     "https://touchpoints.app.cloud.gov/touchpoints/6d981dcd.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 9,
   "cookie_domains": [
     ".noaa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
+    "about",
     "foia",
     "privacy"
   ],

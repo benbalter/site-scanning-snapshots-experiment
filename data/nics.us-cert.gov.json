@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "c3dc10f247cdb353d05c139057bccf3a",
-  "accessibility_violations": "{\"contrast\":1}",
+  "page_hash": "cd2ca9ac4d4e77817650dec914b429b4",
+  "accessibility_violations": "{\"aria\":10}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -48,9 +48,8 @@
     "pga4": "G-3LQDL2XXWV"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-3LQDL2XXWV,G-CSLL4ZEK4L,G-GHG7XR2CMP",
+  "ga_tag_id": "G-3LQDL2XXWV,G-3xjlCbfEpI,G-CSLL4ZEK4L,G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "c.go-mpulse.net",
     "dap.digitalgov.gov",
     "googleads.g.doubleclick.net",
     "s.go-mpulse.net",
@@ -60,7 +59,6 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11324864208/",
@@ -71,10 +69,9 @@
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/ccm/collect",
     "https://www.google.com/pagead/1p-user-list/11324864208/",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 8,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".cisa.gov"
   ],
@@ -87,6 +84,7 @@
     "usa.gov"
   ],
   "required_links_text": [
+    "about us",
     "accessibility",
     "budget and performance",
     "no fear act",
@@ -126,9 +124,9 @@
   "sitemap_xml_media_type": "application/xml",
   "sitemap_xml_filesize": 679,
   "sitemap_xml_count": 0,
-  "sitemap_xml_lastmod": "2025-05-20T15:06:11.000Z",
+  "sitemap_xml_lastmod": "2025-05-28T18:06:09.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "89653ec6e4d313b0d935bfaab6b7754b",
+  "sitemap_xml_page_hash": "26bcd87faeb7c427c2980c4844bcd955",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -136,10 +134,8 @@
   "uswds_usa_class_list": [
     "usa-accordion",
     "usa-banner",
-    "usa-button",
     "usa-card",
     "usa-card-group",
-    "usa-col",
     "usa-footer",
     "usa-footer-container",
     "usa-form",
@@ -151,21 +147,21 @@
     "usa-label",
     "usa-link",
     "usa-logo",
-    "usa-megamenu",
     "usa-nav",
     "usa-navbar",
     "usa-overlay",
     "usa-search-form-global",
     "usa-search-keyword",
-    "usa-section"
+    "usa-section",
+    "usa-social-link"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 75,
-  "uswds_string": 38,
+  "uswds_usa_classes": 65,
+  "uswds_string": 36,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 153,
+  "uswds_count": 141,
   "www_url": "https://niccs.cisa.gov",
   "www_status_code": 200,
   "www_title": "Home | NICCS"

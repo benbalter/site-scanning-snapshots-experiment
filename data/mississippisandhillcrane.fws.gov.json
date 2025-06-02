@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "timeout",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a7656d6cbdab5dccc5e0bef3f1460957",
+  "page_hash": "0db192c70924b53dabc2d8c94e66e925",
   "accessibility_violations": "{\"link-purpose\":2}",
   "pageviews": null,
   "visits": null,
@@ -49,6 +49,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-KERW0RESPC,G-C5T6C,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "17de4c1a.akstat.io",
     "a.tile.openstreetmap.org",
     "b.tile.openstreetmap.org",
     "c.go-mpulse.net",
@@ -64,6 +65,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://17de4c1a.akstat.io/",
     "https://a.tile.openstreetmap.org/11/517/842.png",
     "https://a.tile.openstreetmap.org/11/518/841.png",
     "https://a.tile.openstreetmap.org/11/519/840.png",
@@ -91,8 +93,8 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/icon",
     "https://fonts.gstatic.com/s/merriweather/v31/u-4e0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiSeqqJ-mXq1Gi.woff2",
-    "https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf",
-    "https://fonts.gstatic.com/s/ptsansnarrow/v18/BngSUXNadjH0qYEzV7ab-oWlsbg95AiFW_g.ttf",
+    "https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79P0U.ttf",
+    "https://fonts.gstatic.com/s/ptsansnarrow/v18/BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
     "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
@@ -101,8 +103,8 @@
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18S0xR41.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2",
     "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
-    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_map66c00b72e78342a7b4686900690508c3.png",
-    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_map813b8bc66b2c40b48da4e4cad2742d6d.png",
+    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_map762e7046df4b4e99bf05f5df9f248693.png",
+    "https://maps.ecosphere.fws.gov/server/rest/directories/arcgisoutput/ecos_tess/RangeMap_MapServer/_ags_mape580d7b6438349b9ba07a3744b8aea59.png",
     "https://maps.ecosphere.fws.gov/server/rest/services/ecos_tess/RangeMap/MapServer/",
     "https://maps.ecosphere.fws.gov/server/rest/services/ecos_tess/RangeMap/MapServer/export",
     "https://s.go-mpulse.net/boomerang/QPMY6-HX4DG-C5T6C-P2FE6-TUAP7",
@@ -111,10 +113,9 @@
     "https://touchpoints.app.cloud.gov/touchpoints/0ab558f0.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
-    ".fws.gov",
-    ".www.fws.gov"
+    ".fws.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

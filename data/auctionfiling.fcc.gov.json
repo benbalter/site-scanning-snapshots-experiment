@@ -22,7 +22,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "execution_context_destroyed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "03e7ef14d9c601fe356f15cbf2ce6849",
+  "page_hash": "62001d29d57b63fb3260c8e1916907ea",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,9 +49,14 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "third_party_service_domains": [
+    "auctionfiling.fcc.gov"
+  ],
+  "third_party_service_urls": [
+    "https://auctionfiling.fcc.gov/rb_706199aa-11a3-4ff8-ba63-645d681c25d1",
+    "https://auctionfiling.fcc.gov/ruxitagentjs_ICANVfqru_10311250313143955.js"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
     ".fcc.gov",
     "auctionsignon.fcc.gov"

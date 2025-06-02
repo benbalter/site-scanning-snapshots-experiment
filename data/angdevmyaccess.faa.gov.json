@@ -29,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ac06bedc4bc9c3765a3b5a2b0c1c565d",
+  "page_hash": "f646c527951720a0af1760d497233390",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -50,6 +50,7 @@
   "third_party_service_domains": [
     "angdevmyaccess.faa.gov",
     "cdn-staging.myaccess.faa.gov",
+    "login.okta.com",
     "op3static.oktacdn.com",
     "use.fontawesome.com"
   ],
@@ -58,6 +59,9 @@
     "https://cdn-staging.myaccess.faa.gov/assets/css/devkitAll.css",
     "https://cdn-staging.myaccess.faa.gov/assets/images/DOT-logo.svg",
     "https://cdn-staging.myaccess.faa.gov/assets/images/DOT-name-logo.svg",
+    "https://cdn-staging.myaccess.faa.gov/assets/images/step-1.v1.svg",
+    "https://cdn-staging.myaccess.faa.gov/assets/images/step-2.v1.svg",
+    "https://cdn-staging.myaccess.faa.gov/assets/images/step-3.v1.svg",
     "https://cdn-staging.myaccess.faa.gov/assets/packages/es6-promise/4.2.8/es6-promise.auto.min.js",
     "https://cdn-staging.myaccess.faa.gov/assets/packages/mdn-polyfills/5.20.0/Element.prototype.closest.js",
     "https://cdn-staging.myaccess.faa.gov/assets/packages/mdn-polyfills/5.20.0/NodeList.prototype.forEach.js",
@@ -68,11 +72,12 @@
     "https://cdn-staging.myaccess.faa.gov/assets/uswds/img/icon-https.svg",
     "https://cdn-staging.myaccess.faa.gov/assets/uswds/img/us_flag_small.png",
     "https://cdn-staging.myaccess.faa.gov/assets/uswds/img/usa-icons/expand_more.svg",
+    "https://login.okta.com/lib/discoveryIframe-0722375bd7a46ac7cf9c.min.js",
     "https://op3static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.58de3be0c9b511a0fdfd7ea4f69b56fc.js",
-    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.1/css/okta-sign-in.min.css",
-    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.1/font/montserrat-okta-light-webfont.woff",
-    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.1/font/montserrat-okta-regular-webfont.woff",
-    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.1/js/okta-sign-in.min.js",
+    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.2/css/okta-sign-in.min.css",
+    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.2/font/montserrat-okta-light-webfont.woff",
+    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.2/font/montserrat-okta-regular-webfont.woff",
+    "https://op3static.oktacdn.com/assets/js/sdk/okta-signin-widget/7.31.2/js/okta-sign-in.min.js",
     "https://op3static.oktacdn.com/assets/loginpage/css/custom-signin.a91af2abfd04662e499bd3e151150dbf.css",
     "https://op3static.oktacdn.com/assets/loginpage/font/assets/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "https://op3static.oktacdn.com/assets/loginpage/font/assets/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
@@ -81,7 +86,7 @@
     "https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2",
     "https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff2"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".faa.gov",
     "myaccessxtl-dev.faa.gov"

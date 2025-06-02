@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ac42d131b5cb873c5da0de087dd412a5",
+  "page_hash": "5778bd45b77a58df8650952afa621cdc",
   "accessibility_violations": "{\"user-control-name\":1,\"link-purpose\":8}",
-  "pageviews": 8628,
-  "visits": 5014,
+  "pageviews": 8541,
+  "visits": 5006,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -61,6 +61,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -70,12 +71,14 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".defense.gov",
-    ".dodcertpmo.defense.gov"
+    ".dodcertpmo.defense.gov",
+    "dodcertpmo.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

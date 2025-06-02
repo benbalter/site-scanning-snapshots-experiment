@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2aaf7c5ab46de3088c3b7161eae65b53",
+  "page_hash": "51ffe49e9276ec0c381a1990a3378f22",
   "accessibility_violations": "{\"contrast\":2,\"link-purpose\":1}",
-  "pageviews": 1314,
-  "visits": 678,
+  "pageviews": 1325,
+  "visits": 659,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -55,15 +55,19 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-MWLHEQFT4X,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "adobe-ep.cms.gov",
     "cdn.jsdelivr.net",
+    "cdn1.adoberesources.net",
     "dap.digitalgov.gov",
     "tags.tiqcdn.com",
     "tealium-tags.cms.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://adobe-ep.cms.gov/ee/v1/interact",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js",
+    "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-assets/prod/utag.5.js",
     "https://tags.tiqcdn.com/utag/cmsgov/cms-assets/prod/utag.8.js",
@@ -71,7 +75,7 @@
     "https://tealium-tags.cms.gov/cms-assets/prod/utag.sync.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".cms.gov",
     "asett.cms.gov"

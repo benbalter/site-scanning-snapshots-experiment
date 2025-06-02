@@ -48,12 +48,14 @@
   "dap_parameters": "",
   "dap_version": "",
   "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
-  "cookie_domains": [
-    ".weather.gov"
+  "third_party_service_domains": [
+    "preview-api.weather.gov"
   ],
+  "third_party_service_urls": [
+    "https://preview-api.weather.gov/zones"
+  ],
+  "third_party_service_count": 1,
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ba38c3d372df836d96cea9319555f3e9",
+  "page_hash": "8cea6b2f9906486ef9538f5c1c66ab02",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -47,24 +47,43 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "fast.appcues.com",
-    "firecloud-orchestration.dsde-dev.broadinstitute.org"
+    "firecloud-orchestration.dsde-dev.broadinstitute.org",
+    "sam.dsde-dev.broadinstitute.org",
+    "storage.googleapis.com",
+    "terra-bard-dev.appspot.com"
   ],
   "third_party_service_urls": [
     "https://fast.appcues.com/49767.js",
-    "https://fast.appcues.com/generic/main/6.15.1/appcues.main.c33cb168d92e392f4a57fc891cd849a7c375587a.js",
-    "https://fast.appcues.com/generic/main/6.15.1/container.c33cb168d92e392f4a57fc891cd849a7c375587a.css",
-    "https://firecloud-orchestration.dsde-dev.broadinstitute.org//oauth2/configuration"
+    "https://fast.appcues.com/generic/main/6.16.0/appcues.main.06b972fd40c173db000701a038c4e6b319a90400.js",
+    "https://fast.appcues.com/generic/main/6.16.0/container.06b972fd40c173db000701a038c4e6b319a90400.css",
+    "https://fast.appcues.com/generic/main/6.16.0/open-builder.06b972fd40c173db000701a038c4e6b319a90400.js",
+    "https://firecloud-orchestration.dsde-dev.broadinstitute.org//oauth2/configuration",
+    "https://sam.dsde-dev.broadinstitute.org/termsOfService/v1",
+    "https://storage.googleapis.com/firecloud-alerts-dev/alerts.json",
+    "https://terra-bard-dev.appspot.com/api/event"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nih.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "about",
+    "foia",
+    "privacy",
+    "usa.gov"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "foia",
+    "freedom of information act",
+    "privacy policy",
+    "vulnerability disclosure",
+    "usa.gov"
+  ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Terra",
+  "title": "NHLBI BioData Catalyst",
   "description": null,
   "keywords": null,
   "og_title": null,
@@ -93,7 +112,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "ba38c3d372df836d96cea9319555f3e9",
+  "sitemap_xml_page_hash": "b2c692fbfef24c134da542a60829e795",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

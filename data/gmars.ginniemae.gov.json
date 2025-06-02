@@ -31,7 +31,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "af976e47403742d60ba37a31d4d28876",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"page-titled\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -82,7 +82,8 @@
     "https://gmars.ginniemae.gov/vizportal.js",
     "https://gmars.ginniemae.gov/vizportal/api/web/v1/getDefaultIdentityPoolDescription",
     "https://gmars.ginniemae.gov/vizportal/api/web/v1/getServerSettingsUnauthenticated",
-    "https://gmars.ginniemae.gov/vizportal/api/web/v1/getSessionInfo"
+    "https://gmars.ginniemae.gov/vizportal/api/web/v1/getSessionInfo",
+    "https://gmars.ginniemae.gov/vizportal/api/web/v1/recordNavigationTiming"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [

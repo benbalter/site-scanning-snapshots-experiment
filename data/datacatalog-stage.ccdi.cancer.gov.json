@@ -29,10 +29,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1277096b14a841e0b6ae525412fe3b04",
+  "page_hash": "f6dba4126a4e914c976ccbd580c3b1ab",
   "accessibility_violations": "{\"aria\":2,\"user-control-name\":3,\"contrast\":1,\"lists\":1}",
-  "pageviews": 1350,
-  "visits": 1217,
+  "pageviews": 1355,
+  "visits": 1220,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -40,21 +40,29 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "HHS",
+    "subagency": "NCI"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "assets.adobedtm.com",
+    "dap.digitalgov.gov",
     "p.typekit.net",
     "rsms.me",
     "use.fontawesome.com",
-    "use.typekit.net"
+    "use.typekit.net",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/a3dd8d57df01/RC4f8f47c0a2b44884811206fff5587447-source.min.js",
     "https://assets.adobedtm.com/6a4249cd0a2c/785de09de161/launch-70d67a6a40a8.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EP8757b503532a44a68eee17773f6f10a0/AppMeasurement_Module_ActivityMap.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://p.typekit.net/p.css",
     "https://rsms.me/inter/font-files/Inter-ExtraBold.woff2",
     "https://rsms.me/inter/font-files/Inter-ExtraBoldItalic.woff2",
@@ -67,9 +75,10 @@
     "https://use.typekit.net/af/5066eb/00000000000000007735fdbb/30/l",
     "https://use.typekit.net/af/50d55e/000000000000000000015235/27/l",
     "https://use.typekit.net/af/6c7e72/000000000000000000015232/27/l",
-    "https://use.typekit.net/puz3vxq.css"
+    "https://use.typekit.net/puz3vxq.css",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".cancer.gov",
     "datacatalog-stage.ccdi.cancer.gov"

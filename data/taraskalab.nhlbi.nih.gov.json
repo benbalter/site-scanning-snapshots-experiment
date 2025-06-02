@@ -56,11 +56,13 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrcVIT9d0c8.woff",
+    "https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrcVIT9d0c8.woff",
     "https://fonts.gstatic.com/s/spacemono/v15/i7dPIFZifjKcF5UAWdDRYEF8RXi4EwQ.woff2"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

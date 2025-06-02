@@ -33,11 +33,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "484a183a813fe89926fde71cb7d88a01",
+  "page_hash": "b3ad2297f111fa88d6e9c4a5378ae117",
   "accessibility_violations": "{\"language\":1,\"link-purpose\":1}",
-  "pageviews": 21957,
-  "visits": 5844,
-  "ipv6": true,
+  "pageviews": 30133,
+  "visits": 6439,
+  "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -49,17 +49,15 @@
     "agency": "CFTC"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-21047137-1,G-2E5HHJE4M3,G-CSLL4ZEK4L",
+  "ga_tag_id": "UA-21047137-1,G-CSLL4ZEK4L,G-2E5HHJE4M3",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "static.cloudflareinsights.com",
     "www.cftc.gov",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
     "https://www.cftc.gov/core/assets/vendor/jquery-once/jquery.once.min.js",
     "https://www.cftc.gov/core/assets/vendor/jquery/jquery.min.js",
     "https://www.cftc.gov/core/assets/vendor/underscore/underscore-min.js",
@@ -132,7 +130,7 @@
     "https://www.google-analytics.com/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".cftc.gov",
     "comments.cftc.gov"

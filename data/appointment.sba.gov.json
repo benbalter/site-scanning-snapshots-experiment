@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8c603a57304100eb1700524578ce2338",
-  "accessibility_violations": "{\"link-purpose\":1}",
+  "page_hash": "e8340b808eea27033a0623043910d3ea",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,11 +46,12 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
+  "ga_tag_id": "G-YJRQ53WS1Y",
   "third_party_service_domains": [
     "eastus-8.in.applicationinsights.azure.com",
     "gov.content.powerapps.us",
-    "js.monitor.azure.com"
+    "js.monitor.azure.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://eastus-8.in.applicationinsights.azure.com//v2/track",
@@ -85,11 +86,13 @@
     "https://gov.content.powerapps.us/resource/powerappsportal/dist/pwa-style.bundle-2739c60227.css",
     "https://gov.content.powerapps.us/resource/powerappsportal/img/close.png",
     "https://gov.content.powerapps.us/resource/powerappsportal/img/web.png",
-    "https://js.monitor.azure.com/scripts/b/ai.2.min.js"
+    "https://js.monitor.azure.com/scripts/b/ai.2.min.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".appointment.sba.gov",
+    ".sba.gov",
     "appointment.sba.gov"
   ],
   "viewport_meta_tag": true,
@@ -120,7 +123,7 @@
   "robots_txt_detected": false,
   "robots_txt_url": "https://appointment.sba.gov/robots.txt",
   "robots_txt_status_code": 404,
-  "robots_txt_media_type": "unknown",
+  "robots_txt_media_type": "text/html",
   "robots_txt_filesize": null,
   "robots_txt_crawl_delay": null,
   "robots_txt_sitemap_locations": null,

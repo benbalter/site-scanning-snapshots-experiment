@@ -5,7 +5,7 @@
   "initial_base_domain": "faa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://uasdoc.faa.gov/",
+  "url": "https://uasdoc.faa.gov/login",
   "domain": "uasdoc.faa.gov",
   "base_domain": "faa.gov",
   "top_level_domain": "gov",
@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "e7ce40cd464e14595747bb8640935af7",
+  "page_hash": "517fadb7c82fe96e1d3ffd3692e64055",
   "accessibility_violations": "{\"user-control-name\":1}",
   "pageviews": null,
   "visits": null,
@@ -45,12 +45,12 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "17de4c13.akstat.io",
+    "17de4c12.akstat.io",
     "c.go-mpulse.net",
     "s.go-mpulse.net"
   ],
   "third_party_service_urls": [
-    "https://17de4c13.akstat.io/",
+    "https://17de4c12.akstat.io/",
     "https://c.go-mpulse.net/api/config.json",
     "https://s.go-mpulse.net/boomerang/5L4FS-XA5SF-QU9FQ-NRJG7-Q47HD"
   ],
@@ -59,8 +59,13 @@
     ".faa.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
-  "required_links_text": null,
+  "required_links_url": [
+    "privacy"
+  ],
+  "required_links_text": [
+    "accessibility",
+    "privacy policy"
+  ],
   "https_enforced": null,
   "hsts": null,
   "title": "UAS Declaration of Compliance",
@@ -76,7 +81,7 @@
   "canonical_link": null,
   "language": "en",
   "language_link": "",
-  "main_element_present": true,
+  "main_element_present": false,
   "robots_txt_detected": true,
   "robots_txt_url": "https://uasdoc.faa.gov/robots.txt",
   "robots_txt_status_code": 200,
@@ -92,7 +97,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "2116646445303d81ff1e76f1ff6cf808",
+  "sitemap_xml_page_hash": "c0d418a51118b083beef6d4829e3b977",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

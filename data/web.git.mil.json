@@ -1,14 +1,14 @@
 {
-  "name": "login.microsoftonline.us",
+  "name": "sts202.auth.ecs.login.mil",
   "initial_url": "https://web.git.mil",
   "initial_domain": "web.git.mil",
   "initial_base_domain": "git.mil",
   "initial_top_level_domain": "mil",
   "redirect": true,
-  "url": "https://login.microsoftonline.us/51edc690-0c62-44a7-8d38-959b4c7113af/oauth2/v2.0/authorize?client_id=a4ff11f8-abf3-4ef7-943d-169d1e058869&code_challenge=FXXwgZVv0AUIfrt4Ofh8uf4yncFMs0BPoJ0zFjsubag&code_challenge_method=S256&nonce=cdf44e8f3f7f0a37a20ea71fd7fc1bd0&redirect_uri=https%3A%2F%2Fweb.git.mil%2Fusers%2Fauth%2Fopenid_connect%2Fcallback&response_type=code&scope=openid%20profile%20email&state=db9c6c6cf18abcc1460efe313e09df2d",
-  "domain": "login.microsoftonline.us",
-  "base_domain": "microsoftonline.us",
-  "top_level_domain": "us",
+  "url": "https://sts202.auth.ecs.login.mil/realms/disa-ecs-git-mil/protocol/openid-connect/auth?client_id=disa-ecs-app-prod_prod-ecs-web-git-mil&code_challenge=srSrmgJH8LoccaSVDq_RPR3Vi2NPprzOslrcRXm9bGU&code_challenge_method=S256&nonce=66e0dbd16da04521668b4d1488fedf5b&redirect_uri=https%3A%2F%2Fweb.git.mil%2Fusers%2Fauth%2Fopenid_connect%2Fcallback&response_type=code&scope=openid%20profile%20email&state=27faa91a4989a400dcdc151934751fcb",
+  "domain": "sts202.auth.ecs.login.mil",
+  "base_domain": "login.mil",
+  "top_level_domain": "mil",
   "live": true,
   "filter": false,
   "status_code": 200,
@@ -24,7 +24,7 @@
     "dod_2025"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "page_frame_not_ready",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,7 +32,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "756889be273dfbb1a44c7527294879dd",
+  "page_hash": "43456448b55023603fb2d5f4e4296460",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -48,32 +48,27 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "aadcdn.msftauth.net"
+    "apps.content.disa.ecs.mil",
+    "media.assets.cdn.mil",
+    "media.content.dod.ecs.mil",
+    "web.content.dod.ecs.mil"
   ],
   "third_party_service_urls": [
-    "https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_81imvbluez-v5hbzpkxfcg2.css",
-    "https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_l8i1wwom7wbodda4l9b6dw2.js",
-    "https://aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/2_11d9e3bcdfede9ce5ce5ace2d129f1c4.svg",
-    "https://aadcdn.msftauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg",
-    "https://aadcdn.msftauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-    "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_k4QdCmHtAxG2-1HsSIy8zw2.js",
-    "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_41f36656d3c0bb04c90c.js",
-    "https://aadcdn.msftauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_4f75990aeef30238698e.js",
-    "https://aadcdn.msftauth.net/shared/1.0/content/js/oneDs_486f0cce3c3db211da28.js"
+    "https://apps.content.disa.ecs.mil/entsvc/auth-keycloak-themes/general/ecs/sts202/prod-git-mil/css/site.css",
+    "https://media.assets.cdn.mil/backgrounds/colors/solid/blue/355e97.png",
+    "https://media.content.dod.ecs.mil/dod/images/logos/dod-logo-white-small.png",
+    "https://web.content.dod.ecs.mil/fonts/general/bootstrap/css/bootstrap.css"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 4,
   "cookie_domains": [
-    ".login.microsoftonline.us",
-    "login.microsoftonline.us"
+    "sts202.auth.ecs.login.mil"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": [
-    "privacy"
-  ],
+  "required_links_url": null,
   "required_links_text": null,
   "https_enforced": null,
   "hsts": null,
-  "title": "Sign in to your account",
+  "title": "Sign in to DoD ECS Login STS202 - DISA-ECS-GIT-MIL",
   "description": null,
   "keywords": null,
   "og_title": null,

@@ -36,8 +36,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "7d706fd4a9d9a8530ba2898297b7b8cd",
   "accessibility_violations": "{\"contrast\":11,\"language\":1,\"link-purpose\":1,\"lists\":1}",
-  "pageviews": 673,
-  "visits": 321,
+  "pageviews": 753,
+  "visits": 345,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -59,6 +59,7 @@
   "third_party_service_domains": [
     "cdn.ravenjs.com",
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.jpl.nasa.gov"
   ],
@@ -66,11 +67,12 @@
     "https://cdn.ravenjs.com/3.22.4/raven.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.jpl.nasa.gov/assets/stylesheets/vendor/jquery.fancybox-thumbs.css",
     "https://www.jpl.nasa.gov/assets/stylesheets/vendor/jquery.fancybox.css"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nasa.gov"
   ],

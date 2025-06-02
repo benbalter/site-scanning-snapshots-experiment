@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f2641c9d00e907a136a121f906420a11",
+  "page_hash": "67929d4e2fb2c116e27197d177654a58",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -40,9 +40,7 @@
   "hostname": "akamaitechnologies.com",
   "cms": "WordPress",
   "login_provider": null,
-  "login": [
-    "\"password\""
-  ],
+  "login": null,
   "site_search": false,
   "search_dot_gov": null,
   "dap": false,
@@ -50,32 +48,31 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "bam.nr-data.net",
     "cdn.jsdelivr.net",
     "cdnjs.cloudflare.com",
+    "code.jquery.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "js-agent.newrelic.com",
     "p.typekit.net",
     "use.fontawesome.com",
     "use.typekit.net"
   ],
   "third_party_service_urls": [
-    "https://bam.nr-data.net/1/NRJS-f44ebbce0a5c3e5acc1",
     "https://cdn.jsdelivr.net/npm/flatpickr",
     "https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css",
     "https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js",
+    "https://code.jquery.com/jquery-3.6.0.min.js",
     "https://fonts.googleapis.com/css2",
-    "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
-    "https://js-agent.newrelic.com/nr-spa-1.290.1.min.js",
+    "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
     "https://p.typekit.net/p.css",
     "https://use.fontawesome.com/releases/v6.5.1/css/all.css",
     "https://use.typekit.net/af/c5cd8b/00000000000000007735c722/30/l",
     "https://use.typekit.net/xhr5otz.css"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
+    ".house.gov",
     "ethics.house.gov"
   ],
   "viewport_meta_tag": true,

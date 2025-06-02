@@ -29,7 +29,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c60b5efbfb74f8054027f9f53d076b15",
+  "page_hash": "9daffff57096b537c0a6433991ca3d65",
   "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
@@ -44,31 +44,20 @@
   "dap_parameters": {
     "id": "G-CSLL4ZEK4L",
     "cx": "c",
-    "gtm": "45je55l1v895826815za200",
-    "tag_exp": "101509157~103116026~103130495~103130497~103200004~103233427~103252644~103252646~103301114~103301116~104481633~104481635~104506548"
+    "gtm": "45je55s2v895826815za200",
+    "tag_exp": "101509157~103116026~103130498~103130500~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075"
   },
   "dap_version": "",
   "ga_tag_id": "G-HEQ0YF2VYL,G-CSLL4ZEK4L",
   "third_party_service_domains": [
-    "bam.nr-data.net",
-    "js-agent.newrelic.com",
     "static.cloudflareinsights.com",
-    "time.gov",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://bam.nr-data.net/1/37b7ccb661",
-    "https://js-agent.newrelic.com/nr-rum-1.290.0.min.js",
     "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
-    "https://time.gov/web/auxdata.xml",
-    "https://time.gov/web/css/main.css",
-    "https://time.gov/web/nist_use_only.cgi",
-    "https://time.gov/web/scripts/dst-leap-dates.js",
-    "https://time.gov/web/scripts/fullscreen_clock.js",
-    "https://time.gov/web/scripts/jquery-2.1.1.min.js",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".nist.gov",
     ".www.nist.gov"
@@ -130,6 +119,7 @@
     "usa-button",
     "usa-header",
     "usa-input",
+    "usa-js-loading",
     "usa-logo",
     "usa-megamenu",
     "usa-menu-btn",

@@ -22,7 +22,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "09551607be65e122fbbdd016f444ed58",
+  "page_hash": "1667d0f12c4efff355aa2a25033a98bf",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,9 +46,10 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1",
+  "ga_tag_id": "G-FNP00K563X,G-CSLL4ZEK4L,UA-18186076-1,G-ICW4UjqsvhAPkwf,G-XgTMeh6vfwTDQxe",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "fonts.gstatic.com",
     "script.crazyegg.com",
     "www.google-analytics.com",
     "www.google.com",
@@ -58,15 +59,25 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://script.crazyegg.com/pages/scripts/0115/5200.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api2/payload",
+    "https://www.google.com/recaptcha/api2/reload",
+    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "https://www.gstatic.com/recaptcha/api2/info_2x.png",
+    "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
+    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/styles__ltr.css"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov"
   ],
@@ -113,7 +124,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": "2025-04-24T18:32:18.000Z",
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "55c4519ec30bdc034b57aaea43aa6a07",
+  "sitemap_xml_page_hash": "60ad8ff09531f0fa846827a20d0153b0",
   "uswds_favicon": 20,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -30,17 +30,17 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "completed",
-  "page_hash": "171ebca7a1a174856e85e5f3a60cda2e",
+  "www_scan_status": "unknown_error",
+  "page_hash": "7ba1636055f83798f7bebafe29c77113",
   "accessibility_violations": null,
-  "pageviews": 2182,
-  "visits": 209,
+  "pageviews": 2567,
+  "visits": 237,
   "ipv6": true,
   "hostname": null,
   "cms": null,
   "login_provider": null,
   "login": null,
-  "site_search": true,
+  "site_search": false,
   "search_dot_gov": null,
   "dap": true,
   "dap_parameters": {
@@ -50,9 +50,6 @@
   "ga_tag_id": "G-CSLL4ZEK4L,G-HBYXWFP794",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
-    "gsaadvantage.gsa.gov",
     "gsasolutionssecure.gsa.gov",
     "img.en25.com",
     "maxcdn.bootstrapcdn.com",
@@ -61,10 +58,6 @@
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2",
-    "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
-    "https://gsaadvantage.gsa.gov/favicon.ico",
     "https://gsasolutionssecure.gsa.gov/visitor/v200/svrGP",
     "https://img.en25.com/i/elqCfg.min.js",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -73,25 +66,17 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".gsaadvantage.gov",
     "www.gsaadvantage.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": [
-    "foia",
-    "usa.gov"
-  ],
-  "required_links_text": [
-    "accessibility",
-    "foia",
-    "privacy policy",
-    "usa.gov"
-  ],
+  "required_links_url": null,
+  "required_links_text": null,
   "https_enforced": true,
   "hsts": true,
-  "title": "Welcome to GSA Advantage!",
+  "title": "GSA Advantage",
   "description": "GSA Advantage is an online shopping and ordering system that provides access to thousands of contractors with millions of products and services.",
   "keywords": "GSA Advantage, GSA, Advantage, Shopping, Contractors, General Service Administration, Products, Services",
   "og_title": null,
@@ -125,21 +110,15 @@
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
   "uswds_inpage_css": 0,
-  "uswds_usa_class_list": [
-    "usa-accordion",
-    "usa-banner",
-    "usa-identifier",
-    "usa-link",
-    "usa-list-item"
-  ],
+  "uswds_usa_class_list": null,
   "uswds_banner_heres_how": false,
-  "uswds_usa_classes": 25,
+  "uswds_usa_classes": 0,
   "uswds_string": 0,
   "uswds_string_in_css": 0,
   "uswds_semantic_version": null,
   "uswds_version": 0,
-  "uswds_count": 25,
-  "www_url": "https://www.gsaadvantage.gov/advantage/?theme=adv19&store=ADVANTAGE",
-  "www_status_code": 200,
-  "www_title": "Welcome to GSA Advantage!"
+  "uswds_count": 0,
+  "www_url": null,
+  "www_status_code": null,
+  "www_title": null
 }

@@ -5,7 +5,7 @@
   "initial_base_domain": "nih.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fsharepoint%2eniehs%2enih%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fsharepoint%2eniehs%2enih%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3db6436117--00c4b3b3--9bbe509b--749f6783--f82e3197--efb",
+  "url": "https://auth.nih.gov/CertAuthV3/forms/hrsl/Loginmfa.aspx?TYPE=33554433&REALMOID=06-7d95afe2-604e-40c8-9de8-31a7e8406dff&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=NTxm5Cez0RjFoSdgBibZmCoTnQUYEdQ1rTj6IhvxBKes3sVuevDiR3CUetnkPvZW&TARGET=-SM-HTTPS%3a%2f%2fauth%2enih%2egov%2faffwebservices%2fredirectjsp%2ffederation--redirect%2ejsp%3fAppName%3dSharePointWAYFMFA%26wa%3dwsignin1%2e0%26wtrealm%3durn-%3arp%2enihlogin%2esp2019%2eprod-%3amfa%26wctx%3dhttps-%3a-%2f-%2fsharepoint%2eniehs%2enih%2egov-%2f_layouts-%2f15-%2fAuthenticate%2easpx-%3fSource-%3d-%252F%26wreply%3dhttps-%3a-%2f-%2fsharepoint%2eniehs%2enih%2egov-%2f_trust-%2fdefault%2easpx%26SMPORTALURL%3dhttps-%3A-%2F-%2Fauth%2enih%2egov-%2Faffwebservices-%2Fpublic-%2Fwsfedsso-%2F%26SAMLTRANSACTIONID%3dda95bf84--c96a3449--c67cb1e1--664b83f5--af158df6--6f2",
   "domain": "auth.nih.gov",
   "base_domain": "nih.gov",
   "top_level_domain": "gov",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ee698e82f1c669d829f48803af98f1b9",
+  "page_hash": "f1491cad4311ccb6a36fc769cd7449a0",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,8 @@
   "third_party_service_domains": [
     "fonts.googleapis.com",
     "fonts.gstatic.com",
-    "sharepoint.niehs.nih.gov"
+    "sharepoint.niehs.nih.gov",
+    "www.nih.gov"
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css2",
@@ -67,11 +68,11 @@
     "https://sharepoint.niehs.nih.gov/_layouts/15/core.js",
     "https://sharepoint.niehs.nih.gov/_layouts/15/init.js",
     "https://sharepoint.niehs.nih.gov/_layouts/15/theming.js",
-    "https://sharepoint.niehs.nih.gov/_login/nih-logo.png"
+    "https://sharepoint.niehs.nih.gov/_login/nih-logo.png",
+    "https://www.nih.gov/favicon.ico"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
-    ".nih.gov",
     "auth.nih.gov"
   ],
   "viewport_meta_tag": true,

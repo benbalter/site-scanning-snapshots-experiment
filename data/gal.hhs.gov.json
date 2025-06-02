@@ -21,7 +21,7 @@
     "final_url_websites"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "execution_context_destroyed",
+  "accessibility_scan_status": "dns_resolution_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -50,10 +50,11 @@
   ],
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff"
+    "https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [
+    ".hhs.gov",
     "gal.hhs.gov"
   ],
   "viewport_meta_tag": true,

@@ -5,7 +5,7 @@
   "initial_base_domain": "noaa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://sso.orr.noaa.gov/realms/master/protocol/openid-connect/auth?client_id=security-admin-console&redirect_uri=https%3A%2F%2Fsso.orr.noaa.gov%2Fadmin%2Fmaster%2Fconsole%2F&state=d5c3ac32-3225-42ff-9b74-882021e3bdef&response_mode=query&response_type=code&scope=openid&nonce=d38dd421-0d0e-4b28-a0a9-e80af889bcd9&code_challenge=2VTxx_w2okH2gIMNKAtWAY4wjIgmknjGvcvAda7eRqI&code_challenge_method=S256",
+  "url": "https://sso.orr.noaa.gov/realms/master/protocol/openid-connect/auth?client_id=security-admin-console&redirect_uri=https%3A%2F%2Fsso.orr.noaa.gov%2Fadmin%2Fmaster%2Fconsole%2F&state=f7254d24-87ce-43ca-ac5b-4890a06ed0b5&response_mode=query&response_type=code&scope=openid&nonce=5848e49d-eaaf-466f-ab38-d219eb945555&code_challenge=B_PT1L-9z8OjQftajjK6OoVNYZw6nA_ASo6Zud2uA4k&code_challenge_method=S256",
   "domain": "sso.orr.noaa.gov",
   "base_domain": "noaa.gov",
   "top_level_domain": "gov",
@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "c2f3feeb33feb7b9a01bce819be05f0f",
+  "page_hash": "37ecc237e1126a3ce5a27c0c92d2d690",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -52,6 +52,7 @@
   "third_party_service_urls": null,
   "third_party_service_count": 0,
   "cookie_domains": [
+    ".noaa.gov",
     "sso.orr.noaa.gov"
   ],
   "viewport_meta_tag": true,
