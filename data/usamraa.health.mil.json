@@ -63,7 +63,9 @@
     "https://mrdc.health.mil/assets/images/logos/army-logo.png"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".health.mil"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "foia",

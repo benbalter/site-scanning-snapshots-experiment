@@ -32,7 +32,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "c496ae69383dc7671baaf086d68c22a4",
+  "page_hash": "67742550bafec26b732f3ea7cb5b42ed",
   "accessibility_violations": "{\"aria\":2,\"contrast\":34}",
   "pageviews": null,
   "visits": null,
@@ -65,6 +65,7 @@
     "https://script.crazyegg.com/pages/scripts/0034/3988.js",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/a",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
@@ -75,7 +76,9 @@
     "historyhub.history.gov"
   ],
   "viewport_meta_tag": true,
-  "required_links_url": null,
+  "required_links_url": [
+    "about"
+  ],
   "required_links_text": null,
   "https_enforced": true,
   "hsts": true,

@@ -25,7 +25,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "unknown_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,7 +34,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "e3221a684a3beef1884d9fe9d01b56a4",
-  "accessibility_violations": null,
+  "accessibility_violations": "{\"aria\":6,\"user-control-name\":3,\"contrast\":3,\"frames-iframes\":1,\"images\":3,\"keyboard-access\":1,\"form-names\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -77,7 +77,7 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://fonts.gstatic.com/s/rokkitt/v36/qFdE35qfgYFjGy5hkEaCdvTIyh8.woff2",
+    "https://fonts.gstatic.com/s/rokkitt/v38/qFdE35qfgYFjGy5hkEaCdvTIyh8.woff2",
     "https://js.arcgis.com/4.13/",
     "https://js.arcgis.com/4.13/dijit/Destroyable.js",
     "https://js.arcgis.com/4.13/dijit/_AttachMixin.js",
@@ -150,7 +150,9 @@
     "https://www.niehs.nih.gov/themes/custom/niehs_cms/web-resources/images/niehs-logo-mobile.svg"
   ],
   "third_party_service_count": 11,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

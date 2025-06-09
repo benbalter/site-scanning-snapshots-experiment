@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "0e272129900b6415c4a1a4b59f7a06ef",
+  "page_hash": "19eae3084089ac4a812b3ae571b0dc43",
   "accessibility_violations": "{\"images\":6,\"link-purpose\":6}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
     "https://fonts.googleapis.com/css2"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ornl.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

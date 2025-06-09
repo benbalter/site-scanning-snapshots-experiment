@@ -28,7 +28,7 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "execution_context_destroyed",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
@@ -52,12 +52,11 @@
     "nsips.cloud.navy.mil"
   ],
   "third_party_service_urls": [
-    "https://nsips.cloud.navy.mil/TSPD/08dcd13408ab20003bf44c9356ef94d3eeab414b5becbc51d906506d1702014bc59c286579adec0e",
+    "https://nsips.cloud.navy.mil/TSPD/08dcd13408ab200073c0b3cd681e2be1b8700f066eddb1eec5491087a8a698960643f1876f79ef4a",
     "https://nsips.cloud.navy.mil/favicon.ico"
   ],
   "third_party_service_count": 1,
   "cookie_domains": [
-    ".navy.mil",
     ".nsips.cloud.navy.mil",
     "www.nsips.cloud.navy.mil"
   ],

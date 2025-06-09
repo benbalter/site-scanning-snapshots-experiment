@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9edc89bf8658d6d5427a46b64b154e9c",
+  "page_hash": "7a5e495564cbbe449ec904713b943005",
   "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -46,12 +46,16 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "127.0.0.1"
+    "127.0.0.1",
+    "www.google.com",
+    "www.gstatic.com"
   ],
   "third_party_service_urls": [
-    "http://127.0.0.1:34320/v1/fileassociations"
+    "http://127.0.0.1:34320/v1/fileassociations",
+    "https://www.google.com/recaptcha/api.js",
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/recaptcha__en.js"
   ],
-  "third_party_service_count": 1,
+  "third_party_service_count": 3,
   "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,

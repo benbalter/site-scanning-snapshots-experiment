@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a90ee65e27cac1c1739a35299df49876",
+  "page_hash": "3170a974eb10f71c1f76b3cbc510983f",
   "accessibility_violations": "{\"contrast\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -56,7 +56,9 @@
     "https://slsvvpub1.hosc.msfc.nasa.gov/images/NASA.jpg"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": false,
   "required_links_url": null,
   "required_links_text": null,

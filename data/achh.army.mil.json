@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a937929c477804304bf04d029f6c96b8",
+  "page_hash": "66c5cca1d8dbcbe622fd12e63916c45a",
   "accessibility_violations": "{\"aria\":16,\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -46,7 +46,8 @@
   "ga_tag_id": "G-RQVCWJYXV5",
   "third_party_service_domains": [
     "search.usa.gov",
-    "www.google-analytics.com"
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://search.usa.gov/assets/sayt.css",
@@ -54,9 +55,10 @@
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/j/collect"
+    "https://www.google-analytics.com/j/collect",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".army.mil"
   ],

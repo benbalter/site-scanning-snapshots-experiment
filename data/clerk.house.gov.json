@@ -34,8 +34,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "timeout",
-  "page_hash": "d3d2ad79ec09c5ebf3023b539cd9c29c",
-  "accessibility_violations": "{\"aria\":1,\"lists\":5}",
+  "page_hash": "ccc96f1af45ed0e9917cac4f9ade735a",
+  "accessibility_violations": "{\"aria\":1,\"link-purpose\":9,\"lists\":5}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -52,20 +52,25 @@
   "dap_version": "",
   "ga_tag_id": "G-N512ZD1JJT",
   "third_party_service_domains": [
-    "bam.nr-data.net",
+    "analytics-ingress-global.bitmovin.com",
     "cdn.jsdelivr.net",
-    "js-agent.newrelic.com",
+    "houseliveprod-f9h4cpb9dyb8gegg.a01.azurefd.net",
+    "licensing.bitmovin.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://bam.nr-data.net/1/9993044f26",
+    "https://analytics-ingress-global.bitmovin.com/analytics",
+    "https://analytics-ingress-global.bitmovin.com/licensing",
+    "https://cdn.jsdelivr.net/npm/bitmovin-player@8/bitmovinplayer-ui.js",
     "https://cdn.jsdelivr.net/npm/bitmovin-player@8/bitmovinplayer.js",
-    "https://js-agent.newrelic.com/nr-1118.min.js",
+    "https://houseliveprod-f9h4cpb9dyb8gegg.a01.azurefd.net/east/2025-06-06T08-52-01/manifest.mpd",
+    "https://licensing.bitmovin.com/licensing",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
-    ".house.gov"
+    ".house.gov",
+    "clerk.house.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

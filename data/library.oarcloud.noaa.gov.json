@@ -30,7 +30,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "fbcf3e1d2c6684218501dfbab8d76236",
-  "accessibility_violations": "{\"contrast\":16}",
+  "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -67,7 +67,9 @@
     "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2"
   ],
   "third_party_service_count": 5,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

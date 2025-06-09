@@ -5,7 +5,7 @@
   "initial_base_domain": "faa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://webopss-preprod.faa.gov/Authenticate.aspx?ReturnUrl=%2f",
+  "url": "https://webopss-preprod.faa.gov/home.aspx?action=logout&timeout=yes",
   "domain": "webopss-preprod.faa.gov",
   "base_domain": "faa.gov",
   "top_level_domain": "gov",
@@ -16,7 +16,7 @@
   "agency": "Department of Transportation",
   "bureau": "Federal Aviation Administration",
   "branch": "Executive",
-  "404_test": false,
+  "404_test": true,
   "source_list": [
     "pulse",
     "final_url_websites",
@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "2d41d30d87e4b3d7a264625f97d9a29f",
-  "accessibility_violations": "{\"contrast\":18,\"language\":1}",
+  "page_hash": "8c2a3eae603ec4fb422eb9bbee0d025e",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -55,15 +55,18 @@
   ],
   "viewport_meta_tag": false,
   "required_links_url": [
-    "privacy"
+    "privacy",
+    "usa.gov"
   ],
   "required_links_text": [
-    "privacy policy"
+    "accessibility",
+    "privacy policy",
+    "usa.gov"
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "Login",
-  "description": null,
+  "title": "WebOPSS Landing Page",
+  "description": ">WebOPSS Landing Page",
   "keywords": null,
   "og_title": null,
   "og_description": null,
@@ -73,7 +76,7 @@
   "og_type": null,
   "og_url": null,
   "canonical_link": null,
-  "language": null,
+  "language": "en-us",
   "language_link": "",
   "main_element_present": false,
   "robots_txt_detected": false,

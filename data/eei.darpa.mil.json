@@ -31,8 +31,8 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "1ea6c09a4d10ec53df1338d7906f6d2a",
-  "accessibility_violations": "{\"link-purpose\":1}",
+  "page_hash": "3eca5f817677eaf522079f1ef3f7b599",
+  "accessibility_violations": "{\"contrast\":2,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -58,13 +58,18 @@
   "third_party_service_urls": [
     "https://fonts.googleapis.com/css2",
     "https://fonts.gstatic.com/s/inter/v19/UcCo3FwrK3iLTcviYwYZ8UA3.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js",
     "https://unpkg.com/react@18.3.1/umd/react.production.min.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js"
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/styles__ltr.css"
   ],
   "third_party_service_count": 7,
   "cookie_domains": [

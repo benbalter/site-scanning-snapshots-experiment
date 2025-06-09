@@ -21,16 +21,16 @@
     "gov_man"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "538fc17388c77d7e987d244fc169fc08",
-  "accessibility_violations": null,
+  "page_hash": "0958f4027ee67b485c347b941e481336",
+  "accessibility_violations": "{\"images\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,8 +46,6 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "assets.adobedtm.com",
-    "cm.everesttech.net",
-    "dpm.demdex.net",
     "smon.loc.gov",
     "tile.loc.gov"
   ],
@@ -55,15 +53,10 @@
     "https://assets.adobedtm.com/dac62e20b491e735c6b56e64c39134d8ee93f9cf/satelliteLib-6b47f831c184878d7338d4683ecf773a17973bb9.js",
     "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
     "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js",
-    "https://cm.everesttech.net/cm/dd",
-    "https://dpm.demdex.net/demconf.jpg",
-    "https://dpm.demdex.net/ibs:dpid=411&dpuuid=aDlV6AAAAHJmqAM0",
-    "https://dpm.demdex.net/id",
-    "https://smon.loc.gov/b/ss/locgovprod/1/JS-2.27.0-LEWM/s66296034230923",
-    "https://smon.loc.gov/id",
+    "https://smon.loc.gov/b/ss/locgovprod/1/JS-2.27.0-LEWM/s26149168696862",
     "https://tile.loc.gov/storage-services/service/pnp/fsa/8a02000/8a02700/8a02720r.jpg"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".loc.gov"
   ],

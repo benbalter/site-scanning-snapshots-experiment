@@ -29,7 +29,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "ccd37e2f54a2445cb7e0780b5c16bb2c",
-  "accessibility_violations": "{\"form-names\":3,\"aria\":3,\"lists\":1}",
-  "pageviews": 23663,
-  "visits": 4586,
+  "page_hash": "625c7e568143f02593a004429b85ceb1",
+  "accessibility_violations": null,
+  "pageviews": 24562,
+  "visits": 4631,
   "ipv6": true,
   "hostname": "akamaitechnologies.com",
   "cms": null,
@@ -55,7 +55,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-58XH860MED,G-GHG7XR2CMP",
   "third_party_service_domains": [
-    "17de4c0d.akstat.io",
+    "17de4c1a.akstat.io",
     "az416426.vo.msecnd.net",
     "c.go-mpulse.net",
     "dap.digitalgov.gov",
@@ -67,7 +67,7 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://17de4c0d.akstat.io/",
+    "https://17de4c1a.akstat.io/",
     "https://az416426.vo.msecnd.net/scripts/a/ai.0.js",
     "https://c.go-mpulse.net/api/config.json",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",

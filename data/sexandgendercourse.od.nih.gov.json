@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "37de0e5dc71111f5d6efa34f9840966c",
+  "page_hash": "436a24858547aa842a5ac4703c42a652",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,12 +49,21 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-WB3HM64BSH,UA-63512082-1",
   "third_party_service_domains": [
+    "c.bing.com",
+    "c.clarity.ms",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
+    "www.clarity.ms",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.bing.com/c.gif",
+    "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.clarity.ms/s/0.8.9/clarity.js",
+    "https://www.clarity.ms/tag/rt8ordg2ui",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
@@ -62,7 +71,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov",
     ".orwh.od.nih.gov"

@@ -31,7 +31,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "8bfd7a216e153ee930df2c5029d28950",
+  "page_hash": "125c5a8c811e9912b00242cc201ed37d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -49,7 +49,6 @@
   "third_party_service_domains": [
     "assets.healthcare.gov",
     "cdn.optimizely.com",
-    "design.cms.gov",
     "logx.optimizely.com",
     "siteintercept.qualtrics.com",
     "www.googletagmanager.com",
@@ -60,14 +59,18 @@
     "https://assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js",
     "https://assets.healthcare.gov/resources/libs/lodash/2.4.1/lodash.compat.js",
     "https://cdn.optimizely.com/js/166688199.js",
-    "https://design.cms.gov/",
     "https://logx.optimizely.com/v1/events",
+    "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
     "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-    "https://siteintercept.qualtrics.com/dxjsmodule/8.571f965df765e09a8d38.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/1.842756d0f58e83e6a48f.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/5.b28b512822db7aea0f34.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/8.f7f3f96fda4e8ae2ec25.chunk.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+    "https://siteintercept.qualtrics.com/dxjsmodule/UserDefinedHTMLModule.js",
     "https://www.googletagmanager.com/gtm.js",
     "https://zn_ahe7ogbrpdtefrh-healthcare.siteintercept.qualtrics.com/WRSiteInterceptEngine/"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".healthcare.gov",
     "test.address.api.healthcare.gov"

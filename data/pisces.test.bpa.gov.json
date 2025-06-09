@@ -22,7 +22,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "96f8f07bcb2787b5995dac3149596a7c",
-  "accessibility_violations": null,
+  "page_hash": "07fda3763216492cc3e9c7cb0ad279c9",
+  "accessibility_violations": "{\"contrast\":2,\"images\":12}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -47,7 +47,6 @@
   "ga_tag_id": "G-CZFD7XYM6M",
   "third_party_service_domains": [
     "fonts.gstatic.com",
-    "kendo.cdn.telerik.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -58,11 +57,9 @@
     "https://fonts.gstatic.com/s/ibmplexsanscondensed/v14/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY527Ivr.ttf",
     "https://fonts.gstatic.com/s/ibmplexsanscondensed/v14/Gg8lN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHbau.ttf",
     "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf",
-    "https://kendo.cdn.telerik.com/themes/11.0.0/default/default-ocean-blue.css",
-    "https://kendo.cdn.telerik.com/themes/8.0.1/bootstrap/bootstrap-main.css",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 2,
   "cookie_domains": [
     ".cbfish.org",
     "qa.cbfish.org"

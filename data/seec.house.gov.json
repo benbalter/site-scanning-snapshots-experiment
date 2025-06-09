@@ -29,7 +29,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "d65f9cb2292999ded68908e73c927a2a",
+  "page_hash": "db89a2eff88b5ea0a2297b5fa4b27859",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -45,25 +45,27 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
+    "api.hcaptcha.com",
     "fonts.googleapis.com",
     "hcaptcha.com",
+    "newassets.hcaptcha.com",
     "p.typekit.net",
     "use.typekit.net",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://api.hcaptcha.com/checksiteconfig",
     "https://fonts.googleapis.com/css",
     "https://fonts.googleapis.com/css2",
     "https://hcaptcha.com/1/api.js",
+    "https://newassets.hcaptcha.com/c/f21494094c3c0dd7bcff14aba835d5fea0234ef82e9fea2684be17956c94a27e/hsw.js",
     "https://p.typekit.net/p.css",
     "https://use.typekit.net/af/b95b9d/00000000000000007735bbf2/30/l",
     "https://use.typekit.net/tpu3old.css",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 5,
-  "cookie_domains": [
-    ".house.gov"
-  ],
+  "third_party_service_count": 7,
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -28,7 +28,7 @@
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
-  "security_scan_status": "unknown_error",
+  "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "0ccb01aeebaead1d203ab2dd5bdd3c65",
@@ -49,7 +49,9 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nih.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy",
@@ -60,8 +62,8 @@
     "vulnerability disclosure",
     "usa.gov"
   ],
-  "https_enforced": null,
-  "hsts": null,
+  "https_enforced": true,
+  "hsts": true,
   "title": "Developmental Biology@NIH::About",
   "description": null,
   "keywords": null,

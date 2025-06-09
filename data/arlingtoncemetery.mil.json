@@ -29,18 +29,18 @@
     "dod_2025"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "timeout",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "0c3deee52303f53adc7d4a0d3f9bb9a9",
-  "accessibility_violations": null,
-  "pageviews": 637174,
-  "visits": 246746,
+  "www_scan_status": "completed",
+  "page_hash": "aea3823f17a00a7f7e4b79c08c1f3911",
+  "accessibility_violations": "{\"form-names\":1,\"aria\":1,\"contrast\":33,\"images\":4,\"link-purpose\":11}",
+  "pageviews": 635097,
+  "visits": 241572,
   "ipv6": false,
   "hostname": null,
   "cms": "DNN",
@@ -54,7 +54,7 @@
     "subagency": "ANC"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "UA-46277647-3,G-91LPRC1BXD,G-CSLL4ZEK4L",
+  "ga_tag_id": "G-Baird,UA-46277647-3,G-91LPRC1BXD,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "ancexplorer.army.mil",
     "dap.digitalgov.gov",
@@ -63,6 +63,7 @@
     "fonts.gstatic.com",
     "i2.ytimg.com",
     "i3.ytimg.com",
+    "i4.ytimg.com",
     "maxcdn.bootstrapcdn.com",
     "netdna.bootstrapcdn.com",
     "platform.twitter.com",
@@ -79,9 +80,9 @@
     "https://fonts.gstatic.com/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
     "https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMR7eS2Ao.woff2",
     "https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMR7eS2Ao.woff2",
-    "https://i2.ytimg.com/vi/1nLor5zS5Zo/hqdefault.jpg",
     "https://i2.ytimg.com/vi/i5T3-l_Zhgw/hqdefault.jpg",
     "https://i3.ytimg.com/vi/R9avhbf1r5k/hqdefault.jpg",
+    "https://i4.ytimg.com/vi/_Bf3YyL4mP0/hqdefault.jpg",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/fonts/fontawesome-webfont.woff2",
     "https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css",
@@ -93,7 +94,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 13,
+  "third_party_service_count": 14,
   "cookie_domains": [
     ".arlingtoncemetery.mil",
     "arlingtoncemetery.mil"
@@ -143,7 +144,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "2b3408f17ce3afb0165f03acfdb47413",
+  "sitemap_xml_page_hash": "c68840cd18da98cb7c12681bcdfa6fc8",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,
@@ -156,7 +157,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 0,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.arlingtoncemetery.mil",
+  "www_status_code": 200,
+  "www_title": "Arlington National Cemetery - Home"
 }

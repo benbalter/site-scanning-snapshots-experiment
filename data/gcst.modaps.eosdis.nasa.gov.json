@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "739b9c974650195a27802f77aa359eda",
+  "page_hash": "8a3860705384660bdfe16e8abb6f760c",
   "accessibility_violations": "{\"language\":1,\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
@@ -57,7 +57,9 @@
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

@@ -29,8 +29,8 @@
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
-  "www_scan_status": "timeout",
-  "page_hash": "8ca86de2b48c2aa9c082490c236f2d11",
+  "www_scan_status": "completed",
+  "page_hash": "53de161676c3552bfde7baeadf9c7e44",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,13 +46,13 @@
     "agency": "DOE"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,UA-24103967-1,G-CSLL4ZEK4L,G-HSY7VPGCD6",
+  "ga_tag_id": "G-GS1KB7R8DY,UA-17192165-1,G-MFMY1F6D3V,G-VEJ5DJ7LND,G-CSLL4ZEK4L,UA-24103967-1,G-HSY7VPGCD6",
   "third_party_service_domains": [
     "analytics.google.com",
     "c.bing.com",
     "c.clarity.ms",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
-    "s.clarity.ms",
     "ssl.google-analytics.com",
     "stats.g.doubleclick.net",
     "www.clarity.ms",
@@ -63,8 +63,8 @@
     "https://analytics.google.com/g/collect",
     "https://c.bing.com/c.gif",
     "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
-    "https://s.clarity.ms/collect",
     "https://ssl.google-analytics.com/ga.js",
     "https://stats.g.doubleclick.net/g/collect",
     "https://www.clarity.ms/s/0.8.9/clarity.js",
@@ -157,7 +157,7 @@
   "uswds_semantic_version": null,
   "uswds_version": 0,
   "uswds_count": 80,
-  "www_url": null,
-  "www_status_code": null,
-  "www_title": null
+  "www_url": "https://www.energy.gov/eere/buildings/building-technologies-office?nrg_redirect=270137",
+  "www_status_code": 200,
+  "www_title": "Building Technologies Office | Department of Energy"
 }

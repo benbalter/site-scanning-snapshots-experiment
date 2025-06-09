@@ -26,18 +26,18 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "7b5f354e37ffa871bf98573667b29686",
-  "accessibility_violations": "{\"contrast\":1}",
-  "pageviews": 31325,
-  "visits": 13992,
+  "page_hash": "64230950deaf41feddecf7b75abb0265",
+  "accessibility_violations": null,
+  "pageviews": 29999,
+  "visits": 13724,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -55,40 +55,25 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
-    "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
-    "https://fonts.gstatic.com/s/oswald/v56/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYjMdZwl.woff2",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nasa.gov",
     "ares.jsc.nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "about",
-    "fear",
-    "foia",
-    "privacy",
     "/es"
   ],
-  "required_links_text": [
-    "no fear act",
-    "freedom of information act",
-    "inspector general",
-    "privacy policy"
-  ],
+  "required_links_text": null,
   "https_enforced": false,
   "hsts": true,
   "title": "ARES | Astromaterials Research and Exploration Science",

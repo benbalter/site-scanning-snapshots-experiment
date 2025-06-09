@@ -34,8 +34,8 @@
   "www_scan_status": "dns_resolution_error",
   "page_hash": "a37880a1dc8690998a900d71ac36b690",
   "accessibility_violations": "{\"contrast\":8,\"language\":1}",
-  "pageviews": 151516,
-  "visits": 72100,
+  "pageviews": 3744,
+  "visits": 830,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -53,15 +53,17 @@
   "third_party_service_domains": [
     "ajax.googleapis.com",
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 4,
   "cookie_domains": [
     ".nasa.gov"
   ],

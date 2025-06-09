@@ -30,10 +30,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f22c52dc8dc2a195c4c446bc29a0e12b",
+  "page_hash": "934932089f54109b647656007619ed06",
   "accessibility_violations": null,
-  "pageviews": 4894,
-  "visits": 4534,
+  "pageviews": 4815,
+  "visits": 4528,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": "WordPress",
@@ -48,6 +48,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-J1TF44F8ZM,UA-29536396-5,G-XTTKJD1ENC,UA-29536396-4",
   "third_party_service_domains": [
+    "analytics.google.com",
     "dap.digitalgov.gov",
     "download.militaryonesource.mil",
     "fonts.googleapis.com",
@@ -57,14 +58,15 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://download.militaryonesource.mil/MOS/universal-modal.min.css",
     "https://download.militaryonesource.mil/MOS/universal-modal.min.js",
     "https://download.militaryonesource.mil/MOS/universalnav.pre.min.js",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/arvo/v22/tDbD2oWUg0MKqScQ7Z7o_vo.woff2",
-    "https://fonts.gstatic.com/s/worksans/v19/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2",
+    "https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKqScQ7Z7o_vo.woff2",
+    "https://fonts.gstatic.com/s/worksans/v23/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2",
     "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.pt5ow5lr.js",
     "https://static.addtoany.com/menu/page.js",
@@ -75,11 +77,12 @@
     "https://static.addtoany.com/menu/svg/icons/whatsapp.js",
     "https://static.addtoany.com/menu/svg/icons/x.js",
     "https://www.google-analytics.com/analytics.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 8,
   "cookie_domains": [
     ".militaryonesource.mil",
     "tribute.pre.militaryonesource.mil"

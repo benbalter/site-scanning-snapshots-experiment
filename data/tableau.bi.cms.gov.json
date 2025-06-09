@@ -30,7 +30,7 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "731f01ee865085276ed5ccf810645959",
-  "accessibility_violations": "{\"page-titled\":1}",
+  "accessibility_violations": "{\"page-titled\":1,\"language\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -46,14 +46,12 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "assets.cms.gov",
-    "design.cms.gov",
     "global.oktacdn.com",
     "stackpath.bootstrapcdn.com",
     "tableau.bi.cms.gov"
   ],
   "third_party_service_urls": [
     "https://assets.cms.gov/resources/cms/images/logo/site-logo.png",
-    "https://design.cms.gov/",
     "https://global.oktacdn.com/okta-signin-widget/7.17.1/css/okta-sign-in.min.css",
     "https://global.oktacdn.com/okta-signin-widget/7.17.1/font/montserrat-okta-light-webfont.woff",
     "https://global.oktacdn.com/okta-signin-widget/7.17.1/font/montserrat-okta-regular-webfont.woff",
@@ -95,9 +93,9 @@
     "https://tableau.bi.cms.gov/vizportal/api/web/v1/getSessionInfo",
     "https://tableau.bi.cms.gov/vizportal/api/web/v1/recordNavigationTiming"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 4,
   "cookie_domains": [
-    ".cms.gov"
+    ".bi.cms.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": null,

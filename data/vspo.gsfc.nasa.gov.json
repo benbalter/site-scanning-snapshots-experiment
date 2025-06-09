@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f418d484aed5f1ede157e6e3144d93e4",
+  "page_hash": "8a922cc0ab5c8502bebf46acf3a8f31c",
   "accessibility_violations": "{\"contrast\":48,\"language\":1,\"images\":21,\"link-purpose\":20}",
   "pageviews": null,
   "visits": null,
@@ -50,13 +50,15 @@
   "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nasa.gov",
     "heliophysicsdata.gsfc.nasa.gov"

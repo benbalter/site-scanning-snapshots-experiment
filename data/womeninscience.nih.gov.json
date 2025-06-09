@@ -22,6 +22,7 @@
     "pulse",
     "2020_eot",
     "other",
+    "final_url_websites",
     "cisa"
   ],
   "primary_scan_status": "completed",
@@ -33,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "98b801aa54c2637cc41697dd84e54996",
+  "page_hash": "d35ac6b65df26cc064f6fdabc3d94a4e",
   "accessibility_violations": "{\"aria\":2}",
-  "pageviews": 1,
-  "visits": 1,
+  "pageviews": null,
+  "visits": null,
   "ipv6": true,
   "hostname": "cloudflare.net",
   "cms": "Drupal",
@@ -52,13 +53,22 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-CSLL4ZEK4L,G-WB3HM64BSH,UA-63512082-1",
   "third_party_service_domains": [
+    "c.bing.com",
+    "c.clarity.ms",
+    "d.clarity.ms",
     "dap.digitalgov.gov",
+    "www.clarity.ms",
     "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://c.bing.com/c.gif",
+    "https://c.clarity.ms/c.gif",
+    "https://d.clarity.ms/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.clarity.ms/s/0.8.9/clarity.js",
+    "https://www.clarity.ms/tag/rt8ordg2ui",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/g/collect",
     "https://www.google-analytics.com/j/collect",
@@ -66,7 +76,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 3,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nih.gov",
     ".orwh.od.nih.gov"

@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "94ba5e53a2f323b4f5f0bb5859da26fc",
+  "page_hash": "20356f0b780d075385cd0366a08bf853",
   "accessibility_violations": "{\"language\":1}",
   "pageviews": null,
   "visits": null,
@@ -44,11 +44,16 @@
   "dap": false,
   "dap_parameters": "",
   "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "ga_tag_id": "G-PM7E9XPPLG",
+  "third_party_service_domains": [
+    "www.googletagmanager.com"
+  ],
+  "third_party_service_urls": [
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "third_party_service_count": 1,
   "cookie_domains": [
+    ".cpars.gov",
     "cpars.cpars.gov"
   ],
   "viewport_meta_tag": true,

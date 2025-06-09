@@ -29,10 +29,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "84549a4697f6e821546fa83565f3bac2",
+  "page_hash": "d8ae39a7f2f4cd9fa88c49c29b27d482",
   "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"language\":1,\"images\":1}",
-  "pageviews": 14,
-  "visits": 12,
+  "pageviews": 408,
+  "visits": 326,
   "ipv6": true,
   "hostname": "ocs-aws-prod.net",
   "cms": null,
@@ -40,27 +40,33 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": true,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "siteimproveanalytics.com",
     "touchpoints.app.cloud.gov",
+    "www.googletagmanager.com",
     "www.opm.gov"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/nunitosans/v18/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1UjIfM0qh1d.woff",
     "https://siteimproveanalytics.com/js/siteanalyze_6294131.js",
     "https://touchpoints.app.cloud.gov/touchpoints/1756b653.js",
+    "https://www.googletagmanager.com/gtag/js",
     "https://www.opm.gov/json/operatingstatus.json"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".noaa.gov"
   ],

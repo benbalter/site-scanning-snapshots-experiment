@@ -29,7 +29,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "unknown_error",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -37,10 +37,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "9388ac2db4ee24d4cce54905ff403184",
-  "accessibility_violations": "{\"aria\":2,\"contrast\":3,\"images\":11,\"link-purpose\":9}",
-  "pageviews": 195365,
-  "visits": 126806,
+  "page_hash": "e344bd0ae056861f877279f13d92718f",
+  "accessibility_violations": null,
+  "pageviews": 205397,
+  "visits": 134943,
   "ipv6": false,
   "hostname": null,
   "cms": "Drupal",
@@ -62,6 +62,7 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "platform.twitter.com",
+    "syndication.twitter.com",
     "www.google-analytics.com",
     "www.google.com",
     "www.googletagmanager.com"
@@ -74,12 +75,14 @@
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+    "https://platform.twitter.com/js/timeline.e108540dddc96e4b707f5cf259a582d7.js",
     "https://platform.twitter.com/widgets.js",
+    "https://syndication.twitter.com/settings",
     "https://www.google-analytics.com/g/collect",
     "https://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 10,
+  "third_party_service_count": 11,
   "cookie_domains": [
     ".usdoj.gov"
   ],

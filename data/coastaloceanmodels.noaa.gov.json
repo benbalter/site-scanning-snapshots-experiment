@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "27d09c2bc6ec3e972ca2d8e4da6f49c9",
+  "page_hash": "f7b87e5ec00b4e42de5b1e9993f7c040",
   "accessibility_violations": "{\"images\":2,\"link-purpose\":6}",
-  "pageviews": 18,
-  "visits": 2,
+  "pageviews": 101,
+  "visits": 53,
   "ipv6": true,
   "hostname": "ocs-aws-prod.net",
   "cms": null,
@@ -64,7 +64,9 @@
     "https://www.opm.gov/json/operatingstatus.json"
   ],
   "third_party_service_count": 4,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".noaa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",

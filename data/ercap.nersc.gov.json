@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9c14a4c0e5b85976b2962d8295735d5d",
-  "accessibility_violations": "{\"page-titled\":1}",
+  "page_hash": "e51e05369de79f72d4481319019927a1",
+  "accessibility_violations": "{\"contrast\":1,\"lists\":2}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -75,12 +75,10 @@
     "https://nersc.servicenowservices.com/styles/heisenberg/heisenberg_all.cssx",
     "https://nersc.servicenowservices.com/styles/heisenberg/source_sans_pro.cssx",
     "https://nersc.servicenowservices.com/styles/retina_icons/retina_icons.woff",
-    "https://www.nersc.gov/_resources/themes/nersc-sass/images/logo.png"
+    "https://www.nersc.gov/_resources/themes/nersc/images/NERSC_logo_no_spacing.svg"
   ],
   "third_party_service_count": 3,
-  "cookie_domains": [
-    ".nersc.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": [
     "about"

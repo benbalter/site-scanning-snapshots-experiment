@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "29027fbed5e64f96308802b1dd4b63cb",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"images\":1,\"link-purpose\":13}",
-  "pageviews": 20904,
-  "visits": 14694,
+  "page_hash": "4207638894f97fc6e5cee81220ff4e9f",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":2,\"images\":1,\"link-purpose\":13}",
+  "pageviews": 21088,
+  "visits": 14340,
   "ipv6": true,
   "hostname": "azurefd.us",
   "cms": "Drupal",
@@ -57,6 +57,7 @@
     "cdn.gov.cfigroup.com",
     "dap.digitalgov.gov",
     "static.addtoany.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.youtube.com"
   ],
@@ -67,14 +68,15 @@
     "https://static.addtoany.com/cdn-cgi/speculation",
     "https://static.addtoany.com/menu/modules/core.pt5ow5lr.js",
     "https://static.addtoany.com/menu/page.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/91e7c654/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/612f74a3/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".ars.usda.gov",
-    ".usda.gov"
+    ".usda.gov",
+    "tellus.ars.usda.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

@@ -31,8 +31,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "9c977750ef16a852374d4a35a5fb7ca6",
-  "accessibility_violations": "{\"aria\":3,\"contrast\":1,\"lists\":16}",
+  "page_hash": "21eeab31b13c3aa985799fd4a8f5470d",
+  "accessibility_violations": "{\"aria\":2,\"contrast\":1,\"lists\":16}",
   "pageviews": 158,
   "visits": 67,
   "ipv6": true,
@@ -50,7 +50,6 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "UA-109309000-1,G-CSLL4ZEK4L,G-52F14785DC,UA-27627304-1,UA-28627214-1,G-VYRH7BQ1FL",
   "third_party_service_domains": [
-    "analytics.google.com",
     "cdn.gov.cfigroup.com",
     "dap.digitalgov.gov",
     "dev.virtualearth.net",
@@ -59,7 +58,6 @@
     "www.nal.usda.gov"
   ],
   "third_party_service_urls": [
-    "https://analytics.google.com/g/collect",
     "https://cdn.gov.cfigroup.com/webmon/s/source/webmon/88a85f713b1128/webmon.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dev.virtualearth.net/REST/v1/Imagery/Metadata/Aerial",
@@ -67,12 +65,10 @@
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/td",
     "https://www.nal.usda.gov/sites/default/files/sharedjs/nal_survey.js"
   ],
-  "third_party_service_count": 7,
+  "third_party_service_count": 6,
   "cookie_domains": [
-    ".nal.usda.gov",
     ".usda.gov",
     "geodata-prod.nal.usda.gov"
   ],

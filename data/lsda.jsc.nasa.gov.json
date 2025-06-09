@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "a24d30890927461c5e27245cdfad89de",
-  "accessibility_violations": "{\"user-control-name\":1,\"language\":1,\"link-purpose\":1}",
-  "pageviews": 884,
-  "visits": 823,
+  "page_hash": "8b7d38a10fbd0c1c11427e7a74a17326",
+  "accessibility_violations": "{\"user-control-name\":1,\"frames-iframes\":2,\"language\":1,\"images\":2,\"link-purpose\":5}",
+  "pageviews": 821,
+  "visits": 782,
   "ipv6": true,
   "hostname": "amazonaws.com",
   "cms": null,
@@ -56,6 +56,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "nlsp.nasa.govundefined",
     "www.google-analytics.com",
     "www.googletagmanager.com",
     "www.nasa.gov"
@@ -63,7 +64,8 @@
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/arimo/v29/P5sMzZCDf9_T_10ZxCFuj5-v.woff2",
+    "https://fonts.gstatic.com/s/arimo/v34/P5sMzZCDf9_T_10ZxCFuj5-v.woff2",
+    "https://nlsp.nasa.govundefined/",
     "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.nasa.gov/wp-content/uploads/2017/09/rad2.png",
@@ -74,7 +76,7 @@
     "https://www.nasa.gov/wp-content/uploads/2023/11/iss040e006105-gerst-ared.jpg",
     "https://www.nasa.gov/wp-content/uploads/2024/02/iss065e235640gradient.webp"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nasa.gov",
     "nlsp.nasa.gov"
@@ -122,7 +124,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "4bddbc265ddd5497f7277f732e04270e",
+  "sitemap_xml_page_hash": "266aa3d031c1c39be311921e9f79b47f",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

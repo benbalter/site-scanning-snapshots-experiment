@@ -29,15 +29,15 @@
   "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "timeout",
+  "performance_scan_status": "completed",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "fef7c00a64f204c6a54b35ee20e29cd1",
+  "page_hash": "833007c6e478f85eaa268133b8b203ea",
   "accessibility_violations": "{\"page-titled\":1}",
-  "pageviews": 103382,
-  "visits": 89182,
+  "pageviews": 161377,
+  "visits": 136971,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,6 +58,7 @@
     "code.jquery.com",
     "dap.digitalgov.gov",
     "pulse.nasa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -79,9 +80,10 @@
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://pulse.nasa.gov/track.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 6,
+  "third_party_service_count": 7,
   "cookie_domains": [
     ".nasa.gov",
     "dml.msfc.nasa.gov"

@@ -32,9 +32,9 @@
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "149f4ad2eef03ddb6fc357129fc1d53c",
-  "accessibility_violations": null,
-  "pageviews": 333,
-  "visits": 117,
+  "accessibility_violations": "{\"contrast\":1}",
+  "pageviews": 314,
+  "visits": 108,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -52,17 +52,15 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "sentry.jpl.nasa.gov",
-    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://sentry.jpl.nasa.gov/api/55/envelope/",
-    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".nasa.gov"
   ],

@@ -26,7 +26,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "da36851ddaf5e31bb557d5e2a06d56a9",
+  "page_hash": "026900845e9aea2d1bc4510fb43c3411",
   "accessibility_violations": null,
-  "pageviews": 30347,
-  "visits": 26542,
+  "pageviews": 29926,
+  "visits": 26479,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -60,18 +60,12 @@
     "s7.addthis.com",
     "use.fontawesome.com",
     "www.google-analytics.com",
-    "www.googletagmanager.com",
-    "www.youtube.com"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://img.youtube.com/vi/XsTGyxjx-dI/sddefault.jpg",
-    "https://maps.googleapis.com/maps-api-v3/api/js/61/2/common.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/61/2/infowindow.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/61/2/map.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/61/2/marker.js",
-    "https://maps.googleapis.com/maps-api-v3/api/js/61/2/util.js",
     "https://maps.googleapis.com/maps/api/js",
     "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
     "https://s7.addthis.com/js/300/addthis_widget.js%23pubid=ra-5429eeee4e460927",
@@ -82,23 +76,11 @@
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/g/collect",
-    "https://www.googletagmanager.com/gtag/js",
-    "https://www.youtube.com/embed/3YGmhTD6aXo",
-    "https://www.youtube.com/embed/4u97-IQooOM",
-    "https://www.youtube.com/embed/7rlp9i_diMI",
-    "https://www.youtube.com/embed/FXUcS1mF3B8",
-    "https://www.youtube.com/embed/Qt5V3fQBrnk",
-    "https://www.youtube.com/embed/UtnUH0d0XTQ",
-    "https://www.youtube.com/embed/i-iOGEFmM3g",
-    "https://www.youtube.com/embed/oDsUr5DXRys",
-    "https://www.youtube.com/embed/uwvy-dZE6nA",
-    "https://www.youtube.com/embed/wfkUNarQtP8",
-    "https://www.youtube.com/embed/wympM0vAzqc"
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
-    ".nasa.gov",
-    "oh.larc.nasa.gov"
+    ".nasa.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

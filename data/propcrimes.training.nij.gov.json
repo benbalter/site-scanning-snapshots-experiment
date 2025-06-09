@@ -30,11 +30,11 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ce78b5674be55575d882b3d3673c06a0",
+  "page_hash": "bf41225f7a4de997a07ffdaf42188b9d",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
-  "ipv6": false,
+  "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
   "login_provider": null,
@@ -46,7 +46,7 @@
     "agency": "OJP"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-L5LX1Q3L12,UA-36811135-1,UA-122677529-2,G-CSLL4ZEK4L,G-0V898RJ15D",
+  "ga_tag_id": "G-L5LX1Q3L12,UA-36811135-1,UA-122677529-2,G-0V898RJ15D,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "analytics.foresee.com",
     "brain.foresee.com",
@@ -62,7 +62,7 @@
   ],
   "third_party_service_urls": [
     "https://analytics.foresee.com/ingest/events",
-    "https://brain.foresee.com/state/ojp-main/41433413-0d4e-4876-ba60-5508725e8e9e",
+    "https://brain.foresee.com/state/ojp-main/b00a01df-c2ca-4d20-8049-9740f65a3324",
     "https://browser-update.org/update.min.js",
     "https://clients1.google.com/generate_204",
     "https://cse.google.com/adsense/search/async-ads.js",
@@ -71,6 +71,7 @@
     "https://gateway.foresee.com/code/19.18.0-fs/fs.compress.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.feedback.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.survey.js",
+    "https://gateway.foresee.com/code/19.18.0-fs/fs.trigger.js",
     "https://gateway.foresee.com/code/19.18.0-fs/fs.utils.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/badge___html.js",
     "https://gateway.foresee.com/code/19.18.0-fs/templates/feedback/default/epilogue___html.js",
@@ -88,7 +89,7 @@
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/91e7c654/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/612f74a3/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [

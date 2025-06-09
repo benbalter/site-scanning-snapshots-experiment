@@ -32,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "81561e7433daf5f1445b8c5570c00dc7",
+  "page_hash": "5b02e6214fefd5e39c53eb5c0ecc7444",
   "accessibility_violations": null,
-  "pageviews": 44002,
-  "visits": 22098,
+  "pageviews": 44161,
+  "visits": 24336,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -58,18 +58,16 @@
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "eauth.va.gov",
-    "www.googletagmanager.com",
-    "www.myhealth.va.gov"
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://eauth.va.gov/keepalive",
     "https://www.googletagmanager.com/gtag/js",
-    "https://www.googletagmanager.com/gtm.js",
-    "https://www.myhealth.va.gov/mhv-portal-web/documents/314545/0/Managing-PTSD-While-You-Age.png/33eb92ed-3b7b-f48e-b96c-327365fc7515"
+    "https://www.googletagmanager.com/gtm.js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".myhealth.va.gov",
     ".va.gov",
@@ -77,17 +75,10 @@
   ],
   "viewport_meta_tag": true,
   "required_links_url": [
-    "about",
-    "foia",
-    "privacy",
-    "usa.gov"
+    "privacy"
   ],
   "required_links_text": [
-    "accessibility",
-    "foia",
-    "inspector general",
-    "privacy policy",
-    "usa.gov"
+    "privacy policy"
   ],
   "https_enforced": true,
   "hsts": true,
@@ -143,9 +134,7 @@
     "usa-banner-icon",
     "usa-banner-inner",
     "usa-button",
-    "usa-button-secondary",
     "usa-button-success",
-    "usa-external_link",
     "usa-footer",
     "usa-grid",
     "usa-grid-full",
@@ -161,17 +150,16 @@
     "usa-search",
     "usa-search-not-flex",
     "usa-sign-up",
-    "usa-social-link",
     "usa-sr-only",
     "usa-width-one-half"
   ],
   "uswds_banner_heres_how": true,
-  "uswds_usa_classes": 50,
+  "uswds_usa_classes": 40,
   "uswds_string": 1,
   "uswds_string_in_css": 20,
   "uswds_semantic_version": "v3.7.1",
   "uswds_version": 100,
-  "uswds_count": 191,
+  "uswds_count": 181,
   "www_url": null,
   "www_status_code": null,
   "www_title": null

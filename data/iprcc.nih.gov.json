@@ -25,7 +25,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "dns_resolution_error",
+  "accessibility_scan_status": "completed",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -33,8 +33,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "957bd878e876b05f3fe4e284e95410fe",
-  "accessibility_violations": null,
+  "page_hash": "fd2c2e87493e5f7d907d3df8dac9b0d3",
+  "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,7 +49,7 @@
     "agency": "NINDS"
   },
   "dap_version": "20250212 v8.6 - GA4",
-  "ga_tag_id": "G-SX1ZWCHK30,G-CSLL4ZEK4L,UA-18186076-1,G-e001CUKV4jsRnrA,G-hk8T0o1aH,G-KIMuOweEL",
+  "ga_tag_id": "G-SX1ZWCHK30,G-CSLL4ZEK4L,UA-18186076-1,G-cjUJGktOYTDBCL6,G-7EWGyA4GhITnKLF",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.gstatic.com",
@@ -70,11 +70,11 @@
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
     "https://platform.twitter.com/widgets.js",
     "https://script.crazyegg.com/pages/scripts/0115/5200.js",
-    "https://script.hotjar.com/modules.f5772d147096c4644991.js",
+    "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
+    "https://script.hotjar.com/modules.f4e3c2911a3e11c9682d.js",
     "https://static.hotjar.com/c/hotjar-3386112.js",
     "https://syndication.twitter.com/settings",
     "https://www.google-analytics.com/analytics.js",
-    "https://www.google-analytics.com/collect",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.google.com/recaptcha/api2/payload",
@@ -85,8 +85,8 @@
     "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
     "https://www.gstatic.com/recaptcha/api2/info_2x.png",
     "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
-    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/styles__ltr.css"
   ],
   "third_party_service_count": 11,
   "cookie_domains": [

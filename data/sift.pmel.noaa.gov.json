@@ -1,12 +1,12 @@
 {
-  "name": "sift.pmel.noaa.gov",
+  "name": "nctr.pmel.noaa.gov",
   "initial_url": "https://sift.pmel.noaa.gov",
   "initial_domain": "sift.pmel.noaa.gov",
   "initial_base_domain": "noaa.gov",
   "initial_top_level_domain": "gov",
-  "redirect": false,
-  "url": "https://sift.pmel.noaa.gov/",
-  "domain": "sift.pmel.noaa.gov",
+  "redirect": true,
+  "url": "https://nctr.pmel.noaa.gov/",
+  "domain": "nctr.pmel.noaa.gov",
   "base_domain": "noaa.gov",
   "top_level_domain": "gov",
   "live": true,
@@ -21,7 +21,6 @@
     "pulse",
     "omb_idea",
     "other",
-    "final_url_websites",
     "cisa"
   ],
   "primary_scan_status": "completed",
@@ -33,10 +32,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "92c023edac6af6cbee00225d8776ed76",
-  "accessibility_violations": "{\"language\":1,\"images\":1,\"link-purpose\":7}",
-  "pageviews": null,
-  "visits": null,
+  "page_hash": "44695e7da4b677956e2b1e5f97406230",
+  "accessibility_violations": "{\"aria\":1,\"contrast\":7,\"language\":1}",
+  "pageviews": 14,
+  "visits": 4,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -44,17 +43,31 @@
   "login": null,
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOC",
+    "subagency": "NOAA",
+    "yt": "true"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-4YHDZ88XVK,G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com",
+    "www.youtube.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/612f74a3/www-widgetapi.vflset/www-widgetapi.js"
+  ],
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".noaa.gov"
   ],
-  "viewport_meta_tag": false,
+  "viewport_meta_tag": true,
   "required_links_url": [
     "about",
     "privacy"
@@ -64,7 +77,7 @@
   ],
   "https_enforced": true,
   "hsts": true,
-  "title": "NCTR Data",
+  "title": "NOAA Center for Tsunami Research",
   "description": null,
   "keywords": null,
   "og_title": null,

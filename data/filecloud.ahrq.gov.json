@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3eaa0c05d8212addc80f8a4a9efb475c",
+  "page_hash": "3f2e040a64ae01598fe8f752c833c621",
   "accessibility_violations": "{\"contrast\":1}",
   "pageviews": null,
   "visits": null,
@@ -52,7 +52,9 @@
     "http://127.0.0.1:34320/v1/fileassociations"
   ],
   "third_party_service_count": 1,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".ahrq.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

@@ -33,10 +33,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "bcaa59a5350b1dc3bae6a9bb1e5ae786",
+  "page_hash": "7d28e8fdc4e1e194e12a6e97ea6e8197",
   "accessibility_violations": "{\"language\":1}",
-  "pageviews": null,
-  "visits": null,
+  "pageviews": 49795,
+  "visits": 11090,
   "ipv6": true,
   "hostname": null,
   "cms": null,
@@ -46,14 +46,28 @@
   ],
   "site_search": false,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
-  "third_party_service_domains": null,
-  "third_party_service_urls": null,
-  "third_party_service_count": 0,
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DOL",
+    "subagency": "OWCPCONNECT",
+    "yt": "true"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-CSLL4ZEK4L",
+  "third_party_service_domains": [
+    "dap.digitalgov.gov",
+    "www.googletagmanager.com",
+    "www.youtube.com"
+  ],
+  "third_party_service_urls": [
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://www.googletagmanager.com/gtag/js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.youtube.com/s/player/612f74a3/www-widgetapi.vflset/www-widgetapi.js"
+  ],
+  "third_party_service_count": 3,
   "cookie_domains": [
+    ".dol.gov",
     "owcpconnect.dol.gov"
   ],
   "viewport_meta_tag": false,

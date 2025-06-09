@@ -25,16 +25,16 @@
     "dod_2025"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
-  "performance_scan_status": "completed",
+  "performance_scan_status": "timeout",
   "robots_txt_scan_status": "completed",
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
   "page_hash": "4ccea907909709a42b534df352a584a7",
-  "accessibility_violations": "{\"language\":1,\"images\":4,\"keyboard-access\":1}",
+  "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
   "ipv6": false,
@@ -56,8 +56,7 @@
     "https://ucat-lsv.s3.amazonaws.com/temp/new_Congress.png",
     "https://ucat-lsv.s3.amazonaws.com/temp/ssl_lock_new.png",
     "https://ucat-lsv.s3.amazonaws.com/temp/us_flag_small.jpg",
-    "https://webanalytics.nga.mil/matomo.js",
-    "https://webanalytics.nga.mil/matomo.php"
+    "https://webanalytics.nga.mil/matomo.js"
   ],
   "third_party_service_count": 2,
   "cookie_domains": [

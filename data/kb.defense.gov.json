@@ -30,8 +30,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "ec9e94b6a89ab5f6d9e105a45b47c1db",
-  "accessibility_violations": null,
+  "page_hash": "a6086921aec3ba885865f868d738811f",
+  "accessibility_violations": "{\"link-purpose\":1}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,8 +49,8 @@
     "dclink": "true",
     "pga4": "G-SB6KFHKWNW"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-SB6KFHKWNW,G-CSLL4ZEK4L,G-e7hk4i8LiCSyXyu",
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-SB6KFHKWNW,G-CSLL4ZEK4L,G-GzGz8jO,G-LcU8x",
   "third_party_service_domains": [
     "analytics.google.com",
     "api.dvidshub.net",
@@ -75,7 +75,7 @@
     "https://fonts.gstatic.com/s/oswald/v56/TK3IWkUHHAIjg75cFRf3bXL8LICs13Fv40pKlN4NNSeSASwcEWlWHYjMdZwl.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
     "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
-    "https://media.defense.gov/2024/Oct/11/2003563612/-1/-1/0/241008-Z-XD814-1002Y.JPG",
+    "https://media.defense.gov/2025/May/21/2003720160/-1/-1/0/250515-A-OP908-6768P.JPG",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
     "https://www.google.com/recaptcha/api.js",
@@ -84,12 +84,14 @@
     "https://www.google.com/recaptcha/api2/webworker.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js",
-    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/styles__ltr.css"
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/styles__ltr.css"
   ],
   "third_party_service_count": 9,
   "cookie_domains": [
-    ".defense.gov"
+    ".defense.gov",
+    ".www.defense.gov",
+    "www.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

@@ -31,10 +31,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "f31dedfd5a91452a9a1db7ec0b9e14d0",
-  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":1,\"images\":1,\"link-purpose\":13}",
-  "pageviews": 6469,
-  "visits": 2851,
+  "page_hash": "4c4cb18378e231eecd525ccf70db97df",
+  "accessibility_violations": "{\"user-control-name\":1,\"contrast\":2,\"images\":1,\"link-purpose\":13}",
+  "pageviews": 6965,
+  "visits": 2857,
   "ipv6": true,
   "hostname": null,
   "cms": "Drupal",
@@ -66,11 +66,12 @@
     "https://static.addtoany.com/menu/page.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/3b4b7883/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/612f74a3/www-widgetapi.vflset/www-widgetapi.js"
   ],
   "third_party_service_count": 5,
   "cookie_domains": [
-    ".usda.gov"
+    ".usda.gov",
+    "tellus-prod.arsnet.usda.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

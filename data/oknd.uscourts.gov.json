@@ -30,7 +30,7 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "completed",
-  "page_hash": "19b00a1d0b0e6f39a323b536bae9aea2",
+  "page_hash": "1e37cf9b4e2f847bfb29f2f6aa3da8aa",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -55,7 +55,9 @@
     "https://code.jquery.com/ui/1.10.2/jquery-ui.min.js"
   ],
   "third_party_service_count": 2,
-  "cookie_domains": null,
+  "cookie_domains": [
+    ".uscourts.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "privacy"

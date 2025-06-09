@@ -34,10 +34,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "435100d973b734f941693d3d1dde6936",
+  "page_hash": "87f4f2ea2332e581b990d39ee0015ef2",
   "accessibility_violations": null,
-  "pageviews": 41858,
-  "visits": 13281,
+  "pageviews": 57776,
+  "visits": 18376,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "Drupal",
@@ -45,21 +45,33 @@
   "login": null,
   "site_search": true,
   "search_dot_gov": null,
-  "dap": false,
-  "dap_parameters": "",
-  "dap_version": "",
-  "ga_tag_id": "",
+  "dap": true,
+  "dap_parameters": {
+    "agency": "DHHS",
+    "subagency": "CMS"
+  },
+  "dap_version": "20250212 v8.6 - GA4",
+  "ga_tag_id": "G-BkTGG7w8oqfZHst,G-CSLL4ZEK4L",
   "third_party_service_domains": [
+    "adobe-ep.medicaid.gov",
+    "cdn1.adoberesources.net",
+    "dap.digitalgov.gov",
     "tags.tiqcdn.com",
-    "tealium-tags.medicaid.gov"
+    "tealium-tags.medicaid.gov",
+    "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
+    "https://adobe-ep.medicaid.gov/ee/v1/interact",
+    "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
+    "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicaid-data/prod/utag.22.js",
     "https://tags.tiqcdn.com/utag/cmsgov/medicaid-data/prod/utag.26.js",
     "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.js",
-    "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.sync.js"
+    "https://tealium-tags.medicaid.gov/medicaid-data/prod/utag.sync.js",
+    "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 2,
+  "third_party_service_count": 6,
   "cookie_domains": [
     ".medicaid.gov"
   ],
@@ -103,11 +115,11 @@
   "sitemap_xml_url": "https://data.medicaid.gov/sitemap.xml",
   "sitemap_xml_status_code": 200,
   "sitemap_xml_media_type": "application/xml",
-  "sitemap_xml_filesize": 82009,
+  "sitemap_xml_filesize": 82169,
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "ff2ee37a954123ad42f7c1a63345767b",
+  "sitemap_xml_page_hash": "37127cdabbeb713db9952ec4a5d5c7ac",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

@@ -5,7 +5,7 @@
   "initial_base_domain": "nasa.gov",
   "initial_top_level_domain": "gov",
   "redirect": false,
-  "url": "https://my.prosams.nasa.gov/login-legal-notices",
+  "url": "https://my.prosams.nasa.gov/",
   "domain": "my.prosams.nasa.gov",
   "base_domain": "nasa.gov",
   "top_level_domain": "gov",
@@ -30,7 +30,7 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "aff03782c1be27b6b6a4cdc80ae7ae7d",
+  "page_hash": "8d89455d2f3e6e4de01e9dffe1eac1d2",
   "accessibility_violations": null,
   "pageviews": null,
   "visits": null,
@@ -46,16 +46,18 @@
   "dap_version": "",
   "ga_tag_id": "",
   "third_party_service_domains": [
-    "admin.prosams.nasa.gov",
-    "images.prosams.nasa.gov"
+    "sharedapp.prosams.nasa.gov"
   ],
   "third_party_service_urls": [
-    "https://admin.prosams.nasa.gov/configurations",
-    "https://images.prosams.nasa.gov/nasa-logo-official.svg",
-    "https://images.prosams.nasa.gov/white-isotope-login.png"
+    "https://sharedapp.prosams.nasa.gov/assets/__federation_expose_Config-d03786f4.js",
+    "https://sharedapp.prosams.nasa.gov/assets/preload-helper-a7f72f97.js",
+    "https://sharedapp.prosams.nasa.gov/assets/remoteEntry.js",
+    "https://sharedapp.prosams.nasa.gov/assets/style-4a116989.css"
   ],
-  "third_party_service_count": 2,
-  "cookie_domains": null,
+  "third_party_service_count": 1,
+  "cookie_domains": [
+    ".nasa.gov"
+  ],
   "viewport_meta_tag": true,
   "required_links_url": [
     "about",
@@ -95,7 +97,7 @@
   "sitemap_xml_count": 0,
   "sitemap_xml_lastmod": null,
   "sitemap_xml_pdf_count": 0,
-  "sitemap_xml_page_hash": "aff03782c1be27b6b6a4cdc80ae7ae7d",
+  "sitemap_xml_page_hash": "8d89455d2f3e6e4de01e9dffe1eac1d2",
   "uswds_favicon": 0,
   "uswds_favicon_in_css": 0,
   "uswds_publicsans_font": 0,

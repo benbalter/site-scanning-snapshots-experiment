@@ -27,7 +27,7 @@
     "final_url_websites"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "263083e19530db6f9375e825045b7276",
-  "accessibility_violations": "{\"contrast\":7,\"link-purpose\":4}",
-  "pageviews": 2980,
-  "visits": 2228,
+  "page_hash": "47b54c4d8cacc2c8fb76628e3fb25bf0",
+  "accessibility_violations": null,
+  "pageviews": 2868,
+  "visits": 2145,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -53,18 +53,15 @@
     "sitetopic": "dma.web",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
-  "ga_tag_id": "G-CSLL4ZEK4L",
+  "dap_version": "",
+  "ga_tag_id": "",
   "third_party_service_domains": [
     "connect.facebook.net",
-    "dap.digitalgov.gov",
     "media.defense.gov",
-    "search.usa.gov",
-    "www.googletagmanager.com"
+    "search.usa.gov"
   ],
   "third_party_service_urls": [
     "https://connect.facebook.net/en_US/sdk.js",
-    "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://media.defense.gov/2021/Dec/22/2003000062/31/25/0/211222-A-PG478-0000.PNG",
     "https://media.defense.gov/2021/Dec/22/2003000062/636/305/0/211222-A-PG478-0000.PNG",
     "https://media.defense.gov/2022/Aug/16/2003058139/31/25/0/220816-A-PG478-001.PNG",
@@ -90,10 +87,9 @@
     "https://search.usa.gov/assets/sayt.css",
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
-    "https://search.usa.gov/javascripts/remote.loader.js",
-    "https://www.googletagmanager.com/gtag/js"
+    "https://search.usa.gov/javascripts/remote.loader.js"
   ],
-  "third_party_service_count": 5,
+  "third_party_service_count": 3,
   "cookie_domains": [
     ".army.mil",
     ".cyberdefensereview.army.mil",

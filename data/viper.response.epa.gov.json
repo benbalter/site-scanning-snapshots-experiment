@@ -5,7 +5,7 @@
   "initial_base_domain": "epa.gov",
   "initial_top_level_domain": "gov",
   "redirect": true,
-  "url": "https://fs.response.epa.gov/adfs/oauth2/authorize?client_id=99276037-b712-4ad4-a348-3db838ffc7c4&scope=openid%20user_impersonation%20allatclaims&response_type=code&redirect_uri=https%3A%2F%2Fviper.response.epa.gov%2Fdm2%2Fsignin-usepa_ert&state=CfDJ8KLCpqCwYIdJq6J3qzkJTsQHXPTgTJnrQ1PRFU5j9jwCoadCydsOPyZJYBSqUYLBJEnKwEO-xB_f5SOyLhEM_q7Pic3U1rD0QgxcaKToz_vGIf6mBYLjebAV5m0GrHoVFbYQMsp98Jen_8JOJCemE-r5M5weGMIphKs-Dx_4_V6QhhCgtWwlYRT2dmhKgCuCQi-sS_ZpOzYMVGOVsc7nMZc",
+  "url": "https://fs.response.epa.gov/adfs/oauth2/authorize?client_id=99276037-b712-4ad4-a348-3db838ffc7c4&scope=openid%20user_impersonation%20allatclaims&response_type=code&redirect_uri=https%3A%2F%2Fviper.response.epa.gov%2Fdm2%2Fsignin-usepa_ert&state=CfDJ8IYrAOvrrsFHg91VaKt_FaY4BekZgTGjAnfr3DUXir8zohdsnxoXf05VOKFafvZ-mu1ZdjBFOXUqvLvFaEFFxq6mlP9gVwIErEf93x8IrYR4B-PxxNGedB2HxuqXYcvDKA3H14-Fq95T0InQhfoqDcEgF07DJbuBvJfbo0f7Vw-8vipHepUYUMw0n5qnm0LvZtZddeV2DiM010cka-NevjM",
   "domain": "fs.response.epa.gov",
   "base_domain": "epa.gov",
   "top_level_domain": "gov",
@@ -51,9 +51,7 @@
   "third_party_service_domains": null,
   "third_party_service_urls": null,
   "third_party_service_count": 0,
-  "cookie_domains": [
-    ".epa.gov"
-  ],
+  "cookie_domains": null,
   "viewport_meta_tag": true,
   "required_links_url": null,
   "required_links_text": null,

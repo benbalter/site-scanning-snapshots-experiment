@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "264546e0a6b76a5b7d936e918e45e439",
+  "page_hash": "d8d7e48a94f8a6d1efa69b1a368b4ad5",
   "accessibility_violations": null,
-  "pageviews": 1018312,
-  "visits": 63237,
+  "pageviews": 1051592,
+  "visits": 64336,
   "ipv6": false,
   "hostname": null,
   "cms": null,
@@ -70,6 +70,7 @@
   "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-JWDVKQK5V7,UA-36351725-9,G-CSLL4ZEK4L,UA-68925074-3",
   "third_party_service_domains": [
+    "analytics.google.com",
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
@@ -81,23 +82,26 @@
     "www.youtube.com"
   ],
   "third_party_service_urls": [
+    "https://analytics.google.com/g/collect",
     "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
-    "https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
     "https://www.google-analytics.com/analytics.js",
     "https://www.google-analytics.com/j/collect",
     "https://www.google.com/recaptcha/api.js",
     "https://www.googletagmanager.com/gtag/js",
     "https://www.googletagmanager.com/gtm.js",
-    "https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/GUGrl5YkSwqiWrzO3ShIKDlu/recaptcha__en.js",
     "https://www.hhs.gov/utilities/cbh/cobranded-header.css",
     "https://www.hhs.gov/utilities/cbh/cobranded-header.js",
+    "https://www.hhs.gov/utilities/cbh/images/close-icon.png",
+    "https://www.hhs.gov/utilities/cbh/images/expand-collapse-icon.png",
     "https://www.hhs.gov/utilities/cbh/images/logo.png",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/91e7c654/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/612f74a3/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 10,
   "cookie_domains": [
     ".hhs.gov",
     "thinkculturalhealth.hhs.gov"

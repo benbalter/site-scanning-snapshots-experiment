@@ -32,8 +32,8 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "b3df961eeed194f306d8f9ad5d15a9e3",
-  "accessibility_violations": "{\"contrast\":6}",
+  "page_hash": "5a54647cc97b396f7f96ad6d33f9fe87",
+  "accessibility_violations": "{\"contrast\":6,\"link-purpose\":3}",
   "pageviews": null,
   "visits": null,
   "ipv6": true,
@@ -49,7 +49,6 @@
   "ga_tag_id": "",
   "third_party_service_domains": [
     "admin-jasonsmith.house.gov",
-    "external-iad3-1.xx.fbcdn.net",
     "fonts.googleapis.com",
     "i.ytimg.com",
     "pbs.twimg.com",
@@ -60,10 +59,8 @@
   ],
   "third_party_service_urls": [
     "https://admin-jasonsmith.house.gov/wp-admin/admin-ajax.php",
-    "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/4555978431769025217",
-    "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/7244559742952453051",
     "https://fonts.googleapis.com/css",
-    "https://i.ytimg.com/vi/nQ9IGIhb6HI/sddefault.jpg",
+    "https://i.ytimg.com/vi/FGKFN17ZQ2E/sddefault.jpg",
     "https://pbs.twimg.com/ext_tw_video_thumb/1879903406673797121/pu/img/eUmjO2nQRLKuW79v.jpg",
     "https://pbs.twimg.com/media/GhXB3AyXcAAo40c.jpg",
     "https://pbs.twimg.com/media/GhXn1G2WoAAM4MQ.jpg",
@@ -71,15 +68,17 @@
     "https://pbs.twimg.com/profile_images/1622283372008439809/XSg4-ieG_normal.jpg",
     "https://pbs.twimg.com/profile_images/1877085039948668928/f4AibqzY_normal.jpg",
     "https://pbs.twimg.com/profile_images/626470918844510208/euUPDXLw_normal.png",
+    "https://s.w.org/images/core/emoji/15.1.0/svg/1f923.svg",
     "https://s.w.org/images/core/emoji/15.1.0/svg/2705.svg",
+    "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/504019653_1426321105035214_1182973694230243306_n.jpg",
     "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/495089893_1225970052232190_2615242763974225154_n.jpg",
-    "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/500059779_1237327817763080_2972995480073738757_n.jpg",
     "https://video.twimg.com/ext_tw_video/1879903406673797121/pu/vid/avc1/1280x720/ZtEehfhgye26_AhV.mp4",
     "https://www.youtube.com/iframe_api",
-    "https://www.youtube.com/s/player/3b4b7883/www-widgetapi.vflset/www-widgetapi.js"
+    "https://www.youtube.com/s/player/612f74a3/www-widgetapi.vflset/www-widgetapi.js"
   ],
-  "third_party_service_count": 9,
+  "third_party_service_count": 8,
   "cookie_domains": [
+    ".house.gov",
     "jasonsmith.house.gov"
   ],
   "viewport_meta_tag": true,

@@ -35,10 +35,10 @@
   "security_scan_status": "unknown_error",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "connection_refused",
-  "page_hash": "0be239b5f80629dcf1dc803b787e5cfe",
+  "page_hash": "e4782cc6d78a8d623fd35a86e11ebdf7",
   "accessibility_violations": "{\"user-control-name\":1,\"frames-iframes\":2,\"link-purpose\":1}",
-  "pageviews": 84028,
-  "visits": 42106,
+  "pageviews": 84078,
+  "visits": 41579,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -54,7 +54,7 @@
     "dclink": "true",
     "pga4": "G-YXM6JBZZKV"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-YXM6JBZZKV,G-CSLL4ZEK4L,G-YT82FJTERG",
   "third_party_service_domains": [
     "d34w7g4gy10iej.cloudfront.net",
@@ -65,8 +65,8 @@
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
-    "https://d34w7g4gy10iej.cloudfront.net/audio/2505/DOD_110996525.mp3",
     "https://d34w7g4gy10iej.cloudfront.net/audio/2505/DOD_111016314.mp3",
+    "https://d34w7g4gy10iej.cloudfront.net/audio/2505/DOD_111034001.mp3",
     "https://dap.digitalgov.gov/web-vitals/dist/web-vitals.attribution.iife.js",
     "https://fonts.googleapis.com/css",
     "https://search.usa.gov/assets/sayt.css",
@@ -79,7 +79,9 @@
   ],
   "third_party_service_count": 6,
   "cookie_domains": [
-    ".army.mil"
+    ".army.mil",
+    ".history.army.mil",
+    "history.army.mil"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

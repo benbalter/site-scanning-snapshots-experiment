@@ -36,10 +36,10 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "3918573c29ada811e0758c76e2f5238b",
+  "page_hash": "9289246e2ba0577c5a9eadd67a4cae09",
   "accessibility_violations": "{\"user-control-name\":1}",
-  "pageviews": 3371,
-  "visits": 2665,
+  "pageviews": 3122,
+  "visits": 2460,
   "ipv6": true,
   "hostname": "edgekey.net",
   "cms": "DNN",
@@ -54,12 +54,13 @@
     "sitetopic": "dma.web",
     "dclink": "true"
   },
-  "dap_version": "20241218 v8.5 - GA4",
+  "dap_version": "20250212 v8.6 - GA4",
   "ga_tag_id": "G-Grey2,G-CSLL4ZEK4L",
   "third_party_service_domains": [
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "search.usa.gov",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -69,12 +70,14 @@
     "https://search.usa.gov/assets/sayt_loader.js",
     "https://search.usa.gov/assets/sayt_loader_libs.js",
     "https://search.usa.gov/javascripts/remote.loader.js",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".defense.gov",
-    ".jsc.defense.gov"
+    ".jsc.defense.gov",
+    "jsc.defense.gov"
   ],
   "viewport_meta_tag": true,
   "required_links_url": [

@@ -24,7 +24,7 @@
     "cisa"
   ],
   "primary_scan_status": "completed",
-  "accessibility_scan_status": "completed",
+  "accessibility_scan_status": "timeout",
   "dns_scan_status": "completed",
   "not_found_scan_status": "completed",
   "performance_scan_status": "completed",
@@ -32,9 +32,9 @@
   "security_scan_status": "completed",
   "sitemap_xml_scan_status": "completed",
   "www_scan_status": "dns_resolution_error",
-  "page_hash": "84436a3f683d8a43d71e1e7407ff9433",
-  "accessibility_violations": "{\"aria\":5,\"lists\":1}",
-  "pageviews": 127212,
+  "page_hash": "d6966fa07a1f2542b6bdcd7ffa2ffada",
+  "accessibility_violations": null,
+  "pageviews": 127240,
   "visits": 100222,
   "ipv6": true,
   "hostname": null,
@@ -54,6 +54,7 @@
     "dap.digitalgov.gov",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
+    "www.google-analytics.com",
     "www.googletagmanager.com"
   ],
   "third_party_service_urls": [
@@ -62,9 +63,10 @@
     "https://fonts.googleapis.com/css",
     "https://fonts.gstatic.com/s/librefranklin/v19/jizBREVItHgc8qDIbSTKq4XkRiUa6zUTjnTLgNs.woff2",
     "https://fonts.gstatic.com/s/librefranklin/v19/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2",
+    "https://www.google-analytics.com/g/collect",
     "https://www.googletagmanager.com/gtag/js"
   ],
-  "third_party_service_count": 4,
+  "third_party_service_count": 5,
   "cookie_domains": [
     ".nasa.gov"
   ],
